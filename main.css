@@ -331,7 +331,7 @@ img:hover{
     -o-animation: fadein 2s ease-in;
     animation: fadein 2s ease-in;
 }
-.aboutmetext{
+.aboutmetext, .contactText{
     font-weight: 300;
     margin-left: 5vw;
     font-size: 1em;
@@ -412,6 +412,7 @@ img:hover{
 }
 #contacticonholder{
         margin-left: 5vw;
+        margin-top: 3vw;
         width: 7vw;
         flex-wrap: nowrap;
         display: flex;
