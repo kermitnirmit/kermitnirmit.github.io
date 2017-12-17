@@ -271,7 +271,7 @@ i:hover{
     transform: translate3d(1rem, 0, 0);
 } */
 #iconholder{
-    width: 12vw;
+    width: 16vw;
     flex-wrap: nowrap;
     display: flex;
     flex-direction: row;
@@ -319,7 +319,7 @@ img:hover{
 }
 #aboutmeiconholder{
         margin-left: 5vw;
-        width: 7vw;
+        width: 10vw;
         flex-wrap: nowrap;
         display: flex;
         flex-direction: row;
@@ -384,7 +384,7 @@ img:hover{
 #contacticonholder{
         margin-left: 5vw;
         margin-top: 3vw;
-        width: 7vw;
+        width: 10vw;
         flex-wrap: nowrap;
         display: flex;
         flex-direction: row;
