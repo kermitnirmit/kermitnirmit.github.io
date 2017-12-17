@@ -3,22 +3,7 @@ html, body {
     height: 100%;
 }
 
-@media screen and (max-width: 2048px) {
-    h1{
-        font-size: 28pt;
-        white-space: nowrap;
-        -webkit-animation: fadein 2s ease-in; /* Safari, Chrome and Opera > 12.1 */
-        -moz-animation: fadein 2s ease-in; /* Firefox < 16 */
-        -ms-animation: fadein 2s ease-in; /* Internet Explorer */
-        -o-animation: fadein 2s ease-in; /* Opera < 12.1 */
-        animation: fadein 2s ease-in;
-        margin-bottom: 30px;
-    }
-    h3{
-        text-align: center;
-        color: #FF0000;
-    }
-}
+
 
 nav ul li{
     display: inline-block;
