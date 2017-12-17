@@ -3,7 +3,7 @@ html, body {
     height: 100%;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 2048px) {
     h1{
         font-size: 28pt;
         white-space: nowrap;
