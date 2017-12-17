@@ -12,6 +12,11 @@ nav ul li{
     position:relative;
     margin: 0px;
 }
+@media screen and (min-width: 400px) {
+    body {
+        background-color: lightgreen;
+    }
+}
 @import url('https://fonts.googleapis.com/css?family=Josefin+Sans:300,400,600');
 body {
     margin: 0px;
