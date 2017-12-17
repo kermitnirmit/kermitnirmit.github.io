@@ -12,7 +12,7 @@ html, body {
         -ms-animation: fadein 2s ease-in; /* Internet Explorer */
         -o-animation: fadein 2s ease-in; /* Opera < 12.1 */
         animation: fadein 2s ease-in;
-        margin-bottom: 30px
+        margin-bottom: 30px;
     }
 }
 
