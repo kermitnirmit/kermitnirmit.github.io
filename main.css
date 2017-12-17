@@ -3,7 +3,18 @@ html, body {
     height: 100%;
 }
 
-
+@media screen and (max-width: 1024px) {
+    h1{
+        font-size: 28pt;
+        white-space: nowrap;
+        -webkit-animation: fadein 2s ease-in; /* Safari, Chrome and Opera > 12.1 */
+        -moz-animation: fadein 2s ease-in; /* Firefox < 16 */
+        -ms-animation: fadein 2s ease-in; /* Internet Explorer */
+        -o-animation: fadein 2s ease-in; /* Opera < 12.1 */
+        animation: fadein 2s ease-in;
+        margin-bottom: 30px
+    }
+}
 
 nav ul li{
     display: inline-block;
@@ -33,11 +44,6 @@ body {
     flex-direction: column;
 }
 h1{
-    /*position: absolute;
-    top: 30%;
-    margin-left: 50%;
-    transform: translate(-50%, -50%);
-    margin-right: 50%; */
     font-size: 56pt;
     white-space: nowrap;
     -webkit-animation: fadein 2s ease-in; /* Safari, Chrome and Opera > 12.1 */
