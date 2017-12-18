@@ -16,8 +16,8 @@ nav ul li{
 body {
     margin: 0px;
     font-family: 'Josefin Sans', sans-serif;
-    background-color: #070707;
-    color:white;/* color of nirmit shah text */
+    background-color: #f7f3e4;
+    color:#48422e;/* color of hi i'm text */
     overflow-x: hidden; /* Disable horizontal scroll */
     overflow-y: hidden;
 
@@ -141,7 +141,7 @@ h3{
     z-index: 1; /* Stay on top */
     top: 0;
     left: 0;
-    background-color: #EDEDED; /* Black*/
+    background-color: #575243; /* Black*/
     overflow-x: hidden; /* Disable horizontal scroll */
     line-height: 24px;
     transition: 0.4s; /* 0.5 second transition effect to slide in the sidenav */
@@ -151,7 +151,7 @@ h3{
     margin-left: 0%;
     text-decoration: none;
     font-size: 12px;
-    color: black;
+    color: #f7f3e4;
     display: block;
     transition: 0.3s;
     white-space: nowrap;
@@ -173,7 +173,7 @@ h3{
 #centerline {
     width: 3vw;
     height: 2px;
-    background: white;
+    background: #48422e;
     /*position: absolute;
     margin-left: 50%;
     top: 46%;

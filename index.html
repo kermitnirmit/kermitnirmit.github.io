@@ -1,10 +1,29 @@
 <!DOCTYPE html>
 
 <head>
-    <link rel="stylesheet" href="mobile.css"type="text/css" media="screen and (max-device-width : 480px)" rel="stylesheet"/>
-    <link rel="stylesheet" href="main.css">
+    <!-- <link rel="stylesheet" href="day.css"> -->
     <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:300,400,600" rel="stylesheet">
     <link rel="stylesheet" href="./css/mfglabs_iconset.css">
+    <script>
+function getStylesheet() {
+      var currentTime = new Date().getHours();
+      if (0 <= currentTime&&currentTime < 7) {
+       document.write("<link rel='stylesheet' href='main.css' type='text/css'>");
+      }
+      if (7 <= currentTime&&currentTime < 19) {
+       document.write("<link rel='stylesheet' href='day.css' type='text/css'>");
+      }
+      if (19 <= currentTime&&currentTime <= 24) {
+       document.write("<link rel='stylesheet' href='main.css' type='text/css'>");
+      }
+
+}
+
+getStylesheet();
+
+</script>
+
+<noscript><link href="main.css" rel="stylesheet"></noscript>
     <script src="nav.js"></script>
     <title> Nirmit Shah </title>
     <meta name="viewport" content="user-scalable=0, width=device-width, initial-scale=1">
