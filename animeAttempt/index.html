@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,
+        initial-scale = 1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <script src="http://code.jquery.com/jquery-latest.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.2.0/anime.min.js">
+    </script>
+    <script src="main.js"></script>
+    <title>Nirmit Shah</title>
+</head>
+    <script src="http://code.jquery.com/jquery-latest.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.2.0/anime.min.js">
+    </script>
+    <script src="main.js"></script>
+    <title>Nirmit Shah</title>
+</head>
+<body>
+  <div class="container">
+    <h1 class="ml15">
+      <span class="word">hi</span>
+      <span class="word">i'm</span>
+      <span class="word" id="name">nirmit</span>
+    </h1>
+    <br></br>
+  </div>
+</body>
+<script>
+function refreshData()
+{
+    x = 1;  // x = seconds
+ 	var d = new Date()
+ 	var h = d.getHours();
+ 	var m = d.getMinutes();
+ 	var s = d.getSeconds();
+
+ 	if (h<=9) {h = '0'+h};
+ 	if (m<=9) {m = '0'+m};
+	if (s<=9) {s = '0'+s};
+
+ 	var	color = '#'+h+m+s;
+
+    $("body").css("background-color", color );
+
+    setTimeout(refreshData, x*1000);
+}
+
+refreshData(); // execute function
+</script>
+</html>

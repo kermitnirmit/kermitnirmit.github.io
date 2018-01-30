@@ -40,7 +40,7 @@ h1{
     -ms-animation: fadein 2s ease-in; /* Internet Explorer */
     -o-animation: fadein 2s ease-in; /* Opera < 12.1 */
     animation: fadein 2s ease-in;
-    margin-bottom: 30px
+    margin-bottom: 30px;
 }
 .link{
     outline: none;
@@ -82,11 +82,11 @@ h1{
 
 .link--nirmit:hover::before {
 	width: 100%;
-}
+} */
 /*.nirmit{
     color: #C10101;
     text-decoration: none;
-}*/
+}
 .nirmit:hover ~ #aboutmebox1{
     opacity: 1;
 }
