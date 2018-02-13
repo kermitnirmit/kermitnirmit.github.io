@@ -12,7 +12,7 @@ nav ul li{
     position:relative;
     margin: 0px;
 }
-@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:300,400,600');
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:100,300,600');
 body {
     margin: 0px;
     font-family: 'Josefin Sans', sans-serif;
@@ -40,11 +40,11 @@ h1{
     -ms-animation: fadein 2s ease-in; /* Internet Explorer */
     -o-animation: fadein 2s ease-in; /* Opera < 12.1 */
     animation: fadein 2s ease-in;
-    margin-bottom: 30px
+    margin-bottom: 30px;
 }
 .link{
     outline: none;
-    font-weight: 300;
+    font-weight: 100;
 	text-decoration: none;
 	line-height: 1;
 	color: #C10101;
