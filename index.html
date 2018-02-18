@@ -9,13 +9,13 @@
 function getStylesheet() {
       var currentTime = new Date().getHours();
       if (0 <= currentTime&&currentTime < 7) {
-       document.write("<link rel='stylesheet' href='main.css' type='text/css'>");
+       document.write("<link rel='stylesheet' href='style.css' type='text/css'>");
       }
       if (7 <= currentTime&&currentTime < 19) {
-       document.write("<link rel='stylesheet' href='day.css' type='text/css'>");
+       document.write("<link rel='stylesheet' href='css/day.css' type='text/css'>");
       }
       if (19 <= currentTime&&currentTime <= 24) {
-       document.write("<link rel='stylesheet' href='main.css' type='text/css'>");
+       document.write("<link rel='stylesheet' href='css/style.css' type='text/css'>");
       }
 
 }
@@ -24,8 +24,8 @@ getStylesheet();
 
 </script>
 
-<noscript><link href="main.css" rel="stylesheet"></noscript>
-    <script src="nav.js"></script>
+<noscript><link href="css/style.css" rel="stylesheet"></noscript>
+    <script src="js/nav.js"></script>
     <title> Nirmit Shah </title>
     <meta name="viewport" content="user-scalable=0, width=device-width, initial-scale=1">
     <div id="sideNavigation" class="sidenav">
@@ -48,20 +48,21 @@ getStylesheet();
 
 </head>
 <body id="mainhub">
+    <!-- <div id="particles-js"> </div>
+    <script src='https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js'></script>
+    <script src="js/particles.js"></script> -->
     <div class="container">
-        <h1>hi, i'm <a href="aboutme.html" class="link link--nirmit" data-letters="nirmit"
-                data-animation-delay="1400">nirmit</a>
+        <h1>hi, i'm <a href="aboutme.html" class="link link--nirmit" data-letters="nirmit" >nirmit</a>
         </h1>
 
 
         <div id="centerline"></div>
 
         <h2 id="describerline"> Student, Engineer, Designer </h2>
-
+        <div></div>
         <div id="iconholder">
-            <a class="facebook" href="https://www.facebook.com/nirmitshah13" target="_blank"><i class="icon-facebook" id="logo"></i></a>
             <a class="github" id="githublogo" href="https://github.com/kermitnirmit" target="_blank"><i class="icon-octopus" id="logo"></i></a>
-            <!-- class="twitter" id="twitterlogo" href="https://twitter.com/kermitnirmit"><i class="icon-twitter" id="logo"></i></a> -->
+            <a class="twitter" id="twitterlogo" href="https://resume.creddle.io/resume/7dhjb1psy1i"><i class="icon-user_male" id="logo"></i></a>
             <a class="linkedin" id="linkedinlogo" href="https://www.linkedin.com/in/nirmit-shah-b6b957a2/"
                 target="_blank"><i class="icon-linked_in" id="logo"></i></a>
             <!--<a class="instagram" id="instagramlogo" href="https://www.instagram.com/kermitnirmit/"><i class="icon-instagram" id="logo"></i></a> -->
