@@ -234,7 +234,7 @@ img:hover{
     font-weight: 300;
     margin-left: 5vw;
     font-size: 1em;
-    width: 25vw;
+    /* width: 40%; */
     margin-bottom: .5vw;
 }
 #secondParagraph{
@@ -345,4 +345,5 @@ h2 {
 }
 .iconholder {
     -webkit-animation-delay: 1s;
+    -webkit-animation-duration: 4s;
 }
