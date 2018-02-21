@@ -33,7 +33,8 @@ body {
     flex-direction: column;
 }
 h1{
-    font-size: 56pt;
+    /* font-size: 56pt; */
+    font-size: 5vmax;
     white-space: nowrap;
     margin-bottom: 30px;
     z-index: 1;
@@ -134,7 +135,7 @@ h3{
     margin-left: 50px;
 }
 #centerline {
-    width: 3vw;
+    width: 3vmax;
     height: 2px;
     background: white;
     z-index: 1;
@@ -152,6 +153,7 @@ h3{
 }
 h2 {
     font-style:italic;
+    font-size: 1.5vmax;
     white-space: nowrap;
     margin-top: 40px;
     margin-bottom: 30px;
@@ -207,7 +209,7 @@ i:hover{
     transform: translate3d(1rem, 0, 0);
 } */
 #iconholder{
-    width: 16vw;
+    width: 16vmax;
     flex-wrap: nowrap;
     display: flex;
     flex-direction: row;
