@@ -33,6 +33,9 @@
     b {
         color: #36e8f9;
     }
+    te {
+        color:#B3A369;
+    }
     p {
         font-size: 2rem;
         line-height: 3rem;
@@ -196,6 +199,7 @@
     }
     .bottomtext {
         width: 90vw;
+        margin-left: 5vmin;
     }
     
     @import url('https://fonts.googleapis.com/css?family=Josefin+Sans:100,300,600');
@@ -209,12 +213,16 @@
     b {
         color: #36e8f9;
     }
+    te {
+        color:#B3A369;
+    }
     p {
         font-size: 2rem;
         line-height: 3rem;
     }
     h2 {
         margin-top: 5vmax;
+        margin-left: 5vmin;
     }
     h2, p {
         color: #515151;
@@ -342,3 +350,4 @@
         margin-left: 5vw;
     }
 }
+
