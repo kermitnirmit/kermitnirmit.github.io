@@ -80,7 +80,18 @@
         border-bottom: 1px solid #ff3d3d;
         padding-bottom: 1px;
     }
-    
+    .cyanLink {
+        color: #36f9a7;
+        text-decoration: none;
+        border-bottom: 1px solid #36f9a7;
+        padding-bottom: 1px;
+    }
+    .purpleLink {
+        color: #9e36f9;
+        text-decoration: none;
+        border-bottom: 1px solid #9e36f9;
+        padding-bottom: 1px;
+    }
     .container{
         width: 100%;
         height: 100%;
@@ -236,6 +247,18 @@
         color: #ffe923;
         text-decoration: none;
         border-bottom: 1px solid #ffe923;
+        padding-bottom: 1px;
+    }
+    .cyanLink {
+        color: #36f9a7;
+        text-decoration: none;
+        border-bottom: 1px solid #36f9a7;
+        padding-bottom: 1px;
+    }
+    .purpleLink {
+        color: #9e36f9;
+        text-decoration: none;
+        border-bottom: 1px solid #9e36f9;
         padding-bottom: 1px;
     }
     .redLink {
