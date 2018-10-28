@@ -1,3 +1,4 @@
+/* Desktop/large screens */
 @media screen and (min-width: 800px) {
     html, body {
         width: 100%;
@@ -171,6 +172,8 @@
     }
 }
 
+
+/* Mobile Screens */
 @media screen and (max-width: 799px) {
     html, body {
         width: 100%;
@@ -191,7 +194,6 @@
         background-color: #222222;
         color:white;/* color of nirmit shah text */
         overflow-x: hidden; /* Disable horizontal scroll */
-        overflow-y: hidden;
     }
     b {
         color: #36e8f9;
