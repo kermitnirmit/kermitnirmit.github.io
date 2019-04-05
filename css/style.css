@@ -30,8 +30,11 @@
         overflow-x: hidden; /* Disable horizontal scroll */
       
     }
-    b {
-        color: #36e8f9;
+    comp {
+        color: #e9233a;
+    }
+    comp2 {
+        color: #ffffff;
     }
     te {
         color:#B3A369;
@@ -45,7 +48,7 @@
         margin-top: 5vmax;
     }
     h2, p {
-        color: #515151;
+        color: #8a8a8a;
         font-family: 'Josefin Sans', sans-serif;
         font-weight: 100;
     }
@@ -210,8 +213,11 @@
         color:white;/* color of nirmit shah text */
         overflow-x: hidden; /* Disable horizontal scroll */
     }
-    b {
-        color: #36e8f9;
+    comp {
+        color: #e9233a;
+    }
+    comp2 {
+        color: #ffffff;
     }
     te {
         color:#B3A369;
@@ -225,7 +231,7 @@
         margin-left: 5vmin;
     }
     h2, p {
-        color: #515151;
+        color: #8a8a8a;
         font-family: 'Josefin Sans', sans-serif;
         font-weight: 100;
     }
