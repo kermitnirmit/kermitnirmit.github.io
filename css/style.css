@@ -6,7 +6,7 @@
     }
     
     #iconholder {
-        width: 35vw;
+        width: 40vw;
         margin-left: 5vmax; 
     }
     .bottomtext {
@@ -69,6 +69,7 @@
     h2 span:nth-child(8) { animation-duration: 18s; }
     h2 span:nth-child(9) { animation-duration: 25s; }
     h2 span:nth-child(10) { animation-duration: 21s; }
+    h2 span:nth-child(11) { animation-duration: 17s; }
     
     @keyframes blink {
         from { color: #149870; }
