@@ -81,6 +81,12 @@
         from { color: #149870; }
         to   { color: #515151; }
     }
+    .twitterLink {
+        color: #1DA1F2;
+        text-decoration: none;
+        border-bottom: 1px solid #1DA1F2;
+        padding-bottom: 1px;
+    }
     .yellowLink {
         color: #ffe923;
         text-decoration: none;
@@ -270,6 +276,12 @@
     @keyframes blink {
         from { color: #149870; }
         to   { color: #515151; }
+    }
+    .twitterLink {
+        color: #1DA1F2;
+        text-decoration: none;
+        border-bottom: 1px solid #1DA1F2;
+        padding-bottom: 1px;
     }
     .yellowLink {
         color: #ffe923;
