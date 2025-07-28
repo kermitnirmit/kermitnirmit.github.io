@@ -335,15 +335,15 @@ img:hover{
 
 /* animations */
 h1 {
-    -webkit-animation-delay: 1.5s;
-}
-h2 {
     -webkit-animation-delay: 0.5s;
 }
+h2 {
+    -webkit-animation-delay: 0.2s;
+}
 .centerline {
-    -webkit-animation-delay: 1s;
+    -webkit-animation-delay: 0.5s;
 }
 .iconholder {
-    -webkit-animation-delay: 1s;
+    -webkit-animation-delay: 0.5s;
     -webkit-animation-duration: 4s;
 }
