@@ -1,337 +1,405 @@
-html, body {
-    width: 100%;
-    height: 100%;
-}
-
-
-
-nav ul li{
-    display: inline-block;
-    list-style-type: none;
-    padding-right: 10px;
-    position:relative;
-    margin: 0px;
-}
-@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:100,300,600');
-body {
-    margin: 0px;
-    font-family: 'Josefin Sans', sans-serif;
-    background-color: #070707;
-    color:white;/* color of nirmit shah text */
-    overflow-x: hidden; /* Disable horizontal scroll */
-    overflow-y: hidden;
-
-}
-.container{
-    width: 100%;
-    height: 100%;
-    display: flex;
-    top: 0;
-    left: 0;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-}
-h1{
-    /* font-size: 56pt; */
-    font-size: 5vmax;
-    white-space: nowrap;
-    margin-bottom: 30px;
-    z-index: 1;
-}
-.link{
-    outline: none;
-    font-weight: 100;
-	text-decoration: none;
-	line-height: 1;
-	color: #C10101;
-	display: inline-block;
-}
-.link--nirmit:hover {
-	color: #840101;
-}
-.link--nirmit::after {
-	content: '';
-	position: absolute;gi
-	height: 16px;
-	width: 100%;
-	top: 50%;
-	margin-top: -8px;
-	right: 0;
-	background: #C10101;
-	transform: translate3d(-100%,0,0);
-	transition: transform 0.2s;
-	transition-timing-function: cubic-bezier(0.5,0,0.3,0.5);
-}
-.link--nirmit:hover::after {
-	transform: translate3d(100%,0,0);
-}
-.link--nirmit::before {
-	content: attr(data-letters);
-	position: absolute;
-	z-index: 2;
-	overflow: hidden;
-	color: #C10101;
-	white-space: nowrap;
-	width: 0%;
-	transition: width 0.3s 0.2s;
-}
-
-.link--nirmit:hover::before {
-	width: 100%;
-}
-/*.nirmit{
-    color: #C10101;
-    text-decoration: none;
-}*/
-h3{
-    text-align: center;
-    color: #C10101;
-}
-#particles-js {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  background-color: #070707;
-  background-image: url("");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: 50% 50%;
-}
-.sidenav {
-    height: 100%; /* 100% Full-height */
-    width: 0; /* 0 width - change this with JavaScript */
-    position: fixed; /* Stay in place */
-    z-index: 1; /* Stay on top */
-    top: 0;
-    left: 0;
-    background-color: #EDEDED; /* Black*/
-    overflow-x: hidden; /* Disable horizontal scroll */
-    line-height: 24px;
-    transition: 0.4s; /* 0.5 second transition effect to slide in the sidenav */
-}
-.sidenav a {
-    padding: 8px 8px 8px 32px;
-    margin-left: 0%;
-    text-decoration: none;
-    font-size: 12px;
-    color: black;
-    display: block;
-    transition: 0.3s;
-    white-space: nowrap;
-}
-.sidenav a:hover, .offcanvas a:focus{
-    color: #C10101;
-    transform: translate3d(1rem, 0, 0);
-}
-#mainhub {
-    transition: margin-left .9s;
-}
-.sidenav .closebtn {
-    position: absolute;
-    top: 0;
-    right: 25px;
-    font-size: 36px;
-    margin-left: 50px;
-}
-#centerline {
-    width: 3vmax;
-    height: 2px;
-    background: white;
-    z-index: 1;
-}
-#menuopener{
-    position: absolute;
-    top: 50%;
-    padding-left: 10px;
-    color: #C10101;
-    font-size: 2em;
-}
-#sidemenuitems{
-    position: absolute;
-    top: 50%;
-}
-h2 {
-    font-style:italic;
-    font-size: 1.5vmax;
-    white-space: nowrap;
-    margin-top: 40px;
-    margin-bottom: 30px;
-    z-index: 1;
-}
-#iconholder a {
-    height: 24px;
-    width: 24px;
-    display: block;
-}
-#logo{
-    color: #c10101;
-    font-size: 1.5em;
-    transition: margin-left .9s;
-}
-#twitterlogo{
-    transition: margin-left .9s;
-}
-#githublogo{
-    transition: margin-left .9s;
-}
-#linkedinlogo{
-    transition: margin-left .9s;
-}
-#instagramlogo{
-    transition: margin-left .9s;
-}
-body ul li{
-    display: inline;
-    position: relative;
-    text-align: center;
-    white-space: nowrap;
-    left: 50%;
-    margin-left: 75px;
-}
-#icons{
-    /*position: absolute;
-    top: 55%;
-    right: 55%; */
-}
-/*#logo:hover{
-    transform: scale(1.3);
-}*/
-i{
-    position:fixed;
-}
-i:hover{
-    transform: scale(1.3);
-    color: #FF1111;
-}
-
-/*.icon-facebook:hover{
-    transform: translate3d(1rem, 0, 0);
-} */
-#iconholder{
-    width: 16vmax;
-    flex-wrap: nowrap;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    white-space: nowrap;
-}
-img:hover{
-    transform: scale(1.3);
-}
-.aboutmecontainer{
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-}
-.aboutmeheader{
-    margin-left: 5vw;
-    margin-top: 5vw;
-    margin-bottom: 1vw;
-    font-size: 2.5em;
-}
-.aboutmetext, .contactText{
-    font-weight: 300;
-    margin-left: 5vw;
-    font-size: 1em;
-    /* width: 40%; */
-    margin-bottom: .5vw;
-}
-#secondParagraph{
-    margin-bottom: 1vw;
-}
-#aboutmeiconholder{
-        margin-left: 5vw;
-        width: 10vw;
+/* Desktop/large screens */
+@media screen and (min-width: 800px) {
+    html, body {
+        width: 100%;
+        height: 100%;
+    }
+    
+    #iconholder {
+        width: 40vw;
+        margin-left: 5vmax; 
+    }
+    .bottomtext {
+        width: 40vw;
+        margin-left: 5vmax;
+    }
+    
+    nav ul li{
+        display: inline-block;
+        list-style-type: none;
+        padding-right: 10px;
+        position:relative;
+        margin: 0px;
+    }
+    @import url('https://fonts.googleapis.com/css?family=Josefin+Sans:100,300,600');
+    body {
+        margin: 0px;
+        font-family: 'Josefin Sans', sans-serif;
+        background-color: #1d1d1d;
+        color:white;/* color of nirmit shah text */
+        overflow-x: hidden; /* Disable horizontal scroll */
+      
+    }
+    comp {
+        color: #e9233a;
+    }
+    comp2 {
+        color: #ffffff;
+    }
+    comp3 {
+        color: #ff00bf;
+    }
+    comp4 {
+        color: #D13739;
+    }
+    compblock {
+        color: #EFC04E;
+    }
+    compcashapp {
+        color: #6EDA51
+    }
+    compcitadel {
+        color: #184077
+    }
+    te {
+        color:#B3A369;
+    }
+    p {
+        font-size: 2rem;
+        line-height: 3rem;
+    }
+    h2 {
+        margin-left: 5vmax;
+        margin-top: 5vmax;
+    }
+    h2, p {
+        color: #979797;
+        font-family: 'Josefin Sans', sans-serif;
+        font-weight: 100;
+    }
+    span {
+        font-size: 6vmax;
+    }
+    
+    h2:hover span {
+        animation: blink infinite alternate-reverse linear;
+    }
+    h2 span:nth-child(1) { animation-duration: 12s; }
+    h2 span:nth-child(2) { animation-duration: 21s; }
+    h2 span:nth-child(3) { animation-duration: 4s; }
+    h2 span:nth-child(4) { animation-duration: 11s; }
+    h2 span:nth-child(5) { animation-duration: 15s; }
+    h2 span:nth-child(6) { animation-duration: 30s; }
+    h2 span:nth-child(7) { animation-duration: 6s; }
+    h2 span:nth-child(8) { animation-duration: 18s; }
+    h2 span:nth-child(9) { animation-duration: 25s; }
+    h2 span:nth-child(10) { animation-duration: 21s; }
+    h2 span:nth-child(11) { animation-duration: 17s; }
+    
+    @keyframes blink {
+        from { color: #149870; }
+        to   { color: #515151; }
+    }
+    .twitterLink {
+        color: #1DA1F2;
+        text-decoration: none;
+        border-bottom: 1px solid #1DA1F2;
+        padding-bottom: 1px;
+    }
+    .yellowLink {
+        color: #ffe923;
+        text-decoration: none;
+        border-bottom: 1px solid #ffe923;
+        padding-bottom: 1px;
+    }
+    .redLink {
+        color: #ff3d3d;
+        text-decoration: none;
+        border-bottom: 1px solid #ff3d3d;
+        padding-bottom: 1px;
+    }
+    .cyanLink {
+        color: #36f9a7;
+        text-decoration: none;
+        border-bottom: 1px solid #36f9a7;
+        padding-bottom: 1px;
+    }
+    .purpleLink {
+        color: #9e36f9;
+        text-decoration: none;
+        border-bottom: 1px solid #9e36f9;
+        padding-bottom: 1px;
+    }
+    .container{
+        width: 100%;
+        height: 100%;
+        display: flex;
+        top: 0;
+        left: 0;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+    h1{
+        /* font-size: 56pt; */
+        font-size: 5vmax;
+        white-space: nowrap;
+        margin-bottom: 30px;
+        z-index: 1;
+    }
+    
+    #mainhub {
+        transition: margin-left .9s;
+    }
+    #iconholder a {
+        height: 24px;
+        width: 24px;
+        display: block;
+    }
+    #logo{
+        /* color: #c10101; */
+        /* color: #515151; */
+        font-size: 1.5em;
+        transition: margin-left .9s;
+    }
+    #twitterlogo{
+        color: #FF1111;
+        transition: margin-left .9s;
+    }
+    #githublogo{
+        color: #9e36f9;
+        transition: margin-left .9s;
+    }
+    #linkedinlogo{
+        color: #3775fc;
+        transition: margin-left .9s;
+    }
+    #emaillogo{
+        color: #36f9a7;
+        transition: margin-left .9s;
+    }
+    body ul li{
+        display: inline;
+        position: relative;
+        text-align: center;
+        white-space: nowrap;
+        left: 50%;
+        margin-left: 75px;
+    }
+    
+    
+    i{
+        /* position:fixed; */
+    }
+    i:hover{
+        transform: scale(1.3);
+    }
+    
+    #iconholder{
         flex-wrap: nowrap;
         display: flex;
         flex-direction: row;
         justify-content: space-between;
         white-space: nowrap;
-}
-#aboutmeiconholder a {
-    height: 20px;
-    width: 20px;
-    display: block;
-}
-#backToHomeButton{
-    color: #C10101;
-    margin-left: 2vw;
-    margin-top: 2vw;
-    font-size: 2em;
-}
-#backToHome{
-    text-decoration: none;
-}
-#aboutmelogo{
-    color: #c10101;
-    font-size: 1em;
-}
-.contactcontainer{
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-}
-.contactheader{
-    margin-left: 5vw;
-    margin-top: 5vw;
-    margin-bottom: 1vw;
-    font-size: 2.5em;
-}
-#contactcenterline {
-    width: 5vw;
-    height: 5px;
-    margin-left: 5vw;
-    background: white;
-    /*position: absolute;
-    margin-left: 50%;
-    top: 46%;
-    margin-right: 50%;
-    transform: translate(-50%, -50%); */
-}
-#contacticonholder{
         margin-left: 5vw;
-        margin-top: 3vw;
-        width: 10vw;
+    }
+    
+    #contacticonholder{
+            margin-left: 5vw;
+            margin-top: 3vw;
+            width: 10vw;
+            flex-wrap: nowrap;
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            white-space: nowrap;
+    }
+    #contacticonholder a {
+        height: 20px;
+        width: 20px;
+        display: block;
+    }
+}
+
+
+/* Mobile Screens */
+@media screen and (max-width: 799px) {
+    html, body {
+        width: 100%;
+        height: 100%;
+    }
+    
+    #iconholder {
+        width: 85vw;
+    }
+    .bottomtext {
+        width: 90vw;
+        margin-left: 5vmin;
+    }
+    
+    @import url('https://fonts.googleapis.com/css?family=Josefin+Sans:100,300,600');
+    body {
+        margin: 0px;
+        font-family: 'Josefin Sans', sans-serif;
+        background-color: #222222;
+        color:white;/* color of nirmit shah text */
+        overflow-x: hidden; /* Disable horizontal scroll */
+    }
+    comp {
+        color: #e9233a;
+    }
+    comp2 {
+        color: #ffffff;
+    }
+    comp3 {
+        color: #ff00bf;
+    }
+    comp4 {
+        color: #D13739;
+    }
+    compblock {
+        color: #EFC04E;
+    }
+    compcashapp {
+        color: #6EDA51
+    }
+    compcitadel {
+        color: #184077
+    }
+    te {
+        color:#B3A369;
+    }
+    p {
+        font-size: 2rem;
+        line-height: 3rem;
+    }
+    h2 {
+        margin-top: 5vmax;
+        margin-left: 5vmin;
+    }
+    h2, p {
+        color: #979797;
+        font-family: 'Josefin Sans', sans-serif;
+        font-weight: 100;
+    }
+    span {
+        font-size: 7vmax;
+    }
+    
+    h2:hover span {
+        animation: blink infinite alternate-reverse linear;
+    }
+    h2 span:nth-child(1) { animation-duration: 12s; }
+    h2 span:nth-child(2) { animation-duration: 21s; }
+    h2 span:nth-child(3) { animation-duration: 4s; }
+    h2 span:nth-child(4) { animation-duration: 11s; }
+    h2 span:nth-child(5) { animation-duration: 15s; }
+    h2 span:nth-child(6) { animation-duration: 30s; }
+    h2 span:nth-child(7) { animation-duration: 6s; }
+    h2 span:nth-child(8) { animation-duration: 18s; }
+    h2 span:nth-child(9) { animation-duration: 25s; }
+    h2 span:nth-child(10) { animation-duration: 21s; }
+    h2 span:nth-child(11) { animation-duration: 13s; }
+    
+    @keyframes blink {
+        from { color: #149870; }
+        to   { color: #515151; }
+    }
+    .twitterLink {
+        color: #1DA1F2;
+        text-decoration: none;
+        border-bottom: 1px solid #1DA1F2;
+        padding-bottom: 1px;
+    }
+    .yellowLink {
+        color: #ffe923;
+        text-decoration: none;
+        border-bottom: 1px solid #ffe923;
+        padding-bottom: 1px;
+    }
+    .cyanLink {
+        color: #36f9a7;
+        text-decoration: none;
+        border-bottom: 1px solid #36f9a7;
+        padding-bottom: 1px;
+    }
+    .purpleLink {
+        color: #9e36f9;
+        text-decoration: none;
+        border-bottom: 1px solid #9e36f9;
+        padding-bottom: 1px;
+    }
+    .redLink {
+        color: #ff3d3d;
+        text-decoration: none;
+        border-bottom: 1px solid #ff3d3d;
+        padding-bottom: 1px;
+    }
+    
+    .container{
+        width: 100%;
+        height: 100%;
+        display: flex;
+        top: 0;
+        left: 0;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+    h1{
+        /* font-size: 56pt; */
+        font-size: 5vmax;
+        white-space: nowrap;
+        margin-bottom: 30px;
+        z-index: 1;
+    }
+    
+    #mainhub {
+        transition: margin-left .9s;
+    }
+    #iconholder a {
+        height: 35px;
+        width: 36px;
+        display: block;
+    }
+    #logo{
+        /* color: #c10101; */
+        /* color: #515151; */
+        font-size: 2.5em;
+        transition: margin-left .9s;
+    }
+    #twitterlogo{
+        color: #FF1111;
+        transition: margin-left .9s;
+    }
+    #githublogo{
+        color: #9e36f9;
+        transition: margin-left .9s;
+    }
+    #linkedinlogo{
+        color: #3775fc;
+        transition: margin-left .9s;
+    }
+    #emaillogo{
+        color: #36f9a7;
+        transition: margin-left .9s;
+    }
+    body ul li{
+        display: inline;
+        position: relative;
+        text-align: center;
+        white-space: nowrap;
+        left: 50%;
+        margin-left: 75px;
+    }
+    
+    
+    i{
+        /* position:fixed; */
+    }
+    i:hover{
+        transform: scale(1.3);
+    }
+    
+    #iconholder{
         flex-wrap: nowrap;
         display: flex;
         flex-direction: row;
         justify-content: space-between;
         white-space: nowrap;
+        margin-left: 5vw;
+    }
 }
-#contacticonholder a {
-    height: 20px;
-    width: 20px;
-    display: block;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /* animations */
 h1 {
