@@ -1,4 +1,6 @@
-particlesJS("particles-js", {
+window.addEventListener('load', function() {
+  if (typeof particlesJS !== 'undefined') {
+    particlesJS("particles-js", {
   "particles": {
     "number": {
       "value": 80,
@@ -92,4 +94,6 @@ particlesJS("particles-js", {
     }
   },
   "retina_detect": true
+    });
+  }
 });

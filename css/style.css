@@ -20,8 +20,8 @@ h2, p {
 }
 
 p {
-    font-size: 2rem;
-    line-height: 3rem;
+    font-size: 1rem;
+    line-height: 1.6rem;
 }
 
 h2 {
@@ -55,31 +55,31 @@ h2 span:nth-child(11) { animation-duration: 17s; }
 }
 
 .company-square {
-    color: #ffffff;
+    color: #ffffff !important;
 }
 
 .company-lyft {
-    color: #ff00bf;
+    color: #ff00bf !important;
 }
 
 .company-riot {
-    color: #D13739;
+    color: #D13739 !important;
 }
 
 .company-block {
-    color: #EFC04E;
+    color: #EFC04E !important;
 }
 
 .company-citadel {
-    color: #184077;
+    color: #184077 !important;
 }
 
 .company-te {
-    color: #B3A369;
+    color: #B3A369 !important;
 }
 
 .company-private {
-    color: #36f9a7;
+    color: #36f9a7 !important;
 }
 
 .twitterLink {
@@ -142,6 +142,12 @@ h1 {
     top: 0;
     left: 0;
     z-index: 0;
+    pointer-events: none;
+}
+
+#particles-js canvas {
+    display: block;
+    vertical-align: bottom;
 }
 
 #mainhub {
@@ -271,5 +277,10 @@ body ul li {
     .bottomtext {
         width: 90vw;
         margin-left: 5vmin;
+    }
+
+    p {
+        font-size: 1rem;
+        line-height: 1.6rem;
     }
 }
