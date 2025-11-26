@@ -3,7 +3,7 @@ window.addEventListener('load', function() {
     particlesJS("particles-js", {
   "particles": {
     "number": {
-      "value": 150,
+      "value": 290,
       "density": {
         "enable": true,
         "value_area": 800
@@ -27,16 +27,16 @@ window.addEventListener('load', function() {
       "random": true,
       "anim": {
         "enable": false,
-        "speed": 40,
+        "speed": 30,
         "size_min": 0.1,
         "sync": false
       }
     },
     "line_linked": {
       "enable": true,
-      "distance": 150,
+      "distance": 170,
       "color": "#ffffff",
-      "opacity": 0.2,
+      "opacity": 0.1,
       "width": 1
     },
     "move": {
