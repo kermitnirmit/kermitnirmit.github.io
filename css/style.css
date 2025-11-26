@@ -1,403 +1,275 @@
-/* Desktop/large screens */
-@media screen and (min-width: 800px) {
-    html, body {
-        width: 100%;
-        height: 100%;
-    }
-    
-    #iconholder {
-        width: 40vw;
-        margin-left: 5vmax; 
-    }
-    .bottomtext {
-        width: 40vw;
-        margin-left: 5vmax;
-    }
-    
-    nav ul li{
-        display: inline-block;
-        list-style-type: none;
-        padding-right: 10px;
-        position:relative;
-        margin: 0px;
-    }
-    @import url('https://fonts.googleapis.com/css?family=Josefin+Sans:100,300,600');
-    body {
-        margin: 0px;
-        font-family: 'Josefin Sans', sans-serif;
-        background-color: #1d1d1d;
-        color:white;/* color of nirmit shah text */
-        overflow-x: hidden; /* Disable horizontal scroll */
-      
-    }
-    comp {
-        color: #e9233a;
-    }
-    comp2 {
-        color: #ffffff;
-    }
-    comp3 {
-        color: #ff00bf;
-    }
-    comp4 {
-        color: #D13739;
-    }
-    compblock {
-        color: #EFC04E;
-    }
-    compcashapp {
-        color: #6EDA51
-    }
-    compcitadel {
-        color: #184077
-    }
-    te {
-        color:#B3A369;
-    }
-    p {
-        font-size: 2rem;
-        line-height: 3rem;
-    }
-    h2 {
-        margin-left: 5vmax;
-        margin-top: 5vmax;
-    }
-    h2, p {
-        color: #979797;
-        font-family: 'Josefin Sans', sans-serif;
-        font-weight: 100;
-    }
-    span {
-        font-size: 6vmax;
-    }
-    
-    h2:hover span {
-        animation: blink infinite alternate-reverse linear;
-    }
-    h2 span:nth-child(1) { animation-duration: 12s; }
-    h2 span:nth-child(2) { animation-duration: 21s; }
-    h2 span:nth-child(3) { animation-duration: 4s; }
-    h2 span:nth-child(4) { animation-duration: 11s; }
-    h2 span:nth-child(5) { animation-duration: 15s; }
-    h2 span:nth-child(6) { animation-duration: 30s; }
-    h2 span:nth-child(7) { animation-duration: 6s; }
-    h2 span:nth-child(8) { animation-duration: 18s; }
-    h2 span:nth-child(9) { animation-duration: 25s; }
-    h2 span:nth-child(10) { animation-duration: 21s; }
-    h2 span:nth-child(11) { animation-duration: 17s; }
-    
-    @keyframes blink {
-        from { color: #149870; }
-        to   { color: #515151; }
-    }
-    .twitterLink {
-        color: #1DA1F2;
-        text-decoration: none;
-        border-bottom: 1px solid #1DA1F2;
-        padding-bottom: 1px;
-    }
-    .yellowLink {
-        color: #ffe923;
-        text-decoration: none;
-        border-bottom: 1px solid #ffe923;
-        padding-bottom: 1px;
-    }
-    .redLink {
-        color: #ff3d3d;
-        text-decoration: none;
-        border-bottom: 1px solid #ff3d3d;
-        padding-bottom: 1px;
-    }
-    .cyanLink {
-        color: #36f9a7;
-        text-decoration: none;
-        border-bottom: 1px solid #36f9a7;
-        padding-bottom: 1px;
-    }
-    .purpleLink {
-        color: #9e36f9;
-        text-decoration: none;
-        border-bottom: 1px solid #9e36f9;
-        padding-bottom: 1px;
-    }
-    .container{
-        width: 100%;
-        height: 100%;
-        display: flex;
-        top: 0;
-        left: 0;
-        align-items: center;
-        justify-content: center;
-        flex-direction: column;
-    }
-    h1{
-        /* font-size: 56pt; */
-        font-size: 5vmax;
-        white-space: nowrap;
-        margin-bottom: 30px;
-        z-index: 1;
-    }
-    
-    #mainhub {
-        transition: margin-left .9s;
-    }
-    #iconholder a {
-        height: 24px;
-        width: 24px;
-        display: block;
-    }
-    #logo{
-        /* color: #c10101; */
-        /* color: #515151; */
-        font-size: 1.5em;
-        transition: margin-left .9s;
-    }
-    #twitterlogo{
-        color: #FF1111;
-        transition: margin-left .9s;
-    }
-    #githublogo{
-        color: #9e36f9;
-        transition: margin-left .9s;
-    }
-    #linkedinlogo{
-        color: #3775fc;
-        transition: margin-left .9s;
-    }
-    #emaillogo{
-        color: #36f9a7;
-        transition: margin-left .9s;
-    }
-    body ul li{
-        display: inline;
-        position: relative;
-        text-align: center;
-        white-space: nowrap;
-        left: 50%;
-        margin-left: 75px;
-    }
-    
-    
-    i{
-        /* position:fixed; */
-    }
-    i:hover{
-        transform: scale(1.3);
-    }
-    
-    #iconholder{
-        flex-wrap: nowrap;
-        display: flex;
-        flex-direction: row;
-        justify-content: space-between;
-        white-space: nowrap;
-        margin-left: 5vw;
-    }
-    
-    #contacticonholder{
-            margin-left: 5vw;
-            margin-top: 3vw;
-            width: 10vw;
-            flex-wrap: nowrap;
-            display: flex;
-            flex-direction: row;
-            justify-content: space-between;
-            white-space: nowrap;
-    }
-    #contacticonholder a {
-        height: 20px;
-        width: 20px;
-        display: block;
-    }
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:100,300,600');
+
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;
+    overflow-x: hidden;
 }
 
+body {
+    background-color: #151515;
+}
 
-/* Mobile Screens */
+h2, p {
+    color: #979797;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 100;
+}
+
+p {
+    font-size: 2rem;
+    line-height: 3rem;
+}
+
+h2 {
+    margin-top: 5vmax;
+    margin-left: 5vmax;
+}
+
+h2 span {
+    font-size: 6vmax;
+}
+
+h2:hover span {
+    animation: blink infinite alternate-reverse linear;
+}
+
+h2 span:nth-child(1) { animation-duration: 12s; }
+h2 span:nth-child(2) { animation-duration: 21s; }
+h2 span:nth-child(3) { animation-duration: 4s; }
+h2 span:nth-child(4) { animation-duration: 11s; }
+h2 span:nth-child(5) { animation-duration: 15s; }
+h2 span:nth-child(6) { animation-duration: 30s; }
+h2 span:nth-child(7) { animation-duration: 6s; }
+h2 span:nth-child(8) { animation-duration: 18s; }
+h2 span:nth-child(9) { animation-duration: 25s; }
+h2 span:nth-child(10) { animation-duration: 21s; }
+h2 span:nth-child(11) { animation-duration: 17s; }
+
+@keyframes blink {
+    from { color: #149870; }
+    to { color: #515151; }
+}
+
+.company-square {
+    color: #ffffff;
+}
+
+.company-lyft {
+    color: #ff00bf;
+}
+
+.company-riot {
+    color: #D13739;
+}
+
+.company-block {
+    color: #EFC04E;
+}
+
+.company-citadel {
+    color: #184077;
+}
+
+.company-te {
+    color: #B3A369;
+}
+
+.company-private {
+    color: #36f9a7;
+}
+
+.twitterLink {
+    color: #1DA1F2;
+    text-decoration: none;
+    border-bottom: 1px solid #1DA1F2;
+    padding-bottom: 1px;
+}
+
+.yellowLink {
+    color: #ffe923;
+    text-decoration: none;
+    border-bottom: 1px solid #ffe923;
+    padding-bottom: 1px;
+}
+
+.redLink {
+    color: #ff3d3d;
+    text-decoration: none;
+    border-bottom: 1px solid #ff3d3d;
+    padding-bottom: 1px;
+}
+
+.cyanLink {
+    color: #36f9a7;
+    text-decoration: none;
+    border-bottom: 1px solid #36f9a7;
+    padding-bottom: 1px;
+}
+
+.purpleLink {
+    color: #9e36f9;
+    text-decoration: none;
+    border-bottom: 1px solid #9e36f9;
+    padding-bottom: 1px;
+}
+
+.container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    top: 0;
+    left: 0;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+h1 {
+    font-size: 5vmax;
+    white-space: nowrap;
+    margin-bottom: 30px;
+    z-index: 1;
+}
+
+#particles-js {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: 0;
+}
+
+#mainhub {
+    position: relative;
+    z-index: 1;
+    transition: margin-left .9s;
+}
+
+#iconholder {
+    flex-wrap: nowrap;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    white-space: nowrap;
+    margin-left: 5vw;
+    width: 40vw;
+}
+
+#iconholder a {
+    height: 24px;
+    width: 24px;
+    display: block;
+}
+
+#iconholder i {
+    font-size: 1.5em;
+    transition: margin-left .9s;
+}
+
+#twitterlogo {
+    color: #FF1111;
+    transition: margin-left .9s;
+}
+
+#githublogo {
+    color: #9e36f9;
+    transition: margin-left .9s;
+}
+
+#linkedinlogo {
+    color: #3775fc;
+    transition: margin-left .9s;
+}
+
+#emaillogo {
+    color: #36f9a7;
+    transition: margin-left .9s;
+}
+
+.bottomtext {
+    width: 40vw;
+    margin-left: 5vmax;
+}
+
+i {
+    transition: transform 0.2s;
+}
+
+i:hover {
+    transform: scale(1.3);
+}
+
+nav ul li {
+    display: inline-block;
+    list-style-type: none;
+    padding-right: 10px;
+    position: relative;
+    margin: 0;
+}
+
+body ul li {
+    display: inline;
+    position: relative;
+    text-align: center;
+    white-space: nowrap;
+    left: 50%;
+    margin-left: 75px;
+}
+
+#contacticonholder {
+    margin-left: 5vw;
+    margin-top: 3vw;
+    width: 10vw;
+    flex-wrap: nowrap;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    white-space: nowrap;
+}
+
+#contacticonholder a {
+    height: 20px;
+    width: 20px;
+    display: block;
+}
+
 @media screen and (max-width: 799px) {
-    html, body {
-        width: 100%;
-        height: 100%;
+    body {
+        background-color: #1a1a1a;
     }
-    
+
+    h2 {
+        margin-left: 5vmin;
+    }
+
+    h2 span {
+        font-size: 7vmax;
+    }
+
+    h2 span:nth-child(11) {
+        animation-duration: 13s;
+    }
+
     #iconholder {
         width: 85vw;
     }
+
+    #iconholder a {
+        height: 35px;
+        width: 36px;
+    }
+
+    #iconholder i {
+        font-size: 2.5em;
+    }
+
     .bottomtext {
         width: 90vw;
         margin-left: 5vmin;
     }
-    
-    @import url('https://fonts.googleapis.com/css?family=Josefin+Sans:100,300,600');
-    body {
-        margin: 0px;
-        font-family: 'Josefin Sans', sans-serif;
-        background-color: #222222;
-        color:white;/* color of nirmit shah text */
-        overflow-x: hidden; /* Disable horizontal scroll */
-    }
-    comp {
-        color: #e9233a;
-    }
-    comp2 {
-        color: #ffffff;
-    }
-    comp3 {
-        color: #ff00bf;
-    }
-    comp4 {
-        color: #D13739;
-    }
-    compblock {
-        color: #EFC04E;
-    }
-    compcashapp {
-        color: #6EDA51
-    }
-    compcitadel {
-        color: #184077
-    }
-    te {
-        color:#B3A369;
-    }
-    p {
-        font-size: 2rem;
-        line-height: 3rem;
-    }
-    h2 {
-        margin-top: 5vmax;
-        margin-left: 5vmin;
-    }
-    h2, p {
-        color: #979797;
-        font-family: 'Josefin Sans', sans-serif;
-        font-weight: 100;
-    }
-    span {
-        font-size: 7vmax;
-    }
-    
-    h2:hover span {
-        animation: blink infinite alternate-reverse linear;
-    }
-    h2 span:nth-child(1) { animation-duration: 12s; }
-    h2 span:nth-child(2) { animation-duration: 21s; }
-    h2 span:nth-child(3) { animation-duration: 4s; }
-    h2 span:nth-child(4) { animation-duration: 11s; }
-    h2 span:nth-child(5) { animation-duration: 15s; }
-    h2 span:nth-child(6) { animation-duration: 30s; }
-    h2 span:nth-child(7) { animation-duration: 6s; }
-    h2 span:nth-child(8) { animation-duration: 18s; }
-    h2 span:nth-child(9) { animation-duration: 25s; }
-    h2 span:nth-child(10) { animation-duration: 21s; }
-    h2 span:nth-child(11) { animation-duration: 13s; }
-    
-    @keyframes blink {
-        from { color: #149870; }
-        to   { color: #515151; }
-    }
-    .twitterLink {
-        color: #1DA1F2;
-        text-decoration: none;
-        border-bottom: 1px solid #1DA1F2;
-        padding-bottom: 1px;
-    }
-    .yellowLink {
-        color: #ffe923;
-        text-decoration: none;
-        border-bottom: 1px solid #ffe923;
-        padding-bottom: 1px;
-    }
-    .cyanLink {
-        color: #36f9a7;
-        text-decoration: none;
-        border-bottom: 1px solid #36f9a7;
-        padding-bottom: 1px;
-    }
-    .purpleLink {
-        color: #9e36f9;
-        text-decoration: none;
-        border-bottom: 1px solid #9e36f9;
-        padding-bottom: 1px;
-    }
-    .redLink {
-        color: #ff3d3d;
-        text-decoration: none;
-        border-bottom: 1px solid #ff3d3d;
-        padding-bottom: 1px;
-    }
-    
-    .container{
-        width: 100%;
-        height: 100%;
-        display: flex;
-        top: 0;
-        left: 0;
-        align-items: center;
-        justify-content: center;
-        flex-direction: column;
-    }
-    h1{
-        /* font-size: 56pt; */
-        font-size: 5vmax;
-        white-space: nowrap;
-        margin-bottom: 30px;
-        z-index: 1;
-    }
-    
-    #mainhub {
-        transition: margin-left .9s;
-    }
-    #iconholder a {
-        height: 35px;
-        width: 36px;
-        display: block;
-    }
-    #logo{
-        /* color: #c10101; */
-        /* color: #515151; */
-        font-size: 2.5em;
-        transition: margin-left .9s;
-    }
-    #twitterlogo{
-        color: #FF1111;
-        transition: margin-left .9s;
-    }
-    #githublogo{
-        color: #9e36f9;
-        transition: margin-left .9s;
-    }
-    #linkedinlogo{
-        color: #3775fc;
-        transition: margin-left .9s;
-    }
-    #emaillogo{
-        color: #36f9a7;
-        transition: margin-left .9s;
-    }
-    body ul li{
-        display: inline;
-        position: relative;
-        text-align: center;
-        white-space: nowrap;
-        left: 50%;
-        margin-left: 75px;
-    }
-    
-    
-    i{
-        /* position:fixed; */
-    }
-    i:hover{
-        transform: scale(1.3);
-    }
-    
-    #iconholder{
-        flex-wrap: nowrap;
-        display: flex;
-        flex-direction: row;
-        justify-content: space-between;
-        white-space: nowrap;
-        margin-left: 5vw;
-    }
 }
-
