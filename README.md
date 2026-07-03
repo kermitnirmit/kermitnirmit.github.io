@@ -1,9 +1,15 @@
 # kermitnirmit.github.io
-Personal Website
-This is my personal website that I will be using to showcase my projects. 
 
-I have built this using simple HTML, CSS, and JS.
+My personal website — [nirmit.dev](https://nirmit.dev).
 
-Icons are provided through MFG Labs
-Animations are provided through animate.css
-Thanks to Vincent Garreau for particles.js
+A bold, single-page landing site built with plain HTML, CSS, and vanilla JavaScript. No build step, no dependencies.
+
+## Structure
+
+- `index.html` — the page
+- `css/style.css` — styles
+- `js/site.js` — the interactive bits: a cursor-reactive data-viz dot grid (canvas), a soft cursor glow, and magnetic link pills
+
+## Credits
+
+- Type: [Space Grotesk](https://fonts.google.com/specimen/Space+Grotesk) &amp; [Space Mono](https://fonts.google.com/specimen/Space+Mono) via Google Fonts

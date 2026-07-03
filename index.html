@@ -4,50 +4,65 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Nirmit Shah</title>
+    <meta name="description" content="Nirmit Shah — software developer, AI/ML tinkerer, and data-visualization enthusiast.">
 
-    <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:300,400,600" rel="stylesheet">
-    <link rel="stylesheet" href="./css/mfglabs_iconset.css">
+    <link rel="icon" href="favicon.ico">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/style.css" type="text/css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
 </head>
 <body>
-    <div id="particles-js"></div>
-    <div id="mainhub">
-        <h2>
-            <span>N</span><span>I</span><span>R</span><span>M</span><span>I</span><span>T</span> <span>&nbsp;</span> <span>S</span><span>H</span><span>A</span><span>H</span>
-        </h2>
-        <div class="animated fadeInUp" id="iconholder">
-            <a class="email" id="emaillogo" href="mailto:nirmitshah0113@gmail.com" target="_blank">
-                <i class="icon-mail"></i>
-            </a>
-            <a class="github" id="githublogo" href="https://github.com/kermitnirmit" target="_blank">
-                <i class="icon-octopus"></i>
-            </a>
-            <a class="twitter" id="twitterlogo" href="https://resume.creddle.io/resume/7cmo1t8ie1f">
-                <i class="icon-user_male"></i>
-            </a>
-            <a class="linkedin" id="linkedinlogo" href="https://www.linkedin.com/in/nirmit-shah-b6b957a2/" target="_blank">
-                <i class="icon-linked_in"></i>
-            </a>
-        </div>
-        <div class="bottomtext">
-            <p>Software Developer & <span class="company-te">Georgia Tech'20</span> alum. Fan of Java, Python, artificial intelligence, & machine learning. Creator of <a href="https://github.com/kermitnirmit/plusplusbot" class="yellowLink">plusplus chat bot</a>. Lover of data-visualization and simplicity.</p>
+    <canvas id="grid-bg" aria-hidden="true"></canvas>
+    <div class="cursor-glow" aria-hidden="true"></div>
 
-            <p>If you're interested in my <a href="https://resume.creddle.io/resume/7cmo1t8ie1f" class="redLink">professional side</a>, I've worked at <span class="company-square">Square</span>, <span class="company-lyft">Lyft</span>, <span class="company-riot">Riot Games</span>, <span class="company-block">Block</span>, <span class="company-citadel">Citadel</span>, and currently at <span class="company-private">[redacted]</span>.</p>
+    <main id="hub">
+        <p class="eyebrow"><span class="dot"></span>software developer · new york city</p>
 
-            <p>While you're here, check out
-                <a class="purpleLink" href="https://github.com/kermitnirmit">what I've been working on</a> or
-                <a class="twitterLink" href="https://twitter.com/kermitnirmit">talking about</a>
-                and feel free to
-                <a class="cyanLink" href="mailto:nirmitshah0113@gmail.com">reach out</a>
-                if you want to chat.
+        <h1 class="name" aria-label="Nirmit Shah">
+            <span class="word">
+                <span class="ch">N</span><span class="ch">i</span><span class="ch">r</span><span class="ch">m</span><span class="ch">i</span><span class="ch">t</span>
+            </span>
+            <span class="word">
+                <span class="ch">S</span><span class="ch">h</span><span class="ch">a</span><span class="ch">h</span>
+            </span>
+        </h1>
+
+        <div class="bio">
+            <p>
+                Software developer &amp; <a class="link accent-gt" href="https://www.gatech.edu" target="_blank" rel="noopener">Georgia Tech&nbsp;'20</a> alum.
+                Fan of Java, Python, artificial intelligence &amp; machine learning.
+                Creator of the <a class="link accent-yellow" href="https://github.com/kermitnirmit/plusplusbot" target="_blank" rel="noopener">plusplus chat bot</a>.
+                Lover of data-visualization and simplicity.
             </p>
-
-            <p>Thanks for stopping by!</p>
+            <p>
+                I&#39;ve built things at
+                <span class="co co-square">Square</span><span class="co co-lyft">Lyft</span><span class="co co-riot">Riot&nbsp;Games</span><span class="co co-block">Block</span><span class="co co-citadel">Citadel</span><span class="co co-private">a&nbsp;private&nbsp;company</span>.
+            </p>
+            <p class="muted">Thanks for stopping by — feel free to reach out if you want to chat.</p>
         </div>
-    </div>
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/particles.js/2.0.0/particles.min.js"></script>
-    <script src="js/particles.js"></script>
+        <nav class="links" aria-label="Contact and profiles">
+            <a class="pill" href="mailto:nirmitshah0113@gmail.com" style="--pc:#36f9a7">
+                <span class="pill-key">→</span> Email
+            </a>
+            <a class="pill" href="https://github.com/kermitnirmit" target="_blank" rel="noopener" style="--pc:#9e36f9">
+                <span class="pill-key">→</span> GitHub
+            </a>
+            <a class="pill" href="resume_25_01.pdf" target="_blank" rel="noopener" style="--pc:#ffe923">
+                <span class="pill-key">→</span> Résumé
+            </a>
+            <a class="pill" href="https://www.linkedin.com/in/nirmit-shah-b6b957a2/" target="_blank" rel="noopener" style="--pc:#3775fc">
+                <span class="pill-key">→</span> LinkedIn
+            </a>
+        </nav>
+    </main>
+
+    <footer class="footer">
+        <span>© <span id="year"></span> Nirmit Shah</span>
+        <span class="footer-hint">move your cursor ✦</span>
+    </footer>
+
+    <script src="js/site.js"></script>
 </body>
 </html>
