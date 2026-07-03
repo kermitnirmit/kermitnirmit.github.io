@@ -51,6 +51,84 @@
         });
     }
 
+    /* ---------------- company popovers ---------------- */
+    (function () {
+        var badges = document.querySelectorAll('.co[data-team]');
+        if (!badges.length) return;
+
+        var pop = document.createElement('div');
+        pop.className = 'copop';
+        pop.setAttribute('role', 'tooltip');
+        document.body.appendChild(pop);
+
+        var pinned = null; // badge kept open by click/tap
+
+        function esc(s) {
+            return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+        }
+
+        function place(badge) {
+            var teams = (badge.getAttribute('data-team') || '').split(';');
+            var years = (badge.getAttribute('data-years') || '').split(';');
+            var html = '';
+            for (var i = 0; i < teams.length; i++) {
+                var t = teams[i].trim();
+                var y = (years[i] || '').trim();
+                if (!t && !y) continue;
+                html += '<div class="pop-role">' +
+                    '<div class="pop-team">' + esc(t) + '</div>' +
+                    '<div class="pop-years">' + esc(y) + '</div></div>';
+            }
+            pop.innerHTML = html;
+            var accent = getComputedStyle(badge).getPropertyValue('--cc').trim() || '#36f9a7';
+            pop.style.setProperty('--pc', accent);
+
+            var r = badge.getBoundingClientRect();
+            var cx = r.left + r.width / 2;
+            var margin = 12;
+            // measure width to keep it on screen
+            pop.classList.add('show');
+            var half = pop.offsetWidth / 2;
+            cx = Math.max(half + margin, Math.min(window.innerWidth - half - margin, cx));
+            pop.style.left = cx + 'px';
+            pop.style.top = r.top + 'px';
+        }
+
+        function show(badge) { place(badge); }
+        function hide() {
+            if (pinned) return;
+            pop.classList.remove('show');
+        }
+        function forceHide() {
+            pinned = null;
+            pop.classList.remove('show');
+        }
+
+        badges.forEach(function (badge) {
+            badge.addEventListener('mouseenter', function () { if (!pinned) show(badge); });
+            badge.addEventListener('mouseleave', hide);
+            badge.addEventListener('focus', function () { show(badge); });
+            badge.addEventListener('blur', forceHide);
+            badge.addEventListener('click', function (e) {
+                e.stopPropagation();
+                if (pinned === badge) { forceHide(); }
+                else { pinned = badge; show(badge); }
+            });
+            badge.addEventListener('keydown', function (e) {
+                if (e.key === 'Enter' || e.key === ' ') {
+                    e.preventDefault();
+                    if (pinned === badge) forceHide();
+                    else { pinned = badge; show(badge); }
+                }
+            });
+        });
+
+        document.addEventListener('click', forceHide);
+        document.addEventListener('keydown', function (e) { if (e.key === 'Escape') forceHide(); });
+        window.addEventListener('scroll', forceHide, { passive: true });
+        window.addEventListener('resize', forceHide);
+    })();
+
     /* ---------------- dot grid canvas ---------------- */
     var canvas = document.getElementById('grid-bg');
     if (!canvas || reduceMotion) return;

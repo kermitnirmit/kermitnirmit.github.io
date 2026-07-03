@@ -183,7 +183,7 @@ body {
     border-radius: .45em;
     color: var(--cc, var(--ink));
     border: 1.5px solid color-mix(in srgb, var(--cc, #fff) 40%, transparent);
-    background: color-mix(in srgb, var(--cc, #fff) 8%, transparent);
+    background: color-mix(in srgb, var(--cc, #fff) 10%, var(--bg));
     transition: transform .18s cubic-bezier(.34,1.56,.64,1), background .18s ease, color .18s ease;
     cursor: default;
     white-space: nowrap;
@@ -194,12 +194,78 @@ body {
     color: #0b0b0f;
 }
 
+.co:focus-visible {
+    outline: 2px solid var(--cc, var(--mint));
+    outline-offset: 3px;
+}
+
 .co-square  { --cc: #ffffff; }
 .co-lyft    { --cc: #ff00bf; }
 .co-riot    { --cc: #ff5b5d; }
 .co-block   { --cc: #EFC04E; }
 .co-citadel { --cc: #4a83d6; }
 .co-private { --cc: var(--mint); }
+
+/* ---------- company popover ---------- */
+
+.copop {
+    position: fixed;
+    z-index: 50;
+    left: 0;
+    top: 0;
+    pointer-events: none;
+    background: rgba(20, 20, 27, 0.96);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    border: 1.5px solid var(--pc, var(--mint));
+    border-radius: .7rem;
+    padding: .6rem .8rem;
+    box-shadow: 0 14px 40px rgba(0, 0, 0, 0.55);
+    opacity: 0;
+    transform: translate(-50%, calc(-100% - 4px)) scale(.94);
+    transform-origin: bottom center;
+    transition: opacity .16s ease, transform .16s cubic-bezier(.34,1.56,.64,1);
+    white-space: nowrap;
+}
+
+.copop.show {
+    opacity: 1;
+    transform: translate(-50%, calc(-100% - 10px)) scale(1);
+}
+
+.copop::after {
+    content: "";
+    position: absolute;
+    left: 50%;
+    bottom: -6px;
+    width: 11px;
+    height: 11px;
+    margin-left: -5.5px;
+    background: rgba(20, 20, 27, 0.96);
+    border-right: 1.5px solid var(--pc, var(--mint));
+    border-bottom: 1.5px solid var(--pc, var(--mint));
+    transform: rotate(45deg);
+}
+
+.copop .pop-role + .pop-role {
+    margin-top: .55rem;
+    padding-top: .55rem;
+    border-top: 1px solid color-mix(in srgb, var(--pc, var(--mint)) 25%, transparent);
+}
+
+.copop .pop-team {
+    font-weight: 600;
+    font-size: .96rem;
+    color: var(--pc, var(--mint));
+}
+
+.copop .pop-years {
+    font-family: 'Space Mono', monospace;
+    font-size: .74rem;
+    letter-spacing: .04em;
+    color: var(--muted);
+    margin-top: .18rem;
+}
 
 /* ---------- link pills ---------- */
 
@@ -218,7 +284,7 @@ body {
     padding: .7rem 1.15rem;
     border-radius: 999px;
     border: 1.5px solid color-mix(in srgb, var(--pc) 45%, transparent);
-    background: color-mix(in srgb, var(--pc) 6%, transparent);
+    background: color-mix(in srgb, var(--pc) 9%, var(--bg));
     color: var(--ink);
     text-decoration: none;
     font-size: 1rem;
