@@ -7,55 +7,55 @@
 <meta name="description" content="Pick the Play-In winner, every Swiss draw and every winner of the Worlds 2026 Swiss stage, and watch the exact number of possible Swiss stages shrink.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Space+Mono:wght@400;700&display=swap">
-<link rel="stylesheet" href="style.css?v=ad29516f">
+<link rel="stylesheet" href="style.css?v=53613337">
 </head>
 <body>
+<script>try { if (localStorage.getItem('swiss-theme') === 'light') document.documentElement.dataset.swiss = 'light'; } catch (e) {}</script>
 
 <div class="wrap">
   <a class="backlink" href="/">← nirmit.dev</a>
   <h1>Every way the Worlds 2026 Swiss stage can go</h1>
   <p class="lede">Sixteen teams, five rounds, three wins to advance and three losses to go home. Counting the Play-In final, every legal draw and every match winner, there are <b>17.3 sextillion</b> possible Swiss stages. Pick results below and watch the count fall.</p>
 
-  <div class="layout">
-  <main class="main">
-    <div class="bar">
-      <div class="countrow"><span class="label">Possible Swiss stages left</span><span id="approx"></span></div>
-      <div id="count" aria-live="polite"></div>
-      <div class="meter" aria-hidden="true"><i id="meterfill"></i></div>
-      <div class="controls">
-        <button id="bDraw">Draw the rest</button>
-        <button id="bPlay">Play the rest</button>
-        <button id="bSim">Simulate to the end</button>
-        <button id="bUndo">Undo</button>
-        <button id="bReset">Start over</button>
-      </div>
-      <div class="live" id="live">
-        <span id="liveText"><span class="dot"></span>Checking lolesports for real results…</span>
-        <label><input type="checkbox" id="liveToggle" checked> Lock in real results</label>
-      </div>
+  <div class="bar">
+    <div class="countrow"><span class="label">Possible Swiss stages left</span><span id="approx"></span></div>
+    <div id="count" aria-live="polite"></div>
+    <div class="meter" aria-hidden="true"><i id="meterfill"></i></div>
+    <div class="controls">
+      <button id="bDraw">Draw the rest</button>
+      <button id="bPlay">Play the rest</button>
+      <button id="bSim">Simulate to the end</button>
+      <button id="bUndo">Undo</button>
+      <button id="bReset">Start over</button>
+      <button id="bTheme" class="theme-btn" aria-pressed="false">Light mode</button>
     </div>
-    <svg id="spark" role="img" aria-label="Possibilities left after each pick, log scale"></svg>
-    <p class="note" id="status"></p>
-
-    <section class="round" id="standings">
-      <h2>Standings <small>by record</small></h2>
-      <div class="board" id="board"></div>
-    </section>
-
-    <div id="rounds"></div>
-
-    <p class="foot">Round 1 pairs tier 1 with tier 4 and tier 2 with tier 3 and keeps teams from the same region apart. Later rounds pair teams with the same record, with no rematches. Real draws and results come from the lolesports schedule and refresh every two minutes. Counts are exact, from Riot's <a href="https://lolesports.com/en-US/news/worlds-2026-primer">Worlds 2026 rules</a>.</p>
-  </main>
-  <aside class="side" aria-label="Swiss stage bracket">
-    <div class="side-head"><h2>Bracket</h2><span>Winners move up, losers down</span></div>
-    <div id="bracket" class="bracket"></div>
-  </aside>
+    <div class="live" id="live">
+      <span id="liveText"><span class="dot"></span>Checking lolesports for real results…</span>
+      <label><input type="checkbox" id="liveToggle" checked> Lock in real results</label>
+    </div>
   </div>
+
+  <div class="mini" id="mini" aria-hidden="true"></div>
+  <section class="hero" aria-label="Swiss stage bracket">
+    <p class="next" id="nextStep"></p>
+    <p class="note" id="status"></p>
+    <div class="bracket-scroll"><div id="bracket" class="bracket"></div></div>
+  </section>
+
+  <div id="after"></div>
+
+  <section class="round" id="standings">
+    <h2>Standings <small>by record</small></h2>
+    <div class="board" id="board"></div>
+  </section>
+
+  <p class="foot">Round 1 pairs tier 1 with tier 4 and tier 2 with tier 3 and keeps teams from the same region apart. Later rounds pair teams with the same record, with no rematches. Real draws and results come from the lolesports schedule and refresh every two minutes. Counts are exact, from Riot's <a href="https://lolesports.com/en-US/news/worlds-2026-primer">Worlds 2026 rules</a>. Win chances, and the results “Play the rest” and “Simulate to the end” pick, come from Riot's <a href="https://lolesports.com/en-US/gpr/2026/current">Global Power Rankings</a> (as of Oct 18), using GPR's own formula: 1 ÷ (10<sup>−gap/600</sup> + 1), where gap is the difference in points. The draws themselves stay random.</p>
 </div>
 
-<script>window.SWISS_V="ad29516f";</script>
-<script src="engine.js?v=ad29516f"></script>
-<script src="lolesports.js?v=ad29516f"></script>
-<script src="app.js?v=ad29516f"></script>
+<script>window.SWISS_V="53613337";</script>
+<script src="engine.js?v=53613337"></script>
+<script src="gpr.js?v=53613337"></script>
+<script src="lolesports.js?v=53613337"></script>
+<script src="app.js?v=53613337"></script>
 </body>
 </html>

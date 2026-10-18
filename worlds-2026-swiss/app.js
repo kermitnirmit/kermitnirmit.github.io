@@ -138,21 +138,10 @@ function renderCount() {
     : latest.total === 0n ? 'no legal way to finish from here'
     : `≈ ${approx(latest.total)} · ${share(latest.total)} of the starting paths`;
   document.getElementById('approx').textContent = busy ? 'counting…' : frac;
+  document.getElementById('mini').textContent = latest.total === 1n ? '1 Swiss stage left' : `≈ ${approx(latest.total)} Swiss stages left`;
   document.getElementById('meterfill').style.width = (100 * Math.max(0, log10(latest.total)) / log10(START)).toFixed(2) + '%';
 }
 
-function renderSpark() {
-  const svg = document.getElementById('spark');
-  const W = svg.clientWidth || 600, H = 46, top = log10(START);
-  if (steps.length < 2) { svg.innerHTML = `<text x="0" y="28" fill="var(--muted)" font-family="Space Mono, monospace" font-size="12">Each pick adds a step to this trail.</text>`; return; }
-  const n = steps.length - 1;
-  const x = i => 4 + (W - 8) * i / n, y = v => 6 + (H - 12) * (1 - Math.max(0, log10(v)) / top);
-  const d = steps.map((s, i) => (i ? 'L' : 'M') + x(i).toFixed(1) + ' ' + y(s.total).toFixed(1)).join(' ');
-  const last = steps[steps.length - 1];
-  svg.innerHTML = `<line x1="0" x2="${W}" y1="${H - 6}" y2="${H - 6}" stroke="var(--line)"/>
-    <path d="${d}" fill="none" stroke="var(--accent)" stroke-width="1.75" stroke-linejoin="round"/>
-    <circle cx="${x(n)}" cy="${y(last.total)}" r="3.5" fill="var(--accent)"/>`;
-}
 
 function renderLive() {
   const el = document.getElementById('live'), txt = document.getElementById('liveText');
@@ -172,94 +161,7 @@ function renderLive() {
   txt.innerHTML = `<span class="dot"></span>${s}`;
 }
 
-function chip(i, cls, sub, act, disabled, subCls) {
-  return `<button class="chip ${cls}" ${disabled ? 'disabled' : ''} data-act="${act || ''}" title="${T[i].name}">${name(i)}<small class="${subCls || ''}">${sub ?? T[i].region}</small></button>`;
-}
-function piChip(code, cls, act) {
-  const p = PLAYIN[code];
-  return `<button class="chip ${cls}" data-act="${act}" title="${p.name}">${code}<small>${p.region}</small></button>`;
-}
-
-function renderPlayIn() {
-  const locked = !!activeLocks().pi, pi = eff.pi;
-  const hint = locked ? 'Played. The winner takes the fourth tier 4 spot in the Swiss stage.'
-    : 'Karmine Corp and MVK Esports play for the last Swiss spot. KC’s region (LEC) blocks two Round 1 opponents and MVK’s (LCP) blocks none, so an MVK win leaves more possible Swiss stages.';
-  let html = `<section class="round" id="round-0"><h2>Play-In final <small>Bo5 · Oct 18</small></h2><p class="hint">${hint}</p><div class="pools"><div class="pool playin">`;
-  html += `<div class="match ${locked ? 'real' : ''}">`;
-  html += piChip('KC', pi === 'KC' ? 'win' : pi ? 'lose' : '', 'pi:KC') + '<span class="vs">v</span>' + piChip('MVK', pi === 'MVK' ? 'win' : pi ? 'lose' : '', 'pi:MVK');
-  html += locked ? `<span class="lock" title="Real result">${LOCK_SVG}</span>` : '<span></span>';
-  return html + '</div></div></div></section>';
-}
-
 function recordsBefore(r) { return derive(eff.rounds.slice(0, r - 1)); }
-function poolsFor(r, st) {
-  const act = activeList(st.w, st.l);
-  if (r === 1) return [
-    { name: 'Tier 1 v Tier 4', tiers: [1, 4], teams: act.filter(i => T[i].tier === 1 || T[i].tier === 4) },
-    { name: 'Tier 2 v Tier 3', tiers: [2, 3], teams: act.filter(i => T[i].tier === 2 || T[i].tier === 3) }];
-  const m = new Map();
-  for (const i of act) { const k = st.w[i] + '–' + st.l[i]; if (!m.has(k)) m.set(k, []); m.get(k).push(i); }
-  return [...m.entries()].sort((a, b) => b[0].localeCompare(a[0])).map(([k, t]) => ({ name: k + ' pool', teams: t }));
-}
-
-function renderRound(r, live) {
-  if (!eff.pi) return `<section class="round future" id="round-${r}"><h2>Round ${r}</h2><p class="hint">${r === 1 ? 'Drawn once the Play-In final is decided.' : 'Drawn once the previous round is played.'}</p></section>`;
-  const st = recordsBefore(r);
-  const rd = eff.rounds[r - 1] || { pairs: [], win: [], lock: [] };
-  const lock = rd.lock || [];
-  const isCur = live.r === r, past = live.r > r;
-  const need = activeList(st.w, st.l).length / 2;
-  let hint;
-  if (past) hint = lock.every(x => x === 2) ? 'Played.' : 'Played. Tap a different winner to rewrite this round. Later rounds will be cleared.';
-  else if (isCur && rd.pairs.length < need) hint = r === 1
-    ? 'Tap a team, then its opponent. Dashed teams are legal opponents, with the share of remaining paths that pairing keeps alive.'
-    : 'Teams only meet others with the same record and never face a team they’ve already played. Tap a team, then its opponent.';
-  else if (isCur) hint = 'Tap the winner of each match.';
-  else hint = 'Drawn once the previous round is played.';
-  let html = `<section class="round ${!isCur && !past ? 'future' : ''}" id="round-${r}"><h2>Round ${r} <small>${need} matches</small></h2><p class="hint">${hint}</p>`;
-  if (!isCur && !past) return html + '</section>';
-  const shares = !busy && isCur && latest && latest.r === r ? latest : null;
-  const ready = shares && !sharesPending;
-  const pools = poolsFor(r, st);
-  html += '<div class="pools">';
-  for (const P of pools) {
-    const inPool = new Set(P.teams);
-    const ms = rd.pairs.map((p, k) => [p, k]).filter(([p]) => inPool.has(p[0]));
-    html += `<div class="pool"><h3><span>${P.name}</span><em>${P.teams.length} teams</em></h3>`;
-    for (const [[a, b], k] of ms) {
-      const wv = rd.win[k], lk = lock[k] || 0;
-      const ca = wv === a ? 'win' : wv === b ? 'lose' : '', cb = wv === b ? 'win' : wv === a ? 'lose' : '';
-      const canX = isCur && !lk && rd.win.every(x => x < 0);
-      const tail = lk ? `<span class="lock" title="${lk === 2 ? 'Real result' : 'Real draw'}">${LOCK_SVG}</span>`
-        : canX ? `<button class="x" aria-label="Undraw this match" data-act="unpair:${k}">×</button>` : '<span></span>';
-      html += `<div class="match ${lk === 2 ? 'real' : ''}">${chip(a, ca, null, `win:${r}:${k}:${a}`)}<span class="vs">v</span>${chip(b, cb, null, `win:${r}:${k}:${b}`)}${tail}`;
-      html += '</div>';
-    }
-    const used = new Set(rd.pairs.flat());
-    const free = P.teams.filter(i => !used.has(i));
-    if (isCur && free.length) {
-      html += '<div class="waiting">';
-      for (const g of (r === 1 ? P.tiers : [null])) {
-        const list = g === null ? free : free.filter(i => T[i].tier === g);
-        if (r === 1) html += `<div class="tier">Tier ${g}</div>`;
-        for (const i of list) {
-          let cls = '', sub = null, dis = false, subCls = '';
-          if (selected === i) cls = 'sel';
-          else if (selected !== null && ready && shares.pairShare) {
-            const v = shares.pairShare.get(Math.min(i, selected) + '-' + Math.max(i, selected));
-            if (v !== undefined && v > 0n) { cls = 'elig'; sub = pct(v, shares.total); subCls = 'share'; }
-            else { cls = 'dim'; dis = true; }
-          }
-          html += chip(i, cls, sub, `pick:${i}`, dis, subCls);
-        }
-      }
-      html += '</div>';
-    }
-    html += '</div>';
-  }
-  return html + '</div></section>';
-}
-
 function renderBoard() {
   const sec = document.getElementById('standings');
   if (!eff.pi) { sec.hidden = true; return; }
@@ -293,33 +195,60 @@ function bracketRecords() {
   return { w, l, start };
 }
 const bName = (i) => (i === PI && !eff.pi) ? 'PI' : name(i);
-const bCell = (top, bot, x) => `<div class="bx"><span class="${x === 1 ? 'w' : x === 2 ? 'l' : ''}">${top}</span><span class="${x === 2 ? 'w' : x === 1 ? 'l' : ''}">${bot}</span></div>`;
-const bSlots = (teams, total) => `<div class="bslots">${teams.map(i => `<span class="bslot" title="${T[i].name}">${bName(i)}</span>`).join('')}${Array.from({ length: Math.max(0, total - teams.length) }, () => '<span class="bslot q">?</span>').join('')}</div>`;
+// match cell: each row is a button that picks that team as the winner
+function bCell(top, bot, x, actTop, actBot, locked, unpairAct) {
+  const row = (label, cls, act) => act
+    ? `<button class="${cls}" data-act="${act}" ${locked ? 'aria-disabled="true"' : ''} title="${locked ? 'Real result' : 'Pick the winner'}">${label}</button>`
+    : `<span class="${cls}">${label}</span>`;
+  const extra = locked ? `<span class="blk" title="Real result">${LOCK_SVG}</span>`
+    : unpairAct ? `<button class="ux" data-act="${unpairAct}" aria-label="Undraw this match" title="Undraw this match">×</button>` : '';
+  return `<div class="bx ${locked ? 'real' : ''}">${row(top, x === 1 ? 'w' : x === 2 ? 'l' : '', actTop)}${row(bot, x === 2 ? 'w' : x === 1 ? 'l' : '', actBot)}${extra}</div>`;
+}
+// undrawn teams: in the current round each is a button that drafts it into a match, same as the main page
+function bSlots(teams, total, drawable, r) {
+  const shares = drawable && !busy && !sharesPending && latest && latest.r === r && latest.pairShare ? latest : null;
+  const slot = (i) => {
+    if (!drawable) return `<span class="bslot" title="${T[i].name}">${bName(i)}</span>`;
+    let cls = '', dis = false;
+    if (selected === i) cls = 'sel';
+    else if (selected !== null) {
+      const v = shares && shares.pairShare.get(Math.min(i, selected) + '-' + Math.max(i, selected));
+      if (v !== undefined && v > 0n) cls = 'elig'; else { cls = 'dim'; dis = !!shares; }
+    }
+    const odds = cls === 'elig' ? ` <small>${Math.round(100 * gprWin(name(selected), name(i)))}%</small>` : '';
+    return `<button class="bslot ${cls}" data-act="pick:${i}" ${dis ? 'disabled' : ''} title="${T[i].name}">${bName(i)}${odds}</button>`;
+  };
+  return `<div class="bslots">${teams.map(slot).join('')}${Array.from({ length: Math.max(0, total - teams.length) }, () => '<span class="bslot q">?</span>').join('')}</div>`;
+}
 function bPool(key, rec, curR) {
   if (key === 'pi') {
-    const x = eff.pi === 'KC' ? 1 : eff.pi === 'MVK' ? 2 : 0;
-    return `<a class="bpool ${curR === 0 ? 'now' : ''}" href="#round-0" data-rec="pi"><h5>Play-In</h5>${bCell('KC', 'MVK', x)}</a>`;
+    const x = eff.pi === 'KC' ? 1 : eff.pi === 'MVK' ? 2 : 0, locked = !!activeLocks().pi;
+    return `<div class="bpool ${curR === 0 ? 'now' : ''}" data-rec="pi"><div class="bh"><span>Play-In</span><em>Bo5</em></div>${bCell('KC', 'MVK', x, 'pi:KC', 'pi:MVK', locked)}</div>`;
   }
   const [w, l] = key.split('-').map(Number);
   if (key in END_INFO) {
     const ts = [...Array(16).keys()].filter(i => rec.w[i] === w && rec.l[i] === l);
-    return `<div class="bpool end ${w === 3 ? 'adv' : 'out'}" data-rec="${key}"><h5>${w}–${l}<em>${w === 3 ? 'in' : 'out'}</em></h5>${bSlots(ts, END_INFO[key])}</div>`;
+    return `<div class="bpool end ${w === 3 ? 'adv' : 'out'}" data-rec="${key}"><h5>${w}–${l}<em>${w === 3 ? 'in' : 'out'}</em></h5>${bSlots(ts, END_INFO[key], false)}</div>`;
   }
   const r = w + l + 1, [n, bo] = POOL_INFO[key], st = rec.start[r - 1];
-  const rd = eff.rounds[r - 1] || { pairs: [], win: [] };
-  const known = [...Array(16).keys()].filter(i => st.w[i] === w && st.l[i] === l && w + l === r - 1 && st.w[i] + st.l[i] === r - 1);
-  const pairs = rd.pairs.map((p, k) => [p, rd.win[k]]).filter(([[a]]) => st.w[a] === w && st.l[a] === l);
+  const rd = eff.rounds[r - 1] || { pairs: [], win: [] }, lock = rd.lock || [];
+  const known = [...Array(16).keys()].filter(i => st.w[i] === w && st.l[i] === l && st.w[i] + st.l[i] === r - 1);
+  const pairs = rd.pairs.map((p, k) => [p, rd.win[k], k]).filter(([[a]]) => st.w[a] === w && st.l[a] === l);
   const used = new Set(pairs.flatMap(([p]) => p));
   const waiting = known.filter(i => !used.has(i));
-  let body = pairs.map(([[a, b], x]) => bCell(bName(a), bName(b), x === a ? 1 : x === b ? 2 : 0)).join('');
+  const clickable = eff.pi && r <= curR;   // this round or an earlier one
+  const undrawable = r === curR && rd.win.every(v => v < 0);
+  let body = pairs.map(([[a, b], x, k]) => bCell(bName(a), bName(b), x === a ? 1 : x === b ? 2 : 0,
+    clickable ? `win:${r}:${k}:${a}` : null, clickable ? `win:${r}:${k}:${b}` : null, lock[k] === 2,
+    undrawable && !lock[k] ? `unpair:${k}` : null)).join('');
   const open = n - 2 * pairs.length;
-  if (open > 0) body += pairs.length || waiting.length ? bSlots(waiting, open) : Array.from({ length: open / 2 }, () => '<div class="bx tbd"><span>—</span><span>—</span></div>').join('');
-  return `<a class="bpool ${curR === r ? 'now' : ''}" href="#round-${r}" data-rec="${key}"><h5>${w}–${l}<em>${bo}</em></h5>${body}</a>`;
+  if (open > 0) body += pairs.length || waiting.length ? bSlots(waiting, open, eff.pi && r === curR, r) : Array.from({ length: open / 2 }, () => '<div class="bx tbd"><span>—</span><span>—</span></div>').join('');
+  return `<div class="bpool ${curR === r ? 'now' : ''}" data-rec="${key}"><div class="bh"><span>${w}–${l}</span><em>${bo}</em></div>${body}</div>`;
 }
 function renderBracket(live) {
   const rec = bracketRecords(), curR = eff.pi ? live.r : 0;
   const heads = BHEADS.map((h, c) => `<span class="${curR === c + 1 ? 'now' : ''}">${h}</span>`).join('');
-  const cols = BCOLS.map(keys => `<div class="bcol">${keys.map(k => bPool(k, rec, curR)).join('')}</div>`).join('');
+  const cols = BCOLS.map((keys, c) => `<div class="bcol c${c + 1} ${curR === c + 1 ? 'now' : ''}" data-head="${BHEADS[c]}">${keys.map(k => bPool(k, rec, curR)).join('')}</div>`).join('');
   return `<div class="bheads">${heads}</div><div class="bgrid">${cols}</div><svg class="blines" aria-hidden="true"></svg>`;
 }
 function drawBracketLines() {
@@ -327,31 +256,61 @@ function drawBracketLines() {
   if (!svg) return;
   const R = root.getBoundingClientRect();
   const box = (k) => { const e = root.querySelector(`[data-rec="${k}"]`); if (!e) return null; const b = e.getBoundingClientRect(); return { x: b.left - R.left, y: b.top - R.top, w: b.width, h: b.height }; };
+  const vertical = window.matchMedia && window.matchMedia('(max-width: 700px)').matches;
+  const f = (n) => n.toFixed(1);
+  const curve = (s, b) => {
+    if (vertical) {   // bottom of one pool to the top of the next, flowing down
+      const x1 = s.x + s.w / 2, y1 = s.y + s.h, x2 = b.x + b.w / 2, y2 = b.y, my = (y1 + y2) / 2;
+      return `M${f(x1)} ${f(y1)}C${f(x1)} ${f(my)} ${f(x2)} ${f(my)} ${f(x2)} ${f(y2)}`;
+    }
+    const x1 = s.x + s.w, y1 = s.y + s.h / 2, x2 = b.x, y2 = b.y + b.h / 2, mx = (x1 + x2) / 2;
+    return `M${f(x1)} ${f(y1)}C${f(mx)} ${f(y1)} ${f(mx)} ${f(y2)} ${f(x2)} ${f(y2)}`;
+  };
   let up = '', down = '';
   for (const key of Object.keys(POOL_INFO)) {
     const [w, l] = key.split('-').map(Number), s = box(key); if (!s) continue;
-    for (const [t, isWin] of [[`${w + 1}-${l}`, true], [`${w}-${l + 1}`, false]]) {
-      const b = box(t); if (!b) continue;
-      const x1 = s.x + s.w, y1 = s.y + s.h / 2, x2 = b.x, y2 = b.y + b.h / 2, mx = (x1 + x2) / 2;
-      const seg = `M${x1.toFixed(1)} ${y1.toFixed(1)}C${mx.toFixed(1)} ${y1.toFixed(1)} ${mx.toFixed(1)} ${y2.toFixed(1)} ${x2.toFixed(1)} ${y2.toFixed(1)}`;
-      if (isWin) up += seg; else down += seg;
-    }
+    const bw = box(`${w + 1}-${l}`), bl = box(`${w}-${l + 1}`);
+    if (bw) up += curve(s, bw);
+    if (bl) down += curve(s, bl);
   }
   const p = box('pi'), z = box('0-0');
-  if (p && z) up += `M${(p.x + p.w / 2).toFixed(1)} ${(p.y + p.h).toFixed(1)}L${(z.x + z.w / 2).toFixed(1)} ${z.y.toFixed(1)}`;
+  if (p && z) up += `M${f(p.x + p.w / 2)} ${f(p.y + p.h)}L${f(z.x + z.w / 2)} ${f(z.y)}`;
   svg.setAttribute('viewBox', `0 0 ${R.width.toFixed(1)} ${R.height.toFixed(1)}`);
   svg.innerHTML = `<path d="${up}" fill="none" stroke="var(--win)" stroke-opacity=".55" stroke-width="1.25"/><path d="${down}" fill="none" stroke="var(--loss)" stroke-opacity=".5" stroke-width="1.25"/>`;
 }
 
+function renderQualified() {
+  const rec = bracketRecords();
+  const groups = [[0, 2], [1, 3], [2, 3]].map(([l, n]) => {
+    const ts = [...Array(16).keys()].filter(i => rec.w[i] === 3 && rec.l[i] === l);
+    const tags = ts.map(i => `<span class="tag" title="${T[i].name}">${bName(i)}</span>`).join('')
+      + Array.from({ length: n - ts.length }, () => '<span class="tag slot">?</span>').join('');
+    return `<div class="rec adv"><h4>3–${l}<em>${ts.length} of ${n}</em></h4><div>${tags}</div></div>`;
+  }).join('');
+  const made = rec.w.filter(x => x === 3).length;
+  return `<section class="round" id="qualified"><h2>Through to the quarterfinals <small>${made} of 8</small></h2><div class="board">${groups}</div></section>`;
+}
+
+function nextStep(live) {
+  if (!eff.pi) return 'Start with the Play-In final: tap the team that wins.';
+  if (live.r > 5) return 'Every match is decided. Tap any winner to rewrite that round.';
+  const r = live.r, rd = eff.rounds[r - 1] || { pairs: [] }, need = activeList(live.w, live.l).length / 2;
+  if (rd.pairs.length < need) {
+    if (selected !== null) return `Now tap <b>${name(selected)}</b>’s opponent. Dashed teams are legal, with ${name(selected)}’s chance to beat them. Tap ${name(selected)} again to cancel.`;
+    return r === 1 ? '<b>Round 1 draw.</b> Tap a team in the 0–0 box, then its opponent. Tier 1 meets tier 4, tier 2 meets tier 3, and teams from the same region can’t meet.'
+      : `<b>Round ${r} draw.</b> Tap a team, then an opponent with the same record it hasn’t played yet.`;
+  }
+  return `<b>Round ${r}.</b> Tap the winner of each match. You can also tap a winner in an earlier round to rewrite it.`;
+}
+
 function render() {
-  renderCount(); renderSpark(); renderBoard(); renderLive();
+  renderCount(); renderBoard(); renderLive();
   const live = eff.pi ? cur() : { r: 0 };
   document.getElementById('bracket').innerHTML = renderBracket(live);
   drawBracketLines();
-  let html = renderPlayIn();
-  for (let r = 1; r <= 5; r++) html += renderRound(r, live);
-  if (live.r > 5) html += `<p class="done">The Swiss stage is fully decided. The eight teams in green go to the quarterfinal draw.</p>`;
-  document.getElementById('rounds').innerHTML = html;
+  let html = live.r > 5 ? `<p class="done">The Swiss stage is fully decided. These eight teams go to the quarterfinal draw.</p>` : '';
+  document.getElementById('after').innerHTML = html;
+  document.getElementById('nextStep').innerHTML = nextStep(live);
   const rd = eff.rounds[live.r - 1];
   const need = eff.pi && live.r <= 5 ? activeList(live.w, live.l).length / 2 : 0;
   document.getElementById('bDraw').disabled = !eff.pi || live.r > 5 || (rd && rd.pairs.length >= need);
@@ -407,8 +366,10 @@ function act(a) {
     snapshot(`${name(t)} wins`); user = next; commit();
   }
 }
-document.getElementById('rounds').addEventListener('click', e => {
-  const b = e.target.closest('[data-act]'); if (!b || !b.dataset.act || b.disabled) return; act(b.dataset.act);
+document.getElementById('bracket').addEventListener('click', e => {
+  const b = e.target.closest('[data-act]'); if (!b || !b.dataset.act || b.disabled) return;
+  if (b.getAttribute('aria-disabled') === 'true') { setStatus('That match has been played, so its result is locked.'); return; }
+  act(b.dataset.act);
 });
 function drawRest(s) {
   setPlayIn(s.pi);
@@ -420,13 +381,13 @@ function drawRest(s) {
 function playRest(s) {
   setPlayIn(s.pi);
   const { r } = derive(s.rounds); const rd = s.rounds[r - 1]; if (!rd) return;
-  rd.win = rd.win.map((x, k) => x >= 0 ? x : rd.pairs[k][Math.random() < .5 ? 0 : 1]);
+  rd.win = rd.win.map((x, k) => { if (x >= 0) return x; const [a, b] = rd.pairs[k]; return Math.random() < gprWin(name(a), name(b)) ? a : b; });
 }
 document.getElementById('bDraw').onclick = () => { notice = ''; snapshot('Random draw'); user = editable(); drawRest(user); commit(); };
 document.getElementById('bPlay').onclick = () => { notice = ''; snapshot('Random results'); user = editable(); playRest(user); commit(); };
 document.getElementById('bSim').onclick = () => { notice = '';
   snapshot('Simulated'); user = editable();
-  if (!user.pi) user.pi = Math.random() < .5 ? 'KC' : 'MVK';
+  if (!user.pi) user.pi = Math.random() < gprWin('KC', 'MVK') ? 'KC' : 'MVK';
   for (let guard = 0; guard < 12; guard++) {
     setPlayIn(user.pi);
     const st = derive(user.rounds); if (st.r > 5) break;
@@ -442,7 +403,20 @@ document.getElementById('bUndo').onclick = () => { notice = '';
 };
 document.getElementById('bReset').onclick = () => { notice = ''; snapshot('Start over'); user = EMPTY(); commit(); };
 document.getElementById('liveToggle').onchange = (e) => { liveOn = e.target.checked; pendingLabel = liveOn ? 'Real results on' : 'Real results off'; commit(true); };
-window.addEventListener('resize', () => { renderSpark(); drawBracketLines(); });
+window.addEventListener('resize', drawBracketLines);
+const themeBtn = document.getElementById('bTheme');
+function syncThemeBtn() {
+  const light = document.documentElement.dataset.swiss === 'light';
+  themeBtn.textContent = light ? 'Dark mode' : 'Light mode';
+  themeBtn.setAttribute('aria-pressed', String(light));
+}
+themeBtn.onclick = () => {
+  const light = document.documentElement.dataset.swiss !== 'light';
+  if (light) document.documentElement.dataset.swiss = 'light'; else delete document.documentElement.dataset.swiss;
+  try { localStorage.setItem('swiss-theme', light ? 'light' : 'dark'); } catch (e) {}
+  syncThemeBtn(); drawBracketLines();
+};
+syncThemeBtn();
 if (document.fonts && document.fonts.ready) document.fonts.ready.then(drawBracketLines);
 if (window.ResizeObserver) new ResizeObserver(() => drawBracketLines()).observe(document.getElementById('bracket'));
 
