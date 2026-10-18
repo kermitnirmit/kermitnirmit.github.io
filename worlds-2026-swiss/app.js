@@ -197,12 +197,16 @@ function bracketRecords() {
 const bName = (i) => (i === PI && !eff.pi) ? 'PI' : name(i);
 // match cell: each row is a button that picks that team as the winner
 function bCell(top, bot, x, actTop, actBot, locked, unpairAct) {
-  const row = (label, cls, act) => act
-    ? `<button class="${cls}" data-act="${act}" ${locked ? 'aria-disabled="true"' : ''} title="${locked ? 'Real result' : 'Pick the winner'}">${label}</button>`
-    : `<span class="${cls}">${label}</span>`;
+  // win chance from Riot's Global Power Rankings, same formula the simulator uses
+  const known = top in GPR.pts && bot in GPR.pts;
+  const pTop = known ? Math.round(100 * gprWin(top, bot)) : null;
+  const label = (name, p) => `<span class="nm">${name}</span>${p === null ? '' : `<small class="wp">${p}%</small>`}`;
+  const row = (name, p, cls, act) => act
+    ? `<button class="${cls}" data-act="${act}" ${locked ? 'aria-disabled="true"' : ''} title="${locked ? 'Real result' : 'Pick the winner'}">${label(name, p)}</button>`
+    : `<span class="${cls}">${label(name, p)}</span>`;
   const extra = locked ? `<span class="blk" title="Real result">${LOCK_SVG}</span>`
     : unpairAct ? `<button class="ux" data-act="${unpairAct}" aria-label="Undraw this match" title="Undraw this match">×</button>` : '';
-  return `<div class="bx ${locked ? 'real' : ''}">${row(top, x === 1 ? 'w' : x === 2 ? 'l' : '', actTop)}${row(bot, x === 2 ? 'w' : x === 1 ? 'l' : '', actBot)}${extra}</div>`;
+  return `<div class="bx ${locked ? 'real' : ''} ${extra ? 'hasicon' : ''}">${row(top, pTop, x === 1 ? 'w' : x === 2 ? 'l' : '', actTop)}${row(bot, pTop === null ? null : 100 - pTop, x === 2 ? 'w' : x === 1 ? 'l' : '', actBot)}${extra}</div>`;
 }
 // undrawn teams: in the current round each is a button that drafts it into a match, same as the main page
 function bSlots(teams, total, drawable, r) {
