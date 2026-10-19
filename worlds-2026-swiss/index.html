@@ -7,7 +7,7 @@
 <meta name="description" content="Pick the Play-In winner, every Swiss draw and every winner of the Worlds 2026 Swiss stage, and watch the exact number of possible Swiss stages shrink.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Space+Mono:wght@400;700&display=swap">
-<link rel="stylesheet" href="style.css?v=a843e86d">
+<link rel="stylesheet" href="style.css?v=9dd6a4a6">
 </head>
 <body>
 <script>try { if (localStorage.getItem('swiss-theme') === 'light') document.documentElement.dataset.swiss = 'light'; } catch (e) {}</script>
@@ -22,9 +22,9 @@
     <div id="count" aria-live="polite"></div>
     <div class="meter" aria-hidden="true"><i id="meterfill"></i></div>
     <div class="controls">
-      <button id="bDraw">Draw the rest</button>
-      <button id="bPlay">Play the rest</button>
-      <button id="bSim">Simulate to the end</button>
+      <button id="bDraw">Draw the current round</button>
+      <button id="bPlay">Sim the current round</button>
+      <button id="bSim">Sim to the end</button>
       <button id="bUndo">Undo</button>
       <button id="bReset">Start over</button>
       <button id="bTheme" class="theme-btn" aria-pressed="false">Light mode</button>
@@ -49,13 +49,13 @@
     <div class="board" id="board"></div>
   </section>
 
-  <p class="foot">Round 1 pairs tier 1 with tier 4 and tier 2 with tier 3 and keeps teams from the same region apart. Later rounds pair teams with the same record, with no rematches. Real draws and results come from the lolesports schedule and refresh every two minutes. Counts are exact, from Riot's <a href="https://lolesports.com/en-US/news/worlds-2026-primer">Worlds 2026 rules</a>. Win chances, and the results “Play the rest” and “Simulate to the end” pick, come from Riot's <a href="https://lolesports.com/en-US/gpr/2026/current">Global Power Rankings</a> (as of Oct 18), using GPR's own formula: 1 ÷ (10<sup>−gap/600</sup> + 1), where gap is the difference in points. The draws themselves stay random.</p>
+  <p class="foot">Round 1 pairs tier 1 with tier 4 and tier 2 with tier 3 and keeps teams from the same region apart. Later rounds pair teams with the same record, with no rematches. Real draws and results come from the lolesports schedule and refresh every two minutes. Counts are exact, from Riot's <a href="https://lolesports.com/en-US/news/worlds-2026-primer">Worlds 2026 rules</a>. Win chances, and the results “Sim the current round” and “Sim to the end” pick, come from Riot's <a href="https://lolesports.com/en-US/gpr/2026/current">Global Power Rankings</a> (as of Oct 18), using GPR's own formula: 1 ÷ (10<sup>−gap/600</sup> + 1), where gap is the difference in points. The draws themselves stay random.</p>
 </div>
 
-<script>window.SWISS_V="a843e86d";</script>
-<script src="engine.js?v=a843e86d"></script>
-<script src="gpr.js?v=a843e86d"></script>
-<script src="lolesports.js?v=a843e86d"></script>
-<script src="app.js?v=a843e86d"></script>
+<script>window.SWISS_V="9dd6a4a6";</script>
+<script src="engine.js?v=9dd6a4a6"></script>
+<script src="gpr.js?v=9dd6a4a6"></script>
+<script src="lolesports.js?v=9dd6a4a6"></script>
+<script src="app.js?v=9dd6a4a6"></script>
 </body>
 </html>

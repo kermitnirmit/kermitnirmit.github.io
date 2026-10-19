@@ -114,10 +114,6 @@ function pct(part, whole) {
   return p >= 10 ? p.toFixed(0) + '%' : p >= 1 ? p.toFixed(1) + '%' : p > 0 ? '<1%' : '0%';
 }
 const START = (BigInt(154 + 196) * 256n * F_AFTER_R1);
-function share(t) {
-  const ratio = 10 ** (log10(START) - log10(t));
-  return ratio < 100 ? (100 / ratio).toPrecision(2) + '%' : '1 in ' + approx(BigInt(Math.round(ratio)) > 0n && ratio < 1e15 ? BigInt(Math.round(ratio)) : START / t);
-}
 const name = (i) => T[i].id;
 let notice = '';
 function setStatus(s) { notice = s; document.getElementById('status').textContent = s; }
@@ -136,7 +132,7 @@ function renderCount() {
   const frac = latest.total === START ? 'every possibility is still open'
     : latest.total === 1n ? 'one Swiss stage, fully decided'
     : latest.total === 0n ? 'no legal way to finish from here'
-    : `≈ ${approx(latest.total)} · ${share(latest.total)} of the starting paths`;
+    : '';
   document.getElementById('approx').textContent = busy ? 'counting…' : frac;
   document.getElementById('mini').textContent = latest.total === 1n ? '1 Swiss stage left' : `≈ ${approx(latest.total)} Swiss stages left`;
   document.getElementById('meterfill').style.width = (100 * Math.max(0, log10(latest.total)) / log10(START)).toFixed(2) + '%';
@@ -408,6 +404,11 @@ document.getElementById('bUndo').onclick = () => { notice = '';
 document.getElementById('bReset').onclick = () => { notice = ''; snapshot('Start over'); user = EMPTY(); commit(); };
 document.getElementById('liveToggle').onchange = (e) => { liveOn = e.target.checked; pendingLabel = liveOn ? 'Real results on' : 'Real results off'; commit(true); };
 window.addEventListener('resize', drawBracketLines);
+// The compact count only appears once the full count has scrolled out of view.
+if (window.IntersectionObserver) {
+  new IntersectionObserver(([e]) => document.getElementById('mini').classList.toggle('show', !e.isIntersecting))
+    .observe(document.getElementById('count'));
+}
 const themeBtn = document.getElementById('bTheme');
 function syncThemeBtn() {
   const light = document.documentElement.dataset.swiss === 'light';

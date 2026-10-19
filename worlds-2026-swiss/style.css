@@ -85,7 +85,7 @@ button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 .bpool.end{background:var(--paper)}
 .bpool.adv{border-top:3px solid var(--win)}
 .bpool.out{border-top:3px solid var(--loss)}
-.bx{position:relative;display:grid;margin-top:5px;border:1px solid var(--line);border-radius:4px;overflow:hidden;background:var(--card)}
+.bx{position:relative;display:grid;margin-top:9px;border:1px solid var(--line);border-radius:4px;overflow:hidden;background:var(--card)}
 .bx span,.bx button{display:block;width:100%;box-sizing:border-box;font-family:var(--display);font-weight:700;font-size:14.5px;line-height:1.75;letter-spacing:0;text-transform:none;text-align:left;color:var(--ink);background:none;border:0;border-radius:0;padding:0 8px;white-space:nowrap;overflow:hidden}
 .bx > span:not(.blk),.bx > button:not(.ux){display:flex;align-items:baseline;justify-content:space-between;gap:6px}
 .bx .nm{overflow:hidden;text-overflow:clip}
@@ -112,7 +112,11 @@ button.bslot:hover:not(:disabled){border-color:var(--accent);color:var(--ink)}
 .bx .ux,.bx .blk{position:absolute;right:3px;top:50%;transform:translateY(-50%);width:auto;padding:2px 5px;border:0;background:none;color:var(--muted);font:400 15px/1 var(--display);text-transform:none;letter-spacing:0;cursor:pointer;border-top:0!important}
 .bx .blk{color:var(--accent);cursor:default;display:flex}
 .bx .ux:hover{color:var(--loss)}
-.mini{display:none}
+.mini{position:fixed;inset:0 0 auto;z-index:6;background:var(--paper);font-family:var(--mono);font-weight:700;font-size:12px;
+  padding:calc(env(safe-area-inset-top,0px) + 8px) max(16px,env(safe-area-inset-right,0px)) 8px max(16px,env(safe-area-inset-left,0px));
+  border-bottom:1px solid var(--line);transform:translateY(-100%);visibility:hidden;transition:transform .2s ease,visibility .2s}
+.mini.show{transform:none;visibility:visible}
+@media (prefers-reduced-motion:reduce){.mini{transition:none}}
 @media (max-width:700px){
   .bracket{min-width:0}
   .bracket-scroll{overflow:visible}
@@ -127,7 +131,7 @@ button.bslot:hover:not(:disabled){border-color:var(--accent);color:var(--ink)}
   .bcol.c3{grid-template-columns:repeat(3,minmax(0,1fr))}
   .bcol.c4{grid-template-columns:.75fr 1fr 1fr .75fr}
   .bcol.c5{grid-template-columns:.8fr 1.25fr .8fr}
-  .bcol.c1 [data-rec="0-0"],.bcol.c2 .bpool{display:grid;column-gap:5px;align-content:start}
+  .bcol.c1 [data-rec="0-0"],.bcol.c2 .bpool{display:grid;column-gap:8px;align-content:start}
   .bcol.c1 [data-rec="0-0"]{grid-template-columns:repeat(4,minmax(0,1fr))}
   .bcol.c2 .bpool{grid-template-columns:repeat(2,minmax(0,1fr))}
   .bcol.c1 [data-rec="0-0"] > .bh,.bcol.c1 [data-rec="0-0"] > .bslots,.bcol.c2 .bpool > .bh,.bcol.c2 .bpool > .bslots{grid-column:1/-1}
@@ -142,7 +146,6 @@ button.bslot:hover:not(:disabled){border-color:var(--accent);color:var(--ink)}
   .bslot{font-size:12px}
   .bcol.c4 .bpool.end .bslots,.bcol.c5 .bpool.end .bslots{grid-template-columns:minmax(0,1fr)}
   .bar{position:static}
-  .mini{display:block;position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--paper);font-family:var(--mono);font-weight:700;font-size:12px;padding-block:8px;border-bottom:1px solid var(--line)}
   .hero{margin-top:10px}
 }
 .theme-btn{margin-left:auto}
