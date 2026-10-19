@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Last.fm Visualizer — Nirmit Shah</title>
+    <meta name="description" content="Six years of my listening history as an animated bar-chart race.">
+
+    <link rel="icon" href="../../favicon.svg" type="image/svg+xml">
+    <link rel="icon" href="../../favicon.ico" sizes="any">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../../css/style.css?v=2" type="text/css">
+    <link rel="stylesheet" href="../../css/projects.css?v=1" type="text/css">
+</head>
+<body style="--accent:#ff4fd0">
+    <canvas id="grid-bg" aria-hidden="true"></canvas>
+    <div class="cursor-glow" aria-hidden="true"></div>
+
+    <main id="hub" class="page">
+        <nav class="crumbs" aria-label="Breadcrumb"><a href="../../">nirmit shah</a><span>/</span><a href="../">projects</a></nav>
+
+        <p class="eyebrow"><span class="dot"></span>processing · python · 2021</p>
+
+        <h1 class="name name-sm" aria-label="Last.fm Visualizer">
+            <span class="word"><span class="ch">L</span><span class="ch">a</span><span class="ch">s</span><span class="ch">t</span><span class="ch">.</span><span class="ch">f</span><span class="ch">m</span></span>
+            <span class="word"><span class="ch">V</span><span class="ch">i</span><span class="ch">s</span><span class="ch">u</span><span class="ch">a</span><span class="ch">l</span><span class="ch">i</span><span class="ch">z</span><span class="ch">e</span><span class="ch">r</span></span>
+        </h1>
+
+        <p class="tagline">Six years of my listening history as an animated bar-chart race.</p>
+        <div class="tags tags-lg"><span class="tag">Processing</span><span class="tag">Python</span><span class="tag">Data viz</span></div>
+
+        <div class="bio bio-wide">
+            <p>I've been scrobbling every song I play to Last.fm since 2015. This turns that export into a bar-chart race of my top ten artists over time, rendered straight to a 1080p video.</p>
+        </div>
+
+
+        <nav class="links" aria-label="Project links">
+            <a class="pill" href="https://github.com/kermitnirmit/LastFM-Visualizer" target="_blank" rel="noopener" style="--pc:#ff4fd0">
+                <span class="pill-key">→</span> View on GitHub
+            </a>
+            <a class="pill" href="../" style="--pc:#8a8a97">
+                <span class="pill-key">←</span> All projects
+            </a>
+        </nav>
+
+        <nav class="pnav" aria-label="More projects">
+            <a href="../wordle-solver/" style="--ac:#5ee08a"><span class="pnav-dir">← previous</span><span class="pnav-name">Wordle Solver</span></a>
+            <a href="../fantasy-football-analyzer/" class="pnav-next" style="--ac:#5b8cff"><span class="pnav-dir">next →</span><span class="pnav-name">Fantasy Football Analyzer</span></a>
+        </nav>
+    </main>
+
+    <footer class="footer">
+        <span>© <span id="year"></span> Nirmit Shah</span>
+        <span class="footer-hint">move your cursor ✦</span>
+    </footer>
+
+    <script src="../../js/site.js?v=2"></script>
+</body>
+</html>
