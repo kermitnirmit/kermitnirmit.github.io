@@ -169,7 +169,7 @@ function renderBoard() {
   document.getElementById('board').innerHTML = recs.filter(k => by.has(k)).map(k => {
     const [w, l] = k.split('–').map(Number);
     const cls = w === 3 ? 'adv' : l === 3 ? 'out' : '', lab = w === 3 ? 'Advanced' : l === 3 ? 'Eliminated' : '';
-    return `<div class="rec ${cls}"><h4>${k}<em>${lab || by.get(k).length + ' teams'}</em></h4><div>${by.get(k).map(i => `<span class="tag" title="${T[i].name}">${name(i)}</span>`).join('')}</div></div>`;
+    return `<div class="rec ${cls}"><h4>${k}<em>${lab || by.get(k).length + ' teams'}</em></h4><div>${by.get(k).map(i => `<span class="tag" title="${T[i].name}">${name(i)}${rg(name(i))}</span>`).join('')}</div></div>`;
   }).join('');
 }
 
@@ -192,11 +192,17 @@ function bracketRecords() {
 }
 const bName = (i) => (i === PI && !eff.pi) ? 'PI' : name(i);
 // match cell: each row is a button that picks that team as the winner
+// small region label next to a team code (KC and MVK come from the Play-In table)
+function regionOf(code) {
+  const t = T.find(t => t.id === code);
+  return (t && t.region) || (PLAYIN[code] && PLAYIN[code].region) || '';
+}
+const rg = (code) => { const r = regionOf(code); return r ? `<i class="rg">${r}</i>` : ''; };
 function bCell(top, bot, x, actTop, actBot, locked, unpairAct) {
   // win chance from Riot's Global Power Rankings, same formula the simulator uses
   const known = top in GPR.pts && bot in GPR.pts;
   const pTop = known ? Math.round(100 * gprWin(top, bot)) : null;
-  const label = (name, p) => `<span class="nm">${name}</span>${p === null ? '' : `<small class="wp">${p}%</small>`}`;
+  const label = (name, p) => `<span class="nm">${name}${rg(name)}</span>${p === null ? '' : `<small class="wp">${p}%</small>`}`;
   const row = (name, p, cls, act) => act
     ? `<button class="${cls}" data-act="${act}" ${locked ? 'aria-disabled="true"' : ''} title="${locked ? 'Real result' : 'Pick the winner'}">${label(name, p)}</button>`
     : `<span class="${cls}">${label(name, p)}</span>`;
@@ -208,7 +214,7 @@ function bCell(top, bot, x, actTop, actBot, locked, unpairAct) {
 function bSlots(teams, total, drawable, r) {
   const shares = drawable && !busy && !sharesPending && latest && latest.r === r && latest.pairShare ? latest : null;
   const slot = (i) => {
-    if (!drawable) return `<span class="bslot" title="${T[i].name}">${bName(i)}</span>`;
+    if (!drawable) return `<span class="bslot" title="${T[i].name}">${bName(i)}${rg(bName(i))}</span>`;
     let cls = '', dis = false;
     if (selected === i) cls = 'sel';
     else if (selected !== null) {
@@ -216,7 +222,7 @@ function bSlots(teams, total, drawable, r) {
       if (v !== undefined && v > 0n) cls = 'elig'; else { cls = 'dim'; dis = !!shares; }
     }
     const odds = cls === 'elig' ? ` <small>${Math.round(100 * gprWin(name(selected), name(i)))}%</small>` : '';
-    return `<button class="bslot ${cls}" data-act="pick:${i}" ${dis ? 'disabled' : ''} title="${T[i].name}">${bName(i)}${odds}</button>`;
+    return `<button class="bslot ${cls}" data-act="pick:${i}" ${dis ? 'disabled' : ''} title="${T[i].name}">${bName(i)}${rg(bName(i))}${odds}</button>`;
   };
   return `<div class="bslots">${teams.map(slot).join('')}${Array.from({ length: Math.max(0, total - teams.length) }, () => '<span class="bslot q">?</span>').join('')}</div>`;
 }
