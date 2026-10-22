@@ -1,0 +1,8 @@
+{
+  "Faker": [
+    {"date": "2014-04-28", "opponent": "CJ Entus Frost", "games": "LLWL",
+     "source": "https://www.dailyesports.com/view.php?ud=2014042819574279888_27"},
+    {"date": "2018-08-29", "opponent": "China", "games": "LWLL",
+     "source": "https://www.invenglobal.com/articles/6054/lol-asian-games-china-takes-the-gold-defeating-korea-3-1-chinese-taipei-finishes-3rd"}
+  ]
+}
