@@ -24,6 +24,7 @@ const BUCKETS = [
 ];
 
 let INDEX = [];          // every player with data: page, name, series, won, team, from, to
+let UPDATED = '';        // when the data was last checked; a player's own file only changes when their data does
 let player = null, raw = null, ALL = [];
 let filter = 'all', data = ALL, pin = null, hover = null;
 let labels = []; // chart scoreline labels: [text element, node key, series through that node]
@@ -429,7 +430,7 @@ function describe() {
   if (ALL.some(s => s.partial)) notes.push(`† ${name} played only part of the series.`);
   if (ALL.some(s => s.roster)) notes.push(`* No game records; counted because ${name} was on the roster.`);
   if (raw.unknown.length) notes.push(`${raw.unknown.length} more series ${raw.unknown.length === 1 ? 'is' : 'are'} left out because the order of ${raw.unknown.length === 1 ? 'its' : 'their'} games isn’t recorded.`);
-  $('#foot').innerHTML = `Data from <a href="https://lol.fandom.com/wiki/${encodeURIComponent(player.page.replace(/ /g, '_'))}">Leaguepedia</a>, through ${new Date(raw.generated + 'T12:00:00').toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}. Showmatches are left out. ` + notes.join(' ');
+  $('#foot').innerHTML = `Data from <a href="https://lol.fandom.com/wiki/${encodeURIComponent(player.page.replace(/ /g, '_'))}">Leaguepedia</a>, through ${new Date((UPDATED || raw.generated) + 'T12:00:00').toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}. Showmatches are left out. ` + notes.join(' ');
 }
 
 // The title's player box: type to search every player in the index.
@@ -508,7 +509,9 @@ picks.addEventListener('click', e => {
 window.addEventListener('popstate', () => choose(new URLSearchParams(location.search).get('player') || 'Faker'));
 
 (async () => {
-  INDEX = (await (await fetch('players.json')).json()).players
+  const index = await (await fetch('players.json')).json();
+  UPDATED = index.generated;
+  INDEX = index.players
     .map(([page, name, series, won, team, from, to, states]) => ({ page, name, series, won, team, from, to, states }));
   await choose(new URLSearchParams(location.search).get('player') || 'Faker', 'replace');
 })();

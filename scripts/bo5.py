@@ -383,11 +383,24 @@ def write_index(out, path):
         rows.append([d['player'], re.sub(r' \(.*\)$', '', d['player']), len(S),
                      sum(1 for x in S if x[5].count('W') == 3), S[-1][3], S[0][0][:4], S[-1][0][:4], from_states(S)])
     rows.sort(key=lambda r: (-r[2], r[1].lower()))
+    index = {'generated': datetime.now(timezone.utc).strftime('%Y-%m-%d'),
+             'fields': ['page', 'name', 'series', 'won', 'team', 'from', 'to', 'states'], 'states': STATES,
+             'players': rows}
+    if same_but_date(path, index):
+        print(f'index: {len(rows)} players, unchanged', file=sys.stderr)
+        return
     with open(path, 'w') as fh:
-        json.dump({'fields': ['page', 'name', 'series', 'won', 'team', 'from', 'to', 'states'], 'states': STATES,
-                   'players': rows},
-                  fh, ensure_ascii=False, separators=(',', ':'))
+        json.dump(index, fh, ensure_ascii=False, separators=(',', ':'))
     print(f'index: {len(rows)} players -> {path}', file=sys.stderr)
+
+
+def same_but_date(path, data):
+    """True if the JSON file at path already holds data, apart from its 'generated' date."""
+    try:
+        old = json.load(open(path))
+    except (OSError, ValueError):
+        return False
+    return 'generated' in old and {**old, 'generated': None} == {**data, 'generated': None}
 
 
 def is_bo5(seq):
@@ -432,10 +445,13 @@ def main():
                 continue
             if key(p) not in named and len(data['series']) < a.min:
                 continue  # discovery overcounts; only keep who really reached --min
-            with open(os.path.join(a.out, p.replace('/', '_') + '.json'), 'w') as f:
+            path = os.path.join(a.out, p.replace('/', '_') + '.json')
+            if same_but_date(path, data):
+                continue  # leave the file alone so a scheduled run only commits real changes
+            with open(path, 'w') as f:
                 json.dump(data, f, ensure_ascii=False, separators=(',', ':'))
             written += 1
-    print(f'wrote {written} players in {time.time() - start:.0f}s', file=sys.stderr)
+    print(f'{len(players)} players checked, {written} changed, in {time.time() - start:.0f}s', file=sys.stderr)
     if a.index:
         write_index(a.out, a.index)
     if failed:
