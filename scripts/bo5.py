@@ -2,8 +2,14 @@
 """Build game-by-game best-of-five histories for League of Legends pro players from Leaguepedia.
 
     python3 scripts/bo5.py Faker Chovy --out bo5/players
+    python3 scripts/bo5.py --min 20 --index bo5/players.json   # everyone with 20+ best-of-fives
 
 Writes one JSON file per player. Standard library only, so it can run in a GitHub Action.
+
+The tables every player shares (schedules, scoreboard games, per-game winners, tournament levels)
+are downloaded whole, once, up front; each player then needs only their own scoreboard and roster
+rows, fetched for 50 players at a time. That keeps a run of a thousand players to a few hundred
+requests instead of twenty per player.
 
 A series is a scheduled best-of-five (MatchSchedule.BestOf = 5) that one of the player's teams
 played and finished (someone reached 3, no forfeit). Its game order comes from, in turn:
@@ -26,6 +32,7 @@ import os
 import re
 import sys
 import time
+import unicodedata
 import urllib.parse
 import urllib.request
 from collections import defaultdict
@@ -38,16 +45,16 @@ FIXES = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'bo5_fixes.json
 NUMERIC = {'N', 'S1', 'S2', 'BestOf', 'Winner', 'FF', 'Null'}  # every other field is text
 
 
-def cargo(tables, fields, where, join_on=None, order_by=None):
-    """Run one Cargo query through Special:CargoExport, paging until every row is in."""
+def cargo(tables, fields, where, join_on=None, order_by=None, group_by=None, having=None):
+    """Run one Cargo query through Special:CargoExport, paging until every row is in.
+    Anything that can run past one page needs an order_by, or the pages can overlap."""
     rows, offset = [], 0
     while True:
         params = {'tables': tables, 'fields': fields, 'where': where, 'limit': PAGE_SIZE,
                   'offset': offset, 'format': 'json'}
-        if join_on:
-            params['join_on'] = join_on
-        if order_by:
-            params['order_by'] = order_by
+        for k, v in (('join_on', join_on), ('order_by', order_by), ('group_by', group_by), ('having', having)):
+            if v:
+                params[k] = v
         url = EXPORT + '?' + urllib.parse.urlencode(params)
         for attempt in range(5):
             try:
@@ -76,6 +83,11 @@ def in_list(field, values, chunk=25):
     values = sorted(values)
     for i in range(0, len(values), chunk):
         yield f'{field} IN ({",".join(q(v) for v in values[i:i + chunk])})'
+
+
+def key(name):
+    """A player name as the wiki's database compares it: case and accents don't count."""
+    return ''.join(c for c in unicodedata.normalize('NFKD', name) if not unicodedata.combining(c)).casefold()
 
 
 def when(s):
@@ -127,17 +139,82 @@ def short_team(t):
     return t.replace(' (National Team)', '')
 
 
+# ---------- data every player shares ----------
+
+class Shared:
+    """Whole tables, downloaded once and indexed for the per-player lookups in build()."""
+
+    def __init__(self):
+        print('fetching schedules', file=sys.stderr)
+        self.best_of = {}  # MatchId -> BestOf, for every scheduled match
+        self.sched = defaultdict(list)  # OverviewPage -> its best-of-five matches
+        for s in cargo('MatchSchedule=MS',
+                       'MS.MatchId=MatchId,MS.OverviewPage=Page,MS.Team1=T1,MS.Team2=T2,MS.Team1Score=S1,'
+                       'MS.Team2Score=S2,MS.DateTime_UTC=DT,MS.FF=FF,MS.IsNullified=Null,MS.Tab=Tab,MS.BestOf=BestOf',
+                       '1=1', order_by='MS._ID'):
+            self.best_of[s['MatchId']] = s['BestOf']
+            if s['BestOf'] == 5:
+                self.sched[s['Page']].append(s)
+
+        print('fetching scoreboard games', file=sys.stderr)
+        self.games = {}  # GameId -> game
+        self.games_by_page = defaultdict(list)
+        for g in cargo('ScoreboardGames=SG',
+                       'SG.GameId=GameId,SG.MatchId=MatchId,SG.N_GameInMatch=N,SG.OverviewPage=Page,'
+                       'SG.DateTime_UTC=DT,SG.Team1=T1,SG.Team2=T2,SG.WinTeam=Win', '1=1', order_by='SG._ID'):
+            self.games[g['GameId']] = g
+            self.games_by_page[g['Page']].append(g)
+
+        print('fetching per-game winners', file=sys.stderr)
+        self.per_game = defaultdict(list)
+        for g in cargo('MatchScheduleGame=MSG,MatchSchedule=MS', 'MSG.MatchId=MatchId,MSG.N_GameInMatch=N,'
+                       'MSG.Blue=Blue,MSG.Red=Red,MSG.Winner=Winner', 'MS.BestOf=5',
+                       join_on='MSG.MatchId=MS.MatchId', order_by='MSG._ID'):
+            self.per_game[g['MatchId']].append(g)
+
+        print('fetching tournaments', file=sys.stderr)
+        self.level = {}  # tournament level per event: Primary, Secondary or Showmatch
+        for t in cargo('Tournaments=T', 'T.OverviewPage=Page,T.TournamentLevel=Level', '1=1', order_by='T._ID'):
+            self.level[t['Page']] = {'Primary': 'P', 'Secondary': 'S', 'Showmatch': 'X'}.get(t['Level'], '')
+
+        self.fixes = json.load(open(FIXES)) if os.path.exists(FIXES) else {}
+
+    def players(self, names):
+        """Each player's scoreboard games, joined to the shared tables, and roster rows, keyed by key(name)."""
+        played, roster = defaultdict(list), defaultdict(list)
+        none = dict.fromkeys(['MatchId', 'N', 'Page', 'DT', 'T1', 'T2', 'Win'])
+        for clause in in_list('SP.Link', names, chunk=50):
+            for r in cargo('ScoreboardPlayers=SP', 'SP.Link=Link,SP.GameId=GameId,SP.Team=Team', clause,
+                           order_by='SP._ID'):
+                g = self.games.get(r['GameId'], none)
+                played[key(r['Link'])].append({**g, 'GameId': r['GameId'], 'Team': r['Team'],
+                                               'BestOf': self.best_of.get(g['MatchId'])})
+        for clause in in_list('TP.Link', names, chunk=50):
+            for r in cargo('TournamentPlayers=TP', 'TP.Link=Link,TP.OverviewPage=Page,TP.Team=Team', clause,
+                           order_by='TP._ID'):
+                roster[key(r['Link'])].append(r)
+        return played, roster
+
+
+def discover(n):
+    """Everyone who could have n or more best-of-fives: n with scoreboards, or n on a roster that played them.
+    The real count comes from build(); this only has to not miss anyone."""
+    print(f'finding players with {n}+ best-of-fives', file=sys.stderr)
+    on_roster = cargo('TournamentPlayers=TP,MatchSchedule=MS', 'TP.Link=Link,COUNT(DISTINCT MS.MatchId)=Count',
+                      'MS.BestOf=5 AND (MS.Team1=TP.Team OR MS.Team2=TP.Team)',
+                      join_on='TP.OverviewPage=MS.OverviewPage', group_by='TP.Link',
+                      having=f'COUNT(DISTINCT MS.MatchId)>={n}', order_by='TP.Link')
+    played = cargo('ScoreboardPlayers=SP,ScoreboardGames=SG,MatchSchedule=MS',
+                   'SP.Link=Link,COUNT(DISTINCT SG.MatchId)=Count', 'MS.BestOf=5',
+                   join_on='SP.GameId=SG.GameId,SG.MatchId=MS.MatchId', group_by='SP.Link',
+                   having=f'COUNT(DISTINCT SG.MatchId)>={n}', order_by='SP.Link')
+    # The tables spell some names differently ("meiko", "Meiko"); prefer the scoreboard spelling.
+    return {key(r['Link']): r['Link'] for r in on_roster + played if r['Link']}
+
+
 # ---------- one player ----------
 
-def build(player, showmatches=False):
-    print(f'{player}: fetching', file=sys.stderr)
-    w = f'SP.Link={q(player)}'
-    played = cargo('ScoreboardPlayers=SP,ScoreboardGames=SG,MatchSchedule=MS',
-                   'SP.GameId=GameId,SP.Team=Team,SG.MatchId=MatchId,SG.N_GameInMatch=N,SG.OverviewPage=Page,'
-                   'SG.DateTime_UTC=DT,SG.Team1=T1,SG.Team2=T2,SG.WinTeam=Win,MS.BestOf=BestOf',
-                   w, join_on='SP.GameId=SG.GameId,SG.MatchId=MS.MatchId')
-    roster = cargo('TournamentPlayers=TP', 'TP.OverviewPage=Page,TP.Team=Team', f'TP.Link={q(player)}')
-
+def build(player, played, roster, shared, showmatches=False):
     played_ids = {g['GameId'] for g in played}
     # Which team(s) the player was on at each event, from scoreboards and from rosters.
     teams = defaultdict(set)
@@ -146,36 +223,18 @@ def build(player, showmatches=False):
             teams[r['Page']].add(r['Team'])
     on_roster = {(r['Page'], r['Team']) for r in roster}
 
-    sched = []
-    for clause in in_list('MS.OverviewPage', teams):
-        sched += cargo('MatchSchedule=MS',
-                       'MS.MatchId=MatchId,MS.OverviewPage=Page,MS.Team1=T1,MS.Team2=T2,MS.Team1Score=S1,'
-                       'MS.Team2Score=S2,MS.DateTime_UTC=DT,MS.FF=FF,MS.IsNullified=Null,MS.Tab=Tab',
-                       f'MS.BestOf=5 AND {clause}')
-    sched = [s for s in sched if s['T1'] in teams[s['Page']] or s['T2'] in teams[s['Page']]]
+    sched = [s for page in sorted(teams) for s in shared.sched.get(page, [])
+             if s['T1'] in teams[page] or s['T2'] in teams[page]]
 
     # Every scoreboard game those teams played at those events, whoever was on the field.
-    all_teams = sorted(set().union(*teams.values())) if teams else []
-    on_team = f'(SG.Team1 IN ({",".join(map(q, all_teams))}) OR SG.Team2 IN ({",".join(map(q, all_teams))}))'
-    team_games = []
-    for clause in in_list('SG.OverviewPage', {s['Page'] for s in sched}):
-        team_games += cargo('ScoreboardGames=SG',
-                            'SG.GameId=GameId,SG.MatchId=MatchId,SG.N_GameInMatch=N,SG.OverviewPage=Page,'
-                            'SG.DateTime_UTC=DT,SG.Team1=T1,SG.Team2=T2,SG.WinTeam=Win', f'{clause} AND {on_team}')
+    all_teams = set().union(*teams.values())
+    team_games = [g for page in sorted({s['Page'] for s in sched}) for g in shared.games_by_page.get(page, [])
+                  if g['T1'] in all_teams or g['T2'] in all_teams]
     by_match = defaultdict(list)
     for g in team_games:
         by_match[g['MatchId']].append(g)
 
-    per_game = defaultdict(list)
-    for clause in in_list('MSG.MatchId', {s['MatchId'] for s in sched}):
-        for g in cargo('MatchScheduleGame=MSG', 'MSG.MatchId=MatchId,MSG.N_GameInMatch=N,MSG.Blue=Blue,'
-                       'MSG.Red=Red,MSG.Winner=Winner', clause):
-            per_game[g['MatchId']].append(g)
-
-    level = {}  # tournament level per event: Primary, Secondary or Showmatch
-    for clause in in_list('T.OverviewPage', {s['Page'] for s in sched} | {g['Page'] for g in played}):
-        for t in cargo('Tournaments=T', 'T.OverviewPage=Page,T.TournamentLevel=Level', clause):
-            level[t['Page']] = {'Primary': 'P', 'Secondary': 'S', 'Showmatch': 'X'}.get(t['Level'], '')
+    per_game, level = shared.per_game, shared.level
 
     def skipped(page):
         return not showmatches and level.get(page) == 'X' and 'All-Star' not in page
@@ -272,8 +331,7 @@ def build(player, showmatches=False):
                        short_team(team), short_team(opp), seq, flag, kind(g0['Page']), level.get(g0['Page'], '')])
 
     # Game orders found elsewhere (press reports) for series Leaguepedia has no game records for.
-    fixes = json.load(open(FIXES)).get(player, []) if os.path.exists(FIXES) else []
-    for fx in fixes:
+    for fx in shared.fixes.get(player, []):
         for u in unknown:
             mine, theirs = map(int, u[5].split('-'))
             if (u[0], u[4]) == (fx['date'], fx['opponent']) and is_bo5(fx['games']) \
@@ -348,18 +406,36 @@ def main():
     ap.add_argument('--out', default='bo5/players', help='directory for the per-player JSON files')
     ap.add_argument('--showmatches', action='store_true', help='keep events Leaguepedia files as showmatches')
     ap.add_argument('--index', metavar='PATH', help='also write a search index of every player file in --out')
+    ap.add_argument('--min', type=int, metavar='N',
+                    help='also find and write every player with at least N best-of-fives')
     a = ap.parse_args()
     os.makedirs(a.out, exist_ok=True)
-    failed = []
-    for p in a.players:
-        try:
-            data = build(p, a.showmatches)
-        except Exception as e:  # one bad player shouldn't sink a long run
-            print(f'{p}: FAILED {e}', file=sys.stderr)
-            failed.append(p)
-            continue
-        with open(os.path.join(a.out, p.replace('/', '_') + '.json'), 'w') as f:
-            json.dump(data, f, ensure_ascii=False, separators=(',', ':'))
+    start = time.time()
+    found = discover(a.min) if a.min else {}
+    # Group-by picks a spelling per run ("Hans sama", "Hans Sama"); keep the one already on disk so URLs hold.
+    found.update({k: f[:-5] for f in os.listdir(a.out) if f.endswith('.json') and (k := key(f[:-5])) in found})
+    named = {key(p) for p in a.players}
+    players = list(a.players) + sorted(p for k, p in found.items() if k not in named)
+    shared = Shared() if players else None
+    failed, written = [], 0
+    batch = 50
+    for i in range(0, len(players), batch):
+        names = players[i:i + batch]
+        print(f'players {i + 1}-{i + len(names)} of {len(players)} ({time.time() - start:.0f}s)', file=sys.stderr)
+        played, roster = shared.players(names)
+        for p in names:
+            try:
+                data = build(p, played[key(p)], roster[key(p)], shared, a.showmatches)
+            except Exception as e:  # one bad player shouldn't sink a long run
+                print(f'{p}: FAILED {e!r}', file=sys.stderr)
+                failed.append(p)
+                continue
+            if key(p) not in named and len(data['series']) < a.min:
+                continue  # discovery overcounts; only keep who really reached --min
+            with open(os.path.join(a.out, p.replace('/', '_') + '.json'), 'w') as f:
+                json.dump(data, f, ensure_ascii=False, separators=(',', ':'))
+            written += 1
+    print(f'wrote {written} players in {time.time() - start:.0f}s', file=sys.stderr)
     if a.index:
         write_index(a.out, a.index)
     if failed:

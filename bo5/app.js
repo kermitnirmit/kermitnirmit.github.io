@@ -380,7 +380,7 @@ async function choose(q, history) {
 // Each player's [series that reached the scoreline, series won from there], in this order (see players.json).
 const STATES = ['0-0', '1-0', '0-1', '2-0', '1-1', '0-2', '2-1', '1-2', '2-2'];
 const STATE_NAMES = { '0-0': 'Overall', '2-2': '2–2, game 5' };
-const MIN_SERIES = 10;
+const MIN_SERIES = 15;
 let lbState = '1-0';
 
 function drawLeaders() {
@@ -398,8 +398,8 @@ function drawLeaders() {
   $('#lb').innerHTML = ranked.slice(0, 10).map(row).join('') +
     (me >= 10 ? '<li class="gap" aria-hidden="true">…</li>' + row(ranked[me], me) : '');
   const at = lbState === '0-0' ? 'a best-of-five' : `best-of-fives from ${lbState.replace('-', '–')}`;
-  const among = ranked.length === INDEX.length ? `all ${INDEX.length} players with 50+ best-of-fives`
-    : `the ${ranked.length} of ${INDEX.length} players with 50+ best-of-fives who had at least ${MIN_SERIES} of them`;
+  const among = ranked.length === INDEX.length ? `all ${INDEX.length} players with 20+ best-of-fives`
+    : `the ${ranked.length} of ${INDEX.length} players with 20+ best-of-fives who had at least ${MIN_SERIES} of them`;
   $('#lbNote').textContent = `Share of ${at} won, among ${among}. All events, showmatches left out.` +
     (me < 0 ? ` ${player.name} has fewer than ${MIN_SERIES}.` : '');
 }
@@ -454,7 +454,7 @@ function openPicks() {
   picks.innerHTML = matches.length ? matches.map((p, j) => {
     const real = p.page !== p.name ? ` <em>${esc(p.page.slice(p.name.length).trim())}</em>` : '';
     return `<li role="option" id="pick${j}" data-j="${j}" aria-selected="${j === active}"><b>${esc(p.name)}${real}</b><span>${esc(p.team)} · ${p.series} Bo5s · ${p.from}–${p.to}</span></li>`;
-  }).join('') : '<li class="none">No player with 50+ best-of-fives matches that.</li>';
+  }).join('') : '<li class="none">No player with 20+ best-of-fives matches that.</li>';
   picks.hidden = false;
   who.setAttribute('aria-expanded', 'true');
   who.setAttribute('aria-activedescendant', matches.length ? 'pick' + active : '');
