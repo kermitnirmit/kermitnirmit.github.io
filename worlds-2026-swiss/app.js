@@ -34,6 +34,7 @@ function recount(force) {
   const key = JSON.stringify(plain(eff));
   if (!force && key === sentKey) return;
   sentKey = key;
+  runSims();
   if (busy || sharesPending) { worker.terminate(); startWorker(); }
   reqId++; busy = true; sharesPending = true;
   worker.postMessage({ id: reqId, state: plain(eff) });
@@ -175,6 +176,93 @@ function renderBoard() {
   }).join('');
 }
 
+// ---------- chances to advance ----------
+// sim.js plays the rest of the stage SIM_RUNS times from what's on screen and sends back a running tally.
+const SIM_RUNS = 20000;
+let sim = null, simId = 0, simOut = null;
+function startSim() {
+  try { sim = new Worker('sim.js' + (window.SWISS_V ? '?v=' + window.SWISS_V : '')); } catch (e) { return; }
+  sim.onmessage = (e) => { if (e.data.id === simId) { simOut = e.data; renderOdds(); } };
+  sim.onerror = () => { sim = null; simOut = null; renderOdds(); };
+}
+startSim();
+function runSims() {
+  if (!sim) return;
+  simId++;
+  sim.postMessage({ id: simId, state: plain(eff), runs: SIM_RUNS });
+  document.getElementById('oddsTable').classList.add('stale');
+}
+// Outcomes, in tally order: finish 3–0, 3–1, 3–2, 2–3, 1–3, 0–3, or lose the Play-In.
+const OUTCOMES = ['3–0', '3–1', '3–2', '2–3', '1–3', '0–3', 'PI'];
+const OUTCOME_TIPS = ['goes 3–0', 'goes 3–1', 'goes 3–2', 'is out at 2–3', 'is out at 1–3', 'is out at 0–3', 'loses the Play-In'];
+// Whether outcome k can still happen for a team with record {w, l}; pi is 'pending' or 'lost' for a Play-In team.
+function reachable(s, k) {
+  if (s.pi === 'lost') return k === 6;
+  if (k === 6) return s.pi === 'pending';
+  if (k < 3) return s.w === 3 ? s.l === k : s.w < 3 && s.l <= k;
+  return s.l === 3 ? s.w === 5 - k : s.w < 3 && s.w <= 5 - k;
+}
+function oddsCell(c, n, can, only) {
+  if (!can) return '–';
+  if (only) return '100%';
+  const p = Math.round(100 * c / n);
+  return c === 0 || p === 0 ? '<1%' : c === n || p === 100 ? '>99%' : p + '%';
+}
+function renderOdds() {
+  const sec = document.getElementById('odds');
+  if (!simOut || !simOut.n) { sec.hidden = true; return; }
+  sec.hidden = false;
+  const { tally, n, done, runs } = simOut;
+  setPlayIn(eff.pi);
+  // each team's record right now, to tell outcomes that can't happen any more (–) from ones that just didn't come up (<1%)
+  const rec = bracketRecords(), now = {};
+  for (let i = 0; i < 16; i++) if (i !== PI || eff.pi) now[name(i)] = { w: rec.w[i], l: rec.l[i] };
+  for (const c of PLAYIN_CODES) if (!(c in now)) now[c] = eff.pi ? { pi: 'lost' } : { w: 0, l: 0, pi: 'pending' };
+  const sum = (t, ks) => ks.reduce((s, k) => s + t[k], 0);
+  const rows = Object.entries(tally).filter(([c]) => c in now).map(([c, t]) => {
+    const can = OUTCOMES.map((_, k) => reachable(now[c], k));
+    return { c, t, can, adv: sum(t, [0, 1, 2]), out: sum(t, [3, 4, 5, 6]) };
+  }).sort((a, b) => b.adv - a.adv || b.t[0] - a.t[0] || a.c.localeCompare(b.c));
+  const exact = (v) => { const p = 100 * v / n; return p < 0.1 ? '<0.1%' : p > 99.9 && v < n ? '>99.9%' : p.toFixed(1) + '%'; };
+  const seg = (c, k, v) => v ? `<i class="s${k}" style="width:${(100 * v / n).toFixed(2)}%" data-tip="${c} ${OUTCOME_TIPS[k]}: <b>${exact(v)}</b>"></i>` : '';
+  const head = (t, cls) => `<span class="${cls}">${t}</span>`;
+  document.getElementById('oddsTable').classList.remove('stale');
+  document.getElementById('oddsTable').innerHTML =
+    `<div class="oh">${head('Team', 'tm')}<span></span>${head('Advance', 'adv')}${[0, 1, 2].map(k => head(OUTCOMES[k], 'sp')).join('')}` +
+    `${head('Out', 'out')}${[3, 4, 5].map(k => head(OUTCOMES[k], 'sp')).join('')}</div>` +
+    rows.map(({ c, t, can, adv, out }) => {
+      const canAdv = can[0] || can[1] || can[2], canOut = can[3] || can[4] || can[5] || can[6];
+      const only = (k) => can.filter(Boolean).length === 1 && can[k];
+      const cell = (k) => `<span class="sp">${oddsCell(t[k], n, can[k], only(k))}</span>`;
+      return `<div class="or"><b>${c}${rg(c)}</b><span class="obar">${t.map((v, k) => seg(c, k, v)).join('')}</span>` +
+        `<span class="adv">${oddsCell(adv, n, canAdv, !canOut)}</span>${[0, 1, 2].map(cell).join('')}` +
+        `<span class="out">${oddsCell(out, n, canOut, !canAdv)}</span>${[3, 4, 5].map(cell).join('')}</div>`;
+    }).join('');
+  document.getElementById('oddsSub').textContent = done < runs ? `simulating… ${done.toLocaleString()} of ${runs.toLocaleString()}` : `${n.toLocaleString()} simulations`;
+  const picks = eff.rounds.reduce((s, rd) => s + rd.win.filter((x, k) => x >= 0 && (rd.lock || [])[k] !== 2).length, 0) + (eff.pi && !activeLocks().pi ? 1 : 0);
+  document.getElementById('oddsNote').textContent = `Each simulation plays out the rest of the Swiss stage from the bracket above` +
+    (picks ? `, keeping the real results and your ${picks} pick${picks === 1 ? '' : 's'}` : `, keeping every real result`) +
+    `. Draws are random among the legal ones, and every game is won with the GPR chance, so Bo3s go game by game.`;
+}
+// Hovering a bar segment shows its exact share of the simulations.
+const oddsTip = document.getElementById('oddsTip');
+function placeTip(e) {
+  const r = oddsTip.getBoundingClientRect();
+  let x = e.clientX + 12, y = e.clientY - r.height - 10;
+  if (x + r.width > innerWidth - 8) x = e.clientX - r.width - 12;
+  if (y < 8) y = e.clientY + 16;
+  oddsTip.style.left = Math.max(8, x) + 'px'; oddsTip.style.top = y + 'px';
+}
+const oddsBox = document.getElementById('oddsTable');
+oddsBox.addEventListener('pointermove', (e) => {
+  const seg = e.target.closest('[data-tip]');
+  document.querySelectorAll('.obar i.hot').forEach(i => i !== seg && i.classList.remove('hot'));
+  if (!seg) { oddsTip.hidden = true; return; }
+  seg.classList.add('hot');
+  oddsTip.innerHTML = seg.dataset.tip; oddsTip.hidden = false; placeTip(e);
+});
+oddsBox.addEventListener('pointerleave', () => { oddsTip.hidden = true; document.querySelectorAll('.obar i.hot').forEach(i => i.classList.remove('hot')); });
+
 // ---------- regions ----------
 const REGIONS = ['LCK', 'LPL', 'LEC', 'LCS', 'LCP', 'CBLOL'];
 let rgPin = null, rgHover = null;
@@ -275,10 +363,10 @@ function regionOf(code) {
   return (t && t.region) || (PLAYIN[code] && PLAYIN[code].region) || '';
 }
 const rg = (code) => { const r = regionOf(code); return r ? `<i class="rg">${r}</i>` : ''; };
-function bCell(top, bot, x, actTop, actBot, locked, unpairAct) {
-  // win chance from Riot's Global Power Rankings, same formula the simulator uses
+function bCell(top, bot, x, actTop, actBot, locked, unpairAct, bo) {
+  // chance to win the series from Riot's Global Power Rankings, same odds the simulator plays with
   const known = top in GPR.pts && bot in GPR.pts;
-  const pTop = known ? Math.round(100 * gprWin(top, bot)) : null;
+  const pTop = known ? Math.round(100 * gprSeries(top, bot, bo)) : null;
   const label = (name, p) => `<span class="nm">${name}${rg(name)}</span>${p === null ? '' : `<small class="wp">${p}%</small>`}`;
   const row = (name, p, cls, act) => act
     ? `<button class="${cls}" data-act="${act}" ${locked ? 'aria-disabled="true"' : ''} title="${locked ? 'Real result' : 'Pick the winner'}">${label(name, p)}</button>`
@@ -288,7 +376,7 @@ function bCell(top, bot, x, actTop, actBot, locked, unpairAct) {
   return `<div class="bx ${locked ? 'real' : ''} ${extra ? 'hasicon' : ''}">${row(top, pTop, x === 1 ? 'w' : x === 2 ? 'l' : '', actTop)}${row(bot, pTop === null ? null : 100 - pTop, x === 2 ? 'w' : x === 1 ? 'l' : '', actBot)}${extra}</div>`;
 }
 // undrawn teams: in the current round each is a button that drafts it into a match, same as the main page
-function bSlots(teams, total, drawable, r) {
+function bSlots(teams, total, drawable, r, bo) {
   const shares = drawable && !busy && !sharesPending && latest && latest.r === r && latest.pairShare ? latest : null;
   const slot = (i) => {
     if (!drawable) return `<span class="bslot" title="${T[i].name}">${bName(i)}${rg(bName(i))}</span>`;
@@ -298,7 +386,7 @@ function bSlots(teams, total, drawable, r) {
       const v = shares && shares.pairShare.get(Math.min(i, selected) + '-' + Math.max(i, selected));
       if (v !== undefined && v > 0n) cls = 'elig'; else { cls = 'dim'; dis = !!shares; }
     }
-    const odds = cls === 'elig' ? ` <small>${Math.round(100 * gprWin(name(selected), name(i)))}%</small>` : '';
+    const odds = cls === 'elig' ? ` <small>${Math.round(100 * gprSeries(name(selected), name(i), bo))}%</small>` : '';
     return `<button class="bslot ${cls}" data-act="pick:${i}" ${dis ? 'disabled' : ''} title="${T[i].name}">${bName(i)}${rg(bName(i))}${odds}</button>`;
   };
   return `<div class="bslots">${teams.map(slot).join('')}${Array.from({ length: Math.max(0, total - teams.length) }, () => '<span class="bslot q">?</span>').join('')}</div>`;
@@ -306,7 +394,7 @@ function bSlots(teams, total, drawable, r) {
 function bPool(key, rec, curR) {
   if (key === 'pi') {
     const x = eff.pi === 'KC' ? 1 : eff.pi === 'MVK' ? 2 : 0, locked = !!activeLocks().pi;
-    return `<div class="bpool ${curR === 0 ? 'now' : ''}" data-rec="pi"><div class="bh"><span>Play-In</span><em>Bo5</em></div>${bCell('KC', 'MVK', x, 'pi:KC', 'pi:MVK', locked)}</div>`;
+    return `<div class="bpool ${curR === 0 ? 'now' : ''}" data-rec="pi"><div class="bh"><span>Play-In</span><em>Bo5</em></div>${bCell('KC', 'MVK', x, 'pi:KC', 'pi:MVK', locked, null, 5)}</div>`;
   }
   const [w, l] = key.split('-').map(Number);
   if (key in END_INFO) {
@@ -323,9 +411,9 @@ function bPool(key, rec, curR) {
   const undrawable = r === curR && rd.win.every(v => v < 0);
   let body = pairs.map(([[a, b], x, k]) => bCell(bName(a), bName(b), x === a ? 1 : x === b ? 2 : 0,
     clickable ? `win:${r}:${k}:${a}` : null, clickable ? `win:${r}:${k}:${b}` : null, lock[k] === 2,
-    undrawable && !lock[k] ? `unpair:${k}` : null)).join('');
+    undrawable && !lock[k] ? `unpair:${k}` : null, boOf(w, l))).join('');
   const open = n - 2 * pairs.length;
-  if (open > 0) body += pairs.length || waiting.length ? bSlots(waiting, open, eff.pi && r === curR, r) : Array.from({ length: open / 2 }, () => '<div class="bx tbd"><span>—</span><span>—</span></div>').join('');
+  if (open > 0) body += pairs.length || waiting.length ? bSlots(waiting, open, eff.pi && r === curR, r, boOf(w, l)) : Array.from({ length: open / 2 }, () => '<div class="bx tbd"><span>—</span><span>—</span></div>').join('');
   return `<div class="bpool ${curR === r ? 'now' : ''}" data-rec="${key}"><div class="bh"><span>${w}–${l}</span><em>${bo}</em></div>${body}</div>`;
 }
 function renderBracket(live) {
@@ -463,14 +551,14 @@ function drawRest(s) {
 }
 function playRest(s) {
   setPlayIn(s.pi);
-  const { r } = derive(s.rounds); const rd = s.rounds[r - 1]; if (!rd) return;
-  rd.win = rd.win.map((x, k) => { if (x >= 0) return x; const [a, b] = rd.pairs[k]; return Math.random() < gprWin(name(a), name(b)) ? a : b; });
+  const { r, w, l } = derive(s.rounds); const rd = s.rounds[r - 1]; if (!rd) return;
+  rd.win = rd.win.map((x, k) => { if (x >= 0) return x; const [a, b] = rd.pairs[k]; return playSeries(name(a), name(b), boOf(w[a], l[a])) ? a : b; });
 }
 document.getElementById('bDraw').onclick = () => { notice = ''; snapshot('Random draw'); user = editable(); drawRest(user); commit(); };
 document.getElementById('bPlay').onclick = () => { notice = ''; snapshot('Random results'); user = editable(); playRest(user); commit(); };
 document.getElementById('bSim').onclick = () => { notice = '';
   snapshot('Simulated'); user = editable();
-  if (!user.pi) user.pi = Math.random() < gprWin('KC', 'MVK') ? 'KC' : 'MVK';
+  if (!user.pi) user.pi = playSeries('KC', 'MVK', 5) ? 'KC' : 'MVK';
   for (let guard = 0; guard < 12; guard++) {
     setPlayIn(user.pi);
     const st = derive(user.rounds); if (st.r > 5) break;

@@ -35,6 +35,8 @@ function derive(history){
   }
   return {w,l,adj,r};
 }
+// Bo3 once a win or a loss decides something (2–0, 0–2 and every round 4 and 5 match), else Bo1
+function boOf(w,l){ return w===2||l===2 ? 3 : 1; }
 function activeList(w,l){ const o=[]; for(let i=0;i<N;i++) if(w[i]<3&&l[i]<3) o.push(i); return o; }
 function isRoundDone(rd,w,l){
   const need = activeList(w,l).length/2;
@@ -269,4 +271,4 @@ function randomDraw(history){
   return comps.length ? comps[Math.floor(Math.random()*comps.length)] : null;
 }
 
-if(typeof module!=='undefined') module.exports={TEAMS,PLAYIN,PLAYIN_CODES,PI,setPlayIn,r1Draws,analyzeState,drawCompletions,analyze,quickTotal,randomDraw,derive,setV3,activeList,canPair,F_AFTER_R1};
+if(typeof module!=='undefined') module.exports={TEAMS,PLAYIN,PLAYIN_CODES,PI,setPlayIn,r1Draws,analyzeState,drawCompletions,analyze,quickTotal,randomDraw,derive,setV3,activeList,canPair,boOf,F_AFTER_R1};

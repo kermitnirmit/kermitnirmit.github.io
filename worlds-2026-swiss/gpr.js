@@ -1,5 +1,6 @@
 // Riot's Global Power Rankings (lolesports.com/en-US/gpr/2026/current), last updated Oct 18, 2026, 5:00 AM.
 // Win chance uses GPR's own expected-result formula: We = 1 / (10^(-dr/600) + 1), dr = rating difference.
+// That's taken as the chance to win one game; Bo3s and the Play-In Bo5 are played game by game.
 const GPR = {
   asOf: 'Oct 18, 2026',
   pts: { HLE: 1540, GEN: 1519, BLG: 1513, G2: 1478, T1: 1471, LYON: 1424, DK: 1409, AL: 1409, KC: 1396,
@@ -10,4 +11,18 @@ function gprWin(codeA, codeB) {
   if (a === undefined || b === undefined) return 0.5;
   return 1 / (Math.pow(10, -(a - b) / 600) + 1);
 }
-if (typeof module !== 'undefined') module.exports = { GPR, gprWin };
+// Chance A wins a best-of-bo: first to (bo+1)/2 games, each won with gprWin.
+function gprSeries(codeA, codeB, bo) {
+  const p = gprWin(codeA, codeB), q = 1 - p, need = (bo + 1) / 2;
+  let t = 0, c = 1; // c = ways to drop k games before the last win: C(need-1+k, k)
+  for (let k = 0; k < need; k++) { t += c * Math.pow(p, need) * Math.pow(q, k); c = c * (need + k) / (k + 1); }
+  return t;
+}
+// Plays a best-of-bo one game at a time; true if A wins.
+function playSeries(codeA, codeB, bo) {
+  const p = gprWin(codeA, codeB), need = (bo + 1) / 2;
+  let a = 0, b = 0;
+  while (a < need && b < need) if (Math.random() < p) a++; else b++;
+  return a === need;
+}
+if (typeof module !== 'undefined') module.exports = { GPR, gprWin, gprSeries, playSeries };
