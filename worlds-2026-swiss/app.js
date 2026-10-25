@@ -230,7 +230,8 @@ function renderOdds() {
     `<div class="oh"><span>Team</span><span></span><span class="adv">Advance</span></div>` +
     rows.map(({ c, t, can, adv }) => {
       const canAdv = can[0] || can[1] || can[2], canOut = can[3] || can[4] || can[5] || can[6];
-      return `<div class="or"><b>${c}${rg(c)}</b><span class="obar">${t.map((v, k) => seg(c, k, v)).join('')}</span>` +
+      // eliminated, for real or in the viewer's picks: nothing left to win
+      return `<div class="or${canAdv ? '' : ' gone'}"><b>${c}${rg(c)}</b><span class="obar">${t.map((v, k) => seg(c, k, v)).join('')}</span>` +
         `<span class="adv">${oddsCell(adv, n, canAdv, !canOut)}</span></div>`;
     }).join('');
   document.getElementById('oddsSub').textContent = done < runs ? `simulating… ${done.toLocaleString()} of ${runs.toLocaleString()}` : `${n.toLocaleString()} simulations`;

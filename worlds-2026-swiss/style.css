@@ -188,6 +188,8 @@ button.bslot:hover:not(:disabled){border-color:var(--accent);color:var(--ink)}
 .oh .adv,.or .adv{text-align:right;font-variant-numeric:tabular-nums}
 .or{border-top:1px solid var(--line);font-size:14px}
 .or b{font-weight:700;white-space:nowrap}
+.or.gone{opacity:.4}
+.or.gone b{text-decoration:line-through}
 .obar{display:flex;height:12px;border-radius:2px;overflow:hidden;background:var(--line)}
 .obar i{display:block;height:100%}
 .obar .s0{background:var(--win)}
