@@ -3,6 +3,10 @@
 
     python3 scripts/bo5.py Faker Chovy --out bo5/players
     python3 scripts/bo5.py --min 20 --index bo5/players.json   # everyone with 20+ best-of-fives
+    python3 scripts/bo5.py --best-of 3 --min 100 --index bo3/players.json   # best-of-threes instead
+
+Everything below says best-of-five; with --best-of 3 read best-of-three, 2 for 3, and
+scripts/bo3_fixes.json for scripts/bo5_fixes.json.
 
 Writes one JSON file per player. Standard library only, so it can run in a GitHub Action.
 
@@ -41,8 +45,16 @@ from datetime import datetime, timedelta, timezone
 EXPORT = 'https://lol.fandom.com/wiki/Special:CargoExport'
 UA = 'Mozilla/5.0 (compatible; bo5-history/1.0; +https://nirmit.dev/faker-bo5/)'
 PAGE_SIZE = 5000
-FIXES = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'bo5_fixes.json')
+FIXES = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'bo{}_fixes.json')
 NUMERIC = {'N', 'S1', 'S2', 'BestOf', 'Winner', 'FF', 'Null'}  # every other field is text
+BEST_OF, TO_WIN = 5, 3  # set by --best-of
+
+
+def set_best_of(n):
+    global BEST_OF, TO_WIN, STATES
+    BEST_OF, TO_WIN = n, n // 2 + 1
+    # Scorelines a series can pass through without being over, for the leaderboard: 0-0, 1-0, 0-1, 2-0, ...
+    STATES = [f'{w}-{k - w}' for k in range(n) for w in range(k, -1, -1) if w < TO_WIN and k - w < TO_WIN]
 
 
 def cargo(tables, fields, where, join_on=None, order_by=None, group_by=None, having=None):
@@ -153,7 +165,7 @@ class Shared:
                        'MS.Team2Score=S2,MS.DateTime_UTC=DT,MS.FF=FF,MS.IsNullified=Null,MS.Tab=Tab,MS.BestOf=BestOf',
                        '1=1', order_by='MS._ID'):
             self.best_of[s['MatchId']] = s['BestOf']
-            if s['BestOf'] == 5:
+            if s['BestOf'] == BEST_OF:
                 self.sched[s['Page']].append(s)
 
         print('fetching scoreboard games', file=sys.stderr)
@@ -168,7 +180,7 @@ class Shared:
         print('fetching per-game winners', file=sys.stderr)
         self.per_game = defaultdict(list)
         for g in cargo('MatchScheduleGame=MSG,MatchSchedule=MS', 'MSG.MatchId=MatchId,MSG.N_GameInMatch=N,'
-                       'MSG.Blue=Blue,MSG.Red=Red,MSG.Winner=Winner', 'MS.BestOf=5',
+                       'MSG.Blue=Blue,MSG.Red=Red,MSG.Winner=Winner', f'MS.BestOf={BEST_OF}',
                        join_on='MSG.MatchId=MS.MatchId', order_by='MSG._ID'):
             self.per_game[g['MatchId']].append(g)
 
@@ -177,7 +189,8 @@ class Shared:
         for t in cargo('Tournaments=T', 'T.OverviewPage=Page,T.TournamentLevel=Level', '1=1', order_by='T._ID'):
             self.level[t['Page']] = {'Primary': 'P', 'Secondary': 'S', 'Showmatch': 'X'}.get(t['Level'], '')
 
-        self.fixes = json.load(open(FIXES)) if os.path.exists(FIXES) else {}
+        fixes = FIXES.format(BEST_OF)
+        self.fixes = json.load(open(fixes)) if os.path.exists(fixes) else {}
 
     def players(self, names):
         """Each player's scoreboard games, joined to the shared tables, and roster rows, keyed by key(name)."""
@@ -199,17 +212,21 @@ class Shared:
 def discover(n):
     """Everyone who could have n or more best-of-fives: n with scoreboards, or n on a roster that played them.
     The real count comes from build(); this only has to not miss anyone."""
-    print(f'finding players with {n}+ best-of-fives', file=sys.stderr)
-    on_roster = cargo('TournamentPlayers=TP,MatchSchedule=MS', 'TP.Link=Link,COUNT(DISTINCT MS.MatchId)=Count',
-                      'MS.BestOf=5 AND (MS.Team1=TP.Team OR MS.Team2=TP.Team)',
-                      join_on='TP.OverviewPage=MS.OverviewPage', group_by='TP.Link',
-                      having=f'COUNT(DISTINCT MS.MatchId)>={n}', order_by='TP.Link')
-    played = cargo('ScoreboardPlayers=SP,ScoreboardGames=SG,MatchSchedule=MS',
-                   'SP.Link=Link,COUNT(DISTINCT SG.MatchId)=Count', 'MS.BestOf=5',
-                   join_on='SP.GameId=SG.GameId,SG.MatchId=MS.MatchId', group_by='SP.Link',
-                   having=f'COUNT(DISTINCT SG.MatchId)>={n}', order_by='SP.Link')
+    print(f'finding players with {n}+ best-of-{BEST_OF}s', file=sys.stderr)
+    # One year at a time: counted over every year at once, the best-of-three joins time out on the wiki.
+    on_roster, played = defaultdict(int), defaultdict(int)
+    for y in range(2011, datetime.now(timezone.utc).year + 1):
+        year = f'MS.BestOf={BEST_OF} AND MS.DateTime_UTC >= "{y}-01-01" AND MS.DateTime_UTC < "{y + 1}-01-01"'
+        for r in cargo('TournamentPlayers=TP,MatchSchedule=MS', 'TP.Link=Link,COUNT(DISTINCT MS.MatchId)=Count',
+                       year + ' AND (MS.Team1=TP.Team OR MS.Team2=TP.Team)',
+                       join_on='TP.OverviewPage=MS.OverviewPage', group_by='TP.Link', order_by='TP.Link'):
+            on_roster[r['Link']] += int(r['Count'])
+        for r in cargo('ScoreboardPlayers=SP,ScoreboardGames=SG,MatchSchedule=MS',
+                       'SP.Link=Link,COUNT(DISTINCT SG.MatchId)=Count', year,
+                       join_on='SP.GameId=SG.GameId,SG.MatchId=MS.MatchId', group_by='SP.Link', order_by='SP.Link'):
+            played[r['Link']] += int(r['Count'])
     # The tables spell some names differently ("meiko", "Meiko"); prefer the scoreboard spelling.
-    return {key(r['Link']): r['Link'] for r in on_roster + played if r['Link']}
+    return {key(p): p for counts in (on_roster, played) for p, c in counts.items() if p and c >= n}
 
 
 # ---------- one player ----------
@@ -264,7 +281,7 @@ def build(player, played, roster, shared, showmatches=False):
         team = s['T1'] if s['T1'] in teams[s['Page']] else s['T2']
         opp = s['T2'] if team == s['T1'] else s['T1']
         mine, theirs = (s['S1'], s['S2']) if team == s['T1'] else (s['S2'], s['S1'])
-        if mine is None or theirs is None or max(mine, theirs) != 3:
+        if mine is None or theirs is None or max(mine, theirs) != TO_WIN:
             continue  # unfinished, a draw, or not really a Bo5 (e.g. Rift Rivals relay games)
         if skipped(s['Page']):
             continue
@@ -298,18 +315,19 @@ def build(player, played, roster, shared, showmatches=False):
             if pg and all(g['Winner'] in (1, 2, '1', '2') for g in pg):
                 seq = ''.join('W' if (g['Blue'] if int(g['Winner']) == 1 else g['Red']) == team else 'L' for g in pg)
             elif min(mine, theirs) == 0:
-                seq = 'W' * 3 if mine == 3 else 'L' * 3
+                seq = 'W' * TO_WIN if mine == TO_WIN else 'L' * TO_WIN
         row = [s['DT'][:10] if s['DT'] else '', event_name(s['Page']), round_name(s['MatchId'], s['Page'], s['Tab']),
                short_team(team), short_team(opp)]
-        if not (seq and seq.count('W') == mine and seq.count('L') == theirs and is_bo5(seq)) and min(mine, theirs) == 0:
-            seq = 'W' * 3 if mine == 3 else 'L' * 3  # game records incomplete, but a sweep has only one order
-        if seq and seq.count('W') == mine and seq.count('L') == theirs and is_bo5(seq):
+        if not (seq and seq.count('W') == mine and seq.count('L') == theirs and complete(seq)) and min(mine, theirs) == 0:
+            seq = 'W' * TO_WIN if mine == TO_WIN else 'L' * TO_WIN  # game records incomplete, but a sweep has only one order
+        if seq and seq.count('W') == mine and seq.count('L') == theirs and complete(seq):
             series.append(row + [seq, flag, kind(s['Page']), level.get(s['Page'], '')])
         else:
             unknown.append(row + [f'{mine}-{theirs}', seq or '', kind(s['Page']), level.get(s['Page'], '')])
 
     # Bo5s missing from the schedule entirely: the player's own games under a match ID with no
-    # series length. Four or more games, or three games all won by one side, can only be a Bo5.
+    # series length. Four or more games, or three games all won by one side, can only be a Bo5;
+    # three games split 2-1 can only be a Bo3 (two won by one side could as well be a Bo2).
     loose = defaultdict(list)
     for g in played:
         if g['GameId'] not in used and g['BestOf'] in (None, ''):
@@ -322,7 +340,7 @@ def build(player, played, roster, shared, showmatches=False):
         team_gs = sorted([g for g in by_match.get(mid, []) if team in (g['T1'], g['T2'])] or gs,
                          key=lambda g: (g['N'] or 0, g['DT'] or ''))
         seq = ''.join('W' if g['Win'] == team else 'L' for g in team_gs)
-        if not is_bo5(seq) or (len(seq) == 3 and len(set(seq)) != 1) or len(seq) < 3:
+        if not complete(seq) or len(seq) < 3:
             continue
         g0 = team_gs[0]
         opp = g0['T2'] if g0['T1'] == team else g0['T1']
@@ -334,7 +352,7 @@ def build(player, played, roster, shared, showmatches=False):
     for fx in shared.fixes.get(player, []):
         for u in unknown:
             mine, theirs = map(int, u[5].split('-'))
-            if (u[0], u[4]) == (fx['date'], fx['opponent']) and is_bo5(fx['games']) \
+            if (u[0], u[4]) == (fx['date'], fx['opponent']) and complete(fx['games']) \
                     and (fx['games'].count('W'), fx['games'].count('L')) == (mine, theirs):
                 series.append(u[:5] + [fx['games'], '', u[7], u[8]])
                 unknown.remove(u)
@@ -354,15 +372,14 @@ def build(player, played, roster, shared, showmatches=False):
     }
 
 
-# Scorelines a series can pass through without being over, for the leaderboard.
-STATES = ['0-0', '1-0', '0-1', '2-0', '1-1', '0-2', '2-1', '1-2', '2-2']
+set_best_of(5)
 
 
 def from_states(series):
     """[series that reached the scoreline, series won from there] for each of STATES."""
     tally = {k: [0, 0] for k in STATES}
     for x in series:
-        seq, won = x[5], x[5].count('W') == 3
+        seq, won = x[5], x[5].count('W') == TO_WIN
         for k in range(len(seq)):  # the score before game k+1 was played
             t = tally[f"{seq[:k].count('W')}-{seq[:k].count('L')}"]
             t[0] += 1
@@ -370,7 +387,7 @@ def from_states(series):
     return [tally[k] for k in STATES]
 
 
-def write_index(out, path):
+def write_index(out, path, n):
     """One row per player for the page's search box and leaderboard, most best-of-fives first."""
     rows = []
     for f in sorted(os.listdir(out)):
@@ -381,9 +398,9 @@ def write_index(out, path):
         if not S:
             continue
         rows.append([d['player'], re.sub(r' \(.*\)$', '', d['player']), len(S),
-                     sum(1 for x in S if x[5].count('W') == 3), S[-1][3], S[0][0][:4], S[-1][0][:4], from_states(S)])
+                     sum(1 for x in S if x[5].count('W') == TO_WIN), S[-1][3], S[0][0][:4], S[-1][0][:4], from_states(S)])
     rows.sort(key=lambda r: (-r[2], r[1].lower()))
-    index = {'generated': datetime.now(timezone.utc).strftime('%Y-%m-%d'),
+    index = {'generated': datetime.now(timezone.utc).strftime('%Y-%m-%d'), 'bestOf': BEST_OF, 'min': n,
              'fields': ['page', 'name', 'series', 'won', 'team', 'from', 'to', 'states'], 'states': STATES,
              'players': rows}
     if same_but_date(path, index):
@@ -403,25 +420,28 @@ def same_but_date(path, data):
     return 'generated' in old and {**old, 'generated': None} == {**data, 'generated': None}
 
 
-def is_bo5(seq):
-    """True if seq is a complete best-of-five: someone reaches 3 on the last game and not before."""
+def complete(seq):
+    """True if seq is a complete series: someone reaches TO_WIN on the last game and not before."""
     w = l = 0
     for i, c in enumerate(seq):
         w, l = w + (c == 'W'), l + (c == 'L')
-        if (w == 3 or l == 3) and i != len(seq) - 1:
+        if (w == TO_WIN or l == TO_WIN) and i != len(seq) - 1:
             return False
-    return w == 3 or l == 3
+    return w == TO_WIN or l == TO_WIN
 
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument('players', nargs='*', help='Leaguepedia page names, e.g. Faker or "Zeka (Kim Geon-woo)"')
-    ap.add_argument('--out', default='bo5/players', help='directory for the per-player JSON files')
+    ap.add_argument('--best-of', type=int, choices=(3, 5), default=5, help='series length (default 5)')
+    ap.add_argument('--out', help='directory for the per-player JSON files (default bo5/players or bo3/players)')
     ap.add_argument('--showmatches', action='store_true', help='keep events Leaguepedia files as showmatches')
     ap.add_argument('--index', metavar='PATH', help='also write a search index of every player file in --out')
     ap.add_argument('--min', type=int, metavar='N',
                     help='also find and write every player with at least N best-of-fives')
     a = ap.parse_args()
+    set_best_of(a.best_of)
+    a.out = a.out or f'bo{a.best_of}/players'
     os.makedirs(a.out, exist_ok=True)
     start = time.time()
     found = discover(a.min) if a.min else {}
@@ -453,7 +473,7 @@ def main():
             written += 1
     print(f'{len(players)} players checked, {written} changed, in {time.time() - start:.0f}s', file=sys.stderr)
     if a.index:
-        write_index(a.out, a.index)
+        write_index(a.out, a.index, a.min)
     if failed:
         print('failed: ' + ', '.join(failed), file=sys.stderr)
         sys.exit(1)

@@ -7,7 +7,7 @@
 <meta name="description" content="Every best-of-five a League of Legends pro has played, game by game, across all 20 ways a best-of-five can end.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Space+Mono:wght@400;700&display=swap">
-<link rel="stylesheet" href="style.css?v=8">
+<link rel="stylesheet" href="style.css?v=10">
 </head>
 <body>
 <script>try { if (localStorage.getItem('bo5-theme') === 'light') document.documentElement.dataset.theme = 'light'; } catch (e) {}</script>
@@ -21,7 +21,7 @@
     <button id="bTheme" class="theme-btn" aria-pressed="false">Light mode</button>
   </div>
   <h1 id="title">Every way <span class="who-poss"><span class="pick"><input id="who" type="text" size="1" value="Faker" aria-label="Player" placeholder="Player"
-    role="combobox" aria-autocomplete="list" aria-expanded="false" aria-controls="whoList" autocomplete="off" autocapitalize="off" spellcheck="false"><span class="sizer" id="whoSizer" aria-hidden="true"></span></span><span id="poss">'s</span></span> best-of-fives have ended<ul class="picks" id="whoList" role="listbox" hidden></ul></h1>
+    role="combobox" aria-autocomplete="list" aria-expanded="false" aria-controls="whoList" autocomplete="off" autocapitalize="off" spellcheck="false"><span class="sizer" id="whoSizer" aria-hidden="true"></span></span><span id="poss">'s</span></span> <a id="kind" class="kind" href="../bo3/">best-of-fives</a> have ended<ul class="picks" id="whoList" role="listbox" hidden></ul></h1>
   <p class="lede" id="lede">&nbsp;</p>
 
   <div class="filters" id="filters" role="group" aria-label="Filter by event"></div>
@@ -54,6 +54,6 @@
 
 <div class="tip" id="tip" hidden></div>
 
-<script src="app.js?v=12"></script>
+<script src="app.js?v=14"></script>
 </body>
 </html>

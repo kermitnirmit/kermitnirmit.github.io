@@ -11,16 +11,22 @@ const possessive = n => n + (/s$/i.test(n) ? '’' : '’s');
 const mark = s => s.partial ? '†' : s.roster ? '*' : '';
 const FILTERS = [['all', 'All'], ['dom', 'Domestic'], ['worlds', 'Worlds'], ['msi', 'MSI'], ['intl', 'Other international']];
 
-// All 20 endings, grouped by final score.
+// The page says which series it shows: <html data-best-of="3"> for best-of-threes, best-of-fives otherwise.
+const BEST_OF = +document.documentElement.dataset.bestOf || 5, TO_WIN = (BEST_OF + 1) / 2;
+const WORDS = BEST_OF === 3 ? { one: 'best-of-three', many: 'best-of-threes', title: 'Best-of-Threes' }
+  : { one: 'best-of-five', many: 'best-of-fives', title: 'Best-of-Fives' };
+document.documentElement.style.setProperty('--games', BEST_OF);
+
+// Every ending (20 for a best-of-five, 6 for a best-of-three), grouped by final score.
 const ENDINGS = [];
 (function gen(s) {
   const w = wins(s), l = s.length - w;
-  if (w === 3 || l === 3) { ENDINGS.push(s); return; }
+  if (w === TO_WIN || l === TO_WIN) { ENDINGS.push(s); return; }
   gen(s + 'W'); gen(s + 'L');
 })('');
 const BUCKETS = [
-  ['won', 'Won', [[3, 0], [3, 1], [3, 2]]],
-  ['lost', 'Lost', [[2, 3], [1, 3], [0, 3]]],
+  ['won', 'Won', [...Array(TO_WIN).keys()].map(l => [TO_WIN, l])],             // 3–0, 3–1, 3–2
+  ['lost', 'Lost', [...Array(TO_WIN).keys()].reverse().map(w => [w, TO_WIN])], // 2–3, 1–3, 0–3
 ];
 
 let INDEX = [];          // every player with data: page, name, series, won, team, from, to
@@ -91,7 +97,7 @@ function refresh() { highlight(hover || pin); renderDetail(pin || hover); }
 
 // ---------- following a path ----------
 
-const over = seq => wins(seq) === 3 || seq.length - wins(seq) === 3;
+const over = seq => wins(seq) === TO_WIN || seq.length - wins(seq) === TO_WIN;
 
 // What clicking scoreline (k, d) selects. A scoreline with only one way in (1–0, 2–0, 0–2, ...) starts a
 // path; with a path selected, the next scoreline extends it and an earlier one on it steps back.
@@ -119,7 +125,7 @@ function caption(sel, list) {
   if (t === 'node') {
     const k = +a, d = +b, W = (k + d) / 2, L = (k - d) / 2;
     if (k === 0) return `All <b>${n}</b> series: won ${w}, lost ${n - w}.`;
-    if (W === 3 || L === 3) return `Ended <b>${W}–${L}</b> in ${n} series.`;
+    if (W === TO_WIN || L === TO_WIN) return `Ended <b>${W}–${L}</b> in ${n} series.`;
     return `${esc(possessive(player.name))} team was <b>${W}–${L}</b> in ${n} series and went on to win ${w} of them (${pct(w, n)}).`;
   }
   if (t === 'seq') return n ? `${squares(a)} &nbsp;<b>${a}</b>, ${n} series.` : `${squares(a)} &nbsp;<b>${a}</b> has never happened${filter === 'all' ? '' : ' in these events'}.`;
@@ -188,20 +194,23 @@ function el(tag, attrs, parent) {
 function drawLattice() {
   const box = $('#lattice');
   const W = box.clientWidth, narrow = W < 560;
-  const u = Math.max(44, Math.min(70, W / 13));     // vertical step for one game of margin
+  // Vertical step for one game of margin. A best-of-three spans fewer margins, so each can be taller.
+  const u = BEST_OF === 3 ? Math.max(56, Math.min(100, W / 9)) : Math.max(44, Math.min(70, W / 13));
   const mL = narrow ? 14 : 26, mR = narrow ? 76 : 150;
-  const colW = (W - mL - mR) / 5;
+  const colW = (W - mL - mR) / BEST_OF;
   const X = k => mL + k * colW, Y = d => -d * u;
-  const g = Math.min(2.6, (4 * u - 40) / Math.max(1, data.length)); // spacing between threads
+  // Spacing between threads: all of them together at 0–0 span 4u, less 40 (2.4u for a best-of-three, which has fewer rows).
+  const g = Math.min(2.6, (BEST_OF === 3 ? 2.4 * u - 20 : 4 * u - 40) / Math.max(1, data.length));
 
   // Threads ordered so the ones about to win a game sit on top at every node: no crossings.
   const key = s => s.seq.replace(/W/g, 'a').replace(/L/g, 'c');
   const order = data.slice().sort((a, b) => key(a) < key(b) ? -1 : key(a) > key(b) ? 1 : a.date < b.date ? -1 : 1);
   const nodes = new Map();
   labels = [];
-  for (let k = 0; k <= 5; k++) for (let d = -k; d <= k; d += 2) {
+  for (let k = 0; k <= BEST_OF; k++) for (let d = -k; d <= k; d += 2) {
     const w = (k + d) / 2, l = (k - d) / 2;
-    if (w <= 3 && l <= 3 && !(w === 3 && l === 3)) nodes.set(k + ':' + d, { k, d, w, l, end: w === 3 || l === 3, list: [] });
+    if (w <= TO_WIN && l <= TO_WIN && !(w === TO_WIN && l === TO_WIN))
+      nodes.set(k + ':' + d, { k, d, w, l, end: w === TO_WIN || l === TO_WIN, list: [] });
   }
   for (const s of order) for (let k = 0; k <= s.seq.length; k++) nodes.get(k + ':' + diffAt(s.seq, k)).list.push(s);
   const off = new Map(); // `${i}:${k}` -> y offset at that node
@@ -248,7 +257,7 @@ function drawLattice() {
     }
   }
 
-  $('#colheads').innerHTML = ['Start', 'Game 1', 'Game 2', 'Game 3', 'Game 4', 'Game 5']
+  $('#colheads').innerHTML = ['Start', ...Array.from({ length: BEST_OF }, (_, k) => 'Game ' + (k + 1))]
     .map((t, k) => `<span style="left:${X(k)}px">${narrow && k ? 'G' + k : t}</span>`).join('');
 }
 
@@ -274,7 +283,7 @@ function drawEndings() {
       return `<div class="bucket"><div class="bh">${w}–${l} · ${total}</div>` + seqs.map(e => {
         const c = data.filter(s => s.seq === e).length;
         const isNever = never && never.e === e;
-        return `<button class="ending ${w === 3 ? 'w' : 'l'}${c ? '' : ' zero'}${isNever ? ' never' : ''}" data-sel="seq:${e}">${squares(e)}<span class="bar"><i style="width:${100 * c / maxEnding()}%"></i><b></b></span><span class="c">${c}</span></button>` +
+        return `<button class="ending ${w === TO_WIN ? 'w' : 'l'}${c ? '' : ' zero'}${isNever ? ' never' : ''}" data-sel="seq:${e}">${squares(e)}<span class="bar"><i style="width:${100 * c / maxEnding()}%"></i><b></b></span><span class="c">${c}</span></button>` +
           (isNever ? `<div class="callout"><b>Never happened.</b> ${esc(possessive(player.name))} teams started ${squares(never.pre)} ${never.n === 1 ? 'once' : never.n + ' times'}, and ${e.endsWith('L') ? 'won' : 'lost'} game ${e.length} every time.</div>` : '');
       }).join('') + '</div>';
     }).join('') + '</div>';
@@ -368,7 +377,7 @@ async function choose(q, history) {
   if (ticket !== loading) return; // a newer pick won the race
   player = p; raw = d;
   ALL = d.series.map(([date, event, round, team, opp, seq, flag, kind], i) =>
-    ({ i, date, event, round, team, opp, seq, partial: flag === 'p', roster: flag === 'r', kind, won: wins(seq) === 3 }));
+    ({ i, date, event, round, team, opp, seq, partial: flag === 'p', roster: flag === 'r', kind, won: wins(seq) === TO_WIN }));
   filter = 'all'; data = ALL; pin = hover = null;
   if (history) window.history[history + 'State']({}, '', '?player=' + encodeURIComponent(p.page));
   describe();
@@ -378,9 +387,10 @@ async function choose(q, history) {
 
 // ---------- leaderboard ----------
 
-// Each player's [series that reached the scoreline, series won from there], in this order (see players.json).
-const STATES = ['0-0', '1-0', '0-1', '2-0', '1-1', '0-2', '2-1', '1-2', '2-2'];
-const STATE_NAMES = { '0-0': 'Overall', '2-2': '2–2, game 5' };
+// Each player's [series that reached the scoreline, series won from there], in the order players.json lists them.
+let STATES = [];
+let MIN = 20; // players.json holds everyone with at least this many series
+const STATE_NAMES = { '0-0': 'Overall', [`${TO_WIN - 1}-${TO_WIN - 1}`]: `${TO_WIN - 1}–${TO_WIN - 1}, game ${BEST_OF}` };
 const MIN_SERIES = 15;
 let lbState = '1-0';
 
@@ -398,9 +408,9 @@ function drawLeaders() {
   const me = ranked.findIndex(r => r.p.page === player.page);
   $('#lb').innerHTML = ranked.slice(0, 10).map(row).join('') +
     (me >= 10 ? '<li class="gap" aria-hidden="true">…</li>' + row(ranked[me], me) : '');
-  const at = lbState === '0-0' ? 'a best-of-five' : `best-of-fives from ${lbState.replace('-', '–')}`;
-  const among = ranked.length === INDEX.length ? `all ${INDEX.length} players with 20+ best-of-fives`
-    : `the ${ranked.length} of ${INDEX.length} players with 20+ best-of-fives who had at least ${MIN_SERIES} of them`;
+  const at = lbState === '0-0' ? 'a ' + WORDS.one : `${WORDS.many} from ${lbState.replace('-', '–')}`;
+  const among = ranked.length === INDEX.length ? `all ${INDEX.length} players with ${MIN}+ ${WORDS.many}`
+    : `the ${ranked.length} of ${INDEX.length} players with ${MIN}+ ${WORDS.many} who had at least ${MIN_SERIES} of them`;
   $('#lbNote').textContent = `Share of ${at} won, among ${among}. All events, showmatches left out.` +
     (me < 0 ? ` ${player.name} has fewer than ${MIN_SERIES}.` : '');
 }
@@ -423,15 +433,46 @@ $('#lb').addEventListener('click', e => {
 function describe() {
   const n = ALL.length, w = ALL.filter(s => s.won).length, name = esc(player.name);
   showName(player.name);
+  syncKind();
   $('#poss').textContent = /s$/i.test(player.name) ? '’' : '’s';
-  document.title = `${possessive(player.name)} Best-of-Fives`;
-  $('#lede').innerHTML = `All ${n} best-of-fives ${name} has played since ${ALL[0].date.slice(0, 4)}, game by game. Won <b>${w}</b>, lost <b>${n - w}</b>.`;
+  document.title = `${possessive(player.name)} ${WORDS.title}`;
+  $('#lede').innerHTML = `All ${n} ${WORDS.many} ${name} has played since ${ALL[0].date.slice(0, 4)}, game by game. Won <b>${w}</b>, lost <b>${n - w}</b>.`;
   const notes = [];
   if (ALL.some(s => s.partial)) notes.push(`† ${name} played only part of the series.`);
   if (ALL.some(s => s.roster)) notes.push(`* No game records; counted because ${name} was on the roster.`);
   if (raw.unknown.length) notes.push(`${raw.unknown.length} more series ${raw.unknown.length === 1 ? 'is' : 'are'} left out because the order of ${raw.unknown.length === 1 ? 'its' : 'their'} games isn’t recorded.`);
   $('#foot').innerHTML = `Data from <a href="https://lol.fandom.com/wiki/${encodeURIComponent(player.page.replace(/ /g, '_'))}">Leaguepedia</a>, through ${new Date((UPDATED || raw.generated) + 'T12:00:00').toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}. Showmatches are left out. ` + notes.join(' ');
 }
+
+// The title's "best-of-fives" goes to the same player's best-of-threes, and back. A player who isn't
+// on the other page gets a note instead of a jump to someone else.
+const kindLink = $('#kind'), OTHER = BEST_OF === 3 ? 5 : 3, OTHER_MANY = OTHER === 3 ? 'best-of-threes' : 'best-of-fives';
+let otherPages = null, otherMin = 20; // lower-cased page name -> its spelling on the other page
+fetch(`../bo${OTHER}/players.json`).then(r => r.json()).then(d => {
+  otherPages = new Map(d.players.map(([page]) => [page.toLowerCase(), page]));
+  otherMin = d.min || otherMin;
+  syncKind();
+}).catch(() => {});
+
+function syncKind() {
+  if (!player) return;
+  const page = otherPages ? otherPages.get(player.page.toLowerCase()) : player.page;
+  kindLink.href = `../bo${OTHER}/` + (page ? '?player=' + encodeURIComponent(page) : '');
+  kindLink.classList.toggle('off', !page);
+  kindLink.setAttribute('aria-disabled', String(!page));
+  kindLink.title = page ? `See ${possessive(player.name)} ${OTHER_MANY}` : `${player.name} has fewer than ${otherMin} ${OTHER_MANY}`;
+}
+kindLink.addEventListener('click', e => {
+  if (!kindLink.classList.contains('off')) return;
+  e.preventDefault();
+  tip.textContent = kindLink.title + '.';
+  tip.hidden = false;
+  const r = kindLink.getBoundingClientRect();
+  tip.style.left = Math.max(8, Math.min(r.left, innerWidth - tip.offsetWidth - 8)) + 'px';
+  tip.style.top = r.bottom + 8 + 'px';
+  clearTimeout(kindLink.timer);
+  kindLink.timer = setTimeout(hideTip, 2500);
+});
 
 // The title's player box: type to search every player in the index.
 const who = $('#who'), picks = $('#whoList'), sizer = $('#whoSizer');
@@ -454,8 +495,8 @@ function search(q) {
 function openPicks() {
   picks.innerHTML = matches.length ? matches.map((p, j) => {
     const real = p.page !== p.name ? ` <em>${esc(p.page.slice(p.name.length).trim())}</em>` : '';
-    return `<li role="option" id="pick${j}" data-j="${j}" aria-selected="${j === active}"><b>${esc(p.name)}${real}</b><span>${esc(p.team)} · ${p.series} Bo5s · ${p.from}–${p.to}</span></li>`;
-  }).join('') : '<li class="none">No player with 20+ best-of-fives matches that.</li>';
+    return `<li role="option" id="pick${j}" data-j="${j}" aria-selected="${j === active}"><b>${esc(p.name)}${real}</b><span>${esc(p.team)} · ${p.series} Bo${BEST_OF}s · ${p.from}–${p.to}</span></li>`;
+  }).join('') : `<li class="none">No player with ${MIN}+ ${WORDS.many} matches that.</li>`;
   picks.hidden = false;
   who.setAttribute('aria-expanded', 'true');
   who.setAttribute('aria-activedescendant', matches.length ? 'pick' + active : '');
@@ -511,6 +552,8 @@ window.addEventListener('popstate', () => choose(new URLSearchParams(location.se
 (async () => {
   const index = await (await fetch('players.json')).json();
   UPDATED = index.generated;
+  STATES = index.states;
+  MIN = index.min || MIN;
   INDEX = index.players
     .map(([page, name, series, won, team, from, to, states]) => ({ page, name, series, won, team, from, to, states }));
   await choose(new URLSearchParams(location.search).get('player') || 'Faker', 'replace');

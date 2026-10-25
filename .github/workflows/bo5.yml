@@ -1,6 +1,6 @@
-# Rebuilds the Best-of-fives data from Leaguepedia every day and commits whatever changed.
+# Rebuilds the Best-of-fives and Best-of-threes data from Leaguepedia every day and commits whatever changed.
 # Run it by hand from the Actions tab with "Run workflow".
-name: Update best-of-fives
+name: Update best-of-fives and threes
 
 on:
   schedule:
@@ -28,17 +28,22 @@ jobs:
       - name: Fetch every player with 20+ best-of-fives
         run: python3 scripts/bo5.py --min 20 --index bo5/players.json
 
+      # Runs even if the best-of-fives step failed, so one bad run doesn't hold up the other.
+      - name: Fetch every player with 100+ best-of-threes
+        if: ${{ !cancelled() }}
+        run: python3 scripts/bo5.py --best-of 3 --min 100 --index bo3/players.json
+
       # Runs even if a few players failed, so the rest still get updated; the job still shows as failed.
       - name: Commit and push changes
         if: ${{ !cancelled() }}
         run: |
-          git add bo5/players bo5/players.json
+          git add bo5/players bo5/players.json bo3/players bo3/players.json
           if git diff --cached --quiet; then
             echo "No data changed."
             exit 0
           fi
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git commit -m "Update best-of-fives data"
+          git commit -m "Update best-of-fives and threes data"
           git pull --rebase
           git push
