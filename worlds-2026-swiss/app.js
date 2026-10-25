@@ -218,25 +218,20 @@ function renderOdds() {
   const rec = bracketRecords(), now = {};
   for (let i = 0; i < 16; i++) if (i !== PI || eff.pi) now[name(i)] = { w: rec.w[i], l: rec.l[i] };
   for (const c of PLAYIN_CODES) if (!(c in now)) now[c] = eff.pi ? { pi: 'lost' } : { w: 0, l: 0, pi: 'pending' };
-  const sum = (t, ks) => ks.reduce((s, k) => s + t[k], 0);
   const rows = Object.entries(tally).filter(([c]) => c in now).map(([c, t]) => {
     const can = OUTCOMES.map((_, k) => reachable(now[c], k));
-    return { c, t, can, adv: sum(t, [0, 1, 2]), out: sum(t, [3, 4, 5, 6]) };
+    return { c, t, can, adv: t[0] + t[1] + t[2] };
   }).sort((a, b) => b.adv - a.adv || b.t[0] - a.t[0] || a.c.localeCompare(b.c));
   const exact = (v) => { const p = 100 * v / n; return p < 0.1 ? '<0.1%' : p > 99.9 && v < n ? '>99.9%' : p.toFixed(1) + '%'; };
   const seg = (c, k, v) => v ? `<i class="s${k}" style="width:${(100 * v / n).toFixed(2)}%" data-tip="${c} ${OUTCOME_TIPS[k]}: <b>${exact(v)}</b>"></i>` : '';
-  const head = (t, cls) => `<span class="${cls}">${t}</span>`;
+  // The bar holds the breakdown by final record (hover a segment for it); the column is the chance to advance.
   document.getElementById('oddsTable').classList.remove('stale');
   document.getElementById('oddsTable').innerHTML =
-    `<div class="oh">${head('Team', 'tm')}<span></span>${head('Advance', 'adv')}${[0, 1, 2].map(k => head(OUTCOMES[k], 'sp')).join('')}` +
-    `${head('Out', 'out')}${[3, 4, 5].map(k => head(OUTCOMES[k], 'sp')).join('')}</div>` +
-    rows.map(({ c, t, can, adv, out }) => {
+    `<div class="oh"><span>Team</span><span></span><span class="adv">Advance</span></div>` +
+    rows.map(({ c, t, can, adv }) => {
       const canAdv = can[0] || can[1] || can[2], canOut = can[3] || can[4] || can[5] || can[6];
-      const only = (k) => can.filter(Boolean).length === 1 && can[k];
-      const cell = (k) => `<span class="sp">${oddsCell(t[k], n, can[k], only(k))}</span>`;
       return `<div class="or"><b>${c}${rg(c)}</b><span class="obar">${t.map((v, k) => seg(c, k, v)).join('')}</span>` +
-        `<span class="adv">${oddsCell(adv, n, canAdv, !canOut)}</span>${[0, 1, 2].map(cell).join('')}` +
-        `<span class="out">${oddsCell(out, n, canOut, !canAdv)}</span>${[3, 4, 5].map(cell).join('')}</div>`;
+        `<span class="adv">${oddsCell(adv, n, canAdv, !canOut)}</span></div>`;
     }).join('');
   document.getElementById('oddsSub').textContent = done < runs ? `simulating… ${done.toLocaleString()} of ${runs.toLocaleString()}` : `${n.toLocaleString()} simulations`;
   const picks = eff.rounds.reduce((s, rd) => s + rd.win.filter((x, k) => x >= 0 && (rd.lock || [])[k] !== 2).length, 0) + (eff.pi && !activeLocks().pi ? 1 : 0);
