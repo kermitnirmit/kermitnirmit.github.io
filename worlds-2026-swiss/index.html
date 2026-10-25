@@ -7,7 +7,7 @@
 <meta name="description" content="Pick the Play-In winner, every Swiss draw and every winner of the Worlds 2026 Swiss stage, and watch the exact number of possible Swiss stages shrink.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Space+Mono:wght@400;700&display=swap">
-<link rel="stylesheet" href="style.css?v=000631af">
+<link rel="stylesheet" href="style.css?v=c086b725">
 </head>
 <body>
 <script>try { if (localStorage.getItem('swiss-theme') === 'light') document.documentElement.dataset.swiss = 'light'; } catch (e) {}</script>
@@ -49,13 +49,20 @@
     <div class="board" id="board"></div>
   </section>
 
+  <section class="round" id="regions" hidden>
+    <h2>Regions <small>the row region's record against the column region</small></h2>
+    <div class="hh-wrap"><table class="hh" id="rgGrid"></table></div>
+    <p class="rgcap" id="rgCap" aria-live="polite"></p>
+    <p class="note" id="rgNote"></p>
+  </section>
+
   <p class="foot">Round 1 pairs tier 1 with tier 4 and tier 2 with tier 3 and keeps teams from the same region apart. Later rounds pair teams with the same record, with no rematches. Real draws and results come from the lolesports schedule and refresh every two minutes. Counts are exact, from Riot's <a href="https://lolesports.com/en-US/news/worlds-2026-primer">Worlds 2026 rules</a>. Win chances, and the results “Sim the current round” and “Sim to the end” pick, come from Riot's <a href="https://lolesports.com/en-US/gpr/2026/current">Global Power Rankings</a> (as of Oct 18), using GPR's own formula: 1 ÷ (10<sup>−gap/600</sup> + 1), where gap is the difference in points. The draws themselves stay random.</p>
 </div>
 
-<script>window.SWISS_V="000631af";</script>
-<script src="engine.js?v=000631af"></script>
-<script src="gpr.js?v=000631af"></script>
-<script src="lolesports.js?v=000631af"></script>
-<script src="app.js?v=000631af"></script>
+<script>window.SWISS_V="c086b725";</script>
+<script src="engine.js?v=c086b725"></script>
+<script src="gpr.js?v=c086b725"></script>
+<script src="lolesports.js?v=c086b725"></script>
+<script src="app.js?v=c086b725"></script>
 </body>
 </html>

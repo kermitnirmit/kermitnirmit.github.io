@@ -162,7 +162,9 @@ function renderBoard() {
   const sec = document.getElementById('standings');
   if (!eff.pi) { sec.hidden = true; return; }
   sec.hidden = false;
-  const st = cur();
+  // every decided match moves its teams, without waiting for the rest of the round
+  setPlayIn(eff.pi);
+  const st = bracketRecords();
   const recs = ['3–0', '3–1', '3–2', '2–0', '2–1', '2–2', '1–0', '1–1', '1–2', '0–0', '0–1', '0–2', '2–3', '1–3', '0–3'];
   const by = new Map();
   for (let i = 0; i < 16; i++) { const k = st.w[i] + '–' + st.l[i]; if (!by.has(k)) by.set(k, []); by.get(k).push(i); }
@@ -173,6 +175,81 @@ function renderBoard() {
   }).join('');
 }
 
+// ---------- regions ----------
+const REGIONS = ['LCK', 'LPL', 'LEC', 'LCS', 'LCP', 'CBLOL'];
+let rgPin = null, rgHover = null;
+// every decided match on the bracket, Play-In final included: {when, a, b, ra, rb, x (winner code), real}
+function decidedMatches() {
+  const out = [];
+  if (eff.pi) out.push({ when: 'Play-In', a: 'KC', b: 'MVK', ra: PLAYIN.KC.region, rb: PLAYIN.MVK.region, x: eff.pi, real: !!activeLocks().pi });
+  eff.rounds.forEach((rd, r) => rd.pairs.forEach(([a, b], k) => {
+    const x = rd.win[k]; if (x < 0) return;
+    out.push({ when: 'Round ' + (r + 1), a: name(a), b: name(b), ra: T[a].region, rb: T[b].region, x: name(x), real: (rd.lock || [])[k] === 2 });
+  }));
+  return out.filter(m => m.ra && m.rb);
+}
+// [won, played] for region r, against region vs or every other region
+function rgRecord(ms, r, vs) {
+  let w = 0, n = 0;
+  for (const m of ms) {
+    if (m.ra === m.rb) continue;
+    const mine = m.ra === r ? m.a : m.rb === r ? m.b : null, opp = m.ra === r ? m.rb : m.ra;
+    if (!mine || (vs && opp !== vs)) continue;
+    n++; if (m.x === mine) w++;
+  }
+  return [w, n];
+}
+const rgPct = (w, n) => n ? Math.round(100 * w / n) + '%' : '–';
+function renderRegions() {
+  const sec = document.getElementById('regions');
+  if (eff.pi) setPlayIn(eff.pi);
+  const ms = decidedMatches();
+  if (!ms.some(m => m.ra !== m.rb)) { sec.hidden = true; return; }
+  sec.hidden = false;
+  // shaded by how far from even, green for winning and red for losing
+  const cell = (r, c) => {
+    if (r === c) return '<td class="self"></td>';
+    const [w, n] = rgRecord(ms, r, c);
+    if (!n) return '<td class="none"></td>';
+    const p = w / n, a = Math.round(Math.abs(p - .5) * 2 * 60);
+    const bg = p === .5 ? '' : ` style="background:color-mix(in srgb, var(--${p > .5 ? 'win' : 'loss'}) ${a}%, transparent)"`;
+    return `<td data-rg="${r}:${c}"${bg}><b>${w}–${n - w}</b></td>`;
+  };
+  // the row's record against every other region
+  const total = (r) => { const [w, n] = rgRecord(ms, r); return `<td class="tot" data-rg="${r}"><b>${w}–${n - w}</b><span>${rgPct(w, n)}</span></td>`; };
+  document.getElementById('rgGrid').innerHTML = `<thead><tr><th></th>${REGIONS.map(c => `<th scope="col">${c}</th>`).join('')}<th scope="col" class="tot">Total</th></tr></thead>` +
+    `<tbody>${REGIONS.map(r => `<tr><th scope="row">${r}</th>${REGIONS.map(c => cell(r, c)).join('')}${total(r)}</tr>`).join('')}</tbody>`;
+  const picks = ms.filter(m => !m.real && m.ra !== m.rb).length, same = ms.filter(m => m.ra === m.rb).length;
+  document.getElementById('rgNote').textContent = 'Every decided match on the bracket above, Play-In final included, counted once per match whatever its length. ' +
+    (picks ? `${picks} of them ${picks === 1 ? 'is' : 'are'} your own pick${picks === 1 ? '' : 's'}, not a real result. ` : '') +
+    (same ? `${same} match${same === 1 ? '' : 'es'} between two teams from the same region ${same === 1 ? 'is' : 'are'} left out.` : '');
+  renderRgCap(ms);
+}
+function renderRgCap(ms) {
+  const sel = rgHover || rgPin;
+  document.querySelectorAll('#regions [data-rg]').forEach(e => { e.classList.toggle('on', e.dataset.rg === sel); e.classList.toggle('pin', e.dataset.rg === rgPin); });
+  const el = document.getElementById('rgCap');
+  if (!sel) { el.innerHTML = '<span class="hint">Hover or tap a square or a total to see its matches.</span>'; return; }
+  const [r, c] = sel.split(':');
+  const list = ms.filter(m => m.ra !== m.rb && (m.ra === r || m.rb === r) && (!c || m.ra === c || m.rb === c));
+  const [w, n] = rgRecord(ms, r, c);
+  el.innerHTML = `<b>${r}${c ? ' v ' + c : ''}</b> ${w}–${n - w}: ` + list.map(m => {
+    const loser = m.x === m.a ? m.b : m.a;
+    return `<span class="m${m.real ? '' : ' pick'}">${m.x} beat ${loser} <em>${m.when}${m.real ? '' : ', your pick'}</em></span>`;
+  }).join('');
+}
+const rgBox = document.getElementById('regions');
+rgBox.addEventListener('pointerover', e => {
+  if (matchMedia('(hover: none)').matches) return;
+  const t = e.target.closest('[data-rg]'); const v = t ? t.dataset.rg : null;
+  if (v !== rgHover) { rgHover = v; renderRgCap(decidedMatches()); }
+});
+rgBox.addEventListener('pointerleave', () => { rgHover = null; renderRgCap(decidedMatches()); });
+rgBox.addEventListener('click', e => {
+  const t = e.target.closest('[data-rg]'); if (!t) return;
+  rgPin = rgPin === t.dataset.rg ? null : t.dataset.rg;
+  renderRgCap(decidedMatches());
+});
 
 // ---------- bracket sidebar ----------
 const POOL_INFO = { '0-0': [16, 'Bo1'], '1-0': [8, 'Bo1'], '0-1': [8, 'Bo1'], '2-0': [4, 'Bo3'], '1-1': [8, 'Bo1'], '0-2': [4, 'Bo3'],
@@ -310,7 +387,7 @@ function nextStep(live) {
 }
 
 function render() {
-  renderCount(); renderBoard(); renderLive();
+  renderCount(); renderBoard(); renderRegions(); renderLive();
   const live = eff.pi ? cur() : { r: 0 };
   document.getElementById('bracket').innerHTML = renderBracket(live);
   drawBracketLines();
