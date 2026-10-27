@@ -1,1 +1,43 @@
-{"player":"Xico","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2017-04-02","TCL 2017 Winter Playoffs","Quarterfinal","HWA Gaming","Fenerbahçe Esports","LLWWL","","dom","P"],["2017-04-03","TCL 2017 Winter Playoffs","5th Place","HWA Gaming","Galakticos","WWLLL","","dom","P"],["2017-06-24","LVP SuperLiga Orange Season 12","Semifinal","KIYF eSports Club","The G-Lab Penguins","WWW","r","dom",""],["2017-06-25","LVP SuperLiga Orange Season 12","Final","KIYF eSports Club","ThunderX3 Baskonia","LLL","r","dom",""],["2017-07-26","TPL 2017 Summer Playoffs","Semifinal","HWA Gaming","Victorious Ace","WWW","","dom","S"],["2017-07-27","TPL 2017 Summer Playoffs","Final","HWA Gaming","Beşiktaş Esports","WWW","","dom","S"],["2018-03-30","TCL 2018 Summer Qualifiers","Round 1","HWA Gaming","Beşiktaş Esports","WLWW","","dom","P"],["2018-04-01","TCL 2018 Summer Qualifiers","Final","HWA Gaming","Beşiktaş Esports","WWW","","dom","P"],["2018-06-10","Gillette XL invitational","Final","K1ck eSports Club","MAD Lions E.C.","LLL","r","dom",""],["2019-03-22","LVP SuperLiga Orange 2019 Spring Playoffs","Quarterfinal","G2 Heretics","Splyce Vipers","WLLL","","dom","S"],["2019-08-12","LVP SuperLiga Orange 2019 Summer Playoffs","Quarterfinal","G2 Heretics","eMonkeyz","WLWW","","dom","S"],["2019-08-19","LVP SuperLiga Orange 2019 Summer Playoffs","Semifinal","G2 Heretics","Origen BCN","WLLWL","","dom","S"],["2020-03-17","LVP SuperLiga Orange 2020 Spring Playoffs","Quarterfinal","Movistar Riders","Team Queso","WWW","","dom","S"],["2020-03-23","LVP SuperLiga Orange 2020 Spring Playoffs","Semifinal","Movistar Riders","MAD Lions Madrid","WWW","","dom","S"],["2020-04-02","LVP SuperLiga Orange 2020 Spring Playoffs","Final","Movistar Riders","Vodafone Giants.Spain","LWLWL","","dom","S"],["2020-08-31","LVP SuperLiga Orange 2020 Summer Playoffs","Semifinal","Movistar Riders","Cream Real Betis.EU","WWW","","dom","S"],["2020-09-04","LVP SuperLiga Orange 2020 Summer Playoffs","Final","Movistar Riders","G2 Arctic","WWW","","dom","S"],["2020-11-08","Iberian Cup 2020","Quarterfinal","Movistar Riders","MAD Lions Madrid","LWLL","","dom","S"],["2021-03-18","LFL 2021 Spring Playoffs","Round 2","Team BDS","Vitality.Bee","WLLL","","dom","S"],["2022-03-16","LFL 2022 Spring Playoffs","Round 1","Team BDS Academy","GamersOrigin","LWWW","","dom","S"],["2022-03-24","LFL 2022 Spring Playoffs","Round 2","Team BDS Academy","Vitality.Bee","WWLLW","","dom","S"],["2022-03-30","LFL 2022 Spring Playoffs","Semifinal","Team BDS Academy","Karmine Corp","LWWW","","dom","S"],["2022-03-31","LFL 2022 Spring Playoffs","Final","Team BDS Academy","LDLC OL","LLWWL","","dom","S"],["2022-08-01","LVP SuperLiga 2022 Summer Playoffs","Round 1","KOI (Spanish Team)","G2 Arctic","LWLWW","","dom","S"],["2022-08-11","LVP SuperLiga 2022 Summer Playoffs","Round 2","KOI (Spanish Team)","BISONS ECLUB","LLWL","","dom","S"],["2022-11-14","Iberian Cup 2022","Semifinal","KOI (Spanish Team)","UCAM Tokiers","LLL","","dom","S"],["2023-03-16","LVP SuperLiga 2023 Spring Playoffs","Round 2","Rebels Gaming","Team Heretics Academy","WLLL","","dom","S"],["2023-03-23","LVP SuperLiga 2023 Spring Playoffs","Semifinal","Rebels Gaming","Movistar Riders","LWLL","","dom","S"],["2023-08-01","Ultraliga Season 10 Playoffs","Round 2","Zero Tenacity","Orbit Anonymo Esports","LWLWL","p","dom","S"],["2023-08-04","Ultraliga Season 10 Playoffs","Semifinal","Zero Tenacity","AliorBank Team","LWLL","p","dom","S"],["2024-03-21","LVP SuperLiga 2024 Spring Playoffs","Round 2","Guasones","Team Heretics Academy","LLWL","","dom","S"],["2024-03-28","LVP SuperLiga 2024 Spring Playoffs","Semifinal","Guasones","GIANTX PRIDE","LLWWW","","dom","S"],["2024-04-05","LVP SuperLiga 2024 Spring Playoffs","Final","Guasones","Team Heretics Academy","LWLL","","dom","S"]],"unknown":[["2018-07-29","LPLOL 2018 Split 2 Playoffs","Final","K1ck eSports Club","For The Win Esports","1-3","","dom",""]]}
+{
+  "player": "Xico",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2017-04-02","TCL 2017 Winter Playoffs","Quarterfinal","HWA Gaming","Fenerbahçe Esports","LLWWL","","dom","P"],
+    ["2017-04-03","TCL 2017 Winter Playoffs","5th Place","HWA Gaming","Galakticos","WWLLL","","dom","P"],
+    ["2017-06-24","LVP SuperLiga Orange Season 12","Semifinal","KIYF eSports Club","The G-Lab Penguins","WWW","r","dom",""],
+    ["2017-06-25","LVP SuperLiga Orange Season 12","Final","KIYF eSports Club","ThunderX3 Baskonia","LLL","r","dom",""],
+    ["2017-07-26","TPL 2017 Summer Playoffs","Semifinal","HWA Gaming","Victorious Ace","WWW","","dom","S"],
+    ["2017-07-27","TPL 2017 Summer Playoffs","Final","HWA Gaming","Beşiktaş Esports","WWW","","dom","S"],
+    ["2018-03-30","TCL 2018 Summer Qualifiers","Round 1","HWA Gaming","Beşiktaş Esports","WLWW","","dom","P"],
+    ["2018-04-01","TCL 2018 Summer Qualifiers","Final","HWA Gaming","Beşiktaş Esports","WWW","","dom","P"],
+    ["2018-06-10","Gillette XL invitational","Final","K1ck eSports Club","MAD Lions E.C.","LLL","r","dom",""],
+    ["2019-03-22","LVP SuperLiga Orange 2019 Spring Playoffs","Quarterfinal","G2 Heretics","Splyce Vipers","WLLL","","dom","S"],
+    ["2019-08-12","LVP SuperLiga Orange 2019 Summer Playoffs","Quarterfinal","G2 Heretics","eMonkeyz","WLWW","","dom","S"],
+    ["2019-08-19","LVP SuperLiga Orange 2019 Summer Playoffs","Semifinal","G2 Heretics","Origen BCN","WLLWL","","dom","S"],
+    ["2020-03-17","LVP SuperLiga Orange 2020 Spring Playoffs","Quarterfinal","Movistar Riders","Team Queso","WWW","","dom","S"],
+    ["2020-03-23","LVP SuperLiga Orange 2020 Spring Playoffs","Semifinal","Movistar Riders","MAD Lions Madrid","WWW","","dom","S"],
+    ["2020-04-02","LVP SuperLiga Orange 2020 Spring Playoffs","Final","Movistar Riders","Vodafone Giants.Spain","LWLWL","","dom","S"],
+    ["2020-08-31","LVP SuperLiga Orange 2020 Summer Playoffs","Semifinal","Movistar Riders","Cream Real Betis.EU","WWW","","dom","S"],
+    ["2020-09-04","LVP SuperLiga Orange 2020 Summer Playoffs","Final","Movistar Riders","G2 Arctic","WWW","","dom","S"],
+    ["2020-11-08","Iberian Cup 2020","Quarterfinal","Movistar Riders","MAD Lions Madrid","LWLL","","dom","S"],
+    ["2021-03-18","LFL 2021 Spring Playoffs","Round 2","Team BDS","Vitality.Bee","WLLL","","dom","S"],
+    ["2022-03-16","LFL 2022 Spring Playoffs","Round 1","Team BDS Academy","GamersOrigin","LWWW","","dom","S"],
+    ["2022-03-24","LFL 2022 Spring Playoffs","Round 2","Team BDS Academy","Vitality.Bee","WWLLW","","dom","S"],
+    ["2022-03-30","LFL 2022 Spring Playoffs","Semifinal","Team BDS Academy","Karmine Corp","LWWW","","dom","S"],
+    ["2022-03-31","LFL 2022 Spring Playoffs","Final","Team BDS Academy","LDLC OL","LLWWL","","dom","S"],
+    ["2022-08-01","LVP SuperLiga 2022 Summer Playoffs","Round 1","KOI (Spanish Team)","G2 Arctic","LWLWW","","dom","S"],
+    ["2022-08-11","LVP SuperLiga 2022 Summer Playoffs","Round 2","KOI (Spanish Team)","BISONS ECLUB","LLWL","","dom","S"],
+    ["2022-11-14","Iberian Cup 2022","Semifinal","KOI (Spanish Team)","UCAM Tokiers","LLL","","dom","S"],
+    ["2023-03-16","LVP SuperLiga 2023 Spring Playoffs","Round 2","Rebels Gaming","Team Heretics Academy","WLLL","","dom","S"],
+    ["2023-03-23","LVP SuperLiga 2023 Spring Playoffs","Semifinal","Rebels Gaming","Movistar Riders","LWLL","","dom","S"],
+    ["2023-08-01","Ultraliga Season 10 Playoffs","Round 2","Zero Tenacity","Orbit Anonymo Esports","LWLWL","p","dom","S"],
+    ["2023-08-04","Ultraliga Season 10 Playoffs","Semifinal","Zero Tenacity","AliorBank Team","LWLL","p","dom","S"],
+    ["2024-03-21","LVP SuperLiga 2024 Spring Playoffs","Round 2","Guasones","Team Heretics Academy","LLWL","","dom","S"],
+    ["2024-03-28","LVP SuperLiga 2024 Spring Playoffs","Semifinal","Guasones","GIANTX PRIDE","LLWWW","","dom","S"],
+    ["2024-04-05","LVP SuperLiga 2024 Spring Playoffs","Final","Guasones","Team Heretics Academy","LWLL","","dom","S"]
+  ],
+  "unknown": [
+    ["2018-07-29","LPLOL 2018 Split 2 Playoffs","Final","K1ck eSports Club","For The Win Esports","1-3","","dom",""]
+  ]
+}

@@ -1,1 +1,45 @@
-{"player":"Bruness","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2019-11-24","Polska Liga Esportowa 2019 November","Final","Komputronik Gaming Scouting Grounds","piratesports","WWW","r","dom","S"],["2019-12-15","Polska Liga Esportowa 2019 Finals","Final","Komputronik Gaming Scouting Grounds","Rołg Skład","LWLL","r","dom","S"],["2020-02-13","Grimorr League Season 1 Playoffs","Semifinal","Komputronik Gaming Scouting Grounds","PRIDE Academy","WWW","r","dom","S"],["2020-03-17","Ultraliga Season 3 Playoffs","Round 1","devils.one","AVEZ Esport","WWW","","dom","S"],["2020-03-25","Ultraliga Season 3 Playoffs","Round 2","devils.one","Illuminar Gaming","WWLW","","dom","S"],["2020-03-31","Ultraliga Season 3 Playoffs","Round 3","devils.one","AGO ROGUE","LLL","","dom","S"],["2020-08-04","Ultraliga Season 4 Playoffs","Round 2","7more7 Pompa Team","AGO ROGUE","LLL","","dom","S"],["2020-08-11","Ultraliga Season 4 Playoffs","Round 3","7more7 Pompa Team","K1ck Neosurf","WLLL","","dom","S"],["2021-03-10","Ultraliga Season 5 Playoffs","Round 1","K1CK","devils.one","WWW","","dom","S"],["2021-03-17","Ultraliga Season 5 Playoffs","Round 2","K1CK","7more7 Pompa Team","WWW","","dom","S"],["2021-03-23","Ultraliga Season 5 Playoffs","Round 3","K1CK","Illuminar Gaming","LWWLW","","dom","S"],["2021-03-24","Ultraliga Season 5 Playoffs","Final","K1CK","AGO ROGUE","LWLWL","","dom","S"],["2021-07-27","Ultraliga Season 6 Playoffs","Round 1","PDW","Team ESCA Gaming","LWWW","","dom","S"],["2021-08-03","Ultraliga Season 6 Playoffs","Round 2","PDW","AGO ROGUE","WWW","","dom","S"],["2021-08-11","Ultraliga Season 6 Playoffs","Final","PDW","Illuminar Gaming","LWLWW","","dom","S"],["2021-09-10","European Masters 2021 Summer Main Event","Quarterfinal","PDW","Berlin International Gaming","LLL","","dom","S"],["2022-07-18","Greek Legends League 2022 Summer Playoffs","Round 1","WLGaming Esports","Anorthosis Famagusta Esports","LLWL","","dom","S"],["2022-07-25","Greek Legends League 2022 Summer Playoffs","Semifinal","WLGaming Esports","Team Phantasma","LLL","","dom","S"],["2022-10-28","Greek Legends League 2022 Pro-Am","Final","WLGaming Esports","Pentagon Maze","WLWLW","","dom","S"],["2022-11-19","Sigma Cup 2022","Semifinal","WLGaming Esports","Entropiq","LWLL","","dom","S"],["2023-03-15","Greek Legends League 2023 Spring Playoffs","Round 1","WLGaming Esports","Panathinaikos Esports","WWLW","","dom","S"],["2023-03-21","Greek Legends League 2023 Spring Playoffs","Semifinal","WLGaming Esports","Team Phantasma","WWLW","","dom","S"],["2023-04-01","Greek Legends League 2023 Spring Playoffs","Final","WLGaming Esports","Anorthosis Famagusta Esports","WWLW","","dom","S"],["2023-07-03","European Pro League Season 1","Final","WLGaming Esports","Zero Tenacity","LLL","","dom","S"],["2023-07-18","Greek Legends League 2023 Summer Playoffs","Round 1","WLGaming Esports","Anorthosis Famagusta Esports","LWWLW","","dom","S"],["2023-08-05","Greek Legends League 2023 Summer Playoffs","Final","WLGaming Esports","Anorthosis Famagusta Esports","LWLWL","","dom","S"],["2025-04-19","College League of Legends 2025 Championship","Round 1","Fisher College","Savannah College of Art and Design","WWW","r","dom","S"],["2025-04-26","College League of Legends 2025 Championship","Round 2","Fisher College","St. Clair College","LLWWW","r","dom","S"],["2025-05-03","College League of Legends 2025 Championship","Round 4","Fisher College","Maryville University","LLL","r","dom","S"],["2025-05-04","College League of Legends 2025 Championship","Round 6","Fisher College","University of St. Thomas","LLL","r","dom","S"],["2026-04-18","College League of Legends 2026 Championship","Round 1","Fisher College","Ohio State University","WWW","r","dom","S"],["2026-05-03","College League of Legends 2026 Championship","Round 6","Fisher College","University of Mississippi","LLL","r","dom","S"]],"unknown":[["2020-02-07","Grimorr League Season 1 Playoffs","Round 2","Komputronik Gaming Scouting Grounds","Feel our Skill","3-2","","dom","S"],["2026-04-25","College League of Legends 2026 Championship","Round 2","Fisher College","Grand View University","2-3","","dom","S"],["2026-04-26","College League of Legends 2026 Championship","Round 4","Fisher College","Weber State University","3-1","","dom","S"],["2026-05-02","College League of Legends 2026 Championship","Round 5","Fisher College","Northwood University","3-1","","dom","S"]]}
+{
+  "player": "Bruness",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2019-11-24","Polska Liga Esportowa 2019 November","Final","Komputronik Gaming Scouting Grounds","piratesports","WWW","r","dom","S"],
+    ["2019-12-15","Polska Liga Esportowa 2019 Finals","Final","Komputronik Gaming Scouting Grounds","Rołg Skład","LWLL","r","dom","S"],
+    ["2020-02-13","Grimorr League Season 1 Playoffs","Semifinal","Komputronik Gaming Scouting Grounds","PRIDE Academy","WWW","r","dom","S"],
+    ["2020-03-17","Ultraliga Season 3 Playoffs","Round 1","devils.one","AVEZ Esport","WWW","","dom","S"],
+    ["2020-03-25","Ultraliga Season 3 Playoffs","Round 2","devils.one","Illuminar Gaming","WWLW","","dom","S"],
+    ["2020-03-31","Ultraliga Season 3 Playoffs","Round 3","devils.one","AGO ROGUE","LLL","","dom","S"],
+    ["2020-08-04","Ultraliga Season 4 Playoffs","Round 2","7more7 Pompa Team","AGO ROGUE","LLL","","dom","S"],
+    ["2020-08-11","Ultraliga Season 4 Playoffs","Round 3","7more7 Pompa Team","K1ck Neosurf","WLLL","","dom","S"],
+    ["2021-03-10","Ultraliga Season 5 Playoffs","Round 1","K1CK","devils.one","WWW","","dom","S"],
+    ["2021-03-17","Ultraliga Season 5 Playoffs","Round 2","K1CK","7more7 Pompa Team","WWW","","dom","S"],
+    ["2021-03-23","Ultraliga Season 5 Playoffs","Round 3","K1CK","Illuminar Gaming","LWWLW","","dom","S"],
+    ["2021-03-24","Ultraliga Season 5 Playoffs","Final","K1CK","AGO ROGUE","LWLWL","","dom","S"],
+    ["2021-07-27","Ultraliga Season 6 Playoffs","Round 1","PDW","Team ESCA Gaming","LWWW","","dom","S"],
+    ["2021-08-03","Ultraliga Season 6 Playoffs","Round 2","PDW","AGO ROGUE","WWW","","dom","S"],
+    ["2021-08-11","Ultraliga Season 6 Playoffs","Final","PDW","Illuminar Gaming","LWLWW","","dom","S"],
+    ["2021-09-10","European Masters 2021 Summer Main Event","Quarterfinal","PDW","Berlin International Gaming","LLL","","dom","S"],
+    ["2022-07-18","Greek Legends League 2022 Summer Playoffs","Round 1","WLGaming Esports","Anorthosis Famagusta Esports","LLWL","","dom","S"],
+    ["2022-07-25","Greek Legends League 2022 Summer Playoffs","Semifinal","WLGaming Esports","Team Phantasma","LLL","","dom","S"],
+    ["2022-10-28","Greek Legends League 2022 Pro-Am","Final","WLGaming Esports","Pentagon Maze","WLWLW","","dom","S"],
+    ["2022-11-19","Sigma Cup 2022","Semifinal","WLGaming Esports","Entropiq","LWLL","","dom","S"],
+    ["2023-03-15","Greek Legends League 2023 Spring Playoffs","Round 1","WLGaming Esports","Panathinaikos Esports","WWLW","","dom","S"],
+    ["2023-03-21","Greek Legends League 2023 Spring Playoffs","Semifinal","WLGaming Esports","Team Phantasma","WWLW","","dom","S"],
+    ["2023-04-01","Greek Legends League 2023 Spring Playoffs","Final","WLGaming Esports","Anorthosis Famagusta Esports","WWLW","","dom","S"],
+    ["2023-07-03","European Pro League Season 1","Final","WLGaming Esports","Zero Tenacity","LLL","","dom","S"],
+    ["2023-07-18","Greek Legends League 2023 Summer Playoffs","Round 1","WLGaming Esports","Anorthosis Famagusta Esports","LWWLW","","dom","S"],
+    ["2023-08-05","Greek Legends League 2023 Summer Playoffs","Final","WLGaming Esports","Anorthosis Famagusta Esports","LWLWL","","dom","S"],
+    ["2025-04-19","College League of Legends 2025 Championship","Round 1","Fisher College","Savannah College of Art and Design","WWW","r","dom","S"],
+    ["2025-04-26","College League of Legends 2025 Championship","Round 2","Fisher College","St. Clair College","LLWWW","r","dom","S"],
+    ["2025-05-03","College League of Legends 2025 Championship","Round 4","Fisher College","Maryville University","LLL","r","dom","S"],
+    ["2025-05-04","College League of Legends 2025 Championship","Round 6","Fisher College","University of St. Thomas","LLL","r","dom","S"],
+    ["2026-04-18","College League of Legends 2026 Championship","Round 1","Fisher College","Ohio State University","WWW","r","dom","S"],
+    ["2026-05-03","College League of Legends 2026 Championship","Round 6","Fisher College","University of Mississippi","LLL","r","dom","S"]
+  ],
+  "unknown": [
+    ["2020-02-07","Grimorr League Season 1 Playoffs","Round 2","Komputronik Gaming Scouting Grounds","Feel our Skill","3-2","","dom","S"],
+    ["2026-04-25","College League of Legends 2026 Championship","Round 2","Fisher College","Grand View University","2-3","","dom","S"],
+    ["2026-04-26","College League of Legends 2026 Championship","Round 4","Fisher College","Weber State University","3-1","","dom","S"],
+    ["2026-05-02","College League of Legends 2026 Championship","Round 5","Fisher College","Northwood University","3-1","","dom","S"]
+  ]
+}

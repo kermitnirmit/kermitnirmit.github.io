@@ -1,1 +1,34 @@
-{"player":"Slay","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2016-07-30","VCS A 2016 Summer Playoffs","Semifinal","Saigon Jokers","Boba Marines","WWW","r","dom",""],["2016-07-31","VCS A 2016 Summer Playoffs","Final","Saigon Jokers","Saigon Mongaming","WWW","r","dom",""],["2017-04-02","VCS A 2017 Spring Playoffs","Final","GIGABYTE Marines","Young Generation","WWW","r","dom",""],["2017-04-14","GPL 2017 Spring","Semifinal","GIGABYTE Marines","Kuala Lumpur Hunters","LLWWW","","dom","P"],["2017-04-16","GPL 2017 Spring","Final","GIGABYTE Marines","Ascension Gaming","WWW","","dom","P"],["2017-05-03","MSI 2017","Round 2","GIGABYTE Marines","TSM","WWLLL","","msi","P"],["2017-05-06","MSI 2017","Round 3","GIGABYTE Marines","SuperMassive Esports","WLWW","","msi","P"],["2017-12-15","VCS 2018 Spring Promotion","Round 1","EVOS Esports","New Power Esports","LWWW","r","dom","P"],["2017-12-16","VCS 2018 Spring Promotion","Qualifiers","EVOS Esports","Hall of Fame","WWW","r","dom","P"],["2018-04-07","VCS 2018 Spring Playoffs","Final","EVOS Esports","GIGABYTE Marines","LWLWW","","dom","P"],["2018-05-08","MSI 2018","Round 2","EVOS Esports","SuperMassive Esports","WLWW","","msi","P"],["2018-09-07","VCS 2018 Summer Playoffs","Round 1","EVOS Esports","Cube Adonis","WLLWL","","dom","P"],["2019-08-24","VCS 2019 Summer Playoffs","Semifinal","GAM Esports","Lowkey Esports.Vietnam","WWW","p","dom","P"],["2019-09-14","VCS 2019 Summer Playoffs","Final","GAM Esports","Team Flash.Vietnam","WWW","p","dom","P"],["2020-05-24","Pulsefire Cup 2020","Final","GAM Esports","Dashing Buffalo","WLWW","r","dom","S"],["2020-08-19","VCS 2020 Summer Playoffs","Round 1","GAM Esports","CERBERUS Esports (Vietnamese Team)","WWW","","dom","P"],["2020-08-29","VCS 2020 Summer Playoffs","Round 2","GAM Esports","Team Flash.Vietnam","WWLLL","","dom","P"],["2020-09-03","VCS 2020 Summer Playoffs","Round 3","GAM Esports","EVOS Esports","LWLWW","","dom","P"],["2020-09-05","VCS 2020 Summer Playoffs","Final","GAM Esports","Team Flash.Vietnam","LWLWL","","dom","P"],["2023-08-12","VCS 2023 Summer Playoffs","Round 1","Saigon Buffalo","Team Flash.Vietnam","LWWW","","dom","P"],["2023-08-19","VCS 2023 Summer Playoffs","Round 2","Saigon Buffalo","GAM Esports","WLLL","","dom","P"],["2023-08-26","VCS 2023 Summer Playoffs","Round 2","Saigon Buffalo","Team Flash.Vietnam","LWWLW","","dom","P"],["2023-09-02","VCS 2023 Summer Playoffs","Round 3","Saigon Buffalo","Team Whales","LWLWL","","dom","P"]],"unknown":[["2016-03-19","VCS A 2016 Spring Playoffs","Semifinal","Saigon Jokers","Boba Marines","3-2","","dom",""],["2016-03-20","VCS A 2016 Spring Playoffs","Final","Saigon Jokers","Full Louis","3-2","","dom",""]]}
+{
+  "player": "Slay",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2016-07-30","VCS A 2016 Summer Playoffs","Semifinal","Saigon Jokers","Boba Marines","WWW","r","dom",""],
+    ["2016-07-31","VCS A 2016 Summer Playoffs","Final","Saigon Jokers","Saigon Mongaming","WWW","r","dom",""],
+    ["2017-04-02","VCS A 2017 Spring Playoffs","Final","GIGABYTE Marines","Young Generation","WWW","r","dom",""],
+    ["2017-04-14","GPL 2017 Spring","Semifinal","GIGABYTE Marines","Kuala Lumpur Hunters","LLWWW","","dom","P"],
+    ["2017-04-16","GPL 2017 Spring","Final","GIGABYTE Marines","Ascension Gaming","WWW","","dom","P"],
+    ["2017-05-03","MSI 2017","Round 2","GIGABYTE Marines","TSM","WWLLL","","msi","P"],
+    ["2017-05-06","MSI 2017","Round 3","GIGABYTE Marines","SuperMassive Esports","WLWW","","msi","P"],
+    ["2017-12-15","VCS 2018 Spring Promotion","Round 1","EVOS Esports","New Power Esports","LWWW","r","dom","P"],
+    ["2017-12-16","VCS 2018 Spring Promotion","Qualifiers","EVOS Esports","Hall of Fame","WWW","r","dom","P"],
+    ["2018-04-07","VCS 2018 Spring Playoffs","Final","EVOS Esports","GIGABYTE Marines","LWLWW","","dom","P"],
+    ["2018-05-08","MSI 2018","Round 2","EVOS Esports","SuperMassive Esports","WLWW","","msi","P"],
+    ["2018-09-07","VCS 2018 Summer Playoffs","Round 1","EVOS Esports","Cube Adonis","WLLWL","","dom","P"],
+    ["2019-08-24","VCS 2019 Summer Playoffs","Semifinal","GAM Esports","Lowkey Esports.Vietnam","WWW","p","dom","P"],
+    ["2019-09-14","VCS 2019 Summer Playoffs","Final","GAM Esports","Team Flash.Vietnam","WWW","p","dom","P"],
+    ["2020-05-24","Pulsefire Cup 2020","Final","GAM Esports","Dashing Buffalo","WLWW","r","dom","S"],
+    ["2020-08-19","VCS 2020 Summer Playoffs","Round 1","GAM Esports","CERBERUS Esports (Vietnamese Team)","WWW","","dom","P"],
+    ["2020-08-29","VCS 2020 Summer Playoffs","Round 2","GAM Esports","Team Flash.Vietnam","WWLLL","","dom","P"],
+    ["2020-09-03","VCS 2020 Summer Playoffs","Round 3","GAM Esports","EVOS Esports","LWLWW","","dom","P"],
+    ["2020-09-05","VCS 2020 Summer Playoffs","Final","GAM Esports","Team Flash.Vietnam","LWLWL","","dom","P"],
+    ["2023-08-12","VCS 2023 Summer Playoffs","Round 1","Saigon Buffalo","Team Flash.Vietnam","LWWW","","dom","P"],
+    ["2023-08-19","VCS 2023 Summer Playoffs","Round 2","Saigon Buffalo","GAM Esports","WLLL","","dom","P"],
+    ["2023-08-26","VCS 2023 Summer Playoffs","Round 2","Saigon Buffalo","Team Flash.Vietnam","LWWLW","","dom","P"],
+    ["2023-09-02","VCS 2023 Summer Playoffs","Round 3","Saigon Buffalo","Team Whales","LWLWL","","dom","P"]
+  ],
+  "unknown": [
+    ["2016-03-19","VCS A 2016 Spring Playoffs","Semifinal","Saigon Jokers","Boba Marines","3-2","","dom",""],
+    ["2016-03-20","VCS A 2016 Spring Playoffs","Final","Saigon Jokers","Full Louis","3-2","","dom",""]
+  ]
+}

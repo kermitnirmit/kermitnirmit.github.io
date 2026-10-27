@@ -1,1 +1,42 @@
-{"player":"Heroic","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2019-10-13","Dreamcup 2019 Portugal Season 3","Final","EGN Esports Academy","Dynamic Elements Calamity","WWW","r","dom",""],["2020-05-24","LPLOL 2020 Spring Cup","Final","EGN Esports","For The Win Esports","WLWW","r","dom","S"],["2020-08-02","LPLOL 2020 Summer Playoffs","Final","EGN Esports","SAMCLAN Esports Club","WLWW","","dom","S"],["2021-07-26","LPLOL 2021 Summer Playoffs","Semifinal","Karma Clan Esports","OFFSET Esports","LWWLW","","dom","S"],["2021-08-02","LPLOL 2021 Summer Playoffs","Final","Karma Clan Esports","White Dragons","LLWWW","","dom","S"],["2021-11-01","LPLOL 2021 Grand Final","Round 2","Karma Clan Esports","White Dragons","LWWLL","","dom","S"],["2021-11-02","Iberian Cup 2021","Quarterfinal","Karma Clan Esports","Movistar Riders","LLL","","dom","S"],["2021-11-08","LPLOL 2021 Grand Final","Round 3","Karma Clan Esports","For The Win Esports","LLWL","","dom","S"],["2022-03-10","LPLOL 2022 Spring Playoffs","Round 1","EGN Esports","OFFSET Esports","WWW","","dom","S"],["2022-03-12","LPLOL 2022 Spring Playoffs","Semifinal","EGN Esports","White Dragons","WLWLW","","dom","S"],["2022-03-19","LPLOL 2022 Spring Playoffs","Final","EGN Esports","For The Win Esports","LWLWL","","dom","S"],["2022-07-28","LPLOL 2022 Summer Playoffs","Round 1","EGN Esports","GTZ Bulls","WWW","","dom","S"],["2022-07-31","LPLOL 2022 Summer Playoffs","Semifinal","EGN Esports","White Dragons","LLWL","","dom","S"],["2022-11-13","LPLOL 2022 Pro-Am","Semifinal","EGN Esports","White Dragons","WWLW","","dom","S"],["2022-11-19","LPLOL 2022 Pro-Am","Final","EGN Esports","For The Win Esports","WWLLW","","dom","S"],["2023-03-16","LPLOL 2023 Spring Playoffs","Round 1","GTZ Esports","White Dragons","WWW","","dom","S"],["2023-04-01","LPLOL 2023 Spring Playoffs","Final","GTZ Esports","White Dragons","WWW","","dom","S"],["2023-07-20","LPLOL 2023 Summer Playoffs","Round 1","GTZ Esports","White Dragons","WLLWW","","dom","S"],["2023-08-05","LPLOL 2023 Summer Playoffs","Final","GTZ Esports","White Dragons","WWW","","dom","S"],["2023-08-28","EMEA Masters 2023 Summer Main Event","Quarterfinal","GTZ Esports","Macko Esports","LLL","","dom","S"],["2024-07-18","Elite Series 2024 Summer Playoffs","Round 1","SNOOZE Esports","ZennIT","LWLL","","dom","S"],["2025-03-06","Hitpoint Winter 2025 Main Event","Quarterfinal","GLORE.FIFINE","Dynamo Eclot","LLWWW","","dom","S"],["2025-03-08","Hitpoint Winter 2025 Main Event","Semifinal","GLORE.FIFINE","eSuba","LLL","","dom","S"],["2025-03-09","Hitpoint Winter 2025 Main Event","Third-Place Match","GLORE.FIFINE","Entropiq","WLLL","","dom","S"],["2025-05-23","LPLOL 2025 Spring Playoffs","Final","FlameHard","For The Win Esports","WWW","","dom","S"],["2025-07-20","Hellenic Legends League 2025 Summer Super Cup","Quarterfinal","Zerolag Esports","Team Insidious","LLL","","dom","S"],["2025-07-29","Hellenic Legends League 2026 Winter Promotion","Promotion","Zerolag Esports","Howl Esports","LLWL","","dom","S"],["2026-05-09","Hellenic Challengers Cup 2026 Spring Playoffs","Semifinal","Paranormal Invaders","EKSI EPTA","LWLL","","dom","S"],["2026-05-19","Hellenic Legends League 2026 Summer Promotion","Promotion","Paranormal Invaders","ALMO Players","LLWL","","dom","S"],["2026-08-26","LPLOL 2026 Summer Split","Quarterfinal","Bubliki","Hyperion (Portuguese Team)","LWWW","","dom","S"],["2026-09-07","LPLOL 2026 Summer Split","Semifinal","Bubliki","Otter Side","WLLL","","dom","S"],["2026-09-10","LPLOL 2026 Summer Split","Third-Place Match","Bubliki","Dominion Goblins","LWLWW","","dom","S"]],"unknown":[["2025-05-15","LPLOL 2025 Spring Playoffs","Round 1","FlameHard","For The Win Esports","3-1","WLW","dom","S"]]}
+{
+  "player": "Heroic",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2019-10-13","Dreamcup 2019 Portugal Season 3","Final","EGN Esports Academy","Dynamic Elements Calamity","WWW","r","dom",""],
+    ["2020-05-24","LPLOL 2020 Spring Cup","Final","EGN Esports","For The Win Esports","WLWW","r","dom","S"],
+    ["2020-08-02","LPLOL 2020 Summer Playoffs","Final","EGN Esports","SAMCLAN Esports Club","WLWW","","dom","S"],
+    ["2021-07-26","LPLOL 2021 Summer Playoffs","Semifinal","Karma Clan Esports","OFFSET Esports","LWWLW","","dom","S"],
+    ["2021-08-02","LPLOL 2021 Summer Playoffs","Final","Karma Clan Esports","White Dragons","LLWWW","","dom","S"],
+    ["2021-11-01","LPLOL 2021 Grand Final","Round 2","Karma Clan Esports","White Dragons","LWWLL","","dom","S"],
+    ["2021-11-02","Iberian Cup 2021","Quarterfinal","Karma Clan Esports","Movistar Riders","LLL","","dom","S"],
+    ["2021-11-08","LPLOL 2021 Grand Final","Round 3","Karma Clan Esports","For The Win Esports","LLWL","","dom","S"],
+    ["2022-03-10","LPLOL 2022 Spring Playoffs","Round 1","EGN Esports","OFFSET Esports","WWW","","dom","S"],
+    ["2022-03-12","LPLOL 2022 Spring Playoffs","Semifinal","EGN Esports","White Dragons","WLWLW","","dom","S"],
+    ["2022-03-19","LPLOL 2022 Spring Playoffs","Final","EGN Esports","For The Win Esports","LWLWL","","dom","S"],
+    ["2022-07-28","LPLOL 2022 Summer Playoffs","Round 1","EGN Esports","GTZ Bulls","WWW","","dom","S"],
+    ["2022-07-31","LPLOL 2022 Summer Playoffs","Semifinal","EGN Esports","White Dragons","LLWL","","dom","S"],
+    ["2022-11-13","LPLOL 2022 Pro-Am","Semifinal","EGN Esports","White Dragons","WWLW","","dom","S"],
+    ["2022-11-19","LPLOL 2022 Pro-Am","Final","EGN Esports","For The Win Esports","WWLLW","","dom","S"],
+    ["2023-03-16","LPLOL 2023 Spring Playoffs","Round 1","GTZ Esports","White Dragons","WWW","","dom","S"],
+    ["2023-04-01","LPLOL 2023 Spring Playoffs","Final","GTZ Esports","White Dragons","WWW","","dom","S"],
+    ["2023-07-20","LPLOL 2023 Summer Playoffs","Round 1","GTZ Esports","White Dragons","WLLWW","","dom","S"],
+    ["2023-08-05","LPLOL 2023 Summer Playoffs","Final","GTZ Esports","White Dragons","WWW","","dom","S"],
+    ["2023-08-28","EMEA Masters 2023 Summer Main Event","Quarterfinal","GTZ Esports","Macko Esports","LLL","","dom","S"],
+    ["2024-07-18","Elite Series 2024 Summer Playoffs","Round 1","SNOOZE Esports","ZennIT","LWLL","","dom","S"],
+    ["2025-03-06","Hitpoint Winter 2025 Main Event","Quarterfinal","GLORE.FIFINE","Dynamo Eclot","LLWWW","","dom","S"],
+    ["2025-03-08","Hitpoint Winter 2025 Main Event","Semifinal","GLORE.FIFINE","eSuba","LLL","","dom","S"],
+    ["2025-03-09","Hitpoint Winter 2025 Main Event","Third-Place Match","GLORE.FIFINE","Entropiq","WLLL","","dom","S"],
+    ["2025-05-23","LPLOL 2025 Spring Playoffs","Final","FlameHard","For The Win Esports","WWW","","dom","S"],
+    ["2025-07-20","Hellenic Legends League 2025 Summer Super Cup","Quarterfinal","Zerolag Esports","Team Insidious","LLL","","dom","S"],
+    ["2025-07-29","Hellenic Legends League 2026 Winter Promotion","Promotion","Zerolag Esports","Howl Esports","LLWL","","dom","S"],
+    ["2026-05-09","Hellenic Challengers Cup 2026 Spring Playoffs","Semifinal","Paranormal Invaders","EKSI EPTA","LWLL","","dom","S"],
+    ["2026-05-19","Hellenic Legends League 2026 Summer Promotion","Promotion","Paranormal Invaders","ALMO Players","LLWL","","dom","S"],
+    ["2026-08-26","LPLOL 2026 Summer Split","Quarterfinal","Bubliki","Hyperion (Portuguese Team)","LWWW","","dom","S"],
+    ["2026-09-07","LPLOL 2026 Summer Split","Semifinal","Bubliki","Otter Side","WLLL","","dom","S"],
+    ["2026-09-10","LPLOL 2026 Summer Split","Third-Place Match","Bubliki","Dominion Goblins","LWLWW","","dom","S"]
+  ],
+  "unknown": [
+    ["2025-05-15","LPLOL 2025 Spring Playoffs","Round 1","FlameHard","For The Win Esports","3-1","WLW","dom","S"]
+  ]
+}

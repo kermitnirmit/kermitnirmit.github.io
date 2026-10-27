@@ -1,1 +1,35 @@
-{"player":"Forest (Lee Hyeon-seo)","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2021-11-13","LCK Academy Series 2021 2nd Championship","Semifinal","T1 Rookies","Shadow Battlica","LWLL","","dom","S"],["2021-11-14","LCK Academy Series 2021 2nd Championship","Third-Place Match","T1 Rookies","Hanwha Life Esports Academy","WLWLL","","dom","S"],["2022-03-21","LCK CL 2022 Spring Playoffs","Quarterfinal","T1 Challengers","Nongshim RedForce Challengers","WLWLL","","dom","S"],["2022-08-22","LCK CL 2022 Summer Playoffs","Semifinal","T1 Challengers","Nongshim RedForce Challengers","LWLWL","","dom","S"],["2022-09-19","Asia Star Challengers Invitational 2022","Quarterfinal","T1 Challengers","Korean Streamer","WWW","","dom","S"],["2022-09-23","Asia Star Challengers Invitational 2022","Semifinal","T1 Challengers","MAX (Chinese Team)","LWWLL","","dom","S"],["2023-03-21","LCK CL 2023 Spring Playoffs","Round 1","T1 Challengers","Hanwha Life Esports Challengers","WWW","","dom","S"],["2023-03-27","LCK CL 2023 Spring Playoffs","Round 2","T1 Challengers","DRX Challengers","WWLLL","","dom","S"],["2023-04-04","LCK CL 2023 Spring Playoffs","Round 2","T1 Challengers","Dplus Kia Challengers","LLWWL","","dom","S"],["2024-02-25","LJL 2024 Spring Playoffs","Semifinal","Fukuoka SoftBank HAWKS gaming","Sengoku Gaming","WWW","","dom","P"],["2024-03-03","LJL 2024 Spring Playoffs","Final","Fukuoka SoftBank HAWKS gaming","DetonatioN FocusMe","WWW","","dom","P"],["2024-03-24","PCS 2024 Spring Playoffs","Stage 2 Round 2","Fukuoka SoftBank HAWKS gaming","PSG Talon","LWLWL","","dom","P"],["2024-03-28","PCS 2024 Spring Playoffs","Stage 2 Round 2","Fukuoka SoftBank HAWKS gaming","Deep Cross Gaming","WLWLW","","dom","P"],["2024-03-31","PCS 2024 Spring Playoffs","Stage 2 Round 3","Fukuoka SoftBank HAWKS gaming","Frank Esports","WLLWW","","dom","P"],["2024-04-06","PCS 2024 Spring Playoffs","Stage 2 Round 4","Fukuoka SoftBank HAWKS gaming","CTBC Flying Oyster","WWW","","dom","P"],["2024-04-07","PCS 2024 Spring Playoffs","Final","Fukuoka SoftBank HAWKS gaming","PSG Talon","LLL","","dom","P"],["2024-07-28","LJL 2024 Summer Playoffs","Final","Fukuoka SoftBank HAWKS gaming","DetonatioN FocusMe","WWW","","dom","P"],["2024-08-18","PCS 2024 Summer Playoffs","Stage 2 Round 2","Fukuoka SoftBank HAWKS gaming","Deep Cross Gaming","LWLWW","","dom","P"],["2024-08-23","PCS 2024 Summer Playoffs","Stage 2 Round 4","Fukuoka SoftBank HAWKS gaming","PSG Talon","LLL","","dom","P"],["2024-08-31","PCS 2024 Summer Playoffs","Stage 2 Round 4","Fukuoka SoftBank HAWKS gaming","Frank Esports","LWWW","","dom","P"],["2024-09-01","PCS 2024 Summer Playoffs","Final","Fukuoka SoftBank HAWKS gaming","PSG Talon","LLWL","","dom","P"],["2025-03-09","LJL 2025 Forge","Final","REJECT","VARREL YOUTH","WWW","","dom","S"],["2025-05-06","LJL 2025 Storm","Final","REJECT","QT DIG","LWWW","","dom","S"],["2025-06-21","LJL 2025 Ignite","Final","REJECT","Burning Core Toyama","WWW","","dom","S"],["2025-07-19","LJL 2025 Finals","Round 1","REJECT","QT DIG","WWW","","dom","S"],["2025-08-08","LJL 2025 Finals","Round 3","REJECT","DetonatioN FocusMe Academy","WWLW","","dom","S"],["2025-09-15","LJL 2025 Finals","Final","REJECT","QT DIG","LLWL","","dom","S"]],"unknown":[]}
+{
+  "player": "Forest (Lee Hyeon-seo)",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2021-11-13","LCK Academy Series 2021 2nd Championship","Semifinal","T1 Rookies","Shadow Battlica","LWLL","","dom","S"],
+    ["2021-11-14","LCK Academy Series 2021 2nd Championship","Third-Place Match","T1 Rookies","Hanwha Life Esports Academy","WLWLL","","dom","S"],
+    ["2022-03-21","LCK CL 2022 Spring Playoffs","Quarterfinal","T1 Challengers","Nongshim RedForce Challengers","WLWLL","","dom","S"],
+    ["2022-08-22","LCK CL 2022 Summer Playoffs","Semifinal","T1 Challengers","Nongshim RedForce Challengers","LWLWL","","dom","S"],
+    ["2022-09-19","Asia Star Challengers Invitational 2022","Quarterfinal","T1 Challengers","Korean Streamer","WWW","","dom","S"],
+    ["2022-09-23","Asia Star Challengers Invitational 2022","Semifinal","T1 Challengers","MAX (Chinese Team)","LWWLL","","dom","S"],
+    ["2023-03-21","LCK CL 2023 Spring Playoffs","Round 1","T1 Challengers","Hanwha Life Esports Challengers","WWW","","dom","S"],
+    ["2023-03-27","LCK CL 2023 Spring Playoffs","Round 2","T1 Challengers","DRX Challengers","WWLLL","","dom","S"],
+    ["2023-04-04","LCK CL 2023 Spring Playoffs","Round 2","T1 Challengers","Dplus Kia Challengers","LLWWL","","dom","S"],
+    ["2024-02-25","LJL 2024 Spring Playoffs","Semifinal","Fukuoka SoftBank HAWKS gaming","Sengoku Gaming","WWW","","dom","P"],
+    ["2024-03-03","LJL 2024 Spring Playoffs","Final","Fukuoka SoftBank HAWKS gaming","DetonatioN FocusMe","WWW","","dom","P"],
+    ["2024-03-24","PCS 2024 Spring Playoffs","Stage 2 Round 2","Fukuoka SoftBank HAWKS gaming","PSG Talon","LWLWL","","dom","P"],
+    ["2024-03-28","PCS 2024 Spring Playoffs","Stage 2 Round 2","Fukuoka SoftBank HAWKS gaming","Deep Cross Gaming","WLWLW","","dom","P"],
+    ["2024-03-31","PCS 2024 Spring Playoffs","Stage 2 Round 3","Fukuoka SoftBank HAWKS gaming","Frank Esports","WLLWW","","dom","P"],
+    ["2024-04-06","PCS 2024 Spring Playoffs","Stage 2 Round 4","Fukuoka SoftBank HAWKS gaming","CTBC Flying Oyster","WWW","","dom","P"],
+    ["2024-04-07","PCS 2024 Spring Playoffs","Final","Fukuoka SoftBank HAWKS gaming","PSG Talon","LLL","","dom","P"],
+    ["2024-07-28","LJL 2024 Summer Playoffs","Final","Fukuoka SoftBank HAWKS gaming","DetonatioN FocusMe","WWW","","dom","P"],
+    ["2024-08-18","PCS 2024 Summer Playoffs","Stage 2 Round 2","Fukuoka SoftBank HAWKS gaming","Deep Cross Gaming","LWLWW","","dom","P"],
+    ["2024-08-23","PCS 2024 Summer Playoffs","Stage 2 Round 4","Fukuoka SoftBank HAWKS gaming","PSG Talon","LLL","","dom","P"],
+    ["2024-08-31","PCS 2024 Summer Playoffs","Stage 2 Round 4","Fukuoka SoftBank HAWKS gaming","Frank Esports","LWWW","","dom","P"],
+    ["2024-09-01","PCS 2024 Summer Playoffs","Final","Fukuoka SoftBank HAWKS gaming","PSG Talon","LLWL","","dom","P"],
+    ["2025-03-09","LJL 2025 Forge","Final","REJECT","VARREL YOUTH","WWW","","dom","S"],
+    ["2025-05-06","LJL 2025 Storm","Final","REJECT","QT DIG","LWWW","","dom","S"],
+    ["2025-06-21","LJL 2025 Ignite","Final","REJECT","Burning Core Toyama","WWW","","dom","S"],
+    ["2025-07-19","LJL 2025 Finals","Round 1","REJECT","QT DIG","WWW","","dom","S"],
+    ["2025-08-08","LJL 2025 Finals","Round 3","REJECT","DetonatioN FocusMe Academy","WWLW","","dom","S"],
+    ["2025-09-15","LJL 2025 Finals","Final","REJECT","QT DIG","LLWL","","dom","S"]
+  ],
+  "unknown": []
+}

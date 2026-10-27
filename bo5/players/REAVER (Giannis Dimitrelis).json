@@ -1,1 +1,31 @@
-{"player":"REAVER (Giannis Dimitrelis)","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2024-03-15","GL2D 2024 Spring Playoffs","Round 1","SINS Esports","Silent Revolution Gaming","WLWW","","dom","S"],["2024-03-21","GL2D 2024 Spring Playoffs","Semifinal","SINS Esports","Actions Per Minute","LWLL","","dom","S"],["2024-06-27","GL2D 2024 Summer Playoffs","Round 1","SINS Esports","Team Insidious","LWLL","","dom","S"],["2024-07-04","GL2D 2024 Summer Playoffs","Semifinal","SINS Esports","Actions Per Minute","WWW","","dom","S"],["2024-07-12","GL2D 2024 Summer Playoffs","Final","SINS Esports","Team Insidious","WLLWL","","dom","S"],["2024-07-25","Greek Legends League 2025 Promotion","Round 1","SINS Esports","Actions Per Minute","LWLL","","dom","S"],["2025-03-02","Hellenic Legends League 2025 Winter Playoffs","Final","Team Phantasma","Gamespace Mediterranean College Esports","WWLW","","dom","S"],["2025-03-20","EMEA Masters 2025 Winter","Quarterfinal","Team Phantasma","Team Heretics Academy","LWLWW","","dom","S"],["2025-03-22","EMEA Masters 2025 Winter","Semifinal","Team Phantasma","Los Ratones","LLL","","dom","S"],["2025-05-16","Hellenic Legends League 2025 Spring Playoffs","Round 2","Team Phantasma","Team Insidious","WWW","","dom","S"],["2025-05-18","Hellenic Legends League 2025 Spring Playoffs","Round 3","Team Phantasma","Gamespace Mediterranean College Esports","LWWLL","","dom","S"],["2025-05-31","Hellenic Legends League 2025 Spring Playoffs","Round 3","Team Phantasma","Team Insidious","WWW","","dom","S"],["2025-06-01","Hellenic Legends League 2025 Spring Playoffs","Final","Team Phantasma","Gamespace Mediterranean College Esports","WWLW","","dom","S"],["2025-07-15","Hellenic Legends League 2025 Summer Super Cup","Quarterfinal","Team Phantasma","WLGaming Esports","WWLLW","","dom","S"],["2025-07-22","Hellenic Legends League 2025 Summer Super Cup","Semifinal","Team Phantasma","Team Insidious","WWW","","dom","S"],["2025-07-27","Hellenic Legends League 2025 Summer Super Cup","Final","Team Phantasma","Gamespace Mediterranean College Esports","WWW","","dom","S"],["2025-09-03","Hellenic Legends League 2025 Season Finals","Semifinal","Team Phantasma","Team Paradox","WWW","","dom","S"],["2025-09-14","Hellenic Legends League 2025 Season Finals","Final","Team Phantasma","Gamespace Mediterranean College Esports","WWW","","dom","S"],["2026-02-26","Hellenic Legends League 2026 Winter Playoffs","Semifinal","Team Phantasma","Team Insidious","WWW","","dom","S"],["2026-02-28","Hellenic Legends League 2026 Winter Playoffs","Final","Team Phantasma","WLGaming Esports","WLLL","","dom","S"],["2026-05-13","Hellenic Legends League 2026 Spring Playoffs","Semifinal","Team Phantasma","WLGaming Esports","LWLWL","","dom","S"],["2026-08-27","Hellenic Legends League 2026 Summer Playoffs","Round 2","WLGaming Esports","Valerion","LLL","","dom","S"],["2026-09-02","Hellenic Legends League 2026 Summer Playoffs","Round 2","WLGaming Esports","Team Phantasma","LLWL","","dom","S"]],"unknown":[]}
+{
+  "player": "REAVER (Giannis Dimitrelis)",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2024-03-15","GL2D 2024 Spring Playoffs","Round 1","SINS Esports","Silent Revolution Gaming","WLWW","","dom","S"],
+    ["2024-03-21","GL2D 2024 Spring Playoffs","Semifinal","SINS Esports","Actions Per Minute","LWLL","","dom","S"],
+    ["2024-06-27","GL2D 2024 Summer Playoffs","Round 1","SINS Esports","Team Insidious","LWLL","","dom","S"],
+    ["2024-07-04","GL2D 2024 Summer Playoffs","Semifinal","SINS Esports","Actions Per Minute","WWW","","dom","S"],
+    ["2024-07-12","GL2D 2024 Summer Playoffs","Final","SINS Esports","Team Insidious","WLLWL","","dom","S"],
+    ["2024-07-25","Greek Legends League 2025 Promotion","Round 1","SINS Esports","Actions Per Minute","LWLL","","dom","S"],
+    ["2025-03-02","Hellenic Legends League 2025 Winter Playoffs","Final","Team Phantasma","Gamespace Mediterranean College Esports","WWLW","","dom","S"],
+    ["2025-03-20","EMEA Masters 2025 Winter","Quarterfinal","Team Phantasma","Team Heretics Academy","LWLWW","","dom","S"],
+    ["2025-03-22","EMEA Masters 2025 Winter","Semifinal","Team Phantasma","Los Ratones","LLL","","dom","S"],
+    ["2025-05-16","Hellenic Legends League 2025 Spring Playoffs","Round 2","Team Phantasma","Team Insidious","WWW","","dom","S"],
+    ["2025-05-18","Hellenic Legends League 2025 Spring Playoffs","Round 3","Team Phantasma","Gamespace Mediterranean College Esports","LWWLL","","dom","S"],
+    ["2025-05-31","Hellenic Legends League 2025 Spring Playoffs","Round 3","Team Phantasma","Team Insidious","WWW","","dom","S"],
+    ["2025-06-01","Hellenic Legends League 2025 Spring Playoffs","Final","Team Phantasma","Gamespace Mediterranean College Esports","WWLW","","dom","S"],
+    ["2025-07-15","Hellenic Legends League 2025 Summer Super Cup","Quarterfinal","Team Phantasma","WLGaming Esports","WWLLW","","dom","S"],
+    ["2025-07-22","Hellenic Legends League 2025 Summer Super Cup","Semifinal","Team Phantasma","Team Insidious","WWW","","dom","S"],
+    ["2025-07-27","Hellenic Legends League 2025 Summer Super Cup","Final","Team Phantasma","Gamespace Mediterranean College Esports","WWW","","dom","S"],
+    ["2025-09-03","Hellenic Legends League 2025 Season Finals","Semifinal","Team Phantasma","Team Paradox","WWW","","dom","S"],
+    ["2025-09-14","Hellenic Legends League 2025 Season Finals","Final","Team Phantasma","Gamespace Mediterranean College Esports","WWW","","dom","S"],
+    ["2026-02-26","Hellenic Legends League 2026 Winter Playoffs","Semifinal","Team Phantasma","Team Insidious","WWW","","dom","S"],
+    ["2026-02-28","Hellenic Legends League 2026 Winter Playoffs","Final","Team Phantasma","WLGaming Esports","WLLL","","dom","S"],
+    ["2026-05-13","Hellenic Legends League 2026 Spring Playoffs","Semifinal","Team Phantasma","WLGaming Esports","LWLWL","","dom","S"],
+    ["2026-08-27","Hellenic Legends League 2026 Summer Playoffs","Round 2","WLGaming Esports","Valerion","LLL","","dom","S"],
+    ["2026-09-02","Hellenic Legends League 2026 Summer Playoffs","Round 2","WLGaming Esports","Team Phantasma","LLWL","","dom","S"]
+  ],
+  "unknown": []
+}

@@ -1,1 +1,28 @@
-{"player":"monkaS","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2022-03-21","Turkey Academy League 2022 Winter Playoffs","Semifinal","Dark Passage Academy","Fenerbahçe Academy","LWLL","","dom","S"],["2022-08-16","Turkey Academy League 2022 Summer Playoffs","Semifinal","NASR eSports Turkey Academy","Dark Passage Academy","LWLWW","","dom","S"],["2022-08-17","Turkey Academy League 2022 Summer Playoffs","Final","NASR eSports Turkey Academy","Beşiktaş Academy","LWLWL","","dom","S"],["2023-08-10","TCL Division 2 2023 Summer Playoffs","Round 1","Beetle Juice","Pcific Lynch","WWW","","dom","S"],["2023-08-16","TCL Division 2 2023 Summer Playoffs","Round 2","Beetle Juice","Chasing Haze 07","LWWLL","","dom","S"],["2023-09-11","TCL 2024 Promotion","Round 1","Beetle Juice","Galakticos","LWLL","","dom","S"],["2023-09-13","TCL 2024 Promotion","Round 1","Beetle Juice","Looking for ORG (Turkish Team)","WWLW","","dom","S"],["2023-09-19","TCL 2024 Promotion","Round 2","Beetle Juice","Chasing Haze 07","WLWLL","","dom","S"],["2025-05-14","TCL 2025 Spring Playoffs","Round 1","Bushido Wildcats","ULF Esports","LLWWL","","dom","S"],["2025-09-02","TCL 2025 Summer Playoffs","Round 2","Bushido Wildcats","Misa Esports","WLLL","","dom","S"],["2025-09-05","TCL 2025 Summer Playoffs","Semifinal","Bushido Wildcats","ULF Esports","WLWW","","dom","S"],["2025-09-12","TCL 2025 Summer Playoffs","Final","Bushido Wildcats","Misa Esports","WLLWL","","dom","S"],["2025-12-14","GAMEON Revival 2025","Final","Misa Esports","Last Wall","WWW","","dom","S"],["2026-05-21","TCL 2026 Spring Playoffs","Round 2","Ozarox Esports","Misa Esports","LLL","","dom","S"],["2026-05-26","TCL 2026 Spring Playoffs","Semifinal","Ozarox Esports","PCIFIC Esports","LLL","","dom","S"],["2026-08-25","TCL 2026 Summer Split","Round 2","PCIFIC Esports","SU Esports","LLWL","","dom","S"],["2026-08-26","TCL 2026 Summer Split","Round 2","PCIFIC Esports","Team Phoenix (Turkish Team)","WWW","","dom","S"],["2026-09-01","TCL 2026 Summer Split","Round 3","PCIFIC Esports","Dark Passage","WWW","","dom","S"],["2026-09-03","TCL 2026 Summer Split","Round 4","PCIFIC Esports","SU Esports","WLWW","","dom","S"],["2026-09-11","TCL 2026 Summer Split","Final","PCIFIC Esports","Bushido Wildcats","LLL","","dom","S"]],"unknown":[]}
+{
+  "player": "monkaS",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2022-03-21","Turkey Academy League 2022 Winter Playoffs","Semifinal","Dark Passage Academy","Fenerbahçe Academy","LWLL","","dom","S"],
+    ["2022-08-16","Turkey Academy League 2022 Summer Playoffs","Semifinal","NASR eSports Turkey Academy","Dark Passage Academy","LWLWW","","dom","S"],
+    ["2022-08-17","Turkey Academy League 2022 Summer Playoffs","Final","NASR eSports Turkey Academy","Beşiktaş Academy","LWLWL","","dom","S"],
+    ["2023-08-10","TCL Division 2 2023 Summer Playoffs","Round 1","Beetle Juice","Pcific Lynch","WWW","","dom","S"],
+    ["2023-08-16","TCL Division 2 2023 Summer Playoffs","Round 2","Beetle Juice","Chasing Haze 07","LWWLL","","dom","S"],
+    ["2023-09-11","TCL 2024 Promotion","Round 1","Beetle Juice","Galakticos","LWLL","","dom","S"],
+    ["2023-09-13","TCL 2024 Promotion","Round 1","Beetle Juice","Looking for ORG (Turkish Team)","WWLW","","dom","S"],
+    ["2023-09-19","TCL 2024 Promotion","Round 2","Beetle Juice","Chasing Haze 07","WLWLL","","dom","S"],
+    ["2025-05-14","TCL 2025 Spring Playoffs","Round 1","Bushido Wildcats","ULF Esports","LLWWL","","dom","S"],
+    ["2025-09-02","TCL 2025 Summer Playoffs","Round 2","Bushido Wildcats","Misa Esports","WLLL","","dom","S"],
+    ["2025-09-05","TCL 2025 Summer Playoffs","Semifinal","Bushido Wildcats","ULF Esports","WLWW","","dom","S"],
+    ["2025-09-12","TCL 2025 Summer Playoffs","Final","Bushido Wildcats","Misa Esports","WLLWL","","dom","S"],
+    ["2025-12-14","GAMEON Revival 2025","Final","Misa Esports","Last Wall","WWW","","dom","S"],
+    ["2026-05-21","TCL 2026 Spring Playoffs","Round 2","Ozarox Esports","Misa Esports","LLL","","dom","S"],
+    ["2026-05-26","TCL 2026 Spring Playoffs","Semifinal","Ozarox Esports","PCIFIC Esports","LLL","","dom","S"],
+    ["2026-08-25","TCL 2026 Summer Split","Round 2","PCIFIC Esports","SU Esports","LLWL","","dom","S"],
+    ["2026-08-26","TCL 2026 Summer Split","Round 2","PCIFIC Esports","Team Phoenix (Turkish Team)","WWW","","dom","S"],
+    ["2026-09-01","TCL 2026 Summer Split","Round 3","PCIFIC Esports","Dark Passage","WWW","","dom","S"],
+    ["2026-09-03","TCL 2026 Summer Split","Round 4","PCIFIC Esports","SU Esports","WLWW","","dom","S"],
+    ["2026-09-11","TCL 2026 Summer Split","Final","PCIFIC Esports","Bushido Wildcats","LLL","","dom","S"]
+  ],
+  "unknown": []
+}

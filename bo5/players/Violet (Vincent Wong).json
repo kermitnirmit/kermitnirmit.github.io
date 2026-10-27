@@ -1,1 +1,33 @@
-{"player":"Violet (Vincent Wong)","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2020-04-10","OPL 2020 Split 1 Playoffs","Round 1","Avant Gaming","ORDER","LLWL","","dom","P"],["2021-03-30","LCO 2021 Split 1 Playoffs","Round 1","PEACE (Oceanic Team)","Dire Wolves","WWW","","dom","P"],["2021-03-31","LCO 2021 Split 1 Playoffs","Round 2","PEACE (Oceanic Team)","Pentanet.GG","LWWLL","","dom","P"],["2021-04-07","LCO 2021 Split 1 Playoffs","Round 3","PEACE (Oceanic Team)","Chiefs Esports Club","WLWW","","dom","P"],["2021-04-10","LCO 2021 Split 1 Playoffs","Final","PEACE (Oceanic Team)","Pentanet.GG","WLLL","","dom","P"],["2021-08-17","LCO 2021 Split 2 Playoffs","Round 1","PEACE (Oceanic Team)","Chiefs Esports Club","WWW","","dom","P"],["2021-08-24","LCO 2021 Split 2 Playoffs","Round 2","PEACE (Oceanic Team)","ORDER","LLWWW","","dom","P"],["2021-08-25","LCO 2021 Split 2 Playoffs","Round 3","PEACE (Oceanic Team)","Dire Wolves","WWW","","dom","P"],["2021-08-31","LCO 2021 Split 2 Playoffs","Final","PEACE (Oceanic Team)","Pentanet.GG","WWW","","dom","P"],["2021-10-08","Worlds 2021","Elimination Round","PEACE (Oceanic Team)","RED Canids","LWWLW","","worlds","P"],["2021-10-09","Worlds 2021","Qualification Round","PEACE (Oceanic Team)","Cloud9","LLL","","worlds","P"],["2022-04-06","LCS Proving Grounds 2022 Spring","Round 5","Golden Guardians Academy","Team Liquid Academy","LWLL","","dom","S"],["2022-04-14","LCS Proving Grounds 2022 Spring","Round 6","Golden Guardians Academy","100 Thieves Academy","LLL","","dom","S"],["2024-02-29","LCO 2024 Split 1 Playoffs","Round 3","Team Bliss","Ground Zero Gaming","WLLL","","dom","P"],["2024-03-01","LCO 2024 Split 1 Playoffs","Round 3","Team Bliss","Antic Esports","LLWWL","","dom","P"],["2024-07-18","LCO 2024 Split 2 Playoffs","Round 3","Team Bliss","Ground Zero Gaming","LLL","","dom","P"],["2024-07-19","LCO 2024 Split 2 Playoffs","Round 3","Team Bliss","Antic Esports","LWWW","","dom","P"],["2024-07-22","LCO 2024 Split 2 Playoffs","Final","Team Bliss","Ground Zero Gaming","WLLL","","dom","P"],["2024-12-01","Oceanic Forge Tournament","Final","Umgunner","Team Siren","WLLWL","","dom","S"],["2025-08-30","LCP OPQ 2025 Main Event","Round 7","Saving OCE","Polarchair","WLLWW","","dom","S"],["2025-08-31","LCP OPQ 2025 Main Event","Grand Finals","Saving OCE","Polarchair","WWW","","dom","S"],["2025-10-01","LCP 2026 Promotion","FFA Round 1","Saving OCE","Inferno Esports (Filipino Team)","WLLL","","dom","P"],["2025-12-21","The Oceanic Resurrection 2025","Grand Final","Rush Hour","Team Capybara","LLL","r","dom","S"]],"unknown":[["2025-12-19","The Oceanic Resurrection 2025","Round 5","Rush Hour","Fatpizza","3-2","","dom","S"]]}
+{
+  "player": "Violet (Vincent Wong)",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2020-04-10","OPL 2020 Split 1 Playoffs","Round 1","Avant Gaming","ORDER","LLWL","","dom","P"],
+    ["2021-03-30","LCO 2021 Split 1 Playoffs","Round 1","PEACE (Oceanic Team)","Dire Wolves","WWW","","dom","P"],
+    ["2021-03-31","LCO 2021 Split 1 Playoffs","Round 2","PEACE (Oceanic Team)","Pentanet.GG","LWWLL","","dom","P"],
+    ["2021-04-07","LCO 2021 Split 1 Playoffs","Round 3","PEACE (Oceanic Team)","Chiefs Esports Club","WLWW","","dom","P"],
+    ["2021-04-10","LCO 2021 Split 1 Playoffs","Final","PEACE (Oceanic Team)","Pentanet.GG","WLLL","","dom","P"],
+    ["2021-08-17","LCO 2021 Split 2 Playoffs","Round 1","PEACE (Oceanic Team)","Chiefs Esports Club","WWW","","dom","P"],
+    ["2021-08-24","LCO 2021 Split 2 Playoffs","Round 2","PEACE (Oceanic Team)","ORDER","LLWWW","","dom","P"],
+    ["2021-08-25","LCO 2021 Split 2 Playoffs","Round 3","PEACE (Oceanic Team)","Dire Wolves","WWW","","dom","P"],
+    ["2021-08-31","LCO 2021 Split 2 Playoffs","Final","PEACE (Oceanic Team)","Pentanet.GG","WWW","","dom","P"],
+    ["2021-10-08","Worlds 2021","Elimination Round","PEACE (Oceanic Team)","RED Canids","LWWLW","","worlds","P"],
+    ["2021-10-09","Worlds 2021","Qualification Round","PEACE (Oceanic Team)","Cloud9","LLL","","worlds","P"],
+    ["2022-04-06","LCS Proving Grounds 2022 Spring","Round 5","Golden Guardians Academy","Team Liquid Academy","LWLL","","dom","S"],
+    ["2022-04-14","LCS Proving Grounds 2022 Spring","Round 6","Golden Guardians Academy","100 Thieves Academy","LLL","","dom","S"],
+    ["2024-02-29","LCO 2024 Split 1 Playoffs","Round 3","Team Bliss","Ground Zero Gaming","WLLL","","dom","P"],
+    ["2024-03-01","LCO 2024 Split 1 Playoffs","Round 3","Team Bliss","Antic Esports","LLWWL","","dom","P"],
+    ["2024-07-18","LCO 2024 Split 2 Playoffs","Round 3","Team Bliss","Ground Zero Gaming","LLL","","dom","P"],
+    ["2024-07-19","LCO 2024 Split 2 Playoffs","Round 3","Team Bliss","Antic Esports","LWWW","","dom","P"],
+    ["2024-07-22","LCO 2024 Split 2 Playoffs","Final","Team Bliss","Ground Zero Gaming","WLLL","","dom","P"],
+    ["2024-12-01","Oceanic Forge Tournament","Final","Umgunner","Team Siren","WLLWL","","dom","S"],
+    ["2025-08-30","LCP OPQ 2025 Main Event","Round 7","Saving OCE","Polarchair","WLLWW","","dom","S"],
+    ["2025-08-31","LCP OPQ 2025 Main Event","Grand Finals","Saving OCE","Polarchair","WWW","","dom","S"],
+    ["2025-10-01","LCP 2026 Promotion","FFA Round 1","Saving OCE","Inferno Esports (Filipino Team)","WLLL","","dom","P"],
+    ["2025-12-21","The Oceanic Resurrection 2025","Grand Final","Rush Hour","Team Capybara","LLL","r","dom","S"]
+  ],
+  "unknown": [
+    ["2025-12-19","The Oceanic Resurrection 2025","Round 5","Rush Hour","Fatpizza","3-2","","dom","S"]
+  ]
+}

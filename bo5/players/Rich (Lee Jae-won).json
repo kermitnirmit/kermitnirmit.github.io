@@ -1,1 +1,29 @@
-{"player":"Rich (Lee Jae-won)","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2020-04-20","Challengers Korea 2020 Spring Playoffs","Semifinal","Team Dynamics","Element Mystic","WWW","","dom","S"],["2020-04-23","Challengers Korea 2020 Spring Playoffs","Final","Team Dynamics","Spear Gaming","WWLW","","dom","S"],["2020-12-27","LoL KeSPA Cup 2020","Semifinal","Nongshim RedForce","KT Rolster","WWW","","dom","P"],["2021-01-02","LoL KeSPA Cup 2020","Final","Nongshim RedForce","DAMWON Gaming","LLL","","dom","P"],["2021-03-31","LCK 2021 Spring Playoffs","Quarterfinal","Nongshim RedForce","Hanwha Life Esports","LWLWL","","dom","P"],["2021-08-18","LCK 2021 Summer Playoffs","Quarterfinal","Nongshim RedForce","Afreeca Freecs","LWWW","","dom","P"],["2021-08-21","LCK 2021 Summer Playoffs","Semifinal","Nongshim RedForce","DWG KIA","LLL","","dom","P"],["2021-09-01","LCK 2021 Regional Finals","Round 2","Nongshim RedForce","Hanwha Life Esports","LLL","","dom","P"],["2022-04-12","LPL 2022 Spring Playoffs","Round 4","Victory Five","Top Esports","WWLLL","","dom","P"],["2022-04-16","LPL 2022 Spring Playoffs","Round 4","Victory Five","JD Gaming","LWWW","","dom","P"],["2022-04-20","LPL 2022 Spring Playoffs","Semifinal","Victory Five","Top Esports","WLLL","","dom","P"],["2022-08-21","LPL 2022 Summer Playoffs","Round 3","Victory Five","LNG Esports","LWLWL","","dom","P"],["2022-09-03","LPL 2022 Regional Finals","Round 1","Victory Five","LNG Esports","LLWL","","dom","P"],["2023-08-03","LCS 2023 Championship","Round 1","Dignitas","TSM","WLWLW","","dom","P"],["2023-08-11","LCS 2023 Championship","Round 2","Dignitas","Golden Guardians","LLL","","dom","P"],["2024-03-17","LCS 2024 Spring Playoffs","Round 1","Dignitas","Team Liquid","LLL","","dom","P"],["2025-02-09","LCK 2025 Cup","Play-In Round 3","DRX","Nongshim RedForce","LWLL","","dom","P"],["2026-01-28","LCK 2026 Cup","","DRX","BRION","WLLWW","","dom","P"],["2026-02-08","LCK 2026 Cup","Play-In Round 3","DRX","Nongshim RedForce","WWW","","dom","P"],["2026-02-13","LCK 2026 Cup","Playoffs Round 1","DRX","Dplus Kia","WLWLL","","dom","P"],["2026-02-19","LCK 2026 Cup","Playoffs Round 1","DRX","DN SOOPers","LLWL","","dom","P"]],"unknown":[]}
+{
+  "player": "Rich (Lee Jae-won)",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2020-04-20","Challengers Korea 2020 Spring Playoffs","Semifinal","Team Dynamics","Element Mystic","WWW","","dom","S"],
+    ["2020-04-23","Challengers Korea 2020 Spring Playoffs","Final","Team Dynamics","Spear Gaming","WWLW","","dom","S"],
+    ["2020-12-27","LoL KeSPA Cup 2020","Semifinal","Nongshim RedForce","KT Rolster","WWW","","dom","P"],
+    ["2021-01-02","LoL KeSPA Cup 2020","Final","Nongshim RedForce","DAMWON Gaming","LLL","","dom","P"],
+    ["2021-03-31","LCK 2021 Spring Playoffs","Quarterfinal","Nongshim RedForce","Hanwha Life Esports","LWLWL","","dom","P"],
+    ["2021-08-18","LCK 2021 Summer Playoffs","Quarterfinal","Nongshim RedForce","Afreeca Freecs","LWWW","","dom","P"],
+    ["2021-08-21","LCK 2021 Summer Playoffs","Semifinal","Nongshim RedForce","DWG KIA","LLL","","dom","P"],
+    ["2021-09-01","LCK 2021 Regional Finals","Round 2","Nongshim RedForce","Hanwha Life Esports","LLL","","dom","P"],
+    ["2022-04-12","LPL 2022 Spring Playoffs","Round 4","Victory Five","Top Esports","WWLLL","","dom","P"],
+    ["2022-04-16","LPL 2022 Spring Playoffs","Round 4","Victory Five","JD Gaming","LWWW","","dom","P"],
+    ["2022-04-20","LPL 2022 Spring Playoffs","Semifinal","Victory Five","Top Esports","WLLL","","dom","P"],
+    ["2022-08-21","LPL 2022 Summer Playoffs","Round 3","Victory Five","LNG Esports","LWLWL","","dom","P"],
+    ["2022-09-03","LPL 2022 Regional Finals","Round 1","Victory Five","LNG Esports","LLWL","","dom","P"],
+    ["2023-08-03","LCS 2023 Championship","Round 1","Dignitas","TSM","WLWLW","","dom","P"],
+    ["2023-08-11","LCS 2023 Championship","Round 2","Dignitas","Golden Guardians","LLL","","dom","P"],
+    ["2024-03-17","LCS 2024 Spring Playoffs","Round 1","Dignitas","Team Liquid","LLL","","dom","P"],
+    ["2025-02-09","LCK 2025 Cup","Play-In Round 3","DRX","Nongshim RedForce","LWLL","","dom","P"],
+    ["2026-01-28","LCK 2026 Cup","","DRX","BRION","WLLWW","","dom","P"],
+    ["2026-02-08","LCK 2026 Cup","Play-In Round 3","DRX","Nongshim RedForce","WWW","","dom","P"],
+    ["2026-02-13","LCK 2026 Cup","Playoffs Round 1","DRX","Dplus Kia","WLWLL","","dom","P"],
+    ["2026-02-19","LCK 2026 Cup","Playoffs Round 1","DRX","DN SOOPers","LLWL","","dom","P"]
+  ],
+  "unknown": []
+}

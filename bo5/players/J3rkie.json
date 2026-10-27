@@ -1,1 +1,39 @@
-{"player":"J3rkie","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2023-05-02","Hitpoint 3rd Division 2023 Spring Playoffs","Round 1","Go Elements","Team Meliora","LLL","r","dom","S"],["2023-05-04","Hitpoint 3rd Division 2023 Spring Playoffs","Round 2","Go Elements","SLITxCREW","LLL","r","dom","S"],["2023-05-28","Hitpoint 2nd Division Challengers 2023 Summer Qualifiers","Round 2","Team UNiTY","Andromeda","WWW","r","dom","S"],["2023-07-13","Hitpoint 2nd Division Challengers 2023 Summer Playoffs","Round 1","Team UNiTY","GLORE","WWW","","dom","S"],["2023-07-26","Hitpoint 2nd Division Challengers 2023 Summer Playoffs","Final","Team UNiTY","GLORE","LWWW","","dom","S"],["2023-08-01","Hitpoint Masters 2024 Promotion","Round 1","Team UNiTY","Cryptova","WWW","","dom","S"],["2023-08-08","Hitpoint Masters 2024 Promotion","Round 2","Team UNiTY","GLORE","LLWWW","","dom","S"],["2023-10-18","Hitpoint Winter 2023 Main Event","Round 3","Team UNiTY","GLORE","LLL","","dom","S"],["2024-03-12","Hitpoint Masters 2024 Spring Playoffs","Round 1","Team UNiTY","OGC Sigma Esports","WWLW","","dom","S"],["2024-03-29","Hitpoint Masters 2024 Spring Playoffs","Semifinal","Team UNiTY","Entropiq","LWLL","","dom","S"],["2024-07-20","Hitpoint Masters 2024 Summer Playoffs","Round 1","Team UNiTY","Entropiq","LWLWL","","dom","S"],["2024-08-03","Hitpoint Masters 2024 Summer Playoffs","Semifinal","Team UNiTY","Dynamo Eclot","WWW","","dom","S"],["2024-08-04","Hitpoint Masters 2024 Summer Playoffs","Final","Team UNiTY","Entropiq","LLL","","dom","S"],["2024-10-25","Hitpoint Winter 2024 Main Event","Quarterfinal","Team UNiTY","Maverix","WWW","","dom","S"],["2024-10-30","Hitpoint Winter 2024 Main Event","Semifinal","Team UNiTY","Entropiq","LLL","","dom","S"],["2024-11-03","Hitpoint Winter 2024 Main Event","Third-Place Match","Team UNiTY","GLORE.FIFINE","LWWW","","dom","S"],["2025-02-27","TransIP Road Of Legends 2025 Winter Split","Playoffs Round 1","ZennIT","A One Man Army","WWW","","dom","S"],["2025-03-06","TransIP Road Of Legends 2025 Winter Split","Final","ZennIT","mCon esports","WLWLW","","dom","S"],["2025-03-20","EMEA Masters 2025 Winter","Quarterfinal","ZennIT","Karmine Corp Blue","LWLL","","dom","S"],["2025-05-24","TransIP Road Of Legends 2025 Spring Playoffs","Final","ZennIT","mCon esports","WWW","","dom","S"],["2025-06-14","EMEA Masters 2025 Spring","Round of 16","ZennIT","Barça eSports","LLWL","","dom","S"],["2025-09-13","TransIP Road Of Legends 2025 Season Finals","Final","ZennIT","Senshi eSports (Benelux Team)","LLL","","dom","S"],["2025-11-09","Střet vyvolávačů 2025","Final","CITA Kaizen","HELLA FUEGO","WLLWW","","dom","S"],["2026-05-24","Hitpoint Masters 2026 Spring Playoffs","Round 1","CITA Kaizen","eSuba","WWW","","dom","S"],["2026-05-30","Hitpoint Masters 2026 Spring Playoffs","Round 3","CITA Kaizen","Nightbirds","LLWWW","","dom","S"],["2026-06-05","Hitpoint Masters 2026 Spring Playoffs","Final","CITA Kaizen","Nightbirds","WWW","","dom","S"],["2026-09-07","NLC 2026 Summer Split","Round 4","Ruddy Corporation","Arctic Pandas","WWW","","dom","S"],["2026-09-16","NLC 2026 Summer Split","Final","Ruddy Corporation","Verdant","LWWW","","dom","S"],["2026-10-07","EMEA Masters 2026 Summer Main Event","Round of 16","Ruddy Corporation","Anubis Gaming","LLWWL","","dom","S"]],"unknown":[["2023-05-27","Hitpoint 2nd Division Challengers 2023 Summer Qualifiers","Round 1","Team UNiTY","FLY5","3-2","","dom","S"]]}
+{
+  "player": "J3rkie",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2023-05-02","Hitpoint 3rd Division 2023 Spring Playoffs","Round 1","Go Elements","Team Meliora","LLL","r","dom","S"],
+    ["2023-05-04","Hitpoint 3rd Division 2023 Spring Playoffs","Round 2","Go Elements","SLITxCREW","LLL","r","dom","S"],
+    ["2023-05-28","Hitpoint 2nd Division Challengers 2023 Summer Qualifiers","Round 2","Team UNiTY","Andromeda","WWW","r","dom","S"],
+    ["2023-07-13","Hitpoint 2nd Division Challengers 2023 Summer Playoffs","Round 1","Team UNiTY","GLORE","WWW","","dom","S"],
+    ["2023-07-26","Hitpoint 2nd Division Challengers 2023 Summer Playoffs","Final","Team UNiTY","GLORE","LWWW","","dom","S"],
+    ["2023-08-01","Hitpoint Masters 2024 Promotion","Round 1","Team UNiTY","Cryptova","WWW","","dom","S"],
+    ["2023-08-08","Hitpoint Masters 2024 Promotion","Round 2","Team UNiTY","GLORE","LLWWW","","dom","S"],
+    ["2023-10-18","Hitpoint Winter 2023 Main Event","Round 3","Team UNiTY","GLORE","LLL","","dom","S"],
+    ["2024-03-12","Hitpoint Masters 2024 Spring Playoffs","Round 1","Team UNiTY","OGC Sigma Esports","WWLW","","dom","S"],
+    ["2024-03-29","Hitpoint Masters 2024 Spring Playoffs","Semifinal","Team UNiTY","Entropiq","LWLL","","dom","S"],
+    ["2024-07-20","Hitpoint Masters 2024 Summer Playoffs","Round 1","Team UNiTY","Entropiq","LWLWL","","dom","S"],
+    ["2024-08-03","Hitpoint Masters 2024 Summer Playoffs","Semifinal","Team UNiTY","Dynamo Eclot","WWW","","dom","S"],
+    ["2024-08-04","Hitpoint Masters 2024 Summer Playoffs","Final","Team UNiTY","Entropiq","LLL","","dom","S"],
+    ["2024-10-25","Hitpoint Winter 2024 Main Event","Quarterfinal","Team UNiTY","Maverix","WWW","","dom","S"],
+    ["2024-10-30","Hitpoint Winter 2024 Main Event","Semifinal","Team UNiTY","Entropiq","LLL","","dom","S"],
+    ["2024-11-03","Hitpoint Winter 2024 Main Event","Third-Place Match","Team UNiTY","GLORE.FIFINE","LWWW","","dom","S"],
+    ["2025-02-27","TransIP Road Of Legends 2025 Winter Split","Playoffs Round 1","ZennIT","A One Man Army","WWW","","dom","S"],
+    ["2025-03-06","TransIP Road Of Legends 2025 Winter Split","Final","ZennIT","mCon esports","WLWLW","","dom","S"],
+    ["2025-03-20","EMEA Masters 2025 Winter","Quarterfinal","ZennIT","Karmine Corp Blue","LWLL","","dom","S"],
+    ["2025-05-24","TransIP Road Of Legends 2025 Spring Playoffs","Final","ZennIT","mCon esports","WWW","","dom","S"],
+    ["2025-06-14","EMEA Masters 2025 Spring","Round of 16","ZennIT","Barça eSports","LLWL","","dom","S"],
+    ["2025-09-13","TransIP Road Of Legends 2025 Season Finals","Final","ZennIT","Senshi eSports (Benelux Team)","LLL","","dom","S"],
+    ["2025-11-09","Střet vyvolávačů 2025","Final","CITA Kaizen","HELLA FUEGO","WLLWW","","dom","S"],
+    ["2026-05-24","Hitpoint Masters 2026 Spring Playoffs","Round 1","CITA Kaizen","eSuba","WWW","","dom","S"],
+    ["2026-05-30","Hitpoint Masters 2026 Spring Playoffs","Round 3","CITA Kaizen","Nightbirds","LLWWW","","dom","S"],
+    ["2026-06-05","Hitpoint Masters 2026 Spring Playoffs","Final","CITA Kaizen","Nightbirds","WWW","","dom","S"],
+    ["2026-09-07","NLC 2026 Summer Split","Round 4","Ruddy Corporation","Arctic Pandas","WWW","","dom","S"],
+    ["2026-09-16","NLC 2026 Summer Split","Final","Ruddy Corporation","Verdant","LWWW","","dom","S"],
+    ["2026-10-07","EMEA Masters 2026 Summer Main Event","Round of 16","Ruddy Corporation","Anubis Gaming","LLWWL","","dom","S"]
+  ],
+  "unknown": [
+    ["2023-05-27","Hitpoint 2nd Division Challengers 2023 Summer Qualifiers","Round 1","Team UNiTY","FLY5","3-2","","dom","S"]
+  ]
+}

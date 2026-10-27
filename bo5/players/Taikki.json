@@ -1,1 +1,37 @@
-{"player":"Taikki","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2015-08-01","TCL 2015 Summer Playoffs","Semifinal","Beşiktaş Esports","Team Turquality","WLWLW","","dom","P"],["2015-08-08","TCL 2015 Summer Playoffs","Final","Beşiktaş Esports","Dark Passage","LLWL","","dom","P"],["2016-01-13","EU Challenger Series 2016 Spring Qualifiers","Round 1","Slow and Furious","Huma","LLL","","dom","S"],["2016-05-27","EU Challenger Series 2016 Summer Qualifiers","Qualifiers","Team Forge","SK Gaming","WWLW","","dom","S"],["2016-09-11","TCL 2017 Winter Qualifiers","Qual","Team Turquality","Victorious Ace","WLLL","","dom","P"],["2017-01-15","EU Challenger Series 2017 Spring Qualifiers","Final","Team Forge","Fnatic Academy","LLL","","dom","S"],["2017-04-08","TCL 2017 Winter Playoffs","Semifinal","Team AURORA","Crew e-Sports Club","LLWL","","dom","P"],["2017-05-28","EU Challenger Series 2017 Summer Qualifiers","Playoffs","Tricked Esport","Wind and Rain","LLL","","dom","S"],["2017-08-06","TCL 2017 Summer Playoffs","Quarterfinal","Dark Passage","Team AURORA","LWLWL","","dom","P"],["2017-08-07","TCL 2017 Summer Playoffs","5th Place","Dark Passage","P3P eSports","WWW","","dom","P"],["2018-03-18","LCL 2018 Spring Playoffs","Semifinal","Team Just","Gambit Esports","LLWL","","dom","P"],["2018-03-25","LCL 2018 Spring Playoffs","Third-Place Match","Team Just","M19","WLWLW","","dom","P"],["2018-08-26","LCL 2018 Summer Playoffs","Semifinal","Team Just","Gambit Esports","WWLLL","","dom","P"],["2019-03-30","TCL 2019 Winter Playoffs","Quarterfinal","Galatasaray Esports","Team AURORA","WWW","","dom","P"],["2019-04-07","TCL 2019 Winter Playoffs","Semifinal","Galatasaray Esports","Fenerbahçe Esports","LLL","","dom","P"],["2021-07-26","Telia Esports Series Finland 2021 Summer Playoffs","Final","Team DeftFox","NYYRIKKI","WLWLL","","dom","S"],["2022-05-19","Rising Stars Season 2","Grand Final","RA'AD","Anubis Gaming","WLWW","r","dom","S"],["2022-07-16","Intel Arabian Cup Prestige Division 2022 Season 1","Semifinal","RA'AD","Geekay Esports","WWLW","r","dom","P"],["2022-07-24","Intel Arabian Cup Prestige Division 2022 Season 1","Final","RA'AD","Anubis Gaming","WWW","r","dom","P"],["2022-09-16","Intel Arabian Cup Prestige Division 2022 Season 2","Quarterfinal","RA'AD","One More Esports","WWW","r","dom","P"],["2022-09-24","Intel Arabian Cup Prestige Division 2022 Season 2","Semifinal","RA'AD","Geekay Esports","WLWLL","r","dom","P"],["2022-09-25","Intel Arabian Cup Prestige Division 2022 Season 2","Third-Place Match","RA'AD","VSlash GnG","LLWWL","r","dom","P"],["2022-10-07","Intel Arabian Cup Prestige Division 2022 Last Chance Qualifier","Round 4","RA'AD","VSlash GnG","WWW","r","dom","P"],["2022-10-15","Intel Arabian Cup Prestige Division 2022 Grand Finals","Semifinal","RA'AD","Anubis Gaming","LLWWW","r","dom","S"]],"unknown":[["2017-11-11","LVP Clasificatorio Challenger Series Season 13","Semifinal","KIYF eSports Club","The G-Lab Penguins","2-3","","dom",""],["2022-12-23","Red Bull ProSeed 2022","Final","RA'AD","3BL Esports","3-1","","dom","S"],["2025-05-07","Finnish Pro League 2025 Spring Playoffs","Semifinal","Bastu Five","ROUNDS","3-1","","dom","S"],["2025-05-10","Finnish Pro League 2025 Spring Playoffs","Final","Bastu Five","Epic Avalanche","1-3","","dom","S"]]}
+{
+  "player": "Taikki",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2015-08-01","TCL 2015 Summer Playoffs","Semifinal","Beşiktaş Esports","Team Turquality","WLWLW","","dom","P"],
+    ["2015-08-08","TCL 2015 Summer Playoffs","Final","Beşiktaş Esports","Dark Passage","LLWL","","dom","P"],
+    ["2016-01-13","EU Challenger Series 2016 Spring Qualifiers","Round 1","Slow and Furious","Huma","LLL","","dom","S"],
+    ["2016-05-27","EU Challenger Series 2016 Summer Qualifiers","Qualifiers","Team Forge","SK Gaming","WWLW","","dom","S"],
+    ["2016-09-11","TCL 2017 Winter Qualifiers","Qual","Team Turquality","Victorious Ace","WLLL","","dom","P"],
+    ["2017-01-15","EU Challenger Series 2017 Spring Qualifiers","Final","Team Forge","Fnatic Academy","LLL","","dom","S"],
+    ["2017-04-08","TCL 2017 Winter Playoffs","Semifinal","Team AURORA","Crew e-Sports Club","LLWL","","dom","P"],
+    ["2017-05-28","EU Challenger Series 2017 Summer Qualifiers","Playoffs","Tricked Esport","Wind and Rain","LLL","","dom","S"],
+    ["2017-08-06","TCL 2017 Summer Playoffs","Quarterfinal","Dark Passage","Team AURORA","LWLWL","","dom","P"],
+    ["2017-08-07","TCL 2017 Summer Playoffs","5th Place","Dark Passage","P3P eSports","WWW","","dom","P"],
+    ["2018-03-18","LCL 2018 Spring Playoffs","Semifinal","Team Just","Gambit Esports","LLWL","","dom","P"],
+    ["2018-03-25","LCL 2018 Spring Playoffs","Third-Place Match","Team Just","M19","WLWLW","","dom","P"],
+    ["2018-08-26","LCL 2018 Summer Playoffs","Semifinal","Team Just","Gambit Esports","WWLLL","","dom","P"],
+    ["2019-03-30","TCL 2019 Winter Playoffs","Quarterfinal","Galatasaray Esports","Team AURORA","WWW","","dom","P"],
+    ["2019-04-07","TCL 2019 Winter Playoffs","Semifinal","Galatasaray Esports","Fenerbahçe Esports","LLL","","dom","P"],
+    ["2021-07-26","Telia Esports Series Finland 2021 Summer Playoffs","Final","Team DeftFox","NYYRIKKI","WLWLL","","dom","S"],
+    ["2022-05-19","Rising Stars Season 2","Grand Final","RA'AD","Anubis Gaming","WLWW","r","dom","S"],
+    ["2022-07-16","Intel Arabian Cup Prestige Division 2022 Season 1","Semifinal","RA'AD","Geekay Esports","WWLW","r","dom","P"],
+    ["2022-07-24","Intel Arabian Cup Prestige Division 2022 Season 1","Final","RA'AD","Anubis Gaming","WWW","r","dom","P"],
+    ["2022-09-16","Intel Arabian Cup Prestige Division 2022 Season 2","Quarterfinal","RA'AD","One More Esports","WWW","r","dom","P"],
+    ["2022-09-24","Intel Arabian Cup Prestige Division 2022 Season 2","Semifinal","RA'AD","Geekay Esports","WLWLL","r","dom","P"],
+    ["2022-09-25","Intel Arabian Cup Prestige Division 2022 Season 2","Third-Place Match","RA'AD","VSlash GnG","LLWWL","r","dom","P"],
+    ["2022-10-07","Intel Arabian Cup Prestige Division 2022 Last Chance Qualifier","Round 4","RA'AD","VSlash GnG","WWW","r","dom","P"],
+    ["2022-10-15","Intel Arabian Cup Prestige Division 2022 Grand Finals","Semifinal","RA'AD","Anubis Gaming","LLWWW","r","dom","S"]
+  ],
+  "unknown": [
+    ["2017-11-11","LVP Clasificatorio Challenger Series Season 13","Semifinal","KIYF eSports Club","The G-Lab Penguins","2-3","","dom",""],
+    ["2022-12-23","Red Bull ProSeed 2022","Final","RA'AD","3BL Esports","3-1","","dom","S"],
+    ["2025-05-07","Finnish Pro League 2025 Spring Playoffs","Semifinal","Bastu Five","ROUNDS","3-1","","dom","S"],
+    ["2025-05-10","Finnish Pro League 2025 Spring Playoffs","Final","Bastu Five","Epic Avalanche","1-3","","dom","S"]
+  ]
+}

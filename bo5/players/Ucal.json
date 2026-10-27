@@ -1,1 +1,30 @@
-{"player":"Ucal","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2018-04-04","LCK 2018 Spring Playoffs","Round 2","KT Rolster","SK Telecom T1","LWWW","","dom","P"],["2018-04-08","LCK 2018 Spring Playoffs","Round 3","KT Rolster","Afreeca Freecs","WLLL","","dom","P"],["2018-09-08","LCK 2018 Summer Playoffs","Final","KT Rolster","Griffin (Korean Team)","LWLWW","","dom","P"],["2018-10-20","Worlds 2018","Quarterfinal","KT Rolster","Invictus Gaming","LLWWL","","worlds","P"],["2019-09-03","LCK 2019 Regional Finals","Round 1","Afreeca Freecs","Kingzone DragonX","WLLL","","dom","P"],["2020-09-07","LCK 2020 Regional Finals","Round 1","KT Rolster","Afreeca Freecs","LLL","p","dom","P"],["2020-12-27","LoL KeSPA Cup 2020","Semifinal","KT Rolster","Nongshim RedForce","LLL","p","dom","P"],["2022-12-24","Demacia Cup 2022","Quarterfinal","ThunderTalk Gaming","JD Gaming","WWW","","dom","P"],["2022-12-26","Demacia Cup 2022","Semifinal","ThunderTalk Gaming","EDward Gaming","WLWW","","dom","P"],["2022-12-27","Demacia Cup 2022","Final","ThunderTalk Gaming","Bilibili Gaming","WLWLL","","dom","P"],["2023-03-30","LPL 2023 Spring Playoffs","Round 1","ThunderTalk Gaming","Royal Never Give Up","WLLL","","dom","P"],["2024-08-05","LPL 2024 Summer Playoffs","Play-In","ThunderTalk Gaming","Oh My God","WWW","","dom","P"],["2024-08-11","LPL 2024 Summer Playoffs","Round 1","ThunderTalk Gaming","FunPlus Phoenix","WLLWL","","dom","P"],["2025-02-09","LCK 2025 Cup","Play-In Round 3","DRX","Nongshim RedForce","LWLL","","dom","P"],["2025-09-15","LCK CL 2025 Playoffs","Round 1","DRX Challengers","Gen.G Global Academy","WWLW","","dom","S"],["2025-09-22","LCK CL 2025 Playoffs","Round 2","DRX Challengers","T1 Esports Academy","LWLL","","dom","S"],["2025-09-26","LCK CL 2025 Playoffs","Round 3","DRX Challengers","BNK FEARX Youth","LLWWL","","dom","S"],["2025-11-22","Esports Championships Asia 2025","Final","South Korea","China","WWW","p","intl","S"],["2026-01-28","LCK 2026 Cup","","DRX","BRION","WLLWW","","dom","P"],["2026-02-08","LCK 2026 Cup","Play-In Round 3","DRX","Nongshim RedForce","WWW","","dom","P"],["2026-02-13","LCK 2026 Cup","Playoffs Round 1","DRX","Dplus Kia","WLWLL","","dom","P"],["2026-02-19","LCK 2026 Cup","Playoffs Round 1","DRX","DN SOOPers","LLWL","","dom","P"]],"unknown":[]}
+{
+  "player": "Ucal",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2018-04-04","LCK 2018 Spring Playoffs","Round 2","KT Rolster","SK Telecom T1","LWWW","","dom","P"],
+    ["2018-04-08","LCK 2018 Spring Playoffs","Round 3","KT Rolster","Afreeca Freecs","WLLL","","dom","P"],
+    ["2018-09-08","LCK 2018 Summer Playoffs","Final","KT Rolster","Griffin (Korean Team)","LWLWW","","dom","P"],
+    ["2018-10-20","Worlds 2018","Quarterfinal","KT Rolster","Invictus Gaming","LLWWL","","worlds","P"],
+    ["2019-09-03","LCK 2019 Regional Finals","Round 1","Afreeca Freecs","Kingzone DragonX","WLLL","","dom","P"],
+    ["2020-09-07","LCK 2020 Regional Finals","Round 1","KT Rolster","Afreeca Freecs","LLL","p","dom","P"],
+    ["2020-12-27","LoL KeSPA Cup 2020","Semifinal","KT Rolster","Nongshim RedForce","LLL","p","dom","P"],
+    ["2022-12-24","Demacia Cup 2022","Quarterfinal","ThunderTalk Gaming","JD Gaming","WWW","","dom","P"],
+    ["2022-12-26","Demacia Cup 2022","Semifinal","ThunderTalk Gaming","EDward Gaming","WLWW","","dom","P"],
+    ["2022-12-27","Demacia Cup 2022","Final","ThunderTalk Gaming","Bilibili Gaming","WLWLL","","dom","P"],
+    ["2023-03-30","LPL 2023 Spring Playoffs","Round 1","ThunderTalk Gaming","Royal Never Give Up","WLLL","","dom","P"],
+    ["2024-08-05","LPL 2024 Summer Playoffs","Play-In","ThunderTalk Gaming","Oh My God","WWW","","dom","P"],
+    ["2024-08-11","LPL 2024 Summer Playoffs","Round 1","ThunderTalk Gaming","FunPlus Phoenix","WLLWL","","dom","P"],
+    ["2025-02-09","LCK 2025 Cup","Play-In Round 3","DRX","Nongshim RedForce","LWLL","","dom","P"],
+    ["2025-09-15","LCK CL 2025 Playoffs","Round 1","DRX Challengers","Gen.G Global Academy","WWLW","","dom","S"],
+    ["2025-09-22","LCK CL 2025 Playoffs","Round 2","DRX Challengers","T1 Esports Academy","LWLL","","dom","S"],
+    ["2025-09-26","LCK CL 2025 Playoffs","Round 3","DRX Challengers","BNK FEARX Youth","LLWWL","","dom","S"],
+    ["2025-11-22","Esports Championships Asia 2025","Final","South Korea","China","WWW","p","intl","S"],
+    ["2026-01-28","LCK 2026 Cup","","DRX","BRION","WLLWW","","dom","P"],
+    ["2026-02-08","LCK 2026 Cup","Play-In Round 3","DRX","Nongshim RedForce","WWW","","dom","P"],
+    ["2026-02-13","LCK 2026 Cup","Playoffs Round 1","DRX","Dplus Kia","WLWLL","","dom","P"],
+    ["2026-02-19","LCK 2026 Cup","Playoffs Round 1","DRX","DN SOOPers","LLWL","","dom","P"]
+  ],
+  "unknown": []
+}

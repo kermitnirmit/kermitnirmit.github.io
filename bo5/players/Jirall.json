@@ -1,1 +1,28 @@
-{"player":"Jirall","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2015-03-27","Latin America Cup 2015 LAN Opening Cup Playoffs","Semifinal","Dash9 Gaming","Gaming Gaming","WWW","","dom","P"],["2015-04-01","Latin America Cup 2015 LAN Opening Cup Playoffs","Final","Dash9 Gaming","Lyon Gaming (2013 Latin American Team)","LLL","","dom","P"],["2015-07-07","Latin America Cup 2015 LAN Closing Cup Playoffs","Semifinal","Dash9 Gaming","Lyon Gaming (2013 Latin American Team)","LWLL","","dom","P"],["2016-03-28","Latin America Cup LAN 2016 Season Opening Cup Playoffs","Semifinal","Lyon Gaming (2013 Latin American Team)","Revenge eSports","LWWW","","dom","P"],["2016-04-08","Latin America Cup LAN 2016 Season Opening Cup Playoffs","Final","Lyon Gaming (2013 Latin American Team)","Havoks Gaming","WWW","","dom","P"],["2016-08-01","Latin America Cup LAN 2016 Season Closing Cup Playoffs","Semifinal","Lyon Gaming (2013 Latin American Team)","ZAGA Talent Gaming","WWW","","dom","P"],["2016-08-20","Latin America Cup LAN 2016 Season Closing Cup Playoffs","Final","Lyon Gaming (2013 Latin American Team)","Just Toys Havoks","WWW","","dom","P"],["2016-09-04","International Wildcard Qualifier 2016","Final","Lyon Gaming (2013 Latin American Team)","Albus NoX Luna","WLWLL","","dom","P"],["2017-04-03","LLN 2017 Opening Playoffs","Semifinal","Lyon Gaming (2013 Latin American Team)","Predators Esports","WWW","","dom","P"],["2017-04-15","LLN 2017 Opening Playoffs","Final","Lyon Gaming (2013 Latin American Team)","Just Toys Havoks","WWW","","dom","P"],["2017-08-15","LLN 2017 Closing Playoffs","Semifinal","Lyon Gaming (2013 Latin American Team)","Just Toys Havoks","WWLW","","dom","P"],["2017-08-26","LLN 2017 Closing Playoffs","Final","Lyon Gaming (2013 Latin American Team)","INFINITY","WWW","","dom","P"],["2017-09-28","Worlds 2017","Round 2","Lyon Gaming (2013 Latin American Team)","Cloud9","LLL","","worlds","P"],["2018-04-06","LLN 2018 Opening Playoffs","Semifinal","Rainbow7","Gaming Gaming","WWW","","dom","P"],["2018-04-21","LLN 2018 Opening Playoffs","Final","Rainbow7","INFINITY","LWWW","","dom","P"],["2018-09-01","LLN 2018 Closing Playoffs","Semifinal","Rainbow7","Dash9 Gaming","LWLL","","dom","P"],["2020-04-25","LLA 2020 Opening Playoffs","Round 1","Isurus","INFINITY","LWWW","","dom","P"],["2020-04-26","LLA 2020 Opening Playoffs","Round 2","Isurus","Rainbow7","LWWW","","dom","P"],["2020-05-02","LLA 2020 Opening Playoffs","Final","Isurus","All Knights","WLLWL","","dom","P"],["2020-08-22","LLA 2020 Closing Playoffs","Round 2","Isurus","Rainbow7","LLWL","","dom","P"]],"unknown":[]}
+{
+  "player": "Jirall",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2015-03-27","Latin America Cup 2015 LAN Opening Cup Playoffs","Semifinal","Dash9 Gaming","Gaming Gaming","WWW","","dom","P"],
+    ["2015-04-01","Latin America Cup 2015 LAN Opening Cup Playoffs","Final","Dash9 Gaming","Lyon Gaming (2013 Latin American Team)","LLL","","dom","P"],
+    ["2015-07-07","Latin America Cup 2015 LAN Closing Cup Playoffs","Semifinal","Dash9 Gaming","Lyon Gaming (2013 Latin American Team)","LWLL","","dom","P"],
+    ["2016-03-28","Latin America Cup LAN 2016 Season Opening Cup Playoffs","Semifinal","Lyon Gaming (2013 Latin American Team)","Revenge eSports","LWWW","","dom","P"],
+    ["2016-04-08","Latin America Cup LAN 2016 Season Opening Cup Playoffs","Final","Lyon Gaming (2013 Latin American Team)","Havoks Gaming","WWW","","dom","P"],
+    ["2016-08-01","Latin America Cup LAN 2016 Season Closing Cup Playoffs","Semifinal","Lyon Gaming (2013 Latin American Team)","ZAGA Talent Gaming","WWW","","dom","P"],
+    ["2016-08-20","Latin America Cup LAN 2016 Season Closing Cup Playoffs","Final","Lyon Gaming (2013 Latin American Team)","Just Toys Havoks","WWW","","dom","P"],
+    ["2016-09-04","International Wildcard Qualifier 2016","Final","Lyon Gaming (2013 Latin American Team)","Albus NoX Luna","WLWLL","","dom","P"],
+    ["2017-04-03","LLN 2017 Opening Playoffs","Semifinal","Lyon Gaming (2013 Latin American Team)","Predators Esports","WWW","","dom","P"],
+    ["2017-04-15","LLN 2017 Opening Playoffs","Final","Lyon Gaming (2013 Latin American Team)","Just Toys Havoks","WWW","","dom","P"],
+    ["2017-08-15","LLN 2017 Closing Playoffs","Semifinal","Lyon Gaming (2013 Latin American Team)","Just Toys Havoks","WWLW","","dom","P"],
+    ["2017-08-26","LLN 2017 Closing Playoffs","Final","Lyon Gaming (2013 Latin American Team)","INFINITY","WWW","","dom","P"],
+    ["2017-09-28","Worlds 2017","Round 2","Lyon Gaming (2013 Latin American Team)","Cloud9","LLL","","worlds","P"],
+    ["2018-04-06","LLN 2018 Opening Playoffs","Semifinal","Rainbow7","Gaming Gaming","WWW","","dom","P"],
+    ["2018-04-21","LLN 2018 Opening Playoffs","Final","Rainbow7","INFINITY","LWWW","","dom","P"],
+    ["2018-09-01","LLN 2018 Closing Playoffs","Semifinal","Rainbow7","Dash9 Gaming","LWLL","","dom","P"],
+    ["2020-04-25","LLA 2020 Opening Playoffs","Round 1","Isurus","INFINITY","LWWW","","dom","P"],
+    ["2020-04-26","LLA 2020 Opening Playoffs","Round 2","Isurus","Rainbow7","LWWW","","dom","P"],
+    ["2020-05-02","LLA 2020 Opening Playoffs","Final","Isurus","All Knights","WLLWL","","dom","P"],
+    ["2020-08-22","LLA 2020 Closing Playoffs","Round 2","Isurus","Rainbow7","LLWL","","dom","P"]
+  ],
+  "unknown": []
+}

@@ -1,1 +1,29 @@
-{"player":"SuperCleber","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2022-04-05","CBLOL Academy 2022 Split 1 Playoffs","Quarterfinal","Flamengo Academy","FURIA Academy","WLWW","","dom","S"],["2022-04-12","CBLOL Academy 2022 Split 1 Playoffs","Semifinal","Flamengo Academy","LOUD Academy","WWLW","","dom","S"],["2022-04-16","CBLOL Academy 2022 Split 1 Playoffs","Final","Flamengo Academy","paiN Gaming Academy","WLWLW","","dom","S"],["2022-08-16","CBLOL Academy 2022 Split 2 Playoffs","Quarterfinal","Flamengo Los Grandes Academy","Miners Academy","WWW","","dom","S"],["2022-08-23","CBLOL Academy 2022 Split 2 Playoffs","Semifinal","Flamengo Los Grandes Academy","RED Academy","LLL","","dom","S"],["2023-03-29","CBLOL Academy 2023 Split 1 Playoffs","Round 1","KaBuM! Academy","Los Grandes Academy","WLWLL","","dom","S"],["2023-04-10","CBLOL Academy 2023 Split 1 Playoffs","Round 3","KaBuM! Academy","INTZ Academy","LLL","","dom","S"],["2023-08-15","CBLOL Academy 2023 Split 2 Playoffs","Round 1","KaBuM! Academy","RED Academy","LWWW","","dom","S"],["2023-08-22","CBLOL Academy 2023 Split 2 Playoffs","Semifinal","KaBuM! Academy","Liberty Academy","LLWWL","","dom","S"],["2023-08-29","CBLOL Academy 2023 Split 2 Playoffs","Semifinal","KaBuM! Academy","paiN Gaming Academy","WWW","","dom","S"],["2023-09-02","CBLOL Academy 2023 Split 2 Playoffs","Final","KaBuM! Academy","Liberty Academy","WLLWW","","dom","S"],["2024-03-23","CBLOL 2024 Split 1 Playoffs","Round 1","LØS","RED Canids","LLL","","dom","P"],["2024-04-06","CBLOL 2024 Split 1 Playoffs","Round 2","LØS","Vivo Keyd Stars","WWLLL","","dom","P"],["2025-06-03","Circuito Desafiante 2025 Split 1 Playoffs","Round 3","LØS","Stellae Gaming","LLWL","","dom","S"],["2025-09-02","Circuito Desafiante 2025 Split 2 Playoffs","Round 2","LØS","KaBuM! Ilha das Lendas","LWLL","","dom","S"],["2026-03-01","Circuito Desafiante 2026 Split 1 Qualifier","Final","Estral Esports","Nerd's Gangster's Carecas","WWW","","dom","S"],["2026-05-11","Circuito Desafiante 2026 Split 1 Playoffs","Round 1","Estral Esports","Ei Nerd Esports","WWW","","dom","S"],["2026-05-18","Circuito Desafiante 2026 Split 1 Playoffs","Round 2","Estral Esports","RED Academy","WWW","","dom","S"],["2026-05-26","Circuito Desafiante 2026 Split 1 Playoffs","Round 3","Estral Esports","paiN Gaming Academy","LLL","","dom","S"],["2026-09-02","Circuito Desafiante 2026 Split 2 Playoffs","Round 4","Vivo Keyd Stars Academy","Estral Esports","LLL","","dom","S"],["2026-09-08","Circuito Desafiante 2026 Split 2 Playoffs","Round 4","Vivo Keyd Stars Academy","KaBuM! Ilha das Lendas","LWLL","","dom","S"]],"unknown":[]}
+{
+  "player": "SuperCleber",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2022-04-05","CBLOL Academy 2022 Split 1 Playoffs","Quarterfinal","Flamengo Academy","FURIA Academy","WLWW","","dom","S"],
+    ["2022-04-12","CBLOL Academy 2022 Split 1 Playoffs","Semifinal","Flamengo Academy","LOUD Academy","WWLW","","dom","S"],
+    ["2022-04-16","CBLOL Academy 2022 Split 1 Playoffs","Final","Flamengo Academy","paiN Gaming Academy","WLWLW","","dom","S"],
+    ["2022-08-16","CBLOL Academy 2022 Split 2 Playoffs","Quarterfinal","Flamengo Los Grandes Academy","Miners Academy","WWW","","dom","S"],
+    ["2022-08-23","CBLOL Academy 2022 Split 2 Playoffs","Semifinal","Flamengo Los Grandes Academy","RED Academy","LLL","","dom","S"],
+    ["2023-03-29","CBLOL Academy 2023 Split 1 Playoffs","Round 1","KaBuM! Academy","Los Grandes Academy","WLWLL","","dom","S"],
+    ["2023-04-10","CBLOL Academy 2023 Split 1 Playoffs","Round 3","KaBuM! Academy","INTZ Academy","LLL","","dom","S"],
+    ["2023-08-15","CBLOL Academy 2023 Split 2 Playoffs","Round 1","KaBuM! Academy","RED Academy","LWWW","","dom","S"],
+    ["2023-08-22","CBLOL Academy 2023 Split 2 Playoffs","Semifinal","KaBuM! Academy","Liberty Academy","LLWWL","","dom","S"],
+    ["2023-08-29","CBLOL Academy 2023 Split 2 Playoffs","Semifinal","KaBuM! Academy","paiN Gaming Academy","WWW","","dom","S"],
+    ["2023-09-02","CBLOL Academy 2023 Split 2 Playoffs","Final","KaBuM! Academy","Liberty Academy","WLLWW","","dom","S"],
+    ["2024-03-23","CBLOL 2024 Split 1 Playoffs","Round 1","LØS","RED Canids","LLL","","dom","P"],
+    ["2024-04-06","CBLOL 2024 Split 1 Playoffs","Round 2","LØS","Vivo Keyd Stars","WWLLL","","dom","P"],
+    ["2025-06-03","Circuito Desafiante 2025 Split 1 Playoffs","Round 3","LØS","Stellae Gaming","LLWL","","dom","S"],
+    ["2025-09-02","Circuito Desafiante 2025 Split 2 Playoffs","Round 2","LØS","KaBuM! Ilha das Lendas","LWLL","","dom","S"],
+    ["2026-03-01","Circuito Desafiante 2026 Split 1 Qualifier","Final","Estral Esports","Nerd's Gangster's Carecas","WWW","","dom","S"],
+    ["2026-05-11","Circuito Desafiante 2026 Split 1 Playoffs","Round 1","Estral Esports","Ei Nerd Esports","WWW","","dom","S"],
+    ["2026-05-18","Circuito Desafiante 2026 Split 1 Playoffs","Round 2","Estral Esports","RED Academy","WWW","","dom","S"],
+    ["2026-05-26","Circuito Desafiante 2026 Split 1 Playoffs","Round 3","Estral Esports","paiN Gaming Academy","LLL","","dom","S"],
+    ["2026-09-02","Circuito Desafiante 2026 Split 2 Playoffs","Round 4","Vivo Keyd Stars Academy","Estral Esports","LLL","","dom","S"],
+    ["2026-09-08","Circuito Desafiante 2026 Split 2 Playoffs","Round 4","Vivo Keyd Stars Academy","KaBuM! Ilha das Lendas","LWLL","","dom","S"]
+  ],
+  "unknown": []
+}

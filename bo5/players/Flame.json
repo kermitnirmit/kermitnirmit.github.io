@@ -1,1 +1,33 @@
-{"player":"Flame","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2012-12-27","Champions 2013 Winter","Quarterfinal","Azubu Blaze","Incredible Miracle","LLWWW","","dom","P"],["2013-01-08","Champions 2013 Winter","Semifinal","Azubu Blaze","Azubu Frost","WLLWL","","dom","P"],["2013-01-10","Champions 2013 Winter","Semifinal","Azubu Blaze","Azubu Frost","WLWLL","","dom","P"],["2013-01-24","Champions 2013 Winter","Third-Place Match","Azubu Blaze","KT Rolster B","LLL","","dom","P"],["2013-03-09","IEM Season VII - World Championship","Final","CJ Entus Blaze","CJ Entus Frost","LWWW","","intl","P"],["2013-05-15","Champions 2013 Spring","Quarterfinal","CJ Entus Blaze","SK Telecom T1 1","WWW","","dom","P"],["2013-05-31","Champions 2013 Spring","Semifinal","CJ Entus Blaze","CJ Entus Frost","WWW","","dom","P"],["2013-06-15","Champions 2013 Spring","Final","CJ Entus Blaze","MVP Ozone","LLL","","dom","P"],["2013-08-07","Champions 2013 Summer","Quarterfinal","CJ Entus Blaze","KT Rolster Bullets","LWWLL","","dom","P"],["2013-09-05","Season 3 Korea Regional Finals","Round 1","CJ Entus Blaze","KT Rolster Bullets","LLL","","dom","P"],["2013-12-27","Champions 2014 Winter","Quarterfinal","CJ Entus Blaze","KT Rolster Bullets","WLLL","","dom","P"],["2014-01-07","NLB 2014 Winter","Semifinal","CJ Entus Blaze","Samsung Blue","WWW","r","dom","S"],["2014-04-23","Champions 2014 Spring","Quarterfinal","CJ Entus Blaze","KT Rolster Arrows","WLWW","","dom","P"],["2014-05-02","Champions 2014 Spring","Semifinal","CJ Entus Blaze","NaJin White Shield","LLWWL","","dom","P"],["2014-05-16","Champions 2014 Spring","Third-Place Match","CJ Entus Blaze","Samsung Ozone","WLLWL","","dom","P"],["2015-04-17","LPL 2015 Spring Playoffs","Quarterfinal","LGD Gaming","Oh My God","WWW","p","dom","P"],["2015-04-19","LPL 2015 Spring Playoffs","Semifinal","LGD Gaming","Snake Esports","WWW","p","dom","P"],["2015-06-29","2015 Demacia Cup Summer Season","Round of 16","LGD Gaming","Qiao Gu Reapers","WLWW","p","dom","P"],["2015-07-10","2015 Demacia Cup Summer Season","Quarterfinal","LGD Gaming","Oh My God","LLL","p","dom","P"],["2015-08-13","LPL 2015 Summer Playoffs","Seeding Match","LGD Gaming","Vici Gaming","WLWW","p","dom","P"],["2017-08-26","NA LCS 2017 Summer Playoffs","Semifinal","Immortals","Counter Logic Gaming","WWW","","dom","P"],["2017-09-03","NA LCS 2017 Summer Playoffs","Final","Immortals","TSM","LWLL","","dom","P"],["2018-08-26","NA LCS 2018 Summer Playoffs","Quarterfinal","FlyQuest","100 Thieves","LLL","","dom","P"]],"unknown":[["2014-01-18","NLB 2014 Winter","Final","CJ Entus Blaze","NaJin Black Sword","3-1","","dom","S"]]}
+{
+  "player": "Flame",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2012-12-27","Champions 2013 Winter","Quarterfinal","Azubu Blaze","Incredible Miracle","LLWWW","","dom","P"],
+    ["2013-01-08","Champions 2013 Winter","Semifinal","Azubu Blaze","Azubu Frost","WLLWL","","dom","P"],
+    ["2013-01-10","Champions 2013 Winter","Semifinal","Azubu Blaze","Azubu Frost","WLWLL","","dom","P"],
+    ["2013-01-24","Champions 2013 Winter","Third-Place Match","Azubu Blaze","KT Rolster B","LLL","","dom","P"],
+    ["2013-03-09","IEM Season VII - World Championship","Final","CJ Entus Blaze","CJ Entus Frost","LWWW","","intl","P"],
+    ["2013-05-15","Champions 2013 Spring","Quarterfinal","CJ Entus Blaze","SK Telecom T1 1","WWW","","dom","P"],
+    ["2013-05-31","Champions 2013 Spring","Semifinal","CJ Entus Blaze","CJ Entus Frost","WWW","","dom","P"],
+    ["2013-06-15","Champions 2013 Spring","Final","CJ Entus Blaze","MVP Ozone","LLL","","dom","P"],
+    ["2013-08-07","Champions 2013 Summer","Quarterfinal","CJ Entus Blaze","KT Rolster Bullets","LWWLL","","dom","P"],
+    ["2013-09-05","Season 3 Korea Regional Finals","Round 1","CJ Entus Blaze","KT Rolster Bullets","LLL","","dom","P"],
+    ["2013-12-27","Champions 2014 Winter","Quarterfinal","CJ Entus Blaze","KT Rolster Bullets","WLLL","","dom","P"],
+    ["2014-01-07","NLB 2014 Winter","Semifinal","CJ Entus Blaze","Samsung Blue","WWW","r","dom","S"],
+    ["2014-04-23","Champions 2014 Spring","Quarterfinal","CJ Entus Blaze","KT Rolster Arrows","WLWW","","dom","P"],
+    ["2014-05-02","Champions 2014 Spring","Semifinal","CJ Entus Blaze","NaJin White Shield","LLWWL","","dom","P"],
+    ["2014-05-16","Champions 2014 Spring","Third-Place Match","CJ Entus Blaze","Samsung Ozone","WLLWL","","dom","P"],
+    ["2015-04-17","LPL 2015 Spring Playoffs","Quarterfinal","LGD Gaming","Oh My God","WWW","p","dom","P"],
+    ["2015-04-19","LPL 2015 Spring Playoffs","Semifinal","LGD Gaming","Snake Esports","WWW","p","dom","P"],
+    ["2015-06-29","2015 Demacia Cup Summer Season","Round of 16","LGD Gaming","Qiao Gu Reapers","WLWW","p","dom","P"],
+    ["2015-07-10","2015 Demacia Cup Summer Season","Quarterfinal","LGD Gaming","Oh My God","LLL","p","dom","P"],
+    ["2015-08-13","LPL 2015 Summer Playoffs","Seeding Match","LGD Gaming","Vici Gaming","WLWW","p","dom","P"],
+    ["2017-08-26","NA LCS 2017 Summer Playoffs","Semifinal","Immortals","Counter Logic Gaming","WWW","","dom","P"],
+    ["2017-09-03","NA LCS 2017 Summer Playoffs","Final","Immortals","TSM","LWLL","","dom","P"],
+    ["2018-08-26","NA LCS 2018 Summer Playoffs","Quarterfinal","FlyQuest","100 Thieves","LLL","","dom","P"]
+  ],
+  "unknown": [
+    ["2014-01-18","NLB 2014 Winter","Final","CJ Entus Blaze","NaJin Black Sword","3-1","","dom","S"]
+  ]
+}

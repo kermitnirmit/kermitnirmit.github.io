@@ -1,1 +1,32 @@
-{"player":"Zamudo","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2024-08-30","North American Challengers League 2024 Summer Playoffs","Semifinal","Dragonsteel","Fear x Starforge","WLWW","","dom","S"],["2024-09-08","North American Challengers League 2024 Summer Playoffs","Final","Dragonsteel","Fear x Starforge","WWW","","dom","S"],["2025-03-01","College League of Legends 2025 North Conference/Playoffs","Round 1","Maryville University","Western Kentucky University","WWW","r","dom",""],["2025-03-15","College League of Legends 2025 North Conference/Playoffs","Round 2","Maryville University","University of Minnesota Twin Cities","WWW","r","dom",""],["2025-03-29","College League of Legends 2025 North Conference/Playoffs","Round 4","Maryville University","Illinois State University","WWW","r","dom",""],["2025-04-19","College League of Legends 2025 Championship","Round 1","Maryville University","University of Toronto Mississauga","WWLW","r","dom","S"],["2025-04-26","College League of Legends 2025 Championship","Round 2","Maryville University","Northwood University","WWW","r","dom","S"],["2025-05-03","College League of Legends 2025 Championship","Round 4","Maryville University","Fisher College","WWW","r","dom","S"],["2025-05-10","College League of Legends 2025 Championship","Round 6","Maryville University","University of Mississippi","LWLWW","r","dom","S"],["2025-05-29","North American Challengers League 2025 Split 1 Playoffs","Round 4","DarkZero Dragonsteel","Luminosity Gaming","WLLL","","dom","S"],["2025-05-31","College League of Legends 2025 Championship","Grand Finals","Maryville University","University of Mississippi","WWW","r","dom","S"],["2025-06-05","North American Challengers League 2025 Split 1 Playoffs","Round 4","DarkZero Dragonsteel","Conviction","LWLWW","","dom","S"],["2025-06-06","North American Challengers League 2025 Split 1 Playoffs","Final","DarkZero Dragonsteel","Luminosity Gaming","LLL","","dom","S"],["2025-08-24","LTA South 2025 Split 3","Round 1","Isurus","Leviatan","WLWLL","","dom","P"],["2025-10-02","LTA South 2026 Promotion","Round 1","Isurus","Flamengo MDL","WWLLW","","dom","P"],["2025-10-03","LTA South 2026 Promotion","Round 2","Isurus","Alpha7 Esports","WWW","","dom","P"],["2025-10-08","LTA South 2026 Promotion","Final","Isurus","Alpha7 Esports","WWW","","dom","P"],["2026-05-28","North American Challengers League 2026 Spring Playoffs","Round 3","NRG","Winthrop University","WLWLL","","dom","S"],["2026-09-07","North American Challengers League 2026 Summer Playoffs","Round 2","NRG","Conviction","WWLLW","","dom","S"],["2026-09-09","North American Challengers League 2026 Summer Playoffs","Round 3","NRG","Maryville University","WLLL","","dom","S"]],"unknown":[["2024-12-14","Aegis Champion League 2024 Fall Playoffs","Round 5","CCG Glorp","University of Mississippi","3-2","","dom","S"],["2024-12-21","Aegis Champion League 2024 Fall Playoffs","Grand Finals","CCG Glorp","CCG Esports","1-3","","dom","S"],["2025-04-12","College League of Legends 2025 North Conference/Playoffs","Grand Finals","Maryville University","Illinois State University","3-1","","dom",""]]}
+{
+  "player": "Zamudo",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2024-08-30","North American Challengers League 2024 Summer Playoffs","Semifinal","Dragonsteel","Fear x Starforge","WLWW","","dom","S"],
+    ["2024-09-08","North American Challengers League 2024 Summer Playoffs","Final","Dragonsteel","Fear x Starforge","WWW","","dom","S"],
+    ["2025-03-01","College League of Legends 2025 North Conference/Playoffs","Round 1","Maryville University","Western Kentucky University","WWW","r","dom",""],
+    ["2025-03-15","College League of Legends 2025 North Conference/Playoffs","Round 2","Maryville University","University of Minnesota Twin Cities","WWW","r","dom",""],
+    ["2025-03-29","College League of Legends 2025 North Conference/Playoffs","Round 4","Maryville University","Illinois State University","WWW","r","dom",""],
+    ["2025-04-19","College League of Legends 2025 Championship","Round 1","Maryville University","University of Toronto Mississauga","WWLW","r","dom","S"],
+    ["2025-04-26","College League of Legends 2025 Championship","Round 2","Maryville University","Northwood University","WWW","r","dom","S"],
+    ["2025-05-03","College League of Legends 2025 Championship","Round 4","Maryville University","Fisher College","WWW","r","dom","S"],
+    ["2025-05-10","College League of Legends 2025 Championship","Round 6","Maryville University","University of Mississippi","LWLWW","r","dom","S"],
+    ["2025-05-29","North American Challengers League 2025 Split 1 Playoffs","Round 4","DarkZero Dragonsteel","Luminosity Gaming","WLLL","","dom","S"],
+    ["2025-05-31","College League of Legends 2025 Championship","Grand Finals","Maryville University","University of Mississippi","WWW","r","dom","S"],
+    ["2025-06-05","North American Challengers League 2025 Split 1 Playoffs","Round 4","DarkZero Dragonsteel","Conviction","LWLWW","","dom","S"],
+    ["2025-06-06","North American Challengers League 2025 Split 1 Playoffs","Final","DarkZero Dragonsteel","Luminosity Gaming","LLL","","dom","S"],
+    ["2025-08-24","LTA South 2025 Split 3","Round 1","Isurus","Leviatan","WLWLL","","dom","P"],
+    ["2025-10-02","LTA South 2026 Promotion","Round 1","Isurus","Flamengo MDL","WWLLW","","dom","P"],
+    ["2025-10-03","LTA South 2026 Promotion","Round 2","Isurus","Alpha7 Esports","WWW","","dom","P"],
+    ["2025-10-08","LTA South 2026 Promotion","Final","Isurus","Alpha7 Esports","WWW","","dom","P"],
+    ["2026-05-28","North American Challengers League 2026 Spring Playoffs","Round 3","NRG","Winthrop University","WLWLL","","dom","S"],
+    ["2026-09-07","North American Challengers League 2026 Summer Playoffs","Round 2","NRG","Conviction","WWLLW","","dom","S"],
+    ["2026-09-09","North American Challengers League 2026 Summer Playoffs","Round 3","NRG","Maryville University","WLLL","","dom","S"]
+  ],
+  "unknown": [
+    ["2024-12-14","Aegis Champion League 2024 Fall Playoffs","Round 5","CCG Glorp","University of Mississippi","3-2","","dom","S"],
+    ["2024-12-21","Aegis Champion League 2024 Fall Playoffs","Grand Finals","CCG Glorp","CCG Esports","1-3","","dom","S"],
+    ["2025-04-12","College League of Legends 2025 North Conference/Playoffs","Grand Finals","Maryville University","Illinois State University","3-1","","dom",""]
+  ]
+}

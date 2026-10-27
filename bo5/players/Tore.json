@@ -1,1 +1,34 @@
-{"player":"Tore","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2020-01-12","Neosurf Cup 2020","5v5","Excel Esports","Misfits Gaming","WLLWW","p","dom","S"],["2021-08-03","LVP SuperLiga 2021 Summer Playoffs","Quarterfinal","MAD Lions Madrid","UCAM Esports Club","LLL","","dom","S"],["2021-11-03","Iberian Cup 2021","Quarterfinal","MAD Lions Madrid","Macko Esports","WLWW","","dom","S"],["2021-11-14","Iberian Cup 2021","Final","MAD Lions Madrid","Vodafone Giants.Spain","LLL","","dom","S"],["2022-09-13","LVP SuperLiga 2023 Promotion","Round 1","MAD Lions Madrid","Guasones","LWLL","","dom","S"],["2022-09-19","LVP SuperLiga 2023 Promotion","Round 1","MAD Lions Madrid","Case Esports","LLL","","dom","S"],["2023-03-16","Prime League 1st Division 2023 Spring Playoffs","Round 1","MOUZ","FC Schalke 04 Esports","LWLWW","","dom","S"],["2023-03-22","Prime League 1st Division 2023 Spring Playoffs","Round 2","MOUZ","Berlin International Gaming","WLLL","","dom","S"],["2023-07-26","Prime League 1st Division 2023 Summer Playoffs","Round 1","MOUZ","Unicorns of Love Sexy Edition","LLL","","dom","S"],["2023-10-25","Prime Pokal 2023 Main Event","Semifinal","MOUZ","Unicorns of Love Sexy Edition","LLL","","dom","S"],["2024-10-22","Prime Pokal 2024 Main Event","Semifinal","Eintracht Frankfurt","Unicorns of Love Sexy Edition","WLLL","","dom","S"],["2025-05-30","Good Game-ligaen 2025 Spring Playoffs","Round 1","Bitfix Gaming","Ascent Gaming","WWW","r","dom","S"],["2025-05-31","Good Game-ligaen 2025 Spring Playoffs","Round 2","Bitfix Gaming","KAOS VoksenSFO","WWW","r","dom","S"],["2025-06-01","Good Game-ligaen 2025 Spring Playoffs","Round 3","Bitfix Gaming","Lazy In Life","WWW","r","dom","S"],["2025-08-15","NLC 2025 Summer Playoffs","Round 3","Verdant","DMG Esports","WWW","","dom","S"],["2025-08-20","NLC 2025 Summer Playoffs","Round 4","Verdant","NORD Esports","LWWW","","dom","S"],["2025-08-22","NLC 2025 Summer Playoffs","Round 5","Verdant","Rich Gang (Norwegian Team)","WWW","","dom","S"],["2025-08-30","NLC 2025 Summer Playoffs","Final","Verdant","Los Ratones","LLL","","dom","S"],["2025-10-11","EMEA Masters 2025 Summer Main Event","Round of 16","Verdant","Karmine Corp Blue","LWLL","","dom","S"],["2026-06-06","Komplettligaen 2026 Spring Playoffs","Round 2","Bitfix RG","Playwell Rød Q","WWW","r","dom","S"],["2026-06-07","Komplettligaen 2026 Spring Playoffs","Round 3","Bitfix RG","Your Saviours","WWW","r","dom","S"],["2026-06-13","Komplettligaen 2026 Spring Playoffs","Final","Bitfix RG","VES Japan","LLWL","","dom","S"]],"unknown":[["2021-11-09","Iberian Cup 2021","Semifinal","MAD Lions Madrid","Movistar Riders","3-2","LWLW","dom","S"],["2025-06-07","Good Game-ligaen 2025 Spring Playoffs","Final","Bitfix Gaming","CNG Royal","3-2","","dom","S"],["2026-06-03","Komplettligaen 2026 Spring Playoffs","Round 1","Bitfix RG","DMG Esports Norway","3-2","","dom","S"]]}
+{
+  "player": "Tore",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2020-01-12","Neosurf Cup 2020","5v5","Excel Esports","Misfits Gaming","WLLWW","p","dom","S"],
+    ["2021-08-03","LVP SuperLiga 2021 Summer Playoffs","Quarterfinal","MAD Lions Madrid","UCAM Esports Club","LLL","","dom","S"],
+    ["2021-11-03","Iberian Cup 2021","Quarterfinal","MAD Lions Madrid","Macko Esports","WLWW","","dom","S"],
+    ["2021-11-14","Iberian Cup 2021","Final","MAD Lions Madrid","Vodafone Giants.Spain","LLL","","dom","S"],
+    ["2022-09-13","LVP SuperLiga 2023 Promotion","Round 1","MAD Lions Madrid","Guasones","LWLL","","dom","S"],
+    ["2022-09-19","LVP SuperLiga 2023 Promotion","Round 1","MAD Lions Madrid","Case Esports","LLL","","dom","S"],
+    ["2023-03-16","Prime League 1st Division 2023 Spring Playoffs","Round 1","MOUZ","FC Schalke 04 Esports","LWLWW","","dom","S"],
+    ["2023-03-22","Prime League 1st Division 2023 Spring Playoffs","Round 2","MOUZ","Berlin International Gaming","WLLL","","dom","S"],
+    ["2023-07-26","Prime League 1st Division 2023 Summer Playoffs","Round 1","MOUZ","Unicorns of Love Sexy Edition","LLL","","dom","S"],
+    ["2023-10-25","Prime Pokal 2023 Main Event","Semifinal","MOUZ","Unicorns of Love Sexy Edition","LLL","","dom","S"],
+    ["2024-10-22","Prime Pokal 2024 Main Event","Semifinal","Eintracht Frankfurt","Unicorns of Love Sexy Edition","WLLL","","dom","S"],
+    ["2025-05-30","Good Game-ligaen 2025 Spring Playoffs","Round 1","Bitfix Gaming","Ascent Gaming","WWW","r","dom","S"],
+    ["2025-05-31","Good Game-ligaen 2025 Spring Playoffs","Round 2","Bitfix Gaming","KAOS VoksenSFO","WWW","r","dom","S"],
+    ["2025-06-01","Good Game-ligaen 2025 Spring Playoffs","Round 3","Bitfix Gaming","Lazy In Life","WWW","r","dom","S"],
+    ["2025-08-15","NLC 2025 Summer Playoffs","Round 3","Verdant","DMG Esports","WWW","","dom","S"],
+    ["2025-08-20","NLC 2025 Summer Playoffs","Round 4","Verdant","NORD Esports","LWWW","","dom","S"],
+    ["2025-08-22","NLC 2025 Summer Playoffs","Round 5","Verdant","Rich Gang (Norwegian Team)","WWW","","dom","S"],
+    ["2025-08-30","NLC 2025 Summer Playoffs","Final","Verdant","Los Ratones","LLL","","dom","S"],
+    ["2025-10-11","EMEA Masters 2025 Summer Main Event","Round of 16","Verdant","Karmine Corp Blue","LWLL","","dom","S"],
+    ["2026-06-06","Komplettligaen 2026 Spring Playoffs","Round 2","Bitfix RG","Playwell Rød Q","WWW","r","dom","S"],
+    ["2026-06-07","Komplettligaen 2026 Spring Playoffs","Round 3","Bitfix RG","Your Saviours","WWW","r","dom","S"],
+    ["2026-06-13","Komplettligaen 2026 Spring Playoffs","Final","Bitfix RG","VES Japan","LLWL","","dom","S"]
+  ],
+  "unknown": [
+    ["2021-11-09","Iberian Cup 2021","Semifinal","MAD Lions Madrid","Movistar Riders","3-2","LWLW","dom","S"],
+    ["2025-06-07","Good Game-ligaen 2025 Spring Playoffs","Final","Bitfix Gaming","CNG Royal","3-2","","dom","S"],
+    ["2026-06-03","Komplettligaen 2026 Spring Playoffs","Round 1","Bitfix RG","DMG Esports Norway","3-2","","dom","S"]
+  ]
+}

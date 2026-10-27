@@ -1,1 +1,37 @@
-{"player":"Yampi","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2016-04-04","Brazilian Challenger Circuit 2016 Split 2 Promotion","Qualifiers","CNB Infinity","Keyd Warriors","WLWW","","dom","S"],["2016-08-07","Brazilian Challenger Circuit 2017 Split 1 Promotion","Scoreboards","CNB Infinity","YGG E-Sports","LLWL","","dom","S"],["2016-09-24","Copa Go4gold 2016","Third-Place Match","CNB Infinity","Ilha da Macacada Gaming","LLL","r","dom","S"],["2016-10-15","Logitech Challenge Brasil 2016","Final","CNB Infinity","Hollow Heroes","WWW","","dom","S"],["2017-07-26","Brazilian Challenger Circuit 2017 Split 2 Playoffs","Semifinal","Operation Kino e-Sports","KaBuM! Esports","LLWWL","","dom","S"],["2017-08-06","CBLOL 2018 Split 1 Promotion","Qualifiers","Operation Kino e-Sports","CNB e-Sports Club","LLL","","dom","P"],["2018-03-17","CBLOL 2018 Split 1 Playoffs","Round 1","CNB e-Sports Club","ProGaming Esports","WLWLW","p","dom","P"],["2018-03-18","CBLOL 2018 Split 1 Playoffs","Round 2","CNB e-Sports Club","Vivo Keyd","LLL","p","dom","P"],["2018-08-18","CBLOL 2018 Split 2 Playoffs","Round 2","CNB e-Sports Club","Vivo Keyd","WLWLW","","dom","P"],["2018-08-25","CBLOL 2018 Split 2 Playoffs","Round 3","CNB e-Sports Club","Flamengo Esports","LLL","p","dom","P"],["2019-04-06","CBLOL 2019 Split 1 Playoffs","Semifinal","CNB e-Sports Club","Flamengo Esports","LLL","","dom","P"],["2019-08-13","Brazilian Challenger Circuit 2019 Split 2 Playoffs","Semifinal","ProGaming Esports","RED Canids","WWW","","dom","S"],["2019-08-17","Brazilian Challenger Circuit 2019 Split 2 Playoffs","Final","ProGaming Esports","Vivo Keyd","WLWW","","dom","S"],["2019-12-08","Superliga ABCDE 2019","Round 6","Prodigy Esports","Uppercut esports","WWLLW","","dom","S"],["2019-12-14","Superliga ABCDE 2019","Grand Final","Prodigy Esports","paiN Gaming","WWLLL","","dom","S"],["2020-08-22","CBLOL 2020 Split 2 Playoffs","Semifinal","Prodigy Esports","paiN Gaming","WLLWL","","dom","P"],["2020-12-20","Liga Loading de Esports 2020","Final","Vorax","RED Canids","LLL","r","dom","S"],["2021-04-04","CBLOL 2021 Split 1 Playoffs","Semifinal","Vorax","RED Canids","WWLW","","dom","P"],["2021-04-18","CBLOL 2021 Split 1 Playoffs","Final","Vorax","paiN Gaming","WLLL","","dom","P"],["2021-08-22","CBLOL 2021 Split 2 Playoffs","Semifinal","Vorax Liberty","RED Canids","LWLL","","dom","P"],["2023-08-12","CBLOL 2023 Split 2 Playoffs","Round 1","INTZ","paiN Gaming","LLL","","dom","P"],["2023-08-19","CBLOL 2023 Split 2 Playoffs","Round 2","INTZ","Vivo Keyd Stars","LWWW","","dom","P"],["2023-08-26","CBLOL 2023 Split 2 Playoffs","Round 3","INTZ","RED Canids","LWLL","","dom","P"],["2025-06-17","Circuito Desafiante 2025 Split 2 Promotion","Round 2","Flamengo MDL","ZGDX Gaming","WWLW","","dom","S"],["2025-06-20","Circuito Desafiante 2025 Split 2 Promotion","Final","Flamengo MDL","Contrata Logo Meu Time","WLWW","","dom","S"],["2025-08-23","LTA South 2025 Split 3","Round 1","Fluxo W7M","LOUD","LLL","","dom","P"]],"unknown":[["2016-08-07","Brazilian Challenger Circuit 2017 Split 1 Promotion","Qualifiers","CNB Infinity","YGG","1-3","","dom","S"],["2016-09-23","Copa Go4gold 2016","Semifinal","CNB Infinity","ProGaming Esports","2-3","","dom","S"]]}
+{
+  "player": "Yampi",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2016-04-04","Brazilian Challenger Circuit 2016 Split 2 Promotion","Qualifiers","CNB Infinity","Keyd Warriors","WLWW","","dom","S"],
+    ["2016-08-07","Brazilian Challenger Circuit 2017 Split 1 Promotion","Scoreboards","CNB Infinity","YGG E-Sports","LLWL","","dom","S"],
+    ["2016-09-24","Copa Go4gold 2016","Third-Place Match","CNB Infinity","Ilha da Macacada Gaming","LLL","r","dom","S"],
+    ["2016-10-15","Logitech Challenge Brasil 2016","Final","CNB Infinity","Hollow Heroes","WWW","","dom","S"],
+    ["2017-07-26","Brazilian Challenger Circuit 2017 Split 2 Playoffs","Semifinal","Operation Kino e-Sports","KaBuM! Esports","LLWWL","","dom","S"],
+    ["2017-08-06","CBLOL 2018 Split 1 Promotion","Qualifiers","Operation Kino e-Sports","CNB e-Sports Club","LLL","","dom","P"],
+    ["2018-03-17","CBLOL 2018 Split 1 Playoffs","Round 1","CNB e-Sports Club","ProGaming Esports","WLWLW","p","dom","P"],
+    ["2018-03-18","CBLOL 2018 Split 1 Playoffs","Round 2","CNB e-Sports Club","Vivo Keyd","LLL","p","dom","P"],
+    ["2018-08-18","CBLOL 2018 Split 2 Playoffs","Round 2","CNB e-Sports Club","Vivo Keyd","WLWLW","","dom","P"],
+    ["2018-08-25","CBLOL 2018 Split 2 Playoffs","Round 3","CNB e-Sports Club","Flamengo Esports","LLL","p","dom","P"],
+    ["2019-04-06","CBLOL 2019 Split 1 Playoffs","Semifinal","CNB e-Sports Club","Flamengo Esports","LLL","","dom","P"],
+    ["2019-08-13","Brazilian Challenger Circuit 2019 Split 2 Playoffs","Semifinal","ProGaming Esports","RED Canids","WWW","","dom","S"],
+    ["2019-08-17","Brazilian Challenger Circuit 2019 Split 2 Playoffs","Final","ProGaming Esports","Vivo Keyd","WLWW","","dom","S"],
+    ["2019-12-08","Superliga ABCDE 2019","Round 6","Prodigy Esports","Uppercut esports","WWLLW","","dom","S"],
+    ["2019-12-14","Superliga ABCDE 2019","Grand Final","Prodigy Esports","paiN Gaming","WWLLL","","dom","S"],
+    ["2020-08-22","CBLOL 2020 Split 2 Playoffs","Semifinal","Prodigy Esports","paiN Gaming","WLLWL","","dom","P"],
+    ["2020-12-20","Liga Loading de Esports 2020","Final","Vorax","RED Canids","LLL","r","dom","S"],
+    ["2021-04-04","CBLOL 2021 Split 1 Playoffs","Semifinal","Vorax","RED Canids","WWLW","","dom","P"],
+    ["2021-04-18","CBLOL 2021 Split 1 Playoffs","Final","Vorax","paiN Gaming","WLLL","","dom","P"],
+    ["2021-08-22","CBLOL 2021 Split 2 Playoffs","Semifinal","Vorax Liberty","RED Canids","LWLL","","dom","P"],
+    ["2023-08-12","CBLOL 2023 Split 2 Playoffs","Round 1","INTZ","paiN Gaming","LLL","","dom","P"],
+    ["2023-08-19","CBLOL 2023 Split 2 Playoffs","Round 2","INTZ","Vivo Keyd Stars","LWWW","","dom","P"],
+    ["2023-08-26","CBLOL 2023 Split 2 Playoffs","Round 3","INTZ","RED Canids","LWLL","","dom","P"],
+    ["2025-06-17","Circuito Desafiante 2025 Split 2 Promotion","Round 2","Flamengo MDL","ZGDX Gaming","WWLW","","dom","S"],
+    ["2025-06-20","Circuito Desafiante 2025 Split 2 Promotion","Final","Flamengo MDL","Contrata Logo Meu Time","WLWW","","dom","S"],
+    ["2025-08-23","LTA South 2025 Split 3","Round 1","Fluxo W7M","LOUD","LLL","","dom","P"]
+  ],
+  "unknown": [
+    ["2016-08-07","Brazilian Challenger Circuit 2017 Split 1 Promotion","Qualifiers","CNB Infinity","YGG","1-3","","dom","S"],
+    ["2016-09-23","Copa Go4gold 2016","Semifinal","CNB Infinity","ProGaming Esports","2-3","","dom","S"]
+  ]
+}

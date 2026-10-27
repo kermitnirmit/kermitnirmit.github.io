@@ -1,1 +1,30 @@
-{"player":"Praedyth","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2016-03-31","OCS 2016 Split 1 Playoffs","Final","Chiefs Black","Abyss Esports Red","WWW","","dom","S"],["2016-04-26","OPL 2016 Split 2 Promotion","Qual","Chiefs Black","Infernum Gaming","WWW","","dom","P"],["2018-09-07","OPL 2019 Split 1 Promotion","Round 1","Tectonic","Avant Gaming","WLWLL","","dom","P"],["2018-09-08","OPL 2019 Split 1 Promotion","Round 2","Tectonic","Chiefs Academy","LLL","","dom","P"],["2020-08-14","OPL 2020 Split 2 Playoffs","Round 1","Pentanet.GG","ORDER","WLLL","","dom","P"],["2020-08-21","OPL 2020 Split 2 Playoffs","Round 2","Pentanet.GG","Chiefs Esports Club","LLL","","dom","P"],["2021-03-31","LCO 2021 Split 1 Playoffs","Round 2","Pentanet.GG","PEACE (Oceanic Team)","WLLWW","","dom","P"],["2021-04-10","LCO 2021 Split 1 Playoffs","Final","Pentanet.GG","PEACE (Oceanic Team)","LWWW","","dom","P"],["2021-08-18","LCO 2021 Split 2 Playoffs","Round 2","Pentanet.GG","Dire Wolves","WWW","","dom","P"],["2021-08-31","LCO 2021 Split 2 Playoffs","Final","Pentanet.GG","PEACE (Oceanic Team)","LLL","","dom","P"],["2022-03-28","LCO 2022 Split 1 Playoffs","Round 1","Pentanet.GG","PEACE (Oceanic Team)","WWW","","dom","P"],["2022-03-29","LCO 2022 Split 1 Playoffs","Round 2","Pentanet.GG","Chiefs Esports Club","LWLWL","","dom","P"],["2022-04-05","LCO 2022 Split 1 Playoffs","Round 3","Pentanet.GG","ORDER","LLL","","dom","P"],["2022-08-15","LCO 2022 Split 2 Playoffs","Round 1","Pentanet.GG","ORDER","LLWWL","","dom","P"],["2022-08-23","LCO 2022 Split 2 Playoffs","Round 2","Pentanet.GG","Kanga Esports","WWW","","dom","P"],["2022-09-02","LCO 2022 Split 2 Playoffs","Round 3","Pentanet.GG","ORDER","WWW","","dom","P"],["2022-09-04","LCO 2022 Split 2 Playoffs","Final","Pentanet.GG","Chiefs Esports Club","LLWL","","dom","P"],["2023-03-16","LCO 2023 Split 1 Playoffs","Finals Stage","Dire Wolves","Chiefs Esports Club","LLL","","dom","P"],["2025-08-29","LCP OPQ 2025 Main Event","Round 7","The Outcasts","Rich Dynasty","WLLL","","dom","S"],["2026-09-05","FLASH Oceania 2026 Playoffs","Final","Team Gromp (Australian Team)","Onetricks","LWLWW","","dom","S"]],"unknown":[["2025-12-19","The Oceanic Resurrection 2025","Round 5","Fatpizza","Rush Hour","2-3","","dom","S"]]}
+{
+  "player": "Praedyth",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2016-03-31","OCS 2016 Split 1 Playoffs","Final","Chiefs Black","Abyss Esports Red","WWW","","dom","S"],
+    ["2016-04-26","OPL 2016 Split 2 Promotion","Qual","Chiefs Black","Infernum Gaming","WWW","","dom","P"],
+    ["2018-09-07","OPL 2019 Split 1 Promotion","Round 1","Tectonic","Avant Gaming","WLWLL","","dom","P"],
+    ["2018-09-08","OPL 2019 Split 1 Promotion","Round 2","Tectonic","Chiefs Academy","LLL","","dom","P"],
+    ["2020-08-14","OPL 2020 Split 2 Playoffs","Round 1","Pentanet.GG","ORDER","WLLL","","dom","P"],
+    ["2020-08-21","OPL 2020 Split 2 Playoffs","Round 2","Pentanet.GG","Chiefs Esports Club","LLL","","dom","P"],
+    ["2021-03-31","LCO 2021 Split 1 Playoffs","Round 2","Pentanet.GG","PEACE (Oceanic Team)","WLLWW","","dom","P"],
+    ["2021-04-10","LCO 2021 Split 1 Playoffs","Final","Pentanet.GG","PEACE (Oceanic Team)","LWWW","","dom","P"],
+    ["2021-08-18","LCO 2021 Split 2 Playoffs","Round 2","Pentanet.GG","Dire Wolves","WWW","","dom","P"],
+    ["2021-08-31","LCO 2021 Split 2 Playoffs","Final","Pentanet.GG","PEACE (Oceanic Team)","LLL","","dom","P"],
+    ["2022-03-28","LCO 2022 Split 1 Playoffs","Round 1","Pentanet.GG","PEACE (Oceanic Team)","WWW","","dom","P"],
+    ["2022-03-29","LCO 2022 Split 1 Playoffs","Round 2","Pentanet.GG","Chiefs Esports Club","LWLWL","","dom","P"],
+    ["2022-04-05","LCO 2022 Split 1 Playoffs","Round 3","Pentanet.GG","ORDER","LLL","","dom","P"],
+    ["2022-08-15","LCO 2022 Split 2 Playoffs","Round 1","Pentanet.GG","ORDER","LLWWL","","dom","P"],
+    ["2022-08-23","LCO 2022 Split 2 Playoffs","Round 2","Pentanet.GG","Kanga Esports","WWW","","dom","P"],
+    ["2022-09-02","LCO 2022 Split 2 Playoffs","Round 3","Pentanet.GG","ORDER","WWW","","dom","P"],
+    ["2022-09-04","LCO 2022 Split 2 Playoffs","Final","Pentanet.GG","Chiefs Esports Club","LLWL","","dom","P"],
+    ["2023-03-16","LCO 2023 Split 1 Playoffs","Finals Stage","Dire Wolves","Chiefs Esports Club","LLL","","dom","P"],
+    ["2025-08-29","LCP OPQ 2025 Main Event","Round 7","The Outcasts","Rich Dynasty","WLLL","","dom","S"],
+    ["2026-09-05","FLASH Oceania 2026 Playoffs","Final","Team Gromp (Australian Team)","Onetricks","LWLWW","","dom","S"]
+  ],
+  "unknown": [
+    ["2025-12-19","The Oceanic Resurrection 2025","Round 5","Fatpizza","Rush Hour","2-3","","dom","S"]
+  ]
+}

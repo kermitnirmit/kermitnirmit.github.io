@@ -1,1 +1,35 @@
-{"player":"RonOP","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2016-07-30","VCS A 2016 Summer Playoffs","Semifinal","Saigon Jokers","Boba Marines","WWW","r","dom",""],["2016-07-31","VCS A 2016 Summer Playoffs","Final","Saigon Jokers","Saigon Mongaming","WWW","r","dom",""],["2016-11-19","Garena All-Star 2016","Semifinal","Team VCSA","Team PGS","WWW","r","intl",""],["2016-11-20","Garena All-Star 2016","Final","Team VCSA","Team TPL","WWW","r","intl",""],["2017-12-15","VCS 2018 Spring Promotion","Round 1","EVOS Esports","New Power Esports","LWWW","r","dom","P"],["2017-12-16","VCS 2018 Spring Promotion","Qualifiers","EVOS Esports","Hall of Fame","WWW","r","dom","P"],["2018-04-07","VCS 2018 Spring Playoffs","Final","EVOS Esports","GIGABYTE Marines","LWLWW","","dom","P"],["2018-05-08","MSI 2018","Round 2","EVOS Esports","SuperMassive Esports","WLWW","","msi","P"],["2018-09-07","VCS 2018 Summer Playoffs","Round 1","EVOS Esports","Cube Adonis","WLLWL","","dom","P"],["2019-03-30","VCS 2019 Spring Playoffs","Round 1","EVOS Esports","Friends Forever Gaming","LWLWW","","dom","P"],["2019-04-06","VCS 2019 Spring Playoffs","Round 2","EVOS Esports","Sky Gaming","WLWW","","dom","P"],["2019-04-13","VCS 2019 Spring Playoffs","Final","EVOS Esports","Phong Vũ Buffalo","WLLL","","dom","P"],["2019-12-11","VCS 2020 Spring Promotion","Round 1","CERBERUS Esports (Vietnamese Team)","Adonis Esports","WWW","","dom","P"],["2019-12-13","VCS 2020 Spring Promotion","Qualifying Round","CERBERUS Esports (Vietnamese Team)","QTV Gaming","WWW","","dom","P"],["2020-08-19","VCS 2020 Summer Playoffs","Round 1","CERBERUS Esports (Vietnamese Team)","GAM Esports","LLL","","dom","P"],["2020-08-23","VCS 2020 Summer Playoffs","Round 1","CERBERUS Esports (Vietnamese Team)","EVOS Esports","LLWL","","dom","P"],["2021-04-10","VCS 2021 Spring Playoffs","Semifinal","CERBERUS Esports (Vietnamese Team)","Saigon Buffalo","LWLL","p","dom","P"],["2021-04-17","VCS 2021 Spring Playoffs","Third-Place Match","CERBERUS Esports (Vietnamese Team)","Team Secret (Vietnamese Team)","LLWWL","","dom","P"],["2021-12-22","VCS 2021 Winter Playoffs","Semifinal","CERBERUS Esports (Vietnamese Team)","Luxury Esports","WWLW","","dom","P"],["2021-12-26","VCS 2021 Winter Playoffs","Final","CERBERUS Esports (Vietnamese Team)","GAM Esports","LWLWW","","dom","P"],["2022-04-16","VCS 2022 Spring Playoffs","Round 1","CERBERUS Esports (Vietnamese Team)","Team Secret (Vietnamese Team)","LLL","p","dom","P"],["2023-04-14","VCS 2023 Spring Playoffs","Round 1","CERBERUS Esports (Vietnamese Team)","GAM Esports","WLLL","","dom","P"],["2023-04-16","VCS 2023 Spring Playoffs","Round 1","CERBERUS Esports (Vietnamese Team)","Team Whales","WLLWW","p","dom","P"],["2023-04-22","VCS 2023 Spring Playoffs","Round 2","CERBERUS Esports (Vietnamese Team)","SBTC Esports","LLL","p","dom","P"]],"unknown":[["2016-03-19","VCS A 2016 Spring Playoffs","Semifinal","Saigon Jokers","Boba Marines","3-2","","dom",""],["2016-03-20","VCS A 2016 Spring Playoffs","Final","Saigon Jokers","Full Louis","3-2","","dom",""]]}
+{
+  "player": "RonOP",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2016-07-30","VCS A 2016 Summer Playoffs","Semifinal","Saigon Jokers","Boba Marines","WWW","r","dom",""],
+    ["2016-07-31","VCS A 2016 Summer Playoffs","Final","Saigon Jokers","Saigon Mongaming","WWW","r","dom",""],
+    ["2016-11-19","Garena All-Star 2016","Semifinal","Team VCSA","Team PGS","WWW","r","intl",""],
+    ["2016-11-20","Garena All-Star 2016","Final","Team VCSA","Team TPL","WWW","r","intl",""],
+    ["2017-12-15","VCS 2018 Spring Promotion","Round 1","EVOS Esports","New Power Esports","LWWW","r","dom","P"],
+    ["2017-12-16","VCS 2018 Spring Promotion","Qualifiers","EVOS Esports","Hall of Fame","WWW","r","dom","P"],
+    ["2018-04-07","VCS 2018 Spring Playoffs","Final","EVOS Esports","GIGABYTE Marines","LWLWW","","dom","P"],
+    ["2018-05-08","MSI 2018","Round 2","EVOS Esports","SuperMassive Esports","WLWW","","msi","P"],
+    ["2018-09-07","VCS 2018 Summer Playoffs","Round 1","EVOS Esports","Cube Adonis","WLLWL","","dom","P"],
+    ["2019-03-30","VCS 2019 Spring Playoffs","Round 1","EVOS Esports","Friends Forever Gaming","LWLWW","","dom","P"],
+    ["2019-04-06","VCS 2019 Spring Playoffs","Round 2","EVOS Esports","Sky Gaming","WLWW","","dom","P"],
+    ["2019-04-13","VCS 2019 Spring Playoffs","Final","EVOS Esports","Phong Vũ Buffalo","WLLL","","dom","P"],
+    ["2019-12-11","VCS 2020 Spring Promotion","Round 1","CERBERUS Esports (Vietnamese Team)","Adonis Esports","WWW","","dom","P"],
+    ["2019-12-13","VCS 2020 Spring Promotion","Qualifying Round","CERBERUS Esports (Vietnamese Team)","QTV Gaming","WWW","","dom","P"],
+    ["2020-08-19","VCS 2020 Summer Playoffs","Round 1","CERBERUS Esports (Vietnamese Team)","GAM Esports","LLL","","dom","P"],
+    ["2020-08-23","VCS 2020 Summer Playoffs","Round 1","CERBERUS Esports (Vietnamese Team)","EVOS Esports","LLWL","","dom","P"],
+    ["2021-04-10","VCS 2021 Spring Playoffs","Semifinal","CERBERUS Esports (Vietnamese Team)","Saigon Buffalo","LWLL","p","dom","P"],
+    ["2021-04-17","VCS 2021 Spring Playoffs","Third-Place Match","CERBERUS Esports (Vietnamese Team)","Team Secret (Vietnamese Team)","LLWWL","","dom","P"],
+    ["2021-12-22","VCS 2021 Winter Playoffs","Semifinal","CERBERUS Esports (Vietnamese Team)","Luxury Esports","WWLW","","dom","P"],
+    ["2021-12-26","VCS 2021 Winter Playoffs","Final","CERBERUS Esports (Vietnamese Team)","GAM Esports","LWLWW","","dom","P"],
+    ["2022-04-16","VCS 2022 Spring Playoffs","Round 1","CERBERUS Esports (Vietnamese Team)","Team Secret (Vietnamese Team)","LLL","p","dom","P"],
+    ["2023-04-14","VCS 2023 Spring Playoffs","Round 1","CERBERUS Esports (Vietnamese Team)","GAM Esports","WLLL","","dom","P"],
+    ["2023-04-16","VCS 2023 Spring Playoffs","Round 1","CERBERUS Esports (Vietnamese Team)","Team Whales","WLLWW","p","dom","P"],
+    ["2023-04-22","VCS 2023 Spring Playoffs","Round 2","CERBERUS Esports (Vietnamese Team)","SBTC Esports","LLL","p","dom","P"]
+  ],
+  "unknown": [
+    ["2016-03-19","VCS A 2016 Spring Playoffs","Semifinal","Saigon Jokers","Boba Marines","3-2","","dom",""],
+    ["2016-03-20","VCS A 2016 Spring Playoffs","Final","Saigon Jokers","Full Louis","3-2","","dom",""]
+  ]
+}

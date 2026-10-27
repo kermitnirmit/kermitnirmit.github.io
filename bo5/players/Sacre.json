@@ -1,1 +1,36 @@
-{"player":"Sacre","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2017-03-27","Fortuna Championship Series Season 2 Playoffs","Semifinal","Instinct Esports","Mistiga Crew","WWW","r","dom","S"],["2017-04-09","Fortuna Championship Series Season 2 Playoffs","Final","Instinct Esports","ASUS ROG ELITE","WLLWW","r","dom","S"],["2017-06-27","Fortuna Championship Series Season 3 Playoffs","Semifinal","SBB Esports","Monitor.rs","LWWW","r","dom","S"],["2017-07-02","Fortuna Championship Series Season 3 Playoffs","Final","SBB Esports","ASUS ROG ELITE","WWLW","r","dom","S"],["2018-02-04","League Greek Championship Season 3 Playoffs","Third-Place Match","KlikTech","RIFT Esports","WWW","r","dom",""],["2018-03-19","Esports Balkan League Season 2 Playoffs","Semifinal","KlikTech","Panathinaikos Esports","WWW","r","dom",""],["2018-03-25","Esports Balkan League Season 2 Playoffs","Final","KlikTech","x25 Esports","WWW","r","dom",""],["2019-02-24","Premier Tour 2018 Winter/Stop 3 - Bonn","Final","SK Gaming Prime","Berlin International Gaming","LLL","","dom","S"],["2019-04-02","Summoner's Inn League Season 2 Playoffs","Final","SK Gaming Prime","ad hoc gaming","LWLWW","r","dom",""],["2019-04-28","European Masters 2019 Spring Main Event","Final","SK Gaming Prime","Misfits Premier","LLL","","dom","S"],["2021-07-28","Ultraliga Season 6 Playoffs","Round 1","K1CK","Illuminar Gaming","WLWLL","","dom","S"],["2021-12-11","Magyar Esport Kupa 2021 Winter","Round 2","KmK eSports","Wonder Stag Esports White","LWWLW","","dom","S"],["2022-03-08","Prime League 1st Division 2022 Spring Playoffs","Round 2","GamerLegion","Eintracht Spandau","LLL","","dom","S"],["2022-03-13","Prime League 1st Division 2022 Spring Playoffs","Semifinal","GamerLegion","Unicorns of Love Sexy Edition","LWWW","","dom","S"],["2022-03-20","Prime League 1st Division 2022 Spring Playoffs","Final","GamerLegion","Eintracht Spandau","WWW","","dom","S"],["2023-03-16","Prime League 1st Division 2023 Spring Playoffs","Round 1","FC Schalke 04 Esports","MOUZ","WLWLL","","dom","S"],["2023-07-27","Prime League 1st Division 2023 Summer Playoffs","Round 1","FC Schalke 04 Esports","Berlin International Gaming","LLL","","dom","S"],["2024-03-20","Prime League 1st Division 2024 Spring Playoffs","Round 1","FC Schalke 04 Esports","Austrian Force willhaben","WLLL","","dom","S"],["2024-07-19","Prime League 1st Division 2024 Summer Playoffs","Round 2","FC Schalke 04 Esports","SK Gaming Prime","LWWW","","dom","S"],["2024-08-03","Prime League 1st Division 2024 Summer Playoffs","Final","FC Schalke 04 Esports","Unicorns of Love Sexy Edition","LWLL","","dom","S"],["2024-08-15","EMEA Masters 2024 Summer Main Event","Round of 16","FC Schalke 04 Esports","Karmine Corp Blue","LLL","","dom","S"],["2024-11-06","TEC Season 3","Semifinal","AF04","Bad Lions (TEC Season 3 Team)","LLL","r","dom","S"],["2025-02-26","Prime League 1st Division 2025 Winter Playoffs","Quarterfinal","Eintracht Frankfurt","E WIE EINFACH E-SPORTS","WLLWL","","dom","S"],["2025-12-07","Legends Premier League Season 2","Final","GLORE.FIFINE","Ruddy Corporation","WLLL","r","dom","S"]],"unknown":[["2017-12-17","Esports Balkan League Season 1 Playoffs","Final","KlikTech","Greek Regenesis","3-1","","dom",""],["2018-02-03","League Greek Championship Season 3 Playoffs","Semifinal","KlikTech","Nexus Gaming (Romanian Team)","2-3","","dom",""],["2021-12-18","Magyar Esport Kupa 2021 Winter","Grand Final","KmK eSports","Team Plague","3-2","","dom","S"]]}
+{
+  "player": "Sacre",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2017-03-27","Fortuna Championship Series Season 2 Playoffs","Semifinal","Instinct Esports","Mistiga Crew","WWW","r","dom","S"],
+    ["2017-04-09","Fortuna Championship Series Season 2 Playoffs","Final","Instinct Esports","ASUS ROG ELITE","WLLWW","r","dom","S"],
+    ["2017-06-27","Fortuna Championship Series Season 3 Playoffs","Semifinal","SBB Esports","Monitor.rs","LWWW","r","dom","S"],
+    ["2017-07-02","Fortuna Championship Series Season 3 Playoffs","Final","SBB Esports","ASUS ROG ELITE","WWLW","r","dom","S"],
+    ["2018-02-04","League Greek Championship Season 3 Playoffs","Third-Place Match","KlikTech","RIFT Esports","WWW","r","dom",""],
+    ["2018-03-19","Esports Balkan League Season 2 Playoffs","Semifinal","KlikTech","Panathinaikos Esports","WWW","r","dom",""],
+    ["2018-03-25","Esports Balkan League Season 2 Playoffs","Final","KlikTech","x25 Esports","WWW","r","dom",""],
+    ["2019-02-24","Premier Tour 2018 Winter/Stop 3 - Bonn","Final","SK Gaming Prime","Berlin International Gaming","LLL","","dom","S"],
+    ["2019-04-02","Summoner's Inn League Season 2 Playoffs","Final","SK Gaming Prime","ad hoc gaming","LWLWW","r","dom",""],
+    ["2019-04-28","European Masters 2019 Spring Main Event","Final","SK Gaming Prime","Misfits Premier","LLL","","dom","S"],
+    ["2021-07-28","Ultraliga Season 6 Playoffs","Round 1","K1CK","Illuminar Gaming","WLWLL","","dom","S"],
+    ["2021-12-11","Magyar Esport Kupa 2021 Winter","Round 2","KmK eSports","Wonder Stag Esports White","LWWLW","","dom","S"],
+    ["2022-03-08","Prime League 1st Division 2022 Spring Playoffs","Round 2","GamerLegion","Eintracht Spandau","LLL","","dom","S"],
+    ["2022-03-13","Prime League 1st Division 2022 Spring Playoffs","Semifinal","GamerLegion","Unicorns of Love Sexy Edition","LWWW","","dom","S"],
+    ["2022-03-20","Prime League 1st Division 2022 Spring Playoffs","Final","GamerLegion","Eintracht Spandau","WWW","","dom","S"],
+    ["2023-03-16","Prime League 1st Division 2023 Spring Playoffs","Round 1","FC Schalke 04 Esports","MOUZ","WLWLL","","dom","S"],
+    ["2023-07-27","Prime League 1st Division 2023 Summer Playoffs","Round 1","FC Schalke 04 Esports","Berlin International Gaming","LLL","","dom","S"],
+    ["2024-03-20","Prime League 1st Division 2024 Spring Playoffs","Round 1","FC Schalke 04 Esports","Austrian Force willhaben","WLLL","","dom","S"],
+    ["2024-07-19","Prime League 1st Division 2024 Summer Playoffs","Round 2","FC Schalke 04 Esports","SK Gaming Prime","LWWW","","dom","S"],
+    ["2024-08-03","Prime League 1st Division 2024 Summer Playoffs","Final","FC Schalke 04 Esports","Unicorns of Love Sexy Edition","LWLL","","dom","S"],
+    ["2024-08-15","EMEA Masters 2024 Summer Main Event","Round of 16","FC Schalke 04 Esports","Karmine Corp Blue","LLL","","dom","S"],
+    ["2024-11-06","TEC Season 3","Semifinal","AF04","Bad Lions (TEC Season 3 Team)","LLL","r","dom","S"],
+    ["2025-02-26","Prime League 1st Division 2025 Winter Playoffs","Quarterfinal","Eintracht Frankfurt","E WIE EINFACH E-SPORTS","WLLWL","","dom","S"],
+    ["2025-12-07","Legends Premier League Season 2","Final","GLORE.FIFINE","Ruddy Corporation","WLLL","r","dom","S"]
+  ],
+  "unknown": [
+    ["2017-12-17","Esports Balkan League Season 1 Playoffs","Final","KlikTech","Greek Regenesis","3-1","","dom",""],
+    ["2018-02-03","League Greek Championship Season 3 Playoffs","Semifinal","KlikTech","Nexus Gaming (Romanian Team)","2-3","","dom",""],
+    ["2021-12-18","Magyar Esport Kupa 2021 Winter","Grand Final","KmK eSports","Team Plague","3-2","","dom","S"]
+  ]
+}

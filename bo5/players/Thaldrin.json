@@ -1,1 +1,31 @@
-{"player":"Thaldrin","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2014-04-06","TCL 2014 Spring/Finals","Final","Wild Fire e-Sports Club","Dark Passage","LLL","r","dom","P"],["2015-01-08","LoL Pro League Season II","Grand Finals","Aces High Esports Club","ThunderBot SPARTA","LLL","r","dom","S"],["2015-01-18","International Invitational Tournament 4","Final","Aces High Esports Club","HWA Gaming","WWW","r","dom",""],["2015-03-28","TCL 2015 Winter Playoffs","Semifinal","Beşiktaş Esports","ATLAS eSports Team","WWW","","dom","P"],["2015-04-04","TCL 2015 Winter Playoffs","Final","Beşiktaş Esports","Dark Passage","WWW","","dom","P"],["2015-04-24","International Wildcard Invitational 2015","Semifinal","Beşiktaş Esports","Bangkok Titans","WWW","","dom","P"],["2015-04-25","International Wildcard Invitational 2015","Final","Beşiktaş Esports","INTZ","LWWW","","dom","P"],["2015-08-01","TCL 2015 Summer Playoffs","Semifinal","Beşiktaş Esports","Team Turquality","WLWLW","","dom","P"],["2015-08-08","TCL 2015 Summer Playoffs","Final","Beşiktaş Esports","Dark Passage","LLWL","","dom","P"],["2015-11-29","International Wildcard All-Star Melbourne 2015","Final","TCL Allstars","SLTV Allstars","WWLW","","intl","X"],["2016-03-19","TCL 2016 Winter Playoffs","Quarterfinal","SuperMassive Esports","Team Turquality","WWLW","","dom","P"],["2016-03-26","TCL 2016 Winter Playoffs","Semifinal","SuperMassive Esports","Team AURORA","WWLLW","p","dom","P"],["2016-04-21","International Wildcard Invitational 2016","Semifinal","SuperMassive Esports","Saigon Jokers","WWW","","dom","P"],["2016-04-23","International Wildcard Invitational 2016","Final","SuperMassive Esports","Hard Random","WLWW","","dom","P"],["2017-04-02","TCL 2017 Winter Playoffs","Quarterfinal","Fenerbahçe Esports","HWA Gaming","WWLLW","","dom","P"],["2017-04-09","TCL 2017 Winter Playoffs","Semifinal","Fenerbahçe Esports","SuperMassive Esports","WLLL","","dom","P"],["2017-07-09","Rift Rivals 2017 LCL-TCL","Final","Fenerbahçe Esports","Vega Squadron","WWW","","intl","P"],["2017-08-12","TCL 2017 Summer Playoffs","Semifinal","Fenerbahçe Esports","Crew e-Sports Club","WWW","","dom","P"],["2017-08-19","TCL 2017 Summer Playoffs","Final","Fenerbahçe Esports","SuperMassive Esports","WWW","","dom","P"],["2017-09-29","Worlds 2017","Round 2","Fenerbahçe Esports","Team oNe eSports","WLWW","","worlds","P"],["2018-04-07","TCL 2018 Winter Playoffs","Quarterfinal","Fenerbahçe Esports","Team AURORA","LLWL","","dom","P"],["2018-08-26","TCL 2018 Summer Playoffs","Quarterfinal","Fenerbahçe Esports","Bursaspor Esports","WWLW","","dom","P"],["2018-09-02","TCL 2018 Summer Playoffs","Semifinal","Fenerbahçe Esports","SuperMassive Esports","WLLL","","dom","P"]],"unknown":[]}
+{
+  "player": "Thaldrin",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2014-04-06","TCL 2014 Spring/Finals","Final","Wild Fire e-Sports Club","Dark Passage","LLL","r","dom","P"],
+    ["2015-01-08","LoL Pro League Season II","Grand Finals","Aces High Esports Club","ThunderBot SPARTA","LLL","r","dom","S"],
+    ["2015-01-18","International Invitational Tournament 4","Final","Aces High Esports Club","HWA Gaming","WWW","r","dom",""],
+    ["2015-03-28","TCL 2015 Winter Playoffs","Semifinal","Beşiktaş Esports","ATLAS eSports Team","WWW","","dom","P"],
+    ["2015-04-04","TCL 2015 Winter Playoffs","Final","Beşiktaş Esports","Dark Passage","WWW","","dom","P"],
+    ["2015-04-24","International Wildcard Invitational 2015","Semifinal","Beşiktaş Esports","Bangkok Titans","WWW","","dom","P"],
+    ["2015-04-25","International Wildcard Invitational 2015","Final","Beşiktaş Esports","INTZ","LWWW","","dom","P"],
+    ["2015-08-01","TCL 2015 Summer Playoffs","Semifinal","Beşiktaş Esports","Team Turquality","WLWLW","","dom","P"],
+    ["2015-08-08","TCL 2015 Summer Playoffs","Final","Beşiktaş Esports","Dark Passage","LLWL","","dom","P"],
+    ["2015-11-29","International Wildcard All-Star Melbourne 2015","Final","TCL Allstars","SLTV Allstars","WWLW","","intl","X"],
+    ["2016-03-19","TCL 2016 Winter Playoffs","Quarterfinal","SuperMassive Esports","Team Turquality","WWLW","","dom","P"],
+    ["2016-03-26","TCL 2016 Winter Playoffs","Semifinal","SuperMassive Esports","Team AURORA","WWLLW","p","dom","P"],
+    ["2016-04-21","International Wildcard Invitational 2016","Semifinal","SuperMassive Esports","Saigon Jokers","WWW","","dom","P"],
+    ["2016-04-23","International Wildcard Invitational 2016","Final","SuperMassive Esports","Hard Random","WLWW","","dom","P"],
+    ["2017-04-02","TCL 2017 Winter Playoffs","Quarterfinal","Fenerbahçe Esports","HWA Gaming","WWLLW","","dom","P"],
+    ["2017-04-09","TCL 2017 Winter Playoffs","Semifinal","Fenerbahçe Esports","SuperMassive Esports","WLLL","","dom","P"],
+    ["2017-07-09","Rift Rivals 2017 LCL-TCL","Final","Fenerbahçe Esports","Vega Squadron","WWW","","intl","P"],
+    ["2017-08-12","TCL 2017 Summer Playoffs","Semifinal","Fenerbahçe Esports","Crew e-Sports Club","WWW","","dom","P"],
+    ["2017-08-19","TCL 2017 Summer Playoffs","Final","Fenerbahçe Esports","SuperMassive Esports","WWW","","dom","P"],
+    ["2017-09-29","Worlds 2017","Round 2","Fenerbahçe Esports","Team oNe eSports","WLWW","","worlds","P"],
+    ["2018-04-07","TCL 2018 Winter Playoffs","Quarterfinal","Fenerbahçe Esports","Team AURORA","LLWL","","dom","P"],
+    ["2018-08-26","TCL 2018 Summer Playoffs","Quarterfinal","Fenerbahçe Esports","Bursaspor Esports","WWLW","","dom","P"],
+    ["2018-09-02","TCL 2018 Summer Playoffs","Semifinal","Fenerbahçe Esports","SuperMassive Esports","WLLL","","dom","P"]
+  ],
+  "unknown": []
+}

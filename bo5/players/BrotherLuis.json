@@ -1,1 +1,31 @@
-{"player":"BrotherLuis","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2024-09-02","Prime League 2nd Division 2025 Promotion","Round 1","RNL ROAR","eSports Cologne e.V.","WWW","","dom","S"],["2024-09-06","Prime League 2nd Division 2025 Promotion","Round 2","RNL ROAR","WeSports","WWLW","","dom","S"],["2024-12-07","Prime League 3rd Division 2025 Winter Playoffs","Round 1","Münster Esports","WeSports","WWW","r","dom","S"],["2024-12-14","Prime League 3rd Division 2025 Winter Playoffs","Round 2","Münster Esports","BeeCharitable","WWW","r","dom","S"],["2025-03-21","Prime League 2nd Division 2025 Spring Playoffs","Round 1","A One Man Army Prime","Broke","LWWW","","dom","S"],["2025-03-28","Prime League 2nd Division 2025 Spring Playoffs","Round 2","A One Man Army Prime","TeamOrangeGaming Academy","LLL","","dom","S"],["2025-05-20","TransIP Road Of Legends 2025 Spring Playoffs","Semifinal","A One Man Army","mCon esports","LLL","","dom","S"],["2025-07-08","Prime League 2nd Division 2025 Summer Playoffs","Round 1","A One Man Army Prime","All for One Gaming","WWLLL","","dom","S"],["2025-07-10","Prime League 2nd Division 2025 Summer Playoffs","Round 1","A One Man Army Prime","Footprint Gaming","WWLW","p","dom","S"],["2025-07-14","Prime League 2nd Division 2025 Summer Playoffs","Round 2","A One Man Army Prime","TeamOrangeGaming Academy","WLWW","","dom","S"],["2025-07-18","Prime League 2nd Division 2025 Summer Playoffs","Round 3","A One Man Army Prime","VfB eSports","WLLWL","","dom","S"],["2025-08-02","Prime League 2nd Division 2025 Season Finals","Round 1","A One Man Army Prime","VfB eSports","LLL","","dom","S"],["2025-08-09","Prime League 2nd Division 2025 Season Finals","Round 1","A One Man Army Prime","regnum4games","WWW","","dom","S"],["2025-08-10","Prime League 2nd Division 2025 Season Finals","Round 2","A One Man Army Prime","Footprint Gaming","WWLW","","dom","S"],["2025-08-16","Prime League 2nd Division 2025 Season Finals","Round 3","A One Man Army Prime","All for One Gaming","LWWW","p","dom","S"],["2025-09-03","LPLOL 2025 Summer Split","Quarterfinal","GTZ Esports","FlameHard","LLL","","dom","S"],["2025-11-24","Prime League 2nd Division 2026 Fall Playoffs","Round 1","All for One Gaming","VfB eSports","LLL","p","dom","S"],["2025-11-28","Prime League 2nd Division 2026 Fall Playoffs","Round 1","All for One Gaming","TeamOrangeGaming Academy","WWLW","","dom","S"],["2025-12-01","Prime League 2nd Division 2026 Fall Playoffs","Round 2","All for One Gaming","6GPA","LLWL","","dom","S"],["2026-02-16","Prime League 2nd Division 2026 Winter Playoffs","Decider","NICE GUYS","Babos Gaming","WLWW","","dom","S"],["2026-02-24","Prime League 2nd Division 2026 Winter Playoffs","Round 1","NICE GUYS","CGN Esports","LLL","r","dom","S"]],"unknown":[["2024-12-15","Prime League 3rd Division 2025 Winter Playoffs","Round 3","Münster Esports","IntSport","3-1","","dom","S"]]}
+{
+  "player": "BrotherLuis",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2024-09-02","Prime League 2nd Division 2025 Promotion","Round 1","RNL ROAR","eSports Cologne e.V.","WWW","","dom","S"],
+    ["2024-09-06","Prime League 2nd Division 2025 Promotion","Round 2","RNL ROAR","WeSports","WWLW","","dom","S"],
+    ["2024-12-07","Prime League 3rd Division 2025 Winter Playoffs","Round 1","Münster Esports","WeSports","WWW","r","dom","S"],
+    ["2024-12-14","Prime League 3rd Division 2025 Winter Playoffs","Round 2","Münster Esports","BeeCharitable","WWW","r","dom","S"],
+    ["2025-03-21","Prime League 2nd Division 2025 Spring Playoffs","Round 1","A One Man Army Prime","Broke","LWWW","","dom","S"],
+    ["2025-03-28","Prime League 2nd Division 2025 Spring Playoffs","Round 2","A One Man Army Prime","TeamOrangeGaming Academy","LLL","","dom","S"],
+    ["2025-05-20","TransIP Road Of Legends 2025 Spring Playoffs","Semifinal","A One Man Army","mCon esports","LLL","","dom","S"],
+    ["2025-07-08","Prime League 2nd Division 2025 Summer Playoffs","Round 1","A One Man Army Prime","All for One Gaming","WWLLL","","dom","S"],
+    ["2025-07-10","Prime League 2nd Division 2025 Summer Playoffs","Round 1","A One Man Army Prime","Footprint Gaming","WWLW","p","dom","S"],
+    ["2025-07-14","Prime League 2nd Division 2025 Summer Playoffs","Round 2","A One Man Army Prime","TeamOrangeGaming Academy","WLWW","","dom","S"],
+    ["2025-07-18","Prime League 2nd Division 2025 Summer Playoffs","Round 3","A One Man Army Prime","VfB eSports","WLLWL","","dom","S"],
+    ["2025-08-02","Prime League 2nd Division 2025 Season Finals","Round 1","A One Man Army Prime","VfB eSports","LLL","","dom","S"],
+    ["2025-08-09","Prime League 2nd Division 2025 Season Finals","Round 1","A One Man Army Prime","regnum4games","WWW","","dom","S"],
+    ["2025-08-10","Prime League 2nd Division 2025 Season Finals","Round 2","A One Man Army Prime","Footprint Gaming","WWLW","","dom","S"],
+    ["2025-08-16","Prime League 2nd Division 2025 Season Finals","Round 3","A One Man Army Prime","All for One Gaming","LWWW","p","dom","S"],
+    ["2025-09-03","LPLOL 2025 Summer Split","Quarterfinal","GTZ Esports","FlameHard","LLL","","dom","S"],
+    ["2025-11-24","Prime League 2nd Division 2026 Fall Playoffs","Round 1","All for One Gaming","VfB eSports","LLL","p","dom","S"],
+    ["2025-11-28","Prime League 2nd Division 2026 Fall Playoffs","Round 1","All for One Gaming","TeamOrangeGaming Academy","WWLW","","dom","S"],
+    ["2025-12-01","Prime League 2nd Division 2026 Fall Playoffs","Round 2","All for One Gaming","6GPA","LLWL","","dom","S"],
+    ["2026-02-16","Prime League 2nd Division 2026 Winter Playoffs","Decider","NICE GUYS","Babos Gaming","WLWW","","dom","S"],
+    ["2026-02-24","Prime League 2nd Division 2026 Winter Playoffs","Round 1","NICE GUYS","CGN Esports","LLL","r","dom","S"]
+  ],
+  "unknown": [
+    ["2024-12-15","Prime League 3rd Division 2025 Winter Playoffs","Round 3","Münster Esports","IntSport","3-1","","dom","S"]
+  ]
+}

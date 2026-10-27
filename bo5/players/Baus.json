@@ -1,1 +1,32 @@
-{"player":"Baus","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2023-09-22","Drututt Ultimate Showdown","Round 1","Low5","Lose in Peace","WLLWL","","dom","S"],["2023-09-23","Drututt Ultimate Showdown","Round 1","Low5","Pozdrowienia do Więzienia","LLL","","dom","S"],["2024-11-27","NNO Cup Season 2","Round 1","Los Ratones","Kiedyś Miałem Fun","WWW","","dom","S"],["2024-11-29","NNO Cup Season 2","Round 2","Los Ratones","No Need Orga","WWLW","","dom","S"],["2024-12-03","NNO Cup Season 2","Round 4","Los Ratones","French Flair","WWW","","dom","S"],["2024-12-08","NNO Cup Season 2","Final","Los Ratones","5 Pigs 1 Team","WLWW","","dom","S"],["2025-02-14","NLC 2025 Winter Playoffs","Round 5","Los Ratones","NORD Esports","WWLW","","dom","S"],["2025-03-02","NLC 2025 Winter Playoffs","Final","Los Ratones","NORD Esports","WWW","","dom","S"],["2025-03-20","EMEA Masters 2025 Winter","Quarterfinal","Los Ratones","Papara SuperMassive","LWLWW","","dom","S"],["2025-03-22","EMEA Masters 2025 Winter","Semifinal","Los Ratones","Team Phantasma","WWW","","dom","S"],["2025-03-23","EMEA Masters 2025 Winter","Final","Los Ratones","Ici Japon Corp. Esport","WWW","","dom","S"],["2025-05-08","NLC 2025 Spring Playoffs","Round 3","Los Ratones","Venomcrest Esports","WWW","","dom","S"],["2025-05-22","NLC 2025 Spring Playoffs","Round 4","Los Ratones","Verdant","WWW","","dom","S"],["2025-05-31","NLC 2025 Spring Playoffs","Round 5","Los Ratones","The Ruddy Sack","WWW","","dom","S"],["2025-06-01","NLC 2025 Spring Playoffs","Final","Los Ratones","NORD Esports","WWW","","dom","S"],["2025-06-12","EMEA Masters 2025 Spring","Round of 16","Los Ratones","NORD Esports","WWW","","dom","S"],["2025-06-16","EMEA Masters 2025 Spring","Quarterfinal","Los Ratones","BoostGate Esports","LWLWW","","dom","S"],["2025-06-18","EMEA Masters 2025 Spring","Semifinal","Los Ratones","BK ROG Esports","WWW","","dom","S"],["2025-06-21","EMEA Masters 2025 Spring","Final","Los Ratones","Barça eSports","WWW","","dom","S"],["2025-08-21","NLC 2025 Summer Playoffs","Round 5","Los Ratones","Rich Gang (Norwegian Team)","WWW","","dom","S"],["2025-08-30","NLC 2025 Summer Playoffs","Final","Los Ratones","Verdant","WWW","","dom","S"],["2025-10-12","EMEA Masters 2025 Summer Main Event","Round of 16","Los Ratones","Vitality.Bee","WWW","","dom","S"],["2025-10-17","EMEA Masters 2025 Summer Main Event","Quarterfinal","Los Ratones","Galions","WLWW","","dom","S"],["2025-10-20","EMEA Masters 2025 Summer Main Event","Semifinal","Los Ratones","Karmine Corp Blue","LLL","","dom","S"]],"unknown":[]}
+{
+  "player": "Baus",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2023-09-22","Drututt Ultimate Showdown","Round 1","Low5","Lose in Peace","WLLWL","","dom","S"],
+    ["2023-09-23","Drututt Ultimate Showdown","Round 1","Low5","Pozdrowienia do Więzienia","LLL","","dom","S"],
+    ["2024-11-27","NNO Cup Season 2","Round 1","Los Ratones","Kiedyś Miałem Fun","WWW","","dom","S"],
+    ["2024-11-29","NNO Cup Season 2","Round 2","Los Ratones","No Need Orga","WWLW","","dom","S"],
+    ["2024-12-03","NNO Cup Season 2","Round 4","Los Ratones","French Flair","WWW","","dom","S"],
+    ["2024-12-08","NNO Cup Season 2","Final","Los Ratones","5 Pigs 1 Team","WLWW","","dom","S"],
+    ["2025-02-14","NLC 2025 Winter Playoffs","Round 5","Los Ratones","NORD Esports","WWLW","","dom","S"],
+    ["2025-03-02","NLC 2025 Winter Playoffs","Final","Los Ratones","NORD Esports","WWW","","dom","S"],
+    ["2025-03-20","EMEA Masters 2025 Winter","Quarterfinal","Los Ratones","Papara SuperMassive","LWLWW","","dom","S"],
+    ["2025-03-22","EMEA Masters 2025 Winter","Semifinal","Los Ratones","Team Phantasma","WWW","","dom","S"],
+    ["2025-03-23","EMEA Masters 2025 Winter","Final","Los Ratones","Ici Japon Corp. Esport","WWW","","dom","S"],
+    ["2025-05-08","NLC 2025 Spring Playoffs","Round 3","Los Ratones","Venomcrest Esports","WWW","","dom","S"],
+    ["2025-05-22","NLC 2025 Spring Playoffs","Round 4","Los Ratones","Verdant","WWW","","dom","S"],
+    ["2025-05-31","NLC 2025 Spring Playoffs","Round 5","Los Ratones","The Ruddy Sack","WWW","","dom","S"],
+    ["2025-06-01","NLC 2025 Spring Playoffs","Final","Los Ratones","NORD Esports","WWW","","dom","S"],
+    ["2025-06-12","EMEA Masters 2025 Spring","Round of 16","Los Ratones","NORD Esports","WWW","","dom","S"],
+    ["2025-06-16","EMEA Masters 2025 Spring","Quarterfinal","Los Ratones","BoostGate Esports","LWLWW","","dom","S"],
+    ["2025-06-18","EMEA Masters 2025 Spring","Semifinal","Los Ratones","BK ROG Esports","WWW","","dom","S"],
+    ["2025-06-21","EMEA Masters 2025 Spring","Final","Los Ratones","Barça eSports","WWW","","dom","S"],
+    ["2025-08-21","NLC 2025 Summer Playoffs","Round 5","Los Ratones","Rich Gang (Norwegian Team)","WWW","","dom","S"],
+    ["2025-08-30","NLC 2025 Summer Playoffs","Final","Los Ratones","Verdant","WWW","","dom","S"],
+    ["2025-10-12","EMEA Masters 2025 Summer Main Event","Round of 16","Los Ratones","Vitality.Bee","WWW","","dom","S"],
+    ["2025-10-17","EMEA Masters 2025 Summer Main Event","Quarterfinal","Los Ratones","Galions","WLWW","","dom","S"],
+    ["2025-10-20","EMEA Masters 2025 Summer Main Event","Semifinal","Los Ratones","Karmine Corp Blue","LLL","","dom","S"]
+  ],
+  "unknown": []
+}

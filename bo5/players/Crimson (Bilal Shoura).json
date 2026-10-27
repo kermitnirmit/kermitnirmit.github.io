@@ -1,1 +1,31 @@
-{"player":"Crimson (Bilal Shoura)","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2024-03-25","North American Challengers League 2024 Spring Qualifier 2 Playoffs","Final","CCG Esports","University of Mississippi","WWW","r","dom","S"],["2024-04-05","North American Challengers League 2024 Summer Promotion","Round 4","CCG Esports","LiT Esports","LWWW","","dom","S"],["2024-09-05","North American Challengers League 2024 2025 Spring Promotion","Final","CCG Esports","AOE Esports","WWW","","dom","S"],["2024-12-10","Aegis Champion League 2024 Fall Playoffs","Round 3 &amp; 4","CCG Esports","Peak Performers (North American Team)","WWW","","dom","S"],["2024-12-14","Aegis Champion League 2024 Fall Playoffs","Round 5","CCG Esports","Guangdong Flying Tigers","WWW","r","dom","S"],["2024-12-17","Aegis Champion League 2024 Fall Playoffs","Round 6","CCG Esports","University of Mississippi","WWW","r","dom","S"],["2025-05-22","North American Challengers League 2025 Split 1 Playoffs","Round 1","CCG Esports","Near Airport","LWLL","","dom","S"],["2025-09-16","North American Challengers League 2026 Split 1 Promotion","Round 4","CCG Esports","Apex Mission Impossible","WWW","","dom","S"],["2026-04-18","College League of Legends 2026 Championship","Round 1","Maryville University","Converse University","WWW","r","dom","S"],["2026-04-22","College League of Legends 2026 Championship","Round 2","Maryville University","Northwood University","WWW","r","dom","S"],["2026-05-02","College League of Legends 2026 Championship","Round 4","Maryville University","Grand View University","WWW","r","dom","S"],["2026-05-09","College League of Legends 2026 Championship","Round 6","Maryville University","Winthrop University","WWW","r","dom","S"],["2026-05-30","College League of Legends 2026 Championship","Grand Finals","Maryville University","Winthrop University","WWW","r","dom","S"],["2026-09-03","North American Challengers League 2026 Summer Playoffs","Round 2","Maryville University","Contingent Esports","LWWLW","","dom","S"],["2026-09-09","North American Challengers League 2026 Summer Playoffs","Round 3","Maryville University","NRG","LWWW","","dom","S"],["2026-09-10","North American Challengers League 2026 Summer Playoffs","Round 4","Maryville University","Winthrop University","LWLWW","","dom","S"],["2026-09-11","North American Challengers League 2026 Summer Playoffs","Final","Maryville University","Cupid Esports","LLL","","dom","S"],["2026-10-05","LCS 2027 Promotion","Play-In","Maryville University","Zeu5 Esports","WLWW","","dom","P"],["2026-10-07","LCS 2027 Promotion","Round 1","Maryville University","Disguised","WWLW","","dom","P"],["2026-10-08","LCS 2027 Promotion","Round 2","Maryville University","Cupid Esports","WWW","","dom","P"],["2026-10-12","LCS 2027 Promotion","Final","Maryville University","Disguised","LLL","","dom","P"]],"unknown":[["2024-12-21","Aegis Champion League 2024 Fall Playoffs","Grand Finals","CCG Esports","CCG Glorp","3-1","","dom","S"]]}
+{
+  "player": "Crimson (Bilal Shoura)",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2024-03-25","North American Challengers League 2024 Spring Qualifier 2 Playoffs","Final","CCG Esports","University of Mississippi","WWW","r","dom","S"],
+    ["2024-04-05","North American Challengers League 2024 Summer Promotion","Round 4","CCG Esports","LiT Esports","LWWW","","dom","S"],
+    ["2024-09-05","North American Challengers League 2024 2025 Spring Promotion","Final","CCG Esports","AOE Esports","WWW","","dom","S"],
+    ["2024-12-10","Aegis Champion League 2024 Fall Playoffs","Round 3 &amp; 4","CCG Esports","Peak Performers (North American Team)","WWW","","dom","S"],
+    ["2024-12-14","Aegis Champion League 2024 Fall Playoffs","Round 5","CCG Esports","Guangdong Flying Tigers","WWW","r","dom","S"],
+    ["2024-12-17","Aegis Champion League 2024 Fall Playoffs","Round 6","CCG Esports","University of Mississippi","WWW","r","dom","S"],
+    ["2025-05-22","North American Challengers League 2025 Split 1 Playoffs","Round 1","CCG Esports","Near Airport","LWLL","","dom","S"],
+    ["2025-09-16","North American Challengers League 2026 Split 1 Promotion","Round 4","CCG Esports","Apex Mission Impossible","WWW","","dom","S"],
+    ["2026-04-18","College League of Legends 2026 Championship","Round 1","Maryville University","Converse University","WWW","r","dom","S"],
+    ["2026-04-22","College League of Legends 2026 Championship","Round 2","Maryville University","Northwood University","WWW","r","dom","S"],
+    ["2026-05-02","College League of Legends 2026 Championship","Round 4","Maryville University","Grand View University","WWW","r","dom","S"],
+    ["2026-05-09","College League of Legends 2026 Championship","Round 6","Maryville University","Winthrop University","WWW","r","dom","S"],
+    ["2026-05-30","College League of Legends 2026 Championship","Grand Finals","Maryville University","Winthrop University","WWW","r","dom","S"],
+    ["2026-09-03","North American Challengers League 2026 Summer Playoffs","Round 2","Maryville University","Contingent Esports","LWWLW","","dom","S"],
+    ["2026-09-09","North American Challengers League 2026 Summer Playoffs","Round 3","Maryville University","NRG","LWWW","","dom","S"],
+    ["2026-09-10","North American Challengers League 2026 Summer Playoffs","Round 4","Maryville University","Winthrop University","LWLWW","","dom","S"],
+    ["2026-09-11","North American Challengers League 2026 Summer Playoffs","Final","Maryville University","Cupid Esports","LLL","","dom","S"],
+    ["2026-10-05","LCS 2027 Promotion","Play-In","Maryville University","Zeu5 Esports","WLWW","","dom","P"],
+    ["2026-10-07","LCS 2027 Promotion","Round 1","Maryville University","Disguised","WWLW","","dom","P"],
+    ["2026-10-08","LCS 2027 Promotion","Round 2","Maryville University","Cupid Esports","WWW","","dom","P"],
+    ["2026-10-12","LCS 2027 Promotion","Final","Maryville University","Disguised","LLL","","dom","P"]
+  ],
+  "unknown": [
+    ["2024-12-21","Aegis Champion League 2024 Fall Playoffs","Grand Finals","CCG Esports","CCG Glorp","3-1","","dom","S"]
+  ]
+}

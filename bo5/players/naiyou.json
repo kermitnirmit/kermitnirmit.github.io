@@ -1,1 +1,28 @@
-{"player":"naiyou","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2021-08-30","LDL 2021 Summer Playoffs","Quarterfinal","Top Esports Challenger","Team WE Academy","WWW","","dom","S"],["2023-03-28","LDL 2023 Split 1 Playoffs","Round 1","Top Esports Challenger","Rare Atom Period","WWW","","dom","S"],["2023-03-31","LDL 2023 Split 1 Playoffs","Round 2","Top Esports Challenger","Royal Club","LWWW","","dom","S"],["2023-04-04","LDL 2023 Split 1 Playoffs","Grand Final","Top Esports Challenger","Royal Club","WLLL","","dom","S"],["2023-06-04","M-Zone Cup 2023","Final","Top Esports Challenger","Invictus Gaming Young","WWW","r","dom",""],["2023-06-06","LDL 2023 Split 2 Playoffs","Round 1","Top Esports Challenger","Royal Club","LWLWL","","dom","S"],["2023-06-07","LDL 2023 Split 2 Playoffs","Round 1","Top Esports Challenger","Team WE Academy","WWW","","dom","S"],["2023-06-09","LDL 2023 Split 2 Playoffs","Round 2","Top Esports Challenger","Royal Club","LWWW","","dom","S"],["2023-06-10","LDL 2023 Split 2 Playoffs","Grand Final","Top Esports Challenger","Invictus Gaming Young","LWWW","","dom","S"],["2023-07-30","LDL 2023 Grand Finals","Round 3","Top Esports Challenger","Invictus Gaming Young","LWLWL","","dom","S"],["2024-01-01","Demacia Cup 2023","Quarterfinal","Rare Atom","LNG Esports","WWLW","","dom","P"],["2024-01-04","Demacia Cup 2023","Semifinal","Rare Atom","JD Gaming","LLL","","dom","P"],["2025-08-30","LPL 2025 Grand Finals","Play-In","Ninjas in Pyjamas.CN","FunPlus Phoenix","LWLWW","","dom","P"],["2025-09-08","LPL 2025 Grand Finals","Round 1","Ninjas in Pyjamas.CN","Top Esports","LWLL","","dom","P"],["2025-09-12","LPL 2025 Grand Finals","Round 1","Ninjas in Pyjamas.CN","Anyone's Legend","WLLL","","dom","P"],["2025-12-26","Demacia Cup 2025","Quarterfinal","Top Esports","Invictus Gaming","WLLL","","dom","P"],["2026-02-09","LPL 2026 Split 1 Playoffs","Play-In Round 1","Top Esports","Team WE","LWWLW","","dom","P"],["2026-02-24","LPL 2026 Split 1 Playoffs","Round 1","Top Esports","JD Gaming","WLWLL","","dom","P"],["2026-02-28","LPL 2026 Split 1 Playoffs","Round 1","Top Esports","Team WE","WWW","","dom","P"],["2026-03-02","LPL 2026 Split 1 Playoffs","Round 2","Top Esports","Weibo Gaming","LWLWL","","dom","P"]],"unknown":[]}
+{
+  "player": "naiyou",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2021-08-30","LDL 2021 Summer Playoffs","Quarterfinal","Top Esports Challenger","Team WE Academy","WWW","","dom","S"],
+    ["2023-03-28","LDL 2023 Split 1 Playoffs","Round 1","Top Esports Challenger","Rare Atom Period","WWW","","dom","S"],
+    ["2023-03-31","LDL 2023 Split 1 Playoffs","Round 2","Top Esports Challenger","Royal Club","LWWW","","dom","S"],
+    ["2023-04-04","LDL 2023 Split 1 Playoffs","Grand Final","Top Esports Challenger","Royal Club","WLLL","","dom","S"],
+    ["2023-06-04","M-Zone Cup 2023","Final","Top Esports Challenger","Invictus Gaming Young","WWW","r","dom",""],
+    ["2023-06-06","LDL 2023 Split 2 Playoffs","Round 1","Top Esports Challenger","Royal Club","LWLWL","","dom","S"],
+    ["2023-06-07","LDL 2023 Split 2 Playoffs","Round 1","Top Esports Challenger","Team WE Academy","WWW","","dom","S"],
+    ["2023-06-09","LDL 2023 Split 2 Playoffs","Round 2","Top Esports Challenger","Royal Club","LWWW","","dom","S"],
+    ["2023-06-10","LDL 2023 Split 2 Playoffs","Grand Final","Top Esports Challenger","Invictus Gaming Young","LWWW","","dom","S"],
+    ["2023-07-30","LDL 2023 Grand Finals","Round 3","Top Esports Challenger","Invictus Gaming Young","LWLWL","","dom","S"],
+    ["2024-01-01","Demacia Cup 2023","Quarterfinal","Rare Atom","LNG Esports","WWLW","","dom","P"],
+    ["2024-01-04","Demacia Cup 2023","Semifinal","Rare Atom","JD Gaming","LLL","","dom","P"],
+    ["2025-08-30","LPL 2025 Grand Finals","Play-In","Ninjas in Pyjamas.CN","FunPlus Phoenix","LWLWW","","dom","P"],
+    ["2025-09-08","LPL 2025 Grand Finals","Round 1","Ninjas in Pyjamas.CN","Top Esports","LWLL","","dom","P"],
+    ["2025-09-12","LPL 2025 Grand Finals","Round 1","Ninjas in Pyjamas.CN","Anyone's Legend","WLLL","","dom","P"],
+    ["2025-12-26","Demacia Cup 2025","Quarterfinal","Top Esports","Invictus Gaming","WLLL","","dom","P"],
+    ["2026-02-09","LPL 2026 Split 1 Playoffs","Play-In Round 1","Top Esports","Team WE","LWWLW","","dom","P"],
+    ["2026-02-24","LPL 2026 Split 1 Playoffs","Round 1","Top Esports","JD Gaming","WLWLL","","dom","P"],
+    ["2026-02-28","LPL 2026 Split 1 Playoffs","Round 1","Top Esports","Team WE","WWW","","dom","P"],
+    ["2026-03-02","LPL 2026 Split 1 Playoffs","Round 2","Top Esports","Weibo Gaming","LWLWL","","dom","P"]
+  ],
+  "unknown": []
+}

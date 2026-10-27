@@ -1,1 +1,33 @@
-{"player":"Pilot (Na Woo-hyung)","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2015-04-17","Champions 2015 Spring Playoffs","Round 1","Jin Air Green Wings","CJ Entus","LLL","p","dom","P"],["2015-08-11","Challengers Korea 2015 Summer Playoffs","Scoreboards","Jin Air Green Wings","Incredible Miracle","WLWW","p","dom","S"],["2015-09-02","Season Korea Regional Finals 2015","Round 1","Jin Air Green Wings","NaJin e-mFire","WWW","","dom","P"],["2015-09-04","Season Korea Regional Finals 2015","Round 2","Jin Air Green Wings","CJ Entus","WWLLW","","dom","P"],["2015-09-05","Season Korea Regional Finals 2015","Round 3","Jin Air Green Wings","KT Rolster","LLWL","","dom","P"],["2016-04-15","LCK 2016 Spring Playoffs","Round 2","Jin Air Green Wings","SK Telecom T1","LWLL","","dom","P"],["2016-08-29","LCK 2016 Regional Finals","Round 1","Jin Air Green Wings","Afreeca Freecs","WWLLL","","dom","P"],["2017-03-26","EU Challenger Series 2017 Spring Playoffs","Qualifiers","Paris Saint-Germain eSports","Fnatic Academy","WLLWL","","dom","S"],["2018-04-19","LCK 2018 Summer Promotion","Qualifying Round","MVP","Griffin (Korean Team)","WLLL","","dom","P"],["2018-04-22","LCK 2018 Summer Promotion","Qualifying Round","MVP","Kongdoo Monster","WLWLW","","dom","P"],["2018-09-21","LCK 2019 Spring Promotion","Elimination Round","MVP","bbq Olivers","WLWW","","dom","P"],["2018-09-22","LCK 2019 Spring Promotion","Qualifying Round","MVP","Team BattleComics","LLL","","dom","P"],["2019-03-29","TCL 2019 Winter Playoffs","Quarterfinal","Royal Youth","Dark Passage","WWW","","dom","P"],["2019-04-06","TCL 2019 Winter Playoffs","Semifinal","Royal Youth","SuperMassive Esports","LLWWL","","dom","P"],["2019-08-24","TCL 2019 Summer Playoffs","Semifinal","Royal Youth","Team AURORA","WWW","","dom","P"],["2019-08-31","TCL 2019 Summer Playoffs","Final","Royal Youth","SuperMassive Esports","LWLWW","","dom","P"],["2019-10-07","Worlds 2019","Round 2","Royal Youth","Clutch Gaming","LLL","","worlds","P"],["2019-12-18","Challengers Korea 2020 Spring Promotion","Qualifiers","Rockhead","GC Busan Ascension","LLL","r","dom","S"],["2020-08-24","Challengers Korea 2020 Summer Playoffs","Round 1","OZ Gaming","RunAway","WLWW","","dom","S"],["2020-08-27","Challengers Korea 2020 Summer Playoffs","Round 2","OZ Gaming","Awesome Spear","LLL","","dom","S"],["2025-05-05","Legend Cup Season 3 Korea","Round 1","Pilot's Landing Team","Ace's Calm Mind","LWLWL","","dom","S"],["2025-05-06","Legend Cup Season 3 Korea","Round 1","Pilot's Landing Team","Pawn General Commander","LLWWW","","dom","S"],["2025-05-07","Legend Cup Season 3 Korea","Round 2","Pilot's Landing Team","Kakao Assassin Crew","WWW","","dom","S"],["2025-05-10","Legend Cup Season 3 Korea","Semifinal","Pilot's Landing Team","Rain's Never Surrender","WWW","","dom","S"],["2025-05-11","Legend Cup Season 3 Korea","Final","Pilot's Landing Team","Ace's Calm Mind","LLL","","dom","S"]],"unknown":[]}
+{
+  "player": "Pilot (Na Woo-hyung)",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2015-04-17","Champions 2015 Spring Playoffs","Round 1","Jin Air Green Wings","CJ Entus","LLL","p","dom","P"],
+    ["2015-08-11","Challengers Korea 2015 Summer Playoffs","Scoreboards","Jin Air Green Wings","Incredible Miracle","WLWW","p","dom","S"],
+    ["2015-09-02","Season Korea Regional Finals 2015","Round 1","Jin Air Green Wings","NaJin e-mFire","WWW","","dom","P"],
+    ["2015-09-04","Season Korea Regional Finals 2015","Round 2","Jin Air Green Wings","CJ Entus","WWLLW","","dom","P"],
+    ["2015-09-05","Season Korea Regional Finals 2015","Round 3","Jin Air Green Wings","KT Rolster","LLWL","","dom","P"],
+    ["2016-04-15","LCK 2016 Spring Playoffs","Round 2","Jin Air Green Wings","SK Telecom T1","LWLL","","dom","P"],
+    ["2016-08-29","LCK 2016 Regional Finals","Round 1","Jin Air Green Wings","Afreeca Freecs","WWLLL","","dom","P"],
+    ["2017-03-26","EU Challenger Series 2017 Spring Playoffs","Qualifiers","Paris Saint-Germain eSports","Fnatic Academy","WLLWL","","dom","S"],
+    ["2018-04-19","LCK 2018 Summer Promotion","Qualifying Round","MVP","Griffin (Korean Team)","WLLL","","dom","P"],
+    ["2018-04-22","LCK 2018 Summer Promotion","Qualifying Round","MVP","Kongdoo Monster","WLWLW","","dom","P"],
+    ["2018-09-21","LCK 2019 Spring Promotion","Elimination Round","MVP","bbq Olivers","WLWW","","dom","P"],
+    ["2018-09-22","LCK 2019 Spring Promotion","Qualifying Round","MVP","Team BattleComics","LLL","","dom","P"],
+    ["2019-03-29","TCL 2019 Winter Playoffs","Quarterfinal","Royal Youth","Dark Passage","WWW","","dom","P"],
+    ["2019-04-06","TCL 2019 Winter Playoffs","Semifinal","Royal Youth","SuperMassive Esports","LLWWL","","dom","P"],
+    ["2019-08-24","TCL 2019 Summer Playoffs","Semifinal","Royal Youth","Team AURORA","WWW","","dom","P"],
+    ["2019-08-31","TCL 2019 Summer Playoffs","Final","Royal Youth","SuperMassive Esports","LWLWW","","dom","P"],
+    ["2019-10-07","Worlds 2019","Round 2","Royal Youth","Clutch Gaming","LLL","","worlds","P"],
+    ["2019-12-18","Challengers Korea 2020 Spring Promotion","Qualifiers","Rockhead","GC Busan Ascension","LLL","r","dom","S"],
+    ["2020-08-24","Challengers Korea 2020 Summer Playoffs","Round 1","OZ Gaming","RunAway","WLWW","","dom","S"],
+    ["2020-08-27","Challengers Korea 2020 Summer Playoffs","Round 2","OZ Gaming","Awesome Spear","LLL","","dom","S"],
+    ["2025-05-05","Legend Cup Season 3 Korea","Round 1","Pilot's Landing Team","Ace's Calm Mind","LWLWL","","dom","S"],
+    ["2025-05-06","Legend Cup Season 3 Korea","Round 1","Pilot's Landing Team","Pawn General Commander","LLWWW","","dom","S"],
+    ["2025-05-07","Legend Cup Season 3 Korea","Round 2","Pilot's Landing Team","Kakao Assassin Crew","WWW","","dom","S"],
+    ["2025-05-10","Legend Cup Season 3 Korea","Semifinal","Pilot's Landing Team","Rain's Never Surrender","WWW","","dom","S"],
+    ["2025-05-11","Legend Cup Season 3 Korea","Final","Pilot's Landing Team","Ace's Calm Mind","LLL","","dom","S"]
+  ],
+  "unknown": []
+}

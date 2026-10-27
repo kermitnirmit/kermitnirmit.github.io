@@ -1,1 +1,33 @@
-{"player":"XoNix","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2020-08-16","LCL 2020 Summer Playoffs","Semifinal","CrowCrowd","Gambit Esports","LLL","","dom","P"],["2021-04-04","LCL 2021 Spring Playoffs","Semifinal","One Breath Gaming","CrowCrowd","LLL","","dom","P"],["2021-08-14","LCL 2021 Summer Playoffs","Round 1","One Breath Gaming","CrowCrowd","WLLL","","dom","P"],["2021-08-15","LCL 2021 Summer Playoffs","Round 2","One Breath Gaming","Vega Squadron","WWW","","dom","P"],["2021-08-22","LCL 2021 Summer Playoffs","Round 3","One Breath Gaming","Unicorns of Love.CIS","WWLLL","","dom","P"],["2021-11-04","Prime League Pro Division 2021 Summer Relegations","Round 1","WAVE Esports","TT willhaben","WWW","","dom","S"],["2021-11-10","Prime League Pro Division 2021 Summer Relegations","Round 2","WAVE Esports","EURONICS Gaming","WLWLW","","dom","S"],["2022-03-08","PG Nationals 2022 Spring Playoffs","Round 1","Atleta Esport","Macko Esports","WLLL","","dom","S"],["2022-03-13","PG Nationals 2022 Spring Playoffs","Semifinal","Atleta Esport","GGEsports","WWW","","dom","S"],["2022-03-20","PG Nationals 2022 Spring Playoffs","Final","Atleta Esport","Macko Esports","WWW","","dom","S"],["2022-07-27","PG Nationals 2022 Summer Playoffs","Round 1","Atleta Esport","aNc Outplayed","LLWL","","dom","S"],["2022-10-25","Red Bull Factions 2022 Main Event","Semifinal","Atleta Esport","aNc Outplayed","WLWW","","dom","S"],["2022-11-04","Red Bull Factions 2022 Main Event","Final","Atleta Esport","Macko Esports","LLWL","","dom","S"],["2023-03-17","PG Nationals 2023 Spring Playoffs","Round 1","DSYRE","Axolotl","WWLW","","dom","S"],["2023-03-24","PG Nationals 2023 Spring Playoffs","Semifinal","DSYRE","aNc Outplayed","WLLL","","dom","S"],["2023-07-26","PG Nationals 2023 Summer Playoffs","Round 1","DSYRE","Macko Esports","LWLL","","dom","S"],["2023-07-31","PG Nationals 2023 Summer Playoffs","Semifinal","DSYRE","Atleta Esport","WWW","","dom","S"],["2023-08-05","PG Nationals 2023 Summer Playoffs","Final","DSYRE","Macko Esports","LWLL","","dom","S"],["2023-11-04","PG Nats Ultima Battaglia 2023","Grand Final","DSYRE","Macko Esports","LLL","","dom","S"],["2024-03-20","Greek Legends League 2024 Spring Playoffs","Round 1","WLGaming Esports","Gamespace Mediterranean College Esports","LWLL","","dom","S"],["2024-09-19","Keysie Streamers Invitational Season 5","Round 1","Гены Нойки","Вайфочки Даймонда","LLWL","r","dom",""],["2025-07-30","Keysie Streamers Invitational Season 6","Round 1","Лудоманы Генерала","Единороги Номанза","LWLL","r","dom",""],["2025-07-31","Keysie Streamers Invitational Season 6","Round 1","Лудоманы Генерала","Персики Лины","LWLL","r","dom",""]],"unknown":[["2024-04-18","Keysie Streamers Invitational Season 4","Round 1","Базуки Марибабу","Пропущенные Телеги Анхоли","2-3","","dom",""]]}
+{
+  "player": "XoNix",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2020-08-16","LCL 2020 Summer Playoffs","Semifinal","CrowCrowd","Gambit Esports","LLL","","dom","P"],
+    ["2021-04-04","LCL 2021 Spring Playoffs","Semifinal","One Breath Gaming","CrowCrowd","LLL","","dom","P"],
+    ["2021-08-14","LCL 2021 Summer Playoffs","Round 1","One Breath Gaming","CrowCrowd","WLLL","","dom","P"],
+    ["2021-08-15","LCL 2021 Summer Playoffs","Round 2","One Breath Gaming","Vega Squadron","WWW","","dom","P"],
+    ["2021-08-22","LCL 2021 Summer Playoffs","Round 3","One Breath Gaming","Unicorns of Love.CIS","WWLLL","","dom","P"],
+    ["2021-11-04","Prime League Pro Division 2021 Summer Relegations","Round 1","WAVE Esports","TT willhaben","WWW","","dom","S"],
+    ["2021-11-10","Prime League Pro Division 2021 Summer Relegations","Round 2","WAVE Esports","EURONICS Gaming","WLWLW","","dom","S"],
+    ["2022-03-08","PG Nationals 2022 Spring Playoffs","Round 1","Atleta Esport","Macko Esports","WLLL","","dom","S"],
+    ["2022-03-13","PG Nationals 2022 Spring Playoffs","Semifinal","Atleta Esport","GGEsports","WWW","","dom","S"],
+    ["2022-03-20","PG Nationals 2022 Spring Playoffs","Final","Atleta Esport","Macko Esports","WWW","","dom","S"],
+    ["2022-07-27","PG Nationals 2022 Summer Playoffs","Round 1","Atleta Esport","aNc Outplayed","LLWL","","dom","S"],
+    ["2022-10-25","Red Bull Factions 2022 Main Event","Semifinal","Atleta Esport","aNc Outplayed","WLWW","","dom","S"],
+    ["2022-11-04","Red Bull Factions 2022 Main Event","Final","Atleta Esport","Macko Esports","LLWL","","dom","S"],
+    ["2023-03-17","PG Nationals 2023 Spring Playoffs","Round 1","DSYRE","Axolotl","WWLW","","dom","S"],
+    ["2023-03-24","PG Nationals 2023 Spring Playoffs","Semifinal","DSYRE","aNc Outplayed","WLLL","","dom","S"],
+    ["2023-07-26","PG Nationals 2023 Summer Playoffs","Round 1","DSYRE","Macko Esports","LWLL","","dom","S"],
+    ["2023-07-31","PG Nationals 2023 Summer Playoffs","Semifinal","DSYRE","Atleta Esport","WWW","","dom","S"],
+    ["2023-08-05","PG Nationals 2023 Summer Playoffs","Final","DSYRE","Macko Esports","LWLL","","dom","S"],
+    ["2023-11-04","PG Nats Ultima Battaglia 2023","Grand Final","DSYRE","Macko Esports","LLL","","dom","S"],
+    ["2024-03-20","Greek Legends League 2024 Spring Playoffs","Round 1","WLGaming Esports","Gamespace Mediterranean College Esports","LWLL","","dom","S"],
+    ["2024-09-19","Keysie Streamers Invitational Season 5","Round 1","Гены Нойки","Вайфочки Даймонда","LLWL","r","dom",""],
+    ["2025-07-30","Keysie Streamers Invitational Season 6","Round 1","Лудоманы Генерала","Единороги Номанза","LWLL","r","dom",""],
+    ["2025-07-31","Keysie Streamers Invitational Season 6","Round 1","Лудоманы Генерала","Персики Лины","LWLL","r","dom",""]
+  ],
+  "unknown": [
+    ["2024-04-18","Keysie Streamers Invitational Season 4","Round 1","Базуки Марибабу","Пропущенные Телеги Анхоли","2-3","","dom",""]
+  ]
+}

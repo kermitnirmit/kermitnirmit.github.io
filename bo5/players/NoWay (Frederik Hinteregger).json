@@ -1,1 +1,42 @@
-{"player":"NoWay (Frederik Hinteregger)","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2018-08-25","Premier Tour 2018 Summer/Stop 3 - Gamescom","Final","EURONICS Gaming","SK Gaming","WWW","r","dom",""],["2018-11-27","Summoner's Inn League Season 1 Playoffs","Round 1","EURONICS Gaming","Berlin International Gaming","WWW","r","dom",""],["2022-04-11","Prime League 2nd Division 2022 Spring Playoffs","Round 2","No Need Orga","Hertha BSC eSport","WLLWW","","dom","S"],["2022-04-18","Prime League 2nd Division 2022 Spring Playoffs","Final","No Need Orga","Hertha BSC eSport","LLL","","dom","S"],["2022-08-08","Prime League 2nd Division 2022 Summer Playoffs","Round 1","No Need Orga","KIT SC SmartWe","WLWW","","dom","S"],["2022-08-15","Prime League 2nd Division 2022 Summer Playoffs","Round 2","No Need Orga","Sprout (German Team)","WWLLW","","dom","S"],["2022-08-18","Prime League 2nd Division 2022 Summer Playoffs","Semifinal","No Need Orga","Eintracht Frankfurt","LWLWW","","dom","S"],["2022-08-23","Prime League 2nd Division 2022 Summer Playoffs","Final","No Need Orga","Hertha BSC eSport","WLLWW","","dom","S"],["2022-09-24","Prime League 1st Division 2023 Promotion","Round 2","No Need Orga","WAVE Esports","LWLL","","dom","S"],["2022-09-27","Prime League 1st Division 2023 Promotion","Round 2","No Need Orga","Hertha BSC eSport","LLWWW","","dom","S"],["2024-07-04","VININE Summer Face-Off 2024","Round 4","Team NoWay","Team Midbeast","WWLW","","dom","S"],["2024-07-12","VININE Summer Face-Off 2024","Grand Final","Team NoWay","Team Agurin","LLL","","dom","S"],["2024-11-27","NNO Cup Season 2","Round 1","No Need Orga","Never FF","LWLWW","","dom","S"],["2024-11-29","NNO Cup Season 2","Round 2","No Need Orga","Los Ratones","LLWL","","dom","S"],["2024-12-02","NNO Cup Season 2","Round 2","No Need Orga","Los Guarros","LWLL","","dom","S"],["2025-02-14","NLC 2025 Winter Playoffs","Round 5","NORD Esports","Los Ratones","LLWL","","dom","S"],["2025-03-01","NLC 2025 Winter Playoffs","Round 5","NORD Esports","Bulldog Esports","WWLW","","dom","S"],["2025-03-02","NLC 2025 Winter Playoffs","Final","NORD Esports","Los Ratones","LLL","","dom","S"],["2025-05-15","NLC 2025 Spring Playoffs","Round 5","NORD Esports","The Ruddy Sack","LWWW","","dom","S"],["2025-06-01","NLC 2025 Spring Playoffs","Final","NORD Esports","Los Ratones","LLL","","dom","S"],["2025-06-12","EMEA Masters 2025 Spring","Round of 16","NORD Esports","Los Ratones","LLL","","dom","S"],["2025-12-13","Prime League 2nd Division 2026 Fall Relegation","Round 4","No Need Orga","Kanji Esports","WWW","r","dom","S"],["2025-12-14","Prime League 2nd Division 2026 Fall Relegation","Round 5","No Need Orga","Esport Factory","WWW","r","dom","S"],["2026-07-25","Prime League 2nd Division 2026 Spring Relegation","Round 5","No Need Orga","VfB x Engines Stuttgart","WWW","r","dom","S"]],"unknown":[["2018-07-08","Premier Tour 2018 Summer/Stop 1 - Hamburg","Final","EURONICS Gaming","Berlin International Gaming","3-1","","dom",""],["2018-07-29","Premier Tour 2018 Summer/Stop 2 - Berlin","Final","EURONICS Gaming","mousesports","3-1","","dom",""],["2018-09-07","Summoner's Inn League Season 0.5","Final","EURONICS Gaming","mousesports","3-2","","dom",""],["2018-10-14","Premier Tour 2018 Winter/Stop 1 - Bern","Final","EURONICS Gaming","SK Gaming","3-1","","dom",""],["2018-12-03","Summoner's Inn League Season 1 Playoffs","Round 2","EURONICS Gaming","SK Gaming","3-1","","dom",""],["2018-12-11","Summoner's Inn League Season 1 Playoffs","Final","EURONICS Gaming","mousesports","2-3","","dom",""],["2026-04-11","Prime League 2nd Division 2026 Winter Relegation","Round 4","No Need Orga","Black Lion","3-2","","dom","S"],["2026-04-12","Prime League 2nd Division 2026 Winter Relegation","Round 5","No Need Orga","PvB (Swiss Team)","1-3","","dom","S"],["2026-04-14","Prime League 2nd Division 2026 Winter Relegation","Round 6","No Need Orga","LOOKSMAXXER","1-3","","dom","S"]]}
+{
+  "player": "NoWay (Frederik Hinteregger)",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2018-08-25","Premier Tour 2018 Summer/Stop 3 - Gamescom","Final","EURONICS Gaming","SK Gaming","WWW","r","dom",""],
+    ["2018-11-27","Summoner's Inn League Season 1 Playoffs","Round 1","EURONICS Gaming","Berlin International Gaming","WWW","r","dom",""],
+    ["2022-04-11","Prime League 2nd Division 2022 Spring Playoffs","Round 2","No Need Orga","Hertha BSC eSport","WLLWW","","dom","S"],
+    ["2022-04-18","Prime League 2nd Division 2022 Spring Playoffs","Final","No Need Orga","Hertha BSC eSport","LLL","","dom","S"],
+    ["2022-08-08","Prime League 2nd Division 2022 Summer Playoffs","Round 1","No Need Orga","KIT SC SmartWe","WLWW","","dom","S"],
+    ["2022-08-15","Prime League 2nd Division 2022 Summer Playoffs","Round 2","No Need Orga","Sprout (German Team)","WWLLW","","dom","S"],
+    ["2022-08-18","Prime League 2nd Division 2022 Summer Playoffs","Semifinal","No Need Orga","Eintracht Frankfurt","LWLWW","","dom","S"],
+    ["2022-08-23","Prime League 2nd Division 2022 Summer Playoffs","Final","No Need Orga","Hertha BSC eSport","WLLWW","","dom","S"],
+    ["2022-09-24","Prime League 1st Division 2023 Promotion","Round 2","No Need Orga","WAVE Esports","LWLL","","dom","S"],
+    ["2022-09-27","Prime League 1st Division 2023 Promotion","Round 2","No Need Orga","Hertha BSC eSport","LLWWW","","dom","S"],
+    ["2024-07-04","VININE Summer Face-Off 2024","Round 4","Team NoWay","Team Midbeast","WWLW","","dom","S"],
+    ["2024-07-12","VININE Summer Face-Off 2024","Grand Final","Team NoWay","Team Agurin","LLL","","dom","S"],
+    ["2024-11-27","NNO Cup Season 2","Round 1","No Need Orga","Never FF","LWLWW","","dom","S"],
+    ["2024-11-29","NNO Cup Season 2","Round 2","No Need Orga","Los Ratones","LLWL","","dom","S"],
+    ["2024-12-02","NNO Cup Season 2","Round 2","No Need Orga","Los Guarros","LWLL","","dom","S"],
+    ["2025-02-14","NLC 2025 Winter Playoffs","Round 5","NORD Esports","Los Ratones","LLWL","","dom","S"],
+    ["2025-03-01","NLC 2025 Winter Playoffs","Round 5","NORD Esports","Bulldog Esports","WWLW","","dom","S"],
+    ["2025-03-02","NLC 2025 Winter Playoffs","Final","NORD Esports","Los Ratones","LLL","","dom","S"],
+    ["2025-05-15","NLC 2025 Spring Playoffs","Round 5","NORD Esports","The Ruddy Sack","LWWW","","dom","S"],
+    ["2025-06-01","NLC 2025 Spring Playoffs","Final","NORD Esports","Los Ratones","LLL","","dom","S"],
+    ["2025-06-12","EMEA Masters 2025 Spring","Round of 16","NORD Esports","Los Ratones","LLL","","dom","S"],
+    ["2025-12-13","Prime League 2nd Division 2026 Fall Relegation","Round 4","No Need Orga","Kanji Esports","WWW","r","dom","S"],
+    ["2025-12-14","Prime League 2nd Division 2026 Fall Relegation","Round 5","No Need Orga","Esport Factory","WWW","r","dom","S"],
+    ["2026-07-25","Prime League 2nd Division 2026 Spring Relegation","Round 5","No Need Orga","VfB x Engines Stuttgart","WWW","r","dom","S"]
+  ],
+  "unknown": [
+    ["2018-07-08","Premier Tour 2018 Summer/Stop 1 - Hamburg","Final","EURONICS Gaming","Berlin International Gaming","3-1","","dom",""],
+    ["2018-07-29","Premier Tour 2018 Summer/Stop 2 - Berlin","Final","EURONICS Gaming","mousesports","3-1","","dom",""],
+    ["2018-09-07","Summoner's Inn League Season 0.5","Final","EURONICS Gaming","mousesports","3-2","","dom",""],
+    ["2018-10-14","Premier Tour 2018 Winter/Stop 1 - Bern","Final","EURONICS Gaming","SK Gaming","3-1","","dom",""],
+    ["2018-12-03","Summoner's Inn League Season 1 Playoffs","Round 2","EURONICS Gaming","SK Gaming","3-1","","dom",""],
+    ["2018-12-11","Summoner's Inn League Season 1 Playoffs","Final","EURONICS Gaming","mousesports","2-3","","dom",""],
+    ["2026-04-11","Prime League 2nd Division 2026 Winter Relegation","Round 4","No Need Orga","Black Lion","3-2","","dom","S"],
+    ["2026-04-12","Prime League 2nd Division 2026 Winter Relegation","Round 5","No Need Orga","PvB (Swiss Team)","1-3","","dom","S"],
+    ["2026-04-14","Prime League 2nd Division 2026 Winter Relegation","Round 6","No Need Orga","LOOKSMAXXER","1-3","","dom","S"]
+  ]
+}

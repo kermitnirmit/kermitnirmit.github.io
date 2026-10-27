@@ -1,1 +1,32 @@
-{"player":"Undefined","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2021-11-20","GLWL 2021 Winter Playoffs","Round 1","Zerolag Esports Academy","Pentagon Maze","WLWW","p","dom","S"],["2022-03-12","GLWL 2022 Spring Playoffs","Round 1","Wild Panthers Esports","Emperor Gaming","WWLLL","","dom","S"],["2022-07-22","GLWL 2022 Summer Playoffs","Round 1","Wild Panthers Esports","Project Sinners","LLL","","dom","S"],["2022-07-24","GLWL 2022 Summer Playoffs","Semifinal","Wild Panthers Esports","Pentagon Maze","WWW","","dom","S"],["2022-07-27","GLWL 2022 Summer Playoffs","Final","Wild Panthers Esports","Project Sinners","LLWWW","","dom","S"],["2022-09-13","Greek Legends League 2023 Spring Promotion","Round 1","Wild Panthers Esports","Team Refuse","WWW","","dom","S"],["2022-09-19","Greek Legends League 2023 Spring Promotion","Round 2","Wild Panthers Esports","Gamespace Mediterranean College Esports","WWW","","dom","S"],["2023-08-01","PG Proving Grounds 2023 Summer Playoffs","Round 1","Underworld Esports","NOVO Esports","LLWWL","","dom","S"],["2023-08-06","PG Proving Grounds 2023 Summer Playoffs","Semifinal","Underworld Esports","Away from Normal","WLLWW","","dom","S"],["2023-08-08","PG Proving Grounds 2023 Summer Playoffs","Final","Underworld Esports","NOVO Esports","LLWWL","","dom","S"],["2024-03-12","Blooming Talents League 2024 Spring Relegations","Relegations","NOVO Next Gen","Underworld Esports","LLL","","dom","S"],["2025-02-02","Hellenic Challengers Cup 2025 Winter Split/Tournament 1","Final","Howl Esports","Paranormal Invaders","WWW","","dom","S"],["2025-02-09","Hellenic Challengers Cup 2025 Winter Split/Tournament 2","Final","Howl Esports","SINS Esports","WLLWL","","dom","S"],["2025-05-16","Hellenic Legends League 2025 Spring Playoffs","Round 2","Team Insidious","Team Phantasma","LLL","","dom","S"],["2025-05-17","Hellenic Legends League 2025 Spring Playoffs","Round 2","Team Insidious","Actions Per Minute","WWW","","dom","S"],["2025-05-31","Hellenic Legends League 2025 Spring Playoffs","Round 3","Team Insidious","Team Phantasma","LLL","","dom","S"],["2025-07-19","Hellenic Legends League 2025 Summer Super Cup","Quarterfinal","Team Paradox","Actions Per Minute","WWW","","dom","S"],["2025-07-23","Hellenic Legends League 2025 Summer Super Cup","Semifinal","Team Paradox","Gamespace Mediterranean College Esports","LWLL","","dom","S"],["2025-07-26","Hellenic Legends League 2025 Summer Super Cup","Third-Place Match","Team Paradox","Team Insidious","LLWL","","dom","S"],["2025-08-28","Hellenic Legends League 2025 Season Finals","Quarterfinal","Team Paradox","WLGaming Esports","WWW","","dom","S"],["2025-09-03","Hellenic Legends League 2025 Season Finals","Semifinal","Team Paradox","Team Phantasma","LLL","","dom","S"],["2025-09-13","Hellenic Legends League 2025 Season Finals","Third-Place Match","Team Paradox","Team Insidious","WLLWL","","dom","S"],["2026-05-09","Hellenic Challengers Cup 2026 Spring Playoffs","Semifinal","Paranormal Invaders","EKSI EPTA","LWLL","","dom","S"],["2026-05-19","Hellenic Legends League 2026 Summer Promotion","Promotion","Paranormal Invaders","ALMO Players","LLWL","","dom","S"]],"unknown":[]}
+{
+  "player": "Undefined",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2021-11-20","GLWL 2021 Winter Playoffs","Round 1","Zerolag Esports Academy","Pentagon Maze","WLWW","p","dom","S"],
+    ["2022-03-12","GLWL 2022 Spring Playoffs","Round 1","Wild Panthers Esports","Emperor Gaming","WWLLL","","dom","S"],
+    ["2022-07-22","GLWL 2022 Summer Playoffs","Round 1","Wild Panthers Esports","Project Sinners","LLL","","dom","S"],
+    ["2022-07-24","GLWL 2022 Summer Playoffs","Semifinal","Wild Panthers Esports","Pentagon Maze","WWW","","dom","S"],
+    ["2022-07-27","GLWL 2022 Summer Playoffs","Final","Wild Panthers Esports","Project Sinners","LLWWW","","dom","S"],
+    ["2022-09-13","Greek Legends League 2023 Spring Promotion","Round 1","Wild Panthers Esports","Team Refuse","WWW","","dom","S"],
+    ["2022-09-19","Greek Legends League 2023 Spring Promotion","Round 2","Wild Panthers Esports","Gamespace Mediterranean College Esports","WWW","","dom","S"],
+    ["2023-08-01","PG Proving Grounds 2023 Summer Playoffs","Round 1","Underworld Esports","NOVO Esports","LLWWL","","dom","S"],
+    ["2023-08-06","PG Proving Grounds 2023 Summer Playoffs","Semifinal","Underworld Esports","Away from Normal","WLLWW","","dom","S"],
+    ["2023-08-08","PG Proving Grounds 2023 Summer Playoffs","Final","Underworld Esports","NOVO Esports","LLWWL","","dom","S"],
+    ["2024-03-12","Blooming Talents League 2024 Spring Relegations","Relegations","NOVO Next Gen","Underworld Esports","LLL","","dom","S"],
+    ["2025-02-02","Hellenic Challengers Cup 2025 Winter Split/Tournament 1","Final","Howl Esports","Paranormal Invaders","WWW","","dom","S"],
+    ["2025-02-09","Hellenic Challengers Cup 2025 Winter Split/Tournament 2","Final","Howl Esports","SINS Esports","WLLWL","","dom","S"],
+    ["2025-05-16","Hellenic Legends League 2025 Spring Playoffs","Round 2","Team Insidious","Team Phantasma","LLL","","dom","S"],
+    ["2025-05-17","Hellenic Legends League 2025 Spring Playoffs","Round 2","Team Insidious","Actions Per Minute","WWW","","dom","S"],
+    ["2025-05-31","Hellenic Legends League 2025 Spring Playoffs","Round 3","Team Insidious","Team Phantasma","LLL","","dom","S"],
+    ["2025-07-19","Hellenic Legends League 2025 Summer Super Cup","Quarterfinal","Team Paradox","Actions Per Minute","WWW","","dom","S"],
+    ["2025-07-23","Hellenic Legends League 2025 Summer Super Cup","Semifinal","Team Paradox","Gamespace Mediterranean College Esports","LWLL","","dom","S"],
+    ["2025-07-26","Hellenic Legends League 2025 Summer Super Cup","Third-Place Match","Team Paradox","Team Insidious","LLWL","","dom","S"],
+    ["2025-08-28","Hellenic Legends League 2025 Season Finals","Quarterfinal","Team Paradox","WLGaming Esports","WWW","","dom","S"],
+    ["2025-09-03","Hellenic Legends League 2025 Season Finals","Semifinal","Team Paradox","Team Phantasma","LLL","","dom","S"],
+    ["2025-09-13","Hellenic Legends League 2025 Season Finals","Third-Place Match","Team Paradox","Team Insidious","WLLWL","","dom","S"],
+    ["2026-05-09","Hellenic Challengers Cup 2026 Spring Playoffs","Semifinal","Paranormal Invaders","EKSI EPTA","LWLL","","dom","S"],
+    ["2026-05-19","Hellenic Legends League 2026 Summer Promotion","Promotion","Paranormal Invaders","ALMO Players","LLWL","","dom","S"]
+  ],
+  "unknown": []
+}

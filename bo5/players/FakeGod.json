@@ -1,1 +1,28 @@
-{"player":"FakeGod","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2019-03-21","NA Academy League 2019 Spring Playoffs","Quarterfinal","100 Thieves Academy","Echo Fox Academy","LWLWL","","dom","S"],["2020-04-02","NA Academy League 2020 Spring Playoffs","Quarterfinal","100 Thieves Academy","TSM Academy","LLL","","dom","S"],["2020-08-15","NA Academy League 2020 Summer Playoffs","Quarterfinal","100 Thieves Academy","Evil Geniuses Academy","LLL","","dom","S"],["2021-03-28","LCS 2021 Mid-Season Showdown","Round 1","Dignitas","100 Thieves","LLL","","dom","P"],["2021-08-07","LCS 2021 Championship","Round 1","Dignitas","Evil Geniuses.NA","LWLL","","dom","P"],["2021-08-12","LCS 2021 Championship","Round 1","Dignitas","Immortals","LLL","","dom","P"],["2022-01-28","LCS 2022 Lock In","Semifinal","Dignitas","Team Liquid","WLLL","","dom","P"],["2023-03-27","North American Challengers League 2023 Spring Playoffs","Round 5","Cloud9 Challengers","Dignitas Challengers","LLWL","","dom","S"],["2023-04-01","North American Challengers League 2023 Spring Playoffs","Round 6","Cloud9 Challengers","Team Liquid Challengers","WLWW","","dom","S"],["2023-04-02","North American Challengers League 2023 Spring Playoffs","Grand Final","Cloud9 Challengers","Dignitas Challengers","LWWW","","dom","S"],["2023-07-30","North American Challengers League 2023 Summer Playoffs","Round 4","Disguised","Cincinnati Fear","LLWWW","","dom","S"],["2023-08-09","North American Challengers League 2023 Summer Playoffs","Grand Final","Disguised","Evil Geniuses Challengers","WWLW","","dom","S"],["2025-05-29","North American Challengers League 2025 Split 1 Playoffs","Round 4","Luminosity Gaming","DarkZero Dragonsteel","LWWW","","dom","S"],["2025-06-06","North American Challengers League 2025 Split 1 Playoffs","Final","Luminosity Gaming","DarkZero Dragonsteel","WWW","","dom","S"],["2025-09-03","North American Challengers League 2025 Split 2 Playoffs","Round 4","Luminosity Gaming","Conviction","WLWW","","dom","S"],["2025-09-12","North American Challengers League 2025 Split 2 Playoffs","Final","Luminosity Gaming","Conviction","WWW","","dom","S"],["2025-10-05","LTA North 2026 Promotion","Round 1","Luminosity Gaming","SDM Tigres","WWW","","dom","P"],["2025-10-08","LTA North 2026 Promotion","Round 2","Luminosity Gaming","Disguised","LLL","","dom","P"],["2025-10-10","LTA North 2026 Promotion","Round 2","Luminosity Gaming","Estral Esports","WWW","","dom","P"],["2025-10-12","LTA North 2026 Promotion","Final","Luminosity Gaming","Disguised","LWLL","","dom","P"]],"unknown":[]}
+{
+  "player": "FakeGod",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2019-03-21","NA Academy League 2019 Spring Playoffs","Quarterfinal","100 Thieves Academy","Echo Fox Academy","LWLWL","","dom","S"],
+    ["2020-04-02","NA Academy League 2020 Spring Playoffs","Quarterfinal","100 Thieves Academy","TSM Academy","LLL","","dom","S"],
+    ["2020-08-15","NA Academy League 2020 Summer Playoffs","Quarterfinal","100 Thieves Academy","Evil Geniuses Academy","LLL","","dom","S"],
+    ["2021-03-28","LCS 2021 Mid-Season Showdown","Round 1","Dignitas","100 Thieves","LLL","","dom","P"],
+    ["2021-08-07","LCS 2021 Championship","Round 1","Dignitas","Evil Geniuses.NA","LWLL","","dom","P"],
+    ["2021-08-12","LCS 2021 Championship","Round 1","Dignitas","Immortals","LLL","","dom","P"],
+    ["2022-01-28","LCS 2022 Lock In","Semifinal","Dignitas","Team Liquid","WLLL","","dom","P"],
+    ["2023-03-27","North American Challengers League 2023 Spring Playoffs","Round 5","Cloud9 Challengers","Dignitas Challengers","LLWL","","dom","S"],
+    ["2023-04-01","North American Challengers League 2023 Spring Playoffs","Round 6","Cloud9 Challengers","Team Liquid Challengers","WLWW","","dom","S"],
+    ["2023-04-02","North American Challengers League 2023 Spring Playoffs","Grand Final","Cloud9 Challengers","Dignitas Challengers","LWWW","","dom","S"],
+    ["2023-07-30","North American Challengers League 2023 Summer Playoffs","Round 4","Disguised","Cincinnati Fear","LLWWW","","dom","S"],
+    ["2023-08-09","North American Challengers League 2023 Summer Playoffs","Grand Final","Disguised","Evil Geniuses Challengers","WWLW","","dom","S"],
+    ["2025-05-29","North American Challengers League 2025 Split 1 Playoffs","Round 4","Luminosity Gaming","DarkZero Dragonsteel","LWWW","","dom","S"],
+    ["2025-06-06","North American Challengers League 2025 Split 1 Playoffs","Final","Luminosity Gaming","DarkZero Dragonsteel","WWW","","dom","S"],
+    ["2025-09-03","North American Challengers League 2025 Split 2 Playoffs","Round 4","Luminosity Gaming","Conviction","WLWW","","dom","S"],
+    ["2025-09-12","North American Challengers League 2025 Split 2 Playoffs","Final","Luminosity Gaming","Conviction","WWW","","dom","S"],
+    ["2025-10-05","LTA North 2026 Promotion","Round 1","Luminosity Gaming","SDM Tigres","WWW","","dom","P"],
+    ["2025-10-08","LTA North 2026 Promotion","Round 2","Luminosity Gaming","Disguised","LLL","","dom","P"],
+    ["2025-10-10","LTA North 2026 Promotion","Round 2","Luminosity Gaming","Estral Esports","WWW","","dom","P"],
+    ["2025-10-12","LTA North 2026 Promotion","Final","Luminosity Gaming","Disguised","LWLL","","dom","P"]
+  ],
+  "unknown": []
+}

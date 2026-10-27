@@ -1,1 +1,35 @@
-{"player":"Brance","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2021-08-11","CBLOL Academy 2021 Split 2 Playoffs","Quarterfinal","LOUD Academy","paiN Gaming Academy","LLL","p","dom","S"],["2022-04-12","CBLOL Academy 2022 Split 1 Playoffs","Semifinal","LOUD Academy","Flamengo Academy","LLWL","","dom","S"],["2022-08-14","CBLOL 2022 Split 2 Playoffs","Round 1","LOUD","RED Canids","LWWW","","dom","P"],["2022-08-21","CBLOL 2022 Split 2 Playoffs","Semifinal","LOUD","paiN Gaming","WLLWL","","dom","P"],["2022-08-28","CBLOL 2022 Split 2 Playoffs","Semifinal","LOUD","FURIA","WWW","","dom","P"],["2022-09-03","CBLOL 2022 Split 2 Playoffs","Final","LOUD","paiN Gaming","WWW","","dom","P"],["2022-10-03","Worlds 2022","Elimination Round","LOUD","DetonatioN FocusMe","WLLL","","worlds","P"],["2023-03-24","CBLOL 2023 Split 1 Playoffs","Round 1","Fluxo","FURIA","LLL","","dom","P"],["2023-08-11","CBLOL 2023 Split 2 Playoffs","Round 1","Fluxo","Vivo Keyd Stars","LWLWL","","dom","P"],["2024-03-23","CBLOL 2024 Split 1 Playoffs","Round 1","RED Canids","LØS","WWW","","dom","P"],["2024-03-31","CBLOL 2024 Split 1 Playoffs","Round 2","RED Canids","LOUD","LLL","","dom","P"],["2024-04-05","CBLOL 2024 Split 1 Playoffs","Round 2","RED Canids","KaBuM! Esports","WWW","","dom","P"],["2024-04-13","CBLOL 2024 Split 1 Playoffs","Round 3","RED Canids","Vivo Keyd Stars","WLLL","","dom","P"],["2024-08-04","CBLOL 2024 Split 2 Playoffs","Round 1","RED Canids","Fluxo","WWW","","dom","P"],["2024-08-11","CBLOL 2024 Split 2 Playoffs","Round 2","RED Canids","Vivo Keyd Stars","LLWL","","dom","P"],["2024-08-23","CBLOL 2024 Split 2 Playoffs","Round 3","RED Canids","LOUD","WWW","","dom","P"],["2024-08-24","CBLOL 2024 Split 2 Playoffs","Round 4","RED Canids","Vivo Keyd Stars","LLWWL","","dom","P"],["2025-06-01","LTA South 2025 Split 2 Playoffs","Round 1","RED Canids","Vivo Keyd Stars","WLLL","","dom","P"],["2026-03-01","Circuito Desafiante 2026 Split 1 Qualifier","Final","Estral Esports","Nerd's Gangster's Carecas","WWW","","dom","S"],["2026-05-11","Circuito Desafiante 2026 Split 1 Playoffs","Round 1","Estral Esports","Ei Nerd Esports","WWW","","dom","S"],["2026-05-18","Circuito Desafiante 2026 Split 1 Playoffs","Round 2","Estral Esports","RED Academy","WWW","","dom","S"],["2026-05-26","Circuito Desafiante 2026 Split 1 Playoffs","Round 3","Estral Esports","paiN Gaming Academy","LLL","","dom","S"],["2026-09-02","Circuito Desafiante 2026 Split 2 Playoffs","Round 4","Estral Esports","Vivo Keyd Stars Academy","WWW","","dom","S"],["2026-09-14","Circuito Desafiante 2026 Split 2 Playoffs","Final","Estral Esports","KaBuM! Ilha das Lendas","WWW","","dom","S"],["2026-09-29","CBLOL 2027 Promotion","Round 1","Estral Esports","9z Globant","WWW","","dom","P"],["2026-10-01","CBLOL 2027 Promotion","Round 2","Estral Esports","LØS","LLL","","dom","P"],["2026-10-06","CBLOL 2027 Promotion","Round 2","Estral Esports","KaBuM! Ilha das Lendas","LLWWL","","dom","P"]],"unknown":[]}
+{
+  "player": "Brance",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2021-08-11","CBLOL Academy 2021 Split 2 Playoffs","Quarterfinal","LOUD Academy","paiN Gaming Academy","LLL","p","dom","S"],
+    ["2022-04-12","CBLOL Academy 2022 Split 1 Playoffs","Semifinal","LOUD Academy","Flamengo Academy","LLWL","","dom","S"],
+    ["2022-08-14","CBLOL 2022 Split 2 Playoffs","Round 1","LOUD","RED Canids","LWWW","","dom","P"],
+    ["2022-08-21","CBLOL 2022 Split 2 Playoffs","Semifinal","LOUD","paiN Gaming","WLLWL","","dom","P"],
+    ["2022-08-28","CBLOL 2022 Split 2 Playoffs","Semifinal","LOUD","FURIA","WWW","","dom","P"],
+    ["2022-09-03","CBLOL 2022 Split 2 Playoffs","Final","LOUD","paiN Gaming","WWW","","dom","P"],
+    ["2022-10-03","Worlds 2022","Elimination Round","LOUD","DetonatioN FocusMe","WLLL","","worlds","P"],
+    ["2023-03-24","CBLOL 2023 Split 1 Playoffs","Round 1","Fluxo","FURIA","LLL","","dom","P"],
+    ["2023-08-11","CBLOL 2023 Split 2 Playoffs","Round 1","Fluxo","Vivo Keyd Stars","LWLWL","","dom","P"],
+    ["2024-03-23","CBLOL 2024 Split 1 Playoffs","Round 1","RED Canids","LØS","WWW","","dom","P"],
+    ["2024-03-31","CBLOL 2024 Split 1 Playoffs","Round 2","RED Canids","LOUD","LLL","","dom","P"],
+    ["2024-04-05","CBLOL 2024 Split 1 Playoffs","Round 2","RED Canids","KaBuM! Esports","WWW","","dom","P"],
+    ["2024-04-13","CBLOL 2024 Split 1 Playoffs","Round 3","RED Canids","Vivo Keyd Stars","WLLL","","dom","P"],
+    ["2024-08-04","CBLOL 2024 Split 2 Playoffs","Round 1","RED Canids","Fluxo","WWW","","dom","P"],
+    ["2024-08-11","CBLOL 2024 Split 2 Playoffs","Round 2","RED Canids","Vivo Keyd Stars","LLWL","","dom","P"],
+    ["2024-08-23","CBLOL 2024 Split 2 Playoffs","Round 3","RED Canids","LOUD","WWW","","dom","P"],
+    ["2024-08-24","CBLOL 2024 Split 2 Playoffs","Round 4","RED Canids","Vivo Keyd Stars","LLWWL","","dom","P"],
+    ["2025-06-01","LTA South 2025 Split 2 Playoffs","Round 1","RED Canids","Vivo Keyd Stars","WLLL","","dom","P"],
+    ["2026-03-01","Circuito Desafiante 2026 Split 1 Qualifier","Final","Estral Esports","Nerd's Gangster's Carecas","WWW","","dom","S"],
+    ["2026-05-11","Circuito Desafiante 2026 Split 1 Playoffs","Round 1","Estral Esports","Ei Nerd Esports","WWW","","dom","S"],
+    ["2026-05-18","Circuito Desafiante 2026 Split 1 Playoffs","Round 2","Estral Esports","RED Academy","WWW","","dom","S"],
+    ["2026-05-26","Circuito Desafiante 2026 Split 1 Playoffs","Round 3","Estral Esports","paiN Gaming Academy","LLL","","dom","S"],
+    ["2026-09-02","Circuito Desafiante 2026 Split 2 Playoffs","Round 4","Estral Esports","Vivo Keyd Stars Academy","WWW","","dom","S"],
+    ["2026-09-14","Circuito Desafiante 2026 Split 2 Playoffs","Final","Estral Esports","KaBuM! Ilha das Lendas","WWW","","dom","S"],
+    ["2026-09-29","CBLOL 2027 Promotion","Round 1","Estral Esports","9z Globant","WWW","","dom","P"],
+    ["2026-10-01","CBLOL 2027 Promotion","Round 2","Estral Esports","LØS","LLL","","dom","P"],
+    ["2026-10-06","CBLOL 2027 Promotion","Round 2","Estral Esports","KaBuM! Ilha das Lendas","LLWWL","","dom","P"]
+  ],
+  "unknown": []
+}

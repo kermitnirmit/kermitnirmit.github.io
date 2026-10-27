@@ -1,1 +1,44 @@
-{"player":"Edward","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2013-04-28","EU LCS Season 3 Spring Playoffs","Final","Gambit Gaming","Fnatic","WLWLL","","dom","P"],["2014-09-10","EU LCS 2015 Spring Promotion","Promo","Gambit Gaming","SK Gaming Prime","LWWW","","dom","P"],["2014-12-21","IEM Season IX - Cologne","Final","Gambit Gaming","Counter Logic Gaming","WWLW","","intl","P"],["2015-04-05","EU LCS 2015 Spring Playoffs","Quarterfinal","Gambit Gaming","Unicorns of Love","WLLL","","dom","P"],["2016-08-13","LCL 2016 Summer Playoffs","Semifinal","Vega Squadron","Natus Vincere.CIS","WWLLW","","dom","P"],["2016-08-14","LCL 2016 Summer Playoffs","Final","Vega Squadron","Albus NoX Luna","WWLLL","","dom","P"],["2017-04-01","LCL 2017 Spring Playoffs","Semifinal","Vega Squadron","Vaevictis eSports","LLWL","","dom","P"],["2017-08-20","LCL 2017 Summer Playoffs","Semifinal","Gambit Esports","Team Just Alpha","WWW","","dom","P"],["2017-09-03","LCL 2017 Summer Playoffs","Final","Gambit Esports","M19","WWLLW","","dom","P"],["2018-03-18","LCL 2018 Spring Playoffs","Semifinal","Gambit Esports","Team Just","WWLW","","dom","P"],["2018-04-01","LCL 2018 Spring Playoffs","Final","Gambit Esports","RoX (2014 CIS Team)","WWW","","dom","P"],["2018-05-09","MSI 2018","Round 2","Gambit Esports","Flash Wolves","LLL","","msi","P"],["2018-07-15","LCL 2018 Open Cup","Final","Gambit Esports","M19","WLWW","","dom","S"],["2018-08-26","LCL 2018 Summer Playoffs","Semifinal","Gambit Esports","Team Just","LLWWW","","dom","P"],["2018-09-02","LCL 2018 Summer Playoffs","Final","Gambit Esports","Dragon Army","LWWW","","dom","P"],["2018-10-06","Worlds 2018","Round 2","Gambit Esports","Cloud9","LWLWL","","worlds","P"],["2019-08-01","LCL 2019 Summer Open Cup","Semifinal","Unicorns of Love.CIS","Dragon Army","LLWWW","","dom","S"],["2019-08-04","LCL 2019 Summer Open Cup","Final","Unicorns of Love.CIS","Gambit Esports","LLWL","","dom","S"],["2019-08-31","LCL 2019 Summer Playoffs","Semifinal","Unicorns of Love.CIS","Elements Pro Gaming","WWW","","dom","P"],["2019-09-15","LCL 2019 Summer Playoffs","Final","Unicorns of Love.CIS","Vega Squadron","WLLWW","","dom","P"],["2019-10-08","Worlds 2019","Round 2","Unicorns of Love.CIS","Splyce","WLLWL","","worlds","P"],["2020-03-19","LCL 2020 Spring Open Cup","Semifinal","Gambit Esports","RoX (2014 CIS Team)","LLL","","dom","S"],["2020-04-19","LCL 2020 Spring Playoffs","Semifinal","Gambit Esports","RoX (2014 CIS Team)","LLL","","dom","P"],["2020-07-13","PG Nationals 2020 Summer Playoffs","Round 1","Mkers","Outplayed","LWLWW","","dom","S"],["2020-07-21","PG Nationals 2020 Summer Playoffs","Semifinal","Mkers","Samsung Morning Stars","LWLL","","dom","S"],["2020-07-26","PG Nationals 2020 Summer Playoffs","Semifinal","Mkers","Racoon (Italian Team)","WLLL","","dom","S"],["2022-07-19","Greek Legends League 2022 Summer Playoffs","Round 1","Olympiacos Alimou","Team Phantasma","LLL","","dom","S"],["2023-11-20","Saudi eLeagues 2023 Season 2","Final","F16 Esports","Team Falcons","LLWL","r","dom","S"],["2023-11-21","Saudi eLeagues 2023 Season 2","Final","F16 Esports","Twisted Minds","WLLL","r","dom","S"],["2024-04-20","Saudi eLeagues 2024 Season 1","Grand Finals","Geekay Esports","XO Esports","LLL","r","dom","S"],["2024-06-03","Saudi eLeagues 2024 Season 2","Semifinal","Geekay Esports","Baam Esports","WWW","r","dom","S"],["2024-10-10","Saudi eLeagues 2024 Season 3","Semifinal","Geekay Esports","Onyx Ravens","WWW","r","dom","S"]],"unknown":[["2024-06-04","Saudi eLeagues 2024 Season 2","Final","Geekay Esports","Twisted Minds","3-1","","dom","S"],["2024-10-11","Saudi eLeagues 2024 Season 3","Final","Geekay Esports","Baam Esports","3-2","","dom","S"],["2024-12-03","Saudi eLeagues 2024 Championship","Grand Final","Geekay Esports","Baam Esports","2-3","","dom","S"]]}
+{
+  "player": "Edward",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2013-04-28","EU LCS Season 3 Spring Playoffs","Final","Gambit Gaming","Fnatic","WLWLL","","dom","P"],
+    ["2014-09-10","EU LCS 2015 Spring Promotion","Promo","Gambit Gaming","SK Gaming Prime","LWWW","","dom","P"],
+    ["2014-12-21","IEM Season IX - Cologne","Final","Gambit Gaming","Counter Logic Gaming","WWLW","","intl","P"],
+    ["2015-04-05","EU LCS 2015 Spring Playoffs","Quarterfinal","Gambit Gaming","Unicorns of Love","WLLL","","dom","P"],
+    ["2016-08-13","LCL 2016 Summer Playoffs","Semifinal","Vega Squadron","Natus Vincere.CIS","WWLLW","","dom","P"],
+    ["2016-08-14","LCL 2016 Summer Playoffs","Final","Vega Squadron","Albus NoX Luna","WWLLL","","dom","P"],
+    ["2017-04-01","LCL 2017 Spring Playoffs","Semifinal","Vega Squadron","Vaevictis eSports","LLWL","","dom","P"],
+    ["2017-08-20","LCL 2017 Summer Playoffs","Semifinal","Gambit Esports","Team Just Alpha","WWW","","dom","P"],
+    ["2017-09-03","LCL 2017 Summer Playoffs","Final","Gambit Esports","M19","WWLLW","","dom","P"],
+    ["2018-03-18","LCL 2018 Spring Playoffs","Semifinal","Gambit Esports","Team Just","WWLW","","dom","P"],
+    ["2018-04-01","LCL 2018 Spring Playoffs","Final","Gambit Esports","RoX (2014 CIS Team)","WWW","","dom","P"],
+    ["2018-05-09","MSI 2018","Round 2","Gambit Esports","Flash Wolves","LLL","","msi","P"],
+    ["2018-07-15","LCL 2018 Open Cup","Final","Gambit Esports","M19","WLWW","","dom","S"],
+    ["2018-08-26","LCL 2018 Summer Playoffs","Semifinal","Gambit Esports","Team Just","LLWWW","","dom","P"],
+    ["2018-09-02","LCL 2018 Summer Playoffs","Final","Gambit Esports","Dragon Army","LWWW","","dom","P"],
+    ["2018-10-06","Worlds 2018","Round 2","Gambit Esports","Cloud9","LWLWL","","worlds","P"],
+    ["2019-08-01","LCL 2019 Summer Open Cup","Semifinal","Unicorns of Love.CIS","Dragon Army","LLWWW","","dom","S"],
+    ["2019-08-04","LCL 2019 Summer Open Cup","Final","Unicorns of Love.CIS","Gambit Esports","LLWL","","dom","S"],
+    ["2019-08-31","LCL 2019 Summer Playoffs","Semifinal","Unicorns of Love.CIS","Elements Pro Gaming","WWW","","dom","P"],
+    ["2019-09-15","LCL 2019 Summer Playoffs","Final","Unicorns of Love.CIS","Vega Squadron","WLLWW","","dom","P"],
+    ["2019-10-08","Worlds 2019","Round 2","Unicorns of Love.CIS","Splyce","WLLWL","","worlds","P"],
+    ["2020-03-19","LCL 2020 Spring Open Cup","Semifinal","Gambit Esports","RoX (2014 CIS Team)","LLL","","dom","S"],
+    ["2020-04-19","LCL 2020 Spring Playoffs","Semifinal","Gambit Esports","RoX (2014 CIS Team)","LLL","","dom","P"],
+    ["2020-07-13","PG Nationals 2020 Summer Playoffs","Round 1","Mkers","Outplayed","LWLWW","","dom","S"],
+    ["2020-07-21","PG Nationals 2020 Summer Playoffs","Semifinal","Mkers","Samsung Morning Stars","LWLL","","dom","S"],
+    ["2020-07-26","PG Nationals 2020 Summer Playoffs","Semifinal","Mkers","Racoon (Italian Team)","WLLL","","dom","S"],
+    ["2022-07-19","Greek Legends League 2022 Summer Playoffs","Round 1","Olympiacos Alimou","Team Phantasma","LLL","","dom","S"],
+    ["2023-11-20","Saudi eLeagues 2023 Season 2","Final","F16 Esports","Team Falcons","LLWL","r","dom","S"],
+    ["2023-11-21","Saudi eLeagues 2023 Season 2","Final","F16 Esports","Twisted Minds","WLLL","r","dom","S"],
+    ["2024-04-20","Saudi eLeagues 2024 Season 1","Grand Finals","Geekay Esports","XO Esports","LLL","r","dom","S"],
+    ["2024-06-03","Saudi eLeagues 2024 Season 2","Semifinal","Geekay Esports","Baam Esports","WWW","r","dom","S"],
+    ["2024-10-10","Saudi eLeagues 2024 Season 3","Semifinal","Geekay Esports","Onyx Ravens","WWW","r","dom","S"]
+  ],
+  "unknown": [
+    ["2024-06-04","Saudi eLeagues 2024 Season 2","Final","Geekay Esports","Twisted Minds","3-1","","dom","S"],
+    ["2024-10-11","Saudi eLeagues 2024 Season 3","Final","Geekay Esports","Baam Esports","3-2","","dom","S"],
+    ["2024-12-03","Saudi eLeagues 2024 Championship","Grand Final","Geekay Esports","Baam Esports","2-3","","dom","S"]
+  ]
+}

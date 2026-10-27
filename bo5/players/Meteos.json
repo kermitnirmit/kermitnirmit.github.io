@@ -1,1 +1,32 @@
-{"player":"Meteos","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2013-05-11","NA LCS Season 3 Summer Promotion","Promotion","Quantic Gaming","compLexity Gaming","WWW","","dom","P"],["2013-09-01","NA LCS Season 3 Summer Playoffs","Final","Cloud9","TSM","WWW","","dom","P"],["2014-04-20","NA LCS 2014 Spring Playoffs","Final","Cloud9","TSM","WWW","","dom","P"],["2014-08-31","NA LCS 2014 Summer Playoffs","Semifinal","Cloud9","Team Curse","WWW","","dom","P"],["2014-09-01","NA LCS 2014 Summer Playoffs","Final","Cloud9","TSM","WLWLL","","dom","P"],["2014-10-04","Worlds 2014","Quarterfinal","Cloud9","Samsung Blue","WLLL","","worlds","P"],["2014-12-08","IEM Season IX - San Jose","Final","Cloud9","Unicorns of Love","WWW","","intl","P"],["2015-04-11","NA LCS 2015 Spring Playoffs","Semifinal","Cloud9","Team Liquid","LLWWW","","dom","P"],["2015-04-19","NA LCS 2015 Spring Playoffs","Final","Cloud9","TSM","WLLL","","dom","P"],["2016-08-13","NA LCS 2016 Summer Playoffs","Quarterfinal","Cloud9","Team EnVyUs","LWWW","","dom","P"],["2016-08-20","NA LCS 2016 Summer Playoffs","Semifinal","Cloud9","Immortals","LWWLW","","dom","P"],["2016-08-28","NA LCS 2016 Summer Playoffs","Final","Cloud9","TSM","WLLL","","dom","P"],["2016-09-04","NA LCS 2016 Regional Finals","Round 2","Cloud9","Team EnVyUs","WWW","","dom","P"],["2016-09-05","NA LCS 2016 Regional Finals","Round 3","Cloud9","Immortals","WWLW","","dom","P"],["2016-10-13","Worlds 2016","Quarterfinal","Cloud9","Samsung Galaxy","LLL","","worlds","P"],["2017-04-15","NA LCS 2017 Spring Playoffs","Semifinal","Phoenix1","Cloud9","LLL","p","dom","P"],["2018-04-01","NA LCS 2018 Spring Playoffs","Semifinal","100 Thieves","Clutch Gaming","WLWLW","","dom","P"],["2018-04-08","NA LCS 2018 Spring Playoffs","Final","100 Thieves","Team Liquid","LLL","","dom","P"],["2018-08-16","NA Academy League 2018 Summer Playoffs","Quarterfinal","FlyQuest Academy","Clutch Gaming Academy","WLLWW","","dom","S"],["2018-08-24","NA Academy League 2018 Summer Playoffs","Semifinal","FlyQuest Academy","Cloud9 Academy","WLLL","","dom","S"],["2019-08-11","LCS 2019 Summer Playoffs","Quarterfinal","OpTic Gaming","Counter Logic Gaming","LLL","","dom","P"],["2020-04-05","LCS 2020 Spring Playoffs","Round 1","100 Thieves","Cloud9","LLL","","dom","P"],["2020-04-08","LCS 2020 Spring Playoffs","Round 1","100 Thieves","TSM","LWWLL","","dom","P"],["2026-06-28","Doublelift's Retirement Home Tournament","Final","Team Meteos","Team Sneaky","WLWLL","r","dom","S"]],"unknown":[]}
+{
+  "player": "Meteos",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2013-05-11","NA LCS Season 3 Summer Promotion","Promotion","Quantic Gaming","compLexity Gaming","WWW","","dom","P"],
+    ["2013-09-01","NA LCS Season 3 Summer Playoffs","Final","Cloud9","TSM","WWW","","dom","P"],
+    ["2014-04-20","NA LCS 2014 Spring Playoffs","Final","Cloud9","TSM","WWW","","dom","P"],
+    ["2014-08-31","NA LCS 2014 Summer Playoffs","Semifinal","Cloud9","Team Curse","WWW","","dom","P"],
+    ["2014-09-01","NA LCS 2014 Summer Playoffs","Final","Cloud9","TSM","WLWLL","","dom","P"],
+    ["2014-10-04","Worlds 2014","Quarterfinal","Cloud9","Samsung Blue","WLLL","","worlds","P"],
+    ["2014-12-08","IEM Season IX - San Jose","Final","Cloud9","Unicorns of Love","WWW","","intl","P"],
+    ["2015-04-11","NA LCS 2015 Spring Playoffs","Semifinal","Cloud9","Team Liquid","LLWWW","","dom","P"],
+    ["2015-04-19","NA LCS 2015 Spring Playoffs","Final","Cloud9","TSM","WLLL","","dom","P"],
+    ["2016-08-13","NA LCS 2016 Summer Playoffs","Quarterfinal","Cloud9","Team EnVyUs","LWWW","","dom","P"],
+    ["2016-08-20","NA LCS 2016 Summer Playoffs","Semifinal","Cloud9","Immortals","LWWLW","","dom","P"],
+    ["2016-08-28","NA LCS 2016 Summer Playoffs","Final","Cloud9","TSM","WLLL","","dom","P"],
+    ["2016-09-04","NA LCS 2016 Regional Finals","Round 2","Cloud9","Team EnVyUs","WWW","","dom","P"],
+    ["2016-09-05","NA LCS 2016 Regional Finals","Round 3","Cloud9","Immortals","WWLW","","dom","P"],
+    ["2016-10-13","Worlds 2016","Quarterfinal","Cloud9","Samsung Galaxy","LLL","","worlds","P"],
+    ["2017-04-15","NA LCS 2017 Spring Playoffs","Semifinal","Phoenix1","Cloud9","LLL","p","dom","P"],
+    ["2018-04-01","NA LCS 2018 Spring Playoffs","Semifinal","100 Thieves","Clutch Gaming","WLWLW","","dom","P"],
+    ["2018-04-08","NA LCS 2018 Spring Playoffs","Final","100 Thieves","Team Liquid","LLL","","dom","P"],
+    ["2018-08-16","NA Academy League 2018 Summer Playoffs","Quarterfinal","FlyQuest Academy","Clutch Gaming Academy","WLLWW","","dom","S"],
+    ["2018-08-24","NA Academy League 2018 Summer Playoffs","Semifinal","FlyQuest Academy","Cloud9 Academy","WLLL","","dom","S"],
+    ["2019-08-11","LCS 2019 Summer Playoffs","Quarterfinal","OpTic Gaming","Counter Logic Gaming","LLL","","dom","P"],
+    ["2020-04-05","LCS 2020 Spring Playoffs","Round 1","100 Thieves","Cloud9","LLL","","dom","P"],
+    ["2020-04-08","LCS 2020 Spring Playoffs","Round 1","100 Thieves","TSM","LWWLL","","dom","P"],
+    ["2026-06-28","Doublelift's Retirement Home Tournament","Final","Team Meteos","Team Sneaky","WLWLL","r","dom","S"]
+  ],
+  "unknown": []
+}

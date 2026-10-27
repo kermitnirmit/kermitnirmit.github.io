@@ -1,1 +1,33 @@
-{"player":"Sylvie","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2020-12-13","LCK Academy Series 2020 Championship","Semifinal","Team Dynamics Academy","Afreeca Freecs Academy","WLWW","","dom","S"],["2020-12-20","LCK Academy Series 2020 Championship","Final","Nongshim RedForce Academy","DRX Rookie","LWWLL","","dom","S"],["2021-08-16","LCK CL 2021 Summer Playoffs","Quarterfinal","Nongshim RedForce Challengers","DRX Challengers","LLWWW","p","dom","S"],["2022-03-21","LCK CL 2022 Spring Playoffs","Quarterfinal","Nongshim RedForce Challengers","T1 Challengers","LWLWW","","dom","S"],["2022-03-28","LCK CL 2022 Spring Playoffs","Semifinal","Nongshim RedForce Challengers","DRX Challengers","LWLWW","","dom","S"],["2022-04-01","LCK CL 2022 Spring Playoffs","Final","Nongshim RedForce Challengers","DWG KIA Challengers","LWLL","","dom","S"],["2022-08-16","LCK CL 2022 Summer Playoffs","Quarterfinal","Nongshim RedForce Challengers","KT Rolster Challengers","LWWLW","","dom","S"],["2022-08-22","LCK CL 2022 Summer Playoffs","Semifinal","Nongshim RedForce Challengers","T1 Challengers","WLWLW","","dom","S"],["2022-08-26","LCK CL 2022 Summer Playoffs","Final","Nongshim RedForce Challengers","DWG KIA Challengers","LLWWW","","dom","S"],["2025-09-01","LCK CL 2025 Season Play-In","Round 1","Nongshim Esports Academy","Hanwha Life Esports Challengers","WWW","","dom","S"],["2025-09-02","LCK CL 2025 Season Play-In","Round 2","Nongshim Esports Academy","Gen.G Global Academy","LWLL","","dom","S"],["2025-09-08","LCK CL 2025 Season Play-In","Round 2","Nongshim Esports Academy","DN Freecs Challengers","WLLL","","dom","S"],["2026-01-27","LCK CL 2026 Kickoff","","KT Rolster Challengers","BNK FEARX Youth","WWW","","dom","S"],["2026-02-23","LCK CL 2026 Kickoff","Playoffs Round 2","KT Rolster Challengers","T1 Esports Academy","LLWL","","dom","S"],["2026-02-26","LCK CL 2026 Kickoff","Playoffs Round 3","KT Rolster Challengers","DRX Challengers","LWLWW","","dom","S"],["2026-03-02","LCK CL 2026 Kickoff","Playoffs Round 4","KT Rolster Challengers","Nongshim Esports Academy","LLL","","dom","S"],["2026-06-17","Asia Masters 2026","Round 1","KT Rolster Challengers","Dplus Kia Challengers","LLWL","","dom","S"],["2026-06-18","Asia Masters 2026","Round 1","KT Rolster Challengers","Nongshim Esports Academy","LWWW","","dom","S"],["2026-06-19","Asia Masters 2026","Round 2","KT Rolster Challengers","T1 Esports Academy","WLWLL","","dom","S"],["2026-08-31","LCK CL 2026 Playoffs","Round 1","KT Rolster Challengers","Kiwoom DRX Challengers","WWW","","dom","S"],["2026-09-08","LCK CL 2026 Playoffs","Round 2","KT Rolster Challengers","T1 Esports Academy","LLWL","","dom","S"],["2026-09-11","LCK CL 2026 Playoffs","Round 3","KT Rolster Challengers","DN SOOPers Challengers","WWLW","","dom","S"],["2026-09-14","LCK CL 2026 Playoffs","Round 4","KT Rolster Challengers","Dplus Kia Challengers","LWWLW","","dom","S"],["2026-09-15","LCK CL 2026 Playoffs","Final","KT Rolster Challengers","T1 Esports Academy","LLL","","dom","S"],["2026-09-28","World Star Challengers Invitational 2026","Quarterfinal","KT Rolster Challengers","Galions","LLL","","dom","S"]],"unknown":[]}
+{
+  "player": "Sylvie",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2020-12-13","LCK Academy Series 2020 Championship","Semifinal","Team Dynamics Academy","Afreeca Freecs Academy","WLWW","","dom","S"],
+    ["2020-12-20","LCK Academy Series 2020 Championship","Final","Nongshim RedForce Academy","DRX Rookie","LWWLL","","dom","S"],
+    ["2021-08-16","LCK CL 2021 Summer Playoffs","Quarterfinal","Nongshim RedForce Challengers","DRX Challengers","LLWWW","p","dom","S"],
+    ["2022-03-21","LCK CL 2022 Spring Playoffs","Quarterfinal","Nongshim RedForce Challengers","T1 Challengers","LWLWW","","dom","S"],
+    ["2022-03-28","LCK CL 2022 Spring Playoffs","Semifinal","Nongshim RedForce Challengers","DRX Challengers","LWLWW","","dom","S"],
+    ["2022-04-01","LCK CL 2022 Spring Playoffs","Final","Nongshim RedForce Challengers","DWG KIA Challengers","LWLL","","dom","S"],
+    ["2022-08-16","LCK CL 2022 Summer Playoffs","Quarterfinal","Nongshim RedForce Challengers","KT Rolster Challengers","LWWLW","","dom","S"],
+    ["2022-08-22","LCK CL 2022 Summer Playoffs","Semifinal","Nongshim RedForce Challengers","T1 Challengers","WLWLW","","dom","S"],
+    ["2022-08-26","LCK CL 2022 Summer Playoffs","Final","Nongshim RedForce Challengers","DWG KIA Challengers","LLWWW","","dom","S"],
+    ["2025-09-01","LCK CL 2025 Season Play-In","Round 1","Nongshim Esports Academy","Hanwha Life Esports Challengers","WWW","","dom","S"],
+    ["2025-09-02","LCK CL 2025 Season Play-In","Round 2","Nongshim Esports Academy","Gen.G Global Academy","LWLL","","dom","S"],
+    ["2025-09-08","LCK CL 2025 Season Play-In","Round 2","Nongshim Esports Academy","DN Freecs Challengers","WLLL","","dom","S"],
+    ["2026-01-27","LCK CL 2026 Kickoff","","KT Rolster Challengers","BNK FEARX Youth","WWW","","dom","S"],
+    ["2026-02-23","LCK CL 2026 Kickoff","Playoffs Round 2","KT Rolster Challengers","T1 Esports Academy","LLWL","","dom","S"],
+    ["2026-02-26","LCK CL 2026 Kickoff","Playoffs Round 3","KT Rolster Challengers","DRX Challengers","LWLWW","","dom","S"],
+    ["2026-03-02","LCK CL 2026 Kickoff","Playoffs Round 4","KT Rolster Challengers","Nongshim Esports Academy","LLL","","dom","S"],
+    ["2026-06-17","Asia Masters 2026","Round 1","KT Rolster Challengers","Dplus Kia Challengers","LLWL","","dom","S"],
+    ["2026-06-18","Asia Masters 2026","Round 1","KT Rolster Challengers","Nongshim Esports Academy","LWWW","","dom","S"],
+    ["2026-06-19","Asia Masters 2026","Round 2","KT Rolster Challengers","T1 Esports Academy","WLWLL","","dom","S"],
+    ["2026-08-31","LCK CL 2026 Playoffs","Round 1","KT Rolster Challengers","Kiwoom DRX Challengers","WWW","","dom","S"],
+    ["2026-09-08","LCK CL 2026 Playoffs","Round 2","KT Rolster Challengers","T1 Esports Academy","LLWL","","dom","S"],
+    ["2026-09-11","LCK CL 2026 Playoffs","Round 3","KT Rolster Challengers","DN SOOPers Challengers","WWLW","","dom","S"],
+    ["2026-09-14","LCK CL 2026 Playoffs","Round 4","KT Rolster Challengers","Dplus Kia Challengers","LWWLW","","dom","S"],
+    ["2026-09-15","LCK CL 2026 Playoffs","Final","KT Rolster Challengers","T1 Esports Academy","LLL","","dom","S"],
+    ["2026-09-28","World Star Challengers Invitational 2026","Quarterfinal","KT Rolster Challengers","Galions","LLL","","dom","S"]
+  ],
+  "unknown": []
+}

@@ -1,1 +1,33 @@
-{"player":"Easylove","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2018-05-05","VCS 2018 Summer Promotion","Round 1","Hall of Fame","Matrix Esport Gaming","WWW","","dom","P"],["2018-05-07","VCS 2018 Summer Promotion","Qualifiers","Hall of Fame","Friends Forever Gaming","LLL","","dom","P"],["2018-05-08","VCS 2018 Summer Promotion","Qualifiers","Hall of Fame","New Power Esports","WWW","","dom","P"],["2018-09-07","VCS 2018 Summer Playoffs","Round 1","Cube Adonis","EVOS Esports","LWWLW","","dom","P"],["2018-09-09","VCS 2018 Summer Playoffs","Round 2","Cube Adonis","Friends Forever Gaming","LWWW","","dom","P"],["2018-09-22","VCS 2018 Summer Playoffs","Final","Cube Adonis","Phong Vũ Buffalo","LWLL","","dom","P"],["2020-05-24","Pulsefire Cup 2020","Final","GAM Esports","Dashing Buffalo","WLWW","r","dom","S"],["2020-08-19","VCS 2020 Summer Playoffs","Round 1","GAM Esports","CERBERUS Esports (Vietnamese Team)","WWW","","dom","P"],["2020-08-29","VCS 2020 Summer Playoffs","Round 2","GAM Esports","Team Flash.Vietnam","WWLLL","","dom","P"],["2020-09-03","VCS 2020 Summer Playoffs","Round 3","GAM Esports","EVOS Esports","LWLWW","","dom","P"],["2020-09-05","VCS 2020 Summer Playoffs","Final","GAM Esports","Team Flash.Vietnam","LWLWL","","dom","P"],["2022-04-30","VCSB 2022 Summer","Semifinal","AS Esports","VietSun Esports","WLLWW","r","dom",""],["2022-05-01","VCSB 2022 Summer","Final","AS Esports","Genius Esports","WLWLW","r","dom",""],["2022-05-06","VCS 2022 Summer Promotion","Round 1","AS Esports","Team Flash.Vietnam","WWLW","","dom","P"],["2022-05-07","VCS 2022 Summer Promotion","Qualifying Round","AS Esports","Genius Esports","WLWW","","dom","P"],["2024-04-05","VCS 2024 Spring Playoffs","Round 1","GAM Esports","Team Whales","WLWW","","dom","P"],["2024-04-06","VCS 2024 Spring Playoffs","Round 2","GAM Esports","Team Secret (Vietnamese Team)","WWW","","dom","P"],["2024-04-07","VCS 2024 Spring Playoffs","Final","GAM Esports","Vikings Esports (2023 Vietnamese Team)","WLWW","","dom","P"],["2024-08-08","VCS 2024 Summer Playoffs","Round 2","GAM Esports","Team Secret (Vietnamese Team)","WWW","","dom","P"],["2024-08-11","VCS 2024 Summer Playoffs","Round 3","GAM Esports","Vikings Esports (2023 Vietnamese Team)","WLWLW","","dom","P"],["2024-08-18","VCS 2024 Summer Playoffs","Grand Final","GAM Esports","Vikings Esports (2023 Vietnamese Team)","WWW","","dom","P"],["2026-06-12","VCS 2026 Summer Playoffs","Round 1","Saigon Dino","ZEN Esports (Vietnamese Team)","WWLLL","","dom","S"],["2026-06-14","VCS 2026 Summer Playoffs","Round 1","Saigon Dino","SN CyberCore Esports","LWLWW","","dom","S"],["2026-06-19","VCS 2026 Summer Playoffs","Round 2","Saigon Dino","ZEN Esports (Vietnamese Team)","WWLLW","","dom","S"],["2026-06-20","VCS 2026 Summer Playoffs","Final","Saigon Dino","Saigon Warriors","LLL","","dom","S"]],"unknown":[]}
+{
+  "player": "Easylove",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2018-05-05","VCS 2018 Summer Promotion","Round 1","Hall of Fame","Matrix Esport Gaming","WWW","","dom","P"],
+    ["2018-05-07","VCS 2018 Summer Promotion","Qualifiers","Hall of Fame","Friends Forever Gaming","LLL","","dom","P"],
+    ["2018-05-08","VCS 2018 Summer Promotion","Qualifiers","Hall of Fame","New Power Esports","WWW","","dom","P"],
+    ["2018-09-07","VCS 2018 Summer Playoffs","Round 1","Cube Adonis","EVOS Esports","LWWLW","","dom","P"],
+    ["2018-09-09","VCS 2018 Summer Playoffs","Round 2","Cube Adonis","Friends Forever Gaming","LWWW","","dom","P"],
+    ["2018-09-22","VCS 2018 Summer Playoffs","Final","Cube Adonis","Phong Vũ Buffalo","LWLL","","dom","P"],
+    ["2020-05-24","Pulsefire Cup 2020","Final","GAM Esports","Dashing Buffalo","WLWW","r","dom","S"],
+    ["2020-08-19","VCS 2020 Summer Playoffs","Round 1","GAM Esports","CERBERUS Esports (Vietnamese Team)","WWW","","dom","P"],
+    ["2020-08-29","VCS 2020 Summer Playoffs","Round 2","GAM Esports","Team Flash.Vietnam","WWLLL","","dom","P"],
+    ["2020-09-03","VCS 2020 Summer Playoffs","Round 3","GAM Esports","EVOS Esports","LWLWW","","dom","P"],
+    ["2020-09-05","VCS 2020 Summer Playoffs","Final","GAM Esports","Team Flash.Vietnam","LWLWL","","dom","P"],
+    ["2022-04-30","VCSB 2022 Summer","Semifinal","AS Esports","VietSun Esports","WLLWW","r","dom",""],
+    ["2022-05-01","VCSB 2022 Summer","Final","AS Esports","Genius Esports","WLWLW","r","dom",""],
+    ["2022-05-06","VCS 2022 Summer Promotion","Round 1","AS Esports","Team Flash.Vietnam","WWLW","","dom","P"],
+    ["2022-05-07","VCS 2022 Summer Promotion","Qualifying Round","AS Esports","Genius Esports","WLWW","","dom","P"],
+    ["2024-04-05","VCS 2024 Spring Playoffs","Round 1","GAM Esports","Team Whales","WLWW","","dom","P"],
+    ["2024-04-06","VCS 2024 Spring Playoffs","Round 2","GAM Esports","Team Secret (Vietnamese Team)","WWW","","dom","P"],
+    ["2024-04-07","VCS 2024 Spring Playoffs","Final","GAM Esports","Vikings Esports (2023 Vietnamese Team)","WLWW","","dom","P"],
+    ["2024-08-08","VCS 2024 Summer Playoffs","Round 2","GAM Esports","Team Secret (Vietnamese Team)","WWW","","dom","P"],
+    ["2024-08-11","VCS 2024 Summer Playoffs","Round 3","GAM Esports","Vikings Esports (2023 Vietnamese Team)","WLWLW","","dom","P"],
+    ["2024-08-18","VCS 2024 Summer Playoffs","Grand Final","GAM Esports","Vikings Esports (2023 Vietnamese Team)","WWW","","dom","P"],
+    ["2026-06-12","VCS 2026 Summer Playoffs","Round 1","Saigon Dino","ZEN Esports (Vietnamese Team)","WWLLL","","dom","S"],
+    ["2026-06-14","VCS 2026 Summer Playoffs","Round 1","Saigon Dino","SN CyberCore Esports","LWLWW","","dom","S"],
+    ["2026-06-19","VCS 2026 Summer Playoffs","Round 2","Saigon Dino","ZEN Esports (Vietnamese Team)","WWLLW","","dom","S"],
+    ["2026-06-20","VCS 2026 Summer Playoffs","Final","Saigon Dino","Saigon Warriors","LLL","","dom","S"]
+  ],
+  "unknown": []
+}

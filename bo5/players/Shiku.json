@@ -1,1 +1,28 @@
-{"player":"Shiku","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2022-11-12","Claro Stars League 2022 Stars Cup","Round 1","Lightning Esports","Club Deportivo Municipal","WWW","","dom","S"],["2022-11-19","Claro Stars League 2022 Stars Cup","Semifinal","Lightning Esports","South Gaming","WWW","","dom","S"],["2022-11-26","Claro Stars League 2022 Stars Cup","Final","Lightning Esports","Incubus","LLL","","dom","S"],["2023-03-24","Claro Stars League 2023 Opening Playoffs","Round 4","Vipers","Universitario Esports","WWW","","dom","S"],["2023-03-25","Claro Stars League 2023 Opening Playoffs","Round 5","Vipers","Spectacled Bears","LLWL","","dom","S"],["2024-07-28","Blossom League Season 7","Round 1","Dark Project","Tier 28","WLWW","r","dom","S"],["2024-08-11","Blossom League Season 7","Quarterfinal","Dark Project","ODD Esports","WWW","r","dom","S"],["2024-08-26","Blossom League Season 7","Semifinal","Dark Project","Idyllic","WWW","r","dom","S"],["2024-09-02","Blossom League Season 7","Final","Dark Project","Ascendent Esports","WWW","r","dom","S"],["2024-10-12","Emerald League 2024 Special Edition","Semifinal","Senshi eSports (Latin American Team)","Izanagi eSports","WWLLL","r","dom",""],["2025-05-14","Liga Regional Norte 2025 Split 1 Playoffs","Round 1","Fuego","INFINITY","LLL","","dom","S"],["2025-05-20","Liga Regional Norte 2025 Split 1 Playoffs","Round 1","Fuego","PÊEK Gaming","LWWW","","dom","S"],["2025-05-28","Liga Regional Norte 2025 Split 1 Playoffs","Round 2","Fuego","Zeu5 Esports","WWW","","dom","S"],["2025-06-03","Liga Regional Norte 2025 Split 1 Playoffs","Final","Fuego","INFINITY","WWLLW","","dom","S"],["2025-09-01","Liga Regional Sur 2025 Split 2 Playoffs","Round 3","Golden Lions","Maze Gaming","LWLWL","","dom","S"],["2025-09-29","Trufas Circuit LAN 2025 Main Event","Final","Kai Cenat","Icon Esports (Mexican Team)","WWW","r","dom","S"],["2025-12-16","Mystic League A 2025 Main Event","Final","NCG Esports","3v Team","WWW","r","dom","S"],["2026-04-20","Liga Regional Norte 2026 Split 1 Playoffs","Round 1","Fuego","Zeu5 Esports","WWW","","dom","S"],["2026-05-25","Liga Regional Norte 2026 Split 1 Playoffs","Round 3","Fuego","G3V E-sports","WWLW","","dom","S"],["2026-06-08","Liga Regional Norte 2026 Split 1 Playoffs","Final","Fuego","G3V E-sports","WWW","","dom","S"]],"unknown":[]}
+{
+  "player": "Shiku",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2022-11-12","Claro Stars League 2022 Stars Cup","Round 1","Lightning Esports","Club Deportivo Municipal","WWW","","dom","S"],
+    ["2022-11-19","Claro Stars League 2022 Stars Cup","Semifinal","Lightning Esports","South Gaming","WWW","","dom","S"],
+    ["2022-11-26","Claro Stars League 2022 Stars Cup","Final","Lightning Esports","Incubus","LLL","","dom","S"],
+    ["2023-03-24","Claro Stars League 2023 Opening Playoffs","Round 4","Vipers","Universitario Esports","WWW","","dom","S"],
+    ["2023-03-25","Claro Stars League 2023 Opening Playoffs","Round 5","Vipers","Spectacled Bears","LLWL","","dom","S"],
+    ["2024-07-28","Blossom League Season 7","Round 1","Dark Project","Tier 28","WLWW","r","dom","S"],
+    ["2024-08-11","Blossom League Season 7","Quarterfinal","Dark Project","ODD Esports","WWW","r","dom","S"],
+    ["2024-08-26","Blossom League Season 7","Semifinal","Dark Project","Idyllic","WWW","r","dom","S"],
+    ["2024-09-02","Blossom League Season 7","Final","Dark Project","Ascendent Esports","WWW","r","dom","S"],
+    ["2024-10-12","Emerald League 2024 Special Edition","Semifinal","Senshi eSports (Latin American Team)","Izanagi eSports","WWLLL","r","dom",""],
+    ["2025-05-14","Liga Regional Norte 2025 Split 1 Playoffs","Round 1","Fuego","INFINITY","LLL","","dom","S"],
+    ["2025-05-20","Liga Regional Norte 2025 Split 1 Playoffs","Round 1","Fuego","PÊEK Gaming","LWWW","","dom","S"],
+    ["2025-05-28","Liga Regional Norte 2025 Split 1 Playoffs","Round 2","Fuego","Zeu5 Esports","WWW","","dom","S"],
+    ["2025-06-03","Liga Regional Norte 2025 Split 1 Playoffs","Final","Fuego","INFINITY","WWLLW","","dom","S"],
+    ["2025-09-01","Liga Regional Sur 2025 Split 2 Playoffs","Round 3","Golden Lions","Maze Gaming","LWLWL","","dom","S"],
+    ["2025-09-29","Trufas Circuit LAN 2025 Main Event","Final","Kai Cenat","Icon Esports (Mexican Team)","WWW","r","dom","S"],
+    ["2025-12-16","Mystic League A 2025 Main Event","Final","NCG Esports","3v Team","WWW","r","dom","S"],
+    ["2026-04-20","Liga Regional Norte 2026 Split 1 Playoffs","Round 1","Fuego","Zeu5 Esports","WWW","","dom","S"],
+    ["2026-05-25","Liga Regional Norte 2026 Split 1 Playoffs","Round 3","Fuego","G3V E-sports","WWLW","","dom","S"],
+    ["2026-06-08","Liga Regional Norte 2026 Split 1 Playoffs","Final","Fuego","G3V E-sports","WWW","","dom","S"]
+  ],
+  "unknown": []
+}

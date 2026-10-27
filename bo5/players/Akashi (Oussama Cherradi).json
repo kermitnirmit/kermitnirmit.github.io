@@ -1,1 +1,36 @@
-{"player":"Akashi (Oussama Cherradi)","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2020-09-11","Intel Arabian Cup 2020 Morocco Split 2","Semifinal","Fox Gaming","NRaven Esports","WWW","r","dom","P"],["2020-10-25","ESWC Africa 2020","Final","Fox Gaming","The Black Lotus","WWW","","dom","S"],["2020-12-11","Intel Arabian Cup 2020","Quarterfinal","Fox Gaming","Titans Gaming Center","WWW","r","dom","S"],["2020-12-18","Intel Arabian Cup 2020","Semifinal","Fox Gaming","Anubis Gaming","WWLLL","r","dom","S"],["2020-12-19","Intel Arabian Cup 2020","Third-Place Match","Fox Gaming","Galaxy Racer Esports MENA Male","WWW","r","dom","S"],["2021-05-14","Intel Arabian Cup Champions League 2021 Season 1","Semifinal","Fox Gaming","Anubis Gaming","WLLL","r","dom","P"],["2021-05-21","Intel Arabian Cup Champions League 2021 Season 1","Third-Place Match","Fox Gaming","Galaxy Racer Esports MENA Male","WLWW","r","dom","P"],["2021-07-10","GLWL 2021 Summer Playoffs","Round 1","Olympiacos Alimou","Panther Stars Esports","WWW","","dom","S"],["2021-07-11","GLWL 2021 Summer Playoffs","Round 2","Olympiacos Alimou","Team Phantasma Community","WLWW","p","dom","S"],["2021-07-18","GLWL 2021 Summer Playoffs","Round 3","Olympiacos Alimou","Team HavoC","WWW","p","dom","S"],["2021-07-21","GLWL 2021 Summer Playoffs","Final","Olympiacos Alimou","Anorthosis Famagusta Esports Academy","LLL","","dom","S"],["2021-07-23","Intel Arabian Cup Champions League 2021 Season 3 Relegation","Round 1","Fox Gaming","CUT Esports","WWW","r","dom","P"],["2021-07-24","Intel Arabian Cup Champions League 2021 Season 3 Relegation","Round 2","Fox Gaming","E9Sports","WWLW","r","dom","P"],["2021-08-02","Greek Legends League 2021 Winter Promotion","Promotion","Olympiacos Alimou","CowBoySquad Imperials Esports","WWW","","dom","S"],["2021-10-08","Intel Arabian Cup Champions League 2021 Grand Finals","Round 1","Fox Gaming","Lost Esports","LWWLL","r","dom","P"],["2021-10-10","Intel Arabian Cup Champions League 2021 Grand Finals","Round 1","Fox Gaming","Nigma Galaxy Male","WLWW","r","dom","P"],["2021-10-14","Intel Arabian Cup Champions League 2021 Grand Finals","Round 2","Fox Gaming","RA'AD","LLL","r","dom","P"],["2022-02-20","A1 Gaming League 2021 Pro Main Event","Grand Finals","Breathe Your Last Breath","TAKEOVER (Bulgarian Team)","WWLW","r","dom",""],["2022-10-08","Intel Arabian Cup Prestige Division 2022 Last Chance Qualifier","Round 4","Fox Gaming","VSlash GnG","LLL","r","dom","P"],["2023-04-01","College League of Legends 2023 National Junior College Athletic Association Esports/Playoffs","Semifinal","St. Clair College","Waubonsee Community College","WWW","r","dom",""],["2023-04-08","College League of Legends 2023 National Junior College Athletic Association Esports/Playoffs","Final","St. Clair College","Northern Virginia Community College","WWW","r","dom",""],["2024-04-20","Saudi eLeagues 2024 Season 1","Grand Finals","XO Esports","Geekay Esports","WWW","r","dom","S"],["2025-05-27","Arabian League 2025 Summer Promotion","Round 1","Dragons Esports","3BL Esports","WLWW","","dom","S"],["2025-05-29","Arabian League 2025 Summer Promotion","Round 2","Dragons Esports","FN Esports","WLWLL","","dom","S"],["2025-05-30","Arabian League 2025 Summer Promotion","Round 2","Dragons Esports","Baam Esports","LWLWW","","dom","S"]],"unknown":[["2020-08-29","Intel Arabian Cup 2020 Morocco Split 2","Quarterfinal","Fox Gaming","The Black Lotus","2-3","","dom","P"],["2020-09-14","Intel Arabian Cup 2020 Morocco Split 2","Grand Finals","Fox Gaming","The Black Lotus","3-2","","dom","P"]]}
+{
+  "player": "Akashi (Oussama Cherradi)",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2020-09-11","Intel Arabian Cup 2020 Morocco Split 2","Semifinal","Fox Gaming","NRaven Esports","WWW","r","dom","P"],
+    ["2020-10-25","ESWC Africa 2020","Final","Fox Gaming","The Black Lotus","WWW","","dom","S"],
+    ["2020-12-11","Intel Arabian Cup 2020","Quarterfinal","Fox Gaming","Titans Gaming Center","WWW","r","dom","S"],
+    ["2020-12-18","Intel Arabian Cup 2020","Semifinal","Fox Gaming","Anubis Gaming","WWLLL","r","dom","S"],
+    ["2020-12-19","Intel Arabian Cup 2020","Third-Place Match","Fox Gaming","Galaxy Racer Esports MENA Male","WWW","r","dom","S"],
+    ["2021-05-14","Intel Arabian Cup Champions League 2021 Season 1","Semifinal","Fox Gaming","Anubis Gaming","WLLL","r","dom","P"],
+    ["2021-05-21","Intel Arabian Cup Champions League 2021 Season 1","Third-Place Match","Fox Gaming","Galaxy Racer Esports MENA Male","WLWW","r","dom","P"],
+    ["2021-07-10","GLWL 2021 Summer Playoffs","Round 1","Olympiacos Alimou","Panther Stars Esports","WWW","","dom","S"],
+    ["2021-07-11","GLWL 2021 Summer Playoffs","Round 2","Olympiacos Alimou","Team Phantasma Community","WLWW","p","dom","S"],
+    ["2021-07-18","GLWL 2021 Summer Playoffs","Round 3","Olympiacos Alimou","Team HavoC","WWW","p","dom","S"],
+    ["2021-07-21","GLWL 2021 Summer Playoffs","Final","Olympiacos Alimou","Anorthosis Famagusta Esports Academy","LLL","","dom","S"],
+    ["2021-07-23","Intel Arabian Cup Champions League 2021 Season 3 Relegation","Round 1","Fox Gaming","CUT Esports","WWW","r","dom","P"],
+    ["2021-07-24","Intel Arabian Cup Champions League 2021 Season 3 Relegation","Round 2","Fox Gaming","E9Sports","WWLW","r","dom","P"],
+    ["2021-08-02","Greek Legends League 2021 Winter Promotion","Promotion","Olympiacos Alimou","CowBoySquad Imperials Esports","WWW","","dom","S"],
+    ["2021-10-08","Intel Arabian Cup Champions League 2021 Grand Finals","Round 1","Fox Gaming","Lost Esports","LWWLL","r","dom","P"],
+    ["2021-10-10","Intel Arabian Cup Champions League 2021 Grand Finals","Round 1","Fox Gaming","Nigma Galaxy Male","WLWW","r","dom","P"],
+    ["2021-10-14","Intel Arabian Cup Champions League 2021 Grand Finals","Round 2","Fox Gaming","RA'AD","LLL","r","dom","P"],
+    ["2022-02-20","A1 Gaming League 2021 Pro Main Event","Grand Finals","Breathe Your Last Breath","TAKEOVER (Bulgarian Team)","WWLW","r","dom",""],
+    ["2022-10-08","Intel Arabian Cup Prestige Division 2022 Last Chance Qualifier","Round 4","Fox Gaming","VSlash GnG","LLL","r","dom","P"],
+    ["2023-04-01","College League of Legends 2023 National Junior College Athletic Association Esports/Playoffs","Semifinal","St. Clair College","Waubonsee Community College","WWW","r","dom",""],
+    ["2023-04-08","College League of Legends 2023 National Junior College Athletic Association Esports/Playoffs","Final","St. Clair College","Northern Virginia Community College","WWW","r","dom",""],
+    ["2024-04-20","Saudi eLeagues 2024 Season 1","Grand Finals","XO Esports","Geekay Esports","WWW","r","dom","S"],
+    ["2025-05-27","Arabian League 2025 Summer Promotion","Round 1","Dragons Esports","3BL Esports","WLWW","","dom","S"],
+    ["2025-05-29","Arabian League 2025 Summer Promotion","Round 2","Dragons Esports","FN Esports","WLWLL","","dom","S"],
+    ["2025-05-30","Arabian League 2025 Summer Promotion","Round 2","Dragons Esports","Baam Esports","LWLWW","","dom","S"]
+  ],
+  "unknown": [
+    ["2020-08-29","Intel Arabian Cup 2020 Morocco Split 2","Quarterfinal","Fox Gaming","The Black Lotus","2-3","","dom","P"],
+    ["2020-09-14","Intel Arabian Cup 2020 Morocco Split 2","Grand Finals","Fox Gaming","The Black Lotus","3-2","","dom","P"]
+  ]
+}

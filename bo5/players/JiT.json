@@ -1,1 +1,28 @@
-{"player":"JiT","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2023-08-02","Prime League 2nd Division 2023 Summer Playoffs","Round 2","DKB Diamonds","Austrian Force willhaben","WLWLL","","dom","S"],["2023-08-07","Prime League 2nd Division 2023 Summer Playoffs","Semifinal","DKB Diamonds","TeamOrangeGaming","LWLL","","dom","S"],["2023-09-12","Prime League 1st Division 2024 Promotion","Round 1","DKB Diamonds","GamerLegion","WLLWL","","dom","S"],["2023-09-19","Prime League 1st Division 2024 Promotion","Round 1","DKB Diamonds","Austrian Force willhaben","LLL","","dom","S"],["2024-03-15","Prime League 2nd Division 2024 Spring Playoffs","Round 1","Kaufland Hangry Knights","Direct Rising eSports","WWW","","dom","S"],["2024-03-28","Prime League 2nd Division 2024 Spring Playoffs","Round 2","Kaufland Hangry Knights","ROSSMANN Centaurs","WLWW","","dom","S"],["2024-04-04","Prime League 2nd Division 2024 Spring Playoffs","Semifinal","Kaufland Hangry Knights","TeamOrangeGaming","LLL","","dom","S"],["2024-10-17","NLC 2025 Last Chance Qualifier","Round 1","Ruzeh Esports","BlueWhites","WLWLL","","dom","S"],["2024-10-28","NLC 2025 Last Chance Qualifier","Round 1","Ruzeh Esports","Garden Gaming","LWLWL","","dom","S"],["2025-03-20","Prime League 2nd Division 2025 Spring Playoffs","Round 2","AKA HERO","regnum4games","WWLLW","","dom","S"],["2025-03-27","Prime League 2nd Division 2025 Spring Playoffs","Round 4","AKA HERO","All for One Gaming","WWLW","","dom","S"],["2025-04-10","Prime League 2nd Division 2025 Spring Playoffs","Grand Final","AKA HERO","All for One Gaming","WWW","","dom","S"],["2025-07-07","Prime League 2nd Division 2025 Summer Playoffs","Round 1","Könige der Meere","Lausanne-Sport Esports","WWW","","dom","S"],["2025-07-09","Prime League 2nd Division 2025 Summer Playoffs","Round 2","Könige der Meere","TeamOrangeGaming Academy","WWW","","dom","S"],["2025-07-17","Prime League 2nd Division 2025 Summer Playoffs","Round 4","Könige der Meere","All for One Gaming","LLL","","dom","S"],["2025-07-21","Prime League 2nd Division 2025 Summer Playoffs","Round 4","Könige der Meere","VfB eSports","WWLW","","dom","S"],["2025-07-25","Prime League 2nd Division 2025 Summer Playoffs","Grand Final","Könige der Meere","All for One Gaming","LLL","","dom","S"],["2025-08-03","Prime League 2nd Division 2025 Season Finals","Round 1","Könige der Meere","regnum4games","LWWW","","dom","S"],["2025-08-07","Prime League 2nd Division 2025 Season Finals","Round 2","Könige der Meere","VfB eSports","LLWL","","dom","S"],["2025-08-10","Prime League 2nd Division 2025 Season Finals","Round 2","Könige der Meere","All for One Gaming","WLWLL","","dom","S"]],"unknown":[]}
+{
+  "player": "JiT",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2023-08-02","Prime League 2nd Division 2023 Summer Playoffs","Round 2","DKB Diamonds","Austrian Force willhaben","WLWLL","","dom","S"],
+    ["2023-08-07","Prime League 2nd Division 2023 Summer Playoffs","Semifinal","DKB Diamonds","TeamOrangeGaming","LWLL","","dom","S"],
+    ["2023-09-12","Prime League 1st Division 2024 Promotion","Round 1","DKB Diamonds","GamerLegion","WLLWL","","dom","S"],
+    ["2023-09-19","Prime League 1st Division 2024 Promotion","Round 1","DKB Diamonds","Austrian Force willhaben","LLL","","dom","S"],
+    ["2024-03-15","Prime League 2nd Division 2024 Spring Playoffs","Round 1","Kaufland Hangry Knights","Direct Rising eSports","WWW","","dom","S"],
+    ["2024-03-28","Prime League 2nd Division 2024 Spring Playoffs","Round 2","Kaufland Hangry Knights","ROSSMANN Centaurs","WLWW","","dom","S"],
+    ["2024-04-04","Prime League 2nd Division 2024 Spring Playoffs","Semifinal","Kaufland Hangry Knights","TeamOrangeGaming","LLL","","dom","S"],
+    ["2024-10-17","NLC 2025 Last Chance Qualifier","Round 1","Ruzeh Esports","BlueWhites","WLWLL","","dom","S"],
+    ["2024-10-28","NLC 2025 Last Chance Qualifier","Round 1","Ruzeh Esports","Garden Gaming","LWLWL","","dom","S"],
+    ["2025-03-20","Prime League 2nd Division 2025 Spring Playoffs","Round 2","AKA HERO","regnum4games","WWLLW","","dom","S"],
+    ["2025-03-27","Prime League 2nd Division 2025 Spring Playoffs","Round 4","AKA HERO","All for One Gaming","WWLW","","dom","S"],
+    ["2025-04-10","Prime League 2nd Division 2025 Spring Playoffs","Grand Final","AKA HERO","All for One Gaming","WWW","","dom","S"],
+    ["2025-07-07","Prime League 2nd Division 2025 Summer Playoffs","Round 1","Könige der Meere","Lausanne-Sport Esports","WWW","","dom","S"],
+    ["2025-07-09","Prime League 2nd Division 2025 Summer Playoffs","Round 2","Könige der Meere","TeamOrangeGaming Academy","WWW","","dom","S"],
+    ["2025-07-17","Prime League 2nd Division 2025 Summer Playoffs","Round 4","Könige der Meere","All for One Gaming","LLL","","dom","S"],
+    ["2025-07-21","Prime League 2nd Division 2025 Summer Playoffs","Round 4","Könige der Meere","VfB eSports","WWLW","","dom","S"],
+    ["2025-07-25","Prime League 2nd Division 2025 Summer Playoffs","Grand Final","Könige der Meere","All for One Gaming","LLL","","dom","S"],
+    ["2025-08-03","Prime League 2nd Division 2025 Season Finals","Round 1","Könige der Meere","regnum4games","LWWW","","dom","S"],
+    ["2025-08-07","Prime League 2nd Division 2025 Season Finals","Round 2","Könige der Meere","VfB eSports","LLWL","","dom","S"],
+    ["2025-08-10","Prime League 2nd Division 2025 Season Finals","Round 2","Könige der Meere","All for One Gaming","WLWLL","","dom","S"]
+  ],
+  "unknown": []
+}

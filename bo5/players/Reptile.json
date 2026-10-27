@@ -1,1 +1,39 @@
-{"player":"Reptile","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2021-06-12","A1 eSports Legends Cup 2021 Season","Final","Flayn eSports","Wacker Gaming","WWLW","r","dom","S"],["2022-03-03","Prime League 1st Division 2022 Spring Playoffs","Round 1","Unicorns of Love Sexy Edition","FC Schalke 04 Esports","LWWW","","dom","S"],["2022-03-10","Prime League 1st Division 2022 Spring Playoffs","Round 2","Unicorns of Love Sexy Edition","Berlin International Gaming","WWW","","dom","S"],["2022-03-13","Prime League 1st Division 2022 Spring Playoffs","Semifinal","Unicorns of Love Sexy Edition","GamerLegion","WLLL","","dom","S"],["2022-04-30","European Masters 2022 Spring Main Event","Quarterfinal","Unicorns of Love Sexy Edition","Karmine Corp","WLLL","","dom","S"],["2023-09-22","Drututt Ultimate Showdown","Round 1","Low5","Lose in Peace","WLLWL","","dom","S"],["2023-09-23","Drututt Ultimate Showdown","Round 1","Low5","Pozdrowienia do Więzienia","LLL","","dom","S"],["2024-06-18","NNO Cup Season 1","Round 1","Team Sinerias","Team Send0o","WWLW","r","dom","S"],["2024-06-22","NNO Cup Season 1","Quarterfinal","Team Sinerias","Team NoWay","LLWWL","r","dom","S"],["2024-11-28","NNO Cup Season 2","Round 1","5 Pigs 1 Team","Die Atzen","WWW","","dom","S"],["2024-11-30","NNO Cup Season 2","Round 2","5 Pigs 1 Team","French Flair","LLWWL","","dom","S"],["2024-12-02","NNO Cup Season 2","Round 2","5 Pigs 1 Team","Kiedyś Miałem Fun","WWW","","dom","S"],["2024-12-03","NNO Cup Season 2","Round 3","5 Pigs 1 Team","Los Guarros","WWW","","dom","S"],["2024-12-06","NNO Cup Season 2","Round 4","5 Pigs 1 Team","French Flair","WLLWW","","dom","S"],["2024-12-08","NNO Cup Season 2","Final","5 Pigs 1 Team","Los Ratones","LWLL","","dom","S"],["2025-05-27","Prime League 1st Division 2025 Spring Playoffs","Semifinal","CGN Esports","Kaufland Hangry Knights","LWWW","","dom","S"],["2025-05-30","Prime League 1st Division 2025 Spring Playoffs","Final","CGN Esports","Berlin International Gaming","LWLWW","","dom","S"],["2025-06-13","EMEA Masters 2025 Spring","Round of 16","CGN Esports","Team Heretics Academy","LWLL","","dom","S"],["2026-02-24","Prime League 2nd Division 2026 Winter Playoffs","Round 1","CGN Esports","NICE GUYS","WWW","r","dom","S"],["2026-03-10","Prime League 2nd Division 2026 Winter Playoffs","Round 4","CGN Esports","MT1 Esports","WLWLW","","dom","S"],["2026-03-15","Prime League 2nd Division 2026 Winter Playoffs","Grand Final","CGN Esports","VfB eSports","WWW","","dom","S"],["2026-06-15","Prime League 2nd Division 2026 Spring Playoffs","Round 4","CGN Esports","All for One Gaming","WWW","","dom","S"],["2026-06-21","Prime League 2nd Division 2026 Spring Playoffs","Grand Final","CGN Esports","All for One Gaming","WWW","","dom","S"],["2026-07-25","Prime League 2nd Division 2026 Season Finals","Round 2","CGN Esports","PvB (Swiss Team)","WWW","","dom","S"],["2026-08-10","Prime League 2nd Division 2026 Season Finals","Round 5","CGN Esports","All for One Gaming","WWLW","","dom","S"],["2026-08-23","Prime League 2nd Division 2026 Season Finals","Final","CGN Esports","All for One Gaming","WWLW","","dom","S"],["2026-09-08","Prime League 1st Division 2027 Promotion","Round 1","CGN Esports","VfB eSports","WLWW","","dom","S"],["2026-09-13","Prime League 1st Division 2027 Promotion","Round 2","CGN Esports","Eintracht Frankfurt","WWLW","","dom","S"]],"unknown":[["2024-01-07","VININE Winter Face-Off 2024","Final","The Bus","Team Piggies","3-1","","dom","S"],["2026-03-02","Prime League 2nd Division 2026 Winter Playoffs","Round 2","CGN Esports","VfB eSports","3-1","","dom","S"]]}
+{
+  "player": "Reptile",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2021-06-12","A1 eSports Legends Cup 2021 Season","Final","Flayn eSports","Wacker Gaming","WWLW","r","dom","S"],
+    ["2022-03-03","Prime League 1st Division 2022 Spring Playoffs","Round 1","Unicorns of Love Sexy Edition","FC Schalke 04 Esports","LWWW","","dom","S"],
+    ["2022-03-10","Prime League 1st Division 2022 Spring Playoffs","Round 2","Unicorns of Love Sexy Edition","Berlin International Gaming","WWW","","dom","S"],
+    ["2022-03-13","Prime League 1st Division 2022 Spring Playoffs","Semifinal","Unicorns of Love Sexy Edition","GamerLegion","WLLL","","dom","S"],
+    ["2022-04-30","European Masters 2022 Spring Main Event","Quarterfinal","Unicorns of Love Sexy Edition","Karmine Corp","WLLL","","dom","S"],
+    ["2023-09-22","Drututt Ultimate Showdown","Round 1","Low5","Lose in Peace","WLLWL","","dom","S"],
+    ["2023-09-23","Drututt Ultimate Showdown","Round 1","Low5","Pozdrowienia do Więzienia","LLL","","dom","S"],
+    ["2024-06-18","NNO Cup Season 1","Round 1","Team Sinerias","Team Send0o","WWLW","r","dom","S"],
+    ["2024-06-22","NNO Cup Season 1","Quarterfinal","Team Sinerias","Team NoWay","LLWWL","r","dom","S"],
+    ["2024-11-28","NNO Cup Season 2","Round 1","5 Pigs 1 Team","Die Atzen","WWW","","dom","S"],
+    ["2024-11-30","NNO Cup Season 2","Round 2","5 Pigs 1 Team","French Flair","LLWWL","","dom","S"],
+    ["2024-12-02","NNO Cup Season 2","Round 2","5 Pigs 1 Team","Kiedyś Miałem Fun","WWW","","dom","S"],
+    ["2024-12-03","NNO Cup Season 2","Round 3","5 Pigs 1 Team","Los Guarros","WWW","","dom","S"],
+    ["2024-12-06","NNO Cup Season 2","Round 4","5 Pigs 1 Team","French Flair","WLLWW","","dom","S"],
+    ["2024-12-08","NNO Cup Season 2","Final","5 Pigs 1 Team","Los Ratones","LWLL","","dom","S"],
+    ["2025-05-27","Prime League 1st Division 2025 Spring Playoffs","Semifinal","CGN Esports","Kaufland Hangry Knights","LWWW","","dom","S"],
+    ["2025-05-30","Prime League 1st Division 2025 Spring Playoffs","Final","CGN Esports","Berlin International Gaming","LWLWW","","dom","S"],
+    ["2025-06-13","EMEA Masters 2025 Spring","Round of 16","CGN Esports","Team Heretics Academy","LWLL","","dom","S"],
+    ["2026-02-24","Prime League 2nd Division 2026 Winter Playoffs","Round 1","CGN Esports","NICE GUYS","WWW","r","dom","S"],
+    ["2026-03-10","Prime League 2nd Division 2026 Winter Playoffs","Round 4","CGN Esports","MT1 Esports","WLWLW","","dom","S"],
+    ["2026-03-15","Prime League 2nd Division 2026 Winter Playoffs","Grand Final","CGN Esports","VfB eSports","WWW","","dom","S"],
+    ["2026-06-15","Prime League 2nd Division 2026 Spring Playoffs","Round 4","CGN Esports","All for One Gaming","WWW","","dom","S"],
+    ["2026-06-21","Prime League 2nd Division 2026 Spring Playoffs","Grand Final","CGN Esports","All for One Gaming","WWW","","dom","S"],
+    ["2026-07-25","Prime League 2nd Division 2026 Season Finals","Round 2","CGN Esports","PvB (Swiss Team)","WWW","","dom","S"],
+    ["2026-08-10","Prime League 2nd Division 2026 Season Finals","Round 5","CGN Esports","All for One Gaming","WWLW","","dom","S"],
+    ["2026-08-23","Prime League 2nd Division 2026 Season Finals","Final","CGN Esports","All for One Gaming","WWLW","","dom","S"],
+    ["2026-09-08","Prime League 1st Division 2027 Promotion","Round 1","CGN Esports","VfB eSports","WLWW","","dom","S"],
+    ["2026-09-13","Prime League 1st Division 2027 Promotion","Round 2","CGN Esports","Eintracht Frankfurt","WWLW","","dom","S"]
+  ],
+  "unknown": [
+    ["2024-01-07","VININE Winter Face-Off 2024","Final","The Bus","Team Piggies","3-1","","dom","S"],
+    ["2026-03-02","Prime League 2nd Division 2026 Winter Playoffs","Round 2","CGN Esports","VfB eSports","3-1","","dom","S"]
+  ]
+}

@@ -1,1 +1,30 @@
-{"player":"Raider","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2022-03-16","LVP SuperLiga 2nd Division 2022 Spring Playoffs","Round 1","Wizards","Herbalife Real Betis","LWLWW","","dom","S"],["2022-03-22","LVP SuperLiga 2nd Division 2022 Spring Playoffs","Round 2","Wizards","Rebels Gaming","WWLW","","dom","S"],["2022-03-23","LVP SuperLiga 2nd Division 2022 Spring Playoffs","Semifinal","Wizards","Guasones","WLLL","","dom","S"],["2022-08-02","LVP SuperLiga 2nd Division 2022 Summer Playoffs","Round 1","Wizards","Falcons (Spanish Team)","LLL","","dom","S"],["2024-07-17","Arabian League 2nd Division 2024 Summer Playoffs","Round 1","Fog Esports","Twareg Esports","WLWLL","","dom","S"],["2024-09-10","Arabian League 2025 Promotion","Round 1","Fog Esports","Baam Esports","WWW","","dom","S"],["2024-09-13","Arabian League 2025 Promotion","Round 2","Fog Esports","RA'AD","WWW","","dom","S"],["2024-09-14","Arabian League 2025 Promotion","Final","Fog Esports","Twareg Esports","WWW","","dom","S"],["2024-10-23","Aurora Cup 2024","Quarterfinal","Regem","Nativz","WWW","","dom","S"],["2024-11-05","Aurora Cup 2024","Semifinal","Regem","Verdant","WLLL","","dom","S"],["2025-09-20","4 Nations 2025 Summer Playoffs","Final","Belfast Storm","Brod n Friends","LWLL","","dom","S"],["2026-02-24","Prime League 2nd Division 2026 Winter Playoffs","Round 1","CGN Esports","NICE GUYS","WWW","r","dom","S"],["2026-03-10","Prime League 2nd Division 2026 Winter Playoffs","Round 4","CGN Esports","MT1 Esports","WLWLW","","dom","S"],["2026-03-31","Arabian League 2026 Spring Promotion","Round 2","JSK Esports","One More Esports","WLLL","","dom","S"],["2026-04-01","Arabian League 2026 Spring Promotion","Round 2","JSK Esports","Super Stars","LLWL","","dom","S"],["2026-07-25","Prime League 2nd Division 2026 Season Finals","Round 2","CGN Esports","PvB (Swiss Team)","WWW","","dom","S"],["2026-08-10","Prime League 2nd Division 2026 Season Finals","Round 5","CGN Esports","All for One Gaming","WWLW","","dom","S"],["2026-08-23","Prime League 2nd Division 2026 Season Finals","Final","CGN Esports","All for One Gaming","WWLW","","dom","S"],["2026-09-08","Prime League 1st Division 2027 Promotion","Round 1","CGN Esports","VfB eSports","WLWW","","dom","S"],["2026-09-13","Prime League 1st Division 2027 Promotion","Round 2","CGN Esports","Eintracht Frankfurt","WWLW","p","dom","S"]],"unknown":[["2026-03-02","Prime League 2nd Division 2026 Winter Playoffs","Round 2","CGN Esports","VfB eSports","3-1","","dom","S"]]}
+{
+  "player": "Raider",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2022-03-16","LVP SuperLiga 2nd Division 2022 Spring Playoffs","Round 1","Wizards","Herbalife Real Betis","LWLWW","","dom","S"],
+    ["2022-03-22","LVP SuperLiga 2nd Division 2022 Spring Playoffs","Round 2","Wizards","Rebels Gaming","WWLW","","dom","S"],
+    ["2022-03-23","LVP SuperLiga 2nd Division 2022 Spring Playoffs","Semifinal","Wizards","Guasones","WLLL","","dom","S"],
+    ["2022-08-02","LVP SuperLiga 2nd Division 2022 Summer Playoffs","Round 1","Wizards","Falcons (Spanish Team)","LLL","","dom","S"],
+    ["2024-07-17","Arabian League 2nd Division 2024 Summer Playoffs","Round 1","Fog Esports","Twareg Esports","WLWLL","","dom","S"],
+    ["2024-09-10","Arabian League 2025 Promotion","Round 1","Fog Esports","Baam Esports","WWW","","dom","S"],
+    ["2024-09-13","Arabian League 2025 Promotion","Round 2","Fog Esports","RA'AD","WWW","","dom","S"],
+    ["2024-09-14","Arabian League 2025 Promotion","Final","Fog Esports","Twareg Esports","WWW","","dom","S"],
+    ["2024-10-23","Aurora Cup 2024","Quarterfinal","Regem","Nativz","WWW","","dom","S"],
+    ["2024-11-05","Aurora Cup 2024","Semifinal","Regem","Verdant","WLLL","","dom","S"],
+    ["2025-09-20","4 Nations 2025 Summer Playoffs","Final","Belfast Storm","Brod n Friends","LWLL","","dom","S"],
+    ["2026-02-24","Prime League 2nd Division 2026 Winter Playoffs","Round 1","CGN Esports","NICE GUYS","WWW","r","dom","S"],
+    ["2026-03-10","Prime League 2nd Division 2026 Winter Playoffs","Round 4","CGN Esports","MT1 Esports","WLWLW","","dom","S"],
+    ["2026-03-31","Arabian League 2026 Spring Promotion","Round 2","JSK Esports","One More Esports","WLLL","","dom","S"],
+    ["2026-04-01","Arabian League 2026 Spring Promotion","Round 2","JSK Esports","Super Stars","LLWL","","dom","S"],
+    ["2026-07-25","Prime League 2nd Division 2026 Season Finals","Round 2","CGN Esports","PvB (Swiss Team)","WWW","","dom","S"],
+    ["2026-08-10","Prime League 2nd Division 2026 Season Finals","Round 5","CGN Esports","All for One Gaming","WWLW","","dom","S"],
+    ["2026-08-23","Prime League 2nd Division 2026 Season Finals","Final","CGN Esports","All for One Gaming","WWLW","","dom","S"],
+    ["2026-09-08","Prime League 1st Division 2027 Promotion","Round 1","CGN Esports","VfB eSports","WLWW","","dom","S"],
+    ["2026-09-13","Prime League 1st Division 2027 Promotion","Round 2","CGN Esports","Eintracht Frankfurt","WWLW","p","dom","S"]
+  ],
+  "unknown": [
+    ["2026-03-02","Prime League 2nd Division 2026 Winter Playoffs","Round 2","CGN Esports","VfB eSports","3-1","","dom","S"]
+  ]
+}

@@ -1,1 +1,31 @@
-{"player":"Sander","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2019-03-26","Golden League 2019 Opening Playoffs","Semifinal","MAD Lions E.C. Colombia","VAULT","LWWW","","dom","S"],["2019-04-13","Golden League 2019 Opening Playoffs","Final","MAD Lions E.C. Colombia","Loto Gaming","WWW","","dom","S"],["2019-07-31","Golden League 2019 Closing Playoffs","Quarterfinal","MAD Lions E.C. Colombia","DP5 Makios","WWW","","dom","S"],["2019-08-07","Golden League 2019 Closing Playoffs","Semifinal","MAD Lions E.C. Colombia","VAULT","LWLWW","","dom","S"],["2019-08-24","Golden League 2019 Closing Playoffs","Final","MAD Lions E.C. Colombia","Wild Jaguars","WWW","","dom","S"],["2019-09-11","Regional Norte 2019 Season","Playoffs","MAD Lions E.C. Colombia","OG Esports","WLLWW","","dom","S"],["2019-09-29","LLA 2020 Opening Promotion","Qualifiers","MAD Lions E.C. Colombia","Pixel Esports Club","LLWL","","dom","P"],["2020-04-21","Golden League 2020 Opening Playoffs","Round 2","Zeu5 Bogota","Onoda Esports","LLL","","dom","S"],["2020-04-22","Golden League 2020 Opening Playoffs","Round 3","Zeu5 Bogota","RusherX Gaming","WWW","","dom","S"],["2020-05-04","Golden League 2020 Opening Playoffs","Final","Zeu5 Bogota","Onoda Esports","WWW","","dom","S"],["2020-08-18","Golden League 2020 Closing Playoffs","Round 2","Zeu5 Bogota","Wygers Colombia","WLWW","","dom","S"],["2020-08-30","Golden League 2020 Closing Playoffs","Final","Zeu5 Bogota","Wygers Colombia","WWW","","dom","S"],["2020-09-09","Regional Norte 2020 Season","Final","Zeu5 Bogota","Estral Esports","LLL","","dom","S"],["2021-04-07","Golden League 2021 Opening Playoffs","Round 3","Zeu5 Bogota","Once Caldas Esports","WWLW","","dom","S"],["2021-04-20","Golden League 2021 Opening Playoffs","Final","Zeu5 Bogota","Wygers Colombia","LWWW","","dom","S"],["2021-11-10","Golden League 2021 Golden Cup","Round 1","Spirituals","Godlike Goats","WLWLW","","dom","S"],["2021-11-17","Golden League 2021 Golden Cup","Semifinal","Spirituals","TFK","LLL","","dom","S"],["2021-11-23","Golden League 2021 Golden Cup","Third-Place Match","Spirituals","Ramo Awake Gaming","LLL","","dom","S"],["2022-11-08","Golden League 2022 Golden Cup","Round 1","PRO42","Osaka","WLWW","","dom","S"],["2022-11-16","Golden League 2022 Golden Cup","Semifinal","PRO42","Spirituals","WLWLL","","dom","S"],["2022-11-22","Golden League 2022 Golden Cup","Third-Place Match","PRO42","Mayan Esports","WLWW","","dom","S"]],"unknown":[["2018-09-19","Circuito Nacional Colombia 2018 Season","Semifinal","Zeu5 Gaming","VAULT","1-3","","dom",""]]}
+{
+  "player": "Sander",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2019-03-26","Golden League 2019 Opening Playoffs","Semifinal","MAD Lions E.C. Colombia","VAULT","LWWW","","dom","S"],
+    ["2019-04-13","Golden League 2019 Opening Playoffs","Final","MAD Lions E.C. Colombia","Loto Gaming","WWW","","dom","S"],
+    ["2019-07-31","Golden League 2019 Closing Playoffs","Quarterfinal","MAD Lions E.C. Colombia","DP5 Makios","WWW","","dom","S"],
+    ["2019-08-07","Golden League 2019 Closing Playoffs","Semifinal","MAD Lions E.C. Colombia","VAULT","LWLWW","","dom","S"],
+    ["2019-08-24","Golden League 2019 Closing Playoffs","Final","MAD Lions E.C. Colombia","Wild Jaguars","WWW","","dom","S"],
+    ["2019-09-11","Regional Norte 2019 Season","Playoffs","MAD Lions E.C. Colombia","OG Esports","WLLWW","","dom","S"],
+    ["2019-09-29","LLA 2020 Opening Promotion","Qualifiers","MAD Lions E.C. Colombia","Pixel Esports Club","LLWL","","dom","P"],
+    ["2020-04-21","Golden League 2020 Opening Playoffs","Round 2","Zeu5 Bogota","Onoda Esports","LLL","","dom","S"],
+    ["2020-04-22","Golden League 2020 Opening Playoffs","Round 3","Zeu5 Bogota","RusherX Gaming","WWW","","dom","S"],
+    ["2020-05-04","Golden League 2020 Opening Playoffs","Final","Zeu5 Bogota","Onoda Esports","WWW","","dom","S"],
+    ["2020-08-18","Golden League 2020 Closing Playoffs","Round 2","Zeu5 Bogota","Wygers Colombia","WLWW","","dom","S"],
+    ["2020-08-30","Golden League 2020 Closing Playoffs","Final","Zeu5 Bogota","Wygers Colombia","WWW","","dom","S"],
+    ["2020-09-09","Regional Norte 2020 Season","Final","Zeu5 Bogota","Estral Esports","LLL","","dom","S"],
+    ["2021-04-07","Golden League 2021 Opening Playoffs","Round 3","Zeu5 Bogota","Once Caldas Esports","WWLW","","dom","S"],
+    ["2021-04-20","Golden League 2021 Opening Playoffs","Final","Zeu5 Bogota","Wygers Colombia","LWWW","","dom","S"],
+    ["2021-11-10","Golden League 2021 Golden Cup","Round 1","Spirituals","Godlike Goats","WLWLW","","dom","S"],
+    ["2021-11-17","Golden League 2021 Golden Cup","Semifinal","Spirituals","TFK","LLL","","dom","S"],
+    ["2021-11-23","Golden League 2021 Golden Cup","Third-Place Match","Spirituals","Ramo Awake Gaming","LLL","","dom","S"],
+    ["2022-11-08","Golden League 2022 Golden Cup","Round 1","PRO42","Osaka","WLWW","","dom","S"],
+    ["2022-11-16","Golden League 2022 Golden Cup","Semifinal","PRO42","Spirituals","WLWLL","","dom","S"],
+    ["2022-11-22","Golden League 2022 Golden Cup","Third-Place Match","PRO42","Mayan Esports","WLWW","","dom","S"]
+  ],
+  "unknown": [
+    ["2018-09-19","Circuito Nacional Colombia 2018 Season","Semifinal","Zeu5 Gaming","VAULT","1-3","","dom",""]
+  ]
+}

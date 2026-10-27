@@ -1,1 +1,31 @@
-{"player":"Wayward","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2021-08-30","LDL 2021 Summer Playoffs","Quarterfinal","Top Esports Challenger","Team WE Academy","WWW","","dom","S"],["2021-09-06","LDL 2021 Summer Playoffs","Semifinal","Top Esports Challenger","Rare Atom Period","LWLWL","","dom","S"],["2021-12-22","Demacia Cup 2021","Quarterfinal","Top Esports","Royal Never Give Up","WWW","p","dom","P"],["2022-03-28","LPL 2022 Spring Playoffs","Round 2","Top Esports","Bilibili Gaming","LWWW","","dom","P"],["2022-03-30","LPL 2022 Spring Playoffs","Round 3","Top Esports","LNG Esports","WWW","","dom","P"],["2022-04-12","LPL 2022 Spring Playoffs","Round 4","Top Esports","Victory Five","LLWWW","","dom","P"],["2022-04-17","LPL 2022 Spring Playoffs","Semifinal","Top Esports","Royal Never Give Up","WLLL","","dom","P"],["2022-04-20","LPL 2022 Spring Playoffs","Semifinal","Top Esports","Victory Five","LWWW","","dom","P"],["2022-04-23","LPL 2022 Spring Playoffs","Final","Top Esports","Royal Never Give Up","LLWWL","","dom","P"],["2022-08-22","LPL 2022 Summer Playoffs","Round 4","Top Esports","EDward Gaming","LWLWW","","dom","P"],["2022-08-26","LPL 2022 Summer Playoffs","Semifinal","Top Esports","JD Gaming","WWLLL","","dom","P"],["2022-08-28","LPL 2022 Summer Playoffs","Semifinal","Top Esports","EDward Gaming","WWW","","dom","P"],["2022-09-01","LPL 2022 Summer Playoffs","Final","Top Esports","JD Gaming","LWLWL","p","dom","P"],["2023-03-31","LPL 2023 Spring Playoffs","Round 1","Top Esports","Team WE","WWLW","","dom","P"],["2023-04-02","LPL 2023 Spring Playoffs","Round 2","Top Esports","Oh My God","WLWLL","","dom","P"],["2023-07-24","LPL 2023 Summer Playoffs","Round 3","Top Esports","EDward Gaming","WLWLW","","dom","P"],["2023-07-26","LPL 2023 Summer Playoffs","Round 4","Top Esports","Bilibili Gaming","LWLL","","dom","P"],["2023-07-29","LPL 2023 Summer Playoffs","Round 4","Top Esports","LNG Esports","LLWL","","dom","P"],["2023-08-07","LPL 2023 Regional Finals","Round 1","Top Esports","Weibo Gaming","WLWLL","","dom","P"],["2024-03-31","LPL 2024 Spring Playoffs","Round 1","Team WE","Oh My God","LWWW","","dom","P"],["2024-04-02","LPL 2024 Spring Playoffs","Round 2","Team WE","Ninjas in Pyjamas.CN","WLWLL","","dom","P"],["2025-05-04","Legend Cup Season 3 China","Round 1","Happy Game (LGC Team)","Blood (Chinese Team)","LLL","","dom","S"],["2026-03-30","Uzi Cup","Round 1","LUG","Omnipotence","LLL","r","dom","S"]],"unknown":[]}
+{
+  "player": "Wayward",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2021-08-30","LDL 2021 Summer Playoffs","Quarterfinal","Top Esports Challenger","Team WE Academy","WWW","","dom","S"],
+    ["2021-09-06","LDL 2021 Summer Playoffs","Semifinal","Top Esports Challenger","Rare Atom Period","LWLWL","","dom","S"],
+    ["2021-12-22","Demacia Cup 2021","Quarterfinal","Top Esports","Royal Never Give Up","WWW","p","dom","P"],
+    ["2022-03-28","LPL 2022 Spring Playoffs","Round 2","Top Esports","Bilibili Gaming","LWWW","","dom","P"],
+    ["2022-03-30","LPL 2022 Spring Playoffs","Round 3","Top Esports","LNG Esports","WWW","","dom","P"],
+    ["2022-04-12","LPL 2022 Spring Playoffs","Round 4","Top Esports","Victory Five","LLWWW","","dom","P"],
+    ["2022-04-17","LPL 2022 Spring Playoffs","Semifinal","Top Esports","Royal Never Give Up","WLLL","","dom","P"],
+    ["2022-04-20","LPL 2022 Spring Playoffs","Semifinal","Top Esports","Victory Five","LWWW","","dom","P"],
+    ["2022-04-23","LPL 2022 Spring Playoffs","Final","Top Esports","Royal Never Give Up","LLWWL","","dom","P"],
+    ["2022-08-22","LPL 2022 Summer Playoffs","Round 4","Top Esports","EDward Gaming","LWLWW","","dom","P"],
+    ["2022-08-26","LPL 2022 Summer Playoffs","Semifinal","Top Esports","JD Gaming","WWLLL","","dom","P"],
+    ["2022-08-28","LPL 2022 Summer Playoffs","Semifinal","Top Esports","EDward Gaming","WWW","","dom","P"],
+    ["2022-09-01","LPL 2022 Summer Playoffs","Final","Top Esports","JD Gaming","LWLWL","p","dom","P"],
+    ["2023-03-31","LPL 2023 Spring Playoffs","Round 1","Top Esports","Team WE","WWLW","","dom","P"],
+    ["2023-04-02","LPL 2023 Spring Playoffs","Round 2","Top Esports","Oh My God","WLWLL","","dom","P"],
+    ["2023-07-24","LPL 2023 Summer Playoffs","Round 3","Top Esports","EDward Gaming","WLWLW","","dom","P"],
+    ["2023-07-26","LPL 2023 Summer Playoffs","Round 4","Top Esports","Bilibili Gaming","LWLL","","dom","P"],
+    ["2023-07-29","LPL 2023 Summer Playoffs","Round 4","Top Esports","LNG Esports","LLWL","","dom","P"],
+    ["2023-08-07","LPL 2023 Regional Finals","Round 1","Top Esports","Weibo Gaming","WLWLL","","dom","P"],
+    ["2024-03-31","LPL 2024 Spring Playoffs","Round 1","Team WE","Oh My God","LWWW","","dom","P"],
+    ["2024-04-02","LPL 2024 Spring Playoffs","Round 2","Team WE","Ninjas in Pyjamas.CN","WLWLL","","dom","P"],
+    ["2025-05-04","Legend Cup Season 3 China","Round 1","Happy Game (LGC Team)","Blood (Chinese Team)","LLL","","dom","S"],
+    ["2026-03-30","Uzi Cup","Round 1","LUG","Omnipotence","LLL","r","dom","S"]
+  ],
+  "unknown": []
+}

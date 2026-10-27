@@ -1,1 +1,29 @@
-{"player":"Nishkyu","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2019-09-16","Circuito Tico de Leyendas 2019 Season Playoffs","Round 1","Another Troll Squad","Farmville 920","LWLL","r","dom",""],["2020-08-05","Volcano Discover League 2020 Closing Playoffs","Semifinal","Descuydado Esports","Raven Gaming","WLWW","","dom","S"],["2020-08-12","Volcano Discover League 2020 Closing Playoffs","Final","Descuydado Esports","Skull Cracker","WWW","","dom","S"],["2020-12-12","Volcano Discover League 2020 Volcano Cup","Final","Descuydado Esports","Raven Gaming","WWW","","dom","S"],["2021-04-07","Volcano League 2021 Opening Playoffs","Round 3","Descuydado Esports","Pirate Dream","WLLL","","dom","S"],["2021-07-22","Volcano League 2021 Closing Playoffs","Round 3","Descuydado Esports","God's Plan","WWW","","dom","S"],["2021-07-29","Volcano League 2021 Closing Playoffs","Final","Descuydado Esports","Skull Cracker","WWW","","dom","S"],["2021-11-04","Volcano League 2021 Volcano Cup","Round 1","Descuydado Esports","GeekSide Esports","WLWW","","dom","S"],["2021-11-18","Volcano League 2021 Volcano Cup","Semifinal","Descuydado Esports","Pirate Dream","WWW","","dom","S"],["2021-11-27","Volcano League 2021 Volcano Cup","Final","Descuydado Esports","Skull Cracker","LWWLW","","dom","S"],["2022-03-24","Volcano League 2022 Opening Playoffs","Semifinal","Descuydado Esports","Skull Cracker","WWW","","dom","S"],["2022-03-31","Volcano League 2022 Opening Playoffs","Final","Descuydado Esports","Pirate Dream","WWW","","dom","S"],["2022-07-16","Volcano League 2022 Closing Playoffs","Semifinal","Waia Snikt","Pirate Dream","LWLL","","dom","S"],["2022-11-12","Volcano League 2022 Volcano Cup","Round 1","Pirate Dream","Skull Cracker","LWWW","","dom","S"],["2022-11-19","Volcano League 2022 Volcano Cup","Semifinal","Pirate Dream","Blood Gaming","WWW","","dom","S"],["2022-11-26","Volcano League 2022 Volcano Cup","Final","Pirate Dream","Descuydado Esports","LLL","","dom","S"],["2023-03-18","Volcano League 2023 Opening Playoffs","Round 4","Descuydado Esports","Pirate Dream","LLL","","dom","S"],["2023-03-24","Volcano League 2023 Opening Playoffs","Round 5","Descuydado Esports","Waia Snikt","WWLLL","","dom","S"],["2024-05-09","Circuito Nacional Norte 2024 Playoffs","Three-way Round Robin","TLS Emelec","Team Anomaly Breaker","LLL","r","dom","S"],["2024-05-11","Circuito Nacional Norte 2024 Playoffs","Three-way Round Robin","TLS Emelec","League of Frogs","LWLWL","r","dom","S"],["2024-10-12","Celerity Budokan 2024","Grand Finals","TLS Barcelona","ACES LDU Esports","LWLWL","r","dom",""]],"unknown":[]}
+{
+  "player": "Nishkyu",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2019-09-16","Circuito Tico de Leyendas 2019 Season Playoffs","Round 1","Another Troll Squad","Farmville 920","LWLL","r","dom",""],
+    ["2020-08-05","Volcano Discover League 2020 Closing Playoffs","Semifinal","Descuydado Esports","Raven Gaming","WLWW","","dom","S"],
+    ["2020-08-12","Volcano Discover League 2020 Closing Playoffs","Final","Descuydado Esports","Skull Cracker","WWW","","dom","S"],
+    ["2020-12-12","Volcano Discover League 2020 Volcano Cup","Final","Descuydado Esports","Raven Gaming","WWW","","dom","S"],
+    ["2021-04-07","Volcano League 2021 Opening Playoffs","Round 3","Descuydado Esports","Pirate Dream","WLLL","","dom","S"],
+    ["2021-07-22","Volcano League 2021 Closing Playoffs","Round 3","Descuydado Esports","God's Plan","WWW","","dom","S"],
+    ["2021-07-29","Volcano League 2021 Closing Playoffs","Final","Descuydado Esports","Skull Cracker","WWW","","dom","S"],
+    ["2021-11-04","Volcano League 2021 Volcano Cup","Round 1","Descuydado Esports","GeekSide Esports","WLWW","","dom","S"],
+    ["2021-11-18","Volcano League 2021 Volcano Cup","Semifinal","Descuydado Esports","Pirate Dream","WWW","","dom","S"],
+    ["2021-11-27","Volcano League 2021 Volcano Cup","Final","Descuydado Esports","Skull Cracker","LWWLW","","dom","S"],
+    ["2022-03-24","Volcano League 2022 Opening Playoffs","Semifinal","Descuydado Esports","Skull Cracker","WWW","","dom","S"],
+    ["2022-03-31","Volcano League 2022 Opening Playoffs","Final","Descuydado Esports","Pirate Dream","WWW","","dom","S"],
+    ["2022-07-16","Volcano League 2022 Closing Playoffs","Semifinal","Waia Snikt","Pirate Dream","LWLL","","dom","S"],
+    ["2022-11-12","Volcano League 2022 Volcano Cup","Round 1","Pirate Dream","Skull Cracker","LWWW","","dom","S"],
+    ["2022-11-19","Volcano League 2022 Volcano Cup","Semifinal","Pirate Dream","Blood Gaming","WWW","","dom","S"],
+    ["2022-11-26","Volcano League 2022 Volcano Cup","Final","Pirate Dream","Descuydado Esports","LLL","","dom","S"],
+    ["2023-03-18","Volcano League 2023 Opening Playoffs","Round 4","Descuydado Esports","Pirate Dream","LLL","","dom","S"],
+    ["2023-03-24","Volcano League 2023 Opening Playoffs","Round 5","Descuydado Esports","Waia Snikt","WWLLL","","dom","S"],
+    ["2024-05-09","Circuito Nacional Norte 2024 Playoffs","Three-way Round Robin","TLS Emelec","Team Anomaly Breaker","LLL","r","dom","S"],
+    ["2024-05-11","Circuito Nacional Norte 2024 Playoffs","Three-way Round Robin","TLS Emelec","League of Frogs","LWLWL","r","dom","S"],
+    ["2024-10-12","Celerity Budokan 2024","Grand Finals","TLS Barcelona","ACES LDU Esports","LWLWL","r","dom",""]
+  ],
+  "unknown": []
+}

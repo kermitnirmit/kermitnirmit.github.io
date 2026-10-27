@@ -1,1 +1,28 @@
-{"player":"UniqueCORN","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2023-04-03","Prime League 2nd Division 2023 Summer Promotion","Round 1","TeamOrangeGaming","Boutgamers sexy edition","WLWW","","dom","S"],["2023-04-06","Prime League 2nd Division 2023 Summer Promotion","Round 2","TeamOrangeGaming","Team Omniscius H","LLWWL","","dom","S"],["2023-04-27","Prime League 2nd Division 2023 Summer Promotion","Round 2","TeamOrangeGaming","Boutgamers sexy edition","LLL","","dom","S"],["2023-09-13","NLC 2024 Promotion","Round 2","UniQ Esports Club","Lundqvist Lightside","LLL","","dom","S"],["2023-09-18","NLC 2024 Promotion","Round 2","UniQ Esports Club","Venomcrest Esports","LWLWL","","dom","S"],["2024-11-04","Elite Series 2024 Benelux Masters","Quarterfinal","A One Man Army","Top 1 Benelux","LLWWL","","dom","S"],["2025-05-14","Hitpoint Masters 2025 Spring Playoffs","Round 1","Team UNiTY","Nightbirds","LLL","","dom","S"],["2025-05-15","Hitpoint Masters 2025 Spring Playoffs","Round 1","Team UNiTY","Tan'i eSports CZ","WLWLL","","dom","S"],["2025-09-03","LPLOL 2025 Summer Split","Quarterfinal","FlameHard","GTZ Esports","WWW","","dom","S"],["2025-09-09","LPLOL 2025 Summer Split","Semifinal","FlameHard","Odivelas Sports Club","LLWWL","","dom","S"],["2025-09-11","LPLOL 2025 Summer Split","Third-Place Match","FlameHard","Crusaders","WWW","","dom","S"],["2026-04-03","Spring Dawn Tournament","Final","Project Conquerors","Karmine Corp Blue Stars","LLWL","","dom","S"],["2026-05-31","Nexus League 2026 Spring Playoffs","Round 1","Project Conquerors","Lille Esport","WWW","","dom","S"],["2026-06-06","Nexus League 2026 Spring Playoffs","Round 2","Project Conquerors","Caldya Esport","WWW","","dom","S"],["2026-06-07","Nexus League 2026 Spring Playoffs","Final","Project Conquerors","Karmine Corp Blue Stars","WWLLL","","dom","S"],["2026-08-29","Nexus League 2026 Summer Playoffs","Round 2","Project Conquerors","Karmine Corp Blue Stars","LWLL","","dom","S"],["2026-09-05","Nexus League 2026 Summer Playoffs","Round 3","Project Conquerors","Galions Sharks","WWLW","","dom","S"],["2026-09-06","Nexus League 2026 Summer Playoffs","Final","Project Conquerors","Karmine Corp Blue Stars","LWLL","","dom","S"],["2026-09-10","LFL 2027 Promotion","Round 1","Project Conquerors","ZYB Esport","WLWLW","","dom","S"],["2026-09-15","LFL 2027 Promotion","Round 2","Project Conquerors","Skillcamp","LLL","","dom","S"]],"unknown":[]}
+{
+  "player": "UniqueCORN",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2023-04-03","Prime League 2nd Division 2023 Summer Promotion","Round 1","TeamOrangeGaming","Boutgamers sexy edition","WLWW","","dom","S"],
+    ["2023-04-06","Prime League 2nd Division 2023 Summer Promotion","Round 2","TeamOrangeGaming","Team Omniscius H","LLWWL","","dom","S"],
+    ["2023-04-27","Prime League 2nd Division 2023 Summer Promotion","Round 2","TeamOrangeGaming","Boutgamers sexy edition","LLL","","dom","S"],
+    ["2023-09-13","NLC 2024 Promotion","Round 2","UniQ Esports Club","Lundqvist Lightside","LLL","","dom","S"],
+    ["2023-09-18","NLC 2024 Promotion","Round 2","UniQ Esports Club","Venomcrest Esports","LWLWL","","dom","S"],
+    ["2024-11-04","Elite Series 2024 Benelux Masters","Quarterfinal","A One Man Army","Top 1 Benelux","LLWWL","","dom","S"],
+    ["2025-05-14","Hitpoint Masters 2025 Spring Playoffs","Round 1","Team UNiTY","Nightbirds","LLL","","dom","S"],
+    ["2025-05-15","Hitpoint Masters 2025 Spring Playoffs","Round 1","Team UNiTY","Tan'i eSports CZ","WLWLL","","dom","S"],
+    ["2025-09-03","LPLOL 2025 Summer Split","Quarterfinal","FlameHard","GTZ Esports","WWW","","dom","S"],
+    ["2025-09-09","LPLOL 2025 Summer Split","Semifinal","FlameHard","Odivelas Sports Club","LLWWL","","dom","S"],
+    ["2025-09-11","LPLOL 2025 Summer Split","Third-Place Match","FlameHard","Crusaders","WWW","","dom","S"],
+    ["2026-04-03","Spring Dawn Tournament","Final","Project Conquerors","Karmine Corp Blue Stars","LLWL","","dom","S"],
+    ["2026-05-31","Nexus League 2026 Spring Playoffs","Round 1","Project Conquerors","Lille Esport","WWW","","dom","S"],
+    ["2026-06-06","Nexus League 2026 Spring Playoffs","Round 2","Project Conquerors","Caldya Esport","WWW","","dom","S"],
+    ["2026-06-07","Nexus League 2026 Spring Playoffs","Final","Project Conquerors","Karmine Corp Blue Stars","WWLLL","","dom","S"],
+    ["2026-08-29","Nexus League 2026 Summer Playoffs","Round 2","Project Conquerors","Karmine Corp Blue Stars","LWLL","","dom","S"],
+    ["2026-09-05","Nexus League 2026 Summer Playoffs","Round 3","Project Conquerors","Galions Sharks","WWLW","","dom","S"],
+    ["2026-09-06","Nexus League 2026 Summer Playoffs","Final","Project Conquerors","Karmine Corp Blue Stars","LWLL","","dom","S"],
+    ["2026-09-10","LFL 2027 Promotion","Round 1","Project Conquerors","ZYB Esport","WLWLW","","dom","S"],
+    ["2026-09-15","LFL 2027 Promotion","Round 2","Project Conquerors","Skillcamp","LLL","","dom","S"]
+  ],
+  "unknown": []
+}

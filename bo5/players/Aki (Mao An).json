@@ -1,1 +1,33 @@
-{"player":"Aki (Mao An)","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2020-08-28","LDL 2020 Summer Playoffs","Round 1","Top Esports Challenger","Team WE Academy","WLWW","","dom","S"],["2020-08-30","LDL 2020 Summer Playoffs","Quarterfinal","Top Esports Challenger","FunPlus Phoenix Blaze","WLLL","","dom","S"],["2021-08-13","LPL 2021 Summer Playoffs","Round 1","Oh My God","Team WE","LLL","","dom","P"],["2021-12-23","Demacia Cup 2021","Quarterfinal","Oh My God","LNG Esports","LWLL","","dom","P"],["2022-08-16","LPL 2022 Summer Playoffs","Round 1","Oh My God","FunPlus Phoenix","LWWLL","","dom","P"],["2023-01-03","Weibo Cup 2022","Quarterfinal","Oh My God","Weibo Gaming","WWLLL","r","dom","P"],["2023-04-02","LPL 2023 Spring Playoffs","Round 2","Oh My God","Top Esports","LWLWW","","dom","P"],["2023-04-04","LPL 2023 Spring Playoffs","Round 3","Oh My God","LNG Esports","WWLW","","dom","P"],["2023-04-06","LPL 2023 Spring Playoffs","Round 4","Oh My God","EDward Gaming","WLLL","","dom","P"],["2023-04-08","LPL 2023 Spring Playoffs","Round 4","Oh My God","Bilibili Gaming","LWLWL","","dom","P"],["2023-07-22","LPL 2023 Summer Playoffs","Round 2","Oh My God","EDward Gaming","WLWLL","","dom","P"],["2023-12-31","Demacia Cup 2023","Quarterfinal","Ninjas in Pyjamas.CN","Weibo Gaming","LWLWW","","dom","P"],["2024-01-03","Demacia Cup 2023","Semifinal","Ninjas in Pyjamas.CN","Bilibili Gaming","LLL","","dom","P"],["2024-04-02","LPL 2024 Spring Playoffs","Round 2","Ninjas in Pyjamas.CN","Team WE","LWLWW","","dom","P"],["2024-04-04","LPL 2024 Spring Playoffs","Round 3","Ninjas in Pyjamas.CN","FunPlus Phoenix","WLWW","","dom","P"],["2024-04-06","LPL 2024 Spring Playoffs","Round 4","Ninjas in Pyjamas.CN","Bilibili Gaming","LWLL","","dom","P"],["2024-04-10","LPL 2024 Spring Playoffs","Round 4","Ninjas in Pyjamas.CN","JD Gaming","LLWWL","","dom","P"],["2025-01-19","LPL 2025 Split 1","","Ninjas in Pyjamas.CN","Invictus Gaming","LWWW","","dom","P"],["2025-02-08","LPL 2025 Split 1","","Ninjas in Pyjamas.CN","FunPlus Phoenix","WWW","","dom","P"],["2025-02-13","LPL 2025 Split 1","","Ninjas in Pyjamas.CN","Royal Never Give Up","WWW","","dom","P"],["2025-02-22","LPL 2025 Split 1 Playoffs","Round 2","Ninjas in Pyjamas.CN","Anyone's Legend","WLWLL","","dom","P"],["2025-02-24","LPL 2025 Split 1 Playoffs","Round 2","Ninjas in Pyjamas.CN","Top Esports","WLLL","","dom","P"],["2025-05-25","LPL 2025 Split 2 Playoffs","Play-In","Ninjas in Pyjamas.CN","FunPlus Phoenix","LWLWL","","dom","P"],["2026-03-30","Uzi Cup","Round 1","Le Tian Gaming","Blood (Chinese Team)","WLWW","r","dom","S"],["2026-03-31","Uzi Cup","Round 2","Le Tian Gaming","Omnipotence","WLWLL","r","dom","S"]],"unknown":[]}
+{
+  "player": "Aki (Mao An)",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2020-08-28","LDL 2020 Summer Playoffs","Round 1","Top Esports Challenger","Team WE Academy","WLWW","","dom","S"],
+    ["2020-08-30","LDL 2020 Summer Playoffs","Quarterfinal","Top Esports Challenger","FunPlus Phoenix Blaze","WLLL","","dom","S"],
+    ["2021-08-13","LPL 2021 Summer Playoffs","Round 1","Oh My God","Team WE","LLL","","dom","P"],
+    ["2021-12-23","Demacia Cup 2021","Quarterfinal","Oh My God","LNG Esports","LWLL","","dom","P"],
+    ["2022-08-16","LPL 2022 Summer Playoffs","Round 1","Oh My God","FunPlus Phoenix","LWWLL","","dom","P"],
+    ["2023-01-03","Weibo Cup 2022","Quarterfinal","Oh My God","Weibo Gaming","WWLLL","r","dom","P"],
+    ["2023-04-02","LPL 2023 Spring Playoffs","Round 2","Oh My God","Top Esports","LWLWW","","dom","P"],
+    ["2023-04-04","LPL 2023 Spring Playoffs","Round 3","Oh My God","LNG Esports","WWLW","","dom","P"],
+    ["2023-04-06","LPL 2023 Spring Playoffs","Round 4","Oh My God","EDward Gaming","WLLL","","dom","P"],
+    ["2023-04-08","LPL 2023 Spring Playoffs","Round 4","Oh My God","Bilibili Gaming","LWLWL","","dom","P"],
+    ["2023-07-22","LPL 2023 Summer Playoffs","Round 2","Oh My God","EDward Gaming","WLWLL","","dom","P"],
+    ["2023-12-31","Demacia Cup 2023","Quarterfinal","Ninjas in Pyjamas.CN","Weibo Gaming","LWLWW","","dom","P"],
+    ["2024-01-03","Demacia Cup 2023","Semifinal","Ninjas in Pyjamas.CN","Bilibili Gaming","LLL","","dom","P"],
+    ["2024-04-02","LPL 2024 Spring Playoffs","Round 2","Ninjas in Pyjamas.CN","Team WE","LWLWW","","dom","P"],
+    ["2024-04-04","LPL 2024 Spring Playoffs","Round 3","Ninjas in Pyjamas.CN","FunPlus Phoenix","WLWW","","dom","P"],
+    ["2024-04-06","LPL 2024 Spring Playoffs","Round 4","Ninjas in Pyjamas.CN","Bilibili Gaming","LWLL","","dom","P"],
+    ["2024-04-10","LPL 2024 Spring Playoffs","Round 4","Ninjas in Pyjamas.CN","JD Gaming","LLWWL","","dom","P"],
+    ["2025-01-19","LPL 2025 Split 1","","Ninjas in Pyjamas.CN","Invictus Gaming","LWWW","","dom","P"],
+    ["2025-02-08","LPL 2025 Split 1","","Ninjas in Pyjamas.CN","FunPlus Phoenix","WWW","","dom","P"],
+    ["2025-02-13","LPL 2025 Split 1","","Ninjas in Pyjamas.CN","Royal Never Give Up","WWW","","dom","P"],
+    ["2025-02-22","LPL 2025 Split 1 Playoffs","Round 2","Ninjas in Pyjamas.CN","Anyone's Legend","WLWLL","","dom","P"],
+    ["2025-02-24","LPL 2025 Split 1 Playoffs","Round 2","Ninjas in Pyjamas.CN","Top Esports","WLLL","","dom","P"],
+    ["2025-05-25","LPL 2025 Split 2 Playoffs","Play-In","Ninjas in Pyjamas.CN","FunPlus Phoenix","LWLWL","","dom","P"],
+    ["2026-03-30","Uzi Cup","Round 1","Le Tian Gaming","Blood (Chinese Team)","WLWW","r","dom","S"],
+    ["2026-03-31","Uzi Cup","Round 2","Le Tian Gaming","Omnipotence","WLWLL","r","dom","S"]
+  ],
+  "unknown": []
+}

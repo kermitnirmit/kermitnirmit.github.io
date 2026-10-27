@@ -1,1 +1,44 @@
-{"player":"DizL","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2022-03-28","LFL Division 2 2022 Spring Playoffs","Round 2","IziDream","Lille Esport","WWW","","dom","S"],["2022-04-05","LFL Division 2 2022 Spring Playoffs","Final","IziDream","Team MCES","LWLWL","","dom","S"],["2022-08-08","LFL Division 2 2022 Summer Playoffs","Round 2","IziDream","Team MCES","WWW","","dom","S"],["2022-08-16","LFL Division 2 2022 Summer Playoffs","Final","IziDream","Tony Parker Adéquat Academy","WWW","","dom","S"],["2022-09-13","LFL 2023 Promotion","Round 1","IziDream","Mirage Elyandra","LLL","","dom","S"],["2022-09-14","LFL 2023 Promotion","Round 1","IziDream","Team MCES","WLLL","","dom","S"],["2022-10-20","Coupe de France 2022","Round 2","IziDream","GameWard","WLWLL","","dom","S"],["2024-10-22","Prime Pokal 2024 Main Event","Semifinal","Eintracht Frankfurt","Unicorns of Love Sexy Edition","WLLL","","dom","S"],["2025-03-14","Prime League 2nd Division 2025 Spring Playoffs","Round 1","All for One Gaming","Münster Esports","WWW","","dom","S"],["2025-03-20","Prime League 2nd Division 2025 Spring Playoffs","Round 2","All for One Gaming","TeamOrangeGaming Academy","WWW","","dom","S"],["2025-03-27","Prime League 2nd Division 2025 Spring Playoffs","Round 4","All for One Gaming","AKA HERO","LLWL","","dom","S"],["2025-04-07","Prime League 2nd Division 2025 Spring Playoffs","Round 4","All for One Gaming","Footprint Gaming","WWLW","","dom","S"],["2025-04-10","Prime League 2nd Division 2025 Spring Playoffs","Grand Final","All for One Gaming","AKA HERO","LLL","","dom","S"],["2025-07-08","Prime League 2nd Division 2025 Summer Playoffs","Round 1","All for One Gaming","A One Man Army Prime","LLWWW","","dom","S"],["2025-07-10","Prime League 2nd Division 2025 Summer Playoffs","Round 2","All for One Gaming","VfB eSports","LWWW","","dom","S"],["2025-07-17","Prime League 2nd Division 2025 Summer Playoffs","Round 4","All for One Gaming","Könige der Meere","WWW","","dom","S"],["2025-07-25","Prime League 2nd Division 2025 Summer Playoffs","Grand Final","All for One Gaming","Könige der Meere","WWW","","dom","S"],["2025-08-02","Prime League 2nd Division 2025 Season Finals","Round 1","All for One Gaming","DKB XPERION NXT","LWLL","","dom","S"],["2025-08-09","Prime League 2nd Division 2025 Season Finals","Round 1","All for One Gaming","TeamOrangeGaming Academy","WWLW","","dom","S"],["2025-08-10","Prime League 2nd Division 2025 Season Finals","Round 2","All for One Gaming","Könige der Meere","LWLWW","","dom","S"],["2025-08-16","Prime League 2nd Division 2025 Season Finals","Round 3","All for One Gaming","A One Man Army Prime","WLLL","","dom","S"],["2026-02-16","Prime League 2nd Division 2026 Winter Playoffs","Decider","MT1 Esports","Spongecord prime","WWW","","dom","S"],["2026-03-01","Prime League 2nd Division 2026 Winter Playoffs","Round 2","MT1 Esports","Reveal Multigaming","WWW","","dom","S"],["2026-03-10","Prime League 2nd Division 2026 Winter Playoffs","Round 4","MT1 Esports","CGN Esports","LWLWL","","dom","S"],["2026-03-13","Prime League 2nd Division 2026 Winter Playoffs","Round 4","MT1 Esports","VfB eSports","WLLL","","dom","S"],["2026-06-16","Prime League 2nd Division 2026 Spring Playoffs","Round 3","MT1 Esports","Babos Gaming","WWLLL","","dom","S"],["2026-07-24","Prime League 2nd Division 2026 Season Finals","Round 1","MT1 Esports","Babos Gaming","LWLL","","dom","S"],["2026-07-28","Prime League 2nd Division 2026 Season Finals","Round 1","MT1 Esports","Reveal Multigaming","WLWW","","dom","S"],["2026-08-02","Prime League 2nd Division 2026 Season Finals","Round 2","MT1 Esports","PvB (Swiss Team)","LLL","","dom","S"],["2026-08-07","Prime League 2nd Division 2026 Season Finals","Round 2","MT1 Esports","Team Rift","WLWW","","dom","S"],["2026-08-09","Prime League 2nd Division 2026 Season Finals","Round 3","MT1 Esports","Reveal Multigaming","LWWW","","dom","S"],["2026-08-15","Prime League 2nd Division 2026 Season Finals","Round 4","MT1 Esports","DKB XPERION NXT","LLL","","dom","S"],["2026-09-08","Prime League 1st Division 2027 Promotion","Round 1","VfB eSports","CGN Esports","LWLL","","dom","S"],["2026-09-15","Prime League 1st Division 2027 Promotion","Round 1","VfB eSports","All for One Gaming","LLWL","","dom","S"]],"unknown":[["2026-02-23","Prime League 2nd Division 2026 Winter Playoffs","Round 1","MT1 Esports","DKB XPERION NXT","3-2","","dom","S"]]}
+{
+  "player": "DizL",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2022-03-28","LFL Division 2 2022 Spring Playoffs","Round 2","IziDream","Lille Esport","WWW","","dom","S"],
+    ["2022-04-05","LFL Division 2 2022 Spring Playoffs","Final","IziDream","Team MCES","LWLWL","","dom","S"],
+    ["2022-08-08","LFL Division 2 2022 Summer Playoffs","Round 2","IziDream","Team MCES","WWW","","dom","S"],
+    ["2022-08-16","LFL Division 2 2022 Summer Playoffs","Final","IziDream","Tony Parker Adéquat Academy","WWW","","dom","S"],
+    ["2022-09-13","LFL 2023 Promotion","Round 1","IziDream","Mirage Elyandra","LLL","","dom","S"],
+    ["2022-09-14","LFL 2023 Promotion","Round 1","IziDream","Team MCES","WLLL","","dom","S"],
+    ["2022-10-20","Coupe de France 2022","Round 2","IziDream","GameWard","WLWLL","","dom","S"],
+    ["2024-10-22","Prime Pokal 2024 Main Event","Semifinal","Eintracht Frankfurt","Unicorns of Love Sexy Edition","WLLL","","dom","S"],
+    ["2025-03-14","Prime League 2nd Division 2025 Spring Playoffs","Round 1","All for One Gaming","Münster Esports","WWW","","dom","S"],
+    ["2025-03-20","Prime League 2nd Division 2025 Spring Playoffs","Round 2","All for One Gaming","TeamOrangeGaming Academy","WWW","","dom","S"],
+    ["2025-03-27","Prime League 2nd Division 2025 Spring Playoffs","Round 4","All for One Gaming","AKA HERO","LLWL","","dom","S"],
+    ["2025-04-07","Prime League 2nd Division 2025 Spring Playoffs","Round 4","All for One Gaming","Footprint Gaming","WWLW","","dom","S"],
+    ["2025-04-10","Prime League 2nd Division 2025 Spring Playoffs","Grand Final","All for One Gaming","AKA HERO","LLL","","dom","S"],
+    ["2025-07-08","Prime League 2nd Division 2025 Summer Playoffs","Round 1","All for One Gaming","A One Man Army Prime","LLWWW","","dom","S"],
+    ["2025-07-10","Prime League 2nd Division 2025 Summer Playoffs","Round 2","All for One Gaming","VfB eSports","LWWW","","dom","S"],
+    ["2025-07-17","Prime League 2nd Division 2025 Summer Playoffs","Round 4","All for One Gaming","Könige der Meere","WWW","","dom","S"],
+    ["2025-07-25","Prime League 2nd Division 2025 Summer Playoffs","Grand Final","All for One Gaming","Könige der Meere","WWW","","dom","S"],
+    ["2025-08-02","Prime League 2nd Division 2025 Season Finals","Round 1","All for One Gaming","DKB XPERION NXT","LWLL","","dom","S"],
+    ["2025-08-09","Prime League 2nd Division 2025 Season Finals","Round 1","All for One Gaming","TeamOrangeGaming Academy","WWLW","","dom","S"],
+    ["2025-08-10","Prime League 2nd Division 2025 Season Finals","Round 2","All for One Gaming","Könige der Meere","LWLWW","","dom","S"],
+    ["2025-08-16","Prime League 2nd Division 2025 Season Finals","Round 3","All for One Gaming","A One Man Army Prime","WLLL","","dom","S"],
+    ["2026-02-16","Prime League 2nd Division 2026 Winter Playoffs","Decider","MT1 Esports","Spongecord prime","WWW","","dom","S"],
+    ["2026-03-01","Prime League 2nd Division 2026 Winter Playoffs","Round 2","MT1 Esports","Reveal Multigaming","WWW","","dom","S"],
+    ["2026-03-10","Prime League 2nd Division 2026 Winter Playoffs","Round 4","MT1 Esports","CGN Esports","LWLWL","","dom","S"],
+    ["2026-03-13","Prime League 2nd Division 2026 Winter Playoffs","Round 4","MT1 Esports","VfB eSports","WLLL","","dom","S"],
+    ["2026-06-16","Prime League 2nd Division 2026 Spring Playoffs","Round 3","MT1 Esports","Babos Gaming","WWLLL","","dom","S"],
+    ["2026-07-24","Prime League 2nd Division 2026 Season Finals","Round 1","MT1 Esports","Babos Gaming","LWLL","","dom","S"],
+    ["2026-07-28","Prime League 2nd Division 2026 Season Finals","Round 1","MT1 Esports","Reveal Multigaming","WLWW","","dom","S"],
+    ["2026-08-02","Prime League 2nd Division 2026 Season Finals","Round 2","MT1 Esports","PvB (Swiss Team)","LLL","","dom","S"],
+    ["2026-08-07","Prime League 2nd Division 2026 Season Finals","Round 2","MT1 Esports","Team Rift","WLWW","","dom","S"],
+    ["2026-08-09","Prime League 2nd Division 2026 Season Finals","Round 3","MT1 Esports","Reveal Multigaming","LWWW","","dom","S"],
+    ["2026-08-15","Prime League 2nd Division 2026 Season Finals","Round 4","MT1 Esports","DKB XPERION NXT","LLL","","dom","S"],
+    ["2026-09-08","Prime League 1st Division 2027 Promotion","Round 1","VfB eSports","CGN Esports","LWLL","","dom","S"],
+    ["2026-09-15","Prime League 1st Division 2027 Promotion","Round 1","VfB eSports","All for One Gaming","LLWL","","dom","S"]
+  ],
+  "unknown": [
+    ["2026-02-23","Prime League 2nd Division 2026 Winter Playoffs","Round 1","MT1 Esports","DKB XPERION NXT","3-2","","dom","S"]
+  ]
+}

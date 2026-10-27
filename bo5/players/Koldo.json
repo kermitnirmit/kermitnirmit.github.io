@@ -1,1 +1,30 @@
-{"player":"Koldo","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2020-11-08","Iberian Cup 2020","Quarterfinal","MAD Lions Madrid","Movistar Riders","WLWW","","dom","S"],["2020-11-14","Iberian Cup 2020","Semifinal","MAD Lions Madrid","Vodafone Giants.Spain","LLL","","dom","S"],["2021-03-20","LVP SuperLiga 2021 Spring Playoffs","Semifinal","G2 Arctic","Cream Real Betis.EU","LLL","","dom","S"],["2021-08-07","LVP SuperLiga 2021 Summer Playoffs","Semifinal","G2 Arctic","UCAM Esports Club","WLLWL","","dom","S"],["2021-11-05","Iberian Cup 2021","Quarterfinal","G2 Arctic","UCAM Esports Club","LLWWW","","dom","S"],["2021-11-10","Iberian Cup 2021","Semifinal","G2 Arctic","Vodafone Giants.Spain","LLL","","dom","S"],["2022-03-14","LVP SuperLiga 2022 Spring Playoffs","Round 1","KOI (Spanish Team)","Movistar Riders","WLWW","","dom","S"],["2022-03-21","LVP SuperLiga 2022 Spring Playoffs","Round 2","KOI (Spanish Team)","BISONS ECLUB","LLL","","dom","S"],["2022-08-01","LVP SuperLiga 2022 Summer Playoffs","Round 1","KOI (Spanish Team)","G2 Arctic","LWLWW","","dom","S"],["2022-08-11","LVP SuperLiga 2022 Summer Playoffs","Round 2","KOI (Spanish Team)","BISONS ECLUB","LLWL","","dom","S"],["2022-11-14","Iberian Cup 2022","Semifinal","KOI (Spanish Team)","UCAM Tokiers","LLL","","dom","S"],["2023-07-25","LVP SuperLiga 2023 Summer Playoffs","Round 1","KOI Academy","Team Heretics Academy","WLWW","","dom","S"],["2023-08-01","LVP SuperLiga 2023 Summer Playoffs","Round 2","KOI Academy","Giants (Spanish Team)","WLLWW","","dom","S"],["2023-08-03","LVP SuperLiga 2023 Summer Playoffs","Semifinal","KOI Academy","Movistar Riders","LLWL","","dom","S"],["2023-11-07","Iberian Cup 2023","Semifinal","KOI Academy","Rebels Gaming","WLWW","","dom","S"],["2023-11-10","Iberian Cup 2023","Final","KOI Academy","Team Heretics Academy","LLL","","dom","S"],["2024-03-19","LVP SuperLiga 2024 Spring Playoffs","Round 1","UCAM Esports","Case Esports","LLWL","","dom","S"],["2024-07-20","LVP SuperLiga 2024 Summer Playoffs","Round 1","UCAM Esports","Movistar KOI","LWWLW","","dom","S"],["2024-07-29","LVP SuperLiga 2024 Summer Playoffs","Round 2","UCAM Esports","Ramboot Club","LLWWL","","dom","S"],["2025-08-30","Superliga Domino's 2025 Final Four","Semifinal","Veni Vidi Vici (Spanish Team)","Team Heretics Academy","LWLL","","dom","S"]],"unknown":[["2018-06-01","The Cloud League Season 1","Final","MAD Lions Academy","Movistar Riders Academy","3-1","","dom",""]]}
+{
+  "player": "Koldo",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2020-11-08","Iberian Cup 2020","Quarterfinal","MAD Lions Madrid","Movistar Riders","WLWW","","dom","S"],
+    ["2020-11-14","Iberian Cup 2020","Semifinal","MAD Lions Madrid","Vodafone Giants.Spain","LLL","","dom","S"],
+    ["2021-03-20","LVP SuperLiga 2021 Spring Playoffs","Semifinal","G2 Arctic","Cream Real Betis.EU","LLL","","dom","S"],
+    ["2021-08-07","LVP SuperLiga 2021 Summer Playoffs","Semifinal","G2 Arctic","UCAM Esports Club","WLLWL","","dom","S"],
+    ["2021-11-05","Iberian Cup 2021","Quarterfinal","G2 Arctic","UCAM Esports Club","LLWWW","","dom","S"],
+    ["2021-11-10","Iberian Cup 2021","Semifinal","G2 Arctic","Vodafone Giants.Spain","LLL","","dom","S"],
+    ["2022-03-14","LVP SuperLiga 2022 Spring Playoffs","Round 1","KOI (Spanish Team)","Movistar Riders","WLWW","","dom","S"],
+    ["2022-03-21","LVP SuperLiga 2022 Spring Playoffs","Round 2","KOI (Spanish Team)","BISONS ECLUB","LLL","","dom","S"],
+    ["2022-08-01","LVP SuperLiga 2022 Summer Playoffs","Round 1","KOI (Spanish Team)","G2 Arctic","LWLWW","","dom","S"],
+    ["2022-08-11","LVP SuperLiga 2022 Summer Playoffs","Round 2","KOI (Spanish Team)","BISONS ECLUB","LLWL","","dom","S"],
+    ["2022-11-14","Iberian Cup 2022","Semifinal","KOI (Spanish Team)","UCAM Tokiers","LLL","","dom","S"],
+    ["2023-07-25","LVP SuperLiga 2023 Summer Playoffs","Round 1","KOI Academy","Team Heretics Academy","WLWW","","dom","S"],
+    ["2023-08-01","LVP SuperLiga 2023 Summer Playoffs","Round 2","KOI Academy","Giants (Spanish Team)","WLLWW","","dom","S"],
+    ["2023-08-03","LVP SuperLiga 2023 Summer Playoffs","Semifinal","KOI Academy","Movistar Riders","LLWL","","dom","S"],
+    ["2023-11-07","Iberian Cup 2023","Semifinal","KOI Academy","Rebels Gaming","WLWW","","dom","S"],
+    ["2023-11-10","Iberian Cup 2023","Final","KOI Academy","Team Heretics Academy","LLL","","dom","S"],
+    ["2024-03-19","LVP SuperLiga 2024 Spring Playoffs","Round 1","UCAM Esports","Case Esports","LLWL","","dom","S"],
+    ["2024-07-20","LVP SuperLiga 2024 Summer Playoffs","Round 1","UCAM Esports","Movistar KOI","LWWLW","","dom","S"],
+    ["2024-07-29","LVP SuperLiga 2024 Summer Playoffs","Round 2","UCAM Esports","Ramboot Club","LLWWL","","dom","S"],
+    ["2025-08-30","Superliga Domino's 2025 Final Four","Semifinal","Veni Vidi Vici (Spanish Team)","Team Heretics Academy","LWLL","","dom","S"]
+  ],
+  "unknown": [
+    ["2018-06-01","The Cloud League Season 1","Final","MAD Lions Academy","Movistar Riders Academy","3-1","","dom",""]
+  ]
+}

@@ -1,1 +1,28 @@
-{"player":"Rogue (Jake Sharwood)","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2016-03-30","OPL 2016 Split 1 Playoffs","Semifinal","Sin Gaming","Chiefs Esports Club","LLL","","dom","P"],["2016-08-22","OPL 2017 Split 1 Promotion","Qual","Sin Gaming","Legacy Genesis","LWWW","","dom","P"],["2017-04-07","OPL 2017 Split 1 Playoffs","Round 1","Sin Gaming","Avant Garde","WLWLW","","dom","P"],["2017-04-08","OPL 2017 Split 1 Playoffs","Round 2","Sin Gaming","Chiefs Esports Club","WWLLW","","dom","P"],["2017-04-09","OPL 2017 Split 1 Playoffs","Round 3","Sin Gaming","Legacy Esports","WWLLL","","dom","P"],["2017-08-25","OPL 2017 Split 2 Playoffs","Round 1","Sin Gaming","Avant Gaming","WLLWW","","dom","P"],["2017-08-26","OPL 2017 Split 2 Playoffs","Round 2","Sin Gaming","Chiefs Esports Club","LLL","","dom","P"],["2018-03-24","OPL 2018 Split 1 Playoffs","Round 2","ORDER","Legacy Esports","WWLLL","","dom","P"],["2018-08-25","OPL 2018 Split 2 Playoffs","Round 2","ORDER","Legacy Esports","LWLL","","dom","P"],["2019-04-06","OPL 2019 Split 1 Playoffs","Final","Bombers","ORDER","WWW","","dom","P"],["2019-08-23","OPL 2019 Split 2 Playoffs","Round 2","Bombers","ORDER","LWLL","","dom","P"],["2020-08-14","OPL 2020 Split 2 Playoffs","Round 1","Pentanet.GG","ORDER","WLLL","","dom","P"],["2020-08-21","OPL 2020 Split 2 Playoffs","Round 2","Pentanet.GG","Chiefs Esports Club","LLL","","dom","P"],["2022-03-28","LCO 2022 Split 1 Playoffs","Round 1","Pentanet.GG","PEACE (Oceanic Team)","WWW","","dom","P"],["2022-03-29","LCO 2022 Split 1 Playoffs","Round 2","Pentanet.GG","Chiefs Esports Club","LWLWL","","dom","P"],["2022-04-05","LCO 2022 Split 1 Playoffs","Round 3","Pentanet.GG","ORDER","LLL","","dom","P"],["2022-08-15","LCO 2022 Split 2 Playoffs","Round 1","Pentanet.GG","ORDER","LLWWL","","dom","P"],["2022-08-23","LCO 2022 Split 2 Playoffs","Round 2","Pentanet.GG","Kanga Esports","WWW","","dom","P"],["2022-09-02","LCO 2022 Split 2 Playoffs","Round 3","Pentanet.GG","ORDER","WWW","","dom","P"],["2022-09-04","LCO 2022 Split 2 Playoffs","Final","Pentanet.GG","Chiefs Esports Club","LLWL","","dom","P"]],"unknown":[]}
+{
+  "player": "Rogue (Jake Sharwood)",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2016-03-30","OPL 2016 Split 1 Playoffs","Semifinal","Sin Gaming","Chiefs Esports Club","LLL","","dom","P"],
+    ["2016-08-22","OPL 2017 Split 1 Promotion","Qual","Sin Gaming","Legacy Genesis","LWWW","","dom","P"],
+    ["2017-04-07","OPL 2017 Split 1 Playoffs","Round 1","Sin Gaming","Avant Garde","WLWLW","","dom","P"],
+    ["2017-04-08","OPL 2017 Split 1 Playoffs","Round 2","Sin Gaming","Chiefs Esports Club","WWLLW","","dom","P"],
+    ["2017-04-09","OPL 2017 Split 1 Playoffs","Round 3","Sin Gaming","Legacy Esports","WWLLL","","dom","P"],
+    ["2017-08-25","OPL 2017 Split 2 Playoffs","Round 1","Sin Gaming","Avant Gaming","WLLWW","","dom","P"],
+    ["2017-08-26","OPL 2017 Split 2 Playoffs","Round 2","Sin Gaming","Chiefs Esports Club","LLL","","dom","P"],
+    ["2018-03-24","OPL 2018 Split 1 Playoffs","Round 2","ORDER","Legacy Esports","WWLLL","","dom","P"],
+    ["2018-08-25","OPL 2018 Split 2 Playoffs","Round 2","ORDER","Legacy Esports","LWLL","","dom","P"],
+    ["2019-04-06","OPL 2019 Split 1 Playoffs","Final","Bombers","ORDER","WWW","","dom","P"],
+    ["2019-08-23","OPL 2019 Split 2 Playoffs","Round 2","Bombers","ORDER","LWLL","","dom","P"],
+    ["2020-08-14","OPL 2020 Split 2 Playoffs","Round 1","Pentanet.GG","ORDER","WLLL","","dom","P"],
+    ["2020-08-21","OPL 2020 Split 2 Playoffs","Round 2","Pentanet.GG","Chiefs Esports Club","LLL","","dom","P"],
+    ["2022-03-28","LCO 2022 Split 1 Playoffs","Round 1","Pentanet.GG","PEACE (Oceanic Team)","WWW","","dom","P"],
+    ["2022-03-29","LCO 2022 Split 1 Playoffs","Round 2","Pentanet.GG","Chiefs Esports Club","LWLWL","","dom","P"],
+    ["2022-04-05","LCO 2022 Split 1 Playoffs","Round 3","Pentanet.GG","ORDER","LLL","","dom","P"],
+    ["2022-08-15","LCO 2022 Split 2 Playoffs","Round 1","Pentanet.GG","ORDER","LLWWL","","dom","P"],
+    ["2022-08-23","LCO 2022 Split 2 Playoffs","Round 2","Pentanet.GG","Kanga Esports","WWW","","dom","P"],
+    ["2022-09-02","LCO 2022 Split 2 Playoffs","Round 3","Pentanet.GG","ORDER","WWW","","dom","P"],
+    ["2022-09-04","LCO 2022 Split 2 Playoffs","Final","Pentanet.GG","Chiefs Esports Club","LLWL","","dom","P"]
+  ],
+  "unknown": []
+}

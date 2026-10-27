@@ -1,1 +1,33 @@
-{"player":"StenBosse","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2019-03-10","Nordic Championship 2019 Spring Playoffs","Final","NYYRIKKI White","Ventus Esports","LLL","","dom","S"],["2019-12-07","ESL Vodafone Championship 2019 Winter Playoffs","Final","MOBA ROG","Outplayed","WLWW","","dom","S"],["2020-03-12","PG Nationals 2020 Spring Playoffs","Semifinal","Samsung Morning Stars","YDN Gamers","LWLWL","","dom","S"],["2020-07-14","PG Nationals 2020 Summer Playoffs","Round 1","Samsung Morning Stars","Racoon (Italian Team)","WLWW","","dom","S"],["2020-07-21","PG Nationals 2020 Summer Playoffs","Semifinal","Samsung Morning Stars","Mkers","WLWW","","dom","S"],["2020-08-02","PG Nationals 2020 Summer Playoffs","Final","Samsung Morning Stars","Racoon (Italian Team)","WLWW","","dom","S"],["2021-03-03","PG Nationals 2021 Spring Playoffs","Round 1","Macko Esports","Samsung Morning Stars","LWLL","","dom","S"],["2021-03-09","PG Nationals 2021 Spring Playoffs","Round 3","Macko Esports","GGEsports","WLWW","","dom","S"],["2021-03-16","PG Nationals 2021 Spring Playoffs","Semifinal","Macko Esports","Samsung Morning Stars","WLWW","","dom","S"],["2021-03-21","PG Nationals 2021 Spring Playoffs","Final","Macko Esports","Mkers","LWWW","","dom","S"],["2021-07-20","PG Nationals 2021 Summer Playoffs","Round 1","Macko Esports","Axolotl","WWW","","dom","S"],["2021-07-28","PG Nationals 2021 Summer Playoffs","Semifinal","Macko Esports","Outplayed","WWLLW","","dom","S"],["2021-08-07","PG Nationals 2021 Summer Playoffs","Final","Macko Esports","Outplayed","LWWW","","dom","S"],["2021-11-03","Iberian Cup 2021","Quarterfinal","Macko Esports","MAD Lions Madrid","LWLL","","dom","S"],["2022-07-27","PG Nationals 2022 Summer Playoffs","Round 1","aNc Outplayed","Atleta Esport","WWLW","","dom","S"],["2022-07-31","PG Nationals 2022 Summer Playoffs","Semifinal","aNc Outplayed","Cyberground Gaming","WLWW","","dom","S"],["2022-08-07","PG Nationals 2022 Summer Playoffs","Final","aNc Outplayed","Macko Esports","LWLL","","dom","S"],["2022-10-25","Red Bull Factions 2022 Main Event","Semifinal","aNc Outplayed","Atleta Esport","LWLL","","dom","S"],["2023-03-16","PG Nationals 2023 Spring Playoffs","Round 1","aNc Outplayed","Macko Esports","WLLL","","dom","S"],["2023-03-24","PG Nationals 2023 Spring Playoffs","Semifinal","aNc Outplayed","DSYRE","LWWW","","dom","S"],["2023-03-31","PG Nationals 2023 Spring Playoffs","Final","aNc Outplayed","Macko Esports","WWLLL","","dom","S"],["2024-04-21","Svenska Onlineligan 2024 Season 8 Playoffs","Quarterfinal","Regem","Team CD","WWW","r","dom","S"],["2024-05-25","Svenska Onlineligan 2024 Season 8 Playoffs","Semifinal","Regem","Fritt Fall","LWWW","","dom","S"],["2024-05-26","Svenska Onlineligan 2024 Season 8 Playoffs","Final","Regem","Bloodline Esports","LLWWL","","dom","S"],["2025-09-28","Svenska Onlineligan 2025 Autumn Playoffs","Quarterfinal","DMG Esports Sweden","Bulldog Academy","LLL","r","dom","S"]],"unknown":[]}
+{
+  "player": "StenBosse",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2019-03-10","Nordic Championship 2019 Spring Playoffs","Final","NYYRIKKI White","Ventus Esports","LLL","","dom","S"],
+    ["2019-12-07","ESL Vodafone Championship 2019 Winter Playoffs","Final","MOBA ROG","Outplayed","WLWW","","dom","S"],
+    ["2020-03-12","PG Nationals 2020 Spring Playoffs","Semifinal","Samsung Morning Stars","YDN Gamers","LWLWL","","dom","S"],
+    ["2020-07-14","PG Nationals 2020 Summer Playoffs","Round 1","Samsung Morning Stars","Racoon (Italian Team)","WLWW","","dom","S"],
+    ["2020-07-21","PG Nationals 2020 Summer Playoffs","Semifinal","Samsung Morning Stars","Mkers","WLWW","","dom","S"],
+    ["2020-08-02","PG Nationals 2020 Summer Playoffs","Final","Samsung Morning Stars","Racoon (Italian Team)","WLWW","","dom","S"],
+    ["2021-03-03","PG Nationals 2021 Spring Playoffs","Round 1","Macko Esports","Samsung Morning Stars","LWLL","","dom","S"],
+    ["2021-03-09","PG Nationals 2021 Spring Playoffs","Round 3","Macko Esports","GGEsports","WLWW","","dom","S"],
+    ["2021-03-16","PG Nationals 2021 Spring Playoffs","Semifinal","Macko Esports","Samsung Morning Stars","WLWW","","dom","S"],
+    ["2021-03-21","PG Nationals 2021 Spring Playoffs","Final","Macko Esports","Mkers","LWWW","","dom","S"],
+    ["2021-07-20","PG Nationals 2021 Summer Playoffs","Round 1","Macko Esports","Axolotl","WWW","","dom","S"],
+    ["2021-07-28","PG Nationals 2021 Summer Playoffs","Semifinal","Macko Esports","Outplayed","WWLLW","","dom","S"],
+    ["2021-08-07","PG Nationals 2021 Summer Playoffs","Final","Macko Esports","Outplayed","LWWW","","dom","S"],
+    ["2021-11-03","Iberian Cup 2021","Quarterfinal","Macko Esports","MAD Lions Madrid","LWLL","","dom","S"],
+    ["2022-07-27","PG Nationals 2022 Summer Playoffs","Round 1","aNc Outplayed","Atleta Esport","WWLW","","dom","S"],
+    ["2022-07-31","PG Nationals 2022 Summer Playoffs","Semifinal","aNc Outplayed","Cyberground Gaming","WLWW","","dom","S"],
+    ["2022-08-07","PG Nationals 2022 Summer Playoffs","Final","aNc Outplayed","Macko Esports","LWLL","","dom","S"],
+    ["2022-10-25","Red Bull Factions 2022 Main Event","Semifinal","aNc Outplayed","Atleta Esport","LWLL","","dom","S"],
+    ["2023-03-16","PG Nationals 2023 Spring Playoffs","Round 1","aNc Outplayed","Macko Esports","WLLL","","dom","S"],
+    ["2023-03-24","PG Nationals 2023 Spring Playoffs","Semifinal","aNc Outplayed","DSYRE","LWWW","","dom","S"],
+    ["2023-03-31","PG Nationals 2023 Spring Playoffs","Final","aNc Outplayed","Macko Esports","WWLLL","","dom","S"],
+    ["2024-04-21","Svenska Onlineligan 2024 Season 8 Playoffs","Quarterfinal","Regem","Team CD","WWW","r","dom","S"],
+    ["2024-05-25","Svenska Onlineligan 2024 Season 8 Playoffs","Semifinal","Regem","Fritt Fall","LWWW","","dom","S"],
+    ["2024-05-26","Svenska Onlineligan 2024 Season 8 Playoffs","Final","Regem","Bloodline Esports","LLWWL","","dom","S"],
+    ["2025-09-28","Svenska Onlineligan 2025 Autumn Playoffs","Quarterfinal","DMG Esports Sweden","Bulldog Academy","LLL","r","dom","S"]
+  ],
+  "unknown": []
+}

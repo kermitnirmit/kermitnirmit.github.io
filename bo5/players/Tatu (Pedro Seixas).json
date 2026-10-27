@@ -1,1 +1,47 @@
-{"player":"Tatu (Pedro Seixas)","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2022-08-16","CBLOL Academy 2022 Split 2 Playoffs","Quarterfinal","Miners Academy","Flamengo Los Grandes Academy","LLL","","dom","S"],["2023-03-27","CBLOL Academy 2023 Split 1 Playoffs","Round 1","INTZ Academy","RED Academy","WWW","","dom","S"],["2023-04-03","CBLOL Academy 2023 Split 1 Playoffs","Round 2","INTZ Academy","FURIA Academy","WWLW","","dom","S"],["2023-04-10","CBLOL Academy 2023 Split 1 Playoffs","Round 3","INTZ Academy","KaBuM! Academy","WWW","","dom","S"],["2024-04-08","CBLOL Academy 2024 Split 1 Playoffs","Stage 2 Round 2","paiN Gaming Academy","Flamengo MDL","WLLWW","","dom","S"],["2024-04-25","CBLOL Academy 2024 Split 1 Playoffs","Stage 2 Round 4","paiN Gaming Academy","Vivo Keyd Stars Academy","WLLL","","dom","S"],["2024-04-27","CBLOL Academy 2024 Split 1 Playoffs","Stage 2 Round 4","paiN Gaming Academy","KaBuM! Academy","LWWW","","dom","S"],["2024-04-28","CBLOL Academy 2024 Split 1 Playoffs","Final","paiN Gaming Academy","Vivo Keyd Stars Academy","WWLW","","dom","S"],["2024-07-30","CBLOL Academy 2024 Split 2 Playoffs","Round 2","paiN Gaming Academy","Ilha das Lendas","WWW","","dom","S"],["2024-08-19","CBLOL Academy 2024 Split 2 Playoffs","Round 4","paiN Gaming Academy","FURIA Academy","WWW","","dom","S"],["2024-08-25","CBLOL Academy 2024 Split 2 Playoffs","Final","paiN Gaming Academy","Vivo Keyd Stars Academy","WLWLL","","dom","S"],["2024-09-21","Americas Challengers 2024","Final","paiN Gaming Academy","Fear x Starforge","WLWLW","","dom","S"],["2025-05-25","LTA South 2025 Split 2 Playoffs","Round 1","FURIA","Vivo Keyd Stars","WWW","","dom","P"],["2025-06-08","LTA South 2025 Split 2 Playoffs","Round 2","FURIA","paiN Gaming","WLLL","","dom","P"],["2025-06-14","LTA South 2025 Split 2 Playoffs","Round 3","FURIA","Isurus Estral","WWLW","","dom","P"],["2025-06-15","LTA South 2025 Split 2 Playoffs","Final","FURIA","paiN Gaming","WWW","","dom","P"],["2025-06-27","MSI 2025","Play-In Day 1","FURIA","G2 Esports","WLLWL","","msi","P"],["2025-06-28","MSI 2025","Play-In Day 2","FURIA","GAM Esports","LWWLL","","msi","P"],["2025-08-16","LTA South 2025 Split 3","Round 2","FURIA","Vivo Keyd Stars","LLL","","dom","P"],["2025-08-30","LTA South 2025 Split 3","Round 2","FURIA","LOUD","LLL","","dom","P"],["2026-02-15","CBLOL 2026 Cup","Round 2","FURIA","Leviatan","WWW","","dom","P"],["2026-02-22","CBLOL 2026 Cup","Round 3","FURIA","LØS","LWWW","","dom","P"],["2026-02-28","CBLOL 2026 Cup","Round 4","FURIA","RED Canids","LLWL","","dom","P"],["2026-03-06","Americas Cup 2026","Round 2","FURIA","Sentinels","WWW","","dom","S"],["2026-03-08","Americas Cup 2026","Final","FURIA","Cloud9","WWW","","dom","S"],["2026-05-17","CBLOL 2026 Split 1 Playoffs","Round 2","FURIA","LOUD","WWW","","dom","P"],["2026-05-24","CBLOL 2026 Split 1 Playoffs","Round 4","FURIA","RED Canids","WWW","","dom","P"],["2026-06-06","CBLOL 2026 Split 1 Playoffs","Final","FURIA","LØS","WLWW","","dom","P"],["2026-07-04","MSI 2026","Bracket Round 1","FURIA","LYON (2024 American Team)","LLL","","msi","P"],["2026-07-06","MSI 2026","Bracket Round 1","FURIA","T1","LLL","","msi","P"],["2026-09-06","CBLOL 2026 Split 2 Playoffs","Round 1","FURIA","RED Canids","WWW","","dom","P"],["2026-09-26","CBLOL 2026 Split 2 Playoffs","Round 3","FURIA","RED Canids","WLLWW","","dom","P"],["2026-10-03","CBLOL 2026 Split 2 Playoffs","Round 4","FURIA","LOUD","WWW","","dom","P"],["2026-10-10","CBLOL 2026 Split 2 Playoffs","Final","FURIA","LØS","LWLWL","","dom","P"],["2026-10-15","Worlds 2026","Round 1","FURIA","MVK Esports","LLL","","worlds","P"],["2026-10-16","Worlds 2026","Round 1","FURIA","Cloud9","LWWW","","worlds","P"],["2026-10-17","Worlds 2026","Round 2","FURIA","MVK Esports","LLWL","","worlds","P"]],"unknown":[["2023-04-11","CBLOL Academy 2023 Split 1 Playoffs","Semifinal","INTZ Academy","Vivo Keyd Stars Academy","2-3","LWLL","dom","S"]]}
+{
+  "player": "Tatu (Pedro Seixas)",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2022-08-16","CBLOL Academy 2022 Split 2 Playoffs","Quarterfinal","Miners Academy","Flamengo Los Grandes Academy","LLL","","dom","S"],
+    ["2023-03-27","CBLOL Academy 2023 Split 1 Playoffs","Round 1","INTZ Academy","RED Academy","WWW","","dom","S"],
+    ["2023-04-03","CBLOL Academy 2023 Split 1 Playoffs","Round 2","INTZ Academy","FURIA Academy","WWLW","","dom","S"],
+    ["2023-04-10","CBLOL Academy 2023 Split 1 Playoffs","Round 3","INTZ Academy","KaBuM! Academy","WWW","","dom","S"],
+    ["2024-04-08","CBLOL Academy 2024 Split 1 Playoffs","Stage 2 Round 2","paiN Gaming Academy","Flamengo MDL","WLLWW","","dom","S"],
+    ["2024-04-25","CBLOL Academy 2024 Split 1 Playoffs","Stage 2 Round 4","paiN Gaming Academy","Vivo Keyd Stars Academy","WLLL","","dom","S"],
+    ["2024-04-27","CBLOL Academy 2024 Split 1 Playoffs","Stage 2 Round 4","paiN Gaming Academy","KaBuM! Academy","LWWW","","dom","S"],
+    ["2024-04-28","CBLOL Academy 2024 Split 1 Playoffs","Final","paiN Gaming Academy","Vivo Keyd Stars Academy","WWLW","","dom","S"],
+    ["2024-07-30","CBLOL Academy 2024 Split 2 Playoffs","Round 2","paiN Gaming Academy","Ilha das Lendas","WWW","","dom","S"],
+    ["2024-08-19","CBLOL Academy 2024 Split 2 Playoffs","Round 4","paiN Gaming Academy","FURIA Academy","WWW","","dom","S"],
+    ["2024-08-25","CBLOL Academy 2024 Split 2 Playoffs","Final","paiN Gaming Academy","Vivo Keyd Stars Academy","WLWLL","","dom","S"],
+    ["2024-09-21","Americas Challengers 2024","Final","paiN Gaming Academy","Fear x Starforge","WLWLW","","dom","S"],
+    ["2025-05-25","LTA South 2025 Split 2 Playoffs","Round 1","FURIA","Vivo Keyd Stars","WWW","","dom","P"],
+    ["2025-06-08","LTA South 2025 Split 2 Playoffs","Round 2","FURIA","paiN Gaming","WLLL","","dom","P"],
+    ["2025-06-14","LTA South 2025 Split 2 Playoffs","Round 3","FURIA","Isurus Estral","WWLW","","dom","P"],
+    ["2025-06-15","LTA South 2025 Split 2 Playoffs","Final","FURIA","paiN Gaming","WWW","","dom","P"],
+    ["2025-06-27","MSI 2025","Play-In Day 1","FURIA","G2 Esports","WLLWL","","msi","P"],
+    ["2025-06-28","MSI 2025","Play-In Day 2","FURIA","GAM Esports","LWWLL","","msi","P"],
+    ["2025-08-16","LTA South 2025 Split 3","Round 2","FURIA","Vivo Keyd Stars","LLL","","dom","P"],
+    ["2025-08-30","LTA South 2025 Split 3","Round 2","FURIA","LOUD","LLL","","dom","P"],
+    ["2026-02-15","CBLOL 2026 Cup","Round 2","FURIA","Leviatan","WWW","","dom","P"],
+    ["2026-02-22","CBLOL 2026 Cup","Round 3","FURIA","LØS","LWWW","","dom","P"],
+    ["2026-02-28","CBLOL 2026 Cup","Round 4","FURIA","RED Canids","LLWL","","dom","P"],
+    ["2026-03-06","Americas Cup 2026","Round 2","FURIA","Sentinels","WWW","","dom","S"],
+    ["2026-03-08","Americas Cup 2026","Final","FURIA","Cloud9","WWW","","dom","S"],
+    ["2026-05-17","CBLOL 2026 Split 1 Playoffs","Round 2","FURIA","LOUD","WWW","","dom","P"],
+    ["2026-05-24","CBLOL 2026 Split 1 Playoffs","Round 4","FURIA","RED Canids","WWW","","dom","P"],
+    ["2026-06-06","CBLOL 2026 Split 1 Playoffs","Final","FURIA","LØS","WLWW","","dom","P"],
+    ["2026-07-04","MSI 2026","Bracket Round 1","FURIA","LYON (2024 American Team)","LLL","","msi","P"],
+    ["2026-07-06","MSI 2026","Bracket Round 1","FURIA","T1","LLL","","msi","P"],
+    ["2026-09-06","CBLOL 2026 Split 2 Playoffs","Round 1","FURIA","RED Canids","WWW","","dom","P"],
+    ["2026-09-26","CBLOL 2026 Split 2 Playoffs","Round 3","FURIA","RED Canids","WLLWW","","dom","P"],
+    ["2026-10-03","CBLOL 2026 Split 2 Playoffs","Round 4","FURIA","LOUD","WWW","","dom","P"],
+    ["2026-10-10","CBLOL 2026 Split 2 Playoffs","Final","FURIA","LØS","LWLWL","","dom","P"],
+    ["2026-10-15","Worlds 2026","Round 1","FURIA","MVK Esports","LLL","","worlds","P"],
+    ["2026-10-16","Worlds 2026","Round 1","FURIA","Cloud9","LWWW","","worlds","P"],
+    ["2026-10-17","Worlds 2026","Round 2","FURIA","MVK Esports","LLWL","","worlds","P"]
+  ],
+  "unknown": [
+    ["2023-04-11","CBLOL Academy 2023 Split 1 Playoffs","Semifinal","INTZ Academy","Vivo Keyd Stars Academy","2-3","LWLL","dom","S"]
+  ]
+}

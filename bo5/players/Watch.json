@@ -1,1 +1,32 @@
-{"player":"Watch","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2012-08-17","Champions 2012 Summer","Semifinal","NaJin Sword","Counter Logic Gaming Europe","LLWL","","dom","P"],["2012-09-14","Season 2 Regional Finals Korea","Round 1","NaJin Sword","Incredible Miracle","LWWW","","dom","P"],["2012-09-19","Season 2 Regional Finals Korea","Round 2","NaJin Sword","Xenics Storm","WWW","","dom","P"],["2012-09-21","Season 2 Regional Finals Korea","Round 3","NaJin Sword","Azubu Blaze","WLLWW","","dom","P"],["2013-01-01","Champions 2013 Winter","Quarterfinal","NaJin Sword","MVP White","WWW","","dom","P"],["2013-01-15","Champions 2013 Winter","Semifinal","NaJin Sword","KT Rolster B","WLWW","","dom","P"],["2013-01-17","Champions 2013 Winter","Semifinal","NaJin Sword","KT Rolster B","WWW","","dom","P"],["2013-02-01","Champions 2013 Winter","Final","NaJin Sword","Azubu Frost","WWW","","dom","P"],["2013-05-17","Champions 2013 Spring","Quarterfinal","NaJin Sword","CJ Entus Frost","LWLL","","dom","P"],["2013-09-28","Worlds 2013","Semifinal","NaJin Black Sword","SK Telecom T1","WLWLL","","worlds","P"],["2014-04-25","Champions 2014 Spring","Quarterfinal","NaJin White Shield","KT Rolster Bullets","LLWWW","","dom","P"],["2014-05-02","Champions 2014 Spring","Semifinal","NaJin White Shield","CJ Entus Blaze","WWLLW","","dom","P"],["2014-05-24","Champions 2014 Spring","Final","NaJin White Shield","Samsung Blue","LWLL","","dom","P"],["2014-07-16","Champions 2014 Summer","Quarterfinal","NaJin White Shield","KT Rolster Arrows","WWLLL","","dom","P"],["2014-08-04","NLB 2014 Summer","Semifinal","NaJin White Shield","NaJin Black Sword","LLL","","dom","S"],["2014-08-07","NLB 2014 Summer","Third-Place Match","NaJin White Shield","Jin Air Green Wings Stealths","LWLWW","","dom","S"],["2014-08-28","Season Korea Regional Finals 2014","Round 1","NaJin White Shield","KT Rolster Bullets","WWW","","dom","P"],["2014-08-29","Season Korea Regional Finals 2014","Round 2","NaJin White Shield","KT Rolster Arrows","WWW","","dom","P"],["2014-08-30","Season Korea Regional Finals 2014","Round 3","NaJin White Shield","SK Telecom T1 K","WWLW","","dom","P"],["2014-10-06","Worlds 2014","Quarterfinal","NaJin White Shield","Oh My God","LLL","","worlds","P"],["2015-09-02","Season Korea Regional Finals 2015","Round 1","NaJin e-mFire","Jin Air Green Wings","LLL","p","dom","P"]],"unknown":[["2013-08-18","NLB 2013 Summer","Semifinal","NaJin Black Sword","NaJin White Shield","3-2","","dom","S"],["2013-08-24","NLB 2013 Summer","Final","NaJin Black Sword","Incredible Miracle 2","3-1","","dom","S"]]}
+{
+  "player": "Watch",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2012-08-17","Champions 2012 Summer","Semifinal","NaJin Sword","Counter Logic Gaming Europe","LLWL","","dom","P"],
+    ["2012-09-14","Season 2 Regional Finals Korea","Round 1","NaJin Sword","Incredible Miracle","LWWW","","dom","P"],
+    ["2012-09-19","Season 2 Regional Finals Korea","Round 2","NaJin Sword","Xenics Storm","WWW","","dom","P"],
+    ["2012-09-21","Season 2 Regional Finals Korea","Round 3","NaJin Sword","Azubu Blaze","WLLWW","","dom","P"],
+    ["2013-01-01","Champions 2013 Winter","Quarterfinal","NaJin Sword","MVP White","WWW","","dom","P"],
+    ["2013-01-15","Champions 2013 Winter","Semifinal","NaJin Sword","KT Rolster B","WLWW","","dom","P"],
+    ["2013-01-17","Champions 2013 Winter","Semifinal","NaJin Sword","KT Rolster B","WWW","","dom","P"],
+    ["2013-02-01","Champions 2013 Winter","Final","NaJin Sword","Azubu Frost","WWW","","dom","P"],
+    ["2013-05-17","Champions 2013 Spring","Quarterfinal","NaJin Sword","CJ Entus Frost","LWLL","","dom","P"],
+    ["2013-09-28","Worlds 2013","Semifinal","NaJin Black Sword","SK Telecom T1","WLWLL","","worlds","P"],
+    ["2014-04-25","Champions 2014 Spring","Quarterfinal","NaJin White Shield","KT Rolster Bullets","LLWWW","","dom","P"],
+    ["2014-05-02","Champions 2014 Spring","Semifinal","NaJin White Shield","CJ Entus Blaze","WWLLW","","dom","P"],
+    ["2014-05-24","Champions 2014 Spring","Final","NaJin White Shield","Samsung Blue","LWLL","","dom","P"],
+    ["2014-07-16","Champions 2014 Summer","Quarterfinal","NaJin White Shield","KT Rolster Arrows","WWLLL","","dom","P"],
+    ["2014-08-04","NLB 2014 Summer","Semifinal","NaJin White Shield","NaJin Black Sword","LLL","","dom","S"],
+    ["2014-08-07","NLB 2014 Summer","Third-Place Match","NaJin White Shield","Jin Air Green Wings Stealths","LWLWW","","dom","S"],
+    ["2014-08-28","Season Korea Regional Finals 2014","Round 1","NaJin White Shield","KT Rolster Bullets","WWW","","dom","P"],
+    ["2014-08-29","Season Korea Regional Finals 2014","Round 2","NaJin White Shield","KT Rolster Arrows","WWW","","dom","P"],
+    ["2014-08-30","Season Korea Regional Finals 2014","Round 3","NaJin White Shield","SK Telecom T1 K","WWLW","","dom","P"],
+    ["2014-10-06","Worlds 2014","Quarterfinal","NaJin White Shield","Oh My God","LLL","","worlds","P"],
+    ["2015-09-02","Season Korea Regional Finals 2015","Round 1","NaJin e-mFire","Jin Air Green Wings","LLL","p","dom","P"]
+  ],
+  "unknown": [
+    ["2013-08-18","NLB 2013 Summer","Semifinal","NaJin Black Sword","NaJin White Shield","3-2","","dom","S"],
+    ["2013-08-24","NLB 2013 Summer","Final","NaJin Black Sword","Incredible Miracle 2","3-1","","dom","S"]
+  ]
+}

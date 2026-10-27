@@ -1,1 +1,38 @@
-{"player":"Iheb","generated":"2026-10-27","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2022-07-17","Intel Arabian Cup Prestige Division 2022 Season 1","Semifinal","VSlash GnG","Anubis Gaming","WLLL","r","dom","P"],["2022-07-23","Intel Arabian Cup Prestige Division 2022 Season 1","Third-Place Match","VSlash GnG","Geekay Esports","LWLWW","r","dom","P"],["2022-09-23","Intel Arabian Cup Prestige Division 2022 Season 2","Semifinal","VSlash GnG","Anubis Gaming","LLL","r","dom","P"],["2022-09-25","Intel Arabian Cup Prestige Division 2022 Season 2","Third-Place Match","VSlash GnG","RA'AD","WWLLW","r","dom","P"],["2022-10-07","Intel Arabian Cup Prestige Division 2022 Last Chance Qualifier","Round 4","VSlash GnG","RA'AD","LLL","r","dom","P"],["2022-10-08","Intel Arabian Cup Prestige Division 2022 Last Chance Qualifier","Round 4","VSlash GnG","Fox Gaming","WWW","r","dom","P"],["2022-10-14","Intel Arabian Cup Prestige Division 2022 Grand Finals","Semifinal","VSlash GnG","Geekay Esports","WLLL","r","dom","S"],["2022-10-28","Intel Arabian Cup Prestige Division 2022 Grand Finals","Third-Place Match","VSlash GnG","Anubis Gaming","LLL","r","dom","S"],["2023-03-15","Arabian League 2nd Division 2023 Spring Playoffs","Round 1","One More Esports","Slash Lions","WWW","","dom","S"],["2023-03-16","Arabian League 2nd Division 2023 Spring Playoffs","Semifinal","One More Esports","Olympus Gaming","LWWW","","dom","S"],["2023-03-29","Arabian League 2nd Division 2023 Spring Playoffs","Final","One More Esports","Twisted Minds","WWW","","dom","S"],["2023-04-12","Arabian League 2023 Summer Promotion","Round 1","One More Esports","3BL Esports","LWLWL","","dom","S"],["2023-04-13","Arabian League 2023 Summer Promotion","Round 1","One More Esports","Twisted Minds","LWWW","","dom","S"],["2023-04-19","Arabian League 2023 Summer Promotion","Round 2","One More Esports","3BL Esports","LWWLL","","dom","S"],["2023-12-16","Tunisian Super League 2023 Season","Semifinal","Stade Tunisien x Amazigh","Taraji Esports","WLWW","r","dom","S"],["2023-12-28","Tunisian Super League 2023 Season","Final","Stade Tunisien x Amazigh","GnG Esports","LWWW","r","dom","S"],["2024-07-17","Arabian League 2nd Division 2024 Summer Playoffs","Round 1","Twareg Esports","Fog Esports","LWLWW","","dom","S"],["2024-07-18","Arabian League 2nd Division 2024 Summer Playoffs","Semifinal","Twareg Esports","3BL Esports","WWW","","dom","S"],["2024-07-19","Arabian League 2nd Division 2024 Summer Playoffs","Final","Twareg Esports","Baam Esports","LWWW","","dom","S"],["2024-09-09","Arabian League 2025 Promotion","Round 2","Twareg Esports","RA'AD","WWW","","dom","S"],["2024-09-14","Arabian League 2025 Promotion","Final","Twareg Esports","Fog Esports","LLL","","dom","S"],["2024-12-14","Tunisian Super League 2024 Season","Semifinal","Thysdrus Esports White","GnG Amazigh","LLL","r","dom","S"],["2025-07-21","Arabian League 2025 Summer Split","Elimination","Dragons Esports","One More Esports","LWWW","","dom","S"],["2025-07-22","Arabian League 2025 Summer Split","Elimination","Dragons Esports","Baam Esports","WWW","","dom","S"],["2025-07-24","Arabian League 2025 Summer Split","Elimination","Dragons Esports","Baam Esports","WWLLL","","dom","S"],["2025-09-09","Arabian League 2026 Promotion","Round 1","Dragons Esports","NextGeneration Esports","LLWL","","dom","S"],["2025-09-10","Arabian League 2026 Promotion","Round 1","Dragons Esports","Karam El Sham","WWW","","dom","S"],["2025-09-12","Arabian League 2026 Promotion","Round 2","Dragons Esports","NextGeneration Esports","WWW","","dom","S"]],"unknown":[["2024-12-20","Tunisian Super League 2024 Season","Third-Place Match","Thysdrus Esports White","Simplicity Esports (Tunisian Team)","1-3","","dom","S"]]}
+{
+  "player": "Iheb",
+  "generated": "2026-10-27",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2022-07-17","Intel Arabian Cup Prestige Division 2022 Season 1","Semifinal","VSlash GnG","Anubis Gaming","WLLL","r","dom","P"],
+    ["2022-07-23","Intel Arabian Cup Prestige Division 2022 Season 1","Third-Place Match","VSlash GnG","Geekay Esports","LWLWW","r","dom","P"],
+    ["2022-09-23","Intel Arabian Cup Prestige Division 2022 Season 2","Semifinal","VSlash GnG","Anubis Gaming","LLL","r","dom","P"],
+    ["2022-09-25","Intel Arabian Cup Prestige Division 2022 Season 2","Third-Place Match","VSlash GnG","RA'AD","WWLLW","r","dom","P"],
+    ["2022-10-07","Intel Arabian Cup Prestige Division 2022 Last Chance Qualifier","Round 4","VSlash GnG","RA'AD","LLL","r","dom","P"],
+    ["2022-10-08","Intel Arabian Cup Prestige Division 2022 Last Chance Qualifier","Round 4","VSlash GnG","Fox Gaming","WWW","r","dom","P"],
+    ["2022-10-14","Intel Arabian Cup Prestige Division 2022 Grand Finals","Semifinal","VSlash GnG","Geekay Esports","WLLL","r","dom","S"],
+    ["2022-10-28","Intel Arabian Cup Prestige Division 2022 Grand Finals","Third-Place Match","VSlash GnG","Anubis Gaming","LLL","r","dom","S"],
+    ["2023-03-15","Arabian League 2nd Division 2023 Spring Playoffs","Round 1","One More Esports","Slash Lions","WWW","","dom","S"],
+    ["2023-03-16","Arabian League 2nd Division 2023 Spring Playoffs","Semifinal","One More Esports","Olympus Gaming","LWWW","","dom","S"],
+    ["2023-03-29","Arabian League 2nd Division 2023 Spring Playoffs","Final","One More Esports","Twisted Minds","WWW","","dom","S"],
+    ["2023-04-12","Arabian League 2023 Summer Promotion","Round 1","One More Esports","3BL Esports","LWLWL","","dom","S"],
+    ["2023-04-13","Arabian League 2023 Summer Promotion","Round 1","One More Esports","Twisted Minds","LWWW","","dom","S"],
+    ["2023-04-19","Arabian League 2023 Summer Promotion","Round 2","One More Esports","3BL Esports","LWWLL","","dom","S"],
+    ["2023-12-16","Tunisian Super League 2023 Season","Semifinal","Stade Tunisien x Amazigh","Taraji Esports","WLWW","r","dom","S"],
+    ["2023-12-28","Tunisian Super League 2023 Season","Final","Stade Tunisien x Amazigh","GnG Esports","LWWW","r","dom","S"],
+    ["2024-07-17","Arabian League 2nd Division 2024 Summer Playoffs","Round 1","Twareg Esports","Fog Esports","LWLWW","","dom","S"],
+    ["2024-07-18","Arabian League 2nd Division 2024 Summer Playoffs","Semifinal","Twareg Esports","3BL Esports","WWW","","dom","S"],
+    ["2024-07-19","Arabian League 2nd Division 2024 Summer Playoffs","Final","Twareg Esports","Baam Esports","LWWW","","dom","S"],
+    ["2024-09-09","Arabian League 2025 Promotion","Round 2","Twareg Esports","RA'AD","WWW","","dom","S"],
+    ["2024-09-14","Arabian League 2025 Promotion","Final","Twareg Esports","Fog Esports","LLL","","dom","S"],
+    ["2024-12-14","Tunisian Super League 2024 Season","Semifinal","Thysdrus Esports White","GnG Amazigh","LLL","r","dom","S"],
+    ["2025-07-21","Arabian League 2025 Summer Split","Elimination","Dragons Esports","One More Esports","LWWW","","dom","S"],
+    ["2025-07-22","Arabian League 2025 Summer Split","Elimination","Dragons Esports","Baam Esports","WWW","","dom","S"],
+    ["2025-07-24","Arabian League 2025 Summer Split","Elimination","Dragons Esports","Baam Esports","WWLLL","","dom","S"],
+    ["2025-09-09","Arabian League 2026 Promotion","Round 1","Dragons Esports","NextGeneration Esports","LLWL","","dom","S"],
+    ["2025-09-10","Arabian League 2026 Promotion","Round 1","Dragons Esports","Karam El Sham","WWW","","dom","S"],
+    ["2025-09-12","Arabian League 2026 Promotion","Round 2","Dragons Esports","NextGeneration Esports","WWW","","dom","S"]
+  ],
+  "unknown": [
+    ["2024-12-20","Tunisian Super League 2024 Season","Third-Place Match","Thysdrus Esports White","Simplicity Esports (Tunisian Team)","1-3","","dom","S"]
+  ]
+}

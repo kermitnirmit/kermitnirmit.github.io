@@ -1,1 +1,37 @@
-{"player":"Babip","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2016-08-04","OCS 2016 Split 2 Playoffs","Final","Legacy Genesis","Team Exile5","WWLLL","","dom","S"],["2016-08-22","OPL 2017 Split 1 Promotion","Qual","Legacy Genesis","Sin Gaming","WLLL","","dom","P"],["2018-03-25","OPL 2018 Split 1 Playoffs","Round 3","Chiefs Esports Club","Legacy Esports","LWWW","","dom","P"],["2018-03-31","OPL 2018 Split 1 Playoffs","Final","Chiefs Esports Club","Dire Wolves","WWLLL","","dom","P"],["2018-08-26","OPL 2018 Split 2 Playoffs","Round 3","Chiefs Esports Club","Legacy Esports","LWWW","","dom","P"],["2018-09-02","OPL 2018 Split 2 Playoffs","Final","Chiefs Esports Club","Dire Wolves","LWLL","","dom","P"],["2019-03-28","OPL 2019 Split 1 Playoffs","Round 1","MAMMOTH","ORDER","LWLL","","dom","P"],["2019-08-24","OPL 2019 Split 2 Playoffs","Round 3","MAMMOTH","ORDER","WWW","","dom","P"],["2019-08-31","OPL 2019 Split 2 Playoffs","Final","MAMMOTH","Chiefs Esports Club","WWW","","dom","P"],["2020-04-11","OPL 2020 Split 1 Playoffs","Round 2","Legacy Esports","Chiefs Esports Club","WLWW","","dom","P"],["2020-04-24","OPL 2020 Split 1 Playoffs","Final","Legacy Esports","Dire Wolves","WWLW","","dom","P"],["2020-08-15","OPL 2020 Split 2 Playoffs","Round 2","Legacy Esports","ORDER","WWLW","","dom","P"],["2020-08-28","OPL 2020 Split 2 Playoffs","Final","Legacy Esports","ORDER","WLWW","","dom","P"],["2020-09-30","Worlds 2020","Qualification Round","Legacy Esports","LGD Gaming","LLL","","worlds","P"],["2021-04-17","LCS Proving Grounds 2021 Spring","Round 4","TSM Academy","Evil Geniuses Academy","WLLL","","dom","S"],["2021-08-17","LCO 2021 Split 2 Playoffs","Round 1","PEACE (Oceanic Team)","Chiefs Esports Club","WWW","","dom","P"],["2021-08-24","LCO 2021 Split 2 Playoffs","Round 2","PEACE (Oceanic Team)","ORDER","LLWWW","","dom","P"],["2021-08-25","LCO 2021 Split 2 Playoffs","Round 3","PEACE (Oceanic Team)","Dire Wolves","WWW","","dom","P"],["2021-08-31","LCO 2021 Split 2 Playoffs","Final","PEACE (Oceanic Team)","Pentanet.GG","WWW","","dom","P"],["2021-10-08","Worlds 2021","Elimination Round","PEACE (Oceanic Team)","RED Canids","LWWLW","","worlds","P"],["2021-10-09","Worlds 2021","Qualification Round","PEACE (Oceanic Team)","Cloud9","LLL","","worlds","P"],["2023-03-15","LCO 2023 Split 1 Playoffs","Finals Stage","Chiefs Esports Club","Team Bliss","WLLWL","","dom","P"],["2023-03-16","LCO 2023 Split 1 Playoffs","Finals Stage","Chiefs Esports Club","Dire Wolves","WWW","","dom","P"],["2023-03-23","PCS 2023 Spring Playoffs","Round 1","Chiefs Esports Club","CTBC Flying Oyster","LLL","","dom","P"],["2023-03-25","PCS 2023 Spring Playoffs","Round 1","Chiefs Esports Club","Beyond Gaming","LLWL","","dom","P"],["2023-04-29","LCO 2023 Split 1 Playoffs","Finals Stage","Chiefs Esports Club","Team Bliss","WWLW","","dom","P"],["2023-07-20","LCO 2023 Split 2 Playoffs","Round 3","Chiefs Esports Club","Team Bliss","LLL","p","dom","P"],["2023-08-12","PCS 2023 Summer Playoffs","Round 1","Chiefs Esports Club","Deep Cross Gaming","WLLL","p","dom","P"],["2023-08-18","PCS 2023 Summer Playoffs","Round 1","Chiefs Esports Club","Frank Esports","LLWL","p","dom","P"]],"unknown":[]}
+{
+  "player": "Babip",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2016-08-04","OCS 2016 Split 2 Playoffs","Final","Legacy Genesis","Team Exile5","WWLLL","","dom","S"],
+    ["2016-08-22","OPL 2017 Split 1 Promotion","Qual","Legacy Genesis","Sin Gaming","WLLL","","dom","P"],
+    ["2018-03-25","OPL 2018 Split 1 Playoffs","Round 3","Chiefs Esports Club","Legacy Esports","LWWW","","dom","P"],
+    ["2018-03-31","OPL 2018 Split 1 Playoffs","Final","Chiefs Esports Club","Dire Wolves","WWLLL","","dom","P"],
+    ["2018-08-26","OPL 2018 Split 2 Playoffs","Round 3","Chiefs Esports Club","Legacy Esports","LWWW","","dom","P"],
+    ["2018-09-02","OPL 2018 Split 2 Playoffs","Final","Chiefs Esports Club","Dire Wolves","LWLL","","dom","P"],
+    ["2019-03-28","OPL 2019 Split 1 Playoffs","Round 1","MAMMOTH","ORDER","LWLL","","dom","P"],
+    ["2019-08-24","OPL 2019 Split 2 Playoffs","Round 3","MAMMOTH","ORDER","WWW","","dom","P"],
+    ["2019-08-31","OPL 2019 Split 2 Playoffs","Final","MAMMOTH","Chiefs Esports Club","WWW","","dom","P"],
+    ["2020-04-11","OPL 2020 Split 1 Playoffs","Round 2","Legacy Esports","Chiefs Esports Club","WLWW","","dom","P"],
+    ["2020-04-24","OPL 2020 Split 1 Playoffs","Final","Legacy Esports","Dire Wolves","WWLW","","dom","P"],
+    ["2020-08-15","OPL 2020 Split 2 Playoffs","Round 2","Legacy Esports","ORDER","WWLW","","dom","P"],
+    ["2020-08-28","OPL 2020 Split 2 Playoffs","Final","Legacy Esports","ORDER","WLWW","","dom","P"],
+    ["2020-09-30","Worlds 2020","Qualification Round","Legacy Esports","LGD Gaming","LLL","","worlds","P"],
+    ["2021-04-17","LCS Proving Grounds 2021 Spring","Round 4","TSM Academy","Evil Geniuses Academy","WLLL","","dom","S"],
+    ["2021-08-17","LCO 2021 Split 2 Playoffs","Round 1","PEACE (Oceanic Team)","Chiefs Esports Club","WWW","","dom","P"],
+    ["2021-08-24","LCO 2021 Split 2 Playoffs","Round 2","PEACE (Oceanic Team)","ORDER","LLWWW","","dom","P"],
+    ["2021-08-25","LCO 2021 Split 2 Playoffs","Round 3","PEACE (Oceanic Team)","Dire Wolves","WWW","","dom","P"],
+    ["2021-08-31","LCO 2021 Split 2 Playoffs","Final","PEACE (Oceanic Team)","Pentanet.GG","WWW","","dom","P"],
+    ["2021-10-08","Worlds 2021","Elimination Round","PEACE (Oceanic Team)","RED Canids","LWWLW","","worlds","P"],
+    ["2021-10-09","Worlds 2021","Qualification Round","PEACE (Oceanic Team)","Cloud9","LLL","","worlds","P"],
+    ["2023-03-15","LCO 2023 Split 1 Playoffs","Finals Stage","Chiefs Esports Club","Team Bliss","WLLWL","","dom","P"],
+    ["2023-03-16","LCO 2023 Split 1 Playoffs","Finals Stage","Chiefs Esports Club","Dire Wolves","WWW","","dom","P"],
+    ["2023-03-23","PCS 2023 Spring Playoffs","Round 1","Chiefs Esports Club","CTBC Flying Oyster","LLL","","dom","P"],
+    ["2023-03-25","PCS 2023 Spring Playoffs","Round 1","Chiefs Esports Club","Beyond Gaming","LLWL","","dom","P"],
+    ["2023-04-29","LCO 2023 Split 1 Playoffs","Finals Stage","Chiefs Esports Club","Team Bliss","WWLW","","dom","P"],
+    ["2023-07-20","LCO 2023 Split 2 Playoffs","Round 3","Chiefs Esports Club","Team Bliss","LLL","p","dom","P"],
+    ["2023-08-12","PCS 2023 Summer Playoffs","Round 1","Chiefs Esports Club","Deep Cross Gaming","WLLL","p","dom","P"],
+    ["2023-08-18","PCS 2023 Summer Playoffs","Round 1","Chiefs Esports Club","Frank Esports","LLWL","p","dom","P"]
+  ],
+  "unknown": []
+}

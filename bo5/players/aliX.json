@@ -1,1 +1,32 @@
-{"player":"aliX","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2023-03-23","PG Proving Grounds 2023 Spring Playoffs","Round 1","Angry Bats","Away from Normal","LLWWW","","dom","S"],["2023-03-29","PG Proving Grounds 2023 Spring Playoffs","Semifinal","Angry Bats","Atleta Esport","WLWW","","dom","S"],["2023-03-30","PG Proving Grounds 2023 Spring Playoffs","Final","Angry Bats","ENEMI3S","WLWLL","","dom","S"],["2024-03-14","NLC 2024 Spring Playoffs","Round 1","Ruddy Esports","Venomcrest Esports","WWW","","dom","S"],["2024-03-20","NLC 2024 Spring Playoffs","Semifinal","Ruddy Esports","NORD Esports","WWW","","dom","S"],["2024-03-27","NLC 2024 Spring Playoffs","Final","Ruddy Esports","Lionscreed","WLLL","","dom","S"],["2024-07-24","NLC 2024 Summer Playoffs","Round 1","Ruddy Esports","Venomcrest Esports","WWLW","","dom","S"],["2024-08-03","NLC 2024 Summer Playoffs","Final","Ruddy Esports","Venomcrest Esports","LWWLL","","dom","S"],["2024-10-25","TCL Season Cup 2024","Final","NASR eSports Turkey","FUT Esports","LLL","","dom","S"],["2025-05-16","Hellenic Legends League 2025 Spring Playoffs","Round 2","Team Insidious","Team Phantasma","LLL","","dom","S"],["2025-05-17","Hellenic Legends League 2025 Spring Playoffs","Round 2","Team Insidious","Actions Per Minute","WWW","","dom","S"],["2025-07-03","TCL 2025 Summer Promotion","Lower Final","Nekoy","Kadıköy Bulls","WWW","r","dom","S"],["2025-07-04","TCL 2025 Summer Promotion","Grand Final","Nekoy","Super Phalanx","WWW","r","dom","S"],["2025-08-23","Esports Balkan League 2025 Summer Playoffs","Round 4","Crvena zvezda Esports","Lenovo Legion Honvéd","WWW","","dom","S"],["2025-08-24","Esports Balkan League 2025 Summer Playoffs","Final","Crvena zvezda Esports","Partizan Sangal","WLLWL","","dom","S"],["2025-09-02","Esports Balkan League 2025 Season Finals","Semifinal","Crvena zvezda Esports","Lenovo Legion Honvéd","WWW","","dom","S"],["2025-09-05","Esports Balkan League 2025 Season Finals","Final","Crvena zvezda Esports","Partizan Sangal","LWLL","","dom","S"],["2026-02-12","TCL 2026 Kickoff","Round 2","Bushido Wildcats","Dark Passage","WWW","","dom","S"],["2026-02-20","TCL 2026 Kickoff","Round 3","Bushido Wildcats","SU Esports","LWLWW","","dom","S"],["2026-02-26","TCL 2026 Kickoff","Round 4","Bushido Wildcats","S2G Esports","LLL","","dom","S"],["2026-05-14","Hellenic Legends League 2026 Spring Playoffs","Semifinal","Team Insidious","GOAL","WWLLL","","dom","S"],["2026-08-28","Hellenic Legends League 2026 Summer Playoffs","Round 2","Gamespace Mediterranean College Esports","Team Phantasma","LWLWW","","dom","S"],["2026-09-01","Hellenic Legends League 2026 Summer Playoffs","Round 3","Gamespace Mediterranean College Esports","Valerion","LLL","","dom","S"],["2026-09-11","Hellenic Legends League 2026 Summer Playoffs","Round 3","Gamespace Mediterranean College Esports","Team Phantasma","LLWL","","dom","S"]],"unknown":[]}
+{
+  "player": "aliX",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2023-03-23","PG Proving Grounds 2023 Spring Playoffs","Round 1","Angry Bats","Away from Normal","LLWWW","","dom","S"],
+    ["2023-03-29","PG Proving Grounds 2023 Spring Playoffs","Semifinal","Angry Bats","Atleta Esport","WLWW","","dom","S"],
+    ["2023-03-30","PG Proving Grounds 2023 Spring Playoffs","Final","Angry Bats","ENEMI3S","WLWLL","","dom","S"],
+    ["2024-03-14","NLC 2024 Spring Playoffs","Round 1","Ruddy Esports","Venomcrest Esports","WWW","","dom","S"],
+    ["2024-03-20","NLC 2024 Spring Playoffs","Semifinal","Ruddy Esports","NORD Esports","WWW","","dom","S"],
+    ["2024-03-27","NLC 2024 Spring Playoffs","Final","Ruddy Esports","Lionscreed","WLLL","","dom","S"],
+    ["2024-07-24","NLC 2024 Summer Playoffs","Round 1","Ruddy Esports","Venomcrest Esports","WWLW","","dom","S"],
+    ["2024-08-03","NLC 2024 Summer Playoffs","Final","Ruddy Esports","Venomcrest Esports","LWWLL","","dom","S"],
+    ["2024-10-25","TCL Season Cup 2024","Final","NASR eSports Turkey","FUT Esports","LLL","","dom","S"],
+    ["2025-05-16","Hellenic Legends League 2025 Spring Playoffs","Round 2","Team Insidious","Team Phantasma","LLL","","dom","S"],
+    ["2025-05-17","Hellenic Legends League 2025 Spring Playoffs","Round 2","Team Insidious","Actions Per Minute","WWW","","dom","S"],
+    ["2025-07-03","TCL 2025 Summer Promotion","Lower Final","Nekoy","Kadıköy Bulls","WWW","r","dom","S"],
+    ["2025-07-04","TCL 2025 Summer Promotion","Grand Final","Nekoy","Super Phalanx","WWW","r","dom","S"],
+    ["2025-08-23","Esports Balkan League 2025 Summer Playoffs","Round 4","Crvena zvezda Esports","Lenovo Legion Honvéd","WWW","","dom","S"],
+    ["2025-08-24","Esports Balkan League 2025 Summer Playoffs","Final","Crvena zvezda Esports","Partizan Sangal","WLLWL","","dom","S"],
+    ["2025-09-02","Esports Balkan League 2025 Season Finals","Semifinal","Crvena zvezda Esports","Lenovo Legion Honvéd","WWW","","dom","S"],
+    ["2025-09-05","Esports Balkan League 2025 Season Finals","Final","Crvena zvezda Esports","Partizan Sangal","LWLL","","dom","S"],
+    ["2026-02-12","TCL 2026 Kickoff","Round 2","Bushido Wildcats","Dark Passage","WWW","","dom","S"],
+    ["2026-02-20","TCL 2026 Kickoff","Round 3","Bushido Wildcats","SU Esports","LWLWW","","dom","S"],
+    ["2026-02-26","TCL 2026 Kickoff","Round 4","Bushido Wildcats","S2G Esports","LLL","","dom","S"],
+    ["2026-05-14","Hellenic Legends League 2026 Spring Playoffs","Semifinal","Team Insidious","GOAL","WWLLL","","dom","S"],
+    ["2026-08-28","Hellenic Legends League 2026 Summer Playoffs","Round 2","Gamespace Mediterranean College Esports","Team Phantasma","LWLWW","","dom","S"],
+    ["2026-09-01","Hellenic Legends League 2026 Summer Playoffs","Round 3","Gamespace Mediterranean College Esports","Valerion","LLL","","dom","S"],
+    ["2026-09-11","Hellenic Legends League 2026 Summer Playoffs","Round 3","Gamespace Mediterranean College Esports","Team Phantasma","LLWL","","dom","S"]
+  ],
+  "unknown": []
+}

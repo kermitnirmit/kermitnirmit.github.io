@@ -1,1 +1,31 @@
-{"player":"Klaj","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2016-03-06","IEM Season X - World Championship","Final","Fnatic","SK Telecom T1","LLL","","intl","P"],["2016-04-02","EU LCS 2016 Spring Playoffs","Quarterfinal","Fnatic","Team Vitality","WWLW","","dom","P"],["2016-04-10","EU LCS 2016 Spring Playoffs","Semifinal","Fnatic","G2 Esports","LWLL","","dom","P"],["2016-04-16","EU LCS 2016 Spring Playoffs","Third-Place Match","Fnatic","H2k-Gaming","WWLLW","","dom","P"],["2017-01-15","EU Challenger Series 2017 Spring Qualifiers","Final","Fnatic Academy","Team Forge","WWW","","dom","S"],["2017-03-26","EU Challenger Series 2017 Spring Playoffs","Qualifiers","Fnatic Academy","Paris Saint-Germain eSports","LWWLW","","dom","S"],["2017-04-06","EU LCS 2017 Summer Promotion","Round 1","Fnatic Academy","Giants Gaming","LWWW","","dom","P"],["2017-04-13","EU LCS 2017 Summer Promotion","Qualifying Round","Fnatic Academy","Misfits Academy","WLLWL","","dom","P"],["2017-04-14","EU LCS 2017 Summer Promotion","Qualifying Round","Fnatic Academy","Giants Gaming","WWW","","dom","P"],["2017-12-16","LVP SuperLiga Orange Season 13 Playoffs","Semifinal","Movistar Riders","Giants Only The Brave","LLL","r","dom",""],["2018-03-20","LVP SuperLiga Orange 2018 Spring Playoffs","Semifinal","Movistar Riders","Giants Gaming Spain","LWWW","p","dom","S"],["2018-03-25","LVP SuperLiga Orange 2018 Spring Playoffs","Final","Movistar Riders","MAD Lions E.C.","LLL","p","dom","S"],["2018-08-28","LVP SuperLiga Orange 2018 Summer Playoffs","Semifinal","Movistar Riders","MAD Lions E.C.","LLWWL","","dom","S"],["2019-03-24","Premier Tour 2018 Winter/Stop 4 - Berlin","Final","ad hoc gaming","Berlin International Gaming","LWLWL","","dom","S"],["2019-03-27","Summoner's Inn League Season 2 Playoffs","Round 2","ad hoc gaming","FC Schalke 04 Evolution","WWW","r","dom",""],["2019-04-02","Summoner's Inn League Season 2 Playoffs","Final","ad hoc gaming","SK Gaming Prime","WLWLL","r","dom",""],["2023-03-15","NLC 2023 Spring Playoffs","Round 1","Verdant","Ruddy Esports","WWW","","dom","S"],["2023-03-21","NLC 2023 Spring Playoffs","Semifinal","Verdant","NORD Esports","LWLWW","","dom","S"],["2023-03-28","NLC 2023 Spring Playoffs","Final","Verdant","Riddle Esports","LLL","","dom","S"],["2023-09-19","LFL 2024 Promotion","Round 1","IziDream","Team Du Sud","WLLWW","","dom","S"],["2023-09-21","LFL 2024 Promotion","Round 2","IziDream","GameWard","LLL","","dom","S"],["2023-09-22","LFL 2024 Promotion","Round 2","IziDream","Team Du Sud","LLL","","dom","S"],["2023-09-29","Coupe de France 2023","Round 2","IziDream","Vitality.Bee","LLWL","","dom","S"]],"unknown":[]}
+{
+  "player": "Klaj",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2016-03-06","IEM Season X - World Championship","Final","Fnatic","SK Telecom T1","LLL","","intl","P"],
+    ["2016-04-02","EU LCS 2016 Spring Playoffs","Quarterfinal","Fnatic","Team Vitality","WWLW","","dom","P"],
+    ["2016-04-10","EU LCS 2016 Spring Playoffs","Semifinal","Fnatic","G2 Esports","LWLL","","dom","P"],
+    ["2016-04-16","EU LCS 2016 Spring Playoffs","Third-Place Match","Fnatic","H2k-Gaming","WWLLW","","dom","P"],
+    ["2017-01-15","EU Challenger Series 2017 Spring Qualifiers","Final","Fnatic Academy","Team Forge","WWW","","dom","S"],
+    ["2017-03-26","EU Challenger Series 2017 Spring Playoffs","Qualifiers","Fnatic Academy","Paris Saint-Germain eSports","LWWLW","","dom","S"],
+    ["2017-04-06","EU LCS 2017 Summer Promotion","Round 1","Fnatic Academy","Giants Gaming","LWWW","","dom","P"],
+    ["2017-04-13","EU LCS 2017 Summer Promotion","Qualifying Round","Fnatic Academy","Misfits Academy","WLLWL","","dom","P"],
+    ["2017-04-14","EU LCS 2017 Summer Promotion","Qualifying Round","Fnatic Academy","Giants Gaming","WWW","","dom","P"],
+    ["2017-12-16","LVP SuperLiga Orange Season 13 Playoffs","Semifinal","Movistar Riders","Giants Only The Brave","LLL","r","dom",""],
+    ["2018-03-20","LVP SuperLiga Orange 2018 Spring Playoffs","Semifinal","Movistar Riders","Giants Gaming Spain","LWWW","p","dom","S"],
+    ["2018-03-25","LVP SuperLiga Orange 2018 Spring Playoffs","Final","Movistar Riders","MAD Lions E.C.","LLL","p","dom","S"],
+    ["2018-08-28","LVP SuperLiga Orange 2018 Summer Playoffs","Semifinal","Movistar Riders","MAD Lions E.C.","LLWWL","","dom","S"],
+    ["2019-03-24","Premier Tour 2018 Winter/Stop 4 - Berlin","Final","ad hoc gaming","Berlin International Gaming","LWLWL","","dom","S"],
+    ["2019-03-27","Summoner's Inn League Season 2 Playoffs","Round 2","ad hoc gaming","FC Schalke 04 Evolution","WWW","r","dom",""],
+    ["2019-04-02","Summoner's Inn League Season 2 Playoffs","Final","ad hoc gaming","SK Gaming Prime","WLWLL","r","dom",""],
+    ["2023-03-15","NLC 2023 Spring Playoffs","Round 1","Verdant","Ruddy Esports","WWW","","dom","S"],
+    ["2023-03-21","NLC 2023 Spring Playoffs","Semifinal","Verdant","NORD Esports","LWLWW","","dom","S"],
+    ["2023-03-28","NLC 2023 Spring Playoffs","Final","Verdant","Riddle Esports","LLL","","dom","S"],
+    ["2023-09-19","LFL 2024 Promotion","Round 1","IziDream","Team Du Sud","WLLWW","","dom","S"],
+    ["2023-09-21","LFL 2024 Promotion","Round 2","IziDream","GameWard","LLL","","dom","S"],
+    ["2023-09-22","LFL 2024 Promotion","Round 2","IziDream","Team Du Sud","LLL","","dom","S"],
+    ["2023-09-29","Coupe de France 2023","Round 2","IziDream","Vitality.Bee","LLWL","","dom","S"]
+  ],
+  "unknown": []
+}

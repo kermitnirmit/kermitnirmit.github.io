@@ -1,1 +1,33 @@
-{"player":"Peter (Jeong Yoon-su)","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2022-08-16","LCK CL 2022 Summer Playoffs","Quarterfinal","Nongshim RedForce Challengers","KT Rolster Challengers","LWWLW","","dom","S"],["2022-08-22","LCK CL 2022 Summer Playoffs","Semifinal","Nongshim RedForce Challengers","T1 Challengers","WLWLW","","dom","S"],["2022-08-26","LCK CL 2022 Summer Playoffs","Final","Nongshim RedForce Challengers","DWG KIA Challengers","LLWWW","","dom","S"],["2022-11-18","Esports Championships East Asia 2022","Final","South Korea","China","WWW","r","intl","S"],["2025-02-18","LCK CL 2025 Kickoff","Playoffs Round 2","KT Rolster Challengers","BNK FEARX Youth","WWLW","","dom","S"],["2025-02-24","LCK CL 2025 Kickoff","Playoffs Round 3","KT Rolster Challengers","T1 Esports Academy","WLWW","","dom","S"],["2025-02-27","LCK CL 2025 Kickoff","Final","KT Rolster Challengers","T1 Esports Academy","WWLW","","dom","S"],["2025-06-07","LCK 2025 Road to MSI","Round 1","KT Rolster","Dplus Kia","WWW","","dom","P"],["2025-06-08","LCK 2025 Road to MSI","Round 2","KT Rolster","Nongshim RedForce","WWW","","dom","P"],["2025-06-14","LCK 2025 Road to MSI","Round 3","KT Rolster","T1","WLLL","","dom","P"],["2025-09-11","LCK 2025 Playoffs","Round 1","KT Rolster","BNK FEARX","LWWW","","dom","P"],["2025-09-13","LCK 2025 Playoffs","Round 2","KT Rolster","Gen.G","WLLWW","","dom","P"],["2025-09-20","LCK 2025 Playoffs","Round 4","KT Rolster","Hanwha Life Esports","LLL","","dom","P"],["2025-09-27","LCK 2025 Playoffs","Round 4","KT Rolster","Gen.G","LLL","","dom","P"],["2025-10-29","Worlds 2025","Quarterfinal","KT Rolster","CTBC Flying Oyster","WWW","","worlds","P"],["2025-11-01","Worlds 2025","Semifinal","KT Rolster","Gen.G","WLWW","","worlds","P"],["2025-11-09","Worlds 2025","Final","KT Rolster","T1","LWWLL","","worlds","P"],["2025-12-19","SLL Winter 2025","Semifinal","Rebellions of 2 amateurs","WJCLB","LLL","r","dom","S"],["2026-01-29","LCK 2026 Cup","","DN SOOPers","BNK FEARX","LLWL","p","dom","P"],["2026-02-12","LCK 2026 Cup","Playoffs Round 1","DN SOOPers","BNK FEARX","WLLWL","","dom","P"],["2026-02-19","LCK 2026 Cup","Playoffs Round 1","DN SOOPers","DRX","WWLW","","dom","P"],["2026-02-20","LCK 2026 Cup","Playoffs Round 2","DN SOOPers","Dplus Kia","LLWL","","dom","P"],["2026-08-11","LoL KeSPA Cup 2026","Quarterfinal","DN SOOPers","Hanwha Life Esports","WWW","","dom","P"],["2026-08-17","LoL KeSPA Cup 2026","Semifinal","DN SOOPers","T1","LWWW","","dom","P"],["2026-08-18","LoL KeSPA Cup 2026","Final","DN SOOPers","Nongshim RedForce","WWW","","dom","P"]],"unknown":[]}
+{
+  "player": "Peter (Jeong Yoon-su)",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2022-08-16","LCK CL 2022 Summer Playoffs","Quarterfinal","Nongshim RedForce Challengers","KT Rolster Challengers","LWWLW","","dom","S"],
+    ["2022-08-22","LCK CL 2022 Summer Playoffs","Semifinal","Nongshim RedForce Challengers","T1 Challengers","WLWLW","","dom","S"],
+    ["2022-08-26","LCK CL 2022 Summer Playoffs","Final","Nongshim RedForce Challengers","DWG KIA Challengers","LLWWW","","dom","S"],
+    ["2022-11-18","Esports Championships East Asia 2022","Final","South Korea","China","WWW","r","intl","S"],
+    ["2025-02-18","LCK CL 2025 Kickoff","Playoffs Round 2","KT Rolster Challengers","BNK FEARX Youth","WWLW","","dom","S"],
+    ["2025-02-24","LCK CL 2025 Kickoff","Playoffs Round 3","KT Rolster Challengers","T1 Esports Academy","WLWW","","dom","S"],
+    ["2025-02-27","LCK CL 2025 Kickoff","Final","KT Rolster Challengers","T1 Esports Academy","WWLW","","dom","S"],
+    ["2025-06-07","LCK 2025 Road to MSI","Round 1","KT Rolster","Dplus Kia","WWW","","dom","P"],
+    ["2025-06-08","LCK 2025 Road to MSI","Round 2","KT Rolster","Nongshim RedForce","WWW","","dom","P"],
+    ["2025-06-14","LCK 2025 Road to MSI","Round 3","KT Rolster","T1","WLLL","","dom","P"],
+    ["2025-09-11","LCK 2025 Playoffs","Round 1","KT Rolster","BNK FEARX","LWWW","","dom","P"],
+    ["2025-09-13","LCK 2025 Playoffs","Round 2","KT Rolster","Gen.G","WLLWW","","dom","P"],
+    ["2025-09-20","LCK 2025 Playoffs","Round 4","KT Rolster","Hanwha Life Esports","LLL","","dom","P"],
+    ["2025-09-27","LCK 2025 Playoffs","Round 4","KT Rolster","Gen.G","LLL","","dom","P"],
+    ["2025-10-29","Worlds 2025","Quarterfinal","KT Rolster","CTBC Flying Oyster","WWW","","worlds","P"],
+    ["2025-11-01","Worlds 2025","Semifinal","KT Rolster","Gen.G","WLWW","","worlds","P"],
+    ["2025-11-09","Worlds 2025","Final","KT Rolster","T1","LWWLL","","worlds","P"],
+    ["2025-12-19","SLL Winter 2025","Semifinal","Rebellions of 2 amateurs","WJCLB","LLL","r","dom","S"],
+    ["2026-01-29","LCK 2026 Cup","","DN SOOPers","BNK FEARX","LLWL","p","dom","P"],
+    ["2026-02-12","LCK 2026 Cup","Playoffs Round 1","DN SOOPers","BNK FEARX","WLLWL","","dom","P"],
+    ["2026-02-19","LCK 2026 Cup","Playoffs Round 1","DN SOOPers","DRX","WWLW","","dom","P"],
+    ["2026-02-20","LCK 2026 Cup","Playoffs Round 2","DN SOOPers","Dplus Kia","LLWL","","dom","P"],
+    ["2026-08-11","LoL KeSPA Cup 2026","Quarterfinal","DN SOOPers","Hanwha Life Esports","WWW","","dom","P"],
+    ["2026-08-17","LoL KeSPA Cup 2026","Semifinal","DN SOOPers","T1","LWWW","","dom","P"],
+    ["2026-08-18","LoL KeSPA Cup 2026","Final","DN SOOPers","Nongshim RedForce","WWW","","dom","P"]
+  ],
+  "unknown": []
+}

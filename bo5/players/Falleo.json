@@ -1,1 +1,33 @@
-{"player":"Falleo","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2021-10-13","Ultraliga Season 7 Expansion","Round 1","Method2Madness","Estonian Vipers","WLWW","r","dom","S"],["2021-10-16","Ultraliga Season 7 Expansion","Round 2","Method2Madness","GOEXANIMO","LWLL","r","dom","S"],["2022-09-23","Esports Balkan League 2023 Promotion","Round 1","Nexus KTRL","Immaculate Gaming","WLWLW","","dom","S"],["2022-09-26","Esports Balkan League 2023 Promotion","Round 2","Nexus KTRL","XtremeDominators","WLLWL","","dom","S"],["2022-09-27","Esports Balkan League 2023 Promotion","Round 2","Nexus KTRL","Immaculate Gaming","LWWW","","dom","S"],["2023-10-18","Aurora Cup 2023 Main Event","Quarterfinal","Lazy In Life","DMG Esports","LWWW","","dom","S"],["2023-11-01","Aurora Cup 2023 Main Event","Semifinal","Lazy In Life","Fourth Wall","WLLL","","dom","S"],["2023-12-07","NLC 2nd Division 2024 Spring RPS","Semifinal","Lazy In Life","KAOS e-sport","WWLLL","","dom","S"],["2024-03-14","Esports Balkan League 2024 Spring Playoffs","Round 1","BeFive","Lupus Esports","LWWW","","dom","S"],["2024-03-15","Esports Balkan League 2024 Spring Playoffs","Semifinal","BeFive","Diamant Esports","WWLW","","dom","S"],["2024-04-05","Esports Balkan League 2024 Spring Playoffs","Final","BeFive","SPIKE Syndicate","LLWWW","","dom","S"],["2024-07-10","Esports Balkan League 2024 Summer Playoffs","Round 1","BeFive","Cyber Wolves","WWW","","dom","S"],["2024-07-11","Esports Balkan League 2024 Summer Playoffs","Semifinal","BeFive","Partizan Esports","LLL","","dom","S"],["2024-10-23","Esports Balkan League 2024 Pro-Am","Round 1","BeFive","SPIKE Syndicate","WWW","","dom","S"],["2024-10-24","Esports Balkan League 2024 Pro-Am","Semifinal","BeFive","Partizan Esports","WLWW","","dom","S"],["2024-10-25","Esports Balkan League 2024 Pro-Am","Final","BeFive","Team Axelent69","LLL","","dom","S"],["2025-03-09","Esports Balkan League 2025 Winter Playoffs","Final","BeFive","Crvena zvezda Esports","LLL","","dom","S"],["2025-07-11","Nexus Adria Open 2025 Summer","Final","The Secret Club","EFB","WWLW","r","dom","S"],["2025-09-10","Esports Balkan League 2026 Promotion","Round 1","The Secret Club","Lenovo Legion Honvéd","WWLLW","","dom","S"],["2026-05-27","Esports Balkan League 2026 Spring Playoffs","Round 4","The Secret Club","Magaza Esports","LWLL","","dom","S"],["2026-08-27","LPLOL 2026 Summer Split","Quarterfinal","White Dragons","Tung Tung Bogi","WWW","","dom","S"],["2026-09-08","LPLOL 2026 Summer Split","Semifinal","White Dragons","Dominion Goblins","WWW","","dom","S"],["2026-09-13","LPLOL 2026 Summer Split","Final","White Dragons","Otter Side","WWW","","dom","S"]],"unknown":[["2025-07-10","Nexus Adria Open 2025 Summer","Semifinal","The Secret Club","RLX Esports","3-1","","dom","S"]]}
+{
+  "player": "Falleo",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2021-10-13","Ultraliga Season 7 Expansion","Round 1","Method2Madness","Estonian Vipers","WLWW","r","dom","S"],
+    ["2021-10-16","Ultraliga Season 7 Expansion","Round 2","Method2Madness","GOEXANIMO","LWLL","r","dom","S"],
+    ["2022-09-23","Esports Balkan League 2023 Promotion","Round 1","Nexus KTRL","Immaculate Gaming","WLWLW","","dom","S"],
+    ["2022-09-26","Esports Balkan League 2023 Promotion","Round 2","Nexus KTRL","XtremeDominators","WLLWL","","dom","S"],
+    ["2022-09-27","Esports Balkan League 2023 Promotion","Round 2","Nexus KTRL","Immaculate Gaming","LWWW","","dom","S"],
+    ["2023-10-18","Aurora Cup 2023 Main Event","Quarterfinal","Lazy In Life","DMG Esports","LWWW","","dom","S"],
+    ["2023-11-01","Aurora Cup 2023 Main Event","Semifinal","Lazy In Life","Fourth Wall","WLLL","","dom","S"],
+    ["2023-12-07","NLC 2nd Division 2024 Spring RPS","Semifinal","Lazy In Life","KAOS e-sport","WWLLL","","dom","S"],
+    ["2024-03-14","Esports Balkan League 2024 Spring Playoffs","Round 1","BeFive","Lupus Esports","LWWW","","dom","S"],
+    ["2024-03-15","Esports Balkan League 2024 Spring Playoffs","Semifinal","BeFive","Diamant Esports","WWLW","","dom","S"],
+    ["2024-04-05","Esports Balkan League 2024 Spring Playoffs","Final","BeFive","SPIKE Syndicate","LLWWW","","dom","S"],
+    ["2024-07-10","Esports Balkan League 2024 Summer Playoffs","Round 1","BeFive","Cyber Wolves","WWW","","dom","S"],
+    ["2024-07-11","Esports Balkan League 2024 Summer Playoffs","Semifinal","BeFive","Partizan Esports","LLL","","dom","S"],
+    ["2024-10-23","Esports Balkan League 2024 Pro-Am","Round 1","BeFive","SPIKE Syndicate","WWW","","dom","S"],
+    ["2024-10-24","Esports Balkan League 2024 Pro-Am","Semifinal","BeFive","Partizan Esports","WLWW","","dom","S"],
+    ["2024-10-25","Esports Balkan League 2024 Pro-Am","Final","BeFive","Team Axelent69","LLL","","dom","S"],
+    ["2025-03-09","Esports Balkan League 2025 Winter Playoffs","Final","BeFive","Crvena zvezda Esports","LLL","","dom","S"],
+    ["2025-07-11","Nexus Adria Open 2025 Summer","Final","The Secret Club","EFB","WWLW","r","dom","S"],
+    ["2025-09-10","Esports Balkan League 2026 Promotion","Round 1","The Secret Club","Lenovo Legion Honvéd","WWLLW","","dom","S"],
+    ["2026-05-27","Esports Balkan League 2026 Spring Playoffs","Round 4","The Secret Club","Magaza Esports","LWLL","","dom","S"],
+    ["2026-08-27","LPLOL 2026 Summer Split","Quarterfinal","White Dragons","Tung Tung Bogi","WWW","","dom","S"],
+    ["2026-09-08","LPLOL 2026 Summer Split","Semifinal","White Dragons","Dominion Goblins","WWW","","dom","S"],
+    ["2026-09-13","LPLOL 2026 Summer Split","Final","White Dragons","Otter Side","WWW","","dom","S"]
+  ],
+  "unknown": [
+    ["2025-07-10","Nexus Adria Open 2025 Summer","Semifinal","The Secret Club","RLX Esports","3-1","","dom","S"]
+  ]
+}

@@ -1,1 +1,37 @@
-{"player":"Thanatos (Park Seung-kyu)","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2021-12-12","LoL KeSPA Cup 2021","Final","DWG KIA Challengers","Fredit BRION Challengers","LWWW","","dom","P"],["2022-03-29","LCK CL 2022 Spring Playoffs","Semifinal","DWG KIA Challengers","KT Rolster Challengers","LWLWW","","dom","S"],["2022-04-01","LCK CL 2022 Spring Playoffs","Final","DWG KIA Challengers","Nongshim RedForce Challengers","WLWW","","dom","S"],["2022-08-23","LCK CL 2022 Summer Playoffs","Semifinal","DWG KIA Challengers","DRX Challengers","LWLWW","","dom","S"],["2022-08-26","LCK CL 2022 Summer Playoffs","Final","DWG KIA Challengers","Nongshim RedForce Challengers","WWLLL","","dom","S"],["2024-08-25","LCS 2024 Championship","Round 2","Cloud9","FlyQuest","WLLL","","dom","P"],["2024-09-01","LCS 2024 Championship","Round 3","Cloud9","100 Thieves","LWLL","","dom","P"],["2025-05-25","LTA North 2025 Split 2 Playoffs","Round 1","Cloud9","Team Liquid","WWW","","dom","P"],["2025-06-07","LTA North 2025 Split 2 Playoffs","Round 2","Cloud9","FlyQuest","LLWWL","","dom","P"],["2025-06-14","LTA North 2025 Split 2 Playoffs","Round 3","Cloud9","Shopify Rebellion","WWW","","dom","P"],["2025-06-15","LTA North 2025 Split 2 Playoffs","Final","Cloud9","FlyQuest","LWWLL","","dom","P"],["2025-08-16","LTA North 2025 Split 3","Round 2","Cloud9","Shopify Rebellion","WLLWL","","dom","P"],["2025-08-29","LTA North 2025 Split 3","Round 2","Cloud9","Disguised","WWLLW","","dom","P"],["2025-09-05","LTA North 2025 Split 3","Round 3","Cloud9","100 Thieves","LWLWL","","dom","P"],["2026-02-15","LCS 2026 Lock-In","Playoffs Round 1","Cloud9","FlyQuest","WWW","","dom","P"],["2026-02-22","LCS 2026 Lock-In","Playoffs Round 2","Cloud9","Sentinels","WWW","","dom","P"],["2026-03-01","LCS 2026 Lock-In","Final","Cloud9","LYON (2024 American Team)","WLLL","","dom","P"],["2026-03-05","Americas Cup 2026","Round 1","Cloud9","RED Canids","WWLLW","","dom","S"],["2026-03-07","Americas Cup 2026","Round 2","Cloud9","Sentinels","WLWW","","dom","S"],["2026-03-08","Americas Cup 2026","Final","Cloud9","FURIA","LLL","","dom","S"],["2026-05-23","LCS 2026 Spring Playoffs","Round 1","Cloud9","FlyQuest","WWLLW","","dom","P"],["2026-06-07","LCS 2026 Spring Playoffs","Round 2","Cloud9","LYON (2024 American Team)","LLL","","dom","P"],["2026-06-13","LCS 2026 Spring Playoffs","Round 3","Cloud9","Team Liquid","LLL","","dom","P"],["2026-09-12","LCS 2026 Summer Playoffs","Round 1","Cloud9","Shopify Rebellion","WWW","","dom","P"],["2026-09-19","LCS 2026 Summer Playoffs","Round 2","Cloud9","LYON (2024 American Team)","WLWW","","dom","P"],["2026-09-27","LCS 2026 Summer Playoffs","Round 4","Cloud9","Team Liquid","LLWL","","dom","P"],["2026-10-03","LCS 2026 Summer Playoffs","Round 4","Cloud9","LYON (2024 American Team)","WLLL","","dom","P"],["2026-10-15","Worlds 2026","Round 1","Cloud9","Karmine Corp","WLWLL","","worlds","P"],["2026-10-16","Worlds 2026","Round 1","Cloud9","FURIA","WLLL","","worlds","P"]],"unknown":[]}
+{
+  "player": "Thanatos (Park Seung-kyu)",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2021-12-12","LoL KeSPA Cup 2021","Final","DWG KIA Challengers","Fredit BRION Challengers","LWWW","","dom","P"],
+    ["2022-03-29","LCK CL 2022 Spring Playoffs","Semifinal","DWG KIA Challengers","KT Rolster Challengers","LWLWW","","dom","S"],
+    ["2022-04-01","LCK CL 2022 Spring Playoffs","Final","DWG KIA Challengers","Nongshim RedForce Challengers","WLWW","","dom","S"],
+    ["2022-08-23","LCK CL 2022 Summer Playoffs","Semifinal","DWG KIA Challengers","DRX Challengers","LWLWW","","dom","S"],
+    ["2022-08-26","LCK CL 2022 Summer Playoffs","Final","DWG KIA Challengers","Nongshim RedForce Challengers","WWLLL","","dom","S"],
+    ["2024-08-25","LCS 2024 Championship","Round 2","Cloud9","FlyQuest","WLLL","","dom","P"],
+    ["2024-09-01","LCS 2024 Championship","Round 3","Cloud9","100 Thieves","LWLL","","dom","P"],
+    ["2025-05-25","LTA North 2025 Split 2 Playoffs","Round 1","Cloud9","Team Liquid","WWW","","dom","P"],
+    ["2025-06-07","LTA North 2025 Split 2 Playoffs","Round 2","Cloud9","FlyQuest","LLWWL","","dom","P"],
+    ["2025-06-14","LTA North 2025 Split 2 Playoffs","Round 3","Cloud9","Shopify Rebellion","WWW","","dom","P"],
+    ["2025-06-15","LTA North 2025 Split 2 Playoffs","Final","Cloud9","FlyQuest","LWWLL","","dom","P"],
+    ["2025-08-16","LTA North 2025 Split 3","Round 2","Cloud9","Shopify Rebellion","WLLWL","","dom","P"],
+    ["2025-08-29","LTA North 2025 Split 3","Round 2","Cloud9","Disguised","WWLLW","","dom","P"],
+    ["2025-09-05","LTA North 2025 Split 3","Round 3","Cloud9","100 Thieves","LWLWL","","dom","P"],
+    ["2026-02-15","LCS 2026 Lock-In","Playoffs Round 1","Cloud9","FlyQuest","WWW","","dom","P"],
+    ["2026-02-22","LCS 2026 Lock-In","Playoffs Round 2","Cloud9","Sentinels","WWW","","dom","P"],
+    ["2026-03-01","LCS 2026 Lock-In","Final","Cloud9","LYON (2024 American Team)","WLLL","","dom","P"],
+    ["2026-03-05","Americas Cup 2026","Round 1","Cloud9","RED Canids","WWLLW","","dom","S"],
+    ["2026-03-07","Americas Cup 2026","Round 2","Cloud9","Sentinels","WLWW","","dom","S"],
+    ["2026-03-08","Americas Cup 2026","Final","Cloud9","FURIA","LLL","","dom","S"],
+    ["2026-05-23","LCS 2026 Spring Playoffs","Round 1","Cloud9","FlyQuest","WWLLW","","dom","P"],
+    ["2026-06-07","LCS 2026 Spring Playoffs","Round 2","Cloud9","LYON (2024 American Team)","LLL","","dom","P"],
+    ["2026-06-13","LCS 2026 Spring Playoffs","Round 3","Cloud9","Team Liquid","LLL","","dom","P"],
+    ["2026-09-12","LCS 2026 Summer Playoffs","Round 1","Cloud9","Shopify Rebellion","WWW","","dom","P"],
+    ["2026-09-19","LCS 2026 Summer Playoffs","Round 2","Cloud9","LYON (2024 American Team)","WLWW","","dom","P"],
+    ["2026-09-27","LCS 2026 Summer Playoffs","Round 4","Cloud9","Team Liquid","LLWL","","dom","P"],
+    ["2026-10-03","LCS 2026 Summer Playoffs","Round 4","Cloud9","LYON (2024 American Team)","WLLL","","dom","P"],
+    ["2026-10-15","Worlds 2026","Round 1","Cloud9","Karmine Corp","WLWLL","","worlds","P"],
+    ["2026-10-16","Worlds 2026","Round 1","Cloud9","FURIA","WLLL","","worlds","P"]
+  ],
+  "unknown": []
+}

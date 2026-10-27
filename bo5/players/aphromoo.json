@@ -1,1 +1,46 @@
-{"player":"aphromoo","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2012-12-16","SoloMid Series Finals","Third-Place Match","Team FeaR","TSM","WWW","r","dom",""],["2013-05-12","NA LCS Season 3 Summer Promotion","Promotion","Counter Logic Gaming","Azure Cats","WWW","","dom","P"],["2014-08-24","NA LCS 2014 Summer Playoffs","Quarterfinal","Counter Logic Gaming","Team Curse","LLL","","dom","P"],["2014-08-29","NA LCS 2014 Summer Playoffs","5th Place Match","Counter Logic Gaming","Dignitas","WLLL","","dom","P"],["2014-09-09","NA LCS 2015 Spring Promotion","Promo","Counter Logic Gaming","Curse Academy","LLWWW","","dom","P"],["2014-12-21","IEM Season IX - Cologne","Final","Counter Logic Gaming","Gambit Gaming","LLWL","","intl","P"],["2015-04-04","NA LCS 2015 Spring Playoffs","Quarterfinal","Counter Logic Gaming","Team Liquid","LLL","","dom","P"],["2015-08-15","NA LCS 2015 Summer Playoffs","Semifinal","Counter Logic Gaming","Team Impulse","WWW","","dom","P"],["2015-08-23","NA LCS 2015 Summer Playoffs","Final","Counter Logic Gaming","TSM","WWW","","dom","P"],["2015-11-23","IEM Season X - San Jose","Final","Counter Logic Gaming","Origen","LLL","","intl","P"],["2016-04-09","NA LCS 2016 Spring Playoffs","Semifinal","Counter Logic Gaming","Team Liquid","LWWLW","","dom","P"],["2016-04-17","NA LCS 2016 Spring Playoffs","Final","Counter Logic Gaming","TSM","WLWLW","","dom","P"],["2016-05-14","MSI 2016","Semifinal","Counter Logic Gaming","Flash Wolves","WLWW","","msi","P"],["2016-05-15","MSI 2016","Final","Counter Logic Gaming","SK Telecom T1","LLL","","msi","P"],["2016-08-14","NA LCS 2016 Summer Playoffs","Quarterfinal","Counter Logic Gaming","Team Liquid","WWLW","","dom","P"],["2016-08-21","NA LCS 2016 Summer Playoffs","Semifinal","Counter Logic Gaming","TSM","LLL","","dom","P"],["2016-08-27","NA LCS 2016 Summer Playoffs","Third-Place Match","Counter Logic Gaming","Immortals","WLLWL","","dom","P"],["2017-04-09","NA LCS 2017 Spring Playoffs","Quarterfinal","Counter Logic Gaming","FlyQuest","WWLLL","","dom","P"],["2017-08-20","NA LCS 2017 Summer Playoffs","Quarterfinal","Counter Logic Gaming","Team EnVyUs","WLLWW","","dom","P"],["2017-08-26","NA LCS 2017 Summer Playoffs","Semifinal","Counter Logic Gaming","Immortals","LLL","","dom","P"],["2017-09-02","NA LCS 2017 Summer Playoffs","Third-Place Match","Counter Logic Gaming","Dignitas","WWW","","dom","P"],["2017-09-09","NA LCS 2017 Regional Finals","Round 2","Counter Logic Gaming","FlyQuest","LWWW","","dom","P"],["2017-09-10","NA LCS 2017 Regional Finals","Round 3","Counter Logic Gaming","Cloud9","LLWL","","dom","P"],["2018-04-01","NA LCS 2018 Spring Playoffs","Semifinal","100 Thieves","Clutch Gaming","WLWLW","","dom","P"],["2018-04-08","NA LCS 2018 Spring Playoffs","Final","100 Thieves","Team Liquid","LLL","","dom","P"],["2018-08-26","NA LCS 2018 Summer Playoffs","Quarterfinal","100 Thieves","FlyQuest","WWW","","dom","P"],["2018-09-02","NA LCS 2018 Summer Playoffs","Semifinal","100 Thieves","Team Liquid","WLLL","","dom","P"],["2018-09-08","NA LCS 2018 Summer Playoffs","Third-Place Match","100 Thieves","TSM","WLWLL","","dom","P"],["2020-08-15","LCS 2020 Summer Playoffs","Round 1","Dignitas","TSM","LLL","","dom","P"],["2021-03-28","LCS 2021 Mid-Season Showdown","Round 1","Dignitas","100 Thieves","LLL","","dom","P"],["2021-08-07","LCS 2021 Championship","Round 1","Dignitas","Evil Geniuses.NA","LWLL","","dom","P"],["2021-08-12","LCS 2021 Championship","Round 1","Dignitas","Immortals","LLL","","dom","P"],["2022-04-10","LCS 2022 Spring Playoffs","Round 1","FlyQuest","Evil Geniuses.NA","LWLL","","dom","P"],["2022-08-20","LCS 2022 Championship","Round 1","FlyQuest","Team Liquid","WLLL","","dom","P"],["2022-08-25","LCS 2022 Championship","Round 1","FlyQuest","TSM","LWWLL","","dom","P"]],"unknown":[["2012-12-14","SoloMid Series Finals","","Team FeaR","Team Curse","2-3","","dom",""],["2012-12-14","SoloMid Series Finals","","Team FeaR","Team NomNom","2-3","","dom",""]]}
+{
+  "player": "aphromoo",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2012-12-16","SoloMid Series Finals","Third-Place Match","Team FeaR","TSM","WWW","r","dom",""],
+    ["2013-05-12","NA LCS Season 3 Summer Promotion","Promotion","Counter Logic Gaming","Azure Cats","WWW","","dom","P"],
+    ["2014-08-24","NA LCS 2014 Summer Playoffs","Quarterfinal","Counter Logic Gaming","Team Curse","LLL","","dom","P"],
+    ["2014-08-29","NA LCS 2014 Summer Playoffs","5th Place Match","Counter Logic Gaming","Dignitas","WLLL","","dom","P"],
+    ["2014-09-09","NA LCS 2015 Spring Promotion","Promo","Counter Logic Gaming","Curse Academy","LLWWW","","dom","P"],
+    ["2014-12-21","IEM Season IX - Cologne","Final","Counter Logic Gaming","Gambit Gaming","LLWL","","intl","P"],
+    ["2015-04-04","NA LCS 2015 Spring Playoffs","Quarterfinal","Counter Logic Gaming","Team Liquid","LLL","","dom","P"],
+    ["2015-08-15","NA LCS 2015 Summer Playoffs","Semifinal","Counter Logic Gaming","Team Impulse","WWW","","dom","P"],
+    ["2015-08-23","NA LCS 2015 Summer Playoffs","Final","Counter Logic Gaming","TSM","WWW","","dom","P"],
+    ["2015-11-23","IEM Season X - San Jose","Final","Counter Logic Gaming","Origen","LLL","","intl","P"],
+    ["2016-04-09","NA LCS 2016 Spring Playoffs","Semifinal","Counter Logic Gaming","Team Liquid","LWWLW","","dom","P"],
+    ["2016-04-17","NA LCS 2016 Spring Playoffs","Final","Counter Logic Gaming","TSM","WLWLW","","dom","P"],
+    ["2016-05-14","MSI 2016","Semifinal","Counter Logic Gaming","Flash Wolves","WLWW","","msi","P"],
+    ["2016-05-15","MSI 2016","Final","Counter Logic Gaming","SK Telecom T1","LLL","","msi","P"],
+    ["2016-08-14","NA LCS 2016 Summer Playoffs","Quarterfinal","Counter Logic Gaming","Team Liquid","WWLW","","dom","P"],
+    ["2016-08-21","NA LCS 2016 Summer Playoffs","Semifinal","Counter Logic Gaming","TSM","LLL","","dom","P"],
+    ["2016-08-27","NA LCS 2016 Summer Playoffs","Third-Place Match","Counter Logic Gaming","Immortals","WLLWL","","dom","P"],
+    ["2017-04-09","NA LCS 2017 Spring Playoffs","Quarterfinal","Counter Logic Gaming","FlyQuest","WWLLL","","dom","P"],
+    ["2017-08-20","NA LCS 2017 Summer Playoffs","Quarterfinal","Counter Logic Gaming","Team EnVyUs","WLLWW","","dom","P"],
+    ["2017-08-26","NA LCS 2017 Summer Playoffs","Semifinal","Counter Logic Gaming","Immortals","LLL","","dom","P"],
+    ["2017-09-02","NA LCS 2017 Summer Playoffs","Third-Place Match","Counter Logic Gaming","Dignitas","WWW","","dom","P"],
+    ["2017-09-09","NA LCS 2017 Regional Finals","Round 2","Counter Logic Gaming","FlyQuest","LWWW","","dom","P"],
+    ["2017-09-10","NA LCS 2017 Regional Finals","Round 3","Counter Logic Gaming","Cloud9","LLWL","","dom","P"],
+    ["2018-04-01","NA LCS 2018 Spring Playoffs","Semifinal","100 Thieves","Clutch Gaming","WLWLW","","dom","P"],
+    ["2018-04-08","NA LCS 2018 Spring Playoffs","Final","100 Thieves","Team Liquid","LLL","","dom","P"],
+    ["2018-08-26","NA LCS 2018 Summer Playoffs","Quarterfinal","100 Thieves","FlyQuest","WWW","","dom","P"],
+    ["2018-09-02","NA LCS 2018 Summer Playoffs","Semifinal","100 Thieves","Team Liquid","WLLL","","dom","P"],
+    ["2018-09-08","NA LCS 2018 Summer Playoffs","Third-Place Match","100 Thieves","TSM","WLWLL","","dom","P"],
+    ["2020-08-15","LCS 2020 Summer Playoffs","Round 1","Dignitas","TSM","LLL","","dom","P"],
+    ["2021-03-28","LCS 2021 Mid-Season Showdown","Round 1","Dignitas","100 Thieves","LLL","","dom","P"],
+    ["2021-08-07","LCS 2021 Championship","Round 1","Dignitas","Evil Geniuses.NA","LWLL","","dom","P"],
+    ["2021-08-12","LCS 2021 Championship","Round 1","Dignitas","Immortals","LLL","","dom","P"],
+    ["2022-04-10","LCS 2022 Spring Playoffs","Round 1","FlyQuest","Evil Geniuses.NA","LWLL","","dom","P"],
+    ["2022-08-20","LCS 2022 Championship","Round 1","FlyQuest","Team Liquid","WLLL","","dom","P"],
+    ["2022-08-25","LCS 2022 Championship","Round 1","FlyQuest","TSM","LWWLL","","dom","P"]
+  ],
+  "unknown": [
+    ["2012-12-14","SoloMid Series Finals","","Team FeaR","Team Curse","2-3","","dom",""],
+    ["2012-12-14","SoloMid Series Finals","","Team FeaR","Team NomNom","2-3","","dom",""]
+  ]
+}

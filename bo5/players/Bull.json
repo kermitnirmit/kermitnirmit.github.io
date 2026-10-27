@@ -1,1 +1,29 @@
-{"player":"Bull","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2021-08-24","LCK CL 2021 Summer Playoffs","Semifinal","Afreeca Freecs Challengers","KT Rolster Challengers","WLWW","p","dom","S"],["2021-08-27","LCK CL 2021 Summer Playoffs","Final","Afreeca Freecs Challengers","Gen.G Challengers","LWLL","p","dom","S"],["2022-03-22","LCK CL 2022 Spring Playoffs","Quarterfinal","Kwangdong Freecs Challengers","KT Rolster Challengers","LLWL","","dom","S"],["2024-03-30","LCK 2024 Spring Playoffs","Round 1","Kwangdong Freecs","Hanwha Life Esports","LLL","","dom","P"],["2024-08-20","LCK CL 2024 Summer Playoffs","Round 1","Kwangdong Freecs Challengers","Hanwha Life Esports Challengers","LWLWW","","dom","S"],["2024-08-27","LCK CL 2024 Summer Playoffs","Round 2","Kwangdong Freecs Challengers","Dplus Kia Challengers","LLWWW","","dom","S"],["2024-09-02","LCK CL 2024 Summer Playoffs","Round 3","Kwangdong Freecs Challengers","KT Rolster Challengers","WLLL","","dom","S"],["2024-09-05","LCK CL 2024 Summer Playoffs","Round 3","Kwangdong Freecs Challengers","Dplus Kia Challengers","WLLL","","dom","S"],["2024-09-17","Asia Star Challengers Invitational 2024","Round 1","Kwangdong Freecs Challengers","T1 Esports Academy","LWLWW","r","dom","S"],["2024-09-19","Asia Star Challengers Invitational 2024","Round 2","Kwangdong Freecs Challengers","KT Rolster Challengers","LLL","r","dom","S"],["2024-09-21","Asia Star Challengers Invitational 2024","Round 2","Kwangdong Freecs Challengers","Dplus Kia Challengers","WLWLW","r","dom","S"],["2024-09-22","Asia Star Challengers Invitational 2024","Final","Kwangdong Freecs Challengers","KT Rolster Challengers","LLL","r","dom","S"],["2024-11-03","Esports Championships East Asia 2024","Final","South Korea","China","LLWL","r","intl","S"],["2025-02-17","LCK CL 2025 Kickoff","Playoffs Round 1","OKSavingsBank BRION Challengers","T1 Esports Academy","LLWL","","dom","S"],["2026-02-21","CBLOL 2026 Cup","Round 4","LOUD","RED Canids","LWWW","","dom","P"],["2026-03-01","CBLOL 2026 Cup","Final","LOUD","RED Canids","WWW","","dom","P"],["2026-03-17","First Stand 2026","Groups Day 2","LOUD","LYON (2024 American Team)","LWLWL","","intl","P"],["2026-03-19","First Stand 2026","Groups Day 4","LOUD","JD Gaming","LLL","","intl","P"],["2026-05-09","CBLOL 2026 Split 1 Playoffs","Round 1","LOUD","Vivo Keyd Stars","WWLW","","dom","P"],["2026-05-17","CBLOL 2026 Split 1 Playoffs","Round 2","LOUD","FURIA","LLL","","dom","P"],["2026-05-25","CBLOL 2026 Split 1 Playoffs","Round 2","LOUD","LØS","LLWWL","","dom","P"]],"unknown":[]}
+{
+  "player": "Bull",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2021-08-24","LCK CL 2021 Summer Playoffs","Semifinal","Afreeca Freecs Challengers","KT Rolster Challengers","WLWW","p","dom","S"],
+    ["2021-08-27","LCK CL 2021 Summer Playoffs","Final","Afreeca Freecs Challengers","Gen.G Challengers","LWLL","p","dom","S"],
+    ["2022-03-22","LCK CL 2022 Spring Playoffs","Quarterfinal","Kwangdong Freecs Challengers","KT Rolster Challengers","LLWL","","dom","S"],
+    ["2024-03-30","LCK 2024 Spring Playoffs","Round 1","Kwangdong Freecs","Hanwha Life Esports","LLL","","dom","P"],
+    ["2024-08-20","LCK CL 2024 Summer Playoffs","Round 1","Kwangdong Freecs Challengers","Hanwha Life Esports Challengers","LWLWW","","dom","S"],
+    ["2024-08-27","LCK CL 2024 Summer Playoffs","Round 2","Kwangdong Freecs Challengers","Dplus Kia Challengers","LLWWW","","dom","S"],
+    ["2024-09-02","LCK CL 2024 Summer Playoffs","Round 3","Kwangdong Freecs Challengers","KT Rolster Challengers","WLLL","","dom","S"],
+    ["2024-09-05","LCK CL 2024 Summer Playoffs","Round 3","Kwangdong Freecs Challengers","Dplus Kia Challengers","WLLL","","dom","S"],
+    ["2024-09-17","Asia Star Challengers Invitational 2024","Round 1","Kwangdong Freecs Challengers","T1 Esports Academy","LWLWW","r","dom","S"],
+    ["2024-09-19","Asia Star Challengers Invitational 2024","Round 2","Kwangdong Freecs Challengers","KT Rolster Challengers","LLL","r","dom","S"],
+    ["2024-09-21","Asia Star Challengers Invitational 2024","Round 2","Kwangdong Freecs Challengers","Dplus Kia Challengers","WLWLW","r","dom","S"],
+    ["2024-09-22","Asia Star Challengers Invitational 2024","Final","Kwangdong Freecs Challengers","KT Rolster Challengers","LLL","r","dom","S"],
+    ["2024-11-03","Esports Championships East Asia 2024","Final","South Korea","China","LLWL","r","intl","S"],
+    ["2025-02-17","LCK CL 2025 Kickoff","Playoffs Round 1","OKSavingsBank BRION Challengers","T1 Esports Academy","LLWL","","dom","S"],
+    ["2026-02-21","CBLOL 2026 Cup","Round 4","LOUD","RED Canids","LWWW","","dom","P"],
+    ["2026-03-01","CBLOL 2026 Cup","Final","LOUD","RED Canids","WWW","","dom","P"],
+    ["2026-03-17","First Stand 2026","Groups Day 2","LOUD","LYON (2024 American Team)","LWLWL","","intl","P"],
+    ["2026-03-19","First Stand 2026","Groups Day 4","LOUD","JD Gaming","LLL","","intl","P"],
+    ["2026-05-09","CBLOL 2026 Split 1 Playoffs","Round 1","LOUD","Vivo Keyd Stars","WWLW","","dom","P"],
+    ["2026-05-17","CBLOL 2026 Split 1 Playoffs","Round 2","LOUD","FURIA","LLL","","dom","P"],
+    ["2026-05-25","CBLOL 2026 Split 1 Playoffs","Round 2","LOUD","LØS","LLWWL","","dom","P"]
+  ],
+  "unknown": []
+}

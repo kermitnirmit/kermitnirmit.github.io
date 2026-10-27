@@ -1,1 +1,36 @@
-{"player":"Zoiren","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2018-04-11","LLN 2018 Closing Promotion","Round 1","ZAGA Talent Gaming","Pixel Esports Club","LLL","","dom","P"],["2018-04-13","LLN 2018 Closing Promotion","Elimination Round","ZAGA Talent Gaming","PEX Team","LWLWW","","dom","P"],["2018-04-14","LLN 2018 Closing Promotion","Qualifying Round","ZAGA Talent Gaming","Elite Wolves","WWW","","dom","P"],["2019-03-23","Baltic Esports League Season 2 Playoffs","Final","eNsure","Žalgiris Esports","WLWW","","dom","S"],["2019-08-17","Esports Balkan League Season 5 Playoffs","Semifinal","ASUS ROG ELITE","WiLD MultiGaming","WWLLW","","dom","S"],["2019-08-24","Esports Balkan League Season 5 Playoffs","Final","ASUS ROG ELITE","Crvena zvezda Esports","LLL","","dom","S"],["2020-11-06","Prime League Pro Division 2021 Spring Promotion","Round 1","mYinsanity","Flayn eSports","LLL","","dom","S"],["2020-11-13","Prime League Pro Division 2021 Spring Promotion","Round 1","mYinsanity","PENTA 1860","WLLWL","","dom","S"],["2021-11-04","Prime League Pro Division 2021 Summer Relegations","Round 1","TT willhaben","WAVE Esports","LLL","","dom","S"],["2021-11-08","Prime League Pro Division 2021 Summer Relegations","Round 1","TT willhaben","404 Multigaming e.V.","WLLL","","dom","S"],["2022-10-20","Coupe de France 2022","Round 2","BK ROG Esports","Team BDS Academy","WLLWL","","dom","S"],["2023-03-07","Prime League 2nd Division 2023 Spring Playoffs","Round 1","mYinsanity","KIT SC SmartWe","WLWW","","dom","S"],["2023-03-23","Prime League 2nd Division 2023 Spring Playoffs","Round 2","mYinsanity","ERN ROAR","LWLL","","dom","S"],["2023-08-01","Prime League 2nd Division 2023 Summer Playoffs","Round 1","TeamOrangeGaming","HNVR Esports","LWWLW","","dom","S"],["2023-08-05","Prime League 2nd Division 2023 Summer Playoffs","Round 2","TeamOrangeGaming","RNL ROAR","WLWLW","","dom","S"],["2023-08-07","Prime League 2nd Division 2023 Summer Playoffs","Semifinal","TeamOrangeGaming","DKB Diamonds","WLWW","","dom","S"],["2023-08-09","Prime League 2nd Division 2023 Summer Playoffs","Final","TeamOrangeGaming","Austrian Force willhaben","LLWL","","dom","S"],["2023-12-07","NLC 2nd Division 2024 Spring RPS","Semifinal","KAOS e-sport","Lazy In Life","LLWWW","","dom","S"],["2023-12-10","NLC 2nd Division 2024 Spring RPS","Final","KAOS e-sport","Rich Gang (Norwegian Team)","LWLWL","","dom","S"],["2024-03-26","Prime League 2nd Division 2024 Spring Playoffs","Round 2","TeamOrangeGaming","Spinebusters E-Sport","LWLL","","dom","S"],["2024-04-04","Prime League 2nd Division 2024 Spring Playoffs","Semifinal","TeamOrangeGaming","Kaufland Hangry Knights","WWW","","dom","S"],["2024-04-09","Prime League 2nd Division 2024 Spring Playoffs","Final","TeamOrangeGaming","Spinebusters E-Sport","LLL","","dom","S"],["2024-07-08","Prime League 2nd Division 2024 Summer Playoffs","Round 1","TeamOrangeGaming","ROSSMANN Centaurs","LLWL","","dom","S"],["2025-04-24","NLC 2025 Spring Playoffs","Round 1","KAOS e-sport","Lundqvist Lightside","WLWLW","p","dom","S"]],"unknown":[["2022-12-19","ELEAGUE Winter Cup 2022","Quarterfinal","Habibi come to Dubai","SINNERS Esports","2-3","","dom","S"],["2023-11-05","Good Game-ligaen 2023 Autumn Playoffs","Round 3","KAOS e-sport","Wilderness Gaming","1-3","","dom","S"],["2023-11-18","Good Game-ligaen 2023 Autumn Playoffs","Final","KAOS e-sport","DMG Esports Norway","1-3","","dom","S"]]}
+{
+  "player": "Zoiren",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2018-04-11","LLN 2018 Closing Promotion","Round 1","ZAGA Talent Gaming","Pixel Esports Club","LLL","","dom","P"],
+    ["2018-04-13","LLN 2018 Closing Promotion","Elimination Round","ZAGA Talent Gaming","PEX Team","LWLWW","","dom","P"],
+    ["2018-04-14","LLN 2018 Closing Promotion","Qualifying Round","ZAGA Talent Gaming","Elite Wolves","WWW","","dom","P"],
+    ["2019-03-23","Baltic Esports League Season 2 Playoffs","Final","eNsure","Žalgiris Esports","WLWW","","dom","S"],
+    ["2019-08-17","Esports Balkan League Season 5 Playoffs","Semifinal","ASUS ROG ELITE","WiLD MultiGaming","WWLLW","","dom","S"],
+    ["2019-08-24","Esports Balkan League Season 5 Playoffs","Final","ASUS ROG ELITE","Crvena zvezda Esports","LLL","","dom","S"],
+    ["2020-11-06","Prime League Pro Division 2021 Spring Promotion","Round 1","mYinsanity","Flayn eSports","LLL","","dom","S"],
+    ["2020-11-13","Prime League Pro Division 2021 Spring Promotion","Round 1","mYinsanity","PENTA 1860","WLLWL","","dom","S"],
+    ["2021-11-04","Prime League Pro Division 2021 Summer Relegations","Round 1","TT willhaben","WAVE Esports","LLL","","dom","S"],
+    ["2021-11-08","Prime League Pro Division 2021 Summer Relegations","Round 1","TT willhaben","404 Multigaming e.V.","WLLL","","dom","S"],
+    ["2022-10-20","Coupe de France 2022","Round 2","BK ROG Esports","Team BDS Academy","WLLWL","","dom","S"],
+    ["2023-03-07","Prime League 2nd Division 2023 Spring Playoffs","Round 1","mYinsanity","KIT SC SmartWe","WLWW","","dom","S"],
+    ["2023-03-23","Prime League 2nd Division 2023 Spring Playoffs","Round 2","mYinsanity","ERN ROAR","LWLL","","dom","S"],
+    ["2023-08-01","Prime League 2nd Division 2023 Summer Playoffs","Round 1","TeamOrangeGaming","HNVR Esports","LWWLW","","dom","S"],
+    ["2023-08-05","Prime League 2nd Division 2023 Summer Playoffs","Round 2","TeamOrangeGaming","RNL ROAR","WLWLW","","dom","S"],
+    ["2023-08-07","Prime League 2nd Division 2023 Summer Playoffs","Semifinal","TeamOrangeGaming","DKB Diamonds","WLWW","","dom","S"],
+    ["2023-08-09","Prime League 2nd Division 2023 Summer Playoffs","Final","TeamOrangeGaming","Austrian Force willhaben","LLWL","","dom","S"],
+    ["2023-12-07","NLC 2nd Division 2024 Spring RPS","Semifinal","KAOS e-sport","Lazy In Life","LLWWW","","dom","S"],
+    ["2023-12-10","NLC 2nd Division 2024 Spring RPS","Final","KAOS e-sport","Rich Gang (Norwegian Team)","LWLWL","","dom","S"],
+    ["2024-03-26","Prime League 2nd Division 2024 Spring Playoffs","Round 2","TeamOrangeGaming","Spinebusters E-Sport","LWLL","","dom","S"],
+    ["2024-04-04","Prime League 2nd Division 2024 Spring Playoffs","Semifinal","TeamOrangeGaming","Kaufland Hangry Knights","WWW","","dom","S"],
+    ["2024-04-09","Prime League 2nd Division 2024 Spring Playoffs","Final","TeamOrangeGaming","Spinebusters E-Sport","LLL","","dom","S"],
+    ["2024-07-08","Prime League 2nd Division 2024 Summer Playoffs","Round 1","TeamOrangeGaming","ROSSMANN Centaurs","LLWL","","dom","S"],
+    ["2025-04-24","NLC 2025 Spring Playoffs","Round 1","KAOS e-sport","Lundqvist Lightside","WLWLW","p","dom","S"]
+  ],
+  "unknown": [
+    ["2022-12-19","ELEAGUE Winter Cup 2022","Quarterfinal","Habibi come to Dubai","SINNERS Esports","2-3","","dom","S"],
+    ["2023-11-05","Good Game-ligaen 2023 Autumn Playoffs","Round 3","KAOS e-sport","Wilderness Gaming","1-3","","dom","S"],
+    ["2023-11-18","Good Game-ligaen 2023 Autumn Playoffs","Final","KAOS e-sport","DMG Esports Norway","1-3","","dom","S"]
+  ]
+}

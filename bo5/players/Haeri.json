@@ -1,1 +1,31 @@
-{"player":"Haeri","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2020-04-10","OPL 2020 Split 1 Playoffs","Round 1","ORDER","Avant Gaming","WWLW","","dom","P"],["2020-04-17","OPL 2020 Split 1 Playoffs","Round 2","ORDER","Dire Wolves","WWLLL","","dom","P"],["2020-08-14","OPL 2020 Split 2 Playoffs","Round 1","ORDER","Pentanet.GG","LWWW","","dom","P"],["2020-08-15","OPL 2020 Split 2 Playoffs","Round 2","ORDER","Legacy Esports","LLWL","","dom","P"],["2020-08-22","OPL 2020 Split 2 Playoffs","Round 3","ORDER","Chiefs Esports Club","WWLW","","dom","P"],["2020-08-28","OPL 2020 Split 2 Playoffs","Final","ORDER","Legacy Esports","LWLL","","dom","P"],["2021-03-26","Arena of Legends 2021","Grand Final","Team Liquid Academy","FlyQuest Academy","WWLW","","dom","S"],["2021-08-14","NA Academy League 2021 Summer Playoffs","Semifinal","Team Liquid Academy","100 Thieves Academy","WLWLW","","dom","S"],["2021-08-20","NA Academy League 2021 Summer Playoffs","Final","Team Liquid Academy","Cloud9 Academy","WWLLW","","dom","S"],["2021-09-23","LCS Proving Grounds 2021 Summer","Round 5","Team Liquid Academy","100 Thieves Academy","LLWWL","","dom","S"],["2021-09-25","LCS Proving Grounds 2021 Summer","Round 6","Team Liquid Academy","Golden Guardians Academy","WLWLW","","dom","S"],["2021-09-26","LCS Proving Grounds 2021 Summer","Grand Final","Team Liquid Academy","100 Thieves Academy","WWLLL","","dom","S"],["2022-04-06","LCS Proving Grounds 2022 Spring","Round 5","Team Liquid Academy","Golden Guardians Academy","WLWW","","dom","S"],["2022-04-15","LCS Proving Grounds 2022 Spring","Grand Final","Team Liquid Academy","100 Thieves Academy","WLWLW","","dom","S"],["2022-08-23","LCS Proving Grounds 2022 Summer","Round 4","Team Liquid Academy","Immortals Academy","LLWWW","","dom","S"],["2022-08-29","LCS Proving Grounds 2022 Summer","Round 5","Team Liquid Academy","100 Thieves Academy","WLWW","","dom","S"],["2022-08-30","LCS Proving Grounds 2022 Summer","Round 6","Team Liquid Academy","Cloud9 Academy","WLWW","","dom","S"],["2022-08-31","LCS Proving Grounds 2022 Summer","Grand Final","Team Liquid Academy","Dignitas Academy","WWLW","","dom","S"],["2024-02-29","LCO 2024 Split 1 Playoffs","Round 3","Team Bliss","Ground Zero Gaming","WLLL","","dom","P"],["2024-03-01","LCO 2024 Split 1 Playoffs","Round 3","Team Bliss","Antic Esports","LLWWL","","dom","P"],["2024-07-18","LCO 2024 Split 2 Playoffs","Round 3","Team Bliss","Ground Zero Gaming","LLL","","dom","P"],["2024-07-19","LCO 2024 Split 2 Playoffs","Round 3","Team Bliss","Antic Esports","LWWW","","dom","P"],["2024-07-22","LCO 2024 Split 2 Playoffs","Final","Team Bliss","Ground Zero Gaming","WLLL","","dom","P"]],"unknown":[]}
+{
+  "player": "Haeri",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2020-04-10","OPL 2020 Split 1 Playoffs","Round 1","ORDER","Avant Gaming","WWLW","","dom","P"],
+    ["2020-04-17","OPL 2020 Split 1 Playoffs","Round 2","ORDER","Dire Wolves","WWLLL","","dom","P"],
+    ["2020-08-14","OPL 2020 Split 2 Playoffs","Round 1","ORDER","Pentanet.GG","LWWW","","dom","P"],
+    ["2020-08-15","OPL 2020 Split 2 Playoffs","Round 2","ORDER","Legacy Esports","LLWL","","dom","P"],
+    ["2020-08-22","OPL 2020 Split 2 Playoffs","Round 3","ORDER","Chiefs Esports Club","WWLW","","dom","P"],
+    ["2020-08-28","OPL 2020 Split 2 Playoffs","Final","ORDER","Legacy Esports","LWLL","","dom","P"],
+    ["2021-03-26","Arena of Legends 2021","Grand Final","Team Liquid Academy","FlyQuest Academy","WWLW","","dom","S"],
+    ["2021-08-14","NA Academy League 2021 Summer Playoffs","Semifinal","Team Liquid Academy","100 Thieves Academy","WLWLW","","dom","S"],
+    ["2021-08-20","NA Academy League 2021 Summer Playoffs","Final","Team Liquid Academy","Cloud9 Academy","WWLLW","","dom","S"],
+    ["2021-09-23","LCS Proving Grounds 2021 Summer","Round 5","Team Liquid Academy","100 Thieves Academy","LLWWL","","dom","S"],
+    ["2021-09-25","LCS Proving Grounds 2021 Summer","Round 6","Team Liquid Academy","Golden Guardians Academy","WLWLW","","dom","S"],
+    ["2021-09-26","LCS Proving Grounds 2021 Summer","Grand Final","Team Liquid Academy","100 Thieves Academy","WWLLL","","dom","S"],
+    ["2022-04-06","LCS Proving Grounds 2022 Spring","Round 5","Team Liquid Academy","Golden Guardians Academy","WLWW","","dom","S"],
+    ["2022-04-15","LCS Proving Grounds 2022 Spring","Grand Final","Team Liquid Academy","100 Thieves Academy","WLWLW","","dom","S"],
+    ["2022-08-23","LCS Proving Grounds 2022 Summer","Round 4","Team Liquid Academy","Immortals Academy","LLWWW","","dom","S"],
+    ["2022-08-29","LCS Proving Grounds 2022 Summer","Round 5","Team Liquid Academy","100 Thieves Academy","WLWW","","dom","S"],
+    ["2022-08-30","LCS Proving Grounds 2022 Summer","Round 6","Team Liquid Academy","Cloud9 Academy","WLWW","","dom","S"],
+    ["2022-08-31","LCS Proving Grounds 2022 Summer","Grand Final","Team Liquid Academy","Dignitas Academy","WWLW","","dom","S"],
+    ["2024-02-29","LCO 2024 Split 1 Playoffs","Round 3","Team Bliss","Ground Zero Gaming","WLLL","","dom","P"],
+    ["2024-03-01","LCO 2024 Split 1 Playoffs","Round 3","Team Bliss","Antic Esports","LLWWL","","dom","P"],
+    ["2024-07-18","LCO 2024 Split 2 Playoffs","Round 3","Team Bliss","Ground Zero Gaming","LLL","","dom","P"],
+    ["2024-07-19","LCO 2024 Split 2 Playoffs","Round 3","Team Bliss","Antic Esports","LWWW","","dom","P"],
+    ["2024-07-22","LCO 2024 Split 2 Playoffs","Final","Team Bliss","Ground Zero Gaming","WLLL","","dom","P"]
+  ],
+  "unknown": []
+}

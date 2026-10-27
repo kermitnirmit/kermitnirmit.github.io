@@ -1,1 +1,42 @@
-{"player":"Lothen","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2021-01-09","UGaming League Season 2 Playoffs","Round 1","Shinobi Clan","krESCA MEAVEDRONU","WWW","r","dom","S"],["2021-01-24","UGaming League Season 2 Playoffs","Round 4","Shinobi Clan","Prime4Team","LLL","r","dom","S"],["2021-01-30","UGaming League Season 2 Playoffs","Round 4","Shinobi Clan","Mindset.gg","LLL","r","dom","S"],["2021-12-02","League of Esports Season 2 Playoffs","Round 1","Forsaken (Polish Team)","Elementalist","WWW","r","dom","S"],["2021-12-17","League of Esports Season 2 Playoffs","Semifinal","Forsaken (Polish Team)","PRAWIE ESKA","WWW","r","dom","S"],["2022-03-13","Ultraliga 2nd Division Season 4 Playoffs","Round 1","GR1ND","Internaziomale","WWW","","dom","S"],["2022-03-21","Ultraliga 2nd Division Season 4 Playoffs","Round 2","GR1ND","Method2Madness","LLWWW","","dom","S"],["2022-03-24","Ultraliga 2nd Division Season 4 Playoffs","Semifinal","GR1ND","Maroon Bells","WLWW","","dom","S"],["2022-03-28","Ultraliga 2nd Division Season 4 Playoffs","Final","GR1ND","Grypciocraft Esports","WLLL","","dom","S"],["2022-09-13","Ultraliga Season 9 Promotion","Round 1","devils.one","Grypciocraft Esports","WWW","","dom","S"],["2022-09-20","Ultraliga Season 9 Promotion","Round 2","devils.one","Komil and Friends","LLWWL","","dom","S"],["2022-09-23","Ultraliga Season 9 Promotion","Round 2","devils.one","Grypciocraft Esports","LWLL","","dom","S"],["2023-03-14","Ultraliga Season 9 Playoffs","Round 1","Illuminar Gaming","Orbit Anonymo Esports","LLL","","dom","S"],["2023-07-25","Ultraliga Season 10 Playoffs","Round 1","Illuminar Gaming","Maturalni Forsaken","WLLL","","dom","S"],["2024-05-25","Comic Con Baltics 2024","Final","Back2TheGame","Esport Arena Cukiereczki","WWW","r","dom","S"],["2024-07-13","European Pro League Season 2","Final","Back2TheGame","Zero Tenacity","LLL","","dom","S"],["2024-07-24","Ultraliga 2024 Summer Playoffs","Round 1","Back2TheGame","Zero Tenacity","WLWLW","","dom","S"],["2024-08-03","Ultraliga 2024 Summer Playoffs","Final","Back2TheGame","Zero Tenacity","LLL","","dom","S"],["2024-09-08","Z10 Scouting Grounds 1st Phase","Final","Team Vil","Team StealStrike","WWW","","dom","S"],["2024-09-20","Z10 Scouting Grounds Final Phase","Semifinal","Team Blodgharm","Team Arthres","WWW","","dom","S"],["2024-09-21","Z10 Scouting Grounds Final Phase","Final","Team Blodgharm","Team MaKu","LWWW","","dom","S"],["2024-10-15","Ultraliga Super Puchar 2024","Knockouts Round 1","Back2TheGame","Zero Tenacity","WLLL","","dom","S"],["2024-10-25","Ultraliga Super Puchar 2024","Semifinal","Back2TheGame","Kiedyś Miałem Fun","LWWLL","","dom","S"],["2025-03-02","Rift Legends 2025 Winter Playoffs","Round 1","Back2TheGame","Forsaken (Polish Team)","WLLWW","","dom","S"],["2025-03-04","Rift Legends 2025 Winter Playoffs","Semifinal","Back2TheGame","Kiedyś Miałem Fun","LLWWW","","dom","S"],["2025-03-09","Rift Legends 2025 Winter Playoffs","Final","Back2TheGame","Zero Tenacity","LLWL","","dom","S"],["2025-05-15","Rift Legends 2025 Spring Playoffs","Round 1","Back2TheGame","Forsaken (Polish Team)","WLWLL","","dom","S"]],"unknown":[["2021-01-15","UGaming League Season 2 Playoffs","Round 2","Shinobi Clan","Exiled Bears","3-1","","dom","S"],["2021-03-05","Ultraliga 2nd Division Season 2 Playoffs","Round 1","Nordis Team","Dom Spokojnej Starości","1-3","","dom","S"],["2021-03-08","Ultraliga 2nd Division Season 2 Playoffs","Round 1","Nordis Team","piratesports","2-3","","dom","S"],["2021-12-09","League of Esports Season 2 Playoffs","Round 2","Forsaken (Polish Team)","Red Scar Five","3-1","","dom","S"],["2021-12-10","League of Esports Season 2 Playoffs","Round 3","Forsaken (Polish Team)","Team Effort","3-2","","dom","S"],["2021-12-18","League of Esports Season 2 Playoffs","Final","Forsaken (Polish Team)","Meavedron","2-3","","dom","S"]]}
+{
+  "player": "Lothen",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2021-01-09","UGaming League Season 2 Playoffs","Round 1","Shinobi Clan","krESCA MEAVEDRONU","WWW","r","dom","S"],
+    ["2021-01-24","UGaming League Season 2 Playoffs","Round 4","Shinobi Clan","Prime4Team","LLL","r","dom","S"],
+    ["2021-01-30","UGaming League Season 2 Playoffs","Round 4","Shinobi Clan","Mindset.gg","LLL","r","dom","S"],
+    ["2021-12-02","League of Esports Season 2 Playoffs","Round 1","Forsaken (Polish Team)","Elementalist","WWW","r","dom","S"],
+    ["2021-12-17","League of Esports Season 2 Playoffs","Semifinal","Forsaken (Polish Team)","PRAWIE ESKA","WWW","r","dom","S"],
+    ["2022-03-13","Ultraliga 2nd Division Season 4 Playoffs","Round 1","GR1ND","Internaziomale","WWW","","dom","S"],
+    ["2022-03-21","Ultraliga 2nd Division Season 4 Playoffs","Round 2","GR1ND","Method2Madness","LLWWW","","dom","S"],
+    ["2022-03-24","Ultraliga 2nd Division Season 4 Playoffs","Semifinal","GR1ND","Maroon Bells","WLWW","","dom","S"],
+    ["2022-03-28","Ultraliga 2nd Division Season 4 Playoffs","Final","GR1ND","Grypciocraft Esports","WLLL","","dom","S"],
+    ["2022-09-13","Ultraliga Season 9 Promotion","Round 1","devils.one","Grypciocraft Esports","WWW","","dom","S"],
+    ["2022-09-20","Ultraliga Season 9 Promotion","Round 2","devils.one","Komil and Friends","LLWWL","","dom","S"],
+    ["2022-09-23","Ultraliga Season 9 Promotion","Round 2","devils.one","Grypciocraft Esports","LWLL","","dom","S"],
+    ["2023-03-14","Ultraliga Season 9 Playoffs","Round 1","Illuminar Gaming","Orbit Anonymo Esports","LLL","","dom","S"],
+    ["2023-07-25","Ultraliga Season 10 Playoffs","Round 1","Illuminar Gaming","Maturalni Forsaken","WLLL","","dom","S"],
+    ["2024-05-25","Comic Con Baltics 2024","Final","Back2TheGame","Esport Arena Cukiereczki","WWW","r","dom","S"],
+    ["2024-07-13","European Pro League Season 2","Final","Back2TheGame","Zero Tenacity","LLL","","dom","S"],
+    ["2024-07-24","Ultraliga 2024 Summer Playoffs","Round 1","Back2TheGame","Zero Tenacity","WLWLW","","dom","S"],
+    ["2024-08-03","Ultraliga 2024 Summer Playoffs","Final","Back2TheGame","Zero Tenacity","LLL","","dom","S"],
+    ["2024-09-08","Z10 Scouting Grounds 1st Phase","Final","Team Vil","Team StealStrike","WWW","","dom","S"],
+    ["2024-09-20","Z10 Scouting Grounds Final Phase","Semifinal","Team Blodgharm","Team Arthres","WWW","","dom","S"],
+    ["2024-09-21","Z10 Scouting Grounds Final Phase","Final","Team Blodgharm","Team MaKu","LWWW","","dom","S"],
+    ["2024-10-15","Ultraliga Super Puchar 2024","Knockouts Round 1","Back2TheGame","Zero Tenacity","WLLL","","dom","S"],
+    ["2024-10-25","Ultraliga Super Puchar 2024","Semifinal","Back2TheGame","Kiedyś Miałem Fun","LWWLL","","dom","S"],
+    ["2025-03-02","Rift Legends 2025 Winter Playoffs","Round 1","Back2TheGame","Forsaken (Polish Team)","WLLWW","","dom","S"],
+    ["2025-03-04","Rift Legends 2025 Winter Playoffs","Semifinal","Back2TheGame","Kiedyś Miałem Fun","LLWWW","","dom","S"],
+    ["2025-03-09","Rift Legends 2025 Winter Playoffs","Final","Back2TheGame","Zero Tenacity","LLWL","","dom","S"],
+    ["2025-05-15","Rift Legends 2025 Spring Playoffs","Round 1","Back2TheGame","Forsaken (Polish Team)","WLWLL","","dom","S"]
+  ],
+  "unknown": [
+    ["2021-01-15","UGaming League Season 2 Playoffs","Round 2","Shinobi Clan","Exiled Bears","3-1","","dom","S"],
+    ["2021-03-05","Ultraliga 2nd Division Season 2 Playoffs","Round 1","Nordis Team","Dom Spokojnej Starości","1-3","","dom","S"],
+    ["2021-03-08","Ultraliga 2nd Division Season 2 Playoffs","Round 1","Nordis Team","piratesports","2-3","","dom","S"],
+    ["2021-12-09","League of Esports Season 2 Playoffs","Round 2","Forsaken (Polish Team)","Red Scar Five","3-1","","dom","S"],
+    ["2021-12-10","League of Esports Season 2 Playoffs","Round 3","Forsaken (Polish Team)","Team Effort","3-2","","dom","S"],
+    ["2021-12-18","League of Esports Season 2 Playoffs","Final","Forsaken (Polish Team)","Meavedron","2-3","","dom","S"]
+  ]
+}

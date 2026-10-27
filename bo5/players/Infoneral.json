@@ -1,1 +1,35 @@
-{"player":"Infoneral","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2021-03-27","Open Tour Benelux 2021 Spring Playoffs","Semifinal","Ion Squad Academy","Team THRLL Academy Twente","LWLWW","","dom","S"],["2021-03-28","Open Tour Benelux 2021 Spring Playoffs","Final","Ion Squad Academy","Starlan Gaming Club","WLLWW","","dom","S"],["2021-06-02","A1 Gaming League 2021 Grand Final","Semifinal","6 Coal","Breathe Your Last Breath","WLWW","r","dom",""],["2021-06-06","A1 Gaming League 2021 Grand Final","Final","6 Coal","Random 5","LWLL","r","dom",""],["2021-07-27","Dutch League 2021 Summer Playoffs","Round 1","Team Echo Zulu","PSV Esports","LWLL","","dom","S"],["2021-08-03","Dutch League 2021 Summer Playoffs","Round 2","Team Echo Zulu","mCon LG UltraGear","WLLL","","dom","S"],["2021-10-16","Dutch League 2021 Country Finals","Semifinal","Team Echo Zulu","PSV Esports","WLWLL","","dom","S"],["2021-11-26","Benelux Charity Showdown 2021","Semifinal","Retirement Homies","Padvindersklub","LWWW","r","dom","S"],["2021-11-28","Benelux Charity Showdown 2021","Grand Finals","Retirement Homies","BBQ Enjoyers","LWLL","r","dom","S"],["2022-07-18","Greek Legends League 2022 Summer Playoffs","Round 1","WLGaming Esports","Anorthosis Famagusta Esports","LLWL","","dom","S"],["2022-07-25","Greek Legends League 2022 Summer Playoffs","Semifinal","WLGaming Esports","Team Phantasma","LLL","","dom","S"],["2023-03-17","Esports Balkan League 2023 Spring Playoffs","Round 1","Crvena zvezda Esports","Cyber Wolves","WLLL","","dom","S"],["2023-09-11","LVP SuperLiga 2024 Promotion","Round 1","UCAM Tokiers","Wizards","WWLW","","dom","S"],["2023-09-19","LVP SuperLiga 2024 Promotion","Round 2","UCAM Tokiers","Case Esports","WWLLL","","dom","S"],["2023-09-22","LVP SuperLiga 2024 Promotion","Round 2","UCAM Tokiers","Wizards","WWLLW","","dom","S"],["2024-03-20","Prime League 1st Division 2024 Spring Playoffs","Round 1","Austrian Force willhaben","FC Schalke 04 Esports","LWWW","","dom","S"],["2024-04-03","Prime League 1st Division 2024 Spring Playoffs","Round 2","Austrian Force willhaben","Eintracht Spandau","LLL","","dom","S"],["2024-12-22","A1 Gaming League 2024 December Main Event","Final","TOUGH HOUSE","Definitely not washed up","LWWLW","","dom","S"],["2025-02-25","Prime League 1st Division 2025 Winter Playoffs","Quarterfinal","TeamOrangeGaming","Austrian Force willhaben","LWLL","","dom","S"],["2025-05-21","Prime League 1st Division 2025 Spring Playoffs","Quarterfinal","TeamOrangeGaming","ROSSMANN Centaurs","LLL","","dom","S"],["2025-08-14","Prime League 1st Division 2025 Season Finals","Round 2","TeamOrangeGaming","Berlin International Gaming","WLLL","","dom","S"],["2025-08-19","Prime League 1st Division 2025 Season Finals","Semifinal","TeamOrangeGaming","ROSSMANN Centaurs","WWLLW","","dom","S"],["2025-08-24","Prime League 1st Division 2025 Season Finals","Final","TeamOrangeGaming","Berlin International Gaming","LWWLL","","dom","S"],["2025-12-07","A1 Gaming League 2025 Season","Final","Magaza Esports","win all","WWW","r","dom","S"],["2026-02-17","Prime League 2nd Division 2026 Winter Relegation","Decider","Hannover Esports e.V.","All for One Gaming","LLL","r","dom","S"],["2026-04-11","Prime League 2nd Division 2026 Winter Relegation","Round 5","Hannover Esports e.V.","PvB (Swiss Team)","WWW","r","dom","S"],["2026-08-25","Prime League 1st Division 2026 Summer Playoffs","Round 1","ROSSMANN Centaurs","Unicorns of Love Sexy Edition","WLLL","","dom","S"]],"unknown":[]}
+{
+  "player": "Infoneral",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2021-03-27","Open Tour Benelux 2021 Spring Playoffs","Semifinal","Ion Squad Academy","Team THRLL Academy Twente","LWLWW","","dom","S"],
+    ["2021-03-28","Open Tour Benelux 2021 Spring Playoffs","Final","Ion Squad Academy","Starlan Gaming Club","WLLWW","","dom","S"],
+    ["2021-06-02","A1 Gaming League 2021 Grand Final","Semifinal","6 Coal","Breathe Your Last Breath","WLWW","r","dom",""],
+    ["2021-06-06","A1 Gaming League 2021 Grand Final","Final","6 Coal","Random 5","LWLL","r","dom",""],
+    ["2021-07-27","Dutch League 2021 Summer Playoffs","Round 1","Team Echo Zulu","PSV Esports","LWLL","","dom","S"],
+    ["2021-08-03","Dutch League 2021 Summer Playoffs","Round 2","Team Echo Zulu","mCon LG UltraGear","WLLL","","dom","S"],
+    ["2021-10-16","Dutch League 2021 Country Finals","Semifinal","Team Echo Zulu","PSV Esports","WLWLL","","dom","S"],
+    ["2021-11-26","Benelux Charity Showdown 2021","Semifinal","Retirement Homies","Padvindersklub","LWWW","r","dom","S"],
+    ["2021-11-28","Benelux Charity Showdown 2021","Grand Finals","Retirement Homies","BBQ Enjoyers","LWLL","r","dom","S"],
+    ["2022-07-18","Greek Legends League 2022 Summer Playoffs","Round 1","WLGaming Esports","Anorthosis Famagusta Esports","LLWL","","dom","S"],
+    ["2022-07-25","Greek Legends League 2022 Summer Playoffs","Semifinal","WLGaming Esports","Team Phantasma","LLL","","dom","S"],
+    ["2023-03-17","Esports Balkan League 2023 Spring Playoffs","Round 1","Crvena zvezda Esports","Cyber Wolves","WLLL","","dom","S"],
+    ["2023-09-11","LVP SuperLiga 2024 Promotion","Round 1","UCAM Tokiers","Wizards","WWLW","","dom","S"],
+    ["2023-09-19","LVP SuperLiga 2024 Promotion","Round 2","UCAM Tokiers","Case Esports","WWLLL","","dom","S"],
+    ["2023-09-22","LVP SuperLiga 2024 Promotion","Round 2","UCAM Tokiers","Wizards","WWLLW","","dom","S"],
+    ["2024-03-20","Prime League 1st Division 2024 Spring Playoffs","Round 1","Austrian Force willhaben","FC Schalke 04 Esports","LWWW","","dom","S"],
+    ["2024-04-03","Prime League 1st Division 2024 Spring Playoffs","Round 2","Austrian Force willhaben","Eintracht Spandau","LLL","","dom","S"],
+    ["2024-12-22","A1 Gaming League 2024 December Main Event","Final","TOUGH HOUSE","Definitely not washed up","LWWLW","","dom","S"],
+    ["2025-02-25","Prime League 1st Division 2025 Winter Playoffs","Quarterfinal","TeamOrangeGaming","Austrian Force willhaben","LWLL","","dom","S"],
+    ["2025-05-21","Prime League 1st Division 2025 Spring Playoffs","Quarterfinal","TeamOrangeGaming","ROSSMANN Centaurs","LLL","","dom","S"],
+    ["2025-08-14","Prime League 1st Division 2025 Season Finals","Round 2","TeamOrangeGaming","Berlin International Gaming","WLLL","","dom","S"],
+    ["2025-08-19","Prime League 1st Division 2025 Season Finals","Semifinal","TeamOrangeGaming","ROSSMANN Centaurs","WWLLW","","dom","S"],
+    ["2025-08-24","Prime League 1st Division 2025 Season Finals","Final","TeamOrangeGaming","Berlin International Gaming","LWWLL","","dom","S"],
+    ["2025-12-07","A1 Gaming League 2025 Season","Final","Magaza Esports","win all","WWW","r","dom","S"],
+    ["2026-02-17","Prime League 2nd Division 2026 Winter Relegation","Decider","Hannover Esports e.V.","All for One Gaming","LLL","r","dom","S"],
+    ["2026-04-11","Prime League 2nd Division 2026 Winter Relegation","Round 5","Hannover Esports e.V.","PvB (Swiss Team)","WWW","r","dom","S"],
+    ["2026-08-25","Prime League 1st Division 2026 Summer Playoffs","Round 1","ROSSMANN Centaurs","Unicorns of Love Sexy Edition","WLLL","","dom","S"]
+  ],
+  "unknown": []
+}

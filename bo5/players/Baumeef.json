@@ -1,1 +1,28 @@
-{"player":"Baumeef","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2022-08-11","Hitpoint 2nd Division Challengers 2022 Summer Playoffs","Round 1","Team Sampi","eSuba Academy","WLWW","","dom","S"],["2022-08-13","Hitpoint 2nd Division Challengers 2022 Summer Playoffs","Semifinal","Team Sampi","IKISEQ Gaming","WWW","","dom","S"],["2022-08-14","Hitpoint 2nd Division Challengers 2022 Summer Playoffs","Final","Team Sampi","ERKO Esports","LLL","","dom","S"],["2022-09-14","Hitpoint Masters 2023 Promotion","Round 1","Team Sampi","Inside Games","LLL","","dom","S"],["2024-08-07","NLC 2nd Division 2024 Summer Playoffs","Round 1","42 Gaming","UniQ Esports Club","WWW","","dom","S"],["2024-08-14","NLC 2nd Division 2024 Summer Playoffs","Round 3","42 Gaming","Rich Gang (Norwegian Team)","WLWW","","dom","S"],["2024-08-23","NLC 2nd Division 2024 Summer Playoffs","Final","42 Gaming","Rich Gang (Norwegian Team)","LLL","","dom","S"],["2024-09-11","NLC 2025 Promotion","Round 1","42 Gaming","Fourth Wall","WWLW","","dom","S"],["2024-09-13","NLC 2025 Promotion","Round 2","42 Gaming","BlueWhites","WLLL","","dom","S"],["2024-11-01","Elite Series 2024 Benelux Masters","Preliminary Round","Dynasty","Top 1 Benelux","LWLL","","dom","S"],["2025-05-25","Hitpoint 2nd Division Challengers 2025 Spring Playoffs","Round 1","Diversion Gaming","Ethereal Enigmas","WWW","","dom","S"],["2025-06-07","Hitpoint 2nd Division Challengers 2025 Spring Playoffs","Round 3","Diversion Gaming","KIA.eSuba Academy","WLLWW","","dom","S"],["2025-06-15","Hitpoint 2nd Division Challengers 2025 Spring Playoffs","Final","Diversion Gaming","Meavedron","LWWLL","","dom","S"],["2025-09-13","Hitpoint 2nd Division Challengers 2025 Summer Playoffs","Round 1","Diversion Gaming","Andromeda Gaming","WWLW","","dom","S"],["2025-09-18","Hitpoint 2nd Division Challengers 2025 Summer Playoffs","Round 2","Diversion Gaming","Ethereal Enigmas","LWWW","","dom","S"],["2025-09-20","Hitpoint 2nd Division Challengers 2025 Summer Playoffs","Round 3","Diversion Gaming","CITA Kaizen","LLWWW","","dom","S"],["2025-09-21","Hitpoint 2nd Division Challengers 2025 Summer Playoffs","Final","Diversion Gaming","KIA.eSuba Academy","LLL","","dom","S"],["2025-12-12","Infinity Winter","Semifinal","KIA.eSuba Academy","EXILE esports","WLWLW","","dom","S"],["2025-12-20","Infinity Winter","Final","KIA.eSuba Academy","Meavedron","LWLL","","dom","S"],["2026-05-28","Road Of Legends 2026 Spring Playoffs","Round 2","Once Upon A Team","mCon esports","LWWLL","","dom","S"]],"unknown":[]}
+{
+  "player": "Baumeef",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2022-08-11","Hitpoint 2nd Division Challengers 2022 Summer Playoffs","Round 1","Team Sampi","eSuba Academy","WLWW","","dom","S"],
+    ["2022-08-13","Hitpoint 2nd Division Challengers 2022 Summer Playoffs","Semifinal","Team Sampi","IKISEQ Gaming","WWW","","dom","S"],
+    ["2022-08-14","Hitpoint 2nd Division Challengers 2022 Summer Playoffs","Final","Team Sampi","ERKO Esports","LLL","","dom","S"],
+    ["2022-09-14","Hitpoint Masters 2023 Promotion","Round 1","Team Sampi","Inside Games","LLL","","dom","S"],
+    ["2024-08-07","NLC 2nd Division 2024 Summer Playoffs","Round 1","42 Gaming","UniQ Esports Club","WWW","","dom","S"],
+    ["2024-08-14","NLC 2nd Division 2024 Summer Playoffs","Round 3","42 Gaming","Rich Gang (Norwegian Team)","WLWW","","dom","S"],
+    ["2024-08-23","NLC 2nd Division 2024 Summer Playoffs","Final","42 Gaming","Rich Gang (Norwegian Team)","LLL","","dom","S"],
+    ["2024-09-11","NLC 2025 Promotion","Round 1","42 Gaming","Fourth Wall","WWLW","","dom","S"],
+    ["2024-09-13","NLC 2025 Promotion","Round 2","42 Gaming","BlueWhites","WLLL","","dom","S"],
+    ["2024-11-01","Elite Series 2024 Benelux Masters","Preliminary Round","Dynasty","Top 1 Benelux","LWLL","","dom","S"],
+    ["2025-05-25","Hitpoint 2nd Division Challengers 2025 Spring Playoffs","Round 1","Diversion Gaming","Ethereal Enigmas","WWW","","dom","S"],
+    ["2025-06-07","Hitpoint 2nd Division Challengers 2025 Spring Playoffs","Round 3","Diversion Gaming","KIA.eSuba Academy","WLLWW","","dom","S"],
+    ["2025-06-15","Hitpoint 2nd Division Challengers 2025 Spring Playoffs","Final","Diversion Gaming","Meavedron","LWWLL","","dom","S"],
+    ["2025-09-13","Hitpoint 2nd Division Challengers 2025 Summer Playoffs","Round 1","Diversion Gaming","Andromeda Gaming","WWLW","","dom","S"],
+    ["2025-09-18","Hitpoint 2nd Division Challengers 2025 Summer Playoffs","Round 2","Diversion Gaming","Ethereal Enigmas","LWWW","","dom","S"],
+    ["2025-09-20","Hitpoint 2nd Division Challengers 2025 Summer Playoffs","Round 3","Diversion Gaming","CITA Kaizen","LLWWW","","dom","S"],
+    ["2025-09-21","Hitpoint 2nd Division Challengers 2025 Summer Playoffs","Final","Diversion Gaming","KIA.eSuba Academy","LLL","","dom","S"],
+    ["2025-12-12","Infinity Winter","Semifinal","KIA.eSuba Academy","EXILE esports","WLWLW","","dom","S"],
+    ["2025-12-20","Infinity Winter","Final","KIA.eSuba Academy","Meavedron","LWLL","","dom","S"],
+    ["2026-05-28","Road Of Legends 2026 Spring Playoffs","Round 2","Once Upon A Team","mCon esports","LWWLL","","dom","S"]
+  ],
+  "unknown": []
+}

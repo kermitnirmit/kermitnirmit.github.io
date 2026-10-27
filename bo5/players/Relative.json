@@ -1,1 +1,29 @@
-{"player":"Relative","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2022-04-20","Prime League 2nd Division 2022 Summer Promotion","Round 1","All for One Gaming","cowana Gaming","LLWWW","","dom","S"],["2022-04-25","Prime League 2nd Division 2022 Summer Promotion","Round 2","All for One Gaming","KIT SC","LLL","","dom","S"],["2022-04-29","Prime League 2nd Division 2022 Summer Promotion","Round 2","All for One Gaming","cowana Gaming","LWWW","","dom","S"],["2022-08-10","Prime League 2nd Division 2022 Summer Playoffs","Round 2","Eintracht Frankfurt","Hertha BSC eSport","LWLL","","dom","S"],["2022-08-18","Prime League 2nd Division 2022 Summer Playoffs","Semifinal","Eintracht Frankfurt","No Need Orga","WLWLL","","dom","S"],["2023-03-08","Prime League 2nd Division 2023 Spring Playoffs","Round 2","DKB Diamonds","Austrian Force willhaben","WWW","","dom","S"],["2023-03-30","Prime League 2nd Division 2023 Spring Playoffs","Final","DKB Diamonds","Austrian Force willhaben","WLWLL","","dom","S"],["2023-08-02","Prime League 2nd Division 2023 Summer Playoffs","Round 2","DKB Diamonds","Austrian Force willhaben","WLWLL","","dom","S"],["2023-08-07","Prime League 2nd Division 2023 Summer Playoffs","Semifinal","DKB Diamonds","TeamOrangeGaming","LWLL","","dom","S"],["2023-09-12","Prime League 1st Division 2024 Promotion","Round 1","DKB Diamonds","GamerLegion","WLLWL","","dom","S"],["2023-09-19","Prime League 1st Division 2024 Promotion","Round 1","DKB Diamonds","Austrian Force willhaben","LLL","","dom","S"],["2024-10-21","Prime Pokal 2024 Main Event","Semifinal","E WIE EINFACH E-SPORTS","NNO Prime","LLL","","dom","S"],["2025-02-26","Prime League 1st Division 2025 Winter Playoffs","Quarterfinal","E WIE EINFACH E-SPORTS","Eintracht Frankfurt","LWWLW","","dom","S"],["2025-03-04","Prime League 1st Division 2025 Winter Playoffs","Semifinal","E WIE EINFACH E-SPORTS","Dung Dynasty","WWW","","dom","S"],["2025-03-08","Prime League 1st Division 2025 Winter Playoffs","Final","E WIE EINFACH E-SPORTS","Berlin International Gaming","LLL","","dom","S"],["2025-05-20","Prime League 1st Division 2025 Spring Playoffs","Quarterfinal","E WIE EINFACH E-SPORTS","Kaufland Hangry Knights","WLLL","","dom","S"],["2025-08-13","Prime League 1st Division 2025 Season Finals","Round 1","E WIE EINFACH E-SPORTS","Unicorns of Love Sexy Edition","WWLLL","","dom","S"],["2026-02-03","Comedy Central Winter Snowdown","Semifinal","E WIE EINFACH E-SPORTS","G2 NORD","LLL","","dom","S"],["2026-05-20","Prime League 1st Division 2026 Spring Playoffs","Quarterfinal","E WIE EINFACH E-SPORTS","TeamOrangeGaming","WLWW","","dom","S"],["2026-05-26","Prime League 1st Division 2026 Spring Playoffs","Semifinal","E WIE EINFACH E-SPORTS","Eintracht Spandau","LLL","","dom","S"],["2026-05-28","Prime League 1st Division 2026 Spring Playoffs","Third-Place Match","E WIE EINFACH E-SPORTS","Berlin International Gaming","WLWW","","dom","S"]],"unknown":[]}
+{
+  "player": "Relative",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2022-04-20","Prime League 2nd Division 2022 Summer Promotion","Round 1","All for One Gaming","cowana Gaming","LLWWW","","dom","S"],
+    ["2022-04-25","Prime League 2nd Division 2022 Summer Promotion","Round 2","All for One Gaming","KIT SC","LLL","","dom","S"],
+    ["2022-04-29","Prime League 2nd Division 2022 Summer Promotion","Round 2","All for One Gaming","cowana Gaming","LWWW","","dom","S"],
+    ["2022-08-10","Prime League 2nd Division 2022 Summer Playoffs","Round 2","Eintracht Frankfurt","Hertha BSC eSport","LWLL","","dom","S"],
+    ["2022-08-18","Prime League 2nd Division 2022 Summer Playoffs","Semifinal","Eintracht Frankfurt","No Need Orga","WLWLL","","dom","S"],
+    ["2023-03-08","Prime League 2nd Division 2023 Spring Playoffs","Round 2","DKB Diamonds","Austrian Force willhaben","WWW","","dom","S"],
+    ["2023-03-30","Prime League 2nd Division 2023 Spring Playoffs","Final","DKB Diamonds","Austrian Force willhaben","WLWLL","","dom","S"],
+    ["2023-08-02","Prime League 2nd Division 2023 Summer Playoffs","Round 2","DKB Diamonds","Austrian Force willhaben","WLWLL","","dom","S"],
+    ["2023-08-07","Prime League 2nd Division 2023 Summer Playoffs","Semifinal","DKB Diamonds","TeamOrangeGaming","LWLL","","dom","S"],
+    ["2023-09-12","Prime League 1st Division 2024 Promotion","Round 1","DKB Diamonds","GamerLegion","WLLWL","","dom","S"],
+    ["2023-09-19","Prime League 1st Division 2024 Promotion","Round 1","DKB Diamonds","Austrian Force willhaben","LLL","","dom","S"],
+    ["2024-10-21","Prime Pokal 2024 Main Event","Semifinal","E WIE EINFACH E-SPORTS","NNO Prime","LLL","","dom","S"],
+    ["2025-02-26","Prime League 1st Division 2025 Winter Playoffs","Quarterfinal","E WIE EINFACH E-SPORTS","Eintracht Frankfurt","LWWLW","","dom","S"],
+    ["2025-03-04","Prime League 1st Division 2025 Winter Playoffs","Semifinal","E WIE EINFACH E-SPORTS","Dung Dynasty","WWW","","dom","S"],
+    ["2025-03-08","Prime League 1st Division 2025 Winter Playoffs","Final","E WIE EINFACH E-SPORTS","Berlin International Gaming","LLL","","dom","S"],
+    ["2025-05-20","Prime League 1st Division 2025 Spring Playoffs","Quarterfinal","E WIE EINFACH E-SPORTS","Kaufland Hangry Knights","WLLL","","dom","S"],
+    ["2025-08-13","Prime League 1st Division 2025 Season Finals","Round 1","E WIE EINFACH E-SPORTS","Unicorns of Love Sexy Edition","WWLLL","","dom","S"],
+    ["2026-02-03","Comedy Central Winter Snowdown","Semifinal","E WIE EINFACH E-SPORTS","G2 NORD","LLL","","dom","S"],
+    ["2026-05-20","Prime League 1st Division 2026 Spring Playoffs","Quarterfinal","E WIE EINFACH E-SPORTS","TeamOrangeGaming","WLWW","","dom","S"],
+    ["2026-05-26","Prime League 1st Division 2026 Spring Playoffs","Semifinal","E WIE EINFACH E-SPORTS","Eintracht Spandau","LLL","","dom","S"],
+    ["2026-05-28","Prime League 1st Division 2026 Spring Playoffs","Third-Place Match","E WIE EINFACH E-SPORTS","Berlin International Gaming","WLWW","","dom","S"]
+  ],
+  "unknown": []
+}

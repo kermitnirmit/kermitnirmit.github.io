@@ -1,1 +1,30 @@
-{"player":"Nobody (Nicolás Ale)","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2017-04-11","LLN 2017 Closing Promotion","Qualifying Round","Dash9 Gaming","Authority E-sports","WWW","","dom","P"],["2018-03-30","CLS 2018 Opening Playoffs","Quarterfinal","Furious Gaming","Hafnet eSports","WLWLW","","dom","P"],["2018-04-01","CLS 2018 Opening Playoffs","Semifinal","Furious Gaming","Rebirth eSports","LWLL","","dom","P"],["2018-08-30","LLN 2018 Closing Playoffs","Quarterfinal","Gaming Gaming","Dash9 Gaming","LLL","","dom","P"],["2019-03-30","LLA 2019 Opening Playoffs","Quarterfinal","Rainbow7","XTEN Esports","WLWW","","dom","P"],["2019-04-06","LLA 2019 Opening Playoffs","Semifinal","Rainbow7","INFINITY","LWWW","","dom","P"],["2019-04-20","LLA 2019 Opening Playoffs","Final","Rainbow7","Isurus","LWLL","","dom","P"],["2019-08-11","LLA 2019 Closing Playoffs","Quarterfinal","Rainbow7","INFINITY","LLL","","dom","P"],["2021-03-26","Liga Master Flow 2021 Opening Playoffs","Quarterfinal","Pampas","River Plate Gaming","LLL","","dom","S"],["2022-03-31","Liga Master Flow 2022 Opening Playoffs","Quarterfinal","EBRO","River Plate Gaming","LWWW","","dom","S"],["2022-04-08","Liga Master Flow 2022 Opening Playoffs","Semifinal","EBRO","Pampas","WLWLW","","dom","S"],["2022-04-22","Liga Master Flow 2022 Opening Playoffs","Final","EBRO","Leviatan","LWWLW","","dom","S"],["2023-03-03","División de Honor 2023 Opening Playoffs","Round 1","Zylant Esports","Leviatan","WWW","","dom","S"],["2023-03-17","División de Honor 2023 Opening Playoffs","Round 3","Zylant Esports","19esports","WWLW","","dom","S"],["2023-03-31","División de Honor 2023 Opening Playoffs","Grand Final","Zylant Esports","PÊEK Gaming","WLLWL","","dom","S"],["2024-03-12","LLA 2024 Opening Playoffs","Round 1","All Knights","Six Karma","WWW","","dom","P"],["2024-03-13","LLA 2024 Opening Playoffs","Round 2","All Knights","Leviatan","WLWW","","dom","P"],["2024-03-20","LLA 2024 Opening Playoffs","Round 3","All Knights","Isurus","WWLLL","","dom","P"],["2026-04-28","Liga Regional Sur 2026 Split 1 Playoffs","Round 1","Malvinas Gaming","Volticons","LWLWL","","dom","S"],["2026-05-12","Liga Regional Sur 2026 Split 1 Playoffs","Round 1","Malvinas Gaming","The New Kings","WWW","","dom","S"],["2026-05-19","Liga Regional Sur 2026 Split 1 Playoffs","Round 2","Malvinas Gaming","9z Globant","LLL","","dom","S"],["2026-08-04","Liga Regional Sur 2026 Split 2 Playoffs","Round 1","Malvinas Gaming","Maze Gaming","WLLWL","","dom","S"]],"unknown":[]}
+{
+  "player": "Nobody (Nicolás Ale)",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2017-04-11","LLN 2017 Closing Promotion","Qualifying Round","Dash9 Gaming","Authority E-sports","WWW","","dom","P"],
+    ["2018-03-30","CLS 2018 Opening Playoffs","Quarterfinal","Furious Gaming","Hafnet eSports","WLWLW","","dom","P"],
+    ["2018-04-01","CLS 2018 Opening Playoffs","Semifinal","Furious Gaming","Rebirth eSports","LWLL","","dom","P"],
+    ["2018-08-30","LLN 2018 Closing Playoffs","Quarterfinal","Gaming Gaming","Dash9 Gaming","LLL","","dom","P"],
+    ["2019-03-30","LLA 2019 Opening Playoffs","Quarterfinal","Rainbow7","XTEN Esports","WLWW","","dom","P"],
+    ["2019-04-06","LLA 2019 Opening Playoffs","Semifinal","Rainbow7","INFINITY","LWWW","","dom","P"],
+    ["2019-04-20","LLA 2019 Opening Playoffs","Final","Rainbow7","Isurus","LWLL","","dom","P"],
+    ["2019-08-11","LLA 2019 Closing Playoffs","Quarterfinal","Rainbow7","INFINITY","LLL","","dom","P"],
+    ["2021-03-26","Liga Master Flow 2021 Opening Playoffs","Quarterfinal","Pampas","River Plate Gaming","LLL","","dom","S"],
+    ["2022-03-31","Liga Master Flow 2022 Opening Playoffs","Quarterfinal","EBRO","River Plate Gaming","LWWW","","dom","S"],
+    ["2022-04-08","Liga Master Flow 2022 Opening Playoffs","Semifinal","EBRO","Pampas","WLWLW","","dom","S"],
+    ["2022-04-22","Liga Master Flow 2022 Opening Playoffs","Final","EBRO","Leviatan","LWWLW","","dom","S"],
+    ["2023-03-03","División de Honor 2023 Opening Playoffs","Round 1","Zylant Esports","Leviatan","WWW","","dom","S"],
+    ["2023-03-17","División de Honor 2023 Opening Playoffs","Round 3","Zylant Esports","19esports","WWLW","","dom","S"],
+    ["2023-03-31","División de Honor 2023 Opening Playoffs","Grand Final","Zylant Esports","PÊEK Gaming","WLLWL","","dom","S"],
+    ["2024-03-12","LLA 2024 Opening Playoffs","Round 1","All Knights","Six Karma","WWW","","dom","P"],
+    ["2024-03-13","LLA 2024 Opening Playoffs","Round 2","All Knights","Leviatan","WLWW","","dom","P"],
+    ["2024-03-20","LLA 2024 Opening Playoffs","Round 3","All Knights","Isurus","WWLLL","","dom","P"],
+    ["2026-04-28","Liga Regional Sur 2026 Split 1 Playoffs","Round 1","Malvinas Gaming","Volticons","LWLWL","","dom","S"],
+    ["2026-05-12","Liga Regional Sur 2026 Split 1 Playoffs","Round 1","Malvinas Gaming","The New Kings","WWW","","dom","S"],
+    ["2026-05-19","Liga Regional Sur 2026 Split 1 Playoffs","Round 2","Malvinas Gaming","9z Globant","LLL","","dom","S"],
+    ["2026-08-04","Liga Regional Sur 2026 Split 2 Playoffs","Round 1","Malvinas Gaming","Maze Gaming","WLLWL","","dom","S"]
+  ],
+  "unknown": []
+}

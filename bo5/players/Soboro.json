@@ -1,1 +1,33 @@
-{"player":"Soboro","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2021-12-12","LoL KeSPA Cup 2021","Final","Fredit BRION Challengers","DWG KIA Challengers","WLLL","","dom","P"],["2023-09-11","TCL 2024 Promotion","Round 1","Galakticos","Beetle Juice","WLWW","","dom","S"],["2023-09-18","TCL 2024 Promotion","Round 2","Galakticos","Chasing Haze 07","WWW","","dom","S"],["2024-08-19","LCK CL 2024 Summer Playoffs","Round 1","BNK FEARX Youth","T1 Esports Academy","WWLLL","","dom","S"],["2025-02-14","LCK CL 2025 Kickoff","Play-In Round 3","BNK FEARX Youth","Gen.G Global Academy","LWWW","","dom","S"],["2025-02-17","LCK CL 2025 Kickoff","Playoffs Round 1","BNK FEARX Youth","DN Freecs Challengers","WLWLW","","dom","S"],["2025-02-18","LCK CL 2025 Kickoff","Playoffs Round 2","BNK FEARX Youth","KT Rolster Challengers","LLWL","","dom","S"],["2025-02-24","LCK CL 2025 Kickoff","Playoffs Round 2","BNK FEARX Youth","DRX Challengers","WWLLL","","dom","S"],["2025-09-15","LCK CL 2025 Playoffs","Round 1","BNK FEARX Youth","DN Freecs Challengers","LLL","","dom","S"],["2025-09-16","LCK CL 2025 Playoffs","Round 1","BNK FEARX Youth","Gen.G Global Academy","LWWW","","dom","S"],["2025-09-23","LCK CL 2025 Playoffs","Round 2","BNK FEARX Youth","DN Freecs Challengers","LLWWW","","dom","S"],["2025-09-26","LCK CL 2025 Playoffs","Round 3","BNK FEARX Youth","DRX Challengers","WWLLW","","dom","S"],["2025-09-29","LCK CL 2025 Playoffs","Round 4","BNK FEARX Youth","T1 Esports Academy","LWWLW","","dom","S"],["2025-09-30","LCK CL 2025 Playoffs","Final","BNK FEARX Youth","KT Rolster Challengers","WLWW","","dom","S"],["2025-10-10","2025 Asia Masters Finals","Round 1","BNK FEARX Youth","T1 Esports Academy","LWLL","","dom","S"],["2025-10-11","2025 Asia Masters Finals","Round 1","BNK FEARX Youth","DN Freecs Challengers","LLL","","dom","S"],["2025-11-22","Esports Championships Asia 2025","Final","South Korea","China","WWW","","intl","S"],["2025-12-26","Demacia Cup 2025","Quarterfinal","Invictus Gaming","Top Esports","LWWW","","dom","P"],["2026-01-01","Demacia Cup 2025","Semifinal","Invictus Gaming","LNG Esports","WWW","","dom","P"],["2026-01-03","Demacia Cup 2025","Final","Invictus Gaming","JD Gaming","WWW","","dom","P"],["2026-02-09","LPL 2026 Split 1 Playoffs","Play-In Round 1","Invictus Gaming","Ninjas in Pyjamas.CN","WLLL","","dom","P"],["2026-02-11","LPL 2026 Split 1 Playoffs","Play-In Round 3","Invictus Gaming","Oh My God","WWW","","dom","P"],["2026-02-25","LPL 2026 Split 1 Playoffs","Round 1","Invictus Gaming","Weibo Gaming","LLL","","dom","P"],["2026-03-01","LPL 2026 Split 1 Playoffs","Round 1","Invictus Gaming","Ninjas in Pyjamas.CN","WLWW","","dom","P"],["2026-03-03","LPL 2026 Split 1 Playoffs","Round 2","Invictus Gaming","Anyone's Legend","LWLL","","dom","P"]],"unknown":[]}
+{
+  "player": "Soboro",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2021-12-12","LoL KeSPA Cup 2021","Final","Fredit BRION Challengers","DWG KIA Challengers","WLLL","","dom","P"],
+    ["2023-09-11","TCL 2024 Promotion","Round 1","Galakticos","Beetle Juice","WLWW","","dom","S"],
+    ["2023-09-18","TCL 2024 Promotion","Round 2","Galakticos","Chasing Haze 07","WWW","","dom","S"],
+    ["2024-08-19","LCK CL 2024 Summer Playoffs","Round 1","BNK FEARX Youth","T1 Esports Academy","WWLLL","","dom","S"],
+    ["2025-02-14","LCK CL 2025 Kickoff","Play-In Round 3","BNK FEARX Youth","Gen.G Global Academy","LWWW","","dom","S"],
+    ["2025-02-17","LCK CL 2025 Kickoff","Playoffs Round 1","BNK FEARX Youth","DN Freecs Challengers","WLWLW","","dom","S"],
+    ["2025-02-18","LCK CL 2025 Kickoff","Playoffs Round 2","BNK FEARX Youth","KT Rolster Challengers","LLWL","","dom","S"],
+    ["2025-02-24","LCK CL 2025 Kickoff","Playoffs Round 2","BNK FEARX Youth","DRX Challengers","WWLLL","","dom","S"],
+    ["2025-09-15","LCK CL 2025 Playoffs","Round 1","BNK FEARX Youth","DN Freecs Challengers","LLL","","dom","S"],
+    ["2025-09-16","LCK CL 2025 Playoffs","Round 1","BNK FEARX Youth","Gen.G Global Academy","LWWW","","dom","S"],
+    ["2025-09-23","LCK CL 2025 Playoffs","Round 2","BNK FEARX Youth","DN Freecs Challengers","LLWWW","","dom","S"],
+    ["2025-09-26","LCK CL 2025 Playoffs","Round 3","BNK FEARX Youth","DRX Challengers","WWLLW","","dom","S"],
+    ["2025-09-29","LCK CL 2025 Playoffs","Round 4","BNK FEARX Youth","T1 Esports Academy","LWWLW","","dom","S"],
+    ["2025-09-30","LCK CL 2025 Playoffs","Final","BNK FEARX Youth","KT Rolster Challengers","WLWW","","dom","S"],
+    ["2025-10-10","2025 Asia Masters Finals","Round 1","BNK FEARX Youth","T1 Esports Academy","LWLL","","dom","S"],
+    ["2025-10-11","2025 Asia Masters Finals","Round 1","BNK FEARX Youth","DN Freecs Challengers","LLL","","dom","S"],
+    ["2025-11-22","Esports Championships Asia 2025","Final","South Korea","China","WWW","","intl","S"],
+    ["2025-12-26","Demacia Cup 2025","Quarterfinal","Invictus Gaming","Top Esports","LWWW","","dom","P"],
+    ["2026-01-01","Demacia Cup 2025","Semifinal","Invictus Gaming","LNG Esports","WWW","","dom","P"],
+    ["2026-01-03","Demacia Cup 2025","Final","Invictus Gaming","JD Gaming","WWW","","dom","P"],
+    ["2026-02-09","LPL 2026 Split 1 Playoffs","Play-In Round 1","Invictus Gaming","Ninjas in Pyjamas.CN","WLLL","","dom","P"],
+    ["2026-02-11","LPL 2026 Split 1 Playoffs","Play-In Round 3","Invictus Gaming","Oh My God","WWW","","dom","P"],
+    ["2026-02-25","LPL 2026 Split 1 Playoffs","Round 1","Invictus Gaming","Weibo Gaming","LLL","","dom","P"],
+    ["2026-03-01","LPL 2026 Split 1 Playoffs","Round 1","Invictus Gaming","Ninjas in Pyjamas.CN","WLWW","","dom","P"],
+    ["2026-03-03","LPL 2026 Split 1 Playoffs","Round 2","Invictus Gaming","Anyone's Legend","LWLL","","dom","P"]
+  ],
+  "unknown": []
+}

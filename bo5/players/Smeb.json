@@ -1,1 +1,34 @@
-{"player":"Smeb","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2015-05-02","Champions 2015 Spring Playoffs","Final","GE Tigers","SK Telecom T1","LLL","","dom","P"],["2015-08-19","Champions 2015 Summer Playoffs","Round 2","KOO Tigers","CJ Entus","WWW","","dom","P"],["2015-08-21","Champions 2015 Summer Playoffs","Round 3","KOO Tigers","KT Rolster","WLLWL","","dom","P"],["2015-10-18","Worlds 2015","Quarterfinal","KOO Tigers","KT Rolster","LWWW","","worlds","P"],["2015-10-25","Worlds 2015","Semifinal","KOO Tigers","Fnatic","WWW","","worlds","P"],["2015-10-31","Worlds 2015","Final","KOO Tigers","SK Telecom T1","LLWL","","worlds","P"],["2016-04-23","LCK 2016 Spring Playoffs","Final","ROX Tigers","SK Telecom T1","LWLL","","dom","P"],["2016-08-20","LCK 2016 Summer Playoffs","Final","ROX Tigers","KT Rolster","WLWLW","","dom","P"],["2016-10-15","Worlds 2016","Quarterfinal","ROX Tigers","EDward Gaming","WWLW","","worlds","P"],["2016-10-21","Worlds 2016","Semifinal","ROX Tigers","SK Telecom T1","LWWLL","","worlds","P"],["2016-11-19","LoL KeSPA Cup 2016","Final","ROX Tigers","Kongdoo Monster","LWWW","","dom","P"],["2017-04-11","LCK 2017 Spring Playoffs","Round 2","KT Rolster","MVP","WWW","","dom","P"],["2017-04-15","LCK 2017 Spring Playoffs","Round 3","KT Rolster","Samsung Galaxy","WWW","","dom","P"],["2017-04-22","LCK 2017 Spring Playoffs","Final","KT Rolster","SK Telecom T1","LLL","","dom","P"],["2017-08-19","LCK 2017 Summer Playoffs","Round 3","KT Rolster","SK Telecom T1","WWLLL","","dom","P"],["2017-09-02","LCK 2017 Regional Finals","Round 3","KT Rolster","Samsung Galaxy","LLL","","dom","P"],["2017-12-02","LoL KeSPA Cup 2017","Final","KT Rolster","Longzhu Gaming","LWLWW","","dom","P"],["2018-04-04","LCK 2018 Spring Playoffs","Round 2","KT Rolster","SK Telecom T1","LWWW","","dom","P"],["2018-04-08","LCK 2018 Spring Playoffs","Round 3","KT Rolster","Afreeca Freecs","WLLL","","dom","P"],["2018-09-08","LCK 2018 Summer Playoffs","Final","KT Rolster","Griffin (Korean Team)","LWLWW","","dom","P"],["2018-10-20","Worlds 2018","Quarterfinal","KT Rolster","Invictus Gaming","LLWWL","","worlds","P"],["2018-12-28","LoL KeSPA Cup 2018","Semifinal","KT Rolster","Gen.G","LWLL","p","dom","P"],["2019-04-18","LCK 2019 Summer Promotion","Qualifying Round","KT Rolster","Jin Air Green Wings","WWW","","dom","P"],["2020-09-07","LCK 2020 Regional Finals","Round 1","KT Rolster","Afreeca Freecs","LLL","p","dom","P"]],"unknown":[["2025-12-20","SLL Winter 2025","Semifinal","Wangho's Solo Leveling","Goodbye Jutakhan","2-3","","dom","S"]]}
+{
+  "player": "Smeb",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2015-05-02","Champions 2015 Spring Playoffs","Final","GE Tigers","SK Telecom T1","LLL","","dom","P"],
+    ["2015-08-19","Champions 2015 Summer Playoffs","Round 2","KOO Tigers","CJ Entus","WWW","","dom","P"],
+    ["2015-08-21","Champions 2015 Summer Playoffs","Round 3","KOO Tigers","KT Rolster","WLLWL","","dom","P"],
+    ["2015-10-18","Worlds 2015","Quarterfinal","KOO Tigers","KT Rolster","LWWW","","worlds","P"],
+    ["2015-10-25","Worlds 2015","Semifinal","KOO Tigers","Fnatic","WWW","","worlds","P"],
+    ["2015-10-31","Worlds 2015","Final","KOO Tigers","SK Telecom T1","LLWL","","worlds","P"],
+    ["2016-04-23","LCK 2016 Spring Playoffs","Final","ROX Tigers","SK Telecom T1","LWLL","","dom","P"],
+    ["2016-08-20","LCK 2016 Summer Playoffs","Final","ROX Tigers","KT Rolster","WLWLW","","dom","P"],
+    ["2016-10-15","Worlds 2016","Quarterfinal","ROX Tigers","EDward Gaming","WWLW","","worlds","P"],
+    ["2016-10-21","Worlds 2016","Semifinal","ROX Tigers","SK Telecom T1","LWWLL","","worlds","P"],
+    ["2016-11-19","LoL KeSPA Cup 2016","Final","ROX Tigers","Kongdoo Monster","LWWW","","dom","P"],
+    ["2017-04-11","LCK 2017 Spring Playoffs","Round 2","KT Rolster","MVP","WWW","","dom","P"],
+    ["2017-04-15","LCK 2017 Spring Playoffs","Round 3","KT Rolster","Samsung Galaxy","WWW","","dom","P"],
+    ["2017-04-22","LCK 2017 Spring Playoffs","Final","KT Rolster","SK Telecom T1","LLL","","dom","P"],
+    ["2017-08-19","LCK 2017 Summer Playoffs","Round 3","KT Rolster","SK Telecom T1","WWLLL","","dom","P"],
+    ["2017-09-02","LCK 2017 Regional Finals","Round 3","KT Rolster","Samsung Galaxy","LLL","","dom","P"],
+    ["2017-12-02","LoL KeSPA Cup 2017","Final","KT Rolster","Longzhu Gaming","LWLWW","","dom","P"],
+    ["2018-04-04","LCK 2018 Spring Playoffs","Round 2","KT Rolster","SK Telecom T1","LWWW","","dom","P"],
+    ["2018-04-08","LCK 2018 Spring Playoffs","Round 3","KT Rolster","Afreeca Freecs","WLLL","","dom","P"],
+    ["2018-09-08","LCK 2018 Summer Playoffs","Final","KT Rolster","Griffin (Korean Team)","LWLWW","","dom","P"],
+    ["2018-10-20","Worlds 2018","Quarterfinal","KT Rolster","Invictus Gaming","LLWWL","","worlds","P"],
+    ["2018-12-28","LoL KeSPA Cup 2018","Semifinal","KT Rolster","Gen.G","LWLL","p","dom","P"],
+    ["2019-04-18","LCK 2019 Summer Promotion","Qualifying Round","KT Rolster","Jin Air Green Wings","WWW","","dom","P"],
+    ["2020-09-07","LCK 2020 Regional Finals","Round 1","KT Rolster","Afreeca Freecs","LLL","p","dom","P"]
+  ],
+  "unknown": [
+    ["2025-12-20","SLL Winter 2025","Semifinal","Wangho's Solo Leveling","Goodbye Jutakhan","2-3","","dom","S"]
+  ]
+}

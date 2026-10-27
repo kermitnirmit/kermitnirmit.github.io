@@ -1,1 +1,44 @@
-{"player":"SlowQ","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2021-11-21","Telialigaen 2021 Autumn Playoffs","Final","Riddle Esports","Bifrost","WWW","r","dom","S"],["2022-03-14","NLC 2022 Spring Playoffs","Round 1","Riddle Esports","JDXL","LWWW","","dom","S"],["2022-03-21","NLC 2022 Spring Playoffs","Round 2","Riddle Esports","Dusty","LLL","","dom","S"],["2023-03-21","Ultraliga Season 9 Playoffs","Round 2","Zero Tenacity","Grypciocraft Esports","WWLW","","dom","S"],["2023-03-31","Ultraliga Season 9 Playoffs","Final","Zero Tenacity","Orbit Anonymo Esports","WWLW","","dom","S"],["2023-07-03","European Pro League Season 1","Final","Zero Tenacity","WLGaming Esports","WWW","","dom","S"],["2023-08-01","Ultraliga Season 10 Playoffs","Round 2","Zero Tenacity","Orbit Anonymo Esports","LWLWL","p","dom","S"],["2023-08-04","Ultraliga Season 10 Playoffs","Semifinal","Zero Tenacity","AliorBank Team","LWLL","p","dom","S"],["2023-11-16","Ultraliga Super Puchar 2023 Main Event","Semifinal","Zero Tenacity","Forsaken (Polish Team)","WWW","","dom","S"],["2023-11-17","Ultraliga Super Puchar 2023 Main Event","Final","Zero Tenacity","Orbit Anonymo Esports","WWLW","","dom","S"],["2024-03-14","LIT 2024 Spring Playoffs","Round 1","DSYRE","Atleta Esport","WLWW","","dom","S"],["2024-03-29","LIT 2024 Spring Playoffs","Final","DSYRE","Macko Esports","WLLWW","","dom","S"],["2024-07-10","LIT 2024 Summer Playoffs","Round 1","DSYRE","Macko Esports","WWLLW","","dom","S"],["2024-07-25","LIT 2024 Summer Playoffs","Final","DSYRE","Macko Esports","LLL","","dom","S"],["2024-08-16","EMEA Masters 2024 Summer Main Event","Round of 16","DSYRE","Macko Esports","WLLWL","","dom","S"],["2025-02-19","LFL 2025 Flash In Playoffs","Round 1","Karmine Corp Blue","Ici Japon Corp. Esport","WWW","","dom","S"],["2025-02-27","LFL 2025 Flash In Playoffs","Final","Karmine Corp Blue","Ici Japon Corp. Esport","WWLW","","dom","S"],["2025-03-20","EMEA Masters 2025 Winter","Quarterfinal","Karmine Corp Blue","ZennIT","WLWW","","dom","S"],["2025-03-21","EMEA Masters 2025 Winter","Semifinal","Karmine Corp Blue","Ici Japon Corp. Esport","LLWL","","dom","S"],["2025-05-22","LFL 2025 Spring Playoffs","Round 2","Karmine Corp Blue","Gentle Mates","WWW","","dom","S"],["2025-05-29","LFL 2025 Spring Playoffs","Final","Karmine Corp Blue","BK ROG Esports","WLWLL","","dom","S"],["2025-06-13","EMEA Masters 2025 Spring","Round of 16","Karmine Corp Blue","Zero Tenacity","WWW","","dom","S"],["2025-06-17","EMEA Masters 2025 Spring","Quarterfinal","Karmine Corp Blue","Team Heretics Academy","WWLW","","dom","S"],["2025-06-19","EMEA Masters 2025 Spring","Semifinal","Karmine Corp Blue","Barça eSports","LWLL","","dom","S"],["2025-09-04","LFL 2025 Summer Playoffs","Round 2","Karmine Corp Blue","Galions","WLLWL","","dom","S"],["2025-09-11","LFL 2025 Summer Playoffs","Semifinal","Karmine Corp Blue","Gentle Mates","LLWWW","","dom","S"],["2025-09-12","LFL 2025 Summer Playoffs","Final","Karmine Corp Blue","Galions","WWW","","dom","S"],["2025-10-11","EMEA Masters 2025 Summer Main Event","Round of 16","Karmine Corp Blue","Verdant","WLWW","","dom","S"],["2025-10-16","EMEA Masters 2025 Summer Main Event","Quarterfinal","Karmine Corp Blue","Misa Esports","WWW","","dom","S"],["2025-10-20","EMEA Masters 2025 Summer Main Event","Semifinal","Karmine Corp Blue","Los Ratones","WWW","","dom","S"],["2025-11-02","EMEA Masters 2025 Summer Main Event","Final","Karmine Corp Blue","Team Heretics Academy","WWW","","dom","S"],["2026-02-19","TCL 2026 Kickoff","Round 4","Misa Esports","S2G Esports","WLWW","","dom","S"],["2026-03-06","TCL 2026 Kickoff","Final","Misa Esports","S2G Esports","WWW","","dom","S"],["2026-04-14","EMEA Masters 2026 Winter","Playoffs Round 6","Misa Esports","Solary","WWLLL","","dom","S"]],"unknown":[["2021-11-13","Telialigaen 2021 Autumn Playoffs","Semifinal","Riddle Esports","Rich Gang (Norwegian Team)","3-2","","dom","S"]]}
+{
+  "player": "SlowQ",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2021-11-21","Telialigaen 2021 Autumn Playoffs","Final","Riddle Esports","Bifrost","WWW","r","dom","S"],
+    ["2022-03-14","NLC 2022 Spring Playoffs","Round 1","Riddle Esports","JDXL","LWWW","","dom","S"],
+    ["2022-03-21","NLC 2022 Spring Playoffs","Round 2","Riddle Esports","Dusty","LLL","","dom","S"],
+    ["2023-03-21","Ultraliga Season 9 Playoffs","Round 2","Zero Tenacity","Grypciocraft Esports","WWLW","","dom","S"],
+    ["2023-03-31","Ultraliga Season 9 Playoffs","Final","Zero Tenacity","Orbit Anonymo Esports","WWLW","","dom","S"],
+    ["2023-07-03","European Pro League Season 1","Final","Zero Tenacity","WLGaming Esports","WWW","","dom","S"],
+    ["2023-08-01","Ultraliga Season 10 Playoffs","Round 2","Zero Tenacity","Orbit Anonymo Esports","LWLWL","p","dom","S"],
+    ["2023-08-04","Ultraliga Season 10 Playoffs","Semifinal","Zero Tenacity","AliorBank Team","LWLL","p","dom","S"],
+    ["2023-11-16","Ultraliga Super Puchar 2023 Main Event","Semifinal","Zero Tenacity","Forsaken (Polish Team)","WWW","","dom","S"],
+    ["2023-11-17","Ultraliga Super Puchar 2023 Main Event","Final","Zero Tenacity","Orbit Anonymo Esports","WWLW","","dom","S"],
+    ["2024-03-14","LIT 2024 Spring Playoffs","Round 1","DSYRE","Atleta Esport","WLWW","","dom","S"],
+    ["2024-03-29","LIT 2024 Spring Playoffs","Final","DSYRE","Macko Esports","WLLWW","","dom","S"],
+    ["2024-07-10","LIT 2024 Summer Playoffs","Round 1","DSYRE","Macko Esports","WWLLW","","dom","S"],
+    ["2024-07-25","LIT 2024 Summer Playoffs","Final","DSYRE","Macko Esports","LLL","","dom","S"],
+    ["2024-08-16","EMEA Masters 2024 Summer Main Event","Round of 16","DSYRE","Macko Esports","WLLWL","","dom","S"],
+    ["2025-02-19","LFL 2025 Flash In Playoffs","Round 1","Karmine Corp Blue","Ici Japon Corp. Esport","WWW","","dom","S"],
+    ["2025-02-27","LFL 2025 Flash In Playoffs","Final","Karmine Corp Blue","Ici Japon Corp. Esport","WWLW","","dom","S"],
+    ["2025-03-20","EMEA Masters 2025 Winter","Quarterfinal","Karmine Corp Blue","ZennIT","WLWW","","dom","S"],
+    ["2025-03-21","EMEA Masters 2025 Winter","Semifinal","Karmine Corp Blue","Ici Japon Corp. Esport","LLWL","","dom","S"],
+    ["2025-05-22","LFL 2025 Spring Playoffs","Round 2","Karmine Corp Blue","Gentle Mates","WWW","","dom","S"],
+    ["2025-05-29","LFL 2025 Spring Playoffs","Final","Karmine Corp Blue","BK ROG Esports","WLWLL","","dom","S"],
+    ["2025-06-13","EMEA Masters 2025 Spring","Round of 16","Karmine Corp Blue","Zero Tenacity","WWW","","dom","S"],
+    ["2025-06-17","EMEA Masters 2025 Spring","Quarterfinal","Karmine Corp Blue","Team Heretics Academy","WWLW","","dom","S"],
+    ["2025-06-19","EMEA Masters 2025 Spring","Semifinal","Karmine Corp Blue","Barça eSports","LWLL","","dom","S"],
+    ["2025-09-04","LFL 2025 Summer Playoffs","Round 2","Karmine Corp Blue","Galions","WLLWL","","dom","S"],
+    ["2025-09-11","LFL 2025 Summer Playoffs","Semifinal","Karmine Corp Blue","Gentle Mates","LLWWW","","dom","S"],
+    ["2025-09-12","LFL 2025 Summer Playoffs","Final","Karmine Corp Blue","Galions","WWW","","dom","S"],
+    ["2025-10-11","EMEA Masters 2025 Summer Main Event","Round of 16","Karmine Corp Blue","Verdant","WLWW","","dom","S"],
+    ["2025-10-16","EMEA Masters 2025 Summer Main Event","Quarterfinal","Karmine Corp Blue","Misa Esports","WWW","","dom","S"],
+    ["2025-10-20","EMEA Masters 2025 Summer Main Event","Semifinal","Karmine Corp Blue","Los Ratones","WWW","","dom","S"],
+    ["2025-11-02","EMEA Masters 2025 Summer Main Event","Final","Karmine Corp Blue","Team Heretics Academy","WWW","","dom","S"],
+    ["2026-02-19","TCL 2026 Kickoff","Round 4","Misa Esports","S2G Esports","WLWW","","dom","S"],
+    ["2026-03-06","TCL 2026 Kickoff","Final","Misa Esports","S2G Esports","WWW","","dom","S"],
+    ["2026-04-14","EMEA Masters 2026 Winter","Playoffs Round 6","Misa Esports","Solary","WWLLL","","dom","S"]
+  ],
+  "unknown": [
+    ["2021-11-13","Telialigaen 2021 Autumn Playoffs","Semifinal","Riddle Esports","Rich Gang (Norwegian Team)","3-2","","dom","S"]
+  ]
+}

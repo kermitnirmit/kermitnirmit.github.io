@@ -1,1 +1,31 @@
-{"player":"bebe (Chang Bo-Wei)","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2012-10-14","Worlds 2012","Final","Taipei Assassins","Azubu Frost","LWWW","","worlds","P"],["2012-11-18","2012 GPL Season 1 Playoffs","Final","Taipei Assassins","Singapore Sentinels","WWLW","r","dom",""],["2013-12-04","GPL Winter 2014","Quarterfinal","Taipei Assassins","Full Louis","WWW","","dom","P"],["2013-12-18","GPL Winter 2014","Semifinal","Taipei Assassins","Saigon Jokers","WLWLW","","dom","P"],["2014-01-11","GPL Winter 2014","Final","Taipei Assassins","Taipei Snipers","LWWLW","","dom","P"],["2014-03-28","GPL Spring 2014","Quarterfinal","Taipei Assassins","Insidious Gaming","WWW","","dom","P"],["2014-04-05","GPL Spring 2014","Semifinal","Taipei Assassins","Taipei Snipers","LWWLW","","dom","P"],["2014-04-06","GPL Spring 2014","Final","Taipei Assassins","ahq eSports Club","WLLWW","","dom","P"],["2014-07-16","GPL Summer 2014","Quarterfinal","Taipei Assassins","Insidious Gaming Rebirth","WWW","","dom","P"],["2014-07-30","GPL Summer 2014","Semifinal","Taipei Assassins","Saigon Fantastic Five","WLWW","","dom","P"],["2014-08-16","GPL Summer 2014","Final","Taipei Assassins","ahq eSports Club","WWW","","dom","P"],["2015-05-01","LMS 2015 Summer Promotion","Promotion","Assassin Sniper","Never Give Up","WWW","","dom","P"],["2016-04-15","LMS 2016 Spring Playoffs","Round 1","Taipei Assassins","Machi Esports","WLWLL","","dom","P"],["2016-08-21","LMS 2016 Summer Playoffs","Final","J Team","Flash Wolves","LLL","","dom","P"],["2016-09-03","LMS 2016 Regional Finals","Semifinal","J Team","Machi Esports","WLWLL","","dom","P"],["2017-04-21","LMS 2017 Spring Playoffs","Round 1","J Team","Machi Esports","LWWW","","dom","P"],["2017-04-22","LMS 2017 Spring Playoffs","Round 2","J Team","ahq eSports Club","LLL","","dom","P"],["2017-08-18","LMS 2017 Summer Playoffs","Round 1","J Team","ahq eSports Club","LWLWL","","dom","P"],["2017-08-26","LMS 2017 Regional Finals","Semifinal","J Team","Hong Kong Attitude","LLWL","","dom","P"],["2017-12-10","All-Star Los Angeles 2017","Final","LMS Allstars","LPL Allstars","WLLWL","","intl","X"],["2023-07-26","2023 Asia Esports Championship Sika Deer Open Qualifiers","Final","喔我的天","SHA哥別送了","WLLWL","r","dom","S"]],"unknown":[["2018-08-24","Return of the Legends 2018","Showmatch","Team East (Return of the Legends)","Team West (Return of the Legends)","2-3","","dom",""]]}
+{
+  "player": "bebe (Chang Bo-Wei)",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2012-10-14","Worlds 2012","Final","Taipei Assassins","Azubu Frost","LWWW","","worlds","P"],
+    ["2012-11-18","2012 GPL Season 1 Playoffs","Final","Taipei Assassins","Singapore Sentinels","WWLW","r","dom",""],
+    ["2013-12-04","GPL Winter 2014","Quarterfinal","Taipei Assassins","Full Louis","WWW","","dom","P"],
+    ["2013-12-18","GPL Winter 2014","Semifinal","Taipei Assassins","Saigon Jokers","WLWLW","","dom","P"],
+    ["2014-01-11","GPL Winter 2014","Final","Taipei Assassins","Taipei Snipers","LWWLW","","dom","P"],
+    ["2014-03-28","GPL Spring 2014","Quarterfinal","Taipei Assassins","Insidious Gaming","WWW","","dom","P"],
+    ["2014-04-05","GPL Spring 2014","Semifinal","Taipei Assassins","Taipei Snipers","LWWLW","","dom","P"],
+    ["2014-04-06","GPL Spring 2014","Final","Taipei Assassins","ahq eSports Club","WLLWW","","dom","P"],
+    ["2014-07-16","GPL Summer 2014","Quarterfinal","Taipei Assassins","Insidious Gaming Rebirth","WWW","","dom","P"],
+    ["2014-07-30","GPL Summer 2014","Semifinal","Taipei Assassins","Saigon Fantastic Five","WLWW","","dom","P"],
+    ["2014-08-16","GPL Summer 2014","Final","Taipei Assassins","ahq eSports Club","WWW","","dom","P"],
+    ["2015-05-01","LMS 2015 Summer Promotion","Promotion","Assassin Sniper","Never Give Up","WWW","","dom","P"],
+    ["2016-04-15","LMS 2016 Spring Playoffs","Round 1","Taipei Assassins","Machi Esports","WLWLL","","dom","P"],
+    ["2016-08-21","LMS 2016 Summer Playoffs","Final","J Team","Flash Wolves","LLL","","dom","P"],
+    ["2016-09-03","LMS 2016 Regional Finals","Semifinal","J Team","Machi Esports","WLWLL","","dom","P"],
+    ["2017-04-21","LMS 2017 Spring Playoffs","Round 1","J Team","Machi Esports","LWWW","","dom","P"],
+    ["2017-04-22","LMS 2017 Spring Playoffs","Round 2","J Team","ahq eSports Club","LLL","","dom","P"],
+    ["2017-08-18","LMS 2017 Summer Playoffs","Round 1","J Team","ahq eSports Club","LWLWL","","dom","P"],
+    ["2017-08-26","LMS 2017 Regional Finals","Semifinal","J Team","Hong Kong Attitude","LLWL","","dom","P"],
+    ["2017-12-10","All-Star Los Angeles 2017","Final","LMS Allstars","LPL Allstars","WLLWL","","intl","X"],
+    ["2023-07-26","2023 Asia Esports Championship Sika Deer Open Qualifiers","Final","喔我的天","SHA哥別送了","WLLWL","r","dom","S"]
+  ],
+  "unknown": [
+    ["2018-08-24","Return of the Legends 2018","Showmatch","Team East (Return of the Legends)","Team West (Return of the Legends)","2-3","","dom",""]
+  ]
+}

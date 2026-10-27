@@ -1,1 +1,30 @@
-{"player":"Rychly","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2020-08-24","UK League Championship 2020 Relegation Series","Qualifiers","Resolve","Bulldog Esports","WWW","","dom","S"],["2022-04-20","Prime League 2nd Division 2022 Summer Promotion","Round 1","cowana Gaming","All for One Gaming","WWLLL","","dom","S"],["2022-04-27","Prime League 2nd Division 2022 Summer Promotion","Round 1","cowana Gaming","ERN ROAR","WLWW","","dom","S"],["2022-04-29","Prime League 2nd Division 2022 Summer Promotion","Round 2","cowana Gaming","All for One Gaming","WLLL","","dom","S"],["2022-07-31","Elite Series 2022 Summer Playoffs","Round 1","The Agency","KRC Genk Esports","LWLL","","dom","S"],["2022-08-03","Elite Series 2022 Summer Playoffs","Semifinal","The Agency","mCon LG UltraGear","WWW","","dom","S"],["2022-08-07","Elite Series 2022 Summer Playoffs","Final","The Agency","KRC Genk Esports","WWLLW","","dom","S"],["2025-07-17","Prime League 2nd Division 2025 Summer Playoffs","Round 4","DKB XPERION NXT","regnum4games","LLWWL","","dom","S"],["2025-07-21","Prime League 2nd Division 2025 Summer Playoffs","Round 4","DKB XPERION NXT","Entropy x Teufel","LWWLW","","dom","S"],["2025-07-25","Prime League 2nd Division 2025 Summer Playoffs","Grand Final","DKB XPERION NXT","regnum4games","WLLWW","","dom","S"],["2025-08-02","Prime League 2nd Division 2025 Season Finals","Round 1","DKB XPERION NXT","All for One Gaming","WLWW","","dom","S"],["2025-08-07","Prime League 2nd Division 2025 Season Finals","Round 2","DKB XPERION NXT","Footprint Gaming","WWW","","dom","S"],["2025-08-11","Prime League 2nd Division 2025 Season Finals","Round 4","DKB XPERION NXT","VfB eSports","WWW","","dom","S"],["2025-08-20","Prime League 2nd Division 2025 Season Finals","Grand Final","DKB XPERION NXT","A One Man Army Prime","WLWLL","","dom","S"],["2025-09-02","Prime League 1st Division 2026 Promotion","Round 1","DKB XPERION NXT","A One Man Army Prime","LWWW","","dom","S"],["2025-09-05","Prime League 1st Division 2026 Promotion","Round 2","DKB XPERION NXT","Eintracht Spandau","LLWWL","","dom","S"],["2025-09-09","Prime League 1st Division 2026 Promotion","Round 2","DKB XPERION NXT","A One Man Army Prime","LLL","","dom","S"],["2026-07-28","Prime League 2nd Division 2026 Season Finals","Round 1","MT1 Esports","Reveal Multigaming","WLWW","","dom","S"],["2026-08-02","Prime League 2nd Division 2026 Season Finals","Round 2","MT1 Esports","PvB (Swiss Team)","LLL","","dom","S"],["2026-08-07","Prime League 2nd Division 2026 Season Finals","Round 2","MT1 Esports","Team Rift","WLWW","","dom","S"],["2026-08-09","Prime League 2nd Division 2026 Season Finals","Round 3","MT1 Esports","Reveal Multigaming","LWWW","","dom","S"],["2026-08-15","Prime League 2nd Division 2026 Season Finals","Round 4","MT1 Esports","DKB XPERION NXT","LLL","","dom","S"]],"unknown":[]}
+{
+  "player": "Rychly",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2020-08-24","UK League Championship 2020 Relegation Series","Qualifiers","Resolve","Bulldog Esports","WWW","","dom","S"],
+    ["2022-04-20","Prime League 2nd Division 2022 Summer Promotion","Round 1","cowana Gaming","All for One Gaming","WWLLL","","dom","S"],
+    ["2022-04-27","Prime League 2nd Division 2022 Summer Promotion","Round 1","cowana Gaming","ERN ROAR","WLWW","","dom","S"],
+    ["2022-04-29","Prime League 2nd Division 2022 Summer Promotion","Round 2","cowana Gaming","All for One Gaming","WLLL","","dom","S"],
+    ["2022-07-31","Elite Series 2022 Summer Playoffs","Round 1","The Agency","KRC Genk Esports","LWLL","","dom","S"],
+    ["2022-08-03","Elite Series 2022 Summer Playoffs","Semifinal","The Agency","mCon LG UltraGear","WWW","","dom","S"],
+    ["2022-08-07","Elite Series 2022 Summer Playoffs","Final","The Agency","KRC Genk Esports","WWLLW","","dom","S"],
+    ["2025-07-17","Prime League 2nd Division 2025 Summer Playoffs","Round 4","DKB XPERION NXT","regnum4games","LLWWL","","dom","S"],
+    ["2025-07-21","Prime League 2nd Division 2025 Summer Playoffs","Round 4","DKB XPERION NXT","Entropy x Teufel","LWWLW","","dom","S"],
+    ["2025-07-25","Prime League 2nd Division 2025 Summer Playoffs","Grand Final","DKB XPERION NXT","regnum4games","WLLWW","","dom","S"],
+    ["2025-08-02","Prime League 2nd Division 2025 Season Finals","Round 1","DKB XPERION NXT","All for One Gaming","WLWW","","dom","S"],
+    ["2025-08-07","Prime League 2nd Division 2025 Season Finals","Round 2","DKB XPERION NXT","Footprint Gaming","WWW","","dom","S"],
+    ["2025-08-11","Prime League 2nd Division 2025 Season Finals","Round 4","DKB XPERION NXT","VfB eSports","WWW","","dom","S"],
+    ["2025-08-20","Prime League 2nd Division 2025 Season Finals","Grand Final","DKB XPERION NXT","A One Man Army Prime","WLWLL","","dom","S"],
+    ["2025-09-02","Prime League 1st Division 2026 Promotion","Round 1","DKB XPERION NXT","A One Man Army Prime","LWWW","","dom","S"],
+    ["2025-09-05","Prime League 1st Division 2026 Promotion","Round 2","DKB XPERION NXT","Eintracht Spandau","LLWWL","","dom","S"],
+    ["2025-09-09","Prime League 1st Division 2026 Promotion","Round 2","DKB XPERION NXT","A One Man Army Prime","LLL","","dom","S"],
+    ["2026-07-28","Prime League 2nd Division 2026 Season Finals","Round 1","MT1 Esports","Reveal Multigaming","WLWW","","dom","S"],
+    ["2026-08-02","Prime League 2nd Division 2026 Season Finals","Round 2","MT1 Esports","PvB (Swiss Team)","LLL","","dom","S"],
+    ["2026-08-07","Prime League 2nd Division 2026 Season Finals","Round 2","MT1 Esports","Team Rift","WLWW","","dom","S"],
+    ["2026-08-09","Prime League 2nd Division 2026 Season Finals","Round 3","MT1 Esports","Reveal Multigaming","LWWW","","dom","S"],
+    ["2026-08-15","Prime League 2nd Division 2026 Season Finals","Round 4","MT1 Esports","DKB XPERION NXT","LLL","","dom","S"]
+  ],
+  "unknown": []
+}

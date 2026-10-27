@@ -1,1 +1,29 @@
-{"player":"KreshtDoo","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2019-04-01","Liga de Honor Entel 2019 Opening Playoffs","Semifinal","Azules Esports","Rebirth eSports","LLL","","dom","S"],["2019-08-05","Liga de Honor Entel 2019 Closing Playoffs","Semifinal","Azules Esports","Universidad Católica Esports","WWW","","dom","S"],["2019-08-18","Liga de Honor Entel 2019 Closing Playoffs","Final","Azules Esports","Rebirth eSports","LWWW","","dom","S"],["2019-09-12","Regional Sur 2019 Season","Playoffs","Azules Esports","9z Team","WLWW","","dom","S"],["2019-09-28","LLA 2020 Opening Promotion","Qualifiers","Azules Esports","Kaos Latin Gamers","LWWLW","","dom","P"],["2020-08-15","LLA 2020 Closing Playoffs","Round 1","Azules Esports","Rainbow7","LWLWL","","dom","P"],["2021-07-06","Liga de Honor Entel 2021 Closing Playoffs","Round 1","Movistar Optix","Dark Horse","LLWL","","dom","S"],["2021-07-08","Liga de Honor Entel 2021 Closing Playoffs","Round 1","Movistar Optix","Cruzados Esports","WWLLL","","dom","S"],["2022-03-28","Liga de Honor Entel 2022 Opening Playoffs","Round 1","Movistar Optix","Furious Gaming","LWLWL","","dom","S"],["2022-03-30","Liga de Honor Entel 2022 Opening Playoffs","Round 1","Movistar Optix","Santiago Wanderers eSports","WWW","","dom","S"],["2022-04-05","Liga de Honor Entel 2022 Opening Playoffs","Round 2","Movistar Optix","Meta Gaming","WLLWW","","dom","S"],["2022-04-06","Liga de Honor Entel 2022 Opening Playoffs","Round 3","Movistar Optix","Dark Horse","WWW","","dom","S"],["2022-04-19","Liga de Honor Entel 2022 Opening Playoffs","Grand Final","Movistar Optix","Furious Gaming","WLLL","","dom","S"],["2022-06-28","Liga de Honor Entel 2022 Closing Playoffs","Round 1","Movistar Optix","Newstar","WWW","","dom","S"],["2022-07-04","Liga de Honor Entel 2022 Closing Playoffs","Round 3","Movistar Optix","Furious Gaming","LWLL","","dom","S"],["2022-07-06","Liga de Honor Entel 2022 Closing Playoffs","Round 3","Movistar Optix","Meta Gaming","WWW","","dom","S"],["2022-07-18","Liga de Honor Entel 2022 Closing Playoffs","Grand Final","Movistar Optix","Furious Gaming","LLWL","","dom","S"],["2022-08-08","Regional Sur 2022 Season","Play-In","Movistar Optix","EBRO","WWLW","","dom","S"],["2022-11-28","Liga de Honor Entel 2022 Super Copa","Final","Eclipse Gaming (Latin American Team)","Furious Gaming","WWLLW","","dom","S"],["2022-12-02","Duelo Andino 2022","Grand Final","Eclipse Gaming (Latin American Team)","Leviatan","LWLL","","dom","S"],["2023-03-24","Liga de Honor 2023 Opening Playoffs","Round 2","Cruzados Esports","Eclipse Gaming (Latin American Team)","WLWLL","","dom","S"]],"unknown":[]}
+{
+  "player": "KreshtDoo",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2019-04-01","Liga de Honor Entel 2019 Opening Playoffs","Semifinal","Azules Esports","Rebirth eSports","LLL","","dom","S"],
+    ["2019-08-05","Liga de Honor Entel 2019 Closing Playoffs","Semifinal","Azules Esports","Universidad Católica Esports","WWW","","dom","S"],
+    ["2019-08-18","Liga de Honor Entel 2019 Closing Playoffs","Final","Azules Esports","Rebirth eSports","LWWW","","dom","S"],
+    ["2019-09-12","Regional Sur 2019 Season","Playoffs","Azules Esports","9z Team","WLWW","","dom","S"],
+    ["2019-09-28","LLA 2020 Opening Promotion","Qualifiers","Azules Esports","Kaos Latin Gamers","LWWLW","","dom","P"],
+    ["2020-08-15","LLA 2020 Closing Playoffs","Round 1","Azules Esports","Rainbow7","LWLWL","","dom","P"],
+    ["2021-07-06","Liga de Honor Entel 2021 Closing Playoffs","Round 1","Movistar Optix","Dark Horse","LLWL","","dom","S"],
+    ["2021-07-08","Liga de Honor Entel 2021 Closing Playoffs","Round 1","Movistar Optix","Cruzados Esports","WWLLL","","dom","S"],
+    ["2022-03-28","Liga de Honor Entel 2022 Opening Playoffs","Round 1","Movistar Optix","Furious Gaming","LWLWL","","dom","S"],
+    ["2022-03-30","Liga de Honor Entel 2022 Opening Playoffs","Round 1","Movistar Optix","Santiago Wanderers eSports","WWW","","dom","S"],
+    ["2022-04-05","Liga de Honor Entel 2022 Opening Playoffs","Round 2","Movistar Optix","Meta Gaming","WLLWW","","dom","S"],
+    ["2022-04-06","Liga de Honor Entel 2022 Opening Playoffs","Round 3","Movistar Optix","Dark Horse","WWW","","dom","S"],
+    ["2022-04-19","Liga de Honor Entel 2022 Opening Playoffs","Grand Final","Movistar Optix","Furious Gaming","WLLL","","dom","S"],
+    ["2022-06-28","Liga de Honor Entel 2022 Closing Playoffs","Round 1","Movistar Optix","Newstar","WWW","","dom","S"],
+    ["2022-07-04","Liga de Honor Entel 2022 Closing Playoffs","Round 3","Movistar Optix","Furious Gaming","LWLL","","dom","S"],
+    ["2022-07-06","Liga de Honor Entel 2022 Closing Playoffs","Round 3","Movistar Optix","Meta Gaming","WWW","","dom","S"],
+    ["2022-07-18","Liga de Honor Entel 2022 Closing Playoffs","Grand Final","Movistar Optix","Furious Gaming","LLWL","","dom","S"],
+    ["2022-08-08","Regional Sur 2022 Season","Play-In","Movistar Optix","EBRO","WWLW","","dom","S"],
+    ["2022-11-28","Liga de Honor Entel 2022 Super Copa","Final","Eclipse Gaming (Latin American Team)","Furious Gaming","WWLLW","","dom","S"],
+    ["2022-12-02","Duelo Andino 2022","Grand Final","Eclipse Gaming (Latin American Team)","Leviatan","LWLL","","dom","S"],
+    ["2023-03-24","Liga de Honor 2023 Opening Playoffs","Round 2","Cruzados Esports","Eclipse Gaming (Latin American Team)","WLWLL","","dom","S"]
+  ],
+  "unknown": []
+}

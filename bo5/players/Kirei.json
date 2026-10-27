@@ -1,1 +1,36 @@
-{"player":"Kirei","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2015-04-08","EU Challenger Series 2015 Spring Playoffs","Final","Copenhagen Wolves Academy","Origen","LLL","","dom","S"],["2015-04-25","EU LCS 2015 Summer Promotion","Promotion","Copenhagen Wolves Academy","Team ROCCAT","LLL","","dom","P"],["2016-04-07","NA LCS 2016 Summer Promotion","Elimination Round","Dignitas","Team Dragon Knights","LLL","","dom","P"],["2016-07-12","EU Challenger Series 2016 Summer Playoffs","Semifinal","Epsilon Esports","Misfits Gaming","LLL","","dom","S"],["2016-09-03","International Wildcard Qualifier 2016","Final","Dark Passage","INTZ","LWLWL","","dom","P"],["2017-03-26","EU Challenger Series 2017 Spring Playoffs","Qualifiers","Paris Saint-Germain eSports","Fnatic Academy","WLLWL","","dom","S"],["2017-12-16","LVP SuperLiga Orange Season 13 Playoffs","Semifinal","ASUS ROG Army","MAD Lions E.C.","LLL","r","dom",""],["2018-08-25","TCL 2018 Summer Playoffs","Quarterfinal","Dark Passage","HWA Gaming","WWLLW","","dom","P"],["2018-09-01","TCL 2018 Summer Playoffs","Semifinal","Dark Passage","Royal Bandits","LLL","","dom","P"],["2019-04-07","TCL 2019 Winter Playoffs","Semifinal","Fenerbahçe Esports","Galatasaray Esports","WWW","","dom","P"],["2019-04-13","TCL 2019 Winter Playoffs","Final","Fenerbahçe Esports","SuperMassive Esports","WWW","","dom","P"],["2019-10-30","LFL 2019 Finals","Round 1","Misfits Premier","GamersOrigin","LWWLW","","dom","S"],["2019-10-31","LFL 2019 Finals","Final","Misfits Premier","Team-LDLC","WLLL","","dom","S"],["2020-04-08","LFL 2020 Spring Playoffs","Round 3","Misfits Premier","GamersOrigin","LWLL","","dom","S"],["2020-06-24","Underdogs 2020","Quarterfinal","Misfits Premier","Team MCES","LWWW","","dom","S"],["2020-07-01","Underdogs 2020","Semifinal","Misfits Premier","LDLC OL","LWLWL","","dom","S"],["2020-08-14","LFL 2020 EM Qualification","Round 2","Misfits Premier","Vitality.Bee","WWW","","dom","S"],["2020-08-15","LFL 2020 EM Qualification","Round 3","Misfits Premier","LDLC OL","WLLWW","","dom","S"],["2020-08-16","LFL 2020 EM Qualification","Final","Misfits Premier","GamersOrigin","LWWW","","dom","S"],["2020-09-30","LFL 2020 Summer Playoffs","Round 3","Misfits Premier","GameWard","LWWLL","","dom","S"],["2020-10-07","LFL 2020 Finals","Round 1","Misfits Premier","LDLC OL","WWW","","dom","S"],["2020-10-26","LFL 2020 Finals","Final","Misfits Premier","GamersOrigin","WWW","","dom","S"],["2022-03-26","TCL 2022 Winter Playoffs","Quarterfinal","NASR eSports Turkey","Dark Passage","LLWWL","","dom","P"],["2024-06-14","NNO Cup Season 1","Round 1","Team xPetu","Team Nemesis","WWLLL","r","dom","S"],["2024-11-27","NNO Cup Season 2","Round 1","Never FF","No Need Orga","WLWLL","","dom","S"]],"unknown":[["2017-11-11","LVP Clasificatorio Challenger Series Season 13","Semifinal","ASUS ROG Army","ThunderX3 Baskonia","1-3","","dom",""],["2024-11-29","NNO Cup Season 2","Round 1","Never FF","Kiedyś Miałem Fun","2-3","WWLL","dom","S"]]}
+{
+  "player": "Kirei",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2015-04-08","EU Challenger Series 2015 Spring Playoffs","Final","Copenhagen Wolves Academy","Origen","LLL","","dom","S"],
+    ["2015-04-25","EU LCS 2015 Summer Promotion","Promotion","Copenhagen Wolves Academy","Team ROCCAT","LLL","","dom","P"],
+    ["2016-04-07","NA LCS 2016 Summer Promotion","Elimination Round","Dignitas","Team Dragon Knights","LLL","","dom","P"],
+    ["2016-07-12","EU Challenger Series 2016 Summer Playoffs","Semifinal","Epsilon Esports","Misfits Gaming","LLL","","dom","S"],
+    ["2016-09-03","International Wildcard Qualifier 2016","Final","Dark Passage","INTZ","LWLWL","","dom","P"],
+    ["2017-03-26","EU Challenger Series 2017 Spring Playoffs","Qualifiers","Paris Saint-Germain eSports","Fnatic Academy","WLLWL","","dom","S"],
+    ["2017-12-16","LVP SuperLiga Orange Season 13 Playoffs","Semifinal","ASUS ROG Army","MAD Lions E.C.","LLL","r","dom",""],
+    ["2018-08-25","TCL 2018 Summer Playoffs","Quarterfinal","Dark Passage","HWA Gaming","WWLLW","","dom","P"],
+    ["2018-09-01","TCL 2018 Summer Playoffs","Semifinal","Dark Passage","Royal Bandits","LLL","","dom","P"],
+    ["2019-04-07","TCL 2019 Winter Playoffs","Semifinal","Fenerbahçe Esports","Galatasaray Esports","WWW","","dom","P"],
+    ["2019-04-13","TCL 2019 Winter Playoffs","Final","Fenerbahçe Esports","SuperMassive Esports","WWW","","dom","P"],
+    ["2019-10-30","LFL 2019 Finals","Round 1","Misfits Premier","GamersOrigin","LWWLW","","dom","S"],
+    ["2019-10-31","LFL 2019 Finals","Final","Misfits Premier","Team-LDLC","WLLL","","dom","S"],
+    ["2020-04-08","LFL 2020 Spring Playoffs","Round 3","Misfits Premier","GamersOrigin","LWLL","","dom","S"],
+    ["2020-06-24","Underdogs 2020","Quarterfinal","Misfits Premier","Team MCES","LWWW","","dom","S"],
+    ["2020-07-01","Underdogs 2020","Semifinal","Misfits Premier","LDLC OL","LWLWL","","dom","S"],
+    ["2020-08-14","LFL 2020 EM Qualification","Round 2","Misfits Premier","Vitality.Bee","WWW","","dom","S"],
+    ["2020-08-15","LFL 2020 EM Qualification","Round 3","Misfits Premier","LDLC OL","WLLWW","","dom","S"],
+    ["2020-08-16","LFL 2020 EM Qualification","Final","Misfits Premier","GamersOrigin","LWWW","","dom","S"],
+    ["2020-09-30","LFL 2020 Summer Playoffs","Round 3","Misfits Premier","GameWard","LWWLL","","dom","S"],
+    ["2020-10-07","LFL 2020 Finals","Round 1","Misfits Premier","LDLC OL","WWW","","dom","S"],
+    ["2020-10-26","LFL 2020 Finals","Final","Misfits Premier","GamersOrigin","WWW","","dom","S"],
+    ["2022-03-26","TCL 2022 Winter Playoffs","Quarterfinal","NASR eSports Turkey","Dark Passage","LLWWL","","dom","P"],
+    ["2024-06-14","NNO Cup Season 1","Round 1","Team xPetu","Team Nemesis","WWLLL","r","dom","S"],
+    ["2024-11-27","NNO Cup Season 2","Round 1","Never FF","No Need Orga","WLWLL","","dom","S"]
+  ],
+  "unknown": [
+    ["2017-11-11","LVP Clasificatorio Challenger Series Season 13","Semifinal","ASUS ROG Army","ThunderX3 Baskonia","1-3","","dom",""],
+    ["2024-11-29","NNO Cup Season 2","Round 1","Never FF","Kiedyś Miałem Fun","2-3","WWLL","dom","S"]
+  ]
+}

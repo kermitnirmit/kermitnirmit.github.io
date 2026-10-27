@@ -1,1 +1,30 @@
-{"player":"rahab","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2021-05-31","Circuito Nacional Chile 2021 Season Playoffs","Round 1","Leviatan Esports Chile","Aracne Esports","WWW","","dom","S"],["2021-06-07","Circuito Nacional Chile 2021 Season Playoffs","Round 2","Leviatan Esports Chile","Supay Gaming","LWWW","","dom","S"],["2021-06-21","Circuito Nacional Chile 2021 Season Playoffs","Grand Final","Leviatan Esports Chile","Supay Gaming","WWW","","dom","S"],["2021-07-15","Liga de Honor Entel 2022 Opening Promotion","Qualifiers","Leviatan Esports Chile","Bencheados","WLLL","","dom","S"],["2021-10-27","Liga de Honor Entel 2021 Super Copa/Play-In","Semifinal","Leviatan Esports Chile","W5 Team","WWW","","dom","S"],["2021-10-28","Liga de Honor Entel 2021 Super Copa/Play-In","Final","Leviatan Esports Chile","Santiago Wanderers eSports","LLWL","","dom","S"],["2021-11-30","Liga de Honor Entel 2021 Super Copa","Final","Furious Gaming Chile","Dark Horse","WWW","","dom","S"],["2021-12-03","Duelo Andino 2021","Grand Final","Furious Gaming Chile","Savage (Latin American Team)","LWLWW","","dom","S"],["2022-12-01","Liga Master Flow 2022 Super Copa","Final","Leviatan","9z Team","LWWW","","dom","S"],["2022-12-02","Duelo Andino 2022","Grand Final","Leviatan","Eclipse Gaming (Latin American Team)","WLWW","","dom","S"],["2023-03-02","Liga Master Flow 2023 Opening Playoffs","Round 1","Globant Emerald","Pampas","LLL","","dom","S"],["2023-03-09","Liga Master Flow 2023 Opening Playoffs","Round 1","Globant Emerald","River Plate Gaming","LWWLW","","dom","S"],["2023-03-17","Liga Master Flow 2023 Opening Playoffs","Round 2","Globant Emerald","WAP Esports","LLL","","dom","S"],["2024-03-10","Emerald League 2024 Tier Edition","Round 4","PRIMATE","WAP Esports","WWW","r","dom",""],["2024-06-28","Liga Regional Sur 2024 Playoffs","Round 1","PRIMATE","Undead Gaming","WLWW","","dom","S"],["2024-06-30","Liga Regional Sur 2024 Playoffs","Round 2","PRIMATE","WAP Esports","WLLL","","dom","S"],["2024-07-13","Liga Regional Sur 2024 Playoffs","Round 2","PRIMATE","Undead Gaming","LLWWW","","dom","S"],["2024-07-21","Liga Regional Sur 2024 Playoffs","Grand Final","PRIMATE","WAP Esports","LLWL","","dom","S"],["2024-10-14","Emerald League 2024 Special Edition","Semifinal","Team Evermeet","POG Team","WWW","r","dom",""],["2024-12-17","Emerald League 2024 Special Edition","Final","Team Evermeet","Izanagi eSports","WWW","r","dom",""]],"unknown":[["2024-03-17","Emerald League 2024 Tier Edition","Final","PRIMATE","Meta Gaming","3-1","","dom",""]]}
+{
+  "player": "rahab",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2021-05-31","Circuito Nacional Chile 2021 Season Playoffs","Round 1","Leviatan Esports Chile","Aracne Esports","WWW","","dom","S"],
+    ["2021-06-07","Circuito Nacional Chile 2021 Season Playoffs","Round 2","Leviatan Esports Chile","Supay Gaming","LWWW","","dom","S"],
+    ["2021-06-21","Circuito Nacional Chile 2021 Season Playoffs","Grand Final","Leviatan Esports Chile","Supay Gaming","WWW","","dom","S"],
+    ["2021-07-15","Liga de Honor Entel 2022 Opening Promotion","Qualifiers","Leviatan Esports Chile","Bencheados","WLLL","","dom","S"],
+    ["2021-10-27","Liga de Honor Entel 2021 Super Copa/Play-In","Semifinal","Leviatan Esports Chile","W5 Team","WWW","","dom","S"],
+    ["2021-10-28","Liga de Honor Entel 2021 Super Copa/Play-In","Final","Leviatan Esports Chile","Santiago Wanderers eSports","LLWL","","dom","S"],
+    ["2021-11-30","Liga de Honor Entel 2021 Super Copa","Final","Furious Gaming Chile","Dark Horse","WWW","","dom","S"],
+    ["2021-12-03","Duelo Andino 2021","Grand Final","Furious Gaming Chile","Savage (Latin American Team)","LWLWW","","dom","S"],
+    ["2022-12-01","Liga Master Flow 2022 Super Copa","Final","Leviatan","9z Team","LWWW","","dom","S"],
+    ["2022-12-02","Duelo Andino 2022","Grand Final","Leviatan","Eclipse Gaming (Latin American Team)","WLWW","","dom","S"],
+    ["2023-03-02","Liga Master Flow 2023 Opening Playoffs","Round 1","Globant Emerald","Pampas","LLL","","dom","S"],
+    ["2023-03-09","Liga Master Flow 2023 Opening Playoffs","Round 1","Globant Emerald","River Plate Gaming","LWWLW","","dom","S"],
+    ["2023-03-17","Liga Master Flow 2023 Opening Playoffs","Round 2","Globant Emerald","WAP Esports","LLL","","dom","S"],
+    ["2024-03-10","Emerald League 2024 Tier Edition","Round 4","PRIMATE","WAP Esports","WWW","r","dom",""],
+    ["2024-06-28","Liga Regional Sur 2024 Playoffs","Round 1","PRIMATE","Undead Gaming","WLWW","","dom","S"],
+    ["2024-06-30","Liga Regional Sur 2024 Playoffs","Round 2","PRIMATE","WAP Esports","WLLL","","dom","S"],
+    ["2024-07-13","Liga Regional Sur 2024 Playoffs","Round 2","PRIMATE","Undead Gaming","LLWWW","","dom","S"],
+    ["2024-07-21","Liga Regional Sur 2024 Playoffs","Grand Final","PRIMATE","WAP Esports","LLWL","","dom","S"],
+    ["2024-10-14","Emerald League 2024 Special Edition","Semifinal","Team Evermeet","POG Team","WWW","r","dom",""],
+    ["2024-12-17","Emerald League 2024 Special Edition","Final","Team Evermeet","Izanagi eSports","WWW","r","dom",""]
+  ],
+  "unknown": [
+    ["2024-03-17","Emerald League 2024 Tier Edition","Final","PRIMATE","Meta Gaming","3-1","","dom",""]
+  ]
+}

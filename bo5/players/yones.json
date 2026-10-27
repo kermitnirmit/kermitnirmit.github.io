@@ -1,1 +1,43 @@
-{"player":"yones","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2021-12-11","Leagues.gg Winter Showdown Finland 2021 Playoffs","Round 4","Epic Avalanche","NYYRIKKI Academy","WWW","r","dom","S"],["2021-12-12","Leagues.gg Winter Showdown Finland 2021 Playoffs","Grand Final","Epic Avalanche","Team PHZ","LLL","r","dom","S"],["2022-04-11","Finnish Community Cup Spring - 22","Quarterfinal","Epic Avalanche","SIC Esports","WWW","r","dom",""],["2023-08-17","NLC 2nd Division 2023 Summer Playoffs","Round 1","BlueWhites","Lundqvist Lightside","WLWLL","","dom","S"],["2023-10-20","Finnish Pro League 2023 Autumn Playoffs","Round 1","DMG Esports Finland","Erasion Gaming","WWW","r","dom","S"],["2023-10-26","Finnish Pro League 2023 Autumn Playoffs","Round 3","DMG Esports Finland","Epic Avalanche","LLL","r","dom","S"],["2024-03-28","NLC 2nd Division 2024 Spring Playoffs","Round 1","BlueWhites","Fourth Wall","LLL","","dom","S"],["2024-04-02","NLC 2nd Division 2024 Spring Playoffs","Round 1","BlueWhites","KAOS e-sport","WWLW","","dom","S"],["2024-04-05","NLC 2nd Division 2024 Spring Playoffs","Round 2","BlueWhites","Garden Gaming","LLWWW","","dom","S"],["2024-04-09","NLC 2nd Division 2024 Spring Playoffs","Round 3","BlueWhites","Fourth Wall","LLWWW","","dom","S"],["2024-04-12","NLC 2nd Division 2024 Spring Playoffs","Final","BlueWhites","Rich Gang (Norwegian Team)","LWWLW","","dom","S"],["2024-09-09","NLC 2025 Promotion","Round 2","BlueWhites","Rich Gang (Norwegian Team)","LLWL","","dom","S"],["2024-09-13","NLC 2025 Promotion","Round 2","BlueWhites","42 Gaming","LWWW","","dom","S"],["2024-09-16","NLC 2025 Promotion","Final","BlueWhites","Rich Gang (Norwegian Team)","WWLLL","","dom","S"],["2024-10-17","NLC 2025 Last Chance Qualifier","Round 1","BlueWhites","Ruzeh Esports","LWLWW","","dom","S"],["2024-10-22","NLC 2025 Last Chance Qualifier","Round 2","BlueWhites","UniQ Esports Club","WLLL","","dom","S"],["2024-10-30","NLC 2025 Last Chance Qualifier","Round 2","BlueWhites","Garden Gaming","LLL","","dom","S"],["2025-03-09","Finnish Pro League 2025 Winter Playoffs","Round 1","BlueWhites","Huutis Gaming","WWW","r","dom","S"],["2025-09-02","Finnhouse Cup 2025","Semifinal","BlueWhites","Bastu Five","LLL","r","dom","S"],["2025-09-14","Finnish Pro League 2025 Summer Playoffs","Round 2","BlueWhites","Bastu Five","LLL","r","dom","S"],["2026-03-12","Finnish Pro League 2026 Winter Playoffs","Round 1","BlueWhites","ETM","WWW","r","dom","S"],["2026-03-26","Finnish Pro League 2026 Winter Playoffs","Round 3","BlueWhites","Bastu Five","WWW","r","dom","S"],["2026-03-28","Finnish Pro League 2026 Winter Playoffs","Grand Final","BlueWhites","Epic Avalanche","WWW","r","dom","S"]],"unknown":[["2021-12-08","Leagues.gg Winter Showdown Finland 2021 Playoffs","Round 3","Epic Avalanche","ENHANCED","3-1","","dom","S"],["2022-04-18","Finnish Community Cup Spring - 22","Semifinal","Epic Avalanche","BlueWhites","1-3","","dom",""],["2023-11-02","Finnish Pro League 2023 Autumn Playoffs","Round 3","DMG Esports Finland","RoundsGG","1-3","","dom","S"],["2025-03-20","Finnish Pro League 2025 Winter Playoffs","Round 3","BlueWhites","Bastu Five","3-1","","dom","S"],["2025-03-30","Finnish Pro League 2025 Winter Playoffs","Grand Final","BlueWhites","Bastu Five","3-1","","dom","S"],["2025-08-31","Finnish Pro League 2025 Summer Playoffs","Round 1","BlueWhites","Epic Avalanche","1-3","","dom","S"],["2025-09-04","Finnish Pro League 2025 Summer Playoffs","Round 1","BlueWhites","ROUNDS","3-2","","dom","S"],["2026-03-05","Finnish Pro League 2026 Winter Playoffs","Round 1","BlueWhites","Bastu Five","1-3","","dom","S"],["2026-03-22","Finnish Pro League 2026 Winter Playoffs","Round 2","BlueWhites","Rich Gang Finland","3-2","","dom","S"],["2026-08-23","Finnish Pro League 2026 Summer Playoffs","Round 1","BlueWhites","Rich Gang Finland","1-3","","dom","S"],["2026-08-30","Finnish Pro League 2026 Summer Playoffs","Round 1","BlueWhites","Bastu Five","2-3","","dom","S"]]}
+{
+  "player": "yones",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2021-12-11","Leagues.gg Winter Showdown Finland 2021 Playoffs","Round 4","Epic Avalanche","NYYRIKKI Academy","WWW","r","dom","S"],
+    ["2021-12-12","Leagues.gg Winter Showdown Finland 2021 Playoffs","Grand Final","Epic Avalanche","Team PHZ","LLL","r","dom","S"],
+    ["2022-04-11","Finnish Community Cup Spring - 22","Quarterfinal","Epic Avalanche","SIC Esports","WWW","r","dom",""],
+    ["2023-08-17","NLC 2nd Division 2023 Summer Playoffs","Round 1","BlueWhites","Lundqvist Lightside","WLWLL","","dom","S"],
+    ["2023-10-20","Finnish Pro League 2023 Autumn Playoffs","Round 1","DMG Esports Finland","Erasion Gaming","WWW","r","dom","S"],
+    ["2023-10-26","Finnish Pro League 2023 Autumn Playoffs","Round 3","DMG Esports Finland","Epic Avalanche","LLL","r","dom","S"],
+    ["2024-03-28","NLC 2nd Division 2024 Spring Playoffs","Round 1","BlueWhites","Fourth Wall","LLL","","dom","S"],
+    ["2024-04-02","NLC 2nd Division 2024 Spring Playoffs","Round 1","BlueWhites","KAOS e-sport","WWLW","","dom","S"],
+    ["2024-04-05","NLC 2nd Division 2024 Spring Playoffs","Round 2","BlueWhites","Garden Gaming","LLWWW","","dom","S"],
+    ["2024-04-09","NLC 2nd Division 2024 Spring Playoffs","Round 3","BlueWhites","Fourth Wall","LLWWW","","dom","S"],
+    ["2024-04-12","NLC 2nd Division 2024 Spring Playoffs","Final","BlueWhites","Rich Gang (Norwegian Team)","LWWLW","","dom","S"],
+    ["2024-09-09","NLC 2025 Promotion","Round 2","BlueWhites","Rich Gang (Norwegian Team)","LLWL","","dom","S"],
+    ["2024-09-13","NLC 2025 Promotion","Round 2","BlueWhites","42 Gaming","LWWW","","dom","S"],
+    ["2024-09-16","NLC 2025 Promotion","Final","BlueWhites","Rich Gang (Norwegian Team)","WWLLL","","dom","S"],
+    ["2024-10-17","NLC 2025 Last Chance Qualifier","Round 1","BlueWhites","Ruzeh Esports","LWLWW","","dom","S"],
+    ["2024-10-22","NLC 2025 Last Chance Qualifier","Round 2","BlueWhites","UniQ Esports Club","WLLL","","dom","S"],
+    ["2024-10-30","NLC 2025 Last Chance Qualifier","Round 2","BlueWhites","Garden Gaming","LLL","","dom","S"],
+    ["2025-03-09","Finnish Pro League 2025 Winter Playoffs","Round 1","BlueWhites","Huutis Gaming","WWW","r","dom","S"],
+    ["2025-09-02","Finnhouse Cup 2025","Semifinal","BlueWhites","Bastu Five","LLL","r","dom","S"],
+    ["2025-09-14","Finnish Pro League 2025 Summer Playoffs","Round 2","BlueWhites","Bastu Five","LLL","r","dom","S"],
+    ["2026-03-12","Finnish Pro League 2026 Winter Playoffs","Round 1","BlueWhites","ETM","WWW","r","dom","S"],
+    ["2026-03-26","Finnish Pro League 2026 Winter Playoffs","Round 3","BlueWhites","Bastu Five","WWW","r","dom","S"],
+    ["2026-03-28","Finnish Pro League 2026 Winter Playoffs","Grand Final","BlueWhites","Epic Avalanche","WWW","r","dom","S"]
+  ],
+  "unknown": [
+    ["2021-12-08","Leagues.gg Winter Showdown Finland 2021 Playoffs","Round 3","Epic Avalanche","ENHANCED","3-1","","dom","S"],
+    ["2022-04-18","Finnish Community Cup Spring - 22","Semifinal","Epic Avalanche","BlueWhites","1-3","","dom",""],
+    ["2023-11-02","Finnish Pro League 2023 Autumn Playoffs","Round 3","DMG Esports Finland","RoundsGG","1-3","","dom","S"],
+    ["2025-03-20","Finnish Pro League 2025 Winter Playoffs","Round 3","BlueWhites","Bastu Five","3-1","","dom","S"],
+    ["2025-03-30","Finnish Pro League 2025 Winter Playoffs","Grand Final","BlueWhites","Bastu Five","3-1","","dom","S"],
+    ["2025-08-31","Finnish Pro League 2025 Summer Playoffs","Round 1","BlueWhites","Epic Avalanche","1-3","","dom","S"],
+    ["2025-09-04","Finnish Pro League 2025 Summer Playoffs","Round 1","BlueWhites","ROUNDS","3-2","","dom","S"],
+    ["2026-03-05","Finnish Pro League 2026 Winter Playoffs","Round 1","BlueWhites","Bastu Five","1-3","","dom","S"],
+    ["2026-03-22","Finnish Pro League 2026 Winter Playoffs","Round 2","BlueWhites","Rich Gang Finland","3-2","","dom","S"],
+    ["2026-08-23","Finnish Pro League 2026 Summer Playoffs","Round 1","BlueWhites","Rich Gang Finland","1-3","","dom","S"],
+    ["2026-08-30","Finnish Pro League 2026 Summer Playoffs","Round 1","BlueWhites","Bastu Five","2-3","","dom","S"]
+  ]
+}

@@ -1,1 +1,28 @@
-{"player":"frosty (José Eduardo)","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2024-08-04","CBLOL 2024 Split 2 Playoffs","Round 1","RED Canids","Fluxo","WWW","","dom","P"],["2024-08-11","CBLOL 2024 Split 2 Playoffs","Round 2","RED Canids","Vivo Keyd Stars","LLWL","","dom","P"],["2024-08-23","CBLOL 2024 Split 2 Playoffs","Round 3","RED Canids","LOUD","WWW","","dom","P"],["2024-08-24","CBLOL 2024 Split 2 Playoffs","Round 4","RED Canids","Vivo Keyd Stars","LLWWL","","dom","P"],["2025-06-01","LTA South 2025 Split 2 Playoffs","Round 1","RED Canids","Vivo Keyd Stars","WLLL","","dom","P"],["2025-08-17","LTA South 2025 Split 3","Round 2","RED Canids","paiN Gaming","LWLL","","dom","P"],["2025-08-29","LTA South 2025 Split 3","Round 2","RED Canids","Leviatan","WLWW","","dom","P"],["2025-09-05","LTA South 2025 Split 3","Round 3","RED Canids","LOUD","LWLWW","","dom","P"],["2025-09-06","LTA South 2025 Split 3","Round 4","RED Canids","paiN Gaming","WWW","","dom","P"],["2025-09-07","LTA South 2025 Split 3","Final","RED Canids","Vivo Keyd Stars","LLL","","dom","P"],["2025-09-14","LTA 2025 Regional Championship","Round 1","RED Canids","Shopify Rebellion","LWWLW","","dom","P"],["2025-09-21","LTA 2025 Regional Championship","Round 2","RED Canids","100 Thieves","LLL","","dom","P"],["2026-02-21","CBLOL 2026 Cup","Round 4","RED Canids","LOUD","WLLL","","dom","P"],["2026-02-28","CBLOL 2026 Cup","Round 4","RED Canids","FURIA","WWLW","","dom","P"],["2026-03-01","CBLOL 2026 Cup","Final","RED Canids","LOUD","LLL","","dom","P"],["2026-03-05","Americas Cup 2026","Round 1","RED Canids","Cloud9","LLWWL","","dom","S"],["2026-05-16","CBLOL 2026 Split 1 Playoffs","Round 2","RED Canids","Fluxo W7M","LWWW","","dom","P"],["2026-05-24","CBLOL 2026 Split 1 Playoffs","Round 4","RED Canids","FURIA","LLL","","dom","P"],["2026-05-31","CBLOL 2026 Split 1 Playoffs","Round 4","RED Canids","LØS","LLL","","dom","P"],["2026-06-14","Esports World Cup 2026 Online Qualifiers South America","Final","RED Canids","LØS","LLL","","intl","P"]],"unknown":[]}
+{
+  "player": "frosty (José Eduardo)",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2024-08-04","CBLOL 2024 Split 2 Playoffs","Round 1","RED Canids","Fluxo","WWW","","dom","P"],
+    ["2024-08-11","CBLOL 2024 Split 2 Playoffs","Round 2","RED Canids","Vivo Keyd Stars","LLWL","","dom","P"],
+    ["2024-08-23","CBLOL 2024 Split 2 Playoffs","Round 3","RED Canids","LOUD","WWW","","dom","P"],
+    ["2024-08-24","CBLOL 2024 Split 2 Playoffs","Round 4","RED Canids","Vivo Keyd Stars","LLWWL","","dom","P"],
+    ["2025-06-01","LTA South 2025 Split 2 Playoffs","Round 1","RED Canids","Vivo Keyd Stars","WLLL","","dom","P"],
+    ["2025-08-17","LTA South 2025 Split 3","Round 2","RED Canids","paiN Gaming","LWLL","","dom","P"],
+    ["2025-08-29","LTA South 2025 Split 3","Round 2","RED Canids","Leviatan","WLWW","","dom","P"],
+    ["2025-09-05","LTA South 2025 Split 3","Round 3","RED Canids","LOUD","LWLWW","","dom","P"],
+    ["2025-09-06","LTA South 2025 Split 3","Round 4","RED Canids","paiN Gaming","WWW","","dom","P"],
+    ["2025-09-07","LTA South 2025 Split 3","Final","RED Canids","Vivo Keyd Stars","LLL","","dom","P"],
+    ["2025-09-14","LTA 2025 Regional Championship","Round 1","RED Canids","Shopify Rebellion","LWWLW","","dom","P"],
+    ["2025-09-21","LTA 2025 Regional Championship","Round 2","RED Canids","100 Thieves","LLL","","dom","P"],
+    ["2026-02-21","CBLOL 2026 Cup","Round 4","RED Canids","LOUD","WLLL","","dom","P"],
+    ["2026-02-28","CBLOL 2026 Cup","Round 4","RED Canids","FURIA","WWLW","","dom","P"],
+    ["2026-03-01","CBLOL 2026 Cup","Final","RED Canids","LOUD","LLL","","dom","P"],
+    ["2026-03-05","Americas Cup 2026","Round 1","RED Canids","Cloud9","LLWWL","","dom","S"],
+    ["2026-05-16","CBLOL 2026 Split 1 Playoffs","Round 2","RED Canids","Fluxo W7M","LWWW","","dom","P"],
+    ["2026-05-24","CBLOL 2026 Split 1 Playoffs","Round 4","RED Canids","FURIA","LLL","","dom","P"],
+    ["2026-05-31","CBLOL 2026 Split 1 Playoffs","Round 4","RED Canids","LØS","LLL","","dom","P"],
+    ["2026-06-14","Esports World Cup 2026 Online Qualifiers South America","Final","RED Canids","LØS","LLL","","intl","P"]
+  ],
+  "unknown": []
+}

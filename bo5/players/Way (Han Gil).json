@@ -1,1 +1,30 @@
-{"player":"Way (Han Gil)","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2022-03-22","LCK CL 2022 Spring Playoffs","Quarterfinal","KT Rolster Challengers","Kwangdong Freecs Challengers","WWLW","","dom","S"],["2022-03-29","LCK CL 2022 Spring Playoffs","Semifinal","KT Rolster Challengers","DWG KIA Challengers","WLWLL","p","dom","S"],["2023-03-28","LCK CL 2023 Spring Playoffs","Round 2","KT Rolster Challengers","Dplus Kia Challengers","WWLW","","dom","S"],["2023-04-03","LCK CL 2023 Spring Playoffs","Round 3","KT Rolster Challengers","DRX Challengers","WWLLL","p","dom","S"],["2023-04-06","LCK CL 2023 Spring Playoffs","Round 3","KT Rolster Challengers","Dplus Kia Challengers","LLL","","dom","S"],["2023-08-07","LCK CL 2023 Summer Playoffs","Round 1","KT Rolster Challengers","DRX Challengers","LLWL","","dom","S"],["2024-04-01","LCK CL 2024 Spring Playoffs","Round 2","KT Rolster Challengers","Nongshim Esports Academy","WLWW","","dom","S"],["2024-04-08","LCK CL 2024 Spring Playoffs","Round 3","KT Rolster Challengers","Dplus Kia Challengers","WLWLL","","dom","S"],["2024-04-11","LCK CL 2024 Spring Playoffs","Round 3","KT Rolster Challengers","Nongshim Esports Academy","WWW","","dom","S"],["2024-04-12","LCK CL 2024 Spring Playoffs","Final","KT Rolster Challengers","Dplus Kia Challengers","WWLW","","dom","S"],["2024-08-26","LCK CL 2024 Summer Playoffs","Round 2","KT Rolster Challengers","T1 Esports Academy","WWW","","dom","S"],["2024-09-02","LCK CL 2024 Summer Playoffs","Round 3","KT Rolster Challengers","Kwangdong Freecs Challengers","LWWW","","dom","S"],["2024-09-06","LCK CL 2024 Summer Playoffs","Final","KT Rolster Challengers","Dplus Kia Challengers","WWLW","","dom","S"],["2024-09-18","Asia Star Challengers Invitational 2024","Round 1","KT Rolster Challengers","Dplus Kia Challengers","LWWW","r","dom","S"],["2024-09-19","Asia Star Challengers Invitational 2024","Round 2","KT Rolster Challengers","Kwangdong Freecs Challengers","WWW","r","dom","S"],["2024-09-22","Asia Star Challengers Invitational 2024","Final","KT Rolster Challengers","Kwangdong Freecs Challengers","WWW","r","dom","S"],["2025-02-12","LCK 2025 Cup","Playoffs Round 1","KT Rolster","Nongshim RedForce","LLL","","dom","P"],["2025-09-22","LCK CL 2025 Playoffs","Round 2","KT Rolster Challengers","DN Freecs Challengers","WWLW","","dom","S"],["2025-09-25","LCK CL 2025 Playoffs","Round 4","KT Rolster Challengers","T1 Esports Academy","LWLWW","","dom","S"],["2025-09-30","LCK CL 2025 Playoffs","Final","KT Rolster Challengers","BNK FEARX Youth","LWLL","","dom","S"],["2026-02-19","TCL 2026 Kickoff","Round 4","Misa Esports","S2G Esports","WLWW","","dom","S"],["2026-03-06","TCL 2026 Kickoff","Final","Misa Esports","S2G Esports","WWW","","dom","S"]],"unknown":[]}
+{
+  "player": "Way (Han Gil)",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2022-03-22","LCK CL 2022 Spring Playoffs","Quarterfinal","KT Rolster Challengers","Kwangdong Freecs Challengers","WWLW","","dom","S"],
+    ["2022-03-29","LCK CL 2022 Spring Playoffs","Semifinal","KT Rolster Challengers","DWG KIA Challengers","WLWLL","p","dom","S"],
+    ["2023-03-28","LCK CL 2023 Spring Playoffs","Round 2","KT Rolster Challengers","Dplus Kia Challengers","WWLW","","dom","S"],
+    ["2023-04-03","LCK CL 2023 Spring Playoffs","Round 3","KT Rolster Challengers","DRX Challengers","WWLLL","p","dom","S"],
+    ["2023-04-06","LCK CL 2023 Spring Playoffs","Round 3","KT Rolster Challengers","Dplus Kia Challengers","LLL","","dom","S"],
+    ["2023-08-07","LCK CL 2023 Summer Playoffs","Round 1","KT Rolster Challengers","DRX Challengers","LLWL","","dom","S"],
+    ["2024-04-01","LCK CL 2024 Spring Playoffs","Round 2","KT Rolster Challengers","Nongshim Esports Academy","WLWW","","dom","S"],
+    ["2024-04-08","LCK CL 2024 Spring Playoffs","Round 3","KT Rolster Challengers","Dplus Kia Challengers","WLWLL","","dom","S"],
+    ["2024-04-11","LCK CL 2024 Spring Playoffs","Round 3","KT Rolster Challengers","Nongshim Esports Academy","WWW","","dom","S"],
+    ["2024-04-12","LCK CL 2024 Spring Playoffs","Final","KT Rolster Challengers","Dplus Kia Challengers","WWLW","","dom","S"],
+    ["2024-08-26","LCK CL 2024 Summer Playoffs","Round 2","KT Rolster Challengers","T1 Esports Academy","WWW","","dom","S"],
+    ["2024-09-02","LCK CL 2024 Summer Playoffs","Round 3","KT Rolster Challengers","Kwangdong Freecs Challengers","LWWW","","dom","S"],
+    ["2024-09-06","LCK CL 2024 Summer Playoffs","Final","KT Rolster Challengers","Dplus Kia Challengers","WWLW","","dom","S"],
+    ["2024-09-18","Asia Star Challengers Invitational 2024","Round 1","KT Rolster Challengers","Dplus Kia Challengers","LWWW","r","dom","S"],
+    ["2024-09-19","Asia Star Challengers Invitational 2024","Round 2","KT Rolster Challengers","Kwangdong Freecs Challengers","WWW","r","dom","S"],
+    ["2024-09-22","Asia Star Challengers Invitational 2024","Final","KT Rolster Challengers","Kwangdong Freecs Challengers","WWW","r","dom","S"],
+    ["2025-02-12","LCK 2025 Cup","Playoffs Round 1","KT Rolster","Nongshim RedForce","LLL","","dom","P"],
+    ["2025-09-22","LCK CL 2025 Playoffs","Round 2","KT Rolster Challengers","DN Freecs Challengers","WWLW","","dom","S"],
+    ["2025-09-25","LCK CL 2025 Playoffs","Round 4","KT Rolster Challengers","T1 Esports Academy","LWLWW","","dom","S"],
+    ["2025-09-30","LCK CL 2025 Playoffs","Final","KT Rolster Challengers","BNK FEARX Youth","LWLL","","dom","S"],
+    ["2026-02-19","TCL 2026 Kickoff","Round 4","Misa Esports","S2G Esports","WLWW","","dom","S"],
+    ["2026-03-06","TCL 2026 Kickoff","Final","Misa Esports","S2G Esports","WWW","","dom","S"]
+  ],
+  "unknown": []
+}

@@ -1,1 +1,40 @@
-{"player":"Crow (Luca Nucci)","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2021-12-10","Esports Balkan League 2022 Spring Qualification","Round 1","SOVEJA","Auxesis Esports","LWLL","r","dom","S"],["2021-12-12","Esports Balkan League 2022 Spring Qualification","Round 2","SOVEJA","Spiritual Zero","WLWW","r","dom","S"],["2022-03-08","Greek Legends League 2022 Spring Playoffs","Round 1","Hive Athens EC","Anorthosis Famagusta Esports","WWW","","dom","S"],["2022-03-14","Greek Legends League 2022 Spring Playoffs","Semifinal","Hive Athens EC","Team Phantasma","LLL","","dom","S"],["2022-04-28","NLC 2nd Division 2022 Summer Promotion","Round 1","Verdant","Typical Boosted Animals","LWLL","","dom","S"],["2022-05-05","NLC 2nd Division 2022 Summer Promotion","Round 1","Verdant","AaB Esport","WLWW","","dom","S"],["2022-05-06","NLC 2nd Division 2022 Summer Promotion","Round 2","Verdant","Guarp Gaming","LLL","","dom","S"],["2022-09-12","Elite Series 2023 Promotion","Elimination Round","Ion Squad","ZennIT","WWW","","dom","S"],["2022-09-19","Elite Series 2023 Promotion","Qualification Round","Ion Squad","Northern Lions Esports","LWLL","","dom","S"],["2023-04-09","NLC 2nd Division 2023 Spring Playoffs","Round 2","Venomcrest Esports","Fourth Wall","LLL","r","dom","S"],["2023-08-13","NLC 3rd Division 2023 Summer Playoffs","Grand Final","Jlingz Esports","Verdant Bloom","WWW","r","dom","S"],["2023-08-17","NLC 2nd Division 2024 Spring Promotion","Round 1","Jlingz Esports","Invulnerables Esports","WWW","","dom","S"],["2023-08-19","NLC 2nd Division 2024 Spring Promotion","Round 2","Jlingz Esports","Gran Turismo","LWLWW","","dom","S"],["2023-10-25","Aurora Cup 2023 Main Event","Quarterfinal","Jlingz Esports","Nativz","WWW","","dom","S"],["2023-11-06","Aurora Cup 2023 Main Event","Semifinal","Jlingz Esports","Verdant","LWLL","","dom","S"],["2024-07-11","Hitpoint 2nd Division Challengers 2024 Summer Playoffs","Round 1","Maverix","Delta Syndicate","LLL","","dom","S"],["2024-07-25","Hitpoint Masters 2025 Promotion","Round 1","Maverix","Esport STUBA","LWWW","","dom","S"],["2024-07-29","Hitpoint Masters 2025 Promotion","Round 2","Maverix","Delta Syndicate","WWW","","dom","S"],["2024-07-30","Hitpoint Masters 2025 Promotion","Grand Final","Maverix","eSuba","LWLL","","dom","S"],["2024-10-28","NLC 2025 Last Chance Qualifier","Round 1","Ruzeh Esports","Garden Gaming","LWLWL","","dom","S"],["2025-03-09","Finnish Pro League 2025 Winter Playoffs","Round 1","BlueWhites","Huutis Gaming","WWW","r","dom","S"],["2025-05-13","TransIP Road Of Legends 2025 Spring Playoffs","Round 1","Myth Esports","Senshi eSports (Benelux Team)","WWW","","dom","S"],["2025-05-15","TransIP Road Of Legends 2025 Spring Playoffs","Round 2","Myth Esports","A One Man Army","WLLL","","dom","S"],["2025-09-02","Finnhouse Cup 2025","Semifinal","BlueWhites","Bastu Five","LLL","r","dom","S"],["2025-09-14","Finnish Pro League 2025 Summer Playoffs","Round 2","BlueWhites","Bastu Five","LLL","r","dom","S"]],"unknown":[["2023-03-26","NLC 2nd Division 2023 Spring Playoffs","Round 1","Venomcrest Esports","THUNDR Esports","2-3","","dom","S"],["2023-04-02","NLC 2nd Division 2023 Spring Playoffs","Round 1","Venomcrest Esports","Espergærde eSport","3-1","","dom","S"],["2025-03-20","Finnish Pro League 2025 Winter Playoffs","Round 3","BlueWhites","Bastu Five","3-1","","dom","S"],["2025-03-30","Finnish Pro League 2025 Winter Playoffs","Grand Final","BlueWhites","Bastu Five","3-1","","dom","S"],["2025-08-31","Finnish Pro League 2025 Summer Playoffs","Round 1","BlueWhites","Epic Avalanche","1-3","","dom","S"],["2025-09-04","Finnish Pro League 2025 Summer Playoffs","Round 1","BlueWhites","ROUNDS","3-2","","dom","S"]]}
+{
+  "player": "Crow (Luca Nucci)",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2021-12-10","Esports Balkan League 2022 Spring Qualification","Round 1","SOVEJA","Auxesis Esports","LWLL","r","dom","S"],
+    ["2021-12-12","Esports Balkan League 2022 Spring Qualification","Round 2","SOVEJA","Spiritual Zero","WLWW","r","dom","S"],
+    ["2022-03-08","Greek Legends League 2022 Spring Playoffs","Round 1","Hive Athens EC","Anorthosis Famagusta Esports","WWW","","dom","S"],
+    ["2022-03-14","Greek Legends League 2022 Spring Playoffs","Semifinal","Hive Athens EC","Team Phantasma","LLL","","dom","S"],
+    ["2022-04-28","NLC 2nd Division 2022 Summer Promotion","Round 1","Verdant","Typical Boosted Animals","LWLL","","dom","S"],
+    ["2022-05-05","NLC 2nd Division 2022 Summer Promotion","Round 1","Verdant","AaB Esport","WLWW","","dom","S"],
+    ["2022-05-06","NLC 2nd Division 2022 Summer Promotion","Round 2","Verdant","Guarp Gaming","LLL","","dom","S"],
+    ["2022-09-12","Elite Series 2023 Promotion","Elimination Round","Ion Squad","ZennIT","WWW","","dom","S"],
+    ["2022-09-19","Elite Series 2023 Promotion","Qualification Round","Ion Squad","Northern Lions Esports","LWLL","","dom","S"],
+    ["2023-04-09","NLC 2nd Division 2023 Spring Playoffs","Round 2","Venomcrest Esports","Fourth Wall","LLL","r","dom","S"],
+    ["2023-08-13","NLC 3rd Division 2023 Summer Playoffs","Grand Final","Jlingz Esports","Verdant Bloom","WWW","r","dom","S"],
+    ["2023-08-17","NLC 2nd Division 2024 Spring Promotion","Round 1","Jlingz Esports","Invulnerables Esports","WWW","","dom","S"],
+    ["2023-08-19","NLC 2nd Division 2024 Spring Promotion","Round 2","Jlingz Esports","Gran Turismo","LWLWW","","dom","S"],
+    ["2023-10-25","Aurora Cup 2023 Main Event","Quarterfinal","Jlingz Esports","Nativz","WWW","","dom","S"],
+    ["2023-11-06","Aurora Cup 2023 Main Event","Semifinal","Jlingz Esports","Verdant","LWLL","","dom","S"],
+    ["2024-07-11","Hitpoint 2nd Division Challengers 2024 Summer Playoffs","Round 1","Maverix","Delta Syndicate","LLL","","dom","S"],
+    ["2024-07-25","Hitpoint Masters 2025 Promotion","Round 1","Maverix","Esport STUBA","LWWW","","dom","S"],
+    ["2024-07-29","Hitpoint Masters 2025 Promotion","Round 2","Maverix","Delta Syndicate","WWW","","dom","S"],
+    ["2024-07-30","Hitpoint Masters 2025 Promotion","Grand Final","Maverix","eSuba","LWLL","","dom","S"],
+    ["2024-10-28","NLC 2025 Last Chance Qualifier","Round 1","Ruzeh Esports","Garden Gaming","LWLWL","","dom","S"],
+    ["2025-03-09","Finnish Pro League 2025 Winter Playoffs","Round 1","BlueWhites","Huutis Gaming","WWW","r","dom","S"],
+    ["2025-05-13","TransIP Road Of Legends 2025 Spring Playoffs","Round 1","Myth Esports","Senshi eSports (Benelux Team)","WWW","","dom","S"],
+    ["2025-05-15","TransIP Road Of Legends 2025 Spring Playoffs","Round 2","Myth Esports","A One Man Army","WLLL","","dom","S"],
+    ["2025-09-02","Finnhouse Cup 2025","Semifinal","BlueWhites","Bastu Five","LLL","r","dom","S"],
+    ["2025-09-14","Finnish Pro League 2025 Summer Playoffs","Round 2","BlueWhites","Bastu Five","LLL","r","dom","S"]
+  ],
+  "unknown": [
+    ["2023-03-26","NLC 2nd Division 2023 Spring Playoffs","Round 1","Venomcrest Esports","THUNDR Esports","2-3","","dom","S"],
+    ["2023-04-02","NLC 2nd Division 2023 Spring Playoffs","Round 1","Venomcrest Esports","Espergærde eSport","3-1","","dom","S"],
+    ["2025-03-20","Finnish Pro League 2025 Winter Playoffs","Round 3","BlueWhites","Bastu Five","3-1","","dom","S"],
+    ["2025-03-30","Finnish Pro League 2025 Winter Playoffs","Grand Final","BlueWhites","Bastu Five","3-1","","dom","S"],
+    ["2025-08-31","Finnish Pro League 2025 Summer Playoffs","Round 1","BlueWhites","Epic Avalanche","1-3","","dom","S"],
+    ["2025-09-04","Finnish Pro League 2025 Summer Playoffs","Round 1","BlueWhites","ROUNDS","3-2","","dom","S"]
+  ]
+}

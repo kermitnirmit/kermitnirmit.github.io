@@ -1,1 +1,28 @@
-{"player":"Wildenbruch","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2022-11-14","Prime League 2nd Division 2023 Spring Promotion 2","Round 2","Team Omniscius H","All for One Gaming","WWLW","","dom","S"],["2022-11-18","Prime League 2nd Division 2023 Spring Promotion 2","Round 3","Team Omniscius H","EPIC-DUDES","LLWL","","dom","S"],["2023-07-08","University Esports Masters 2023 Playoffs","Grand Finals","Dr. Buhmann Akademie","AIX eSports Schwer","WWW","","dom","S"],["2023-08-01","Prime League 2nd Division 2023 Summer Playoffs","Round 1","HNVR Esports","TeamOrangeGaming","WLLWL","","dom","S"],["2024-03-19","Prime League 2nd Division 2024 Spring Playoffs","Round 1","ROSSMANN Centaurs","DKB XPERION NXT","LLWWW","","dom","S"],["2024-03-28","Prime League 2nd Division 2024 Spring Playoffs","Round 2","ROSSMANN Centaurs","Kaufland Hangry Knights","LWLL","","dom","S"],["2024-07-08","Prime League 2nd Division 2024 Summer Playoffs","Round 1","ROSSMANN Centaurs","TeamOrangeGaming","WWLW","","dom","S"],["2024-07-18","Prime League 2nd Division 2024 Summer Playoffs","Round 2","ROSSMANN Centaurs","Spinebusters E-Sport","LLL","","dom","S"],["2025-05-21","Prime League 1st Division 2025 Spring Playoffs","Quarterfinal","ROSSMANN Centaurs","TeamOrangeGaming","WWW","","dom","S"],["2025-05-28","Prime League 1st Division 2025 Spring Playoffs","Semifinal","ROSSMANN Centaurs","Berlin International Gaming","LWLL","","dom","S"],["2025-05-29","Prime League 1st Division 2025 Spring Playoffs","Third-Place Match","ROSSMANN Centaurs","Kaufland Hangry Knights","LWWLL","","dom","S"],["2025-08-12","Prime League 1st Division 2025 Season Finals","Round 1","ROSSMANN Centaurs","Kaufland Hangry Knights","WWLW","","dom","S"],["2025-08-15","Prime League 1st Division 2025 Season Finals","Round 2","ROSSMANN Centaurs","Unicorns of Love Sexy Edition","WWLW","","dom","S"],["2025-08-19","Prime League 1st Division 2025 Season Finals","Semifinal","ROSSMANN Centaurs","TeamOrangeGaming","LLWWL","","dom","S"],["2025-10-12","EMEA Masters 2025 Summer Main Event","Round of 16","ROSSMANN Centaurs","Gentle Mates","WLWW","","dom","S"],["2025-10-17","EMEA Masters 2025 Summer Main Event","Quarterfinal","ROSSMANN Centaurs","Team Heretics Academy","LWLL","","dom","S"],["2026-02-03","Comedy Central Winter Snowdown","Semifinal","E WIE EINFACH E-SPORTS","G2 NORD","LLL","","dom","S"],["2026-05-20","Prime League 1st Division 2026 Spring Playoffs","Quarterfinal","E WIE EINFACH E-SPORTS","TeamOrangeGaming","WLWW","","dom","S"],["2026-05-26","Prime League 1st Division 2026 Spring Playoffs","Semifinal","E WIE EINFACH E-SPORTS","Eintracht Spandau","LLL","","dom","S"],["2026-05-28","Prime League 1st Division 2026 Spring Playoffs","Third-Place Match","E WIE EINFACH E-SPORTS","Berlin International Gaming","WLWW","","dom","S"]],"unknown":[]}
+{
+  "player": "Wildenbruch",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2022-11-14","Prime League 2nd Division 2023 Spring Promotion 2","Round 2","Team Omniscius H","All for One Gaming","WWLW","","dom","S"],
+    ["2022-11-18","Prime League 2nd Division 2023 Spring Promotion 2","Round 3","Team Omniscius H","EPIC-DUDES","LLWL","","dom","S"],
+    ["2023-07-08","University Esports Masters 2023 Playoffs","Grand Finals","Dr. Buhmann Akademie","AIX eSports Schwer","WWW","","dom","S"],
+    ["2023-08-01","Prime League 2nd Division 2023 Summer Playoffs","Round 1","HNVR Esports","TeamOrangeGaming","WLLWL","","dom","S"],
+    ["2024-03-19","Prime League 2nd Division 2024 Spring Playoffs","Round 1","ROSSMANN Centaurs","DKB XPERION NXT","LLWWW","","dom","S"],
+    ["2024-03-28","Prime League 2nd Division 2024 Spring Playoffs","Round 2","ROSSMANN Centaurs","Kaufland Hangry Knights","LWLL","","dom","S"],
+    ["2024-07-08","Prime League 2nd Division 2024 Summer Playoffs","Round 1","ROSSMANN Centaurs","TeamOrangeGaming","WWLW","","dom","S"],
+    ["2024-07-18","Prime League 2nd Division 2024 Summer Playoffs","Round 2","ROSSMANN Centaurs","Spinebusters E-Sport","LLL","","dom","S"],
+    ["2025-05-21","Prime League 1st Division 2025 Spring Playoffs","Quarterfinal","ROSSMANN Centaurs","TeamOrangeGaming","WWW","","dom","S"],
+    ["2025-05-28","Prime League 1st Division 2025 Spring Playoffs","Semifinal","ROSSMANN Centaurs","Berlin International Gaming","LWLL","","dom","S"],
+    ["2025-05-29","Prime League 1st Division 2025 Spring Playoffs","Third-Place Match","ROSSMANN Centaurs","Kaufland Hangry Knights","LWWLL","","dom","S"],
+    ["2025-08-12","Prime League 1st Division 2025 Season Finals","Round 1","ROSSMANN Centaurs","Kaufland Hangry Knights","WWLW","","dom","S"],
+    ["2025-08-15","Prime League 1st Division 2025 Season Finals","Round 2","ROSSMANN Centaurs","Unicorns of Love Sexy Edition","WWLW","","dom","S"],
+    ["2025-08-19","Prime League 1st Division 2025 Season Finals","Semifinal","ROSSMANN Centaurs","TeamOrangeGaming","LLWWL","","dom","S"],
+    ["2025-10-12","EMEA Masters 2025 Summer Main Event","Round of 16","ROSSMANN Centaurs","Gentle Mates","WLWW","","dom","S"],
+    ["2025-10-17","EMEA Masters 2025 Summer Main Event","Quarterfinal","ROSSMANN Centaurs","Team Heretics Academy","LWLL","","dom","S"],
+    ["2026-02-03","Comedy Central Winter Snowdown","Semifinal","E WIE EINFACH E-SPORTS","G2 NORD","LLL","","dom","S"],
+    ["2026-05-20","Prime League 1st Division 2026 Spring Playoffs","Quarterfinal","E WIE EINFACH E-SPORTS","TeamOrangeGaming","WLWW","","dom","S"],
+    ["2026-05-26","Prime League 1st Division 2026 Spring Playoffs","Semifinal","E WIE EINFACH E-SPORTS","Eintracht Spandau","LLL","","dom","S"],
+    ["2026-05-28","Prime League 1st Division 2026 Spring Playoffs","Third-Place Match","E WIE EINFACH E-SPORTS","Berlin International Gaming","WLWW","","dom","S"]
+  ],
+  "unknown": []
+}

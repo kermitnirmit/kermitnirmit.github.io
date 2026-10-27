@@ -1,1 +1,43 @@
-{"player":"Boda","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2021-10-02","Intel Arabian Cup Champions League 2021 Last Chance Qualifiers","Semifinal","Team Occupy","QLASH MENA","WWLW","r","dom","P"],["2021-10-03","Intel Arabian Cup Champions League 2021 Last Chance Qualifiers","Final","Team Occupy","The Black Lotus","LWLL","r","dom","P"],["2022-07-03","Intel Arabian Cup Prestige Division 2022 Season 1","Quarterfinal","Lost Esports","Anubis Gaming","LLL","r","dom","P"],["2023-04-12","Arabian League 2023 Summer Promotion","Round 1","Anubis Gaming","Twisted Minds","WLWW","","dom","S"],["2023-04-15","Arabian League 2023 Summer Promotion","Round 2","Anubis Gaming","3BL Esports","WWW","","dom","S"],["2023-08-08","Arabian League 2023 Summer Playoffs","Round 1","Nigma Galaxy Male","Anubis Gaming","LLWL","","dom","S"],["2023-08-10","Arabian League 2023 Summer Playoffs","Semifinal","Nigma Galaxy Male","RA'AD","LWWW","","dom","S"],["2023-08-11","Arabian League 2023 Summer Playoffs","Final","Nigma Galaxy Male","Anubis Gaming","LLWWL","","dom","S"],["2023-12-02","Superdome Cairo 2023","Final","Geekay Esports","FUT Esports","WWLLW","","dom","S"],["2024-03-28","Arabian League 2024 Spring Playoffs","Round 1","Nigma Galaxy Male","Geekay Esports","WLLWW","","dom","S"],["2024-04-05","Arabian League 2024 Spring Playoffs","Final","Nigma Galaxy Male","Geekay Esports","WWW","","dom","S"],["2024-04-23","EMEA Masters 2024 Spring Main Event","Quarterfinal","Nigma Galaxy Male","Eintracht Spandau","WLLL","","dom","S"],["2024-07-09","Arabian League 2024 Summer Playoffs","Round 1","Nigma Galaxy Male","Geekay Esports","LLL","","dom","S"],["2024-07-11","Arabian League 2024 Summer Playoffs","Semifinal","Nigma Galaxy Male","Twisted Minds","WWW","","dom","S"],["2024-07-12","Arabian League 2024 Summer Playoffs","Final","Nigma Galaxy Male","Geekay Esports","LLL","","dom","S"],["2025-03-05","Arabian League 2025 Winter Playoffs","Round 4","Geekay Esports","Anubis Gaming","WWW","","dom","S"],["2025-03-07","Arabian League 2025 Winter Playoffs","Final","Geekay Esports","Anubis Gaming","WWW","","dom","S"],["2025-03-20","EMEA Masters 2025 Winter","Quarterfinal","Geekay Esports","Ici Japon Corp. Esport","LLWL","","dom","S"],["2025-05-21","Arabian League 2025 Spring Playoffs","Round 4","Geekay Esports","Fog Esports","LWWW","","dom","S"],["2025-05-23","Arabian League 2025 Spring Playoffs","Final","Geekay Esports","Fog Esports","WWW","","dom","S"],["2025-08-10","Saudi eLeagues 2025 Season 2","Grand Final","Geekay Esports","XO Esports","LLL","r","dom","S"],["2025-08-17","Arabian League 2025 Summer Split","Semifinal","Geekay Esports","FN Esports","WWW","","dom","S"],["2025-08-19","Arabian League 2025 Summer Split","Final","Geekay Esports","GnG Amazigh","WWW","","dom","S"],["2025-10-11","EMEA Masters 2025 Summer Main Event","Round of 16","Geekay Esports","Veni Vidi Vici (Spanish Team)","WWW","","dom","S"],["2025-10-16","EMEA Masters 2025 Summer Main Event","Quarterfinal","Geekay Esports","Unicorns of Love Sexy Edition","LLWL","","dom","S"],["2026-05-19","Arabian League 2026 Spring Playoffs","Round 2","Anubis Gaming","Baam Esports","WWW","","dom","S"],["2026-05-21","Arabian League 2026 Spring Playoffs","Final","Anubis Gaming","FN Esports","WWW","","dom","S"],["2026-08-26","Prime League 1st Division 2026 Summer Playoffs","Round 1","Kaufland Hangry Knights","Eintracht Spandau","WLWW","","dom","S"],["2026-09-01","Prime League 1st Division 2026 Summer Playoffs","Round 2","Kaufland Hangry Knights","Unicorns of Love Sexy Edition","WLWW","","dom","S"],["2026-09-03","Prime League 1st Division 2026 Summer Playoffs","Round 3","Kaufland Hangry Knights","Berlin International Gaming","WLLL","","dom","S"],["2026-10-07","EMEA Masters 2026 Summer Main Event","Round of 16","Kaufland Hangry Knights","Unicorns of Love Sexy Edition","LWWW","","dom","S"],["2026-10-09","EMEA Masters 2026 Summer Main Event","Quarterfinal","Kaufland Hangry Knights","Galions","LLL","","dom","S"]],"unknown":[["2022-12-23","Red Bull ProSeed 2022","Final","3BL Esports","RA'AD","1-3","","dom","S"],["2025-04-08","Saudi eLeagues 2025 Season 1","Grand Final","Geekay Esports","XO Esports","1-3","","dom","S"]]}
+{
+  "player": "Boda",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2021-10-02","Intel Arabian Cup Champions League 2021 Last Chance Qualifiers","Semifinal","Team Occupy","QLASH MENA","WWLW","r","dom","P"],
+    ["2021-10-03","Intel Arabian Cup Champions League 2021 Last Chance Qualifiers","Final","Team Occupy","The Black Lotus","LWLL","r","dom","P"],
+    ["2022-07-03","Intel Arabian Cup Prestige Division 2022 Season 1","Quarterfinal","Lost Esports","Anubis Gaming","LLL","r","dom","P"],
+    ["2023-04-12","Arabian League 2023 Summer Promotion","Round 1","Anubis Gaming","Twisted Minds","WLWW","","dom","S"],
+    ["2023-04-15","Arabian League 2023 Summer Promotion","Round 2","Anubis Gaming","3BL Esports","WWW","","dom","S"],
+    ["2023-08-08","Arabian League 2023 Summer Playoffs","Round 1","Nigma Galaxy Male","Anubis Gaming","LLWL","","dom","S"],
+    ["2023-08-10","Arabian League 2023 Summer Playoffs","Semifinal","Nigma Galaxy Male","RA'AD","LWWW","","dom","S"],
+    ["2023-08-11","Arabian League 2023 Summer Playoffs","Final","Nigma Galaxy Male","Anubis Gaming","LLWWL","","dom","S"],
+    ["2023-12-02","Superdome Cairo 2023","Final","Geekay Esports","FUT Esports","WWLLW","","dom","S"],
+    ["2024-03-28","Arabian League 2024 Spring Playoffs","Round 1","Nigma Galaxy Male","Geekay Esports","WLLWW","","dom","S"],
+    ["2024-04-05","Arabian League 2024 Spring Playoffs","Final","Nigma Galaxy Male","Geekay Esports","WWW","","dom","S"],
+    ["2024-04-23","EMEA Masters 2024 Spring Main Event","Quarterfinal","Nigma Galaxy Male","Eintracht Spandau","WLLL","","dom","S"],
+    ["2024-07-09","Arabian League 2024 Summer Playoffs","Round 1","Nigma Galaxy Male","Geekay Esports","LLL","","dom","S"],
+    ["2024-07-11","Arabian League 2024 Summer Playoffs","Semifinal","Nigma Galaxy Male","Twisted Minds","WWW","","dom","S"],
+    ["2024-07-12","Arabian League 2024 Summer Playoffs","Final","Nigma Galaxy Male","Geekay Esports","LLL","","dom","S"],
+    ["2025-03-05","Arabian League 2025 Winter Playoffs","Round 4","Geekay Esports","Anubis Gaming","WWW","","dom","S"],
+    ["2025-03-07","Arabian League 2025 Winter Playoffs","Final","Geekay Esports","Anubis Gaming","WWW","","dom","S"],
+    ["2025-03-20","EMEA Masters 2025 Winter","Quarterfinal","Geekay Esports","Ici Japon Corp. Esport","LLWL","","dom","S"],
+    ["2025-05-21","Arabian League 2025 Spring Playoffs","Round 4","Geekay Esports","Fog Esports","LWWW","","dom","S"],
+    ["2025-05-23","Arabian League 2025 Spring Playoffs","Final","Geekay Esports","Fog Esports","WWW","","dom","S"],
+    ["2025-08-10","Saudi eLeagues 2025 Season 2","Grand Final","Geekay Esports","XO Esports","LLL","r","dom","S"],
+    ["2025-08-17","Arabian League 2025 Summer Split","Semifinal","Geekay Esports","FN Esports","WWW","","dom","S"],
+    ["2025-08-19","Arabian League 2025 Summer Split","Final","Geekay Esports","GnG Amazigh","WWW","","dom","S"],
+    ["2025-10-11","EMEA Masters 2025 Summer Main Event","Round of 16","Geekay Esports","Veni Vidi Vici (Spanish Team)","WWW","","dom","S"],
+    ["2025-10-16","EMEA Masters 2025 Summer Main Event","Quarterfinal","Geekay Esports","Unicorns of Love Sexy Edition","LLWL","","dom","S"],
+    ["2026-05-19","Arabian League 2026 Spring Playoffs","Round 2","Anubis Gaming","Baam Esports","WWW","","dom","S"],
+    ["2026-05-21","Arabian League 2026 Spring Playoffs","Final","Anubis Gaming","FN Esports","WWW","","dom","S"],
+    ["2026-08-26","Prime League 1st Division 2026 Summer Playoffs","Round 1","Kaufland Hangry Knights","Eintracht Spandau","WLWW","","dom","S"],
+    ["2026-09-01","Prime League 1st Division 2026 Summer Playoffs","Round 2","Kaufland Hangry Knights","Unicorns of Love Sexy Edition","WLWW","","dom","S"],
+    ["2026-09-03","Prime League 1st Division 2026 Summer Playoffs","Round 3","Kaufland Hangry Knights","Berlin International Gaming","WLLL","","dom","S"],
+    ["2026-10-07","EMEA Masters 2026 Summer Main Event","Round of 16","Kaufland Hangry Knights","Unicorns of Love Sexy Edition","LWWW","","dom","S"],
+    ["2026-10-09","EMEA Masters 2026 Summer Main Event","Quarterfinal","Kaufland Hangry Knights","Galions","LLL","","dom","S"]
+  ],
+  "unknown": [
+    ["2022-12-23","Red Bull ProSeed 2022","Final","3BL Esports","RA'AD","1-3","","dom","S"],
+    ["2025-04-08","Saudi eLeagues 2025 Season 1","Grand Final","Geekay Esports","XO Esports","1-3","","dom","S"]
+  ]
+}

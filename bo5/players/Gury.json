@@ -1,1 +1,33 @@
-{"player":"Gury","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2023-08-12","VCS 2023 Summer Playoffs","Round 1","Saigon Buffalo","Team Flash.Vietnam","LWWW","","dom","P"],["2023-08-19","VCS 2023 Summer Playoffs","Round 2","Saigon Buffalo","GAM Esports","WLLL","","dom","P"],["2023-08-26","VCS 2023 Summer Playoffs","Round 2","Saigon Buffalo","Team Flash.Vietnam","LWWLW","","dom","P"],["2023-09-02","VCS 2023 Summer Playoffs","Round 3","Saigon Buffalo","Team Whales","LWLWL","","dom","P"],["2024-08-09","VCS 2024 Summer Playoffs","Round 2","Vikings Esports (2023 Vietnamese Team)","Team Whales","WWW","","dom","P"],["2024-08-11","VCS 2024 Summer Playoffs","Round 3","Vikings Esports (2023 Vietnamese Team)","GAM Esports","LWLWL","","dom","P"],["2024-08-17","VCS 2024 Summer Playoffs","Round 3","Vikings Esports (2023 Vietnamese Team)","Team Whales","WWW","","dom","P"],["2024-08-18","VCS 2024 Summer Playoffs","Grand Final","Vikings Esports (2023 Vietnamese Team)","GAM Esports","LLL","","dom","P"],["2025-02-21","LCP 2025 Season Kickoff Qualifying Series","Round 3","MGN Vikings Esports","CTBC Flying Oyster","LWLL","","dom","P"],["2025-02-22","LCP 2025 Season Kickoff Qualifying Series","Round 3","MGN Vikings Esports","TALON (Hong Kong Team)","LWLWL","","dom","P"],["2025-09-07","LCP 2025 Season Finals Playoffs","Round 1","MGN Vikings Esports","DetonatioN FocusMe","WWLW","","dom","P"],["2025-09-12","LCP 2025 Season Finals Playoffs","Round 2","MGN Vikings Esports","Team Secret Whales","LWLL","","dom","P"],["2025-10-04","LCP 2026 Promotion","Regional Merit Match","MGN Vikings Esports","Saigon Dino","LWWW","","dom","P"],["2026-05-23","LCP 2026 Split 2 Playoffs","Round 1","MVK Esports","CTBC Flying Oyster","LWLWW","","dom","P"],["2026-05-29","LCP 2026 Split 2 Playoffs","Round 2","MVK Esports","Team Secret Whales","LLL","","dom","P"],["2026-06-05","LCP 2026 Split 2 Playoffs","Round 2","MVK Esports","GAM Esports","LLL","","dom","P"],["2026-08-08","LCP 2026 Split 3","Round 4","MVK Esports","Deep Cross Gaming","LWLWW","","dom","P"],["2026-08-14","LCP 2026 Split 3","Seeding","MVK Esports","CTBC Flying Oyster","WWLLL","","dom","P"],["2026-08-20","LCP 2026 Split 3","Quarterfinal","MVK Esports","CTBC Flying Oyster","LLL","","dom","P"],["2026-08-22","LCP 2026 Split 3","Quarterfinal","MVK Esports","GAM Esports","LWLWW","","dom","P"],["2026-08-29","LCP 2026 Split 3","Semifinal","MVK Esports","CTBC Flying Oyster","LLWL","","dom","P"],["2026-10-15","Worlds 2026","Round 1","MVK Esports","FURIA","WWW","","worlds","P"],["2026-10-16","Worlds 2026","Round 2","MVK Esports","Karmine Corp","LLL","p","worlds","P"],["2026-10-17","Worlds 2026","Round 2","MVK Esports","FURIA","WWLW","","worlds","P"],["2026-10-18","Worlds 2026","Round 3","MVK Esports","Karmine Corp","LLL","","worlds","P"]],"unknown":[]}
+{
+  "player": "Gury",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2023-08-12","VCS 2023 Summer Playoffs","Round 1","Saigon Buffalo","Team Flash.Vietnam","LWWW","","dom","P"],
+    ["2023-08-19","VCS 2023 Summer Playoffs","Round 2","Saigon Buffalo","GAM Esports","WLLL","","dom","P"],
+    ["2023-08-26","VCS 2023 Summer Playoffs","Round 2","Saigon Buffalo","Team Flash.Vietnam","LWWLW","","dom","P"],
+    ["2023-09-02","VCS 2023 Summer Playoffs","Round 3","Saigon Buffalo","Team Whales","LWLWL","","dom","P"],
+    ["2024-08-09","VCS 2024 Summer Playoffs","Round 2","Vikings Esports (2023 Vietnamese Team)","Team Whales","WWW","","dom","P"],
+    ["2024-08-11","VCS 2024 Summer Playoffs","Round 3","Vikings Esports (2023 Vietnamese Team)","GAM Esports","LWLWL","","dom","P"],
+    ["2024-08-17","VCS 2024 Summer Playoffs","Round 3","Vikings Esports (2023 Vietnamese Team)","Team Whales","WWW","","dom","P"],
+    ["2024-08-18","VCS 2024 Summer Playoffs","Grand Final","Vikings Esports (2023 Vietnamese Team)","GAM Esports","LLL","","dom","P"],
+    ["2025-02-21","LCP 2025 Season Kickoff Qualifying Series","Round 3","MGN Vikings Esports","CTBC Flying Oyster","LWLL","","dom","P"],
+    ["2025-02-22","LCP 2025 Season Kickoff Qualifying Series","Round 3","MGN Vikings Esports","TALON (Hong Kong Team)","LWLWL","","dom","P"],
+    ["2025-09-07","LCP 2025 Season Finals Playoffs","Round 1","MGN Vikings Esports","DetonatioN FocusMe","WWLW","","dom","P"],
+    ["2025-09-12","LCP 2025 Season Finals Playoffs","Round 2","MGN Vikings Esports","Team Secret Whales","LWLL","","dom","P"],
+    ["2025-10-04","LCP 2026 Promotion","Regional Merit Match","MGN Vikings Esports","Saigon Dino","LWWW","","dom","P"],
+    ["2026-05-23","LCP 2026 Split 2 Playoffs","Round 1","MVK Esports","CTBC Flying Oyster","LWLWW","","dom","P"],
+    ["2026-05-29","LCP 2026 Split 2 Playoffs","Round 2","MVK Esports","Team Secret Whales","LLL","","dom","P"],
+    ["2026-06-05","LCP 2026 Split 2 Playoffs","Round 2","MVK Esports","GAM Esports","LLL","","dom","P"],
+    ["2026-08-08","LCP 2026 Split 3","Round 4","MVK Esports","Deep Cross Gaming","LWLWW","","dom","P"],
+    ["2026-08-14","LCP 2026 Split 3","Seeding","MVK Esports","CTBC Flying Oyster","WWLLL","","dom","P"],
+    ["2026-08-20","LCP 2026 Split 3","Quarterfinal","MVK Esports","CTBC Flying Oyster","LLL","","dom","P"],
+    ["2026-08-22","LCP 2026 Split 3","Quarterfinal","MVK Esports","GAM Esports","LWLWW","","dom","P"],
+    ["2026-08-29","LCP 2026 Split 3","Semifinal","MVK Esports","CTBC Flying Oyster","LLWL","","dom","P"],
+    ["2026-10-15","Worlds 2026","Round 1","MVK Esports","FURIA","WWW","","worlds","P"],
+    ["2026-10-16","Worlds 2026","Round 2","MVK Esports","Karmine Corp","LLL","p","worlds","P"],
+    ["2026-10-17","Worlds 2026","Round 2","MVK Esports","FURIA","WWLW","","worlds","P"],
+    ["2026-10-18","Worlds 2026","Round 3","MVK Esports","Karmine Corp","LLL","","worlds","P"]
+  ],
+  "unknown": []
+}

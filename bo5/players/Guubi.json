@@ -1,1 +1,34 @@
-{"player":"Guubi","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2019-03-30","League Championship Denmark 2019 Spring Playoffs","Semifinal","Copenhagen Flames","Atlando Esports","WWW","r","dom",""],["2019-06-14","League Championship Denmark 2019 Summer Playoffs","Semifinal","Copenhagen Flames","Atlando Esports","WWW","r","dom",""],["2019-06-15","League Championship Denmark 2019 Summer Playoffs","Final","Copenhagen Flames","Wicked Gaming","LLL","r","dom",""],["2019-06-27","Danish Esports League Season 3 Playoffs","Final","Copenhagen Flames","Ventus Esports","LLL","r","dom",""],["2019-12-07","ESL Vodafone Championship 2019 Winter Playoffs","Final","MOBA ROG","Outplayed","WLWW","","dom","S"],["2020-07-14","PG Nationals 2020 Summer Playoffs","Round 1","Samsung Morning Stars","Racoon (Italian Team)","WLWW","","dom","S"],["2020-07-21","PG Nationals 2020 Summer Playoffs","Semifinal","Samsung Morning Stars","Mkers","WLWW","","dom","S"],["2020-08-02","PG Nationals 2020 Summer Playoffs","Final","Samsung Morning Stars","Racoon (Italian Team)","WLWW","","dom","S"],["2021-03-02","PG Nationals 2021 Spring Playoffs","Round 1","Mkers","Cyberground Gaming","WWLLW","","dom","S"],["2021-03-10","PG Nationals 2021 Spring Playoffs","Semifinal","Mkers","Samsung Morning Stars","WWLLW","","dom","S"],["2021-03-21","PG Nationals 2021 Spring Playoffs","Final","Mkers","Macko Esports","WLLL","","dom","S"],["2021-11-04","Iberian Cup 2021","Quarterfinal","Axolotl","Vodafone Giants.Spain","LLWL","","dom","S"],["2022-03-17","LVP SuperLiga 2022 Spring Playoffs","Round 1","BISONS ECLUB","G2 Arctic","WLWW","","dom","S"],["2022-03-21","LVP SuperLiga 2022 Spring Playoffs","Round 2","BISONS ECLUB","KOI (Spanish Team)","WWW","","dom","S"],["2022-03-24","LVP SuperLiga 2022 Spring Playoffs","Semifinal","BISONS ECLUB","Barça eSports","WWW","","dom","S"],["2022-03-30","LVP SuperLiga 2022 Spring Playoffs","Final","BISONS ECLUB","Fnatic TQ","LLL","","dom","S"],["2022-08-04","LVP SuperLiga 2022 Summer Playoffs","Round 1","BISONS ECLUB","Barça eSports","WWLLW","","dom","S"],["2022-08-11","LVP SuperLiga 2022 Summer Playoffs","Round 2","BISONS ECLUB","KOI (Spanish Team)","WWLW","","dom","S"],["2022-08-15","LVP SuperLiga 2022 Summer Playoffs","Semifinal","BISONS ECLUB","Giants (Spanish Team)","LLL","","dom","S"],["2023-07-25","NLC 2023 Summer Playoffs","Round 1","Verdant","Nativz","WLWLL","","dom","S"],["2023-08-01","NLC 2023 Summer Playoffs","Semifinal","Verdant","NORD Esports","LLL","","dom","S"],["2025-05-01","NLC 2025 Spring Playoffs","Round 2","Venomcrest Esports","DMG Esports","LWWW","","dom","S"],["2025-05-08","NLC 2025 Spring Playoffs","Round 3","Venomcrest Esports","Los Ratones","LLL","","dom","S"],["2025-09-13","LIT 2025 Summer Playoffs","Round 4","GMBLERS Esports","Zena Esports","LLL","","dom","S"]],"unknown":[["2019-03-31","League Championship Denmark 2019 Spring Playoffs","Final","Copenhagen Flames","Hobro Vikings","1-3","","dom",""]]}
+{
+  "player": "Guubi",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2019-03-30","League Championship Denmark 2019 Spring Playoffs","Semifinal","Copenhagen Flames","Atlando Esports","WWW","r","dom",""],
+    ["2019-06-14","League Championship Denmark 2019 Summer Playoffs","Semifinal","Copenhagen Flames","Atlando Esports","WWW","r","dom",""],
+    ["2019-06-15","League Championship Denmark 2019 Summer Playoffs","Final","Copenhagen Flames","Wicked Gaming","LLL","r","dom",""],
+    ["2019-06-27","Danish Esports League Season 3 Playoffs","Final","Copenhagen Flames","Ventus Esports","LLL","r","dom",""],
+    ["2019-12-07","ESL Vodafone Championship 2019 Winter Playoffs","Final","MOBA ROG","Outplayed","WLWW","","dom","S"],
+    ["2020-07-14","PG Nationals 2020 Summer Playoffs","Round 1","Samsung Morning Stars","Racoon (Italian Team)","WLWW","","dom","S"],
+    ["2020-07-21","PG Nationals 2020 Summer Playoffs","Semifinal","Samsung Morning Stars","Mkers","WLWW","","dom","S"],
+    ["2020-08-02","PG Nationals 2020 Summer Playoffs","Final","Samsung Morning Stars","Racoon (Italian Team)","WLWW","","dom","S"],
+    ["2021-03-02","PG Nationals 2021 Spring Playoffs","Round 1","Mkers","Cyberground Gaming","WWLLW","","dom","S"],
+    ["2021-03-10","PG Nationals 2021 Spring Playoffs","Semifinal","Mkers","Samsung Morning Stars","WWLLW","","dom","S"],
+    ["2021-03-21","PG Nationals 2021 Spring Playoffs","Final","Mkers","Macko Esports","WLLL","","dom","S"],
+    ["2021-11-04","Iberian Cup 2021","Quarterfinal","Axolotl","Vodafone Giants.Spain","LLWL","","dom","S"],
+    ["2022-03-17","LVP SuperLiga 2022 Spring Playoffs","Round 1","BISONS ECLUB","G2 Arctic","WLWW","","dom","S"],
+    ["2022-03-21","LVP SuperLiga 2022 Spring Playoffs","Round 2","BISONS ECLUB","KOI (Spanish Team)","WWW","","dom","S"],
+    ["2022-03-24","LVP SuperLiga 2022 Spring Playoffs","Semifinal","BISONS ECLUB","Barça eSports","WWW","","dom","S"],
+    ["2022-03-30","LVP SuperLiga 2022 Spring Playoffs","Final","BISONS ECLUB","Fnatic TQ","LLL","","dom","S"],
+    ["2022-08-04","LVP SuperLiga 2022 Summer Playoffs","Round 1","BISONS ECLUB","Barça eSports","WWLLW","","dom","S"],
+    ["2022-08-11","LVP SuperLiga 2022 Summer Playoffs","Round 2","BISONS ECLUB","KOI (Spanish Team)","WWLW","","dom","S"],
+    ["2022-08-15","LVP SuperLiga 2022 Summer Playoffs","Semifinal","BISONS ECLUB","Giants (Spanish Team)","LLL","","dom","S"],
+    ["2023-07-25","NLC 2023 Summer Playoffs","Round 1","Verdant","Nativz","WLWLL","","dom","S"],
+    ["2023-08-01","NLC 2023 Summer Playoffs","Semifinal","Verdant","NORD Esports","LLL","","dom","S"],
+    ["2025-05-01","NLC 2025 Spring Playoffs","Round 2","Venomcrest Esports","DMG Esports","LWWW","","dom","S"],
+    ["2025-05-08","NLC 2025 Spring Playoffs","Round 3","Venomcrest Esports","Los Ratones","LLL","","dom","S"],
+    ["2025-09-13","LIT 2025 Summer Playoffs","Round 4","GMBLERS Esports","Zena Esports","LLL","","dom","S"]
+  ],
+  "unknown": [
+    ["2019-03-31","League Championship Denmark 2019 Spring Playoffs","Final","Copenhagen Flames","Hobro Vikings","1-3","","dom",""]
+  ]
+}

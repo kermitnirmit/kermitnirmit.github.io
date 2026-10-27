@@ -1,1 +1,32 @@
-{"player":"Jun (Yoon Se-jun)","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2021-03-30","LCK CL 2021 Spring Playoffs","Quarterfinal","DRX Challengers","KT Rolster Challengers","WWW","","dom","S"],["2021-04-05","LCK CL 2021 Spring Playoffs","Semifinal","DRX Challengers","T1 Challengers","LLL","","dom","S"],["2022-03-28","LCK CL 2022 Spring Playoffs","Semifinal","DRX Challengers","Nongshim RedForce Challengers","WLWLL","","dom","S"],["2022-08-15","LCK CL 2022 Summer Playoffs","Quarterfinal","DRX Challengers","Gen.G Challengers","LWWLW","","dom","S"],["2022-08-23","LCK CL 2022 Summer Playoffs","Semifinal","DRX Challengers","DWG KIA Challengers","WLWLL","","dom","S"],["2024-02-16","LEC 2024 Winter Playoffs","Round 3","Fnatic","MAD Lions KOI","LWLWL","","dom","P"],["2024-04-08","LEC 2024 Spring Playoffs","Round 3","Fnatic","Team Vitality","LWWW","","dom","P"],["2024-04-13","LEC 2024 Spring Playoffs","Round 4","Fnatic","Team BDS","LLWWW","","dom","P"],["2024-04-14","LEC 2024 Spring Playoffs","Final","Fnatic","G2 Esports","WLLL","","dom","P"],["2024-05-08","MSI 2024","Bracket Round 1","Fnatic","Gen.G","LLL","","msi","P"],["2024-05-11","MSI 2024","Bracket Round 1","Fnatic","Team Liquid","LWLL","","msi","P"],["2024-07-22","LEC 2024 Summer Playoffs","Round 4","Fnatic","G2 Esports","LWWLW","","dom","P"],["2024-07-28","LEC 2024 Summer Playoffs","Final","Fnatic","G2 Esports","LLL","","dom","P"],["2024-08-10","LEC 2024 Season Finals","Round 1","Fnatic","Team BDS","WWW","","dom","P"],["2024-08-24","LEC 2024 Season Finals","Round 3","Fnatic","MAD Lions KOI","LWWLW","","dom","P"],["2024-09-01","LEC 2024 Season Finals","Final","Fnatic","G2 Esports","LWLL","","dom","P"],["2025-05-31","LEC 2025 Spring Playoffs","Round 1","GIANTX","Fnatic","LLWL","","dom","P"],["2025-09-06","LEC 2025 Summer Playoffs","Cross Play Decider","GIANTX","Team BDS","WWW","","dom","P"],["2025-09-15","LEC 2025 Summer Playoffs","Round 1","GIANTX","Fnatic","LLL","","dom","P"],["2026-02-27","LEC 2026 Versus Playoffs","Round 3","GIANTX","Karmine Corp","LLL","","dom","P"],["2026-05-31","LEC 2026 Spring Playoffs","Round 1","GIANTX","Team Vitality","WWW","","dom","P"],["2026-06-01","LEC 2026 Spring Playoffs","Round 2","GIANTX","Karmine Corp","LLL","","dom","P"],["2026-09-05","LEC 2026 Summer Playoffs","Round 1","GIANTX","Karmine Corp","LWLL","","dom","P"],["2026-09-11","LEC 2026 Summer Playoffs","Round 1","GIANTX","Natus Vincere","LWLWL","","dom","P"]],"unknown":[]}
+{
+  "player": "Jun (Yoon Se-jun)",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2021-03-30","LCK CL 2021 Spring Playoffs","Quarterfinal","DRX Challengers","KT Rolster Challengers","WWW","","dom","S"],
+    ["2021-04-05","LCK CL 2021 Spring Playoffs","Semifinal","DRX Challengers","T1 Challengers","LLL","","dom","S"],
+    ["2022-03-28","LCK CL 2022 Spring Playoffs","Semifinal","DRX Challengers","Nongshim RedForce Challengers","WLWLL","","dom","S"],
+    ["2022-08-15","LCK CL 2022 Summer Playoffs","Quarterfinal","DRX Challengers","Gen.G Challengers","LWWLW","","dom","S"],
+    ["2022-08-23","LCK CL 2022 Summer Playoffs","Semifinal","DRX Challengers","DWG KIA Challengers","WLWLL","","dom","S"],
+    ["2024-02-16","LEC 2024 Winter Playoffs","Round 3","Fnatic","MAD Lions KOI","LWLWL","","dom","P"],
+    ["2024-04-08","LEC 2024 Spring Playoffs","Round 3","Fnatic","Team Vitality","LWWW","","dom","P"],
+    ["2024-04-13","LEC 2024 Spring Playoffs","Round 4","Fnatic","Team BDS","LLWWW","","dom","P"],
+    ["2024-04-14","LEC 2024 Spring Playoffs","Final","Fnatic","G2 Esports","WLLL","","dom","P"],
+    ["2024-05-08","MSI 2024","Bracket Round 1","Fnatic","Gen.G","LLL","","msi","P"],
+    ["2024-05-11","MSI 2024","Bracket Round 1","Fnatic","Team Liquid","LWLL","","msi","P"],
+    ["2024-07-22","LEC 2024 Summer Playoffs","Round 4","Fnatic","G2 Esports","LWWLW","","dom","P"],
+    ["2024-07-28","LEC 2024 Summer Playoffs","Final","Fnatic","G2 Esports","LLL","","dom","P"],
+    ["2024-08-10","LEC 2024 Season Finals","Round 1","Fnatic","Team BDS","WWW","","dom","P"],
+    ["2024-08-24","LEC 2024 Season Finals","Round 3","Fnatic","MAD Lions KOI","LWWLW","","dom","P"],
+    ["2024-09-01","LEC 2024 Season Finals","Final","Fnatic","G2 Esports","LWLL","","dom","P"],
+    ["2025-05-31","LEC 2025 Spring Playoffs","Round 1","GIANTX","Fnatic","LLWL","","dom","P"],
+    ["2025-09-06","LEC 2025 Summer Playoffs","Cross Play Decider","GIANTX","Team BDS","WWW","","dom","P"],
+    ["2025-09-15","LEC 2025 Summer Playoffs","Round 1","GIANTX","Fnatic","LLL","","dom","P"],
+    ["2026-02-27","LEC 2026 Versus Playoffs","Round 3","GIANTX","Karmine Corp","LLL","","dom","P"],
+    ["2026-05-31","LEC 2026 Spring Playoffs","Round 1","GIANTX","Team Vitality","WWW","","dom","P"],
+    ["2026-06-01","LEC 2026 Spring Playoffs","Round 2","GIANTX","Karmine Corp","LLL","","dom","P"],
+    ["2026-09-05","LEC 2026 Summer Playoffs","Round 1","GIANTX","Karmine Corp","LWLL","","dom","P"],
+    ["2026-09-11","LEC 2026 Summer Playoffs","Round 1","GIANTX","Natus Vincere","LWLWL","","dom","P"]
+  ],
+  "unknown": []
+}

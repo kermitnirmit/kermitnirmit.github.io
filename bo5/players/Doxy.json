@@ -1,1 +1,38 @@
-{"player":"Doxy","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2015-07-12","SLTV StarSeries Summer Split 2015","Playoffs","Carpe Diem","Team Just","LLWWW","","dom","P"],["2015-07-25","SLTV StarSeries 2015 Summer Finals","Semifinal","Carpe Diem","Hard Random","LLL","","dom","P"],["2015-07-26","SLTV StarSeries 2015 Summer Finals","Third-Place Match","Carpe Diem","RoX (2014 CIS Team)","LLL","p","dom","P"],["2016-08-13","LCL 2016 Summer Playoffs","Semifinal","Natus Vincere.CIS","Vega Squadron","LLWWL","","dom","P"],["2017-04-02","LCL 2017 Spring Playoffs","Semifinal","Virtus.pro","M19","LWLWW","","dom","P"],["2017-04-09","LCL 2017 Spring Playoffs","Final","Virtus.pro","Vaevictis eSports","WWLLW","","dom","P"],["2017-08-19","LCL 2017 Summer Playoffs","Semifinal","Virtus.pro","M19","LLWL","","dom","P"],["2018-09-30","European Masters 2018 Summer/Main Event","Final","Ninjas in Pyjamas","MAD Lions E.C.","LLL","","dom","S"],["2019-06-27","Danish Esports League Season 3 Playoffs","Final","Ventus Esports","Copenhagen Flames","WWW","r","dom",""],["2019-08-01","LCL 2019 Summer Open Cup","Semifinal","Vega Squadron","Gambit Esports","LLL","","dom","S"],["2019-09-01","LCL 2019 Summer Playoffs","Semifinal","Vega Squadron","Gambit Esports","LWWLW","","dom","P"],["2019-09-15","LCL 2019 Summer Playoffs","Final","Vega Squadron","Unicorns of Love.CIS","LWWLL","","dom","P"],["2020-03-19","LCL 2020 Spring Open Cup","Semifinal","Gambit Esports","RoX (2014 CIS Team)","LLL","","dom","S"],["2020-04-19","LCL 2020 Spring Playoffs","Semifinal","Gambit Esports","RoX (2014 CIS Team)","LLL","","dom","P"],["2020-08-16","NLC 2020 Summer Playoffs","Final","Riddle Esports","Fnatic Rising","LLWL","","dom","S"],["2020-11-15","NLC 2020 Fall Open","Final","Barrage (British Team)","NVision Esports","LWWW","","dom","S"],["2021-03-02","PG Nationals 2021 Spring Playoffs","Round 1","Mkers","Cyberground Gaming","WWLLW","","dom","S"],["2021-03-10","PG Nationals 2021 Spring Playoffs","Semifinal","Mkers","Samsung Morning Stars","WWLLW","","dom","S"],["2021-03-21","PG Nationals 2021 Spring Playoffs","Final","Mkers","Macko Esports","WLLL","","dom","S"],["2021-09-21","LFL 2022 Promotion","Round 1","Team MCES","Team Oplon","LWLL","","dom","S"],["2021-09-22","LFL 2022 Promotion","Round 1","Team MCES","IziDream","LLL","","dom","S"],["2022-09-12","LVP SuperLiga 2023 Promotion","Round 1","UCAM Tokiers","Case Esports","WLWW","","dom","S"],["2022-09-20","LVP SuperLiga 2023 Promotion","Round 2","UCAM Tokiers","Guasones","LWWW","","dom","S"],["2022-11-14","Iberian Cup 2022","Semifinal","UCAM Tokiers","KOI (Spanish Team)","WWW","","dom","S"],["2022-11-19","Iberian Cup 2022","Final","UCAM Tokiers","Team Heretics","LWWW","","dom","S"],["2025-05-01","NLC 2025 Spring Playoffs","Round 2","Venomcrest Esports","DMG Esports","LWWW","","dom","S"],["2025-05-08","NLC 2025 Spring Playoffs","Round 3","Venomcrest Esports","Los Ratones","LLL","","dom","S"],["2025-09-13","LIT 2025 Summer Playoffs","Round 4","GMBLERS Esports","Zena Esports","LLL","","dom","S"]],"unknown":[["2018-08-12","Nordic Championship 2018 Summer Playoffs","Final","Ninjas in Pyjamas","Team Atlantis","2-3","","dom",""]]}
+{
+  "player": "Doxy",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2015-07-12","SLTV StarSeries Summer Split 2015","Playoffs","Carpe Diem","Team Just","LLWWW","","dom","P"],
+    ["2015-07-25","SLTV StarSeries 2015 Summer Finals","Semifinal","Carpe Diem","Hard Random","LLL","","dom","P"],
+    ["2015-07-26","SLTV StarSeries 2015 Summer Finals","Third-Place Match","Carpe Diem","RoX (2014 CIS Team)","LLL","p","dom","P"],
+    ["2016-08-13","LCL 2016 Summer Playoffs","Semifinal","Natus Vincere.CIS","Vega Squadron","LLWWL","","dom","P"],
+    ["2017-04-02","LCL 2017 Spring Playoffs","Semifinal","Virtus.pro","M19","LWLWW","","dom","P"],
+    ["2017-04-09","LCL 2017 Spring Playoffs","Final","Virtus.pro","Vaevictis eSports","WWLLW","","dom","P"],
+    ["2017-08-19","LCL 2017 Summer Playoffs","Semifinal","Virtus.pro","M19","LLWL","","dom","P"],
+    ["2018-09-30","European Masters 2018 Summer/Main Event","Final","Ninjas in Pyjamas","MAD Lions E.C.","LLL","","dom","S"],
+    ["2019-06-27","Danish Esports League Season 3 Playoffs","Final","Ventus Esports","Copenhagen Flames","WWW","r","dom",""],
+    ["2019-08-01","LCL 2019 Summer Open Cup","Semifinal","Vega Squadron","Gambit Esports","LLL","","dom","S"],
+    ["2019-09-01","LCL 2019 Summer Playoffs","Semifinal","Vega Squadron","Gambit Esports","LWWLW","","dom","P"],
+    ["2019-09-15","LCL 2019 Summer Playoffs","Final","Vega Squadron","Unicorns of Love.CIS","LWWLL","","dom","P"],
+    ["2020-03-19","LCL 2020 Spring Open Cup","Semifinal","Gambit Esports","RoX (2014 CIS Team)","LLL","","dom","S"],
+    ["2020-04-19","LCL 2020 Spring Playoffs","Semifinal","Gambit Esports","RoX (2014 CIS Team)","LLL","","dom","P"],
+    ["2020-08-16","NLC 2020 Summer Playoffs","Final","Riddle Esports","Fnatic Rising","LLWL","","dom","S"],
+    ["2020-11-15","NLC 2020 Fall Open","Final","Barrage (British Team)","NVision Esports","LWWW","","dom","S"],
+    ["2021-03-02","PG Nationals 2021 Spring Playoffs","Round 1","Mkers","Cyberground Gaming","WWLLW","","dom","S"],
+    ["2021-03-10","PG Nationals 2021 Spring Playoffs","Semifinal","Mkers","Samsung Morning Stars","WWLLW","","dom","S"],
+    ["2021-03-21","PG Nationals 2021 Spring Playoffs","Final","Mkers","Macko Esports","WLLL","","dom","S"],
+    ["2021-09-21","LFL 2022 Promotion","Round 1","Team MCES","Team Oplon","LWLL","","dom","S"],
+    ["2021-09-22","LFL 2022 Promotion","Round 1","Team MCES","IziDream","LLL","","dom","S"],
+    ["2022-09-12","LVP SuperLiga 2023 Promotion","Round 1","UCAM Tokiers","Case Esports","WLWW","","dom","S"],
+    ["2022-09-20","LVP SuperLiga 2023 Promotion","Round 2","UCAM Tokiers","Guasones","LWWW","","dom","S"],
+    ["2022-11-14","Iberian Cup 2022","Semifinal","UCAM Tokiers","KOI (Spanish Team)","WWW","","dom","S"],
+    ["2022-11-19","Iberian Cup 2022","Final","UCAM Tokiers","Team Heretics","LWWW","","dom","S"],
+    ["2025-05-01","NLC 2025 Spring Playoffs","Round 2","Venomcrest Esports","DMG Esports","LWWW","","dom","S"],
+    ["2025-05-08","NLC 2025 Spring Playoffs","Round 3","Venomcrest Esports","Los Ratones","LLL","","dom","S"],
+    ["2025-09-13","LIT 2025 Summer Playoffs","Round 4","GMBLERS Esports","Zena Esports","LLL","","dom","S"]
+  ],
+  "unknown": [
+    ["2018-08-12","Nordic Championship 2018 Summer Playoffs","Final","Ninjas in Pyjamas","Team Atlantis","2-3","","dom",""]
+  ]
+}

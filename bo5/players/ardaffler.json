@@ -1,1 +1,39 @@
-{"player":"ardaffler","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2023-07-25","Elite Series 2nd Division 2023 Summer Playoffs","Round 1","Rift Sloths","Fullclear Esports","WWW","","dom","S"],["2023-08-04","Elite Series 2nd Division 2023 Summer Playoffs","Final","Rift Sloths","Dynasty","WLWLW","","dom","S"],["2023-09-11","Elite Series 2024 Promotion","Round 1","Rift Sloths","Pertinax Esports","WLLL","p","dom","S"],["2023-09-15","Elite Series 2024 Promotion","Round 1","Rift Sloths","Fullclear Esports","LWWW","","dom","S"],["2023-09-16","Elite Series 2024 Promotion","Round 2","Rift Sloths","Pertinax Esports","WWW","","dom","S"],["2023-09-19","Elite Series 2024 Promotion","Final","Rift Sloths","Dynasty","LLWWL","p","dom","S"],["2024-05-07","Hitpoint 2nd Division Challengers 2024 Summer Qualifiers","Round 1","Repre Gold","EXILE esports","LLL","","dom","S"],["2024-05-11","Hitpoint 2nd Division Challengers 2024 Summer Qualifiers","Round 1","Repre Gold","Zennox Gaming","WWW","","dom","S"],["2024-05-12","Hitpoint 2nd Division Challengers 2024 Summer Qualifiers","Round 2","Repre Gold","Laffson's gang","LWLL","","dom","S"],["2024-09-18","Keysie Streamers Invitational Season 5","Round 1","Барберы Димилла","Вайфочки Даймонда","WLWW","r","dom",""],["2024-09-20","Keysie Streamers Invitational Season 5","Round 3","Барберы Димилла","Кабанчики Смурфа","WWLLW","r","dom",""],["2024-09-22","Keysie Streamers Invitational Season 5","Grand Final","Барберы Димилла","Кабанчики Смурфа","LLL","r","dom",""],["2025-02-07","NLC 2025 Winter Playoffs","Round 1","KAOS e-sport","Venomcrest Esports","WWW","","dom","S"],["2025-02-12","NLC 2025 Winter Playoffs","Round 2","KAOS e-sport","Rich Gang (Norwegian Team)","WLLL","","dom","S"],["2025-04-25","BetBoom Noxus League 2025","Round 1","Team General","Team Starky","LLWL","r","dom","S"],["2025-04-26","BetBoom Noxus League 2025","Round 1","Team General","Team Smurf","LWWLL","r","dom","S"],["2025-05-16","LPLOL 2025 Spring Playoffs","Round 1","Odivelas Sports Club","GTZ Esports","WWW","","dom","S"],["2025-05-22","LPLOL 2025 Spring Playoffs","Semifinal","Odivelas Sports Club","For The Win Esports","WWLLL","","dom","S"],["2025-07-30","Keysie Streamers Invitational Season 6","Round 1","Барби Димилла","Свинобойня Даймонда","LLL","r","dom",""],["2025-07-31","Keysie Streamers Invitational Season 6","Round 1","Барби Димилла","Сосалы Павера","WWW","r","dom",""],["2025-08-01","Keysie Streamers Invitational Season 6","Round 2","Барби Димилла","Персики Лины","LLL","r","dom",""],["2025-09-02","LPLOL 2025 Summer Split","Quarterfinal","Odivelas Sports Club","Grow uP eSports","WWW","","dom","S"],["2025-09-09","LPLOL 2025 Summer Split","Semifinal","Odivelas Sports Club","FlameHard","WWLLW","","dom","S"],["2025-09-12","LPLOL 2025 Summer Split","Final","Odivelas Sports Club","Otter Side","LLWL","","dom","S"],["2026-05-29","LPLOL 2026 Spring Playoffs","Round 1","Bubliki","Ronaldo Team","WLWW","","dom","S"],["2026-06-02","LPLOL 2026 Spring Playoffs","Semifinal","Bubliki","Crusaders","WWLW","","dom","S"],["2026-06-03","LPLOL 2026 Spring Playoffs","Final","Bubliki","Otter Side","LLL","","dom","S"],["2026-06-20","FunPay 67 Cup","Semifinal","Инсеки Олега","Киберхряки","LLL","r","dom","S"]],"unknown":[["2024-12-15","Freljord Open Cup 2024","Final","3CM","The Boys","3-1","","dom","S"],["2025-04-20","Noxus Open Cup 2025","Final","Atlantic Puffins","LPL Fanboys (Russian Team)","1-3","","dom","S"]]}
+{
+  "player": "ardaffler",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2023-07-25","Elite Series 2nd Division 2023 Summer Playoffs","Round 1","Rift Sloths","Fullclear Esports","WWW","","dom","S"],
+    ["2023-08-04","Elite Series 2nd Division 2023 Summer Playoffs","Final","Rift Sloths","Dynasty","WLWLW","","dom","S"],
+    ["2023-09-11","Elite Series 2024 Promotion","Round 1","Rift Sloths","Pertinax Esports","WLLL","p","dom","S"],
+    ["2023-09-15","Elite Series 2024 Promotion","Round 1","Rift Sloths","Fullclear Esports","LWWW","","dom","S"],
+    ["2023-09-16","Elite Series 2024 Promotion","Round 2","Rift Sloths","Pertinax Esports","WWW","","dom","S"],
+    ["2023-09-19","Elite Series 2024 Promotion","Final","Rift Sloths","Dynasty","LLWWL","p","dom","S"],
+    ["2024-05-07","Hitpoint 2nd Division Challengers 2024 Summer Qualifiers","Round 1","Repre Gold","EXILE esports","LLL","","dom","S"],
+    ["2024-05-11","Hitpoint 2nd Division Challengers 2024 Summer Qualifiers","Round 1","Repre Gold","Zennox Gaming","WWW","","dom","S"],
+    ["2024-05-12","Hitpoint 2nd Division Challengers 2024 Summer Qualifiers","Round 2","Repre Gold","Laffson's gang","LWLL","","dom","S"],
+    ["2024-09-18","Keysie Streamers Invitational Season 5","Round 1","Барберы Димилла","Вайфочки Даймонда","WLWW","r","dom",""],
+    ["2024-09-20","Keysie Streamers Invitational Season 5","Round 3","Барберы Димилла","Кабанчики Смурфа","WWLLW","r","dom",""],
+    ["2024-09-22","Keysie Streamers Invitational Season 5","Grand Final","Барберы Димилла","Кабанчики Смурфа","LLL","r","dom",""],
+    ["2025-02-07","NLC 2025 Winter Playoffs","Round 1","KAOS e-sport","Venomcrest Esports","WWW","","dom","S"],
+    ["2025-02-12","NLC 2025 Winter Playoffs","Round 2","KAOS e-sport","Rich Gang (Norwegian Team)","WLLL","","dom","S"],
+    ["2025-04-25","BetBoom Noxus League 2025","Round 1","Team General","Team Starky","LLWL","r","dom","S"],
+    ["2025-04-26","BetBoom Noxus League 2025","Round 1","Team General","Team Smurf","LWWLL","r","dom","S"],
+    ["2025-05-16","LPLOL 2025 Spring Playoffs","Round 1","Odivelas Sports Club","GTZ Esports","WWW","","dom","S"],
+    ["2025-05-22","LPLOL 2025 Spring Playoffs","Semifinal","Odivelas Sports Club","For The Win Esports","WWLLL","","dom","S"],
+    ["2025-07-30","Keysie Streamers Invitational Season 6","Round 1","Барби Димилла","Свинобойня Даймонда","LLL","r","dom",""],
+    ["2025-07-31","Keysie Streamers Invitational Season 6","Round 1","Барби Димилла","Сосалы Павера","WWW","r","dom",""],
+    ["2025-08-01","Keysie Streamers Invitational Season 6","Round 2","Барби Димилла","Персики Лины","LLL","r","dom",""],
+    ["2025-09-02","LPLOL 2025 Summer Split","Quarterfinal","Odivelas Sports Club","Grow uP eSports","WWW","","dom","S"],
+    ["2025-09-09","LPLOL 2025 Summer Split","Semifinal","Odivelas Sports Club","FlameHard","WWLLW","","dom","S"],
+    ["2025-09-12","LPLOL 2025 Summer Split","Final","Odivelas Sports Club","Otter Side","LLWL","","dom","S"],
+    ["2026-05-29","LPLOL 2026 Spring Playoffs","Round 1","Bubliki","Ronaldo Team","WLWW","","dom","S"],
+    ["2026-06-02","LPLOL 2026 Spring Playoffs","Semifinal","Bubliki","Crusaders","WWLW","","dom","S"],
+    ["2026-06-03","LPLOL 2026 Spring Playoffs","Final","Bubliki","Otter Side","LLL","","dom","S"],
+    ["2026-06-20","FunPay 67 Cup","Semifinal","Инсеки Олега","Киберхряки","LLL","r","dom","S"]
+  ],
+  "unknown": [
+    ["2024-12-15","Freljord Open Cup 2024","Final","3CM","The Boys","3-1","","dom","S"],
+    ["2025-04-20","Noxus Open Cup 2025","Final","Atlantic Puffins","LPL Fanboys (Russian Team)","1-3","","dom","S"]
+  ]
+}

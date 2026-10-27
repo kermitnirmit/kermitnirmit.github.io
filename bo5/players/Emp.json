@@ -1,1 +1,45 @@
-{"player":"Emp","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2015-04-13","Latin America Cup 2015 LAS Closing Cup Promotion","Promotion","Dark Horse","ChiLeanFivE","WWW","","dom","P"],["2015-07-28","Latin America Cup LAS 2016 Season Opening Cup Promotion","Promotion","Isurus","Freedom Dive","LWWW","","dom","P"],["2016-03-10","Latin America Cup LAS 2016 Season Opening Cup Playoffs","Semifinal","Isurus","Furious Gaming","WLWLW","","dom","P"],["2016-04-02","Latin America Cup LAS 2016 Season Opening Cup Playoffs","Final","Isurus","Last Kings","WWW","","dom","P"],["2016-07-20","Latin America Cup LAS 2016 Season Closing Cup Playoffs","Semifinal","Isurus","Hafnet eSports","WLWW","","dom","P"],["2016-08-07","Latin America Cup LAS 2016 Season Closing Cup Playoffs","Final","Isurus","Kaos Latin Gamers","WWLLL","","dom","P"],["2016-11-06","CLS 2017 Preseason Tournament","Final","Isurus","Furious Gaming","LWLWW","","dom","P"],["2017-04-08","CLS 2017 Opening Playoffs","Final","Isurus","Furious Gaming","WWW","","dom","P"],["2017-07-28","CLS 2017 Closing Playoffs","Round 2","Isurus","Furious Gaming","LLWWW","","dom","P"],["2017-08-19","CLS 2017 Closing Playoffs","Final","Isurus","Kaos Latin Gamers","WLLL","","dom","P"],["2018-03-29","CLS 2018 Opening Playoffs","Quarterfinal","Isurus","Legatum","WWW","","dom","P"],["2018-03-31","CLS 2018 Opening Playoffs","Semifinal","Isurus","Kaos Latin Gamers","LLL","","dom","P"],["2018-08-30","CLS 2018 Closing Playoffs","Quarterfinal","Isurus","Evilvice Esports","LWWLW","","dom","P"],["2018-09-01","CLS 2018 Closing Playoffs","Semifinal","Isurus","Rebirth eSports","LLL","","dom","P"],["2019-08-10","LLA 2019 Closing Playoffs","Quarterfinal","Furious Gaming","XTEN Esports","WLWLL","","dom","P"],["2021-03-25","Liga de Honor Entel 2021 Opening Playoffs","Quarterfinal","Furious Gaming Chile","LDM Esports","WWW","","dom","S"],["2021-04-08","Liga de Honor Entel 2021 Opening Playoffs","Semifinal","Furious Gaming Chile","Australs","WWW","","dom","S"],["2021-04-15","Liga de Honor Entel 2021 Opening Playoffs","Final","Furious Gaming Chile","Cruzados Esports","WWLLL","","dom","S"],["2021-07-07","Liga de Honor Entel 2021 Closing Playoffs","Round 1","Furious Gaming Chile","Rebirth eSports","WLWLW","","dom","S"],["2021-07-12","Liga de Honor Entel 2021 Closing Playoffs","Round 3","Furious Gaming Chile","Dark Horse","WWW","","dom","S"],["2021-07-23","Liga de Honor Entel 2021 Closing Playoffs","Final","Furious Gaming Chile","Cruzados Esports","WWW","","dom","S"],["2021-11-30","Liga de Honor Entel 2021 Super Copa","Final","Furious Gaming Chile","Dark Horse","WWW","","dom","S"],["2021-12-03","Duelo Andino 2021","Grand Final","Furious Gaming Chile","Savage (Latin American Team)","LWLWW","","dom","S"],["2022-03-28","Liga de Honor Entel 2022 Opening Playoffs","Round 1","Furious Gaming","Movistar Optix","WLWLW","","dom","S"],["2022-04-04","Liga de Honor Entel 2022 Opening Playoffs","Round 3","Furious Gaming","Dark Horse","WWW","","dom","S"],["2022-04-19","Liga de Honor Entel 2022 Opening Playoffs","Grand Final","Furious Gaming","Movistar Optix","LWWW","","dom","S"],["2022-06-27","Liga de Honor Entel 2022 Closing Playoffs","Round 1","Furious Gaming","Cruzados Esports","WWW","","dom","S"],["2022-07-04","Liga de Honor Entel 2022 Closing Playoffs","Round 3","Furious Gaming","Movistar Optix","WLWW","","dom","S"],["2022-07-18","Liga de Honor Entel 2022 Closing Playoffs","Grand Final","Furious Gaming","Movistar Optix","WWLW","","dom","S"],["2023-03-02","Liga Master Flow 2023 Opening Playoffs","Round 1","Globant Emerald","Pampas","LLL","","dom","S"],["2023-03-09","Liga Master Flow 2023 Opening Playoffs","Round 1","Globant Emerald","River Plate Gaming","LWWLW","","dom","S"],["2023-03-17","Liga Master Flow 2023 Opening Playoffs","Round 2","Globant Emerald","WAP Esports","LLL","","dom","S"],["2023-08-03","Liga Regional Sur 2023 Closing Playoffs","Round 1","Globant Emerald","WAP Esports","WLLL","","dom","S"],["2024-10-14","Emerald League 2024 Special Edition","Semifinal","Team Evermeet","POG Team","WWW","r","dom",""],["2024-12-17","Emerald League 2024 Special Edition","Final","Team Evermeet","Izanagi eSports","WWW","r","dom",""]],"unknown":[["2017-12-02","Rio de la Plata Cup 2017","Final","Isurus","Kaos Latin Gamers","2-3","","dom",""]]}
+{
+  "player": "Emp",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2015-04-13","Latin America Cup 2015 LAS Closing Cup Promotion","Promotion","Dark Horse","ChiLeanFivE","WWW","","dom","P"],
+    ["2015-07-28","Latin America Cup LAS 2016 Season Opening Cup Promotion","Promotion","Isurus","Freedom Dive","LWWW","","dom","P"],
+    ["2016-03-10","Latin America Cup LAS 2016 Season Opening Cup Playoffs","Semifinal","Isurus","Furious Gaming","WLWLW","","dom","P"],
+    ["2016-04-02","Latin America Cup LAS 2016 Season Opening Cup Playoffs","Final","Isurus","Last Kings","WWW","","dom","P"],
+    ["2016-07-20","Latin America Cup LAS 2016 Season Closing Cup Playoffs","Semifinal","Isurus","Hafnet eSports","WLWW","","dom","P"],
+    ["2016-08-07","Latin America Cup LAS 2016 Season Closing Cup Playoffs","Final","Isurus","Kaos Latin Gamers","WWLLL","","dom","P"],
+    ["2016-11-06","CLS 2017 Preseason Tournament","Final","Isurus","Furious Gaming","LWLWW","","dom","P"],
+    ["2017-04-08","CLS 2017 Opening Playoffs","Final","Isurus","Furious Gaming","WWW","","dom","P"],
+    ["2017-07-28","CLS 2017 Closing Playoffs","Round 2","Isurus","Furious Gaming","LLWWW","","dom","P"],
+    ["2017-08-19","CLS 2017 Closing Playoffs","Final","Isurus","Kaos Latin Gamers","WLLL","","dom","P"],
+    ["2018-03-29","CLS 2018 Opening Playoffs","Quarterfinal","Isurus","Legatum","WWW","","dom","P"],
+    ["2018-03-31","CLS 2018 Opening Playoffs","Semifinal","Isurus","Kaos Latin Gamers","LLL","","dom","P"],
+    ["2018-08-30","CLS 2018 Closing Playoffs","Quarterfinal","Isurus","Evilvice Esports","LWWLW","","dom","P"],
+    ["2018-09-01","CLS 2018 Closing Playoffs","Semifinal","Isurus","Rebirth eSports","LLL","","dom","P"],
+    ["2019-08-10","LLA 2019 Closing Playoffs","Quarterfinal","Furious Gaming","XTEN Esports","WLWLL","","dom","P"],
+    ["2021-03-25","Liga de Honor Entel 2021 Opening Playoffs","Quarterfinal","Furious Gaming Chile","LDM Esports","WWW","","dom","S"],
+    ["2021-04-08","Liga de Honor Entel 2021 Opening Playoffs","Semifinal","Furious Gaming Chile","Australs","WWW","","dom","S"],
+    ["2021-04-15","Liga de Honor Entel 2021 Opening Playoffs","Final","Furious Gaming Chile","Cruzados Esports","WWLLL","","dom","S"],
+    ["2021-07-07","Liga de Honor Entel 2021 Closing Playoffs","Round 1","Furious Gaming Chile","Rebirth eSports","WLWLW","","dom","S"],
+    ["2021-07-12","Liga de Honor Entel 2021 Closing Playoffs","Round 3","Furious Gaming Chile","Dark Horse","WWW","","dom","S"],
+    ["2021-07-23","Liga de Honor Entel 2021 Closing Playoffs","Final","Furious Gaming Chile","Cruzados Esports","WWW","","dom","S"],
+    ["2021-11-30","Liga de Honor Entel 2021 Super Copa","Final","Furious Gaming Chile","Dark Horse","WWW","","dom","S"],
+    ["2021-12-03","Duelo Andino 2021","Grand Final","Furious Gaming Chile","Savage (Latin American Team)","LWLWW","","dom","S"],
+    ["2022-03-28","Liga de Honor Entel 2022 Opening Playoffs","Round 1","Furious Gaming","Movistar Optix","WLWLW","","dom","S"],
+    ["2022-04-04","Liga de Honor Entel 2022 Opening Playoffs","Round 3","Furious Gaming","Dark Horse","WWW","","dom","S"],
+    ["2022-04-19","Liga de Honor Entel 2022 Opening Playoffs","Grand Final","Furious Gaming","Movistar Optix","LWWW","","dom","S"],
+    ["2022-06-27","Liga de Honor Entel 2022 Closing Playoffs","Round 1","Furious Gaming","Cruzados Esports","WWW","","dom","S"],
+    ["2022-07-04","Liga de Honor Entel 2022 Closing Playoffs","Round 3","Furious Gaming","Movistar Optix","WLWW","","dom","S"],
+    ["2022-07-18","Liga de Honor Entel 2022 Closing Playoffs","Grand Final","Furious Gaming","Movistar Optix","WWLW","","dom","S"],
+    ["2023-03-02","Liga Master Flow 2023 Opening Playoffs","Round 1","Globant Emerald","Pampas","LLL","","dom","S"],
+    ["2023-03-09","Liga Master Flow 2023 Opening Playoffs","Round 1","Globant Emerald","River Plate Gaming","LWWLW","","dom","S"],
+    ["2023-03-17","Liga Master Flow 2023 Opening Playoffs","Round 2","Globant Emerald","WAP Esports","LLL","","dom","S"],
+    ["2023-08-03","Liga Regional Sur 2023 Closing Playoffs","Round 1","Globant Emerald","WAP Esports","WLLL","","dom","S"],
+    ["2024-10-14","Emerald League 2024 Special Edition","Semifinal","Team Evermeet","POG Team","WWW","r","dom",""],
+    ["2024-12-17","Emerald League 2024 Special Edition","Final","Team Evermeet","Izanagi eSports","WWW","r","dom",""]
+  ],
+  "unknown": [
+    ["2017-12-02","Rio de la Plata Cup 2017","Final","Isurus","Kaos Latin Gamers","2-3","","dom",""]
+  ]
+}

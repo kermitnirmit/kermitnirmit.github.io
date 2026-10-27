@@ -1,1 +1,37 @@
-{"player":"Mxe","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2023-03-10","GL2D 2023 Spring Playoffs","Round 1","Team Refuse","Team Paradox","WWW","","dom","S"],["2023-03-16","GL2D 2023 Spring Playoffs","Semifinal","Team Refuse","Actions Per Minute","WWLW","","dom","S"],["2023-03-24","GL2D 2023 Spring Playoffs","Final","Team Refuse","Ionikos Nikaias Esports","WWW","","dom","S"],["2023-08-11","TCL Division 2 2023 Summer Playoffs","Round 1","Chasing Haze 07","Phoenix Esports (Turkish Team)","LWWW","","dom","S"],["2023-08-16","TCL Division 2 2023 Summer Playoffs","Round 2","Chasing Haze 07","Beetle Juice","WLLWW","","dom","S"],["2023-08-18","TCL Division 2 2023 Summer Playoffs","Semifinal","Chasing Haze 07","Looking for ORG (Turkish Team)","WLWLL","","dom","S"],["2023-09-12","TCL 2024 Promotion","Round 1","Chasing Haze 07","Looking for ORG (Turkish Team)","LWWW","","dom","S"],["2023-09-18","TCL 2024 Promotion","Round 2","Chasing Haze 07","Galakticos","LLL","","dom","S"],["2023-09-19","TCL 2024 Promotion","Round 2","Chasing Haze 07","Beetle Juice","LWLWW","","dom","S"],["2023-10-16","Aurora Cup 2023 Main Event","Quarterfinal","Fourth Wall","Karolinerna","WWW","","dom","S"],["2023-11-01","Aurora Cup 2023 Main Event","Semifinal","Fourth Wall","Lazy In Life","LWWW","","dom","S"],["2023-11-08","Aurora Cup 2023 Main Event","Final","Fourth Wall","Verdant","LLL","","dom","S"],["2024-07-24","LVP SuperLiga 2024 Summer Playoffs","Round 1","Ramboot Club","GIANTX PRIDE","WWW","","dom","S"],["2024-07-29","LVP SuperLiga 2024 Summer Playoffs","Round 2","Ramboot Club","UCAM Esports","WWLLW","","dom","S"],["2024-07-30","LVP SuperLiga 2024 Summer Playoffs","Semifinal","Ramboot Club","Barça eSports","WLLL","","dom","S"],["2024-11-06","Iberian Cup 2024","Quarterfinal","Ramboot Club","Barça eSports","LLL","","dom","S"],["2025-05-14","TCL 2025 Spring Playoffs","Round 1","ULF Esports","Bushido Wildcats","WWLLW","","dom","S"],["2025-05-21","TCL 2025 Spring Playoffs","Round 2","ULF Esports","BBL Dark Passage","LLWWW","","dom","S"],["2025-05-23","TCL 2025 Spring Playoffs","Semifinal","ULF Esports","BoostGate Esports","LWLL","","dom","S"],["2025-06-12","EMEA Masters 2025 Spring","Round of 16","ULF Esports","BoostGate Esports","LLL","","dom","S"],["2025-09-06","LFL Division 2 2025 Summer Playoffs","Round 1","Esprit Shōnen","IziDream","WLLWW","","dom","S"],["2025-09-14","LFL Division 2 2025 Summer Playoffs","Final","Esprit Shōnen","IziDream","WWW","","dom","S"],["2025-09-16","LFL 2026 Promotion","Round 1","Esprit Shōnen","Team BDS Academy","LWWW","","dom","S"],["2025-09-18","LFL 2026 Promotion","Round 2","Esprit Shōnen","Team BDS Academy","WLLWW","","dom","S"],["2025-12-07","GAMEON Revival 2025","Round 2","Last Wall","BASTON5","WWW","","dom","S"],["2025-12-14","GAMEON Revival 2025","Final","Last Wall","Misa Esports","LLL","","dom","S"],["2026-08-25","Esports Balkan League 2026 Summer Playoffs","Semifinal","Magaza Esports","Lenovo Legion Honvéd","LWLL","","dom","S"],["2026-09-08","Esports Balkan League 2026 Season Finals","Semifinal","Magaza Esports","Lenovo Legion Honvéd","WLWW","","dom","S"],["2026-09-10","Esports Balkan League 2026 Season Finals","Final","Magaza Esports","The Secret Club","WWLLW","","dom","S"]],"unknown":[]}
+{
+  "player": "Mxe",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2023-03-10","GL2D 2023 Spring Playoffs","Round 1","Team Refuse","Team Paradox","WWW","","dom","S"],
+    ["2023-03-16","GL2D 2023 Spring Playoffs","Semifinal","Team Refuse","Actions Per Minute","WWLW","","dom","S"],
+    ["2023-03-24","GL2D 2023 Spring Playoffs","Final","Team Refuse","Ionikos Nikaias Esports","WWW","","dom","S"],
+    ["2023-08-11","TCL Division 2 2023 Summer Playoffs","Round 1","Chasing Haze 07","Phoenix Esports (Turkish Team)","LWWW","","dom","S"],
+    ["2023-08-16","TCL Division 2 2023 Summer Playoffs","Round 2","Chasing Haze 07","Beetle Juice","WLLWW","","dom","S"],
+    ["2023-08-18","TCL Division 2 2023 Summer Playoffs","Semifinal","Chasing Haze 07","Looking for ORG (Turkish Team)","WLWLL","","dom","S"],
+    ["2023-09-12","TCL 2024 Promotion","Round 1","Chasing Haze 07","Looking for ORG (Turkish Team)","LWWW","","dom","S"],
+    ["2023-09-18","TCL 2024 Promotion","Round 2","Chasing Haze 07","Galakticos","LLL","","dom","S"],
+    ["2023-09-19","TCL 2024 Promotion","Round 2","Chasing Haze 07","Beetle Juice","LWLWW","","dom","S"],
+    ["2023-10-16","Aurora Cup 2023 Main Event","Quarterfinal","Fourth Wall","Karolinerna","WWW","","dom","S"],
+    ["2023-11-01","Aurora Cup 2023 Main Event","Semifinal","Fourth Wall","Lazy In Life","LWWW","","dom","S"],
+    ["2023-11-08","Aurora Cup 2023 Main Event","Final","Fourth Wall","Verdant","LLL","","dom","S"],
+    ["2024-07-24","LVP SuperLiga 2024 Summer Playoffs","Round 1","Ramboot Club","GIANTX PRIDE","WWW","","dom","S"],
+    ["2024-07-29","LVP SuperLiga 2024 Summer Playoffs","Round 2","Ramboot Club","UCAM Esports","WWLLW","","dom","S"],
+    ["2024-07-30","LVP SuperLiga 2024 Summer Playoffs","Semifinal","Ramboot Club","Barça eSports","WLLL","","dom","S"],
+    ["2024-11-06","Iberian Cup 2024","Quarterfinal","Ramboot Club","Barça eSports","LLL","","dom","S"],
+    ["2025-05-14","TCL 2025 Spring Playoffs","Round 1","ULF Esports","Bushido Wildcats","WWLLW","","dom","S"],
+    ["2025-05-21","TCL 2025 Spring Playoffs","Round 2","ULF Esports","BBL Dark Passage","LLWWW","","dom","S"],
+    ["2025-05-23","TCL 2025 Spring Playoffs","Semifinal","ULF Esports","BoostGate Esports","LWLL","","dom","S"],
+    ["2025-06-12","EMEA Masters 2025 Spring","Round of 16","ULF Esports","BoostGate Esports","LLL","","dom","S"],
+    ["2025-09-06","LFL Division 2 2025 Summer Playoffs","Round 1","Esprit Shōnen","IziDream","WLLWW","","dom","S"],
+    ["2025-09-14","LFL Division 2 2025 Summer Playoffs","Final","Esprit Shōnen","IziDream","WWW","","dom","S"],
+    ["2025-09-16","LFL 2026 Promotion","Round 1","Esprit Shōnen","Team BDS Academy","LWWW","","dom","S"],
+    ["2025-09-18","LFL 2026 Promotion","Round 2","Esprit Shōnen","Team BDS Academy","WLLWW","","dom","S"],
+    ["2025-12-07","GAMEON Revival 2025","Round 2","Last Wall","BASTON5","WWW","","dom","S"],
+    ["2025-12-14","GAMEON Revival 2025","Final","Last Wall","Misa Esports","LLL","","dom","S"],
+    ["2026-08-25","Esports Balkan League 2026 Summer Playoffs","Semifinal","Magaza Esports","Lenovo Legion Honvéd","LWLL","","dom","S"],
+    ["2026-09-08","Esports Balkan League 2026 Season Finals","Semifinal","Magaza Esports","Lenovo Legion Honvéd","WLWW","","dom","S"],
+    ["2026-09-10","Esports Balkan League 2026 Season Finals","Final","Magaza Esports","The Secret Club","WWLLW","","dom","S"]
+  ],
+  "unknown": []
+}

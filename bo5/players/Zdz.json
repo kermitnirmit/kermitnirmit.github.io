@@ -1,1 +1,34 @@
-{"player":"Zdz","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2018-09-23","LDL 2018 Grand Finals","Grand Final","Unlimited Potential","SinoDragon Gaming","LLWL","","dom","S"],["2019-05-02","National Electronic Sports Tournament 2019","Qualifying Round","Vici Gaming","Invictus Gaming","WLLL","r","dom","P"],["2019-09-16","LDL 2019 Summer Playoffs","Quarterfinal","Vici Gaming Potential","EDward Gaming Youth Team","WLLL","","dom","S"],["2019-12-29","Demacia Cup 2019","Third-Place Match","Vici Gaming","JD Gaming","LLL","","dom","P"],["2020-08-27","LDL 2020 Summer Playoffs","Round 1","Vici Gaming Potential","Legend Esport Gaming","LWWW","","dom","S"],["2020-08-29","LDL 2020 Summer Playoffs","Quarterfinal","Vici Gaming Potential","Invictus Gaming Young","LLL","","dom","S"],["2022-12-22","Demacia Cup 2022","Quarterfinal","Anyone's Legend","Royal Never Give Up","LLL","","dom","P"],["2023-12-31","Demacia Cup 2023","Quarterfinal","Weibo Gaming","Ninjas in Pyjamas.CN","WLWLL","","dom","P"],["2024-04-01","LPL 2024 Spring Playoffs","Round 1","Weibo Gaming","Invictus Gaming","WWLLW","","dom","P"],["2024-04-03","LPL 2024 Spring Playoffs","Round 2","Weibo Gaming","LNG Esports","WWLLW","","dom","P"],["2024-04-05","LPL 2024 Spring Playoffs","Round 3","Weibo Gaming","JD Gaming","LLL","","dom","P"],["2024-08-11","LPL 2024 Summer Playoffs","Round 1","FunPlus Phoenix","ThunderTalk Gaming","LWWLW","","dom","P"],["2024-08-13","LPL 2024 Summer Playoffs","Round 2","FunPlus Phoenix","Anyone's Legend","LLWL","","dom","P"],["2025-01-17","LPL 2025 Split 1","","EDward Gaming","Bilibili Gaming","LLL","","dom","P"],["2025-01-21","LPL 2025 Split 1","","EDward Gaming","ThunderTalk Gaming","WLLL","","dom","P"],["2025-02-11","LPL 2025 Split 1","","EDward Gaming","LNG Esports","WWW","","dom","P"],["2025-05-24","LPL 2025 Split 2 Playoffs","Play-In","EDward Gaming","Invictus Gaming","LLL","","dom","P"],["2025-08-31","LPL 2025 Grand Finals","Play-In","EDward Gaming","Team WE","WWLW","","dom","P"],["2025-09-07","LPL 2025 Grand Finals","Round 1","EDward Gaming","Invictus Gaming","LLL","","dom","P"],["2025-09-11","LPL 2025 Grand Finals","Round 1","EDward Gaming","JD Gaming","WLWLL","","dom","P"],["2025-12-27","Demacia Cup 2025","Quarterfinal","EDward Gaming","JD Gaming","WLLL","","dom","P"],["2026-02-10","LPL 2026 Split 1 Playoffs","Play-In Round 2","EDward Gaming","Oh My God","LLWL","","dom","P"],["2026-05-24","LPL 2026 Split 2 Playoffs","Play-In","EDward Gaming","Ninjas in Pyjamas.CN","WLWLW","","dom","P"],["2026-05-30","LPL 2026 Split 2 Playoffs","Round 1","EDward Gaming","Anyone's Legend","LLL","","dom","P"],["2026-06-03","LPL 2026 Split 2 Playoffs","Round 1","EDward Gaming","Bilibili Gaming","LLL","","dom","P"],["2026-08-28","LPL 2026 Grand Finals","Knight's Road","EDward Gaming","Ninjas in Pyjamas.CN","LLL","","dom","P"]],"unknown":[]}
+{
+  "player": "Zdz",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2018-09-23","LDL 2018 Grand Finals","Grand Final","Unlimited Potential","SinoDragon Gaming","LLWL","","dom","S"],
+    ["2019-05-02","National Electronic Sports Tournament 2019","Qualifying Round","Vici Gaming","Invictus Gaming","WLLL","r","dom","P"],
+    ["2019-09-16","LDL 2019 Summer Playoffs","Quarterfinal","Vici Gaming Potential","EDward Gaming Youth Team","WLLL","","dom","S"],
+    ["2019-12-29","Demacia Cup 2019","Third-Place Match","Vici Gaming","JD Gaming","LLL","","dom","P"],
+    ["2020-08-27","LDL 2020 Summer Playoffs","Round 1","Vici Gaming Potential","Legend Esport Gaming","LWWW","","dom","S"],
+    ["2020-08-29","LDL 2020 Summer Playoffs","Quarterfinal","Vici Gaming Potential","Invictus Gaming Young","LLL","","dom","S"],
+    ["2022-12-22","Demacia Cup 2022","Quarterfinal","Anyone's Legend","Royal Never Give Up","LLL","","dom","P"],
+    ["2023-12-31","Demacia Cup 2023","Quarterfinal","Weibo Gaming","Ninjas in Pyjamas.CN","WLWLL","","dom","P"],
+    ["2024-04-01","LPL 2024 Spring Playoffs","Round 1","Weibo Gaming","Invictus Gaming","WWLLW","","dom","P"],
+    ["2024-04-03","LPL 2024 Spring Playoffs","Round 2","Weibo Gaming","LNG Esports","WWLLW","","dom","P"],
+    ["2024-04-05","LPL 2024 Spring Playoffs","Round 3","Weibo Gaming","JD Gaming","LLL","","dom","P"],
+    ["2024-08-11","LPL 2024 Summer Playoffs","Round 1","FunPlus Phoenix","ThunderTalk Gaming","LWWLW","","dom","P"],
+    ["2024-08-13","LPL 2024 Summer Playoffs","Round 2","FunPlus Phoenix","Anyone's Legend","LLWL","","dom","P"],
+    ["2025-01-17","LPL 2025 Split 1","","EDward Gaming","Bilibili Gaming","LLL","","dom","P"],
+    ["2025-01-21","LPL 2025 Split 1","","EDward Gaming","ThunderTalk Gaming","WLLL","","dom","P"],
+    ["2025-02-11","LPL 2025 Split 1","","EDward Gaming","LNG Esports","WWW","","dom","P"],
+    ["2025-05-24","LPL 2025 Split 2 Playoffs","Play-In","EDward Gaming","Invictus Gaming","LLL","","dom","P"],
+    ["2025-08-31","LPL 2025 Grand Finals","Play-In","EDward Gaming","Team WE","WWLW","","dom","P"],
+    ["2025-09-07","LPL 2025 Grand Finals","Round 1","EDward Gaming","Invictus Gaming","LLL","","dom","P"],
+    ["2025-09-11","LPL 2025 Grand Finals","Round 1","EDward Gaming","JD Gaming","WLWLL","","dom","P"],
+    ["2025-12-27","Demacia Cup 2025","Quarterfinal","EDward Gaming","JD Gaming","WLLL","","dom","P"],
+    ["2026-02-10","LPL 2026 Split 1 Playoffs","Play-In Round 2","EDward Gaming","Oh My God","LLWL","","dom","P"],
+    ["2026-05-24","LPL 2026 Split 2 Playoffs","Play-In","EDward Gaming","Ninjas in Pyjamas.CN","WLWLW","","dom","P"],
+    ["2026-05-30","LPL 2026 Split 2 Playoffs","Round 1","EDward Gaming","Anyone's Legend","LLL","","dom","P"],
+    ["2026-06-03","LPL 2026 Split 2 Playoffs","Round 1","EDward Gaming","Bilibili Gaming","LLL","","dom","P"],
+    ["2026-08-28","LPL 2026 Grand Finals","Knight's Road","EDward Gaming","Ninjas in Pyjamas.CN","LLL","","dom","P"]
+  ],
+  "unknown": []
+}

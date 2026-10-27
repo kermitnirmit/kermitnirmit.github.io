@@ -1,1 +1,43 @@
-{"player":"cody","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2019-04-02","Liga de Honor Entel 2019 Opening Playoffs","Semifinal","Valorous","Dark Horse","LLL","","dom","S"],["2019-08-05","Liga de Honor Entel 2019 Closing Playoffs","Semifinal","Azules Esports","Universidad Católica Esports","WWW","","dom","S"],["2019-08-18","Liga de Honor Entel 2019 Closing Playoffs","Final","Azules Esports","Rebirth eSports","LWWW","","dom","S"],["2019-09-12","Regional Sur 2019 Season","Playoffs","Azules Esports","9z Team","WLWW","","dom","S"],["2020-08-15","LLA 2020 Closing Playoffs","Round 1","Azules Esports","Rainbow7","LWLWL","","dom","P"],["2021-04-03","LLA 2021 Opening Playoffs","Round 2","INFINITY","All Knights","LWWW","","dom","P"],["2021-04-10","LLA 2021 Opening Playoffs","Final","INFINITY","Furious Gaming","LLWWW","","dom","P"],["2021-08-28","LLA 2021 Closing Playoffs","Final","INFINITY","Estral Esports","LWLWW","","dom","P"],["2022-03-20","LLA 2022 Opening Playoffs","Round 1","INFINITY","Team Aze","LLL","","dom","P"],["2022-03-26","LLA 2022 Opening Playoffs","Round 2","INFINITY","Isurus","LLL","","dom","P"],["2022-08-05","LLA 2022 Closing Playoffs","Round 1","INFINITY","All Knights","WWW","","dom","P"],["2022-08-13","LLA 2022 Closing Playoffs","Round 2","INFINITY","Team Aze","WLLL","","dom","P"],["2023-03-14","LLA 2023 Opening Playoffs","Round 1","Six Karma","Estral Esports","WLWW","","dom","P"],["2023-03-28","LLA 2023 Opening Playoffs","Semifinal","Six Karma","Movistar R7","WWLLW","","dom","P"],["2023-04-15","LLA 2023 Opening Playoffs","Final","Six Karma","Movistar R7","WLLWL","","dom","P"],["2023-07-26","LLA 2023 Closing Playoffs","Round 1","Six Karma","Estral Esports","LLWL","","dom","P"],["2023-08-09","LLA 2023 Closing Playoffs","Round 3","Six Karma","Isurus","WLLWW","","dom","P"],["2023-08-15","LLA 2023 Closing Playoffs","Semifinal","Six Karma","Estral Esports","LLWWL","","dom","P"],["2024-03-05","LLA 2024 Opening Playoffs","Round 1","Estral Esports","Leviatan","WWW","","dom","P"],["2024-03-19","LLA 2024 Opening Playoffs","Semifinal","Estral Esports","Movistar R7","LLWWW","","dom","P"],["2024-04-06","LLA 2024 Opening Playoffs","Final","Estral Esports","Movistar R7","WWW","","dom","P"],["2024-07-30","LLA 2024 Closing Playoffs","Round 1","Estral Esports","Movistar R7","WWLLL","","dom","P"],["2024-08-07","LLA 2024 Closing Playoffs","Round 1","Estral Esports","INFINITY","WWLLL","","dom","P"],["2025-08-25","Liga Regional Norte 2025 Split 2 Playoffs","Round 4","Estral Esports","SDM Tigres","LWWLL","","dom","S"],["2025-08-31","Liga Regional Norte 2025 Split 2 Playoffs","Round 4","Estral Esports","Fuego","WWW","","dom","S"],["2025-09-08","Liga Regional Norte 2025 Split 2 Playoffs","Final","Estral Esports","SDM Tigres","LLL","","dom","S"],["2025-10-04","LTA North 2026 Promotion","Play-In","Estral Esports","Conviction","LWWLW","","dom","P"],["2025-10-07","LTA North 2026 Promotion","Round 1","Estral Esports","Disguised","LWLL","","dom","P"],["2025-10-09","LTA North 2026 Promotion","Round 1","Estral Esports","SDM Tigres","WWW","","dom","P"],["2025-10-10","LTA North 2026 Promotion","Round 2","Estral Esports","Luminosity Gaming","LLL","","dom","P"],["2026-05-10","CBLOL 2026 Split 1 Playoffs","Round 1","Fluxo W7M","LØS","WLWLW","","dom","P"],["2026-05-16","CBLOL 2026 Split 1 Playoffs","Round 2","Fluxo W7M","RED Canids","WLLL","","dom","P"],["2026-05-30","CBLOL 2026 Split 1 Playoffs","Round 3","Fluxo W7M","LØS","LWWLL","","dom","P"]],"unknown":[["2018-09-23","Circuito Nacional Chile 2018 Closing","Semifinal","Andes Esports","Universidad Católica Esports","2-3","","dom",""]]}
+{
+  "player": "cody",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2019-04-02","Liga de Honor Entel 2019 Opening Playoffs","Semifinal","Valorous","Dark Horse","LLL","","dom","S"],
+    ["2019-08-05","Liga de Honor Entel 2019 Closing Playoffs","Semifinal","Azules Esports","Universidad Católica Esports","WWW","","dom","S"],
+    ["2019-08-18","Liga de Honor Entel 2019 Closing Playoffs","Final","Azules Esports","Rebirth eSports","LWWW","","dom","S"],
+    ["2019-09-12","Regional Sur 2019 Season","Playoffs","Azules Esports","9z Team","WLWW","","dom","S"],
+    ["2020-08-15","LLA 2020 Closing Playoffs","Round 1","Azules Esports","Rainbow7","LWLWL","","dom","P"],
+    ["2021-04-03","LLA 2021 Opening Playoffs","Round 2","INFINITY","All Knights","LWWW","","dom","P"],
+    ["2021-04-10","LLA 2021 Opening Playoffs","Final","INFINITY","Furious Gaming","LLWWW","","dom","P"],
+    ["2021-08-28","LLA 2021 Closing Playoffs","Final","INFINITY","Estral Esports","LWLWW","","dom","P"],
+    ["2022-03-20","LLA 2022 Opening Playoffs","Round 1","INFINITY","Team Aze","LLL","","dom","P"],
+    ["2022-03-26","LLA 2022 Opening Playoffs","Round 2","INFINITY","Isurus","LLL","","dom","P"],
+    ["2022-08-05","LLA 2022 Closing Playoffs","Round 1","INFINITY","All Knights","WWW","","dom","P"],
+    ["2022-08-13","LLA 2022 Closing Playoffs","Round 2","INFINITY","Team Aze","WLLL","","dom","P"],
+    ["2023-03-14","LLA 2023 Opening Playoffs","Round 1","Six Karma","Estral Esports","WLWW","","dom","P"],
+    ["2023-03-28","LLA 2023 Opening Playoffs","Semifinal","Six Karma","Movistar R7","WWLLW","","dom","P"],
+    ["2023-04-15","LLA 2023 Opening Playoffs","Final","Six Karma","Movistar R7","WLLWL","","dom","P"],
+    ["2023-07-26","LLA 2023 Closing Playoffs","Round 1","Six Karma","Estral Esports","LLWL","","dom","P"],
+    ["2023-08-09","LLA 2023 Closing Playoffs","Round 3","Six Karma","Isurus","WLLWW","","dom","P"],
+    ["2023-08-15","LLA 2023 Closing Playoffs","Semifinal","Six Karma","Estral Esports","LLWWL","","dom","P"],
+    ["2024-03-05","LLA 2024 Opening Playoffs","Round 1","Estral Esports","Leviatan","WWW","","dom","P"],
+    ["2024-03-19","LLA 2024 Opening Playoffs","Semifinal","Estral Esports","Movistar R7","LLWWW","","dom","P"],
+    ["2024-04-06","LLA 2024 Opening Playoffs","Final","Estral Esports","Movistar R7","WWW","","dom","P"],
+    ["2024-07-30","LLA 2024 Closing Playoffs","Round 1","Estral Esports","Movistar R7","WWLLL","","dom","P"],
+    ["2024-08-07","LLA 2024 Closing Playoffs","Round 1","Estral Esports","INFINITY","WWLLL","","dom","P"],
+    ["2025-08-25","Liga Regional Norte 2025 Split 2 Playoffs","Round 4","Estral Esports","SDM Tigres","LWWLL","","dom","S"],
+    ["2025-08-31","Liga Regional Norte 2025 Split 2 Playoffs","Round 4","Estral Esports","Fuego","WWW","","dom","S"],
+    ["2025-09-08","Liga Regional Norte 2025 Split 2 Playoffs","Final","Estral Esports","SDM Tigres","LLL","","dom","S"],
+    ["2025-10-04","LTA North 2026 Promotion","Play-In","Estral Esports","Conviction","LWWLW","","dom","P"],
+    ["2025-10-07","LTA North 2026 Promotion","Round 1","Estral Esports","Disguised","LWLL","","dom","P"],
+    ["2025-10-09","LTA North 2026 Promotion","Round 1","Estral Esports","SDM Tigres","WWW","","dom","P"],
+    ["2025-10-10","LTA North 2026 Promotion","Round 2","Estral Esports","Luminosity Gaming","LLL","","dom","P"],
+    ["2026-05-10","CBLOL 2026 Split 1 Playoffs","Round 1","Fluxo W7M","LØS","WLWLW","","dom","P"],
+    ["2026-05-16","CBLOL 2026 Split 1 Playoffs","Round 2","Fluxo W7M","RED Canids","WLLL","","dom","P"],
+    ["2026-05-30","CBLOL 2026 Split 1 Playoffs","Round 3","Fluxo W7M","LØS","LWWLL","","dom","P"]
+  ],
+  "unknown": [
+    ["2018-09-23","Circuito Nacional Chile 2018 Closing","Semifinal","Andes Esports","Universidad Católica Esports","2-3","","dom",""]
+  ]
+}

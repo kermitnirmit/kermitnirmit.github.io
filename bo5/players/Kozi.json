@@ -1,1 +1,34 @@
-{"player":"Kozi","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2024-03-13","Ultraliga 2024 Spring Playoffs","Round 1","Back2TheGame","Forsaken (Polish Team)","WWW","","dom","S"],["2024-03-14","Ultraliga 2024 Spring Playoffs","Semifinal","Back2TheGame","Zero Tenacity","LWWLL","","dom","S"],["2024-05-25","Comic Con Baltics 2024","Final","Back2TheGame","Esport Arena Cukiereczki","WWW","r","dom","S"],["2024-07-13","European Pro League Season 2","Final","Back2TheGame","Zero Tenacity","LLL","","dom","S"],["2024-07-24","Ultraliga 2024 Summer Playoffs","Round 1","Back2TheGame","Zero Tenacity","WLWLW","","dom","S"],["2024-08-03","Ultraliga 2024 Summer Playoffs","Final","Back2TheGame","Zero Tenacity","LLL","","dom","S"],["2024-09-08","Z10 Scouting Grounds 1st Phase","Final","Team Vil","Team StealStrike","WWW","","dom","S"],["2024-09-20","Z10 Scouting Grounds Final Phase","Semifinal","Team MaKu","Team Vil","LWWLW","","dom","S"],["2024-09-21","Z10 Scouting Grounds Final Phase","Final","Team MaKu","Team Blodgharm","WLLL","","dom","S"],["2025-03-01","Rift Legends 2025 Winter Playoffs","Round 1","Zero Tenacity","Kiedyś Miałem Fun","LLWWW","","dom","S"],["2025-03-09","Rift Legends 2025 Winter Playoffs","Final","Zero Tenacity","Back2TheGame","WWLW","","dom","S"],["2025-05-15","Rift Legends 2025 Spring Playoffs","Round 1","Zero Tenacity","Fajnie Mieć Skład","LWWLL","","dom","S"],["2025-05-17","Rift Legends 2025 Spring Playoffs","Semifinal","Zero Tenacity","Forsaken (Polish Team)","LWWLW","","dom","S"],["2025-05-18","Rift Legends 2025 Spring Playoffs","Final","Zero Tenacity","Fajnie Mieć Skład","WLLWW","","dom","S"],["2025-06-13","EMEA Masters 2025 Spring","Round of 16","Zero Tenacity","Karmine Corp Blue","LLL","","dom","S"],["2025-09-05","Rift Legends 2025 Summer Playoffs","Round 1","Zero Tenacity","Barcząca Esports","WLWW","","dom","S"],["2025-09-06","Rift Legends 2025 Summer Playoffs","Semifinal","Zero Tenacity","Forsaken (Polish Team)","LWWW","","dom","S"],["2025-09-07","Rift Legends 2025 Summer Playoffs","Final","Zero Tenacity","StormMedia Fajnie Mieć Skład","WWLW","","dom","S"],["2026-06-04","LES 2026 Spring Playoffs","Semifinal","UCAM Esports","Movistar KOI Fénix","LWWLW","","dom","S"],["2026-06-05","LES 2026 Spring Playoffs","Final","UCAM Esports","Team Heretics Academy","LLWL","","dom","S"],["2026-06-13","EMEA Masters 2026 Spring Main Event","Quarterfinal","UCAM Esports","Karmine Corp Blue","WLWW","","dom","S"],["2026-06-14","EMEA Masters 2026 Spring Main Event","Semifinal","UCAM Esports","Solary","LLL","","dom","S"],["2026-08-19","LES 2026 Summer Playoffs","Semifinal","UCAM Esports","Team Heretics Academy","LLL","","dom","S"],["2026-09-01","LES 2026 Final Four","Round 1","UCAM Esports","Barça eSports","WWW","","dom","S"],["2026-09-02","LES 2026 Final Four","Round 2","UCAM Esports","Movistar KOI Fénix","LWLL","","dom","S"],["2026-10-04","EMEA Masters 2026 Summer Main Event","Knockout Matches","UCAM Esports","Movistar KOI Fénix","LLWWL","","dom","S"]],"unknown":[]}
+{
+  "player": "Kozi",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2024-03-13","Ultraliga 2024 Spring Playoffs","Round 1","Back2TheGame","Forsaken (Polish Team)","WWW","","dom","S"],
+    ["2024-03-14","Ultraliga 2024 Spring Playoffs","Semifinal","Back2TheGame","Zero Tenacity","LWWLL","","dom","S"],
+    ["2024-05-25","Comic Con Baltics 2024","Final","Back2TheGame","Esport Arena Cukiereczki","WWW","r","dom","S"],
+    ["2024-07-13","European Pro League Season 2","Final","Back2TheGame","Zero Tenacity","LLL","","dom","S"],
+    ["2024-07-24","Ultraliga 2024 Summer Playoffs","Round 1","Back2TheGame","Zero Tenacity","WLWLW","","dom","S"],
+    ["2024-08-03","Ultraliga 2024 Summer Playoffs","Final","Back2TheGame","Zero Tenacity","LLL","","dom","S"],
+    ["2024-09-08","Z10 Scouting Grounds 1st Phase","Final","Team Vil","Team StealStrike","WWW","","dom","S"],
+    ["2024-09-20","Z10 Scouting Grounds Final Phase","Semifinal","Team MaKu","Team Vil","LWWLW","","dom","S"],
+    ["2024-09-21","Z10 Scouting Grounds Final Phase","Final","Team MaKu","Team Blodgharm","WLLL","","dom","S"],
+    ["2025-03-01","Rift Legends 2025 Winter Playoffs","Round 1","Zero Tenacity","Kiedyś Miałem Fun","LLWWW","","dom","S"],
+    ["2025-03-09","Rift Legends 2025 Winter Playoffs","Final","Zero Tenacity","Back2TheGame","WWLW","","dom","S"],
+    ["2025-05-15","Rift Legends 2025 Spring Playoffs","Round 1","Zero Tenacity","Fajnie Mieć Skład","LWWLL","","dom","S"],
+    ["2025-05-17","Rift Legends 2025 Spring Playoffs","Semifinal","Zero Tenacity","Forsaken (Polish Team)","LWWLW","","dom","S"],
+    ["2025-05-18","Rift Legends 2025 Spring Playoffs","Final","Zero Tenacity","Fajnie Mieć Skład","WLLWW","","dom","S"],
+    ["2025-06-13","EMEA Masters 2025 Spring","Round of 16","Zero Tenacity","Karmine Corp Blue","LLL","","dom","S"],
+    ["2025-09-05","Rift Legends 2025 Summer Playoffs","Round 1","Zero Tenacity","Barcząca Esports","WLWW","","dom","S"],
+    ["2025-09-06","Rift Legends 2025 Summer Playoffs","Semifinal","Zero Tenacity","Forsaken (Polish Team)","LWWW","","dom","S"],
+    ["2025-09-07","Rift Legends 2025 Summer Playoffs","Final","Zero Tenacity","StormMedia Fajnie Mieć Skład","WWLW","","dom","S"],
+    ["2026-06-04","LES 2026 Spring Playoffs","Semifinal","UCAM Esports","Movistar KOI Fénix","LWWLW","","dom","S"],
+    ["2026-06-05","LES 2026 Spring Playoffs","Final","UCAM Esports","Team Heretics Academy","LLWL","","dom","S"],
+    ["2026-06-13","EMEA Masters 2026 Spring Main Event","Quarterfinal","UCAM Esports","Karmine Corp Blue","WLWW","","dom","S"],
+    ["2026-06-14","EMEA Masters 2026 Spring Main Event","Semifinal","UCAM Esports","Solary","LLL","","dom","S"],
+    ["2026-08-19","LES 2026 Summer Playoffs","Semifinal","UCAM Esports","Team Heretics Academy","LLL","","dom","S"],
+    ["2026-09-01","LES 2026 Final Four","Round 1","UCAM Esports","Barça eSports","WWW","","dom","S"],
+    ["2026-09-02","LES 2026 Final Four","Round 2","UCAM Esports","Movistar KOI Fénix","LWLL","","dom","S"],
+    ["2026-10-04","EMEA Masters 2026 Summer Main Event","Knockout Matches","UCAM Esports","Movistar KOI Fénix","LLWWL","","dom","S"]
+  ],
+  "unknown": []
+}

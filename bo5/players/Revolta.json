@@ -1,1 +1,36 @@
-{"player":"Revolta","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2014-07-26","CBLOL 2014 Regional Finals","Final","CNB e-Sports Club","KaBuM! Esports","WLLL","","dom","P"],["2014-09-28","X5 Mega Arena 2","Scoreboards","Keyd Stars","paiN Gaming","WWLLL","","dom","S"],["2015-03-28","CBLOL 2015 Split 1 Playoffs","Semifinal","INTZ","paiN Gaming","WWW","","dom","P"],["2015-04-18","CBLOL 2015 Split 1 Playoffs","Final","INTZ","Keyd Stars","WWW","","dom","P"],["2015-04-24","International Wildcard Invitational 2015","Semifinal","INTZ","Hard Random","WWLW","","dom","P"],["2015-04-25","International Wildcard Invitational 2015","Final","INTZ","Beşiktaş Esports","WLLL","","dom","P"],["2015-07-19","CBLOL 2015 Split 2 Playoffs","Semifinal","Keyd Stars","paiN Gaming","LLL","","dom","P"],["2015-07-25","CBLOL 2015 Split 2 Playoffs","Third-Place Match","Keyd Stars","g3nerationX","WWW","","dom","P"],["2015-11-15","CBLOL 2015 Post-Season","Final","INTZ","KaBuM! Orange","WWW","","dom","P"],["2016-03-20","CBLOL 2016 Split 1 Playoffs","Semifinal","INTZ","Operation Kino e-Sports","WLWW","","dom","P"],["2016-04-02","CBLOL 2016 Split 1 Playoffs","Final","INTZ","Keyd Stars","WWW","","dom","P"],["2016-04-20","International Wildcard Invitational 2016","Semifinal","INTZ","Hard Random","LLL","","dom","P"],["2016-06-26","CBLOL 2016 Split 2 Playoffs","Semifinal","INTZ","paiN Gaming","WWLLW","","dom","P"],["2016-07-09","CBLOL 2016 Split 2 Playoffs","Final","INTZ","CNB e-Sports Club","WLWW","","dom","P"],["2016-09-03","International Wildcard Qualifier 2016","Final","INTZ","Dark Passage","WLWLW","","dom","P"],["2017-03-25","CBLOL 2017 Split 1 Playoffs","Semifinal","Keyd Stars","INTZ","WWLW","","dom","P"],["2017-04-08","CBLOL 2017 Split 1 Playoffs","Final","Keyd Stars","RED Canids","LLL","","dom","P"],["2017-08-05","CBLOL 2018 Split 1 Promotion","Qualifiers","Keyd Stars","Iron Hawks e-Sports","WWW","","dom","P"],["2018-03-18","CBLOL 2018 Split 1 Playoffs","Round 2","Vivo Keyd","CNB e-Sports Club","WWW","","dom","P"],["2018-03-24","CBLOL 2018 Split 1 Playoffs","Round 3","Vivo Keyd","RED Canids","LWLWW","","dom","P"],["2018-04-07","CBLOL 2018 Split 1 Playoffs","Final","Vivo Keyd","KaBuM! Esports","LWLWL","","dom","P"],["2018-08-11","CBLOL 2018 Split 2 Playoffs","Round 1","Vivo Keyd","Razer Pichau Gaming","WWW","","dom","P"],["2018-08-18","CBLOL 2018 Split 2 Playoffs","Round 2","Vivo Keyd","CNB e-Sports Club","LWLWL","","dom","P"],["2019-04-01","Brazilian Challenger Circuit 2019 Split 1 Playoffs","Semifinal","RED Canids","Team oNe eSports","LWLL","","dom","S"],["2019-08-13","Brazilian Challenger Circuit 2019 Split 2 Playoffs","Semifinal","RED Canids","ProGaming Esports","LLL","","dom","S"],["2020-08-23","CBLOL 2020 Split 2 Playoffs","Semifinal","KaBuM! Esports","INTZ","LWLWL","","dom","P"]],"unknown":[["2013-11-10","Brasil Gaming League Arena 2","Final","Keyd Team","CNB e-Sports Club","3-2","","dom",""]]}
+{
+  "player": "Revolta",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2014-07-26","CBLOL 2014 Regional Finals","Final","CNB e-Sports Club","KaBuM! Esports","WLLL","","dom","P"],
+    ["2014-09-28","X5 Mega Arena 2","Scoreboards","Keyd Stars","paiN Gaming","WWLLL","","dom","S"],
+    ["2015-03-28","CBLOL 2015 Split 1 Playoffs","Semifinal","INTZ","paiN Gaming","WWW","","dom","P"],
+    ["2015-04-18","CBLOL 2015 Split 1 Playoffs","Final","INTZ","Keyd Stars","WWW","","dom","P"],
+    ["2015-04-24","International Wildcard Invitational 2015","Semifinal","INTZ","Hard Random","WWLW","","dom","P"],
+    ["2015-04-25","International Wildcard Invitational 2015","Final","INTZ","Beşiktaş Esports","WLLL","","dom","P"],
+    ["2015-07-19","CBLOL 2015 Split 2 Playoffs","Semifinal","Keyd Stars","paiN Gaming","LLL","","dom","P"],
+    ["2015-07-25","CBLOL 2015 Split 2 Playoffs","Third-Place Match","Keyd Stars","g3nerationX","WWW","","dom","P"],
+    ["2015-11-15","CBLOL 2015 Post-Season","Final","INTZ","KaBuM! Orange","WWW","","dom","P"],
+    ["2016-03-20","CBLOL 2016 Split 1 Playoffs","Semifinal","INTZ","Operation Kino e-Sports","WLWW","","dom","P"],
+    ["2016-04-02","CBLOL 2016 Split 1 Playoffs","Final","INTZ","Keyd Stars","WWW","","dom","P"],
+    ["2016-04-20","International Wildcard Invitational 2016","Semifinal","INTZ","Hard Random","LLL","","dom","P"],
+    ["2016-06-26","CBLOL 2016 Split 2 Playoffs","Semifinal","INTZ","paiN Gaming","WWLLW","","dom","P"],
+    ["2016-07-09","CBLOL 2016 Split 2 Playoffs","Final","INTZ","CNB e-Sports Club","WLWW","","dom","P"],
+    ["2016-09-03","International Wildcard Qualifier 2016","Final","INTZ","Dark Passage","WLWLW","","dom","P"],
+    ["2017-03-25","CBLOL 2017 Split 1 Playoffs","Semifinal","Keyd Stars","INTZ","WWLW","","dom","P"],
+    ["2017-04-08","CBLOL 2017 Split 1 Playoffs","Final","Keyd Stars","RED Canids","LLL","","dom","P"],
+    ["2017-08-05","CBLOL 2018 Split 1 Promotion","Qualifiers","Keyd Stars","Iron Hawks e-Sports","WWW","","dom","P"],
+    ["2018-03-18","CBLOL 2018 Split 1 Playoffs","Round 2","Vivo Keyd","CNB e-Sports Club","WWW","","dom","P"],
+    ["2018-03-24","CBLOL 2018 Split 1 Playoffs","Round 3","Vivo Keyd","RED Canids","LWLWW","","dom","P"],
+    ["2018-04-07","CBLOL 2018 Split 1 Playoffs","Final","Vivo Keyd","KaBuM! Esports","LWLWL","","dom","P"],
+    ["2018-08-11","CBLOL 2018 Split 2 Playoffs","Round 1","Vivo Keyd","Razer Pichau Gaming","WWW","","dom","P"],
+    ["2018-08-18","CBLOL 2018 Split 2 Playoffs","Round 2","Vivo Keyd","CNB e-Sports Club","LWLWL","","dom","P"],
+    ["2019-04-01","Brazilian Challenger Circuit 2019 Split 1 Playoffs","Semifinal","RED Canids","Team oNe eSports","LWLL","","dom","S"],
+    ["2019-08-13","Brazilian Challenger Circuit 2019 Split 2 Playoffs","Semifinal","RED Canids","ProGaming Esports","LLL","","dom","S"],
+    ["2020-08-23","CBLOL 2020 Split 2 Playoffs","Semifinal","KaBuM! Esports","INTZ","LWLWL","","dom","P"]
+  ],
+  "unknown": [
+    ["2013-11-10","Brasil Gaming League Arena 2","Final","Keyd Team","CNB e-Sports Club","3-2","","dom",""]
+  ]
+}

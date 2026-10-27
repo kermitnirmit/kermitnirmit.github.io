@@ -1,1 +1,35 @@
-{"player":"Godbro","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2016-01-11","EU Challenger Series 2016 Spring Qualifiers","Qualifier","Huma","Wonder Stag e-Sports","WWW","","dom","S"],["2016-01-13","EU Challenger Series 2016 Spring Qualifiers","Round 1","Huma","Slow and Furious","WWW","","dom","S"],["2016-01-20","EU Challenger Series 2016 Spring Qualifiers","Qualifiers","Huma","Illuminar Gaming","WWW","","dom","S"],["2016-03-08","EU Challenger Series 2016 Spring Playoffs","Semifinal","Huma","Inspire eSports","LWLWW","","dom","S"],["2016-03-15","EU Challenger Series 2016 Spring Playoffs","Final","Huma","Copenhagen Wolves","LLWWW","","dom","S"],["2016-03-26","EU LCS 2016 Summer Promotion","Qualifying Round","Huma","Team ROCCAT","LLWL","","dom","P"],["2016-03-27","EU LCS 2016 Summer Promotion","Qualifying Round","Huma","Giants Gaming","LWLL","","dom","P"],["2016-08-04","TCL 2016 Summer Playoffs","Quarterfinal","HWA Gaming","Crew e-Sports Club","LWLWW","","dom","P"],["2016-08-06","TCL 2016 Summer Playoffs","Semifinal","HWA Gaming","Dark Passage","WLLWL","","dom","P"],["2017-04-01","TCL 2017 Winter Playoffs","Quarterfinal","Crew e-Sports Club","Galakticos","WWW","","dom","P"],["2017-04-08","TCL 2017 Winter Playoffs","Semifinal","Crew e-Sports Club","Team AURORA","WWLW","","dom","P"],["2017-04-22","TCL 2017 Winter Playoffs","Final","Crew e-Sports Club","SuperMassive Esports","LWLL","","dom","P"],["2018-02-03","League Greek Championship Season 3 Playoffs","Semifinal","Wind and Rain Balkan","RIFT Esports","WWW","r","dom",""],["2018-02-04","League Greek Championship Season 3 Playoffs","Final","Wind and Rain Balkan","Nexus Gaming (Romanian Team)","WWW","r","dom",""],["2018-08-15","TCS 2018 Summer Playoffs","Semifinal","Beşiktaş Esports","Oyun Hizmetleri","WWLW","","dom","S"],["2018-08-28","TCS 2018 Summer Playoffs","Final","Beşiktaş Esports","Pars eSports","WWW","","dom","S"],["2019-03-30","TCL 2019 Winter Playoffs","Quarterfinal","Galatasaray Esports","Team AURORA","WWW","p","dom","P"],["2019-04-07","TCL 2019 Winter Playoffs","Semifinal","Galatasaray Esports","Fenerbahçe Esports","LLL","p","dom","P"],["2019-05-08","The League Champions League Season 1 Finals","Round 1 and 2","Redemption eSports","POWER eSports","WWW","r","dom",""],["2019-05-20","The League Champions League Season 1 Finals","Round 3 and 4","Redemption eSports","Osh-Tekk Warriors","WWW","r","dom",""],["2019-05-24","The League Champions League Season 1 Finals","Round 3 and 4","Redemption eSports","The Black Lotus","WWW","r","dom",""],["2019-06-27","Danish Esports League Season 3 Playoffs","Final","Ventus Esports","Copenhagen Flames","WWW","r","dom",""],["2021-03-04","Baltic Masters 2021 Spring Playoffs","Semifinal","Method2Madness","PIGSPORTS","LWWLW","","dom","S"],["2021-03-09","Baltic Masters 2021 Spring Playoffs","Final","Method2Madness","Goskilla","LWWLL","","dom","S"]],"unknown":[["2018-01-20","League Greek Championship Season 3 Playoffs","Quarterfinal","Wind and Rain Balkan","Bontech","3-1","","dom",""],["2019-05-13","The League Champions League Season 1 Finals","Round 1 and 2","Redemption eSports","NASR eSports","3-1","","dom",""]]}
+{
+  "player": "Godbro",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2016-01-11","EU Challenger Series 2016 Spring Qualifiers","Qualifier","Huma","Wonder Stag e-Sports","WWW","","dom","S"],
+    ["2016-01-13","EU Challenger Series 2016 Spring Qualifiers","Round 1","Huma","Slow and Furious","WWW","","dom","S"],
+    ["2016-01-20","EU Challenger Series 2016 Spring Qualifiers","Qualifiers","Huma","Illuminar Gaming","WWW","","dom","S"],
+    ["2016-03-08","EU Challenger Series 2016 Spring Playoffs","Semifinal","Huma","Inspire eSports","LWLWW","","dom","S"],
+    ["2016-03-15","EU Challenger Series 2016 Spring Playoffs","Final","Huma","Copenhagen Wolves","LLWWW","","dom","S"],
+    ["2016-03-26","EU LCS 2016 Summer Promotion","Qualifying Round","Huma","Team ROCCAT","LLWL","","dom","P"],
+    ["2016-03-27","EU LCS 2016 Summer Promotion","Qualifying Round","Huma","Giants Gaming","LWLL","","dom","P"],
+    ["2016-08-04","TCL 2016 Summer Playoffs","Quarterfinal","HWA Gaming","Crew e-Sports Club","LWLWW","","dom","P"],
+    ["2016-08-06","TCL 2016 Summer Playoffs","Semifinal","HWA Gaming","Dark Passage","WLLWL","","dom","P"],
+    ["2017-04-01","TCL 2017 Winter Playoffs","Quarterfinal","Crew e-Sports Club","Galakticos","WWW","","dom","P"],
+    ["2017-04-08","TCL 2017 Winter Playoffs","Semifinal","Crew e-Sports Club","Team AURORA","WWLW","","dom","P"],
+    ["2017-04-22","TCL 2017 Winter Playoffs","Final","Crew e-Sports Club","SuperMassive Esports","LWLL","","dom","P"],
+    ["2018-02-03","League Greek Championship Season 3 Playoffs","Semifinal","Wind and Rain Balkan","RIFT Esports","WWW","r","dom",""],
+    ["2018-02-04","League Greek Championship Season 3 Playoffs","Final","Wind and Rain Balkan","Nexus Gaming (Romanian Team)","WWW","r","dom",""],
+    ["2018-08-15","TCS 2018 Summer Playoffs","Semifinal","Beşiktaş Esports","Oyun Hizmetleri","WWLW","","dom","S"],
+    ["2018-08-28","TCS 2018 Summer Playoffs","Final","Beşiktaş Esports","Pars eSports","WWW","","dom","S"],
+    ["2019-03-30","TCL 2019 Winter Playoffs","Quarterfinal","Galatasaray Esports","Team AURORA","WWW","p","dom","P"],
+    ["2019-04-07","TCL 2019 Winter Playoffs","Semifinal","Galatasaray Esports","Fenerbahçe Esports","LLL","p","dom","P"],
+    ["2019-05-08","The League Champions League Season 1 Finals","Round 1 and 2","Redemption eSports","POWER eSports","WWW","r","dom",""],
+    ["2019-05-20","The League Champions League Season 1 Finals","Round 3 and 4","Redemption eSports","Osh-Tekk Warriors","WWW","r","dom",""],
+    ["2019-05-24","The League Champions League Season 1 Finals","Round 3 and 4","Redemption eSports","The Black Lotus","WWW","r","dom",""],
+    ["2019-06-27","Danish Esports League Season 3 Playoffs","Final","Ventus Esports","Copenhagen Flames","WWW","r","dom",""],
+    ["2021-03-04","Baltic Masters 2021 Spring Playoffs","Semifinal","Method2Madness","PIGSPORTS","LWWLW","","dom","S"],
+    ["2021-03-09","Baltic Masters 2021 Spring Playoffs","Final","Method2Madness","Goskilla","LWWLL","","dom","S"]
+  ],
+  "unknown": [
+    ["2018-01-20","League Greek Championship Season 3 Playoffs","Quarterfinal","Wind and Rain Balkan","Bontech","3-1","","dom",""],
+    ["2019-05-13","The League Champions League Season 1 Finals","Round 1 and 2","Redemption eSports","NASR eSports","3-1","","dom",""]
+  ]
+}

@@ -1,1 +1,31 @@
-{"player":"Ablazeolive","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2016-07-13","NA Challenger Series 2016 Summer Playoffs","Semifinal","Nova eSports (North American Team)","Team Liquid Academy","LLL","","dom","S"],["2019-03-28","NA Academy League 2019 Spring Playoffs","Semifinal","TSM Academy","Echo Fox Academy","WWW","","dom","S"],["2019-04-05","NA Academy League 2019 Spring Playoffs","Final","TSM Academy","Cloud9 Academy","WLWW","","dom","S"],["2019-08-02","NA Academy League 2019 Summer Playoffs","Quarterfinal","TSM Academy","Team Liquid Academy","WWW","","dom","S"],["2019-08-08","NA Academy League 2019 Summer Playoffs","Semifinal","TSM Academy","Golden Guardians Academy","WLLL","","dom","S"],["2020-08-14","NA Academy League 2020 Summer Playoffs","Quarterfinal","Golden Guardians Academy","CLG Academy","WLWLL","","dom","S"],["2021-08-13","LCS 2021 Championship","Round 1","Golden Guardians","Cloud9","LLL","","dom","P"],["2022-04-09","LCS 2022 Spring Playoffs","Round 1","Golden Guardians","Cloud9","LLL","","dom","P"],["2022-08-26","LCS 2022 Championship","Round 1","Golden Guardians","Counter Logic Gaming","LWLWL","","dom","P"],["2024-08-30","North American Challengers League 2024 Summer Playoffs","Semifinal","Fear x Starforge","Dragonsteel","LWLL","","dom","S"],["2024-09-02","North American Challengers League 2024 Summer Playoffs","Semifinal","Fear x Starforge","FlyQuest NZXT","WLLWW","","dom","S"],["2024-09-08","North American Challengers League 2024 Summer Playoffs","Final","Fear x Starforge","Dragonsteel","LLL","","dom","S"],["2024-09-20","Americas Challengers 2024","Round 2","Fear x Starforge","Fuego","WWLW","","dom","S"],["2024-09-21","Americas Challengers 2024","Final","Fear x Starforge","paiN Gaming Academy","LWLWL","","dom","S"],["2025-08-20","North American Challengers League 2025 Split 2 Playoffs","Round 1","Supernova","Citadel Gaming","WWLW","","dom","S"],["2025-08-28","North American Challengers League 2025 Split 2 Playoffs","Round 2","Supernova","Dorado Gaming","LWWLW","","dom","S"],["2025-09-04","North American Challengers League 2025 Split 2 Playoffs","Round 3","Supernova","Blue Otter","LLL","","dom","S"],["2026-09-04","North American Challengers League 2026 Summer Playoffs","Round 4","Cupid Esports","Winthrop University","WLWW","","dom","S"],["2026-09-11","North American Challengers League 2026 Summer Playoffs","Final","Cupid Esports","Maryville University","WWW","","dom","S"],["2026-09-28","World Star Challengers Invitational 2026","Quarterfinal","Cupid Esports","T1 Esports Academy","LLWL","","dom","S"],["2026-10-06","LCS 2027 Promotion","Round 1","Cupid Esports","Fuego","WWW","","dom","P"],["2026-10-08","LCS 2027 Promotion","Round 2","Cupid Esports","Maryville University","LLL","","dom","P"],["2026-10-10","LCS 2027 Promotion","Round 2","Cupid Esports","Disguised","LLL","","dom","P"]],"unknown":[]}
+{
+  "player": "Ablazeolive",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2016-07-13","NA Challenger Series 2016 Summer Playoffs","Semifinal","Nova eSports (North American Team)","Team Liquid Academy","LLL","","dom","S"],
+    ["2019-03-28","NA Academy League 2019 Spring Playoffs","Semifinal","TSM Academy","Echo Fox Academy","WWW","","dom","S"],
+    ["2019-04-05","NA Academy League 2019 Spring Playoffs","Final","TSM Academy","Cloud9 Academy","WLWW","","dom","S"],
+    ["2019-08-02","NA Academy League 2019 Summer Playoffs","Quarterfinal","TSM Academy","Team Liquid Academy","WWW","","dom","S"],
+    ["2019-08-08","NA Academy League 2019 Summer Playoffs","Semifinal","TSM Academy","Golden Guardians Academy","WLLL","","dom","S"],
+    ["2020-08-14","NA Academy League 2020 Summer Playoffs","Quarterfinal","Golden Guardians Academy","CLG Academy","WLWLL","","dom","S"],
+    ["2021-08-13","LCS 2021 Championship","Round 1","Golden Guardians","Cloud9","LLL","","dom","P"],
+    ["2022-04-09","LCS 2022 Spring Playoffs","Round 1","Golden Guardians","Cloud9","LLL","","dom","P"],
+    ["2022-08-26","LCS 2022 Championship","Round 1","Golden Guardians","Counter Logic Gaming","LWLWL","","dom","P"],
+    ["2024-08-30","North American Challengers League 2024 Summer Playoffs","Semifinal","Fear x Starforge","Dragonsteel","LWLL","","dom","S"],
+    ["2024-09-02","North American Challengers League 2024 Summer Playoffs","Semifinal","Fear x Starforge","FlyQuest NZXT","WLLWW","","dom","S"],
+    ["2024-09-08","North American Challengers League 2024 Summer Playoffs","Final","Fear x Starforge","Dragonsteel","LLL","","dom","S"],
+    ["2024-09-20","Americas Challengers 2024","Round 2","Fear x Starforge","Fuego","WWLW","","dom","S"],
+    ["2024-09-21","Americas Challengers 2024","Final","Fear x Starforge","paiN Gaming Academy","LWLWL","","dom","S"],
+    ["2025-08-20","North American Challengers League 2025 Split 2 Playoffs","Round 1","Supernova","Citadel Gaming","WWLW","","dom","S"],
+    ["2025-08-28","North American Challengers League 2025 Split 2 Playoffs","Round 2","Supernova","Dorado Gaming","LWWLW","","dom","S"],
+    ["2025-09-04","North American Challengers League 2025 Split 2 Playoffs","Round 3","Supernova","Blue Otter","LLL","","dom","S"],
+    ["2026-09-04","North American Challengers League 2026 Summer Playoffs","Round 4","Cupid Esports","Winthrop University","WLWW","","dom","S"],
+    ["2026-09-11","North American Challengers League 2026 Summer Playoffs","Final","Cupid Esports","Maryville University","WWW","","dom","S"],
+    ["2026-09-28","World Star Challengers Invitational 2026","Quarterfinal","Cupid Esports","T1 Esports Academy","LLWL","","dom","S"],
+    ["2026-10-06","LCS 2027 Promotion","Round 1","Cupid Esports","Fuego","WWW","","dom","P"],
+    ["2026-10-08","LCS 2027 Promotion","Round 2","Cupid Esports","Maryville University","LLL","","dom","P"],
+    ["2026-10-10","LCS 2027 Promotion","Round 2","Cupid Esports","Disguised","LLL","","dom","P"]
+  ],
+  "unknown": []
+}

@@ -1,1 +1,34 @@
-{"player":"Fleshy","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2022-03-26","TCL 2022 Winter Playoffs","Quarterfinal","NASR eSports Turkey","Dark Passage","LLWWL","","dom","P"],["2022-08-27","TCL 2022 Summer Playoffs","Semifinal","NASR eSports Turkey","Fenerbahçe Esports","WLLWL","","dom","P"],["2023-07-26","TCL 2023 Summer Playoffs","Round 1","Papara SuperMassive","FUT Esports","LWWLL","","dom","S"],["2023-12-02","Superdome Cairo 2023","Final","FUT Esports","Geekay Esports","LLWWL","","dom","S"],["2024-03-27","LFL 2024 Spring Playoffs","Round 2","Karmine Corp Blue","Team BDS Academy","LLL","","dom","S"],["2024-03-29","LFL 2024 Spring Playoffs","Semifinal","Karmine Corp Blue","Gentle Mates","LWWW","","dom","S"],["2024-04-05","LFL 2024 Spring Playoffs","Final","Karmine Corp Blue","Team BDS Academy","WLWW","","dom","S"],["2024-04-23","EMEA Masters 2024 Spring Main Event","Quarterfinal","Karmine Corp Blue","Geekay Esports","WWLLL","","dom","S"],["2024-07-25","LFL 2024 Summer Playoffs","Round 2","Karmine Corp Blue","Team BDS Academy","WWW","","dom","S"],["2024-08-03","LFL 2024 Summer Playoffs","Final","Karmine Corp Blue","Team BDS Academy","LWLL","","dom","S"],["2024-08-15","EMEA Masters 2024 Summer Main Event","Round of 16","Karmine Corp Blue","FC Schalke 04 Esports","WWW","","dom","S"],["2024-08-19","EMEA Masters 2024 Summer Main Event","Quarterfinal","Karmine Corp Blue","Team BDS Academy","WLLL","","dom","S"],["2024-09-18","Coupe de France 2024","Round 2","Karmine Corp Blue","Esprit Shōnen","WWW","","dom","S"],["2024-09-20","Coupe de France 2024","Quarterfinal","Karmine Corp Blue","GameWard","WWW","","dom","S"],["2024-09-30","Coupe de France 2024","Semifinal","Karmine Corp Blue","Vitality.Bee","LLL","","dom","S"],["2025-05-20","LFL 2025 Spring Playoffs","Round 1","Vitality.Bee","Galions","WLWLW","","dom","S"],["2025-05-23","LFL 2025 Spring Playoffs","Round 2","Vitality.Bee","BK ROG Esports","LLL","","dom","S"],["2025-07-18","NNO Cup Season 3","Round 2","Team Vitality","BK ROG Esports","WWW","","dom","S"],["2025-07-26","NNO Cup Season 3","Grand Final","Team Vitality","SK Gaming","WWW","","dom","S"],["2025-09-05","LEC 2025 Summer Playoffs","Cross Play Decider","Team Vitality","Team Heretics","LWWW","","dom","P"],["2025-09-13","LEC 2025 Summer Playoffs","Round 1","Team Vitality","Karmine Corp","WLLL","","dom","P"],["2026-05-24","LEC 2026 Spring Playoffs","Round 1","Team Vitality","Movistar KOI","LLL","","dom","P"],["2026-05-31","LEC 2026 Spring Playoffs","Round 1","Team Vitality","GIANTX","LLL","","dom","P"],["2026-09-05","LEC 2026 Summer Playoffs","Round 1","Team Vitality","G2 Esports","LLL","","dom","P"],["2026-09-12","LEC 2026 Summer Playoffs","Round 1","Team Vitality","Movistar KOI","LWWLL","","dom","P"],["2026-10-12","Demacia Cup Global Invitational 2026","Quarterfinal","Team Vitality","KT Rolster","WWLLL","","dom","S"]],"unknown":[]}
+{
+  "player": "Fleshy",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2022-03-26","TCL 2022 Winter Playoffs","Quarterfinal","NASR eSports Turkey","Dark Passage","LLWWL","","dom","P"],
+    ["2022-08-27","TCL 2022 Summer Playoffs","Semifinal","NASR eSports Turkey","Fenerbahçe Esports","WLLWL","","dom","P"],
+    ["2023-07-26","TCL 2023 Summer Playoffs","Round 1","Papara SuperMassive","FUT Esports","LWWLL","","dom","S"],
+    ["2023-12-02","Superdome Cairo 2023","Final","FUT Esports","Geekay Esports","LLWWL","","dom","S"],
+    ["2024-03-27","LFL 2024 Spring Playoffs","Round 2","Karmine Corp Blue","Team BDS Academy","LLL","","dom","S"],
+    ["2024-03-29","LFL 2024 Spring Playoffs","Semifinal","Karmine Corp Blue","Gentle Mates","LWWW","","dom","S"],
+    ["2024-04-05","LFL 2024 Spring Playoffs","Final","Karmine Corp Blue","Team BDS Academy","WLWW","","dom","S"],
+    ["2024-04-23","EMEA Masters 2024 Spring Main Event","Quarterfinal","Karmine Corp Blue","Geekay Esports","WWLLL","","dom","S"],
+    ["2024-07-25","LFL 2024 Summer Playoffs","Round 2","Karmine Corp Blue","Team BDS Academy","WWW","","dom","S"],
+    ["2024-08-03","LFL 2024 Summer Playoffs","Final","Karmine Corp Blue","Team BDS Academy","LWLL","","dom","S"],
+    ["2024-08-15","EMEA Masters 2024 Summer Main Event","Round of 16","Karmine Corp Blue","FC Schalke 04 Esports","WWW","","dom","S"],
+    ["2024-08-19","EMEA Masters 2024 Summer Main Event","Quarterfinal","Karmine Corp Blue","Team BDS Academy","WLLL","","dom","S"],
+    ["2024-09-18","Coupe de France 2024","Round 2","Karmine Corp Blue","Esprit Shōnen","WWW","","dom","S"],
+    ["2024-09-20","Coupe de France 2024","Quarterfinal","Karmine Corp Blue","GameWard","WWW","","dom","S"],
+    ["2024-09-30","Coupe de France 2024","Semifinal","Karmine Corp Blue","Vitality.Bee","LLL","","dom","S"],
+    ["2025-05-20","LFL 2025 Spring Playoffs","Round 1","Vitality.Bee","Galions","WLWLW","","dom","S"],
+    ["2025-05-23","LFL 2025 Spring Playoffs","Round 2","Vitality.Bee","BK ROG Esports","LLL","","dom","S"],
+    ["2025-07-18","NNO Cup Season 3","Round 2","Team Vitality","BK ROG Esports","WWW","","dom","S"],
+    ["2025-07-26","NNO Cup Season 3","Grand Final","Team Vitality","SK Gaming","WWW","","dom","S"],
+    ["2025-09-05","LEC 2025 Summer Playoffs","Cross Play Decider","Team Vitality","Team Heretics","LWWW","","dom","P"],
+    ["2025-09-13","LEC 2025 Summer Playoffs","Round 1","Team Vitality","Karmine Corp","WLLL","","dom","P"],
+    ["2026-05-24","LEC 2026 Spring Playoffs","Round 1","Team Vitality","Movistar KOI","LLL","","dom","P"],
+    ["2026-05-31","LEC 2026 Spring Playoffs","Round 1","Team Vitality","GIANTX","LLL","","dom","P"],
+    ["2026-09-05","LEC 2026 Summer Playoffs","Round 1","Team Vitality","G2 Esports","LLL","","dom","P"],
+    ["2026-09-12","LEC 2026 Summer Playoffs","Round 1","Team Vitality","Movistar KOI","LWWLL","","dom","P"],
+    ["2026-10-12","Demacia Cup Global Invitational 2026","Quarterfinal","Team Vitality","KT Rolster","WWLLL","","dom","S"]
+  ],
+  "unknown": []
+}

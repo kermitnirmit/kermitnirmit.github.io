@@ -1,1 +1,34 @@
-{"player":"LIMIT (Dino Tot)","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2018-08-27","Esports Balkan League Season 3 Playoffs","Semifinal","ASUS ROG ELITE","x25 Esports","WWLW","","dom","S"],["2018-09-01","Esports Balkan League Season 3 Playoffs","Final","ASUS ROG ELITE","Crvena zvezda Esports","WWW","","dom","S"],["2018-12-02","ESL South East Europe Championship Season 8","Final","ASUS ROG ELITE","Panathinaikos Esports","WWW","r","dom","S"],["2019-03-24","Esports Balkan League Season 4 Playoffs","Semifinal","ASUS ROG ELITE","Random 5","LWLWL","","dom","S"],["2019-07-23","PG Nationals 2019 Summer Playoffs","Semifinal","QLASH Forge","Campus Party Sparks","LWLL","","dom","S"],["2019-11-30","Premier Tour 2019 Winter Cup","Final","ad hoc gaming","Berlin International Gaming","WLLL","","dom","S"],["2020-08-21","LEC 2020 Summer Playoffs","Round 1","SK Gaming","FC Schalke 04 Esports","LLL","","dom","P"],["2021-03-27","LEC 2021 Spring Playoffs","Round 1","FC Schalke 04 Esports","G2 Esports","LLWWL","","dom","P"],["2021-04-02","LEC 2021 Spring Playoffs","Round 2","FC Schalke 04 Esports","Fnatic","WWW","","dom","P"],["2021-04-04","LEC 2021 Spring Playoffs","Round 3","FC Schalke 04 Esports","Rogue (European Team)","LWLL","","dom","P"],["2023-07-24","LEC 2023 Summer Playoffs","Round 1","Excel Esports","G2 Esports","LWLWL","","dom","P"],["2023-07-29","LEC 2023 Summer Playoffs","Round 2","Excel Esports","Fnatic","WWLW","","dom","P"],["2023-07-30","LEC 2023 Summer Playoffs","Final","Excel Esports","G2 Esports","LLL","","dom","P"],["2023-08-19","LEC 2023 Season Finals","Round 1","Excel Esports","MAD Lions","LLL","","dom","P"],["2023-08-27","LEC 2023 Season Finals","Round 1","Excel Esports","Fnatic","LWWLL","","dom","P"],["2024-03-27","Prime League 1st Division 2024 Spring Playoffs","Round 2","SK Gaming Prime","NNO Prime","WLLWW","","dom","S"],["2024-04-12","Prime League 1st Division 2024 Spring Playoffs","Final","SK Gaming Prime","Eintracht Spandau","WLLL","","dom","S"],["2024-04-22","EMEA Masters 2024 Spring Main Event","Quarterfinal","SK Gaming Prime","Beşiktaş Esports","WLLWL","","dom","S"],["2025-03-03","Prime League 1st Division 2025 Winter Playoffs","Semifinal","Berlin International Gaming","Austrian Force willhaben","WWW","","dom","S"],["2025-03-08","Prime League 1st Division 2025 Winter Playoffs","Final","Berlin International Gaming","E WIE EINFACH E-SPORTS","WWW","","dom","S"],["2025-05-28","Prime League 1st Division 2025 Spring Playoffs","Semifinal","Berlin International Gaming","ROSSMANN Centaurs","WLWW","","dom","S"],["2025-05-30","Prime League 1st Division 2025 Spring Playoffs","Final","Berlin International Gaming","CGN Esports","WLWLL","","dom","S"],["2025-08-14","Prime League 1st Division 2025 Season Finals","Round 2","Berlin International Gaming","TeamOrangeGaming","LWWW","","dom","S"],["2025-08-24","Prime League 1st Division 2025 Season Finals","Final","Berlin International Gaming","TeamOrangeGaming","WLLWW","","dom","S"],["2025-08-30","Prime Pokal 2025","Final","Berlin International Gaming","Unicorns of Love Sexy Edition","WWLW","","dom","S"],["2025-10-12","EMEA Masters 2025 Summer Main Event","Round of 16","Berlin International Gaming","Team Heretics Academy","LLWL","","dom","S"]],"unknown":[]}
+{
+  "player": "LIMIT (Dino Tot)",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2018-08-27","Esports Balkan League Season 3 Playoffs","Semifinal","ASUS ROG ELITE","x25 Esports","WWLW","","dom","S"],
+    ["2018-09-01","Esports Balkan League Season 3 Playoffs","Final","ASUS ROG ELITE","Crvena zvezda Esports","WWW","","dom","S"],
+    ["2018-12-02","ESL South East Europe Championship Season 8","Final","ASUS ROG ELITE","Panathinaikos Esports","WWW","r","dom","S"],
+    ["2019-03-24","Esports Balkan League Season 4 Playoffs","Semifinal","ASUS ROG ELITE","Random 5","LWLWL","","dom","S"],
+    ["2019-07-23","PG Nationals 2019 Summer Playoffs","Semifinal","QLASH Forge","Campus Party Sparks","LWLL","","dom","S"],
+    ["2019-11-30","Premier Tour 2019 Winter Cup","Final","ad hoc gaming","Berlin International Gaming","WLLL","","dom","S"],
+    ["2020-08-21","LEC 2020 Summer Playoffs","Round 1","SK Gaming","FC Schalke 04 Esports","LLL","","dom","P"],
+    ["2021-03-27","LEC 2021 Spring Playoffs","Round 1","FC Schalke 04 Esports","G2 Esports","LLWWL","","dom","P"],
+    ["2021-04-02","LEC 2021 Spring Playoffs","Round 2","FC Schalke 04 Esports","Fnatic","WWW","","dom","P"],
+    ["2021-04-04","LEC 2021 Spring Playoffs","Round 3","FC Schalke 04 Esports","Rogue (European Team)","LWLL","","dom","P"],
+    ["2023-07-24","LEC 2023 Summer Playoffs","Round 1","Excel Esports","G2 Esports","LWLWL","","dom","P"],
+    ["2023-07-29","LEC 2023 Summer Playoffs","Round 2","Excel Esports","Fnatic","WWLW","","dom","P"],
+    ["2023-07-30","LEC 2023 Summer Playoffs","Final","Excel Esports","G2 Esports","LLL","","dom","P"],
+    ["2023-08-19","LEC 2023 Season Finals","Round 1","Excel Esports","MAD Lions","LLL","","dom","P"],
+    ["2023-08-27","LEC 2023 Season Finals","Round 1","Excel Esports","Fnatic","LWWLL","","dom","P"],
+    ["2024-03-27","Prime League 1st Division 2024 Spring Playoffs","Round 2","SK Gaming Prime","NNO Prime","WLLWW","","dom","S"],
+    ["2024-04-12","Prime League 1st Division 2024 Spring Playoffs","Final","SK Gaming Prime","Eintracht Spandau","WLLL","","dom","S"],
+    ["2024-04-22","EMEA Masters 2024 Spring Main Event","Quarterfinal","SK Gaming Prime","Beşiktaş Esports","WLLWL","","dom","S"],
+    ["2025-03-03","Prime League 1st Division 2025 Winter Playoffs","Semifinal","Berlin International Gaming","Austrian Force willhaben","WWW","","dom","S"],
+    ["2025-03-08","Prime League 1st Division 2025 Winter Playoffs","Final","Berlin International Gaming","E WIE EINFACH E-SPORTS","WWW","","dom","S"],
+    ["2025-05-28","Prime League 1st Division 2025 Spring Playoffs","Semifinal","Berlin International Gaming","ROSSMANN Centaurs","WLWW","","dom","S"],
+    ["2025-05-30","Prime League 1st Division 2025 Spring Playoffs","Final","Berlin International Gaming","CGN Esports","WLWLL","","dom","S"],
+    ["2025-08-14","Prime League 1st Division 2025 Season Finals","Round 2","Berlin International Gaming","TeamOrangeGaming","LWWW","","dom","S"],
+    ["2025-08-24","Prime League 1st Division 2025 Season Finals","Final","Berlin International Gaming","TeamOrangeGaming","WLLWW","","dom","S"],
+    ["2025-08-30","Prime Pokal 2025","Final","Berlin International Gaming","Unicorns of Love Sexy Edition","WWLW","","dom","S"],
+    ["2025-10-12","EMEA Masters 2025 Summer Main Event","Round of 16","Berlin International Gaming","Team Heretics Academy","LLWL","","dom","S"]
+  ],
+  "unknown": []
+}

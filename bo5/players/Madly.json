@@ -1,1 +1,30 @@
-{"player":"Madly","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2019-03-30","TCL 2019 Winter Playoffs","Quarterfinal","Team AURORA","Galatasaray Esports","LLL","","dom","P"],["2019-08-17","TCL 2019 Summer Playoffs","Quarterfinal","Team AURORA","Beşiktaş Esports","WLLWW","","dom","P"],["2019-08-24","TCL 2019 Summer Playoffs","Semifinal","Team AURORA","Royal Youth","LLL","","dom","P"],["2020-04-17","Turkey Academy League 2020 Winter Playoffs","Semifinal","Team AURORA Academy","Beşiktaş Academy","LWWW","","dom","S"],["2020-04-19","Turkey Academy League 2020 Winter Playoffs","Final","Team AURORA Academy","Istanbul Wildcats Academy","LLL","","dom","S"],["2020-04-27","TCL 2020 Winter Playoffs","Quarterfinal","Team AURORA","Papara SuperMassive","WLWW","","dom","P"],["2020-05-04","TCL 2020 Winter Playoffs","Semifinal","Team AURORA","Fenerbahçe Esports","WLWLL","","dom","P"],["2021-03-09","Greek Legends League 2021 Spring Playoffs","Semifinal","WLGaming Esports","Anorthosis Famagusta Esports","LLWL","","dom","S"],["2021-03-10","Greek Legends League 2021 Spring Playoffs","Third-Place Match","WLGaming Esports","Zerolag Esports","WWW","","dom","S"],["2021-08-08","NLC 2021 Summer Playoffs","Final","Tricked Esport","Fnatic Rising","LLWWW","","dom","S"],["2022-03-27","TCL 2022 Winter Playoffs","Quarterfinal","Team AURORA","5 Ronin","LWLWW","","dom","P"],["2022-04-03","TCL 2022 Winter Playoffs","Semifinal","Team AURORA","Istanbul Wildcats","LLL","","dom","P"],["2023-03-14","Greek Legends League 2023 Spring Playoffs","Round 1","Team Phantasma","Anorthosis Famagusta Esports","LWLWL","","dom","S"],["2023-03-21","Greek Legends League 2023 Spring Playoffs","Semifinal","Team Phantasma","WLGaming Esports","LLWL","","dom","S"],["2023-08-13","TCL Division 2 2023 Summer Playoffs","Round 2","Looking for ORG (Turkish Team)","Always With Honor (Turkish Team)","LLL","","dom","S"],["2023-08-18","TCL Division 2 2023 Summer Playoffs","Semifinal","Looking for ORG (Turkish Team)","Chasing Haze 07","LWLWW","","dom","S"],["2023-08-25","TCL Division 2 2023 Summer Playoffs","Final","Looking for ORG (Turkish Team)","Always With Honor (Turkish Team)","LWLL","","dom","S"],["2023-09-12","TCL 2024 Promotion","Round 1","Looking for ORG (Turkish Team)","Chasing Haze 07","WLLL","","dom","S"],["2023-09-13","TCL 2024 Promotion","Round 1","Looking for ORG (Turkish Team)","Beetle Juice","LLWL","","dom","S"],["2025-07-04","TCL 2025 Summer Promotion","Grand Final","Super Phalanx","Nekoy","LLL","r","dom","S"],["2026-10-10","TCL 2027 Promotion","Round 1","ITU Rangers","BDL Esports","WWW","","dom","S"],["2026-10-11","TCL 2027 Promotion","Round 2","ITU Rangers","BoostGate Esports","WWW","","dom","S"]],"unknown":[]}
+{
+  "player": "Madly",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2019-03-30","TCL 2019 Winter Playoffs","Quarterfinal","Team AURORA","Galatasaray Esports","LLL","","dom","P"],
+    ["2019-08-17","TCL 2019 Summer Playoffs","Quarterfinal","Team AURORA","Beşiktaş Esports","WLLWW","","dom","P"],
+    ["2019-08-24","TCL 2019 Summer Playoffs","Semifinal","Team AURORA","Royal Youth","LLL","","dom","P"],
+    ["2020-04-17","Turkey Academy League 2020 Winter Playoffs","Semifinal","Team AURORA Academy","Beşiktaş Academy","LWWW","","dom","S"],
+    ["2020-04-19","Turkey Academy League 2020 Winter Playoffs","Final","Team AURORA Academy","Istanbul Wildcats Academy","LLL","","dom","S"],
+    ["2020-04-27","TCL 2020 Winter Playoffs","Quarterfinal","Team AURORA","Papara SuperMassive","WLWW","","dom","P"],
+    ["2020-05-04","TCL 2020 Winter Playoffs","Semifinal","Team AURORA","Fenerbahçe Esports","WLWLL","","dom","P"],
+    ["2021-03-09","Greek Legends League 2021 Spring Playoffs","Semifinal","WLGaming Esports","Anorthosis Famagusta Esports","LLWL","","dom","S"],
+    ["2021-03-10","Greek Legends League 2021 Spring Playoffs","Third-Place Match","WLGaming Esports","Zerolag Esports","WWW","","dom","S"],
+    ["2021-08-08","NLC 2021 Summer Playoffs","Final","Tricked Esport","Fnatic Rising","LLWWW","","dom","S"],
+    ["2022-03-27","TCL 2022 Winter Playoffs","Quarterfinal","Team AURORA","5 Ronin","LWLWW","","dom","P"],
+    ["2022-04-03","TCL 2022 Winter Playoffs","Semifinal","Team AURORA","Istanbul Wildcats","LLL","","dom","P"],
+    ["2023-03-14","Greek Legends League 2023 Spring Playoffs","Round 1","Team Phantasma","Anorthosis Famagusta Esports","LWLWL","","dom","S"],
+    ["2023-03-21","Greek Legends League 2023 Spring Playoffs","Semifinal","Team Phantasma","WLGaming Esports","LLWL","","dom","S"],
+    ["2023-08-13","TCL Division 2 2023 Summer Playoffs","Round 2","Looking for ORG (Turkish Team)","Always With Honor (Turkish Team)","LLL","","dom","S"],
+    ["2023-08-18","TCL Division 2 2023 Summer Playoffs","Semifinal","Looking for ORG (Turkish Team)","Chasing Haze 07","LWLWW","","dom","S"],
+    ["2023-08-25","TCL Division 2 2023 Summer Playoffs","Final","Looking for ORG (Turkish Team)","Always With Honor (Turkish Team)","LWLL","","dom","S"],
+    ["2023-09-12","TCL 2024 Promotion","Round 1","Looking for ORG (Turkish Team)","Chasing Haze 07","WLLL","","dom","S"],
+    ["2023-09-13","TCL 2024 Promotion","Round 1","Looking for ORG (Turkish Team)","Beetle Juice","LLWL","","dom","S"],
+    ["2025-07-04","TCL 2025 Summer Promotion","Grand Final","Super Phalanx","Nekoy","LLL","r","dom","S"],
+    ["2026-10-10","TCL 2027 Promotion","Round 1","ITU Rangers","BDL Esports","WWW","","dom","S"],
+    ["2026-10-11","TCL 2027 Promotion","Round 2","ITU Rangers","BoostGate Esports","WWW","","dom","S"]
+  ],
+  "unknown": []
+}

@@ -1,1 +1,29 @@
-{"player":"Crystal","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2015-03-29","TCL 2015 Winter Playoffs","Semifinal","Dark Passage","HWA Gaming","WLWW","","dom","P"],["2015-04-04","TCL 2015 Winter Playoffs","Final","Dark Passage","Beşiktaş Esports","LLL","","dom","P"],["2015-08-02","TCL 2015 Summer Playoffs","Semifinal","Dark Passage","HWA Gaming","WWW","","dom","P"],["2015-08-08","TCL 2015 Summer Playoffs","Final","Dark Passage","Beşiktaş Esports","WWLW","","dom","P"],["2015-11-29","International Wildcard All-Star Melbourne 2015","Final","TCL Allstars","SLTV Allstars","WWLW","","intl","X"],["2016-03-27","TCL 2016 Winter Playoffs","Semifinal","Dark Passage","Beşiktaş.Oyun Hizmetleri","WWLLL","","dom","P"],["2016-08-05","TCL 2016 Summer Playoffs","Quarterfinal","Team AURORA","Team Turquality","WWW","","dom","P"],["2016-08-07","TCL 2016 Summer Playoffs","Semifinal","Team AURORA","SuperMassive Esports","LLL","","dom","P"],["2016-09-10","TCL 2017 Winter Qualifiers","Qual","CILEKLER","SuperMassive TNG","LWLL","","dom","P"],["2017-03-18","TPL 2017 Winter Playoffs","Semifinal","P3P eSports","Team Vulture","WWW","","dom","S"],["2017-03-19","TPL 2017 Winter Playoffs","Final","P3P eSports","Team Turquality","WLWW","","dom","S"],["2017-08-07","TCL 2017 Summer Playoffs","5th Place","P3P eSports","Dark Passage","LLL","p","dom","P"],["2018-03-13","TCS 2018 Winter Playoffs","Semifinal","Beşiktaş Esports","Team Cappadocia","WWLLW","","dom","S"],["2018-03-21","TCS 2018 Winter Playoffs","Final","Beşiktaş Esports","Macro Maniacs","WWLLL","","dom","S"],["2018-03-30","TCL 2018 Summer Qualifiers","Round 1","Beşiktaş Esports","HWA Gaming","LWLL","","dom","P"],["2018-03-31","TCL 2018 Summer Qualifiers","Round 2","Beşiktaş Esports","Team Cappadocia","WWW","","dom","P"],["2018-04-01","TCL 2018 Summer Qualifiers","Final","Beşiktaş Esports","HWA Gaming","LLL","","dom","P"],["2018-08-14","TCS 2018 Summer Playoffs","Semifinal","Pars eSports","Galakticos","WLWW","","dom","S"],["2018-08-28","TCS 2018 Summer Playoffs","Final","Pars eSports","Beşiktaş Esports","LLL","","dom","S"],["2018-09-03","TCL 2019 Winter Qualifiers","Round 1","Pars eSports","YouthCrew Esports","WWLW","","dom","P"],["2018-09-05","TCL 2019 Winter Qualifiers","Final","Pars eSports","YouthCrew Esports","WWW","","dom","P"]],"unknown":[]}
+{
+  "player": "Crystal",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2015-03-29","TCL 2015 Winter Playoffs","Semifinal","Dark Passage","HWA Gaming","WLWW","","dom","P"],
+    ["2015-04-04","TCL 2015 Winter Playoffs","Final","Dark Passage","Beşiktaş Esports","LLL","","dom","P"],
+    ["2015-08-02","TCL 2015 Summer Playoffs","Semifinal","Dark Passage","HWA Gaming","WWW","","dom","P"],
+    ["2015-08-08","TCL 2015 Summer Playoffs","Final","Dark Passage","Beşiktaş Esports","WWLW","","dom","P"],
+    ["2015-11-29","International Wildcard All-Star Melbourne 2015","Final","TCL Allstars","SLTV Allstars","WWLW","","intl","X"],
+    ["2016-03-27","TCL 2016 Winter Playoffs","Semifinal","Dark Passage","Beşiktaş.Oyun Hizmetleri","WWLLL","","dom","P"],
+    ["2016-08-05","TCL 2016 Summer Playoffs","Quarterfinal","Team AURORA","Team Turquality","WWW","","dom","P"],
+    ["2016-08-07","TCL 2016 Summer Playoffs","Semifinal","Team AURORA","SuperMassive Esports","LLL","","dom","P"],
+    ["2016-09-10","TCL 2017 Winter Qualifiers","Qual","CILEKLER","SuperMassive TNG","LWLL","","dom","P"],
+    ["2017-03-18","TPL 2017 Winter Playoffs","Semifinal","P3P eSports","Team Vulture","WWW","","dom","S"],
+    ["2017-03-19","TPL 2017 Winter Playoffs","Final","P3P eSports","Team Turquality","WLWW","","dom","S"],
+    ["2017-08-07","TCL 2017 Summer Playoffs","5th Place","P3P eSports","Dark Passage","LLL","p","dom","P"],
+    ["2018-03-13","TCS 2018 Winter Playoffs","Semifinal","Beşiktaş Esports","Team Cappadocia","WWLLW","","dom","S"],
+    ["2018-03-21","TCS 2018 Winter Playoffs","Final","Beşiktaş Esports","Macro Maniacs","WWLLL","","dom","S"],
+    ["2018-03-30","TCL 2018 Summer Qualifiers","Round 1","Beşiktaş Esports","HWA Gaming","LWLL","","dom","P"],
+    ["2018-03-31","TCL 2018 Summer Qualifiers","Round 2","Beşiktaş Esports","Team Cappadocia","WWW","","dom","P"],
+    ["2018-04-01","TCL 2018 Summer Qualifiers","Final","Beşiktaş Esports","HWA Gaming","LLL","","dom","P"],
+    ["2018-08-14","TCS 2018 Summer Playoffs","Semifinal","Pars eSports","Galakticos","WLWW","","dom","S"],
+    ["2018-08-28","TCS 2018 Summer Playoffs","Final","Pars eSports","Beşiktaş Esports","LLL","","dom","S"],
+    ["2018-09-03","TCL 2019 Winter Qualifiers","Round 1","Pars eSports","YouthCrew Esports","WWLW","","dom","P"],
+    ["2018-09-05","TCL 2019 Winter Qualifiers","Final","Pars eSports","YouthCrew Esports","WWW","","dom","P"]
+  ],
+  "unknown": []
+}

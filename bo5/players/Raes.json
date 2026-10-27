@@ -1,1 +1,47 @@
-{"player":"Raes","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2016-03-29","OPL 2016 Split 1 Playoffs","Semifinal","Dire Wolves","Legacy Esports","LLWL","","dom","P"],["2016-08-02","OPL 2016 Split 2 Playoffs","Semifinal","Chiefs Esports Club","Dire Wolves","WWW","","dom","P"],["2016-08-13","OPL 2016 Split 2 Playoffs","Final","Chiefs Esports Club","Legacy Esports","WWW","","dom","P"],["2017-04-08","OPL 2017 Split 1 Playoffs","Round 2","Chiefs Esports Club","Sin Gaming","LLWWL","","dom","P"],["2017-08-26","OPL 2017 Split 2 Playoffs","Round 2","Chiefs Esports Club","Sin Gaming","WWW","","dom","P"],["2017-08-27","OPL 2017 Split 2 Playoffs","Round 3","Chiefs Esports Club","Legacy Esports","WWW","","dom","P"],["2017-09-02","OPL 2017 Split 2 Playoffs","Final","Chiefs Esports Club","Dire Wolves","LLWL","","dom","P"],["2018-03-25","OPL 2018 Split 1 Playoffs","Round 3","Chiefs Esports Club","Legacy Esports","LWWW","","dom","P"],["2018-03-31","OPL 2018 Split 1 Playoffs","Final","Chiefs Esports Club","Dire Wolves","WWLLL","","dom","P"],["2018-08-26","OPL 2018 Split 2 Playoffs","Round 3","Chiefs Esports Club","Legacy Esports","LWWW","","dom","P"],["2018-09-02","OPL 2018 Split 2 Playoffs","Final","Chiefs Esports Club","Dire Wolves","LWLL","","dom","P"],["2019-03-30","OPL 2019 Split 1 Playoffs","Round 3","Chiefs Esports Club","ORDER","LLL","","dom","P"],["2019-08-31","OPL 2019 Split 2 Playoffs","Final","Chiefs Esports Club","MAMMOTH","LLL","","dom","P"],["2020-04-11","OPL 2020 Split 1 Playoffs","Round 2","Legacy Esports","Chiefs Esports Club","WLWW","","dom","P"],["2020-04-24","OPL 2020 Split 1 Playoffs","Final","Legacy Esports","Dire Wolves","WWLW","","dom","P"],["2020-08-15","OPL 2020 Split 2 Playoffs","Round 2","Legacy Esports","ORDER","WWLW","","dom","P"],["2020-08-28","OPL 2020 Split 2 Playoffs","Final","Legacy Esports","ORDER","WLWW","","dom","P"],["2020-09-30","Worlds 2020","Qualification Round","Legacy Esports","LGD Gaming","LLL","","worlds","P"],["2021-08-12","LCS 2021 Championship","Round 1","Immortals","Dignitas","WWW","","dom","P"],["2021-08-20","LCS 2021 Championship","Round 2","Immortals","TSM","LLWL","","dom","P"],["2022-03-29","LCO 2022 Split 1 Playoffs","Round 2","Chiefs Esports Club","Pentanet.GG","WLWLW","","dom","P"],["2022-04-11","LCO 2022 Split 1 Playoffs","Final","Chiefs Esports Club","ORDER","LWLWL","","dom","P"],["2022-08-22","LCO 2022 Split 2 Playoffs","Round 2","Chiefs Esports Club","ORDER","WWW","","dom","P"],["2022-09-04","LCO 2022 Split 2 Playoffs","Final","Chiefs Esports Club","Pentanet.GG","WWLW","","dom","P"],["2023-03-15","LCO 2023 Split 1 Playoffs","Finals Stage","Chiefs Esports Club","Team Bliss","WLLWL","","dom","P"],["2023-03-16","LCO 2023 Split 1 Playoffs","Finals Stage","Chiefs Esports Club","Dire Wolves","WWW","","dom","P"],["2023-03-23","PCS 2023 Spring Playoffs","Round 1","Chiefs Esports Club","CTBC Flying Oyster","LLL","","dom","P"],["2023-03-25","PCS 2023 Spring Playoffs","Round 1","Chiefs Esports Club","Beyond Gaming","LLWL","","dom","P"],["2023-04-29","LCO 2023 Split 1 Playoffs","Finals Stage","Chiefs Esports Club","Team Bliss","WWLW","","dom","P"],["2023-07-20","LCO 2023 Split 2 Playoffs","Round 3","Chiefs Esports Club","Team Bliss","LLL","","dom","P"],["2023-07-21","LCO 2023 Split 2 Playoffs","Round 3","Chiefs Esports Club","MAMMOTH","WWW","","dom","P"],["2023-07-30","LCO 2023 Split 2 Playoffs","Final","Chiefs Esports Club","Team Bliss","WWW","","dom","P"],["2023-08-12","PCS 2023 Summer Playoffs","Round 1","Chiefs Esports Club","Deep Cross Gaming","WLLL","","dom","P"],["2023-08-18","PCS 2023 Summer Playoffs","Round 1","Chiefs Esports Club","Frank Esports","LLWL","","dom","P"],["2024-07-19","LCO 2024 Split 2 Playoffs","Round 3","Antic Esports","Team Bliss","WLLL","","dom","P"],["2025-08-29","LCP OPQ 2025 Main Event","Round 7","Rich Dynasty","The Outcasts","LWWW","","dom","S"],["2025-08-30","LCP OPQ 2025 Main Event","Round 8","Rich Dynasty","Polarchair","LLWWL","","dom","S"]],"unknown":[["2026-04-26","The Oceanic Resurrection 2026","Grand Final","Rich Dynasty","Coached by Woodon","3-2","","dom","S"]]}
+{
+  "player": "Raes",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2016-03-29","OPL 2016 Split 1 Playoffs","Semifinal","Dire Wolves","Legacy Esports","LLWL","","dom","P"],
+    ["2016-08-02","OPL 2016 Split 2 Playoffs","Semifinal","Chiefs Esports Club","Dire Wolves","WWW","","dom","P"],
+    ["2016-08-13","OPL 2016 Split 2 Playoffs","Final","Chiefs Esports Club","Legacy Esports","WWW","","dom","P"],
+    ["2017-04-08","OPL 2017 Split 1 Playoffs","Round 2","Chiefs Esports Club","Sin Gaming","LLWWL","","dom","P"],
+    ["2017-08-26","OPL 2017 Split 2 Playoffs","Round 2","Chiefs Esports Club","Sin Gaming","WWW","","dom","P"],
+    ["2017-08-27","OPL 2017 Split 2 Playoffs","Round 3","Chiefs Esports Club","Legacy Esports","WWW","","dom","P"],
+    ["2017-09-02","OPL 2017 Split 2 Playoffs","Final","Chiefs Esports Club","Dire Wolves","LLWL","","dom","P"],
+    ["2018-03-25","OPL 2018 Split 1 Playoffs","Round 3","Chiefs Esports Club","Legacy Esports","LWWW","","dom","P"],
+    ["2018-03-31","OPL 2018 Split 1 Playoffs","Final","Chiefs Esports Club","Dire Wolves","WWLLL","","dom","P"],
+    ["2018-08-26","OPL 2018 Split 2 Playoffs","Round 3","Chiefs Esports Club","Legacy Esports","LWWW","","dom","P"],
+    ["2018-09-02","OPL 2018 Split 2 Playoffs","Final","Chiefs Esports Club","Dire Wolves","LWLL","","dom","P"],
+    ["2019-03-30","OPL 2019 Split 1 Playoffs","Round 3","Chiefs Esports Club","ORDER","LLL","","dom","P"],
+    ["2019-08-31","OPL 2019 Split 2 Playoffs","Final","Chiefs Esports Club","MAMMOTH","LLL","","dom","P"],
+    ["2020-04-11","OPL 2020 Split 1 Playoffs","Round 2","Legacy Esports","Chiefs Esports Club","WLWW","","dom","P"],
+    ["2020-04-24","OPL 2020 Split 1 Playoffs","Final","Legacy Esports","Dire Wolves","WWLW","","dom","P"],
+    ["2020-08-15","OPL 2020 Split 2 Playoffs","Round 2","Legacy Esports","ORDER","WWLW","","dom","P"],
+    ["2020-08-28","OPL 2020 Split 2 Playoffs","Final","Legacy Esports","ORDER","WLWW","","dom","P"],
+    ["2020-09-30","Worlds 2020","Qualification Round","Legacy Esports","LGD Gaming","LLL","","worlds","P"],
+    ["2021-08-12","LCS 2021 Championship","Round 1","Immortals","Dignitas","WWW","","dom","P"],
+    ["2021-08-20","LCS 2021 Championship","Round 2","Immortals","TSM","LLWL","","dom","P"],
+    ["2022-03-29","LCO 2022 Split 1 Playoffs","Round 2","Chiefs Esports Club","Pentanet.GG","WLWLW","","dom","P"],
+    ["2022-04-11","LCO 2022 Split 1 Playoffs","Final","Chiefs Esports Club","ORDER","LWLWL","","dom","P"],
+    ["2022-08-22","LCO 2022 Split 2 Playoffs","Round 2","Chiefs Esports Club","ORDER","WWW","","dom","P"],
+    ["2022-09-04","LCO 2022 Split 2 Playoffs","Final","Chiefs Esports Club","Pentanet.GG","WWLW","","dom","P"],
+    ["2023-03-15","LCO 2023 Split 1 Playoffs","Finals Stage","Chiefs Esports Club","Team Bliss","WLLWL","","dom","P"],
+    ["2023-03-16","LCO 2023 Split 1 Playoffs","Finals Stage","Chiefs Esports Club","Dire Wolves","WWW","","dom","P"],
+    ["2023-03-23","PCS 2023 Spring Playoffs","Round 1","Chiefs Esports Club","CTBC Flying Oyster","LLL","","dom","P"],
+    ["2023-03-25","PCS 2023 Spring Playoffs","Round 1","Chiefs Esports Club","Beyond Gaming","LLWL","","dom","P"],
+    ["2023-04-29","LCO 2023 Split 1 Playoffs","Finals Stage","Chiefs Esports Club","Team Bliss","WWLW","","dom","P"],
+    ["2023-07-20","LCO 2023 Split 2 Playoffs","Round 3","Chiefs Esports Club","Team Bliss","LLL","","dom","P"],
+    ["2023-07-21","LCO 2023 Split 2 Playoffs","Round 3","Chiefs Esports Club","MAMMOTH","WWW","","dom","P"],
+    ["2023-07-30","LCO 2023 Split 2 Playoffs","Final","Chiefs Esports Club","Team Bliss","WWW","","dom","P"],
+    ["2023-08-12","PCS 2023 Summer Playoffs","Round 1","Chiefs Esports Club","Deep Cross Gaming","WLLL","","dom","P"],
+    ["2023-08-18","PCS 2023 Summer Playoffs","Round 1","Chiefs Esports Club","Frank Esports","LLWL","","dom","P"],
+    ["2024-07-19","LCO 2024 Split 2 Playoffs","Round 3","Antic Esports","Team Bliss","WLLL","","dom","P"],
+    ["2025-08-29","LCP OPQ 2025 Main Event","Round 7","Rich Dynasty","The Outcasts","LWWW","","dom","S"],
+    ["2025-08-30","LCP OPQ 2025 Main Event","Round 8","Rich Dynasty","Polarchair","LLWWL","","dom","S"]
+  ],
+  "unknown": [
+    ["2026-04-26","The Oceanic Resurrection 2026","Grand Final","Rich Dynasty","Coached by Woodon","3-2","","dom","S"]
+  ]
+}

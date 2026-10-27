@@ -1,1 +1,36 @@
-{"player":"Xiyang","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2014-05-11","All-Star Paris 2014","","Oh My God","SK Telecom T1 K","LLL","","intl","X"],["2015-06-29","2015 Demacia Cup Summer Season","Round of 16","Oh My God","Hyper Youth Gaming","WWW","","dom","P"],["2015-07-10","2015 Demacia Cup Summer Season","Quarterfinal","Oh My God","LGD Gaming","WWW","","dom","P"],["2015-07-11","2015 Demacia Cup Summer Season","Semifinal","Oh My God","Snake Esports","WLWW","","dom","P"],["2015-07-12","2015 Demacia Cup Summer Season","Final","Oh My God","EDward Gaming","LLL","","dom","P"],["2015-11-21","2015 Demacia Cup Grand Finals","Semifinal","Oh My God","Invictus Gaming","LLWL","","dom","P"],["2016-04-14","LPL 2016 Summer Promotion","Qualifying Round","Oh My God","Energy Pacemaker.All","WWW","","dom","P"],["2016-08-11","LPL 2017 Spring Promotion","Elimination Round","Oh My God","Saint Gaming","WWW","","dom","P"],["2016-08-13","LPL 2017 Spring Promotion","Qualifying Round","Oh My God","Young Miracles","WWLLW","","dom","P"],["2017-04-20","LPL 2017 Spring Playoffs","Quarterfinal","Oh My God","I May","LLWWW","","dom","P"],["2017-04-22","LPL 2017 Spring Playoffs","Semifinal","Oh My God","Team WE","LLWL","","dom","P"],["2017-04-23","LPL 2017 Spring Playoffs","Third-Place Match","Oh My God","EDward Gaming","LWLWL","","dom","P"],["2017-06-01","Demacia Cup 2017 Season","Quarterfinal","Oh My God","I May","LLL","","dom","P"],["2017-08-23","LPL 2017 Summer Playoffs","Quarterfinal","Oh My God","Invictus Gaming","LWLL","","dom","P"],["2017-09-02","LPL 2017 Regional Finals","Round 1","Oh My God","Invictus Gaming","LLL","","dom","P"],["2019-04-22","National Electronic Sports Tournament 2019","Qualifying Round","Oh My God","Topsports Gaming","LLL","r","dom","P"],["2024-05-27","Legend Cup Season 1","Upper Round 1","Blood (Chinese Team)","GaoziGaming","WWW","","dom","S"],["2024-05-31","Legend Cup Season 1","Round 2","Blood (Chinese Team)","Omnipotence","LLL","","dom","S"],["2024-06-15","Legend Cup Season 1","Semifinal","Blood (Chinese Team)","Big Green Mood","LLWWW","","dom","S"],["2024-06-16","Legend Cup Season 1","Final","Blood (Chinese Team)","Omnipotence","WWLLW","","dom","S"],["2024-11-25","Legend Cup Season 2","Round 1","Blood (Chinese Team)","Gank Me","WWW","","dom","S"],["2024-11-26","Legend Cup Season 2","Round 2","Blood (Chinese Team)","BYG (LGC Team)","WWW","","dom","S"],["2024-11-29","Legend Cup Season 2","Round 3","Blood (Chinese Team)","Kill Baron","WLWW","","dom","S"],["2024-12-08","Legend Cup Season 2","Final","Blood (Chinese Team)","Super Gaming","WLWLW","","dom","S"],["2025-05-01","Legend Cup Season 3 China","Round 1","Herald Protection Association","Blood (Chinese Team)","WWLW","","dom","S"],["2025-05-08","Legend Cup Season 3 China","Round 2","Herald Protection Association","All I Want","LWWLL","","dom","S"],["2025-05-10","Legend Cup Season 3 China","Semifinal","Herald Protection Association","Blood (Chinese Team)","LWWLW","","dom","S"],["2025-05-11","Legend Cup Season 3 China","Final","Herald Protection Association","All I Want","LLL","","dom","S"]],"unknown":[]}
+{
+  "player": "Xiyang",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2014-05-11","All-Star Paris 2014","","Oh My God","SK Telecom T1 K","LLL","","intl","X"],
+    ["2015-06-29","2015 Demacia Cup Summer Season","Round of 16","Oh My God","Hyper Youth Gaming","WWW","","dom","P"],
+    ["2015-07-10","2015 Demacia Cup Summer Season","Quarterfinal","Oh My God","LGD Gaming","WWW","","dom","P"],
+    ["2015-07-11","2015 Demacia Cup Summer Season","Semifinal","Oh My God","Snake Esports","WLWW","","dom","P"],
+    ["2015-07-12","2015 Demacia Cup Summer Season","Final","Oh My God","EDward Gaming","LLL","","dom","P"],
+    ["2015-11-21","2015 Demacia Cup Grand Finals","Semifinal","Oh My God","Invictus Gaming","LLWL","","dom","P"],
+    ["2016-04-14","LPL 2016 Summer Promotion","Qualifying Round","Oh My God","Energy Pacemaker.All","WWW","","dom","P"],
+    ["2016-08-11","LPL 2017 Spring Promotion","Elimination Round","Oh My God","Saint Gaming","WWW","","dom","P"],
+    ["2016-08-13","LPL 2017 Spring Promotion","Qualifying Round","Oh My God","Young Miracles","WWLLW","","dom","P"],
+    ["2017-04-20","LPL 2017 Spring Playoffs","Quarterfinal","Oh My God","I May","LLWWW","","dom","P"],
+    ["2017-04-22","LPL 2017 Spring Playoffs","Semifinal","Oh My God","Team WE","LLWL","","dom","P"],
+    ["2017-04-23","LPL 2017 Spring Playoffs","Third-Place Match","Oh My God","EDward Gaming","LWLWL","","dom","P"],
+    ["2017-06-01","Demacia Cup 2017 Season","Quarterfinal","Oh My God","I May","LLL","","dom","P"],
+    ["2017-08-23","LPL 2017 Summer Playoffs","Quarterfinal","Oh My God","Invictus Gaming","LWLL","","dom","P"],
+    ["2017-09-02","LPL 2017 Regional Finals","Round 1","Oh My God","Invictus Gaming","LLL","","dom","P"],
+    ["2019-04-22","National Electronic Sports Tournament 2019","Qualifying Round","Oh My God","Topsports Gaming","LLL","r","dom","P"],
+    ["2024-05-27","Legend Cup Season 1","Upper Round 1","Blood (Chinese Team)","GaoziGaming","WWW","","dom","S"],
+    ["2024-05-31","Legend Cup Season 1","Round 2","Blood (Chinese Team)","Omnipotence","LLL","","dom","S"],
+    ["2024-06-15","Legend Cup Season 1","Semifinal","Blood (Chinese Team)","Big Green Mood","LLWWW","","dom","S"],
+    ["2024-06-16","Legend Cup Season 1","Final","Blood (Chinese Team)","Omnipotence","WWLLW","","dom","S"],
+    ["2024-11-25","Legend Cup Season 2","Round 1","Blood (Chinese Team)","Gank Me","WWW","","dom","S"],
+    ["2024-11-26","Legend Cup Season 2","Round 2","Blood (Chinese Team)","BYG (LGC Team)","WWW","","dom","S"],
+    ["2024-11-29","Legend Cup Season 2","Round 3","Blood (Chinese Team)","Kill Baron","WLWW","","dom","S"],
+    ["2024-12-08","Legend Cup Season 2","Final","Blood (Chinese Team)","Super Gaming","WLWLW","","dom","S"],
+    ["2025-05-01","Legend Cup Season 3 China","Round 1","Herald Protection Association","Blood (Chinese Team)","WWLW","","dom","S"],
+    ["2025-05-08","Legend Cup Season 3 China","Round 2","Herald Protection Association","All I Want","LWWLL","","dom","S"],
+    ["2025-05-10","Legend Cup Season 3 China","Semifinal","Herald Protection Association","Blood (Chinese Team)","LWWLW","","dom","S"],
+    ["2025-05-11","Legend Cup Season 3 China","Final","Herald Protection Association","All I Want","LLL","","dom","S"]
+  ],
+  "unknown": []
+}

@@ -1,1 +1,44 @@
-{"player":"Touch","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2014-08-14","Season International Wild Card Tournament 2014","Gamescom Final","Dark Passage","Legacy Esports","WWW","","dom","P"],["2015-03-29","TCL 2015 Winter Playoffs","Semifinal","Dark Passage","HWA Gaming","WLWW","","dom","P"],["2015-04-04","TCL 2015 Winter Playoffs","Final","Dark Passage","Beşiktaş Esports","LLL","","dom","P"],["2019-05-05","Telialigaen 2019 Spring Playoffs","Semifinal","Nordavind","Riddle Esports","WWW","r","dom",""],["2019-06-19","Norwegian Esports League Season 3 Playoffs","Final","Nordavind","Celestial Gaming","LWWLW","r","dom",""],["2020-04-25","Telialigaen 2020 Spring Playoffs","Semifinal","Nordavind","Riddle Esports","WWW","r","dom",""],["2020-12-06","Telialigaen 2020 Autumn Playoffs","Final","Nordavind","Domino esports","WWW","r","dom",""],["2021-03-20","NLC 2021 Spring Playoffs","Round 4","Nordavind","Fnatic Rising","LWLL","","dom","S"],["2021-11-28","Leagues.gg Winter Showdown Norway 2021 Playoffs","Round 4","00 Nation","00 Prospects","WWW","r","dom","S"],["2021-12-12","Leagues.gg Winter Showdown Norway 2021 Playoffs","Grand Final","00 Nation","00 Prospects","WWW","r","dom","S"],["2022-04-05","NLC 2nd Division 2022 Spring Playoffs","Round 1","Lundqvist Lightside","RATE Gaming","WWW","","dom","S"],["2022-04-14","NLC 2nd Division 2022 Spring Playoffs","Round 2","Lundqvist Lightside","Fløng Esports Elite","LLL","","dom","S"],["2022-08-22","NLC 2nd Division 2023 Spring Promotion","Round 1","Verdant","Lucent Esports","WWLLW","","dom","S"],["2022-08-24","NLC 2nd Division 2023 Spring Promotion","Round 2","Verdant","Karolinerna Black","WLWW","","dom","S"],["2022-09-01","NLC 2nd Division 2023 Spring Promotion","Round 3","Verdant","Karolinerna Black","LWWW","","dom","S"],["2023-08-11","NLC 2nd Division 2023 Summer Playoffs","Round 1","Venomcrest Esports","Karolinerna","WWW","","dom","S"],["2023-08-18","NLC 2nd Division 2023 Summer Playoffs","Round 3","Venomcrest Esports","Munster Rugby Gaming","WWW","","dom","S"],["2023-08-27","NLC 2nd Division 2023 Summer Playoffs","Final","Venomcrest Esports","Lundqvist Lightside","WWLW","","dom","S"],["2023-09-11","NLC 2024 Promotion","Round 1","Venomcrest Esports","Lundqvist Lightside","LLWL","","dom","S"],["2023-09-18","NLC 2024 Promotion","Round 2","Venomcrest Esports","UniQ Esports Club","WLWLW","","dom","S"],["2023-11-07","Elite Series 2023 Benelux Masters","Quarterfinal","A One Man Army","mCon esports","WLWW","","dom","S"],["2023-11-11","Elite Series 2023 Benelux Masters","Semifinal","A One Man Army","Meow Gaming Club","WLLL","","dom","S"],["2023-12-10","NLC 2nd Division 2024 Spring RPS","Final","Rich Gang (Norwegian Team)","KAOS e-sport","WLWLW","","dom","S"],["2024-08-07","NLC 2nd Division 2024 Summer Playoffs","Round 1","UniQ Esports Club","42 Gaming","LLL","","dom","S"],["2024-08-16","NLC 2nd Division 2024 Summer Playoffs","Round 2","UniQ Esports Club","Lazy In Life","WWW","","dom","S"],["2024-08-20","NLC 2nd Division 2024 Summer Playoffs","Round 3","UniQ Esports Club","Rich Gang (Norwegian Team)","LWWLL","","dom","S"]],"unknown":[["2019-05-25","Telialigaen 2019 Spring Playoffs","Final","Nordavind","Celestial Gaming","2-3","","dom",""],["2020-05-10","Telialigaen 2020 Spring Playoffs","Final","Nordavind","Viking Esports (Norwegian Team)","3-2","","dom",""],["2020-11-16","Telialigaen 2020 Autumn Playoffs","Semifinal","Nordavind","Viking Esports (Norwegian Team)","3-1","","dom",""],["2021-11-14","Telialigaen 2021 Autumn Playoffs","Semifinal","00 Nation","Bifrost","2-3","","dom","S"],["2022-05-15","Telialigaen 2022 Spring Playoffs","Semifinal","Riddle NO","Rich Gang (Norwegian Team)","3-1","","dom","S"],["2022-05-28","Telialigaen 2022 Spring Playoffs","Final","Riddle NO","Urban Esports","3-2","","dom","S"],["2022-10-29","Telialigaen 2022 Autumn Playoffs","Round 2","Riddle NO","Domino esports","3-1","","dom","S"],["2022-11-13","Telialigaen 2022 Autumn Playoffs","Final","Riddle NO","Domino esports","2-3","","dom","S"],["2023-12-05","NLC 2nd Division 2024 Spring RPS","Semifinal","Rich Gang (Norwegian Team)","Epic Avalanche","3-1","","dom","S"]]}
+{
+  "player": "Touch",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2014-08-14","Season International Wild Card Tournament 2014","Gamescom Final","Dark Passage","Legacy Esports","WWW","","dom","P"],
+    ["2015-03-29","TCL 2015 Winter Playoffs","Semifinal","Dark Passage","HWA Gaming","WLWW","","dom","P"],
+    ["2015-04-04","TCL 2015 Winter Playoffs","Final","Dark Passage","Beşiktaş Esports","LLL","","dom","P"],
+    ["2019-05-05","Telialigaen 2019 Spring Playoffs","Semifinal","Nordavind","Riddle Esports","WWW","r","dom",""],
+    ["2019-06-19","Norwegian Esports League Season 3 Playoffs","Final","Nordavind","Celestial Gaming","LWWLW","r","dom",""],
+    ["2020-04-25","Telialigaen 2020 Spring Playoffs","Semifinal","Nordavind","Riddle Esports","WWW","r","dom",""],
+    ["2020-12-06","Telialigaen 2020 Autumn Playoffs","Final","Nordavind","Domino esports","WWW","r","dom",""],
+    ["2021-03-20","NLC 2021 Spring Playoffs","Round 4","Nordavind","Fnatic Rising","LWLL","","dom","S"],
+    ["2021-11-28","Leagues.gg Winter Showdown Norway 2021 Playoffs","Round 4","00 Nation","00 Prospects","WWW","r","dom","S"],
+    ["2021-12-12","Leagues.gg Winter Showdown Norway 2021 Playoffs","Grand Final","00 Nation","00 Prospects","WWW","r","dom","S"],
+    ["2022-04-05","NLC 2nd Division 2022 Spring Playoffs","Round 1","Lundqvist Lightside","RATE Gaming","WWW","","dom","S"],
+    ["2022-04-14","NLC 2nd Division 2022 Spring Playoffs","Round 2","Lundqvist Lightside","Fløng Esports Elite","LLL","","dom","S"],
+    ["2022-08-22","NLC 2nd Division 2023 Spring Promotion","Round 1","Verdant","Lucent Esports","WWLLW","","dom","S"],
+    ["2022-08-24","NLC 2nd Division 2023 Spring Promotion","Round 2","Verdant","Karolinerna Black","WLWW","","dom","S"],
+    ["2022-09-01","NLC 2nd Division 2023 Spring Promotion","Round 3","Verdant","Karolinerna Black","LWWW","","dom","S"],
+    ["2023-08-11","NLC 2nd Division 2023 Summer Playoffs","Round 1","Venomcrest Esports","Karolinerna","WWW","","dom","S"],
+    ["2023-08-18","NLC 2nd Division 2023 Summer Playoffs","Round 3","Venomcrest Esports","Munster Rugby Gaming","WWW","","dom","S"],
+    ["2023-08-27","NLC 2nd Division 2023 Summer Playoffs","Final","Venomcrest Esports","Lundqvist Lightside","WWLW","","dom","S"],
+    ["2023-09-11","NLC 2024 Promotion","Round 1","Venomcrest Esports","Lundqvist Lightside","LLWL","","dom","S"],
+    ["2023-09-18","NLC 2024 Promotion","Round 2","Venomcrest Esports","UniQ Esports Club","WLWLW","","dom","S"],
+    ["2023-11-07","Elite Series 2023 Benelux Masters","Quarterfinal","A One Man Army","mCon esports","WLWW","","dom","S"],
+    ["2023-11-11","Elite Series 2023 Benelux Masters","Semifinal","A One Man Army","Meow Gaming Club","WLLL","","dom","S"],
+    ["2023-12-10","NLC 2nd Division 2024 Spring RPS","Final","Rich Gang (Norwegian Team)","KAOS e-sport","WLWLW","","dom","S"],
+    ["2024-08-07","NLC 2nd Division 2024 Summer Playoffs","Round 1","UniQ Esports Club","42 Gaming","LLL","","dom","S"],
+    ["2024-08-16","NLC 2nd Division 2024 Summer Playoffs","Round 2","UniQ Esports Club","Lazy In Life","WWW","","dom","S"],
+    ["2024-08-20","NLC 2nd Division 2024 Summer Playoffs","Round 3","UniQ Esports Club","Rich Gang (Norwegian Team)","LWWLL","","dom","S"]
+  ],
+  "unknown": [
+    ["2019-05-25","Telialigaen 2019 Spring Playoffs","Final","Nordavind","Celestial Gaming","2-3","","dom",""],
+    ["2020-05-10","Telialigaen 2020 Spring Playoffs","Final","Nordavind","Viking Esports (Norwegian Team)","3-2","","dom",""],
+    ["2020-11-16","Telialigaen 2020 Autumn Playoffs","Semifinal","Nordavind","Viking Esports (Norwegian Team)","3-1","","dom",""],
+    ["2021-11-14","Telialigaen 2021 Autumn Playoffs","Semifinal","00 Nation","Bifrost","2-3","","dom","S"],
+    ["2022-05-15","Telialigaen 2022 Spring Playoffs","Semifinal","Riddle NO","Rich Gang (Norwegian Team)","3-1","","dom","S"],
+    ["2022-05-28","Telialigaen 2022 Spring Playoffs","Final","Riddle NO","Urban Esports","3-2","","dom","S"],
+    ["2022-10-29","Telialigaen 2022 Autumn Playoffs","Round 2","Riddle NO","Domino esports","3-1","","dom","S"],
+    ["2022-11-13","Telialigaen 2022 Autumn Playoffs","Final","Riddle NO","Domino esports","2-3","","dom","S"],
+    ["2023-12-05","NLC 2nd Division 2024 Spring RPS","Semifinal","Rich Gang (Norwegian Team)","Epic Avalanche","3-1","","dom","S"]
+  ]
+}

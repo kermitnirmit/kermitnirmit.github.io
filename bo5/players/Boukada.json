@@ -1,1 +1,35 @@
-{"player":"Boukada","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2021-09-21","LFL 2022 Promotion","Round 1","Team MCES","Team Oplon","LWLL","","dom","S"],["2021-09-22","LFL 2022 Promotion","Round 1","Team MCES","IziDream","LLL","","dom","S"],["2022-08-01","LFL Division 2 2022 Summer Playoffs","Round 1","Atletec","PCS Taran","WLLL","","dom","S"],["2022-10-19","Coupe de France 2022","Round 2","Atletec","LDLC OL","LLL","","dom","S"],["2023-03-21","LFL Division 2 2023 Spring Playoffs","Round 2","Team Du Sud","Lille Esport","WLWLW","","dom","S"],["2023-04-02","LFL Division 2 2023 Spring Playoffs","Final","Team Du Sud","beGenius ESC","WWW","","dom","S"],["2023-08-07","LFL Division 2 2023 Summer Playoffs","Round 2","Team Du Sud","Lille Esport","WWW","","dom","S"],["2023-08-13","LFL Division 2 2023 Summer Playoffs","Final","Team Du Sud","Atletec","WWLW","","dom","S"],["2023-09-19","LFL 2024 Promotion","Round 1","Team Du Sud","IziDream","LWWLL","","dom","S"],["2023-09-20","LFL 2024 Promotion","Round 1","Team Du Sud","Lille Esport","WWW","","dom","S"],["2023-09-22","LFL 2024 Promotion","Round 2","Team Du Sud","IziDream","WWW","","dom","S"],["2023-09-29","Coupe de France 2023","Round 2","Team Du Sud","Solary","WWW","","dom","S"],["2023-10-05","Coupe de France 2023","Quarterfinal","Team Du Sud","Atletec","LWWW","","dom","S"],["2023-10-08","Coupe de France 2023","Semifinal","Team Du Sud","Vitality.Bee","WWW","","dom","S"],["2023-11-01","Coupe de France 2023","Final","Team Du Sud","Team GO","WLLL","","dom","S"],["2024-03-21","LFL 2024 Spring Playoffs","Round 1","Team GO","Vitality.Bee","LLL","","dom","S"],["2024-07-24","LFL 2024 Summer Playoffs","Round 1","Team GO","BK ROG Esports","LWLWW","","dom","S"],["2024-07-29","LFL 2024 Summer Playoffs","Round 2","Team GO","Vitality.Bee","WLLL","","dom","S"],["2024-08-02","EMEA Masters 2024 Summer LCQ","Round 3","Team GO","Eintracht Spandau","LWLWW","","dom","S"],["2024-08-15","EMEA Masters 2024 Summer Main Event","Round of 16","Team GO","Dark Passage","WWW","","dom","S"],["2024-08-20","EMEA Masters 2024 Summer Main Event","Quarterfinal","Team GO","Macko Esports","LWWLW","","dom","S"],["2024-08-22","EMEA Masters 2024 Summer Main Event","Semifinal","Team GO","Vitality.Bee","LWLL","","dom","S"],["2024-09-18","Coupe de France 2024","Round 2","Team GO","Klanik Esport","WWW","","dom","S"],["2024-09-21","Coupe de France 2024","Quarterfinal","Team GO","BK ROG Esports","WLLWL","","dom","S"],["2025-02-19","LFL 2025 Flash In Playoffs","Round 1","Karmine Corp Blue","Ici Japon Corp. Esport","WWW","","dom","S"],["2025-02-27","LFL 2025 Flash In Playoffs","Final","Karmine Corp Blue","Ici Japon Corp. Esport","WWLW","","dom","S"],["2025-09-06","LEC 2025 Summer Playoffs","Cross Play Decider","Team BDS","GIANTX","LLL","","dom","P"]],"unknown":[]}
+{
+  "player": "Boukada",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2021-09-21","LFL 2022 Promotion","Round 1","Team MCES","Team Oplon","LWLL","","dom","S"],
+    ["2021-09-22","LFL 2022 Promotion","Round 1","Team MCES","IziDream","LLL","","dom","S"],
+    ["2022-08-01","LFL Division 2 2022 Summer Playoffs","Round 1","Atletec","PCS Taran","WLLL","","dom","S"],
+    ["2022-10-19","Coupe de France 2022","Round 2","Atletec","LDLC OL","LLL","","dom","S"],
+    ["2023-03-21","LFL Division 2 2023 Spring Playoffs","Round 2","Team Du Sud","Lille Esport","WLWLW","","dom","S"],
+    ["2023-04-02","LFL Division 2 2023 Spring Playoffs","Final","Team Du Sud","beGenius ESC","WWW","","dom","S"],
+    ["2023-08-07","LFL Division 2 2023 Summer Playoffs","Round 2","Team Du Sud","Lille Esport","WWW","","dom","S"],
+    ["2023-08-13","LFL Division 2 2023 Summer Playoffs","Final","Team Du Sud","Atletec","WWLW","","dom","S"],
+    ["2023-09-19","LFL 2024 Promotion","Round 1","Team Du Sud","IziDream","LWWLL","","dom","S"],
+    ["2023-09-20","LFL 2024 Promotion","Round 1","Team Du Sud","Lille Esport","WWW","","dom","S"],
+    ["2023-09-22","LFL 2024 Promotion","Round 2","Team Du Sud","IziDream","WWW","","dom","S"],
+    ["2023-09-29","Coupe de France 2023","Round 2","Team Du Sud","Solary","WWW","","dom","S"],
+    ["2023-10-05","Coupe de France 2023","Quarterfinal","Team Du Sud","Atletec","LWWW","","dom","S"],
+    ["2023-10-08","Coupe de France 2023","Semifinal","Team Du Sud","Vitality.Bee","WWW","","dom","S"],
+    ["2023-11-01","Coupe de France 2023","Final","Team Du Sud","Team GO","WLLL","","dom","S"],
+    ["2024-03-21","LFL 2024 Spring Playoffs","Round 1","Team GO","Vitality.Bee","LLL","","dom","S"],
+    ["2024-07-24","LFL 2024 Summer Playoffs","Round 1","Team GO","BK ROG Esports","LWLWW","","dom","S"],
+    ["2024-07-29","LFL 2024 Summer Playoffs","Round 2","Team GO","Vitality.Bee","WLLL","","dom","S"],
+    ["2024-08-02","EMEA Masters 2024 Summer LCQ","Round 3","Team GO","Eintracht Spandau","LWLWW","","dom","S"],
+    ["2024-08-15","EMEA Masters 2024 Summer Main Event","Round of 16","Team GO","Dark Passage","WWW","","dom","S"],
+    ["2024-08-20","EMEA Masters 2024 Summer Main Event","Quarterfinal","Team GO","Macko Esports","LWWLW","","dom","S"],
+    ["2024-08-22","EMEA Masters 2024 Summer Main Event","Semifinal","Team GO","Vitality.Bee","LWLL","","dom","S"],
+    ["2024-09-18","Coupe de France 2024","Round 2","Team GO","Klanik Esport","WWW","","dom","S"],
+    ["2024-09-21","Coupe de France 2024","Quarterfinal","Team GO","BK ROG Esports","WLLWL","","dom","S"],
+    ["2025-02-19","LFL 2025 Flash In Playoffs","Round 1","Karmine Corp Blue","Ici Japon Corp. Esport","WWW","","dom","S"],
+    ["2025-02-27","LFL 2025 Flash In Playoffs","Final","Karmine Corp Blue","Ici Japon Corp. Esport","WWLW","","dom","S"],
+    ["2025-09-06","LEC 2025 Summer Playoffs","Cross Play Decider","Team BDS","GIANTX","LLL","","dom","P"]
+  ],
+  "unknown": []
+}

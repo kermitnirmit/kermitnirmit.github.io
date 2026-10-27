@@ -1,1 +1,32 @@
-{"player":"Zergsting","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2014-06-08","TCL 2014 Summer/Finals","Final","Team Turquality","Dark Passage","LLL","r","dom","P"],["2015-08-16","TPL 2015 Summer Playoffs","Final","Team AURORA","Oyun Hizmetleri CILEKLER","WLLL","","dom","S"],["2015-08-21","TCL 2016 Winter Qualifiers","Qual","Team AURORA","ATLAS eSports Team","WLWW","","dom","P"],["2016-03-26","TCL 2016 Winter Playoffs","Semifinal","Team AURORA","SuperMassive Esports","LLWWL","","dom","P"],["2016-08-05","TCL 2016 Summer Playoffs","Quarterfinal","Team AURORA","Team Turquality","WWW","","dom","P"],["2016-08-07","TCL 2016 Summer Playoffs","Semifinal","Team AURORA","SuperMassive Esports","LLL","","dom","P"],["2017-04-08","TCL 2017 Winter Playoffs","Semifinal","Team AURORA","Crew e-Sports Club","LLWL","","dom","P"],["2017-08-06","TCL 2017 Summer Playoffs","Quarterfinal","Team AURORA","Dark Passage","WLWLW","","dom","P"],["2017-08-13","TCL 2017 Summer Playoffs","Semifinal","Team AURORA","SuperMassive Esports","LLWL","","dom","P"],["2018-04-07","TCL 2018 Winter Playoffs","Quarterfinal","Fenerbahçe Esports","Team AURORA","LLWL","","dom","P"],["2018-08-26","TCL 2018 Summer Playoffs","Quarterfinal","Fenerbahçe Esports","Bursaspor Esports","WWLW","","dom","P"],["2018-09-02","TCL 2018 Summer Playoffs","Semifinal","Fenerbahçe Esports","SuperMassive Esports","WLLL","","dom","P"],["2021-04-04","TCL 2021 Winter Playoffs","Quarterfinal","Galatasaray Esports","Dark Passage","WWW","","dom","P"],["2021-04-11","TCL 2021 Winter Playoffs","Semifinal","Galatasaray Esports","Istanbul Wildcats","WWLLL","","dom","P"],["2021-08-22","TCL 2021 Summer Playoffs","Semifinal","Galatasaray Esports","Beşiktaş Esports","WLWW","","dom","P"],["2021-09-04","TCL 2021 Summer Playoffs","Final","Galatasaray Esports","NASR eSports Turkey","WWW","","dom","P"],["2021-10-08","Worlds 2021","Elimination Round","Galatasaray Esports","Beyond Gaming","WWLLL","","worlds","P"],["2022-04-02","TCL 2022 Winter Playoffs","Semifinal","Galatasaray Esports","Dark Passage","WWLW","","dom","P"],["2022-04-09","TCL 2022 Winter Playoffs","Final","Galatasaray Esports","Istanbul Wildcats","LLL","","dom","P"],["2022-08-21","TCL 2022 Summer Playoffs","Quarterfinal","Galatasaray Esports","SuperMassive Blaze","LLWL","","dom","P"],["2023-07-27","PG Nationals 2023 Summer Playoffs","Round 1","Cyberground Gaming","Atleta Esport","LLWL","","dom","S"],["2024-03-19","TCL 2024 Winter Playoffs","Round 1","Misa Esports","BoostGate Esports","LLWL","","dom","S"]],"unknown":[["2014-07-12","TCL 2014 Championship","Final","Team Turquality","Dark Passage","1-3","","dom",""]]}
+{
+  "player": "Zergsting",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2014-06-08","TCL 2014 Summer/Finals","Final","Team Turquality","Dark Passage","LLL","r","dom","P"],
+    ["2015-08-16","TPL 2015 Summer Playoffs","Final","Team AURORA","Oyun Hizmetleri CILEKLER","WLLL","","dom","S"],
+    ["2015-08-21","TCL 2016 Winter Qualifiers","Qual","Team AURORA","ATLAS eSports Team","WLWW","","dom","P"],
+    ["2016-03-26","TCL 2016 Winter Playoffs","Semifinal","Team AURORA","SuperMassive Esports","LLWWL","","dom","P"],
+    ["2016-08-05","TCL 2016 Summer Playoffs","Quarterfinal","Team AURORA","Team Turquality","WWW","","dom","P"],
+    ["2016-08-07","TCL 2016 Summer Playoffs","Semifinal","Team AURORA","SuperMassive Esports","LLL","","dom","P"],
+    ["2017-04-08","TCL 2017 Winter Playoffs","Semifinal","Team AURORA","Crew e-Sports Club","LLWL","","dom","P"],
+    ["2017-08-06","TCL 2017 Summer Playoffs","Quarterfinal","Team AURORA","Dark Passage","WLWLW","","dom","P"],
+    ["2017-08-13","TCL 2017 Summer Playoffs","Semifinal","Team AURORA","SuperMassive Esports","LLWL","","dom","P"],
+    ["2018-04-07","TCL 2018 Winter Playoffs","Quarterfinal","Fenerbahçe Esports","Team AURORA","LLWL","","dom","P"],
+    ["2018-08-26","TCL 2018 Summer Playoffs","Quarterfinal","Fenerbahçe Esports","Bursaspor Esports","WWLW","","dom","P"],
+    ["2018-09-02","TCL 2018 Summer Playoffs","Semifinal","Fenerbahçe Esports","SuperMassive Esports","WLLL","","dom","P"],
+    ["2021-04-04","TCL 2021 Winter Playoffs","Quarterfinal","Galatasaray Esports","Dark Passage","WWW","","dom","P"],
+    ["2021-04-11","TCL 2021 Winter Playoffs","Semifinal","Galatasaray Esports","Istanbul Wildcats","WWLLL","","dom","P"],
+    ["2021-08-22","TCL 2021 Summer Playoffs","Semifinal","Galatasaray Esports","Beşiktaş Esports","WLWW","","dom","P"],
+    ["2021-09-04","TCL 2021 Summer Playoffs","Final","Galatasaray Esports","NASR eSports Turkey","WWW","","dom","P"],
+    ["2021-10-08","Worlds 2021","Elimination Round","Galatasaray Esports","Beyond Gaming","WWLLL","","worlds","P"],
+    ["2022-04-02","TCL 2022 Winter Playoffs","Semifinal","Galatasaray Esports","Dark Passage","WWLW","","dom","P"],
+    ["2022-04-09","TCL 2022 Winter Playoffs","Final","Galatasaray Esports","Istanbul Wildcats","LLL","","dom","P"],
+    ["2022-08-21","TCL 2022 Summer Playoffs","Quarterfinal","Galatasaray Esports","SuperMassive Blaze","LLWL","","dom","P"],
+    ["2023-07-27","PG Nationals 2023 Summer Playoffs","Round 1","Cyberground Gaming","Atleta Esport","LLWL","","dom","S"],
+    ["2024-03-19","TCL 2024 Winter Playoffs","Round 1","Misa Esports","BoostGate Esports","LLWL","","dom","S"]
+  ],
+  "unknown": [
+    ["2014-07-12","TCL 2014 Championship","Final","Team Turquality","Dark Passage","1-3","","dom",""]
+  ]
+}

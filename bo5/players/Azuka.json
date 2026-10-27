@@ -1,1 +1,34 @@
-{"player":"Azuka","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2024-11-28","NNO Cup Season 2","Round 1","Die Atzen","5 Pigs 1 Team","LLL","","dom","S"],["2024-11-30","NNO Cup Season 2","Round 1","Die Atzen","Los Guarros","LLL","","dom","S"],["2025-03-13","Prime League 2nd Division 2025 Spring Playoffs","Round 1","DKB XPERION NXT","DIVE Esports","WWW","","dom","S"],["2025-03-20","Prime League 2nd Division 2025 Spring Playoffs","Round 2","DKB XPERION NXT","EPIC-DUDES","LWWW","","dom","S"],["2025-03-27","Prime League 2nd Division 2025 Spring Playoffs","Round 4","DKB XPERION NXT","Team Mentality","WWLW","","dom","S"],["2025-04-10","Prime League 2nd Division 2025 Spring Playoffs","Grand Final","DKB XPERION NXT","Team Mentality","WLWW","","dom","S"],["2025-07-07","Prime League 2nd Division 2025 Summer Playoffs","Round 1","DKB XPERION NXT","Kanji Esports","WWW","","dom","S"],["2025-07-09","Prime League 2nd Division 2025 Summer Playoffs","Round 2","DKB XPERION NXT","Münster Esports","WWLW","","dom","S"],["2025-07-17","Prime League 2nd Division 2025 Summer Playoffs","Round 4","DKB XPERION NXT","regnum4games","LLWWL","","dom","S"],["2025-07-21","Prime League 2nd Division 2025 Summer Playoffs","Round 4","DKB XPERION NXT","Entropy x Teufel","LWWLW","","dom","S"],["2025-07-25","Prime League 2nd Division 2025 Summer Playoffs","Grand Final","DKB XPERION NXT","regnum4games","WLLWW","","dom","S"],["2025-08-02","Prime League 2nd Division 2025 Season Finals","Round 1","DKB XPERION NXT","All for One Gaming","WLWW","","dom","S"],["2025-08-07","Prime League 2nd Division 2025 Season Finals","Round 2","DKB XPERION NXT","Footprint Gaming","WWW","","dom","S"],["2025-08-11","Prime League 2nd Division 2025 Season Finals","Round 4","DKB XPERION NXT","VfB eSports","WWW","","dom","S"],["2025-08-20","Prime League 2nd Division 2025 Season Finals","Grand Final","DKB XPERION NXT","A One Man Army Prime","WLWLL","","dom","S"],["2025-09-02","Prime League 1st Division 2026 Promotion","Round 1","DKB XPERION NXT","A One Man Army Prime","LWWW","","dom","S"],["2025-09-05","Prime League 1st Division 2026 Promotion","Round 2","DKB XPERION NXT","Eintracht Spandau","LLWWL","","dom","S"],["2025-09-09","Prime League 1st Division 2026 Promotion","Round 2","DKB XPERION NXT","A One Man Army Prime","LLL","","dom","S"],["2025-11-25","Prime League 2nd Division 2026 Fall Playoffs","Round 1","CGN Esports","TeamOrangeGaming Academy","WWLW","","dom","S"],["2025-11-27","Prime League 2nd Division 2026 Fall Playoffs","Round 2","CGN Esports","VfB eSports","WWLLL","","dom","S"],["2025-12-02","Prime League 2nd Division 2026 Fall Playoffs","Round 2","CGN Esports","Footprint Gaming","LWWLW","","dom","S"],["2025-12-05","Prime League 2nd Division 2026 Fall Playoffs","Round 3","CGN Esports","6GPA","WWLLL","","dom","S"],["2026-08-26","LIT 2026 Summer Playoffs","Round 3","Colossal Gaming","Aeterna Esports","LWWW","","dom","S"],["2026-09-03","LIT 2026 Summer Playoffs","Semifinal","Colossal Gaming","HMBLE","LLL","","dom","S"],["2026-09-18","LIT 2026 Summer Playoffs","Semifinal","Colossal Gaming","Team Aqua ASD","WWW","","dom","S"],["2026-09-19","LIT 2026 Summer Playoffs","Final","Colossal Gaming","HMBLE","LLL","","dom","S"]],"unknown":[]}
+{
+  "player": "Azuka",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2024-11-28","NNO Cup Season 2","Round 1","Die Atzen","5 Pigs 1 Team","LLL","","dom","S"],
+    ["2024-11-30","NNO Cup Season 2","Round 1","Die Atzen","Los Guarros","LLL","","dom","S"],
+    ["2025-03-13","Prime League 2nd Division 2025 Spring Playoffs","Round 1","DKB XPERION NXT","DIVE Esports","WWW","","dom","S"],
+    ["2025-03-20","Prime League 2nd Division 2025 Spring Playoffs","Round 2","DKB XPERION NXT","EPIC-DUDES","LWWW","","dom","S"],
+    ["2025-03-27","Prime League 2nd Division 2025 Spring Playoffs","Round 4","DKB XPERION NXT","Team Mentality","WWLW","","dom","S"],
+    ["2025-04-10","Prime League 2nd Division 2025 Spring Playoffs","Grand Final","DKB XPERION NXT","Team Mentality","WLWW","","dom","S"],
+    ["2025-07-07","Prime League 2nd Division 2025 Summer Playoffs","Round 1","DKB XPERION NXT","Kanji Esports","WWW","","dom","S"],
+    ["2025-07-09","Prime League 2nd Division 2025 Summer Playoffs","Round 2","DKB XPERION NXT","Münster Esports","WWLW","","dom","S"],
+    ["2025-07-17","Prime League 2nd Division 2025 Summer Playoffs","Round 4","DKB XPERION NXT","regnum4games","LLWWL","","dom","S"],
+    ["2025-07-21","Prime League 2nd Division 2025 Summer Playoffs","Round 4","DKB XPERION NXT","Entropy x Teufel","LWWLW","","dom","S"],
+    ["2025-07-25","Prime League 2nd Division 2025 Summer Playoffs","Grand Final","DKB XPERION NXT","regnum4games","WLLWW","","dom","S"],
+    ["2025-08-02","Prime League 2nd Division 2025 Season Finals","Round 1","DKB XPERION NXT","All for One Gaming","WLWW","","dom","S"],
+    ["2025-08-07","Prime League 2nd Division 2025 Season Finals","Round 2","DKB XPERION NXT","Footprint Gaming","WWW","","dom","S"],
+    ["2025-08-11","Prime League 2nd Division 2025 Season Finals","Round 4","DKB XPERION NXT","VfB eSports","WWW","","dom","S"],
+    ["2025-08-20","Prime League 2nd Division 2025 Season Finals","Grand Final","DKB XPERION NXT","A One Man Army Prime","WLWLL","","dom","S"],
+    ["2025-09-02","Prime League 1st Division 2026 Promotion","Round 1","DKB XPERION NXT","A One Man Army Prime","LWWW","","dom","S"],
+    ["2025-09-05","Prime League 1st Division 2026 Promotion","Round 2","DKB XPERION NXT","Eintracht Spandau","LLWWL","","dom","S"],
+    ["2025-09-09","Prime League 1st Division 2026 Promotion","Round 2","DKB XPERION NXT","A One Man Army Prime","LLL","","dom","S"],
+    ["2025-11-25","Prime League 2nd Division 2026 Fall Playoffs","Round 1","CGN Esports","TeamOrangeGaming Academy","WWLW","","dom","S"],
+    ["2025-11-27","Prime League 2nd Division 2026 Fall Playoffs","Round 2","CGN Esports","VfB eSports","WWLLL","","dom","S"],
+    ["2025-12-02","Prime League 2nd Division 2026 Fall Playoffs","Round 2","CGN Esports","Footprint Gaming","LWWLW","","dom","S"],
+    ["2025-12-05","Prime League 2nd Division 2026 Fall Playoffs","Round 3","CGN Esports","6GPA","WWLLL","","dom","S"],
+    ["2026-08-26","LIT 2026 Summer Playoffs","Round 3","Colossal Gaming","Aeterna Esports","LWWW","","dom","S"],
+    ["2026-09-03","LIT 2026 Summer Playoffs","Semifinal","Colossal Gaming","HMBLE","LLL","","dom","S"],
+    ["2026-09-18","LIT 2026 Summer Playoffs","Semifinal","Colossal Gaming","Team Aqua ASD","WWW","","dom","S"],
+    ["2026-09-19","LIT 2026 Summer Playoffs","Final","Colossal Gaming","HMBLE","LLL","","dom","S"]
+  ],
+  "unknown": []
+}

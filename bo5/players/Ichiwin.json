@@ -1,1 +1,44 @@
-{"player":"Ichiwin","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2020-04-08","Golden League 2020 Closing Promotion","Final","Zwan Gaming Colombia","Godlike Goats","WWW","r","dom","S"],["2020-08-12","Golden League 2020 Closing Playoffs","Round 2","Zwan Gaming Colombia","Spirituals","WWW","","dom","S"],["2020-08-19","Golden League 2020 Closing Playoffs","Round 3","Zwan Gaming Colombia","Wygers Colombia","LLWWL","","dom","S"],["2021-04-06","Golden League 2021 Opening Playoffs","Round 3","Wygers Colombia","Exilium Hunters","LWWW","","dom","S"],["2021-04-20","Golden League 2021 Opening Playoffs","Final","Wygers Colombia","Zeu5 Bogota","WLLL","","dom","S"],["2021-07-21","Golden League 2021 Closing Playoffs","Round 3","Braves Rising","Spirituals","LWWLW","","dom","S"],["2021-07-27","Golden League 2021 Closing Playoffs","Final","Braves Rising","Zeu5 Bogota","LLL","","dom","S"],["2021-11-10","Golden League 2021 Golden Cup","Round 1","Spirituals","Godlike Goats","WLWLW","","dom","S"],["2021-11-17","Golden League 2021 Golden Cup","Semifinal","Spirituals","TFK","LLL","","dom","S"],["2021-11-23","Golden League 2021 Golden Cup","Third-Place Match","Spirituals","Ramo Awake Gaming","LLL","","dom","S"],["2022-03-22","Golden League 2022 Opening Playoffs","Semifinal","Zeu5 Bogota","Ramo Awake Gaming","WWW","","dom","S"],["2022-04-06","Golden League 2022 Opening Playoffs","Final","Zeu5 Bogota","Braves Rising","WWW","","dom","S"],["2023-03-14","Golden League 2023 Opening Playoffs","Round 4","Fuego","Mayan Esports","WWW","","dom","S"],["2023-03-28","Golden League 2023 Opening Playoffs","Grand Final","Fuego","Zeus Kralik","WWW","","dom","S"],["2023-07-18","Liga Regional Norte 2023 Closing Playoffs","Round 1","Fuego","Saprissa Esports","WLLL","","dom","S"],["2023-07-25","Liga Regional Norte 2023 Closing Playoffs","Round 1","Fuego","PÊEK Gaming","WWW","","dom","S"],["2023-08-01","Liga Regional Norte 2023 Closing Playoffs","Round 2","Fuego","Descuydado Aucas Esports","WWLW","","dom","S"],["2023-08-19","Liga Regional Norte 2023 Closing Playoffs","Grand Final","Fuego","Saprissa Esports","LWLL","","dom","S"],["2024-03-24","Ignite Challenge 2024","Final","Tomorrow Esports","Fuego","WWW","r","dom",""],["2024-06-24","Liga Regional Norte 2024 Playoffs","Round 1","Tomorrow Esports","Fuego","LLL","","dom","S"],["2024-07-09","Liga Regional Norte 2024 Playoffs","Round 1","Tomorrow Esports","Waia Snikt","LLL","","dom","S"],["2025-05-26","Liga Regional Norte 2025 Split 1 Playoffs","Round 2","Zeu5 Esports","INFINITY","LLL","","dom","S"],["2025-05-28","Liga Regional Norte 2025 Split 1 Playoffs","Round 2","Zeu5 Esports","Fuego","LLL","","dom","S"],["2025-08-25","Liga Regional Norte 2025 Split 2 Playoffs","Round 4","SDM Tigres","Estral Esports","WLLWW","","dom","S"],["2025-09-08","Liga Regional Norte 2025 Split 2 Playoffs","Final","SDM Tigres","Estral Esports","WWW","","dom","S"],["2025-10-05","LTA North 2026 Promotion","Round 1","SDM Tigres","Luminosity Gaming","LLL","","dom","P"],["2025-10-09","LTA North 2026 Promotion","Round 1","SDM Tigres","Estral Esports","LLL","","dom","P"],["2026-07-27","Liga Regional Norte 2026 Split 2 Playoffs","Round 1","Fuego","Kits Esports","WWW","","dom","S"],["2026-08-24","Liga Regional Norte 2026 Split 2 Playoffs","Round 3","Fuego","Zeu5 Esports","WLLWL","","dom","S"],["2026-08-31","Liga Regional Norte 2026 Split 2 Playoffs","Round 3","Fuego","3v Team","WWW","","dom","S"],["2026-09-07","Liga Regional Norte 2026 Split 2 Playoffs","Final","Fuego","Zeu5 Esports","WWW","","dom","S"],["2026-09-16","2026 World Star Challengers Invitational Americas Qualifier","WSCI Qualifier","Fuego","9z Globant","WWW","","dom","S"],["2026-10-06","LCS 2027 Promotion","Round 1","Fuego","Cupid Esports","LLL","","dom","P"],["2026-10-09","LCS 2027 Promotion","Round 1","Fuego","Disguised","LLL","","dom","P"]],"unknown":[["2023-12-10","Olhsa Cup Invitational 2023","Final","Fuego","Tomorrow Esports","1-3","","dom","S"]]}
+{
+  "player": "Ichiwin",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2020-04-08","Golden League 2020 Closing Promotion","Final","Zwan Gaming Colombia","Godlike Goats","WWW","r","dom","S"],
+    ["2020-08-12","Golden League 2020 Closing Playoffs","Round 2","Zwan Gaming Colombia","Spirituals","WWW","","dom","S"],
+    ["2020-08-19","Golden League 2020 Closing Playoffs","Round 3","Zwan Gaming Colombia","Wygers Colombia","LLWWL","","dom","S"],
+    ["2021-04-06","Golden League 2021 Opening Playoffs","Round 3","Wygers Colombia","Exilium Hunters","LWWW","","dom","S"],
+    ["2021-04-20","Golden League 2021 Opening Playoffs","Final","Wygers Colombia","Zeu5 Bogota","WLLL","","dom","S"],
+    ["2021-07-21","Golden League 2021 Closing Playoffs","Round 3","Braves Rising","Spirituals","LWWLW","","dom","S"],
+    ["2021-07-27","Golden League 2021 Closing Playoffs","Final","Braves Rising","Zeu5 Bogota","LLL","","dom","S"],
+    ["2021-11-10","Golden League 2021 Golden Cup","Round 1","Spirituals","Godlike Goats","WLWLW","","dom","S"],
+    ["2021-11-17","Golden League 2021 Golden Cup","Semifinal","Spirituals","TFK","LLL","","dom","S"],
+    ["2021-11-23","Golden League 2021 Golden Cup","Third-Place Match","Spirituals","Ramo Awake Gaming","LLL","","dom","S"],
+    ["2022-03-22","Golden League 2022 Opening Playoffs","Semifinal","Zeu5 Bogota","Ramo Awake Gaming","WWW","","dom","S"],
+    ["2022-04-06","Golden League 2022 Opening Playoffs","Final","Zeu5 Bogota","Braves Rising","WWW","","dom","S"],
+    ["2023-03-14","Golden League 2023 Opening Playoffs","Round 4","Fuego","Mayan Esports","WWW","","dom","S"],
+    ["2023-03-28","Golden League 2023 Opening Playoffs","Grand Final","Fuego","Zeus Kralik","WWW","","dom","S"],
+    ["2023-07-18","Liga Regional Norte 2023 Closing Playoffs","Round 1","Fuego","Saprissa Esports","WLLL","","dom","S"],
+    ["2023-07-25","Liga Regional Norte 2023 Closing Playoffs","Round 1","Fuego","PÊEK Gaming","WWW","","dom","S"],
+    ["2023-08-01","Liga Regional Norte 2023 Closing Playoffs","Round 2","Fuego","Descuydado Aucas Esports","WWLW","","dom","S"],
+    ["2023-08-19","Liga Regional Norte 2023 Closing Playoffs","Grand Final","Fuego","Saprissa Esports","LWLL","","dom","S"],
+    ["2024-03-24","Ignite Challenge 2024","Final","Tomorrow Esports","Fuego","WWW","r","dom",""],
+    ["2024-06-24","Liga Regional Norte 2024 Playoffs","Round 1","Tomorrow Esports","Fuego","LLL","","dom","S"],
+    ["2024-07-09","Liga Regional Norte 2024 Playoffs","Round 1","Tomorrow Esports","Waia Snikt","LLL","","dom","S"],
+    ["2025-05-26","Liga Regional Norte 2025 Split 1 Playoffs","Round 2","Zeu5 Esports","INFINITY","LLL","","dom","S"],
+    ["2025-05-28","Liga Regional Norte 2025 Split 1 Playoffs","Round 2","Zeu5 Esports","Fuego","LLL","","dom","S"],
+    ["2025-08-25","Liga Regional Norte 2025 Split 2 Playoffs","Round 4","SDM Tigres","Estral Esports","WLLWW","","dom","S"],
+    ["2025-09-08","Liga Regional Norte 2025 Split 2 Playoffs","Final","SDM Tigres","Estral Esports","WWW","","dom","S"],
+    ["2025-10-05","LTA North 2026 Promotion","Round 1","SDM Tigres","Luminosity Gaming","LLL","","dom","P"],
+    ["2025-10-09","LTA North 2026 Promotion","Round 1","SDM Tigres","Estral Esports","LLL","","dom","P"],
+    ["2026-07-27","Liga Regional Norte 2026 Split 2 Playoffs","Round 1","Fuego","Kits Esports","WWW","","dom","S"],
+    ["2026-08-24","Liga Regional Norte 2026 Split 2 Playoffs","Round 3","Fuego","Zeu5 Esports","WLLWL","","dom","S"],
+    ["2026-08-31","Liga Regional Norte 2026 Split 2 Playoffs","Round 3","Fuego","3v Team","WWW","","dom","S"],
+    ["2026-09-07","Liga Regional Norte 2026 Split 2 Playoffs","Final","Fuego","Zeu5 Esports","WWW","","dom","S"],
+    ["2026-09-16","2026 World Star Challengers Invitational Americas Qualifier","WSCI Qualifier","Fuego","9z Globant","WWW","","dom","S"],
+    ["2026-10-06","LCS 2027 Promotion","Round 1","Fuego","Cupid Esports","LLL","","dom","P"],
+    ["2026-10-09","LCS 2027 Promotion","Round 1","Fuego","Disguised","LLL","","dom","P"]
+  ],
+  "unknown": [
+    ["2023-12-10","Olhsa Cup Invitational 2023","Final","Fuego","Tomorrow Esports","1-3","","dom","S"]
+  ]
+}

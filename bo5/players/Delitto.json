@@ -1,1 +1,37 @@
-{"player":"Delitto","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2018-02-04","League Greek Championship Season 3 Playoffs","Final","Nexus Gaming (Romanian Team)","Wind and Rain Balkan","LLL","r","dom",""],["2018-09-09","League Greek Championship Season 4 Playoffs","Final","Panathinaikos Esports","WLGaming Esports","WWW","r","dom",""],["2018-12-02","ESL South East Europe Championship Season 8","Final","Panathinaikos Esports","ASUS ROG ELITE","LLL","r","dom","S"],["2019-04-07","League of Legends Greek League 2019 Spring Playoffs","Final","Future Perfect WLGaming","Greek Regenesis","WWW","","dom","S"],["2019-07-21","Greek Legends League 2019 Summer Playoffs","Final","WLGaming Esports","Greek Regenesis","LLWWW","","dom","S"],["2019-12-08","Greek Legends League 2019 Winter Playoffs","Round 3","Greek Regenesis","Pyrsos Esports","WWLW","","dom","S"],["2020-03-29","Greek Legends League 2020 Spring Playoffs","Final","Intrepid Fox Gaming","WLGaming Esports","LLL","","dom","S"],["2021-01-12","Greek Legends League 2021 Spring Promotion","Promotion","Zerolag Esports","The Spawn Esports","WWW","","dom","S"],["2021-03-02","Greek Legends League 2021 Spring Playoffs","Quarterfinal","Zerolag Esports","Team Refuse","LWLWW","","dom","S"],["2021-03-08","Greek Legends League 2021 Spring Playoffs","Semifinal","Zerolag Esports","Gamespace Mediterranean College Esports","WLLL","","dom","S"],["2021-03-10","Greek Legends League 2021 Spring Playoffs","Third-Place Match","Zerolag Esports","WLGaming Esports","LLL","","dom","S"],["2021-05-18","Greek Legends League 2021 Summer Promotion","Promotion","Olympiacos Alimou","CowBoySquad Imperials Esports","LLWWL","","dom","S"],["2021-07-10","GLWL 2021 Summer Playoffs","Round 1","Olympiacos Alimou","Panther Stars Esports","WWW","","dom","S"],["2021-07-11","GLWL 2021 Summer Playoffs","Round 2","Olympiacos Alimou","Team Phantasma Community","WLWW","","dom","S"],["2021-07-18","GLWL 2021 Summer Playoffs","Round 3","Olympiacos Alimou","Team HavoC","WWW","","dom","S"],["2021-07-21","GLWL 2021 Summer Playoffs","Final","Olympiacos Alimou","Anorthosis Famagusta Esports Academy","LLL","","dom","S"],["2021-08-02","Greek Legends League 2021 Winter Promotion","Promotion","Olympiacos Alimou","CowBoySquad Imperials Esports","WWW","","dom","S"],["2023-08-10","GL2D 2024 Spring Promotion","Round 1","SINS Esports","Project Sinners","WLWW","","dom","S"],["2023-08-11","GL2D 2024 Spring Promotion","Round 2","SINS Esports","Team HavoC","LLL","","dom","S"],["2024-03-15","GL2D 2024 Spring Playoffs","Round 1","SINS Esports","Silent Revolution Gaming","WLWW","","dom","S"],["2024-03-21","GL2D 2024 Spring Playoffs","Semifinal","SINS Esports","Actions Per Minute","LWLL","","dom","S"],["2024-06-27","GL2D 2024 Summer Playoffs","Round 1","SINS Esports","Team Insidious","LWLL","","dom","S"],["2024-07-04","GL2D 2024 Summer Playoffs","Semifinal","SINS Esports","Actions Per Minute","WWW","","dom","S"],["2024-07-12","GL2D 2024 Summer Playoffs","Final","SINS Esports","Team Insidious","WLLWL","","dom","S"],["2024-07-25","Greek Legends League 2025 Promotion","Round 1","SINS Esports","Actions Per Minute","LWLL","","dom","S"]],"unknown":[["2018-01-21","League Greek Championship Season 3 Playoffs","Quarterfinal","Nexus Gaming (Romanian Team)","Greek Regenesis","3-1","","dom",""],["2018-02-03","League Greek Championship Season 3 Playoffs","Semifinal","Nexus Gaming (Romanian Team)","KlikTech","3-2","","dom",""],["2018-09-08","League Greek Championship Season 4 Playoffs","Semifinal","Panathinaikos Esports","Dawn of Stars","3-1","","dom",""]]}
+{
+  "player": "Delitto",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2018-02-04","League Greek Championship Season 3 Playoffs","Final","Nexus Gaming (Romanian Team)","Wind and Rain Balkan","LLL","r","dom",""],
+    ["2018-09-09","League Greek Championship Season 4 Playoffs","Final","Panathinaikos Esports","WLGaming Esports","WWW","r","dom",""],
+    ["2018-12-02","ESL South East Europe Championship Season 8","Final","Panathinaikos Esports","ASUS ROG ELITE","LLL","r","dom","S"],
+    ["2019-04-07","League of Legends Greek League 2019 Spring Playoffs","Final","Future Perfect WLGaming","Greek Regenesis","WWW","","dom","S"],
+    ["2019-07-21","Greek Legends League 2019 Summer Playoffs","Final","WLGaming Esports","Greek Regenesis","LLWWW","","dom","S"],
+    ["2019-12-08","Greek Legends League 2019 Winter Playoffs","Round 3","Greek Regenesis","Pyrsos Esports","WWLW","","dom","S"],
+    ["2020-03-29","Greek Legends League 2020 Spring Playoffs","Final","Intrepid Fox Gaming","WLGaming Esports","LLL","","dom","S"],
+    ["2021-01-12","Greek Legends League 2021 Spring Promotion","Promotion","Zerolag Esports","The Spawn Esports","WWW","","dom","S"],
+    ["2021-03-02","Greek Legends League 2021 Spring Playoffs","Quarterfinal","Zerolag Esports","Team Refuse","LWLWW","","dom","S"],
+    ["2021-03-08","Greek Legends League 2021 Spring Playoffs","Semifinal","Zerolag Esports","Gamespace Mediterranean College Esports","WLLL","","dom","S"],
+    ["2021-03-10","Greek Legends League 2021 Spring Playoffs","Third-Place Match","Zerolag Esports","WLGaming Esports","LLL","","dom","S"],
+    ["2021-05-18","Greek Legends League 2021 Summer Promotion","Promotion","Olympiacos Alimou","CowBoySquad Imperials Esports","LLWWL","","dom","S"],
+    ["2021-07-10","GLWL 2021 Summer Playoffs","Round 1","Olympiacos Alimou","Panther Stars Esports","WWW","","dom","S"],
+    ["2021-07-11","GLWL 2021 Summer Playoffs","Round 2","Olympiacos Alimou","Team Phantasma Community","WLWW","","dom","S"],
+    ["2021-07-18","GLWL 2021 Summer Playoffs","Round 3","Olympiacos Alimou","Team HavoC","WWW","","dom","S"],
+    ["2021-07-21","GLWL 2021 Summer Playoffs","Final","Olympiacos Alimou","Anorthosis Famagusta Esports Academy","LLL","","dom","S"],
+    ["2021-08-02","Greek Legends League 2021 Winter Promotion","Promotion","Olympiacos Alimou","CowBoySquad Imperials Esports","WWW","","dom","S"],
+    ["2023-08-10","GL2D 2024 Spring Promotion","Round 1","SINS Esports","Project Sinners","WLWW","","dom","S"],
+    ["2023-08-11","GL2D 2024 Spring Promotion","Round 2","SINS Esports","Team HavoC","LLL","","dom","S"],
+    ["2024-03-15","GL2D 2024 Spring Playoffs","Round 1","SINS Esports","Silent Revolution Gaming","WLWW","","dom","S"],
+    ["2024-03-21","GL2D 2024 Spring Playoffs","Semifinal","SINS Esports","Actions Per Minute","LWLL","","dom","S"],
+    ["2024-06-27","GL2D 2024 Summer Playoffs","Round 1","SINS Esports","Team Insidious","LWLL","","dom","S"],
+    ["2024-07-04","GL2D 2024 Summer Playoffs","Semifinal","SINS Esports","Actions Per Minute","WWW","","dom","S"],
+    ["2024-07-12","GL2D 2024 Summer Playoffs","Final","SINS Esports","Team Insidious","WLLWL","","dom","S"],
+    ["2024-07-25","Greek Legends League 2025 Promotion","Round 1","SINS Esports","Actions Per Minute","LWLL","","dom","S"]
+  ],
+  "unknown": [
+    ["2018-01-21","League Greek Championship Season 3 Playoffs","Quarterfinal","Nexus Gaming (Romanian Team)","Greek Regenesis","3-1","","dom",""],
+    ["2018-02-03","League Greek Championship Season 3 Playoffs","Semifinal","Nexus Gaming (Romanian Team)","KlikTech","3-2","","dom",""],
+    ["2018-09-08","League Greek Championship Season 4 Playoffs","Semifinal","Panathinaikos Esports","Dawn of Stars","3-1","","dom",""]
+  ]
+}

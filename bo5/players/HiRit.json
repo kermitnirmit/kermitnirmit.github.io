@@ -1,1 +1,28 @@
-{"player":"HiRit","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2018-04-09","Challengers Korea 2018 Spring Playoffs","Semifinal","APK Prince","Team BattleComics","LLL","","dom","S"],["2019-04-03","LFL 2019 Spring Playoffs","Final","Team-LDLC","Misfits Premier","WWLW","","dom","S"],["2019-07-31","LFL 2019 Summer Playoffs","Final","Team-LDLC","Vitality.Bee","WWW","","dom","S"],["2020-05-04","TCL 2020 Winter Playoffs","Semifinal","Fenerbahçe Esports","Team AURORA","LWLWW","","dom","P"],["2020-05-11","TCL 2020 Winter Playoffs","Final","Fenerbahçe Esports","Istanbul Wildcats","WWW","","dom","P"],["2021-08-13","LEC 2021 Summer Playoffs","Round 1","Misfits Gaming","Rogue (European Team)","LWLWL","","dom","P"],["2021-08-20","LEC 2021 Summer Playoffs","Round 2","Misfits Gaming","Fnatic","LWLWL","","dom","P"],["2022-03-25","LEC 2022 Spring Playoffs","Round 1","Misfits Gaming","Rogue (European Team)","LLWL","","dom","P"],["2022-04-03","LEC 2022 Spring Playoffs","Round 3","Misfits Gaming","G2 Esports","LLL","","dom","P"],["2023-03-26","CBLOL 2023 Split 1 Playoffs","Round 1","Los Grandes","LOUD","LWLL","","dom","P"],["2023-04-08","CBLOL 2023 Split 1 Playoffs","Round 3","Los Grandes","FURIA","WWW","","dom","P"],["2023-04-09","CBLOL 2023 Split 1 Playoffs","Semifinal","Los Grandes","paiN Gaming","LLWWL","","dom","P"],["2023-07-25","TCL 2023 Summer Playoffs","Round 1","Dark Passage","Eternal Fire","WLLWL","","dom","S"],["2024-07-20","TCL 2024 Summer Playoffs","Round 1","FUT Esports","Misa Esports","WWW","","dom","S"],["2024-07-29","TCL 2024 Summer Playoffs","Round 2","FUT Esports","Dark Passage","LWWLL","","dom","S"],["2024-08-02","EMEA Masters 2024 Summer LCQ","Round 3","FUT Esports","BK ROG Esports","LLL","","dom","S"],["2025-05-27","Circuito Desafiante 2025 Split 1 Playoffs","Round 2","KaBuM! Ilha das Lendas","Stellae Gaming","LLL","","dom","S"],["2025-08-25","Circuito Desafiante 2025 Split 2 Playoffs","Round 1","KaBuM! Ilha das Lendas","Corinthians Esports","WLWW","","dom","S"],["2025-09-02","Circuito Desafiante 2025 Split 2 Playoffs","Round 2","KaBuM! Ilha das Lendas","LØS","WLWW","","dom","S"],["2025-09-09","Circuito Desafiante 2025 Split 2 Playoffs","Round 3","KaBuM! Ilha das Lendas","Flamengo MDL","LLWL","","dom","S"]],"unknown":[]}
+{
+  "player": "HiRit",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2018-04-09","Challengers Korea 2018 Spring Playoffs","Semifinal","APK Prince","Team BattleComics","LLL","","dom","S"],
+    ["2019-04-03","LFL 2019 Spring Playoffs","Final","Team-LDLC","Misfits Premier","WWLW","","dom","S"],
+    ["2019-07-31","LFL 2019 Summer Playoffs","Final","Team-LDLC","Vitality.Bee","WWW","","dom","S"],
+    ["2020-05-04","TCL 2020 Winter Playoffs","Semifinal","Fenerbahçe Esports","Team AURORA","LWLWW","","dom","P"],
+    ["2020-05-11","TCL 2020 Winter Playoffs","Final","Fenerbahçe Esports","Istanbul Wildcats","WWW","","dom","P"],
+    ["2021-08-13","LEC 2021 Summer Playoffs","Round 1","Misfits Gaming","Rogue (European Team)","LWLWL","","dom","P"],
+    ["2021-08-20","LEC 2021 Summer Playoffs","Round 2","Misfits Gaming","Fnatic","LWLWL","","dom","P"],
+    ["2022-03-25","LEC 2022 Spring Playoffs","Round 1","Misfits Gaming","Rogue (European Team)","LLWL","","dom","P"],
+    ["2022-04-03","LEC 2022 Spring Playoffs","Round 3","Misfits Gaming","G2 Esports","LLL","","dom","P"],
+    ["2023-03-26","CBLOL 2023 Split 1 Playoffs","Round 1","Los Grandes","LOUD","LWLL","","dom","P"],
+    ["2023-04-08","CBLOL 2023 Split 1 Playoffs","Round 3","Los Grandes","FURIA","WWW","","dom","P"],
+    ["2023-04-09","CBLOL 2023 Split 1 Playoffs","Semifinal","Los Grandes","paiN Gaming","LLWWL","","dom","P"],
+    ["2023-07-25","TCL 2023 Summer Playoffs","Round 1","Dark Passage","Eternal Fire","WLLWL","","dom","S"],
+    ["2024-07-20","TCL 2024 Summer Playoffs","Round 1","FUT Esports","Misa Esports","WWW","","dom","S"],
+    ["2024-07-29","TCL 2024 Summer Playoffs","Round 2","FUT Esports","Dark Passage","LWWLL","","dom","S"],
+    ["2024-08-02","EMEA Masters 2024 Summer LCQ","Round 3","FUT Esports","BK ROG Esports","LLL","","dom","S"],
+    ["2025-05-27","Circuito Desafiante 2025 Split 1 Playoffs","Round 2","KaBuM! Ilha das Lendas","Stellae Gaming","LLL","","dom","S"],
+    ["2025-08-25","Circuito Desafiante 2025 Split 2 Playoffs","Round 1","KaBuM! Ilha das Lendas","Corinthians Esports","WLWW","","dom","S"],
+    ["2025-09-02","Circuito Desafiante 2025 Split 2 Playoffs","Round 2","KaBuM! Ilha das Lendas","LØS","WLWW","","dom","S"],
+    ["2025-09-09","Circuito Desafiante 2025 Split 2 Playoffs","Round 3","KaBuM! Ilha das Lendas","Flamengo MDL","LLWL","","dom","S"]
+  ],
+  "unknown": []
+}

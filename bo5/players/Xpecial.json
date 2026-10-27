@@ -1,1 +1,43 @@
-{"player":"Xpecial","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2012-12-15","SoloMid Series Finals","","TSM","Team NomNom","LLL","r","dom",""],["2012-12-16","SoloMid Series Finals","Third-Place Match","TSM","Team FeaR","LLL","r","dom",""],["2013-04-28","NA LCS Season 3 Spring Playoffs","Final","TSM","Good Game University","WLWLW","","dom","P"],["2013-09-01","NA LCS Season 3 Summer Playoffs","Final","TSM","Cloud9","LLL","","dom","P"],["2014-04-20","NA LCS 2014 Spring Playoffs","Final","TSM","Cloud9","LLL","","dom","P"],["2014-08-24","NA LCS 2014 Summer Playoffs","Quarterfinal","Team Curse","Counter Logic Gaming","WWW","","dom","P"],["2014-08-31","NA LCS 2014 Summer Playoffs","Semifinal","Team Curse","Cloud9","LLL","","dom","P"],["2014-08-31","NA LCS 2014 Summer Playoffs","Third-Place Match","Team Curse","LMQ","WWLLL","","dom","P"],["2015-04-04","NA LCS 2015 Spring Playoffs","Quarterfinal","Team Liquid","Counter Logic Gaming","WWW","","dom","P"],["2015-04-11","NA LCS 2015 Spring Playoffs","Semifinal","Team Liquid","Cloud9","WWLLL","","dom","P"],["2015-04-18","NA LCS 2015 Spring Playoffs","Third-Place Match","Team Liquid","Team Impulse","LWLWW","","dom","P"],["2015-08-16","NA LCS 2015 Summer Playoffs","Semifinal","Team Liquid","TSM","LLWL","","dom","P"],["2015-08-22","NA LCS 2015 Summer Playoffs","Third-Place Match","Team Liquid","Team Impulse","WLWW","","dom","P"],["2015-08-31","NA LCS 2015 Regional Finals","Round 3","Team Liquid","Cloud9","LWLL","","dom","P"],["2016-03-10","NA Challenger Series 2016 Spring Playoffs","Semifinal","Apex Gaming","Team Liquid Academy","WLWW","","dom","S"],["2016-03-17","NA Challenger Series 2016 Spring Playoffs","Final","Apex Gaming","Team Dragon Knights","WLWW","","dom","S"],["2016-04-08","NA LCS 2016 Summer Promotion","Qualifying Round","Apex Gaming","Team Dragon Knights","WWW","","dom","P"],["2016-04-08","NA LCS 2016 Summer Promotion","Qualifying Round","Apex Gaming","Team Impulse","LLWL","","dom","P"],["2017-04-08","NA LCS 2017 Spring Playoffs","Quarterfinal","Dignitas","Phoenix1","LLL","","dom","P"],["2017-08-11","NA LCS 2018 Spring Promotion","Round 1","Phoenix1","Gold Coin United","WWLLW","","dom","P"],["2017-08-12","NA LCS 2018 Spring Promotion","Qualifying Round","Phoenix1","Team Liquid","WWLLL","","dom","P"],["2017-08-13","NA LCS 2018 Spring Promotion","Qualifying Round","Phoenix1","eUnited","WWW","","dom","P"],["2020-09-18","Best Coast Invitational 2020","Quarterfinal","Harrisburg University","Bethany Lutheran College","WWW","r","dom",""],["2020-09-25","Best Coast Invitational 2020","Semifinal","Harrisburg University","Grand View University","WWW","r","dom",""],["2020-10-09","Best Coast Invitational 2020","Final","Harrisburg University","University of Texas at Austin","WWW","r","dom",""],["2022-03-12","College League of Legends 2022 East Conference/Playoffs","Quarterfinal","Harrisburg University","University of Waterloo","WWW","r","dom",""],["2022-03-26","College League of Legends 2022 East Conference/Playoffs","Third-Place Match","Harrisburg University","University of Toronto","WWW","r","dom",""],["2026-06-28","Doublelift's Retirement Home Tournament","Final","Team Meteos","Team Sneaky","WLWLL","r","dom","S"]],"unknown":[["2012-12-13","SoloMid Series Finals","","TSM","Team Curse","2-3","","dom",""],["2021-03-13","College League of Legends 2021 East Conference/Playoffs","Quarterfinal","Harrisburg University","University of Toronto Mississauga","3-2","","dom",""],["2021-03-20","College League of Legends 2021 East Conference/Playoffs","Semifinal","Harrisburg University","University of Toronto","3-1","","dom",""],["2021-03-27","College League of Legends 2021 East Conference/Playoffs","Final","Harrisburg University","University of Western Ontario","1-3","","dom",""],["2021-10-10","Sixty Six Games Expo 2021","Grand Final","Harrisburg University","Maryville University","1-3","","dom","S"],["2022-03-19","College League of Legends 2022 East Conference/Playoffs","Semifinal","Harrisburg University","University of Toronto Scarborough","2-3","","dom",""]]}
+{
+  "player": "Xpecial",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2012-12-15","SoloMid Series Finals","","TSM","Team NomNom","LLL","r","dom",""],
+    ["2012-12-16","SoloMid Series Finals","Third-Place Match","TSM","Team FeaR","LLL","r","dom",""],
+    ["2013-04-28","NA LCS Season 3 Spring Playoffs","Final","TSM","Good Game University","WLWLW","","dom","P"],
+    ["2013-09-01","NA LCS Season 3 Summer Playoffs","Final","TSM","Cloud9","LLL","","dom","P"],
+    ["2014-04-20","NA LCS 2014 Spring Playoffs","Final","TSM","Cloud9","LLL","","dom","P"],
+    ["2014-08-24","NA LCS 2014 Summer Playoffs","Quarterfinal","Team Curse","Counter Logic Gaming","WWW","","dom","P"],
+    ["2014-08-31","NA LCS 2014 Summer Playoffs","Semifinal","Team Curse","Cloud9","LLL","","dom","P"],
+    ["2014-08-31","NA LCS 2014 Summer Playoffs","Third-Place Match","Team Curse","LMQ","WWLLL","","dom","P"],
+    ["2015-04-04","NA LCS 2015 Spring Playoffs","Quarterfinal","Team Liquid","Counter Logic Gaming","WWW","","dom","P"],
+    ["2015-04-11","NA LCS 2015 Spring Playoffs","Semifinal","Team Liquid","Cloud9","WWLLL","","dom","P"],
+    ["2015-04-18","NA LCS 2015 Spring Playoffs","Third-Place Match","Team Liquid","Team Impulse","LWLWW","","dom","P"],
+    ["2015-08-16","NA LCS 2015 Summer Playoffs","Semifinal","Team Liquid","TSM","LLWL","","dom","P"],
+    ["2015-08-22","NA LCS 2015 Summer Playoffs","Third-Place Match","Team Liquid","Team Impulse","WLWW","","dom","P"],
+    ["2015-08-31","NA LCS 2015 Regional Finals","Round 3","Team Liquid","Cloud9","LWLL","","dom","P"],
+    ["2016-03-10","NA Challenger Series 2016 Spring Playoffs","Semifinal","Apex Gaming","Team Liquid Academy","WLWW","","dom","S"],
+    ["2016-03-17","NA Challenger Series 2016 Spring Playoffs","Final","Apex Gaming","Team Dragon Knights","WLWW","","dom","S"],
+    ["2016-04-08","NA LCS 2016 Summer Promotion","Qualifying Round","Apex Gaming","Team Dragon Knights","WWW","","dom","P"],
+    ["2016-04-08","NA LCS 2016 Summer Promotion","Qualifying Round","Apex Gaming","Team Impulse","LLWL","","dom","P"],
+    ["2017-04-08","NA LCS 2017 Spring Playoffs","Quarterfinal","Dignitas","Phoenix1","LLL","","dom","P"],
+    ["2017-08-11","NA LCS 2018 Spring Promotion","Round 1","Phoenix1","Gold Coin United","WWLLW","","dom","P"],
+    ["2017-08-12","NA LCS 2018 Spring Promotion","Qualifying Round","Phoenix1","Team Liquid","WWLLL","","dom","P"],
+    ["2017-08-13","NA LCS 2018 Spring Promotion","Qualifying Round","Phoenix1","eUnited","WWW","","dom","P"],
+    ["2020-09-18","Best Coast Invitational 2020","Quarterfinal","Harrisburg University","Bethany Lutheran College","WWW","r","dom",""],
+    ["2020-09-25","Best Coast Invitational 2020","Semifinal","Harrisburg University","Grand View University","WWW","r","dom",""],
+    ["2020-10-09","Best Coast Invitational 2020","Final","Harrisburg University","University of Texas at Austin","WWW","r","dom",""],
+    ["2022-03-12","College League of Legends 2022 East Conference/Playoffs","Quarterfinal","Harrisburg University","University of Waterloo","WWW","r","dom",""],
+    ["2022-03-26","College League of Legends 2022 East Conference/Playoffs","Third-Place Match","Harrisburg University","University of Toronto","WWW","r","dom",""],
+    ["2026-06-28","Doublelift's Retirement Home Tournament","Final","Team Meteos","Team Sneaky","WLWLL","r","dom","S"]
+  ],
+  "unknown": [
+    ["2012-12-13","SoloMid Series Finals","","TSM","Team Curse","2-3","","dom",""],
+    ["2021-03-13","College League of Legends 2021 East Conference/Playoffs","Quarterfinal","Harrisburg University","University of Toronto Mississauga","3-2","","dom",""],
+    ["2021-03-20","College League of Legends 2021 East Conference/Playoffs","Semifinal","Harrisburg University","University of Toronto","3-1","","dom",""],
+    ["2021-03-27","College League of Legends 2021 East Conference/Playoffs","Final","Harrisburg University","University of Western Ontario","1-3","","dom",""],
+    ["2021-10-10","Sixty Six Games Expo 2021","Grand Final","Harrisburg University","Maryville University","1-3","","dom","S"],
+    ["2022-03-19","College League of Legends 2022 East Conference/Playoffs","Semifinal","Harrisburg University","University of Toronto Scarborough","2-3","","dom",""]
+  ]
+}

@@ -1,1 +1,37 @@
-{"player":"Swip3rR","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2015-04-02","OPL 2015 Split 1 Playoffs","Semifinal","Chiefs Esports Club","Team Immunity","WWW","","dom","P"],["2015-04-09","OPL 2015 Split 1 Playoffs","Final","Chiefs Esports Club","Dire Wolves","WWW","","dom","P"],["2015-07-20","OPL 2015 Split 2 Playoffs","Semifinal","Chiefs Esports Club","Avant Garde","WWW","","dom","P"],["2015-08-08","OPL 2015 Split 2 Playoffs","Final","Chiefs Esports Club","Legacy Esports","WWLW","","dom","P"],["2015-08-29","2015 International Wildcard Tournament Turkey","Final","Chiefs Esports Club","Bangkok Titans","LLWL","","dom","P"],["2016-03-30","OPL 2016 Split 1 Playoffs","Semifinal","Chiefs Esports Club","Sin Gaming","WWW","","dom","P"],["2016-04-05","OPL 2016 Split 1 Playoffs","Final","Chiefs Esports Club","Legacy Esports","WWLLW","","dom","P"],["2016-08-02","OPL 2016 Split 2 Playoffs","Semifinal","Chiefs Esports Club","Dire Wolves","WWW","","dom","P"],["2016-08-13","OPL 2016 Split 2 Playoffs","Final","Chiefs Esports Club","Legacy Esports","WWW","","dom","P"],["2017-04-08","OPL 2017 Split 1 Playoffs","Round 2","Chiefs Esports Club","Sin Gaming","LLWWL","","dom","P"],["2017-08-26","OPL 2017 Split 2 Playoffs","Round 2","Chiefs Esports Club","Sin Gaming","WWW","","dom","P"],["2017-08-27","OPL 2017 Split 2 Playoffs","Round 3","Chiefs Esports Club","Legacy Esports","WWW","","dom","P"],["2017-09-02","OPL 2017 Split 2 Playoffs","Final","Chiefs Esports Club","Dire Wolves","LLWL","","dom","P"],["2018-03-25","OPL 2018 Split 1 Playoffs","Round 3","Chiefs Esports Club","Legacy Esports","LWWW","","dom","P"],["2018-03-31","OPL 2018 Split 1 Playoffs","Final","Chiefs Esports Club","Dire Wolves","WWLLL","","dom","P"],["2018-08-26","OPL 2018 Split 2 Playoffs","Round 3","Chiefs Esports Club","Legacy Esports","LWWW","","dom","P"],["2018-09-02","OPL 2018 Split 2 Playoffs","Final","Chiefs Esports Club","Dire Wolves","LWLL","","dom","P"],["2019-03-30","OPL 2019 Split 1 Playoffs","Round 3","Chiefs Esports Club","ORDER","LLL","","dom","P"],["2019-08-31","OPL 2019 Split 2 Playoffs","Final","Chiefs Esports Club","MAMMOTH","LLL","p","dom","P"],["2020-04-10","OPL 2020 Split 1 Playoffs","Round 1","ORDER","Avant Gaming","WWLW","","dom","P"],["2020-04-17","OPL 2020 Split 1 Playoffs","Round 2","ORDER","Dire Wolves","WWLLL","","dom","P"],["2020-08-14","OPL 2020 Split 2 Playoffs","Round 1","ORDER","Pentanet.GG","LWWW","","dom","P"],["2020-08-15","OPL 2020 Split 2 Playoffs","Round 2","ORDER","Legacy Esports","LLWL","","dom","P"],["2020-08-22","OPL 2020 Split 2 Playoffs","Round 3","ORDER","Chiefs Esports Club","WWLW","","dom","P"],["2020-08-28","OPL 2020 Split 2 Playoffs","Final","ORDER","Legacy Esports","LWLL","","dom","P"],["2024-03-01","LCO 2024 Split 1 Playoffs","Round 3","Antic Esports","Team Bliss","WWLLW","","dom","P"],["2024-04-28","LCO 2024 Split 1 Playoffs","Final","Antic Esports","Ground Zero Gaming","LLWL","","dom","P"]],"unknown":[["2014-06-22","2014 Oceanic Regional Tournament Winter","Final","Team Immunity","Avant Garde Ascension","2-3","","dom",""]]}
+{
+  "player": "Swip3rR",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2015-04-02","OPL 2015 Split 1 Playoffs","Semifinal","Chiefs Esports Club","Team Immunity","WWW","","dom","P"],
+    ["2015-04-09","OPL 2015 Split 1 Playoffs","Final","Chiefs Esports Club","Dire Wolves","WWW","","dom","P"],
+    ["2015-07-20","OPL 2015 Split 2 Playoffs","Semifinal","Chiefs Esports Club","Avant Garde","WWW","","dom","P"],
+    ["2015-08-08","OPL 2015 Split 2 Playoffs","Final","Chiefs Esports Club","Legacy Esports","WWLW","","dom","P"],
+    ["2015-08-29","2015 International Wildcard Tournament Turkey","Final","Chiefs Esports Club","Bangkok Titans","LLWL","","dom","P"],
+    ["2016-03-30","OPL 2016 Split 1 Playoffs","Semifinal","Chiefs Esports Club","Sin Gaming","WWW","","dom","P"],
+    ["2016-04-05","OPL 2016 Split 1 Playoffs","Final","Chiefs Esports Club","Legacy Esports","WWLLW","","dom","P"],
+    ["2016-08-02","OPL 2016 Split 2 Playoffs","Semifinal","Chiefs Esports Club","Dire Wolves","WWW","","dom","P"],
+    ["2016-08-13","OPL 2016 Split 2 Playoffs","Final","Chiefs Esports Club","Legacy Esports","WWW","","dom","P"],
+    ["2017-04-08","OPL 2017 Split 1 Playoffs","Round 2","Chiefs Esports Club","Sin Gaming","LLWWL","","dom","P"],
+    ["2017-08-26","OPL 2017 Split 2 Playoffs","Round 2","Chiefs Esports Club","Sin Gaming","WWW","","dom","P"],
+    ["2017-08-27","OPL 2017 Split 2 Playoffs","Round 3","Chiefs Esports Club","Legacy Esports","WWW","","dom","P"],
+    ["2017-09-02","OPL 2017 Split 2 Playoffs","Final","Chiefs Esports Club","Dire Wolves","LLWL","","dom","P"],
+    ["2018-03-25","OPL 2018 Split 1 Playoffs","Round 3","Chiefs Esports Club","Legacy Esports","LWWW","","dom","P"],
+    ["2018-03-31","OPL 2018 Split 1 Playoffs","Final","Chiefs Esports Club","Dire Wolves","WWLLL","","dom","P"],
+    ["2018-08-26","OPL 2018 Split 2 Playoffs","Round 3","Chiefs Esports Club","Legacy Esports","LWWW","","dom","P"],
+    ["2018-09-02","OPL 2018 Split 2 Playoffs","Final","Chiefs Esports Club","Dire Wolves","LWLL","","dom","P"],
+    ["2019-03-30","OPL 2019 Split 1 Playoffs","Round 3","Chiefs Esports Club","ORDER","LLL","","dom","P"],
+    ["2019-08-31","OPL 2019 Split 2 Playoffs","Final","Chiefs Esports Club","MAMMOTH","LLL","p","dom","P"],
+    ["2020-04-10","OPL 2020 Split 1 Playoffs","Round 1","ORDER","Avant Gaming","WWLW","","dom","P"],
+    ["2020-04-17","OPL 2020 Split 1 Playoffs","Round 2","ORDER","Dire Wolves","WWLLL","","dom","P"],
+    ["2020-08-14","OPL 2020 Split 2 Playoffs","Round 1","ORDER","Pentanet.GG","LWWW","","dom","P"],
+    ["2020-08-15","OPL 2020 Split 2 Playoffs","Round 2","ORDER","Legacy Esports","LLWL","","dom","P"],
+    ["2020-08-22","OPL 2020 Split 2 Playoffs","Round 3","ORDER","Chiefs Esports Club","WWLW","","dom","P"],
+    ["2020-08-28","OPL 2020 Split 2 Playoffs","Final","ORDER","Legacy Esports","LWLL","","dom","P"],
+    ["2024-03-01","LCO 2024 Split 1 Playoffs","Round 3","Antic Esports","Team Bliss","WWLLW","","dom","P"],
+    ["2024-04-28","LCO 2024 Split 1 Playoffs","Final","Antic Esports","Ground Zero Gaming","LLWL","","dom","P"]
+  ],
+  "unknown": [
+    ["2014-06-22","2014 Oceanic Regional Tournament Winter","Final","Team Immunity","Avant Garde Ascension","2-3","","dom",""]
+  ]
+}

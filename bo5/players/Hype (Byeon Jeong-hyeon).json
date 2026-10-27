@@ -1,1 +1,28 @@
-{"player":"Hype (Byeon Jeong-hyeon)","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2023-03-28","LCK CL 2023 Spring Playoffs","Round 2","KT Rolster Challengers","Dplus Kia Challengers","WWLW","","dom","S"],["2023-04-03","LCK CL 2023 Spring Playoffs","Round 3","KT Rolster Challengers","DRX Challengers","WWLLL","","dom","S"],["2023-04-06","LCK CL 2023 Spring Playoffs","Round 3","KT Rolster Challengers","Dplus Kia Challengers","LLL","","dom","S"],["2023-08-07","LCK CL 2023 Summer Playoffs","Round 1","KT Rolster Challengers","DRX Challengers","LLWL","","dom","S"],["2024-04-01","LCK CL 2024 Spring Playoffs","Round 2","KT Rolster Challengers","Nongshim Esports Academy","WLWW","","dom","S"],["2024-04-08","LCK CL 2024 Spring Playoffs","Round 3","KT Rolster Challengers","Dplus Kia Challengers","WLWLL","","dom","S"],["2024-04-11","LCK CL 2024 Spring Playoffs","Round 3","KT Rolster Challengers","Nongshim Esports Academy","WWW","","dom","S"],["2024-04-12","LCK CL 2024 Spring Playoffs","Final","KT Rolster Challengers","Dplus Kia Challengers","WWLW","","dom","S"],["2024-08-26","LCK CL 2024 Summer Playoffs","Round 2","KT Rolster Challengers","T1 Esports Academy","WWW","","dom","S"],["2024-09-02","LCK CL 2024 Summer Playoffs","Round 3","KT Rolster Challengers","Kwangdong Freecs Challengers","LWWW","","dom","S"],["2024-09-06","LCK CL 2024 Summer Playoffs","Final","KT Rolster Challengers","Dplus Kia Challengers","WWLW","","dom","S"],["2024-09-18","Asia Star Challengers Invitational 2024","Round 1","KT Rolster Challengers","Dplus Kia Challengers","LWWW","r","dom","S"],["2024-09-19","Asia Star Challengers Invitational 2024","Round 2","KT Rolster Challengers","Kwangdong Freecs Challengers","WWW","r","dom","S"],["2024-09-22","Asia Star Challengers Invitational 2024","Final","KT Rolster Challengers","Kwangdong Freecs Challengers","WWW","r","dom","S"],["2024-12-08","LoL KeSPA Cup 2024","Final","OKSavingsBank BRION","Dplus Kia","WLWW","","dom","P"],["2025-09-03","LCK 2025 Season Play-In","Round 1","OKSavingsBank BRION","Nongshim RedForce","LLWWL","","dom","P"],["2025-09-06","LCK 2025 Season Play-In","Round 1","OKSavingsBank BRION","Dplus Kia","LWLL","","dom","P"],["2026-02-19","TCL 2026 Kickoff","Round 4","Misa Esports","S2G Esports","WLWW","","dom","S"],["2026-03-06","TCL 2026 Kickoff","Final","Misa Esports","S2G Esports","WWW","","dom","S"],["2026-04-14","EMEA Masters 2026 Winter","Playoffs Round 6","Misa Esports","Solary","WWLLL","","dom","S"]],"unknown":[]}
+{
+  "player": "Hype (Byeon Jeong-hyeon)",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2023-03-28","LCK CL 2023 Spring Playoffs","Round 2","KT Rolster Challengers","Dplus Kia Challengers","WWLW","","dom","S"],
+    ["2023-04-03","LCK CL 2023 Spring Playoffs","Round 3","KT Rolster Challengers","DRX Challengers","WWLLL","","dom","S"],
+    ["2023-04-06","LCK CL 2023 Spring Playoffs","Round 3","KT Rolster Challengers","Dplus Kia Challengers","LLL","","dom","S"],
+    ["2023-08-07","LCK CL 2023 Summer Playoffs","Round 1","KT Rolster Challengers","DRX Challengers","LLWL","","dom","S"],
+    ["2024-04-01","LCK CL 2024 Spring Playoffs","Round 2","KT Rolster Challengers","Nongshim Esports Academy","WLWW","","dom","S"],
+    ["2024-04-08","LCK CL 2024 Spring Playoffs","Round 3","KT Rolster Challengers","Dplus Kia Challengers","WLWLL","","dom","S"],
+    ["2024-04-11","LCK CL 2024 Spring Playoffs","Round 3","KT Rolster Challengers","Nongshim Esports Academy","WWW","","dom","S"],
+    ["2024-04-12","LCK CL 2024 Spring Playoffs","Final","KT Rolster Challengers","Dplus Kia Challengers","WWLW","","dom","S"],
+    ["2024-08-26","LCK CL 2024 Summer Playoffs","Round 2","KT Rolster Challengers","T1 Esports Academy","WWW","","dom","S"],
+    ["2024-09-02","LCK CL 2024 Summer Playoffs","Round 3","KT Rolster Challengers","Kwangdong Freecs Challengers","LWWW","","dom","S"],
+    ["2024-09-06","LCK CL 2024 Summer Playoffs","Final","KT Rolster Challengers","Dplus Kia Challengers","WWLW","","dom","S"],
+    ["2024-09-18","Asia Star Challengers Invitational 2024","Round 1","KT Rolster Challengers","Dplus Kia Challengers","LWWW","r","dom","S"],
+    ["2024-09-19","Asia Star Challengers Invitational 2024","Round 2","KT Rolster Challengers","Kwangdong Freecs Challengers","WWW","r","dom","S"],
+    ["2024-09-22","Asia Star Challengers Invitational 2024","Final","KT Rolster Challengers","Kwangdong Freecs Challengers","WWW","r","dom","S"],
+    ["2024-12-08","LoL KeSPA Cup 2024","Final","OKSavingsBank BRION","Dplus Kia","WLWW","","dom","P"],
+    ["2025-09-03","LCK 2025 Season Play-In","Round 1","OKSavingsBank BRION","Nongshim RedForce","LLWWL","","dom","P"],
+    ["2025-09-06","LCK 2025 Season Play-In","Round 1","OKSavingsBank BRION","Dplus Kia","LWLL","","dom","P"],
+    ["2026-02-19","TCL 2026 Kickoff","Round 4","Misa Esports","S2G Esports","WLWW","","dom","S"],
+    ["2026-03-06","TCL 2026 Kickoff","Final","Misa Esports","S2G Esports","WWW","","dom","S"],
+    ["2026-04-14","EMEA Masters 2026 Winter","Playoffs Round 6","Misa Esports","Solary","WWLLL","","dom","S"]
+  ],
+  "unknown": []
+}

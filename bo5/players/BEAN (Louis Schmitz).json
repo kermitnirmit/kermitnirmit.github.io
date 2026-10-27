@@ -1,1 +1,36 @@
-{"player":"BEAN (Louis Schmitz)","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2019-03-23","PG Nationals 2019 Spring Playoffs","Semifinal","QLASH Forge","Samsung Morning Stars","WLLL","","dom","S"],["2019-07-23","PG Nationals 2019 Summer Playoffs","Semifinal","QLASH Forge","Campus Party Sparks","LWLL","","dom","S"],["2019-11-30","Premier Tour 2019 Winter Cup","Final","ad hoc gaming","Berlin International Gaming","WLLL","","dom","S"],["2020-10-07","Prime League Pro Division 2020 Grand Final","Play-In Round 2","Berlin International Gaming","EURONICS Gaming","LLL","","dom","S"],["2021-03-20","NLC 2021 Spring Playoffs","Round 4","Fnatic Rising","Nordavind","WLWW","","dom","S"],["2021-03-21","NLC 2021 Spring Playoffs","Final","Fnatic Rising","BT Excel","LLL","","dom","S"],["2021-08-03","NLC 2021 Summer Playoffs","Round 3","Fnatic Rising","Team Singularity","LLWWW","","dom","S"],["2021-08-08","NLC 2021 Summer Playoffs","Final","Fnatic Rising","Tricked Esport","WWLLL","","dom","S"],["2021-09-09","European Masters 2021 Summer Main Event","Quarterfinal","Fnatic Rising","Movistar Riders","LWWW","","dom","S"],["2021-09-15","European Masters 2021 Summer Main Event","Semifinal","Fnatic Rising","Misfits Premier","WWLLW","","dom","S"],["2021-09-19","European Masters 2021 Summer Main Event","Final","Fnatic Rising","Karmine Corp","LLWWL","","dom","S"],["2022-03-19","LVP SuperLiga 2022 Spring Playoffs","Round 2","Fnatic TQ","Barça eSports","WLWW","","dom","S"],["2022-03-30","LVP SuperLiga 2022 Spring Playoffs","Final","Fnatic TQ","BISONS ECLUB","WWW","","dom","S"],["2022-05-01","European Masters 2022 Spring Main Event","Quarterfinal","Fnatic TQ","Vitality.Bee","LLL","","dom","S"],["2023-03-14","LVP SuperLiga 2023 Spring Playoffs","Round 1","Fnatic TQ","BISONS ECLUB","WWW","","dom","S"],["2023-03-21","LVP SuperLiga 2023 Spring Playoffs","Round 2","Fnatic TQ","Movistar Riders","LLL","","dom","S"],["2023-11-07","Iberian Cup 2023","Semifinal","Rebels Gaming","KOI Academy","LWLL","","dom","S"],["2024-09-04","LFL 2025 Promotion","Round 1","Aegis (French Team)","Ici Japon Corp. Esport","WWW","","dom","S"],["2024-09-06","LFL 2025 Promotion","Round 2","Aegis (French Team)","Ici Japon Corp. Esport","LLWL","","dom","S"],["2024-09-18","Coupe de France 2024","Round 2","Aegis (French Team)","GameWard","LLWWL","","dom","S"],["2025-03-03","Prime League 1st Division 2025 Winter Playoffs","Semifinal","Berlin International Gaming","Austrian Force willhaben","WWW","","dom","S"],["2025-03-08","Prime League 1st Division 2025 Winter Playoffs","Final","Berlin International Gaming","E WIE EINFACH E-SPORTS","WWW","","dom","S"],["2025-05-28","Prime League 1st Division 2025 Spring Playoffs","Semifinal","Berlin International Gaming","ROSSMANN Centaurs","WLWW","","dom","S"],["2025-05-30","Prime League 1st Division 2025 Spring Playoffs","Final","Berlin International Gaming","CGN Esports","WLWLL","","dom","S"],["2025-08-14","Prime League 1st Division 2025 Season Finals","Round 2","Berlin International Gaming","TeamOrangeGaming","LWWW","","dom","S"],["2025-08-24","Prime League 1st Division 2025 Season Finals","Final","Berlin International Gaming","TeamOrangeGaming","WLLWW","","dom","S"],["2025-08-30","Prime Pokal 2025","Final","Berlin International Gaming","Unicorns of Love Sexy Edition","WWLW","","dom","S"],["2025-10-12","EMEA Masters 2025 Summer Main Event","Round of 16","Berlin International Gaming","Team Heretics Academy","LLWL","","dom","S"]],"unknown":[]}
+{
+  "player": "BEAN (Louis Schmitz)",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2019-03-23","PG Nationals 2019 Spring Playoffs","Semifinal","QLASH Forge","Samsung Morning Stars","WLLL","","dom","S"],
+    ["2019-07-23","PG Nationals 2019 Summer Playoffs","Semifinal","QLASH Forge","Campus Party Sparks","LWLL","","dom","S"],
+    ["2019-11-30","Premier Tour 2019 Winter Cup","Final","ad hoc gaming","Berlin International Gaming","WLLL","","dom","S"],
+    ["2020-10-07","Prime League Pro Division 2020 Grand Final","Play-In Round 2","Berlin International Gaming","EURONICS Gaming","LLL","","dom","S"],
+    ["2021-03-20","NLC 2021 Spring Playoffs","Round 4","Fnatic Rising","Nordavind","WLWW","","dom","S"],
+    ["2021-03-21","NLC 2021 Spring Playoffs","Final","Fnatic Rising","BT Excel","LLL","","dom","S"],
+    ["2021-08-03","NLC 2021 Summer Playoffs","Round 3","Fnatic Rising","Team Singularity","LLWWW","","dom","S"],
+    ["2021-08-08","NLC 2021 Summer Playoffs","Final","Fnatic Rising","Tricked Esport","WWLLL","","dom","S"],
+    ["2021-09-09","European Masters 2021 Summer Main Event","Quarterfinal","Fnatic Rising","Movistar Riders","LWWW","","dom","S"],
+    ["2021-09-15","European Masters 2021 Summer Main Event","Semifinal","Fnatic Rising","Misfits Premier","WWLLW","","dom","S"],
+    ["2021-09-19","European Masters 2021 Summer Main Event","Final","Fnatic Rising","Karmine Corp","LLWWL","","dom","S"],
+    ["2022-03-19","LVP SuperLiga 2022 Spring Playoffs","Round 2","Fnatic TQ","Barça eSports","WLWW","","dom","S"],
+    ["2022-03-30","LVP SuperLiga 2022 Spring Playoffs","Final","Fnatic TQ","BISONS ECLUB","WWW","","dom","S"],
+    ["2022-05-01","European Masters 2022 Spring Main Event","Quarterfinal","Fnatic TQ","Vitality.Bee","LLL","","dom","S"],
+    ["2023-03-14","LVP SuperLiga 2023 Spring Playoffs","Round 1","Fnatic TQ","BISONS ECLUB","WWW","","dom","S"],
+    ["2023-03-21","LVP SuperLiga 2023 Spring Playoffs","Round 2","Fnatic TQ","Movistar Riders","LLL","","dom","S"],
+    ["2023-11-07","Iberian Cup 2023","Semifinal","Rebels Gaming","KOI Academy","LWLL","","dom","S"],
+    ["2024-09-04","LFL 2025 Promotion","Round 1","Aegis (French Team)","Ici Japon Corp. Esport","WWW","","dom","S"],
+    ["2024-09-06","LFL 2025 Promotion","Round 2","Aegis (French Team)","Ici Japon Corp. Esport","LLWL","","dom","S"],
+    ["2024-09-18","Coupe de France 2024","Round 2","Aegis (French Team)","GameWard","LLWWL","","dom","S"],
+    ["2025-03-03","Prime League 1st Division 2025 Winter Playoffs","Semifinal","Berlin International Gaming","Austrian Force willhaben","WWW","","dom","S"],
+    ["2025-03-08","Prime League 1st Division 2025 Winter Playoffs","Final","Berlin International Gaming","E WIE EINFACH E-SPORTS","WWW","","dom","S"],
+    ["2025-05-28","Prime League 1st Division 2025 Spring Playoffs","Semifinal","Berlin International Gaming","ROSSMANN Centaurs","WLWW","","dom","S"],
+    ["2025-05-30","Prime League 1st Division 2025 Spring Playoffs","Final","Berlin International Gaming","CGN Esports","WLWLL","","dom","S"],
+    ["2025-08-14","Prime League 1st Division 2025 Season Finals","Round 2","Berlin International Gaming","TeamOrangeGaming","LWWW","","dom","S"],
+    ["2025-08-24","Prime League 1st Division 2025 Season Finals","Final","Berlin International Gaming","TeamOrangeGaming","WLLWW","","dom","S"],
+    ["2025-08-30","Prime Pokal 2025","Final","Berlin International Gaming","Unicorns of Love Sexy Edition","WWLW","","dom","S"],
+    ["2025-10-12","EMEA Masters 2025 Summer Main Event","Round of 16","Berlin International Gaming","Team Heretics Academy","LLWL","","dom","S"]
+  ],
+  "unknown": []
+}

@@ -1,1 +1,37 @@
-{"player":"Vladi","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2021-07-09","GLWL 2021 Summer Playoffs","Round 1","Hive Athens EC","Team Phantasma Community","LLL","","dom","S"],["2021-11-22","Greek Legends League 2021 Winter Playoffs","Round 1","Team Refuse","Zerolag Esports","WWLW","","dom","S"],["2021-11-29","Greek Legends League 2021 Winter Playoffs","Round 2","Team Refuse","WLGaming Esports","LWLL","","dom","S"],["2022-03-07","Greek Legends League 2022 Spring Playoffs","Round 1","WLGaming Esports","Team Phantasma","WWW","","dom","S"],["2022-03-20","Greek Legends League 2022 Spring Playoffs","Final","WLGaming Esports","Team Phantasma","LWWLL","","dom","S"],["2022-08-03","NLC 2022 Summer Playoffs","Round 1","Riddle Esports","Astralis Talent","WLLL","","dom","S"],["2023-03-15","Greek Legends League 2023 Spring Playoffs","Round 1","WLGaming Esports","Panathinaikos Esports","WWLW","","dom","S"],["2023-03-21","Greek Legends League 2023 Spring Playoffs","Semifinal","WLGaming Esports","Team Phantasma","WWLW","","dom","S"],["2023-04-01","Greek Legends League 2023 Spring Playoffs","Final","WLGaming Esports","Anorthosis Famagusta Esports","WWLW","","dom","S"],["2023-07-25","NLC 2023 Summer Playoffs","Round 1","Nativz","Verdant","LWLWW","","dom","S"],["2023-08-05","NLC 2023 Summer Playoffs","Final","Nativz","NORD Esports","LWWW","","dom","S"],["2023-12-11","Drututt Ultimate Showdown 2","Round 4","Team FORG1VEN","Team Rybson","WLWLL","","dom","S"],["2024-03-27","LFL 2024 Spring Playoffs","Round 2","Karmine Corp Blue","Team BDS Academy","LLL","","dom","S"],["2024-03-29","LFL 2024 Spring Playoffs","Semifinal","Karmine Corp Blue","Gentle Mates","LWWW","","dom","S"],["2024-04-05","LFL 2024 Spring Playoffs","Final","Karmine Corp Blue","Team BDS Academy","WLWW","","dom","S"],["2024-04-23","EMEA Masters 2024 Spring Main Event","Quarterfinal","Karmine Corp Blue","Geekay Esports","WWLLL","","dom","S"],["2024-07-26","LEC 2024 Summer Playoffs","Round 3","Karmine Corp","Team BDS","WLLWL","","dom","P"],["2025-02-24","LEC 2025 Winter Playoffs","Round 4","Karmine Corp","G2 Esports","LWLL","","dom","P"],["2025-03-01","LEC 2025 Winter Playoffs","Round 4","Karmine Corp","Fnatic","WWLLW","","dom","P"],["2025-03-02","LEC 2025 Winter Playoffs","Final","Karmine Corp","G2 Esports","WWW","","dom","P"],["2025-03-15","First Stand 2025","Semifinal","Karmine Corp","CTBC Flying Oyster","WWLLW","","intl","P"],["2025-03-16","First Stand 2025","Final","Karmine Corp","Hanwha Life Esports","WLLL","","intl","P"],["2025-05-25","LEC 2025 Spring Playoffs","Round 1","Karmine Corp","Movistar KOI","LWLWL","","dom","P"],["2025-06-01","LEC 2025 Spring Playoffs","Round 1","Karmine Corp","Team Heretics","WLWW","","dom","P"],["2025-06-02","LEC 2025 Spring Playoffs","Round 2","Karmine Corp","Fnatic","WWW","","dom","P"],["2025-06-07","LEC 2025 Spring Playoffs","Round 3","Karmine Corp","Movistar KOI","WLLWL","","dom","P"],["2025-09-07","LEC 2025 Summer Playoffs","Round 1","Karmine Corp","G2 Esports","WLLL","","dom","P"],["2025-09-13","LEC 2025 Summer Playoffs","Round 1","Karmine Corp","Team Vitality","LWWW","","dom","P"],["2025-09-26","LEC 2025 Summer Playoffs","Round 2","Karmine Corp","Fnatic","LLWL","","dom","P"]],"unknown":[]}
+{
+  "player": "Vladi",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2021-07-09","GLWL 2021 Summer Playoffs","Round 1","Hive Athens EC","Team Phantasma Community","LLL","","dom","S"],
+    ["2021-11-22","Greek Legends League 2021 Winter Playoffs","Round 1","Team Refuse","Zerolag Esports","WWLW","","dom","S"],
+    ["2021-11-29","Greek Legends League 2021 Winter Playoffs","Round 2","Team Refuse","WLGaming Esports","LWLL","","dom","S"],
+    ["2022-03-07","Greek Legends League 2022 Spring Playoffs","Round 1","WLGaming Esports","Team Phantasma","WWW","","dom","S"],
+    ["2022-03-20","Greek Legends League 2022 Spring Playoffs","Final","WLGaming Esports","Team Phantasma","LWWLL","","dom","S"],
+    ["2022-08-03","NLC 2022 Summer Playoffs","Round 1","Riddle Esports","Astralis Talent","WLLL","","dom","S"],
+    ["2023-03-15","Greek Legends League 2023 Spring Playoffs","Round 1","WLGaming Esports","Panathinaikos Esports","WWLW","","dom","S"],
+    ["2023-03-21","Greek Legends League 2023 Spring Playoffs","Semifinal","WLGaming Esports","Team Phantasma","WWLW","","dom","S"],
+    ["2023-04-01","Greek Legends League 2023 Spring Playoffs","Final","WLGaming Esports","Anorthosis Famagusta Esports","WWLW","","dom","S"],
+    ["2023-07-25","NLC 2023 Summer Playoffs","Round 1","Nativz","Verdant","LWLWW","","dom","S"],
+    ["2023-08-05","NLC 2023 Summer Playoffs","Final","Nativz","NORD Esports","LWWW","","dom","S"],
+    ["2023-12-11","Drututt Ultimate Showdown 2","Round 4","Team FORG1VEN","Team Rybson","WLWLL","","dom","S"],
+    ["2024-03-27","LFL 2024 Spring Playoffs","Round 2","Karmine Corp Blue","Team BDS Academy","LLL","","dom","S"],
+    ["2024-03-29","LFL 2024 Spring Playoffs","Semifinal","Karmine Corp Blue","Gentle Mates","LWWW","","dom","S"],
+    ["2024-04-05","LFL 2024 Spring Playoffs","Final","Karmine Corp Blue","Team BDS Academy","WLWW","","dom","S"],
+    ["2024-04-23","EMEA Masters 2024 Spring Main Event","Quarterfinal","Karmine Corp Blue","Geekay Esports","WWLLL","","dom","S"],
+    ["2024-07-26","LEC 2024 Summer Playoffs","Round 3","Karmine Corp","Team BDS","WLLWL","","dom","P"],
+    ["2025-02-24","LEC 2025 Winter Playoffs","Round 4","Karmine Corp","G2 Esports","LWLL","","dom","P"],
+    ["2025-03-01","LEC 2025 Winter Playoffs","Round 4","Karmine Corp","Fnatic","WWLLW","","dom","P"],
+    ["2025-03-02","LEC 2025 Winter Playoffs","Final","Karmine Corp","G2 Esports","WWW","","dom","P"],
+    ["2025-03-15","First Stand 2025","Semifinal","Karmine Corp","CTBC Flying Oyster","WWLLW","","intl","P"],
+    ["2025-03-16","First Stand 2025","Final","Karmine Corp","Hanwha Life Esports","WLLL","","intl","P"],
+    ["2025-05-25","LEC 2025 Spring Playoffs","Round 1","Karmine Corp","Movistar KOI","LWLWL","","dom","P"],
+    ["2025-06-01","LEC 2025 Spring Playoffs","Round 1","Karmine Corp","Team Heretics","WLWW","","dom","P"],
+    ["2025-06-02","LEC 2025 Spring Playoffs","Round 2","Karmine Corp","Fnatic","WWW","","dom","P"],
+    ["2025-06-07","LEC 2025 Spring Playoffs","Round 3","Karmine Corp","Movistar KOI","WLLWL","","dom","P"],
+    ["2025-09-07","LEC 2025 Summer Playoffs","Round 1","Karmine Corp","G2 Esports","WLLL","","dom","P"],
+    ["2025-09-13","LEC 2025 Summer Playoffs","Round 1","Karmine Corp","Team Vitality","LWWW","","dom","P"],
+    ["2025-09-26","LEC 2025 Summer Playoffs","Round 2","Karmine Corp","Fnatic","LLWL","","dom","P"]
+  ],
+  "unknown": []
+}

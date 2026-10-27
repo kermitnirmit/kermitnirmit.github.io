@@ -1,1 +1,44 @@
-{"player":"Wamu","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2020-03-24","Liga de Honor Entel 2020 Closing Promotion","Qualifier","Humanoids5","Newstar","WLWW","r","dom","S"],["2021-04-01","Liga Master Flow 2021 Opening Playoffs","Quarterfinal","Stone Movistar","Savage (Latin American Team)","WLLL","","dom","S"],["2021-07-16","Liga Master Flow 2021 Closing Playoffs","Quarterfinal","Stone Movistar","Savage (Latin American Team)","LLL","","dom","S"],["2022-03-25","Liga Master Flow 2022 Opening Playoffs","Quarterfinal","Stone Movistar","Leviatan","LLL","","dom","S"],["2022-06-29","Liga de Honor Entel 2022 Closing Playoffs","Round 1","Meta Gaming","Cruzados Esports","WWW","","dom","S"],["2022-07-05","Liga de Honor Entel 2022 Closing Playoffs","Round 2","Meta Gaming","Newstar","WWW","","dom","S"],["2022-07-06","Liga de Honor Entel 2022 Closing Playoffs","Round 3","Meta Gaming","Movistar Optix","LLL","","dom","S"],["2022-11-28","Liga de Honor Entel 2022 Super Copa","Final","Eclipse Gaming (Latin American Team)","Furious Gaming","WWLLW","","dom","S"],["2022-12-02","Duelo Andino 2022","Grand Final","Eclipse Gaming (Latin American Team)","Leviatan","LWLL","","dom","S"],["2023-03-04","Liga de Honor 2023 Opening Playoffs","Round 1","Eclipse Gaming (Latin American Team)","Meta Gaming","LLWL","","dom","S"],["2023-03-13","Liga de Honor 2023 Opening Playoffs","Round 1","Eclipse Gaming (Latin American Team)","Rebirth eSports","WWW","","dom","S"],["2023-03-24","Liga de Honor 2023 Opening Playoffs","Round 2","Eclipse Gaming (Latin American Team)","Cruzados Esports","LWLWW","","dom","S"],["2023-03-27","Liga de Honor 2023 Opening Playoffs","Round 3","Eclipse Gaming (Latin American Team)","Maze Gaming","WWLLW","","dom","S"],["2023-03-30","Liga de Honor 2023 Opening Playoffs","Grand Final","Eclipse Gaming (Latin American Team)","Meta Gaming","WLWLW","","dom","S"],["2023-07-28","Liga Regional Sur 2023 Closing Playoffs","Round 1","Furious Gaming","Malvinas Rise","LWWW","","dom","S"],["2023-08-10","Liga Regional Sur 2023 Closing Playoffs","Round 3","Furious Gaming","PRIMATE","LLWL","","dom","S"],["2023-08-12","Liga Regional Sur 2023 Closing Playoffs","Round 3","Furious Gaming","WAP Esports","WLLWW","","dom","S"],["2023-08-26","Liga Regional Sur 2023 Closing Playoffs","Grand Final","Furious Gaming","PRIMATE","WLLL","","dom","S"],["2024-03-09","Emerald League 2024 Tier Edition","Round 4","Meta Gaming","WAP Esports","WWW","r","dom",""],["2024-06-24","Liga Regional Sur 2024 Playoffs","Round 1","Meta Gaming","WAP Esports","WLLL","","dom","S"],["2024-07-11","Liga Regional Sur 2024 Playoffs","Round 1","Meta Gaming","Undead Gaming","LLWL","","dom","S"],["2025-05-13","Liga Regional Sur 2025 Split 1 Playoffs","Round 1","Maze Gaming","Farenvehn","LWWW","","dom","S"],["2025-05-27","Liga Regional Sur 2025 Split 1 Playoffs","Round 2","Maze Gaming","WAP Esports","WLWLW","","dom","S"],["2025-06-04","Liga Regional Sur 2025 Split 1 Playoffs","Final","Maze Gaming","Farenvehn","WLLL","","dom","S"],["2025-08-26","Liga Regional Sur 2025 Split 2 Playoffs","Round 2","Maze Gaming","Seven Dark","WWW","","dom","S"],["2025-09-01","Liga Regional Sur 2025 Split 2 Playoffs","Round 3","Maze Gaming","Golden Lions","WLWLW","","dom","S"],["2025-09-09","Liga Regional Sur 2025 Split 2 Playoffs","Round 4","Maze Gaming","Sicar Esports","WLLL","","dom","S"],["2026-04-21","Liga Regional Sur 2026 Split 1 Playoffs","Round 1","Golden Lions","Seven Dark","WWW","","dom","S"],["2026-05-26","Liga Regional Sur 2026 Split 1 Playoffs","Round 3","Golden Lions","Volticons","LWWW","","dom","S"],["2026-06-09","Liga Regional Sur 2026 Split 1 Playoffs","Final","Golden Lions","Volticons","LLL","","dom","S"],["2026-07-28","Liga Regional Sur 2026 Split 2 Playoffs","Round 1","Maze Gaming","9z Globant","LWLL","","dom","S"],["2026-08-04","Liga Regional Sur 2026 Split 2 Playoffs","Round 1","Maze Gaming","Malvinas Gaming","LWWLW","","dom","S"],["2026-08-19","Liga Regional Sur 2026 Split 2 Playoffs","Round 2","Maze Gaming","Docta Esports","WWW","","dom","S"],["2026-09-01","Liga Regional Sur 2026 Split 2 Playoffs","Round 3","Maze Gaming","Golden Lions","LWLL","","dom","S"]],"unknown":[["2024-03-17","Emerald League 2024 Tier Edition","Final","Meta Gaming","PRIMATE","1-3","","dom",""]]}
+{
+  "player": "Wamu",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2020-03-24","Liga de Honor Entel 2020 Closing Promotion","Qualifier","Humanoids5","Newstar","WLWW","r","dom","S"],
+    ["2021-04-01","Liga Master Flow 2021 Opening Playoffs","Quarterfinal","Stone Movistar","Savage (Latin American Team)","WLLL","","dom","S"],
+    ["2021-07-16","Liga Master Flow 2021 Closing Playoffs","Quarterfinal","Stone Movistar","Savage (Latin American Team)","LLL","","dom","S"],
+    ["2022-03-25","Liga Master Flow 2022 Opening Playoffs","Quarterfinal","Stone Movistar","Leviatan","LLL","","dom","S"],
+    ["2022-06-29","Liga de Honor Entel 2022 Closing Playoffs","Round 1","Meta Gaming","Cruzados Esports","WWW","","dom","S"],
+    ["2022-07-05","Liga de Honor Entel 2022 Closing Playoffs","Round 2","Meta Gaming","Newstar","WWW","","dom","S"],
+    ["2022-07-06","Liga de Honor Entel 2022 Closing Playoffs","Round 3","Meta Gaming","Movistar Optix","LLL","","dom","S"],
+    ["2022-11-28","Liga de Honor Entel 2022 Super Copa","Final","Eclipse Gaming (Latin American Team)","Furious Gaming","WWLLW","","dom","S"],
+    ["2022-12-02","Duelo Andino 2022","Grand Final","Eclipse Gaming (Latin American Team)","Leviatan","LWLL","","dom","S"],
+    ["2023-03-04","Liga de Honor 2023 Opening Playoffs","Round 1","Eclipse Gaming (Latin American Team)","Meta Gaming","LLWL","","dom","S"],
+    ["2023-03-13","Liga de Honor 2023 Opening Playoffs","Round 1","Eclipse Gaming (Latin American Team)","Rebirth eSports","WWW","","dom","S"],
+    ["2023-03-24","Liga de Honor 2023 Opening Playoffs","Round 2","Eclipse Gaming (Latin American Team)","Cruzados Esports","LWLWW","","dom","S"],
+    ["2023-03-27","Liga de Honor 2023 Opening Playoffs","Round 3","Eclipse Gaming (Latin American Team)","Maze Gaming","WWLLW","","dom","S"],
+    ["2023-03-30","Liga de Honor 2023 Opening Playoffs","Grand Final","Eclipse Gaming (Latin American Team)","Meta Gaming","WLWLW","","dom","S"],
+    ["2023-07-28","Liga Regional Sur 2023 Closing Playoffs","Round 1","Furious Gaming","Malvinas Rise","LWWW","","dom","S"],
+    ["2023-08-10","Liga Regional Sur 2023 Closing Playoffs","Round 3","Furious Gaming","PRIMATE","LLWL","","dom","S"],
+    ["2023-08-12","Liga Regional Sur 2023 Closing Playoffs","Round 3","Furious Gaming","WAP Esports","WLLWW","","dom","S"],
+    ["2023-08-26","Liga Regional Sur 2023 Closing Playoffs","Grand Final","Furious Gaming","PRIMATE","WLLL","","dom","S"],
+    ["2024-03-09","Emerald League 2024 Tier Edition","Round 4","Meta Gaming","WAP Esports","WWW","r","dom",""],
+    ["2024-06-24","Liga Regional Sur 2024 Playoffs","Round 1","Meta Gaming","WAP Esports","WLLL","","dom","S"],
+    ["2024-07-11","Liga Regional Sur 2024 Playoffs","Round 1","Meta Gaming","Undead Gaming","LLWL","","dom","S"],
+    ["2025-05-13","Liga Regional Sur 2025 Split 1 Playoffs","Round 1","Maze Gaming","Farenvehn","LWWW","","dom","S"],
+    ["2025-05-27","Liga Regional Sur 2025 Split 1 Playoffs","Round 2","Maze Gaming","WAP Esports","WLWLW","","dom","S"],
+    ["2025-06-04","Liga Regional Sur 2025 Split 1 Playoffs","Final","Maze Gaming","Farenvehn","WLLL","","dom","S"],
+    ["2025-08-26","Liga Regional Sur 2025 Split 2 Playoffs","Round 2","Maze Gaming","Seven Dark","WWW","","dom","S"],
+    ["2025-09-01","Liga Regional Sur 2025 Split 2 Playoffs","Round 3","Maze Gaming","Golden Lions","WLWLW","","dom","S"],
+    ["2025-09-09","Liga Regional Sur 2025 Split 2 Playoffs","Round 4","Maze Gaming","Sicar Esports","WLLL","","dom","S"],
+    ["2026-04-21","Liga Regional Sur 2026 Split 1 Playoffs","Round 1","Golden Lions","Seven Dark","WWW","","dom","S"],
+    ["2026-05-26","Liga Regional Sur 2026 Split 1 Playoffs","Round 3","Golden Lions","Volticons","LWWW","","dom","S"],
+    ["2026-06-09","Liga Regional Sur 2026 Split 1 Playoffs","Final","Golden Lions","Volticons","LLL","","dom","S"],
+    ["2026-07-28","Liga Regional Sur 2026 Split 2 Playoffs","Round 1","Maze Gaming","9z Globant","LWLL","","dom","S"],
+    ["2026-08-04","Liga Regional Sur 2026 Split 2 Playoffs","Round 1","Maze Gaming","Malvinas Gaming","LWWLW","","dom","S"],
+    ["2026-08-19","Liga Regional Sur 2026 Split 2 Playoffs","Round 2","Maze Gaming","Docta Esports","WWW","","dom","S"],
+    ["2026-09-01","Liga Regional Sur 2026 Split 2 Playoffs","Round 3","Maze Gaming","Golden Lions","LWLL","","dom","S"]
+  ],
+  "unknown": [
+    ["2024-03-17","Emerald League 2024 Tier Edition","Final","Meta Gaming","PRIMATE","1-3","","dom",""]
+  ]
+}

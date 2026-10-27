@@ -1,1 +1,37 @@
-{"player":"Efias","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2017-10-07","Lega Prima Season 2 Playoffs","Semifinal","Team Forge","True eSport","WWW","r","dom",""],["2017-10-08","Lega Prima Season 2 Playoffs","Final","Team Forge","Outplayed WAR","WWW","r","dom",""],["2018-03-26","Lega Prima Season 3 Playoffs","Semifinal","Team Forge","inFerno eSports","WWW","r","dom",""],["2018-07-28","PG Nationals 2018 Summer Playoffs","Final","Team Forge","Outplayed","LLL","","dom","S"],["2019-07-23","PG Nationals 2019 Summer Playoffs","Semifinal","Campus Party Sparks","QLASH Forge","WLWW","","dom","S"],["2019-07-28","PG Nationals 2019 Summer Playoffs","Final","Campus Party Sparks","Outplayed","WWLW","","dom","S"],["2020-08-16","TCL 2020 Summer Playoffs","Quarterfinal","Beşiktaş Esports","Papara SuperMassive","LWLL","","dom","P"],["2020-11-06","Iberian Cup 2020","Quarterfinal","G2 Arctic","Team Queso","WLWW","","dom","S"],["2020-11-13","Iberian Cup 2020","Semifinal","G2 Arctic","SLO REJECTS","WWW","","dom","S"],["2020-11-15","Iberian Cup 2020","Final","G2 Arctic","Vodafone Giants.Spain","WWLLL","","dom","S"],["2021-03-20","LVP SuperLiga 2021 Spring Playoffs","Semifinal","G2 Arctic","Cream Real Betis.EU","LLL","","dom","S"],["2021-08-07","LVP SuperLiga 2021 Summer Playoffs","Semifinal","G2 Arctic","UCAM Esports Club","WLLWL","","dom","S"],["2021-11-05","Iberian Cup 2021","Quarterfinal","G2 Arctic","UCAM Esports Club","LLWWW","","dom","S"],["2021-11-10","Iberian Cup 2021","Semifinal","G2 Arctic","Vodafone Giants.Spain","LLL","","dom","S"],["2022-03-17","LVP SuperLiga 2022 Spring Playoffs","Round 1","G2 Arctic","BISONS ECLUB","LWLL","","dom","S"],["2022-08-04","LVP SuperLiga 2022 Summer Playoffs","Round 1","Barça eSports","BISONS ECLUB","LLWWL","","dom","S"],["2022-11-15","Iberian Cup 2022","Semifinal","Barça eSports","Team Heretics","LWWLL","","dom","S"],["2023-03-15","LVP SuperLiga 2023 Spring Playoffs","Round 1","Barça eSports","Movistar Riders","WLLL","","dom","S"],["2023-07-26","LVP SuperLiga 2023 Summer Playoffs","Round 1","Barça eSports","Giants (Spanish Team)","WLLL","","dom","S"],["2024-03-14","LIT 2024 Spring Playoffs","Round 1","DSYRE","Atleta Esport","WLWW","","dom","S"],["2024-03-29","LIT 2024 Spring Playoffs","Final","DSYRE","Macko Esports","WLLWW","","dom","S"],["2024-07-10","LIT 2024 Summer Playoffs","Round 1","DSYRE","Macko Esports","WWLLW","","dom","S"],["2024-07-25","LIT 2024 Summer Playoffs","Final","DSYRE","Macko Esports","LLL","","dom","S"],["2024-08-16","EMEA Masters 2024 Summer Main Event","Round of 16","DSYRE","Macko Esports","WLLWL","","dom","S"],["2025-03-04","Prime League 1st Division 2025 Winter Playoffs","Semifinal","Dung Dynasty","E WIE EINFACH E-SPORTS","LLL","","dom","S"]],"unknown":[["2016-10-15","Milan Games Week League 2016","Final","Team Forge","NextGaming","2-3","","dom",""],["2018-03-31","PG Nationals 2018 Spring Playoffs","Final","Team Forge","Outplayed","3-1","","dom","S"],["2018-04-08","Lega Prima Season 3 Playoffs","Final","Team Forge","Outplayed","1-3","","dom",""]]}
+{
+  "player": "Efias",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2017-10-07","Lega Prima Season 2 Playoffs","Semifinal","Team Forge","True eSport","WWW","r","dom",""],
+    ["2017-10-08","Lega Prima Season 2 Playoffs","Final","Team Forge","Outplayed WAR","WWW","r","dom",""],
+    ["2018-03-26","Lega Prima Season 3 Playoffs","Semifinal","Team Forge","inFerno eSports","WWW","r","dom",""],
+    ["2018-07-28","PG Nationals 2018 Summer Playoffs","Final","Team Forge","Outplayed","LLL","","dom","S"],
+    ["2019-07-23","PG Nationals 2019 Summer Playoffs","Semifinal","Campus Party Sparks","QLASH Forge","WLWW","","dom","S"],
+    ["2019-07-28","PG Nationals 2019 Summer Playoffs","Final","Campus Party Sparks","Outplayed","WWLW","","dom","S"],
+    ["2020-08-16","TCL 2020 Summer Playoffs","Quarterfinal","Beşiktaş Esports","Papara SuperMassive","LWLL","","dom","P"],
+    ["2020-11-06","Iberian Cup 2020","Quarterfinal","G2 Arctic","Team Queso","WLWW","","dom","S"],
+    ["2020-11-13","Iberian Cup 2020","Semifinal","G2 Arctic","SLO REJECTS","WWW","","dom","S"],
+    ["2020-11-15","Iberian Cup 2020","Final","G2 Arctic","Vodafone Giants.Spain","WWLLL","","dom","S"],
+    ["2021-03-20","LVP SuperLiga 2021 Spring Playoffs","Semifinal","G2 Arctic","Cream Real Betis.EU","LLL","","dom","S"],
+    ["2021-08-07","LVP SuperLiga 2021 Summer Playoffs","Semifinal","G2 Arctic","UCAM Esports Club","WLLWL","","dom","S"],
+    ["2021-11-05","Iberian Cup 2021","Quarterfinal","G2 Arctic","UCAM Esports Club","LLWWW","","dom","S"],
+    ["2021-11-10","Iberian Cup 2021","Semifinal","G2 Arctic","Vodafone Giants.Spain","LLL","","dom","S"],
+    ["2022-03-17","LVP SuperLiga 2022 Spring Playoffs","Round 1","G2 Arctic","BISONS ECLUB","LWLL","","dom","S"],
+    ["2022-08-04","LVP SuperLiga 2022 Summer Playoffs","Round 1","Barça eSports","BISONS ECLUB","LLWWL","","dom","S"],
+    ["2022-11-15","Iberian Cup 2022","Semifinal","Barça eSports","Team Heretics","LWWLL","","dom","S"],
+    ["2023-03-15","LVP SuperLiga 2023 Spring Playoffs","Round 1","Barça eSports","Movistar Riders","WLLL","","dom","S"],
+    ["2023-07-26","LVP SuperLiga 2023 Summer Playoffs","Round 1","Barça eSports","Giants (Spanish Team)","WLLL","","dom","S"],
+    ["2024-03-14","LIT 2024 Spring Playoffs","Round 1","DSYRE","Atleta Esport","WLWW","","dom","S"],
+    ["2024-03-29","LIT 2024 Spring Playoffs","Final","DSYRE","Macko Esports","WLLWW","","dom","S"],
+    ["2024-07-10","LIT 2024 Summer Playoffs","Round 1","DSYRE","Macko Esports","WWLLW","","dom","S"],
+    ["2024-07-25","LIT 2024 Summer Playoffs","Final","DSYRE","Macko Esports","LLL","","dom","S"],
+    ["2024-08-16","EMEA Masters 2024 Summer Main Event","Round of 16","DSYRE","Macko Esports","WLLWL","","dom","S"],
+    ["2025-03-04","Prime League 1st Division 2025 Winter Playoffs","Semifinal","Dung Dynasty","E WIE EINFACH E-SPORTS","LLL","","dom","S"]
+  ],
+  "unknown": [
+    ["2016-10-15","Milan Games Week League 2016","Final","Team Forge","NextGaming","2-3","","dom",""],
+    ["2018-03-31","PG Nationals 2018 Spring Playoffs","Final","Team Forge","Outplayed","3-1","","dom","S"],
+    ["2018-04-08","Lega Prima Season 3 Playoffs","Final","Team Forge","Outplayed","1-3","","dom",""]
+  ]
+}

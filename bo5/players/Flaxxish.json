@@ -1,1 +1,33 @@
-{"player":"Flaxxish","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2015-12-06","ESL UK Premiership 2015 Summer","Final","FM eSports","Team Infused","LLL","r","dom",""],["2016-07-13","NA Challenger Series 2016 Summer Playoffs","Semifinal","Nova eSports (North American Team)","Team Liquid Academy","LLL","","dom","S"],["2016-10-09","LVP Clasificatorio Challenger Series Season 11","Final","ASUS ROG Army","The Penguins Mafia","WWW","r","dom",""],["2017-04-06","EU LCS 2017 Summer Promotion","Round 1","Giants Gaming","Fnatic Academy","WLLL","","dom","P"],["2017-04-13","EU LCS 2017 Summer Promotion","Elimination Round","Giants Gaming","Origen","WWW","","dom","P"],["2017-04-14","EU LCS 2017 Summer Promotion","Qualifying Round","Giants Gaming","Fnatic Academy","LLL","","dom","P"],["2017-07-26","TPL 2017 Summer Playoffs","Semifinal","Beşiktaş Esports","Oyun Hizmetleri","WLWW","","dom","S"],["2017-07-27","TPL 2017 Summer Playoffs","Final","Beşiktaş Esports","HWA Gaming","LLL","","dom","S"],["2017-08-08","TCL 2018 Winter Qualifiers","Qual","Beşiktaş Esports","Galakticos","LLL","","dom","P"],["2018-03-20","LVP SuperLiga Orange 2018 Spring Playoffs","Semifinal","Movistar Riders","Giants Gaming Spain","LWWW","p","dom","S"],["2018-03-25","LVP SuperLiga Orange 2018 Spring Playoffs","Final","Movistar Riders","MAD Lions E.C.","LLL","p","dom","S"],["2020-08-12","NLC 2020 Summer Relegation","Qualifiers","Team Singularity","KOVA Esports","WWLLW","","dom","S"],["2021-03-24","NLC 2021 Spring Relegation","Round 1","Dusty","MNM Gaming","LWWW","","dom","S"],["2021-03-25","NLC 2021 Spring Relegation","Round 2","Dusty","Bifrost","WLWW","","dom","S"],["2021-07-27","Dutch League 2021 Summer Playoffs","Round 1","PSV Esports","Team Echo Zulu","WLWW","","dom","S"],["2021-08-10","Dutch League 2021 Summer Playoffs","Final","PSV Esports","mCon LG UltraGear","LLWL","","dom","S"],["2022-03-12","Elite Series 2022 Spring Playoffs","Round 1","Team Echo Zulu","Ion Squad","WWLW","","dom","S"],["2022-03-18","Elite Series 2022 Spring Playoffs","Semifinal","Team Echo Zulu","KRC Genk Esports","LWLL","","dom","S"],["2022-06-28","ELEAGUE Summer Cup 2022","Quarterfinal","Cryptova","Dynamo Eclot","LLWL","","dom","S"],["2025-09-28","Svenska Onlineligan 2025 Autumn Playoffs","Quarterfinal","Bulldog Academy","DMG Esports Sweden","WWW","r","dom","S"],["2025-10-18","Svenska Onlineligan 2025 Autumn Playoffs","Semifinal","Bulldog Academy","B2U","LLL","","dom","S"]],"unknown":[["2016-10-08","LVP Clasificatorio Challenger Series Season 11","Semifinal","ASUS ROG Army","ThunderX3 Baskonia","3-2","","dom",""],["2016-12-18","LVP División de Honor Season 11","Final","ASUS ROG Army","G2 Vodafone","3-1","","dom",""],["2018-09-06","Forge of Champions 2018 Summer/Grand Final","Final","Diabolus Esports","Misfits Academy","2-3","","dom",""]]}
+{
+  "player": "Flaxxish",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2015-12-06","ESL UK Premiership 2015 Summer","Final","FM eSports","Team Infused","LLL","r","dom",""],
+    ["2016-07-13","NA Challenger Series 2016 Summer Playoffs","Semifinal","Nova eSports (North American Team)","Team Liquid Academy","LLL","","dom","S"],
+    ["2016-10-09","LVP Clasificatorio Challenger Series Season 11","Final","ASUS ROG Army","The Penguins Mafia","WWW","r","dom",""],
+    ["2017-04-06","EU LCS 2017 Summer Promotion","Round 1","Giants Gaming","Fnatic Academy","WLLL","","dom","P"],
+    ["2017-04-13","EU LCS 2017 Summer Promotion","Elimination Round","Giants Gaming","Origen","WWW","","dom","P"],
+    ["2017-04-14","EU LCS 2017 Summer Promotion","Qualifying Round","Giants Gaming","Fnatic Academy","LLL","","dom","P"],
+    ["2017-07-26","TPL 2017 Summer Playoffs","Semifinal","Beşiktaş Esports","Oyun Hizmetleri","WLWW","","dom","S"],
+    ["2017-07-27","TPL 2017 Summer Playoffs","Final","Beşiktaş Esports","HWA Gaming","LLL","","dom","S"],
+    ["2017-08-08","TCL 2018 Winter Qualifiers","Qual","Beşiktaş Esports","Galakticos","LLL","","dom","P"],
+    ["2018-03-20","LVP SuperLiga Orange 2018 Spring Playoffs","Semifinal","Movistar Riders","Giants Gaming Spain","LWWW","p","dom","S"],
+    ["2018-03-25","LVP SuperLiga Orange 2018 Spring Playoffs","Final","Movistar Riders","MAD Lions E.C.","LLL","p","dom","S"],
+    ["2020-08-12","NLC 2020 Summer Relegation","Qualifiers","Team Singularity","KOVA Esports","WWLLW","","dom","S"],
+    ["2021-03-24","NLC 2021 Spring Relegation","Round 1","Dusty","MNM Gaming","LWWW","","dom","S"],
+    ["2021-03-25","NLC 2021 Spring Relegation","Round 2","Dusty","Bifrost","WLWW","","dom","S"],
+    ["2021-07-27","Dutch League 2021 Summer Playoffs","Round 1","PSV Esports","Team Echo Zulu","WLWW","","dom","S"],
+    ["2021-08-10","Dutch League 2021 Summer Playoffs","Final","PSV Esports","mCon LG UltraGear","LLWL","","dom","S"],
+    ["2022-03-12","Elite Series 2022 Spring Playoffs","Round 1","Team Echo Zulu","Ion Squad","WWLW","","dom","S"],
+    ["2022-03-18","Elite Series 2022 Spring Playoffs","Semifinal","Team Echo Zulu","KRC Genk Esports","LWLL","","dom","S"],
+    ["2022-06-28","ELEAGUE Summer Cup 2022","Quarterfinal","Cryptova","Dynamo Eclot","LLWL","","dom","S"],
+    ["2025-09-28","Svenska Onlineligan 2025 Autumn Playoffs","Quarterfinal","Bulldog Academy","DMG Esports Sweden","WWW","r","dom","S"],
+    ["2025-10-18","Svenska Onlineligan 2025 Autumn Playoffs","Semifinal","Bulldog Academy","B2U","LLL","","dom","S"]
+  ],
+  "unknown": [
+    ["2016-10-08","LVP Clasificatorio Challenger Series Season 11","Semifinal","ASUS ROG Army","ThunderX3 Baskonia","3-2","","dom",""],
+    ["2016-12-18","LVP División de Honor Season 11","Final","ASUS ROG Army","G2 Vodafone","3-1","","dom",""],
+    ["2018-09-06","Forge of Champions 2018 Summer/Grand Final","Final","Diabolus Esports","Misfits Academy","2-3","","dom",""]
+  ]
+}

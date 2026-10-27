@@ -1,1 +1,31 @@
-{"player":"Damonte","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2016-05-26","NA Challenger Series 2016 Summer Qualifiers","Qualifiers","Destined For Glory","Cloud9 Challenger","LLL","","dom","S"],["2016-12-15","NA Challenger Series 2017 Spring Qualifiers","Qualifiers","Delta Fox","University of Toronto","WWW","","dom","S"],["2017-04-29","NA Challenger Series 2017 Summer Qualifiers","Qualifiers","Delta Fox","Team Liquid Academy","LWWW","","dom","S"],["2018-03-22","NA Academy League 2018 Spring Playoffs","Semifinal","Echo Fox Academy","Team Liquid Academy","WWLW","","dom","S"],["2018-03-30","NA Academy League 2018 Spring Playoffs","Final","Echo Fox Academy","FlyQuest Academy","LLWWL","","dom","S"],["2018-08-25","NA LCS 2018 Summer Playoffs","Quarterfinal","Echo Fox","TSM","LWWLL","","dom","P"],["2018-09-14","NA LCS 2018 Regional Finals","Round 1","Echo Fox","Clutch Gaming","WWW","","dom","P"],["2018-09-15","NA LCS 2018 Regional Finals","Round 2","Echo Fox","TSM","LLL","","dom","P"],["2019-08-10","LCS 2019 Summer Playoffs","Quarterfinal","Clutch Gaming","TSM","WWLW","","dom","P"],["2019-08-18","LCS 2019 Summer Playoffs","Semifinal","Clutch Gaming","Team Liquid","LWLWL","","dom","P"],["2019-08-24","LCS 2019 Summer Playoffs","Third-Place Match","Clutch Gaming","Counter Logic Gaming","WWLLL","","dom","P"],["2019-09-06","LCS 2019 Regional Finals","Round 1","Clutch Gaming","FlyQuest","WLWW","","dom","P"],["2019-09-07","LCS 2019 Regional Finals","Round 2","Clutch Gaming","Counter Logic Gaming","WWLW","","dom","P"],["2019-09-08","LCS 2019 Regional Finals","Final","Clutch Gaming","TSM","LLWWW","","dom","P"],["2019-10-07","Worlds 2019","Round 2","Clutch Gaming","Royal Youth","WWW","","worlds","P"],["2020-04-09","NA Academy League 2020 Spring Playoffs","Semifinal","Dignitas Academy","Evil Geniuses Academy","LLWL","","dom","S"],["2020-08-13","LCS 2020 Summer Playoffs","Round 1","Golden Guardians","TSM","WWW","","dom","P"],["2020-08-21","LCS 2020 Summer Playoffs","Round 2","Golden Guardians","Team Liquid","LLL","","dom","P"],["2020-08-23","LCS 2020 Summer Playoffs","Round 2","Golden Guardians","TSM","WWLLL","","dom","P"],["2021-01-29","LCS 2021 Lock In","Semifinal","100 Thieves","Cloud9","WWLLL","","dom","P"],["2021-04-18","LCS Proving Grounds 2021 Spring","Round 4","100 Thieves Academy","Evil Geniuses Prodigies","WWW","","dom","S"],["2021-04-23","LCS Proving Grounds 2021 Spring","Round 5","100 Thieves Academy","Evil Geniuses Academy","LWWW","","dom","S"],["2021-04-24","LCS Proving Grounds 2021 Spring","Round 6","100 Thieves Academy","No Org","LLL","","dom","S"]],"unknown":[]}
+{
+  "player": "Damonte",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2016-05-26","NA Challenger Series 2016 Summer Qualifiers","Qualifiers","Destined For Glory","Cloud9 Challenger","LLL","","dom","S"],
+    ["2016-12-15","NA Challenger Series 2017 Spring Qualifiers","Qualifiers","Delta Fox","University of Toronto","WWW","","dom","S"],
+    ["2017-04-29","NA Challenger Series 2017 Summer Qualifiers","Qualifiers","Delta Fox","Team Liquid Academy","LWWW","","dom","S"],
+    ["2018-03-22","NA Academy League 2018 Spring Playoffs","Semifinal","Echo Fox Academy","Team Liquid Academy","WWLW","","dom","S"],
+    ["2018-03-30","NA Academy League 2018 Spring Playoffs","Final","Echo Fox Academy","FlyQuest Academy","LLWWL","","dom","S"],
+    ["2018-08-25","NA LCS 2018 Summer Playoffs","Quarterfinal","Echo Fox","TSM","LWWLL","","dom","P"],
+    ["2018-09-14","NA LCS 2018 Regional Finals","Round 1","Echo Fox","Clutch Gaming","WWW","","dom","P"],
+    ["2018-09-15","NA LCS 2018 Regional Finals","Round 2","Echo Fox","TSM","LLL","","dom","P"],
+    ["2019-08-10","LCS 2019 Summer Playoffs","Quarterfinal","Clutch Gaming","TSM","WWLW","","dom","P"],
+    ["2019-08-18","LCS 2019 Summer Playoffs","Semifinal","Clutch Gaming","Team Liquid","LWLWL","","dom","P"],
+    ["2019-08-24","LCS 2019 Summer Playoffs","Third-Place Match","Clutch Gaming","Counter Logic Gaming","WWLLL","","dom","P"],
+    ["2019-09-06","LCS 2019 Regional Finals","Round 1","Clutch Gaming","FlyQuest","WLWW","","dom","P"],
+    ["2019-09-07","LCS 2019 Regional Finals","Round 2","Clutch Gaming","Counter Logic Gaming","WWLW","","dom","P"],
+    ["2019-09-08","LCS 2019 Regional Finals","Final","Clutch Gaming","TSM","LLWWW","","dom","P"],
+    ["2019-10-07","Worlds 2019","Round 2","Clutch Gaming","Royal Youth","WWW","","worlds","P"],
+    ["2020-04-09","NA Academy League 2020 Spring Playoffs","Semifinal","Dignitas Academy","Evil Geniuses Academy","LLWL","","dom","S"],
+    ["2020-08-13","LCS 2020 Summer Playoffs","Round 1","Golden Guardians","TSM","WWW","","dom","P"],
+    ["2020-08-21","LCS 2020 Summer Playoffs","Round 2","Golden Guardians","Team Liquid","LLL","","dom","P"],
+    ["2020-08-23","LCS 2020 Summer Playoffs","Round 2","Golden Guardians","TSM","WWLLL","","dom","P"],
+    ["2021-01-29","LCS 2021 Lock In","Semifinal","100 Thieves","Cloud9","WWLLL","","dom","P"],
+    ["2021-04-18","LCS Proving Grounds 2021 Spring","Round 4","100 Thieves Academy","Evil Geniuses Prodigies","WWW","","dom","S"],
+    ["2021-04-23","LCS Proving Grounds 2021 Spring","Round 5","100 Thieves Academy","Evil Geniuses Academy","LWWW","","dom","S"],
+    ["2021-04-24","LCS Proving Grounds 2021 Spring","Round 6","100 Thieves Academy","No Org","LLL","","dom","S"]
+  ],
+  "unknown": []
+}

@@ -1,1 +1,35 @@
-{"player":"Slow","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2015-04-15","Latin America Cup 2015 LAS Closing Cup Promotion","Promotion","Rebirth eSports Fate","Isurus","WWW","","dom","P"],["2015-07-07","Latin America Cup 2015 LAS Closing Cup Playoffs","Semifinal","Rebirth eSports","Kaos Latin Gamers","WLLL","","dom","P"],["2016-03-11","Latin America Cup LAS 2016 Season Opening Cup Playoffs","Semifinal","Rebirth eSports","Last Kings","LLL","","dom","P"],["2016-11-02","CLS 2017 Preseason Tournament","Round 1","Rebirth eSports","Hafnet eSports","LWWLW","","dom","P"],["2016-11-03","CLS 2017 Preseason Tournament","Round 2","Rebirth eSports","Last Kings","LWLWL","","dom","P"],["2017-03-23","CLS 2017 Opening Playoffs","Round 1","Rebirth eSports","Furious Gaming","LWLL","","dom","P"],["2017-08-19","CLS 2017 Closing Playoffs","Final","Kaos Latin Gamers","Isurus","LWWW","","dom","P"],["2018-03-31","CLS 2018 Opening Playoffs","Semifinal","Kaos Latin Gamers","Isurus","WWW","","dom","P"],["2018-04-14","CLS 2018 Opening Playoffs","Final","Kaos Latin Gamers","Rebirth eSports","LWLWW","","dom","P"],["2018-09-02","CLS 2018 Closing Playoffs","Semifinal","Kaos Latin Gamers","Furious Gaming","WWW","","dom","P"],["2018-09-09","CLS 2018 Closing Playoffs","Final","Kaos Latin Gamers","Rebirth eSports","WWLW","","dom","P"],["2018-09-15","Final Latinoamérica Movistar 2018","Grand Finals","Kaos Latin Gamers","INFINITY","LLL","r","dom",""],["2019-03-31","LLA 2019 Opening Playoffs","Quarterfinal","Isurus","Pixel Esports Club","LWWW","","dom","P"],["2019-04-07","LLA 2019 Opening Playoffs","Semifinal","Isurus","All Knights","WLWLW","","dom","P"],["2019-04-20","LLA 2019 Opening Playoffs","Final","Isurus","Rainbow7","WLWW","","dom","P"],["2019-08-18","LLA 2019 Closing Playoffs","Semifinal","Isurus","XTEN Esports","WWLW","","dom","P"],["2019-08-31","LLA 2019 Closing Playoffs","Final","Isurus","All Knights","WWW","","dom","P"],["2019-10-08","Worlds 2019","Round 2","Isurus","Hong Kong Attitude","LWLL","","worlds","P"],["2020-04-25","LLA 2020 Opening Playoffs","Round 1","Isurus","INFINITY","LWWW","","dom","P"],["2020-04-26","LLA 2020 Opening Playoffs","Round 2","Isurus","Rainbow7","LWWW","","dom","P"],["2020-05-02","LLA 2020 Opening Playoffs","Final","Isurus","All Knights","WLLWL","","dom","P"],["2020-08-22","LLA 2020 Closing Playoffs","Round 2","Isurus","Rainbow7","LLWL","","dom","P"],["2022-03-19","LLA 2022 Opening Playoffs","Round 1","Rainbow7","Estral Esports","LLL","","dom","P"],["2022-04-02","LLA 2022 Opening Playoffs","Round 3","Rainbow7","Isurus","LLWWW","","dom","P"],["2022-04-03","LLA 2022 Opening Playoffs","Semifinal","Rainbow7","Estral Esports","LWLWL","","dom","P"]],"unknown":[["2017-12-02","Rio de la Plata Cup 2017","Final","Kaos Latin Gamers","Isurus","3-2","","dom",""]]}
+{
+  "player": "Slow",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2015-04-15","Latin America Cup 2015 LAS Closing Cup Promotion","Promotion","Rebirth eSports Fate","Isurus","WWW","","dom","P"],
+    ["2015-07-07","Latin America Cup 2015 LAS Closing Cup Playoffs","Semifinal","Rebirth eSports","Kaos Latin Gamers","WLLL","","dom","P"],
+    ["2016-03-11","Latin America Cup LAS 2016 Season Opening Cup Playoffs","Semifinal","Rebirth eSports","Last Kings","LLL","","dom","P"],
+    ["2016-11-02","CLS 2017 Preseason Tournament","Round 1","Rebirth eSports","Hafnet eSports","LWWLW","","dom","P"],
+    ["2016-11-03","CLS 2017 Preseason Tournament","Round 2","Rebirth eSports","Last Kings","LWLWL","","dom","P"],
+    ["2017-03-23","CLS 2017 Opening Playoffs","Round 1","Rebirth eSports","Furious Gaming","LWLL","","dom","P"],
+    ["2017-08-19","CLS 2017 Closing Playoffs","Final","Kaos Latin Gamers","Isurus","LWWW","","dom","P"],
+    ["2018-03-31","CLS 2018 Opening Playoffs","Semifinal","Kaos Latin Gamers","Isurus","WWW","","dom","P"],
+    ["2018-04-14","CLS 2018 Opening Playoffs","Final","Kaos Latin Gamers","Rebirth eSports","LWLWW","","dom","P"],
+    ["2018-09-02","CLS 2018 Closing Playoffs","Semifinal","Kaos Latin Gamers","Furious Gaming","WWW","","dom","P"],
+    ["2018-09-09","CLS 2018 Closing Playoffs","Final","Kaos Latin Gamers","Rebirth eSports","WWLW","","dom","P"],
+    ["2018-09-15","Final Latinoamérica Movistar 2018","Grand Finals","Kaos Latin Gamers","INFINITY","LLL","r","dom",""],
+    ["2019-03-31","LLA 2019 Opening Playoffs","Quarterfinal","Isurus","Pixel Esports Club","LWWW","","dom","P"],
+    ["2019-04-07","LLA 2019 Opening Playoffs","Semifinal","Isurus","All Knights","WLWLW","","dom","P"],
+    ["2019-04-20","LLA 2019 Opening Playoffs","Final","Isurus","Rainbow7","WLWW","","dom","P"],
+    ["2019-08-18","LLA 2019 Closing Playoffs","Semifinal","Isurus","XTEN Esports","WWLW","","dom","P"],
+    ["2019-08-31","LLA 2019 Closing Playoffs","Final","Isurus","All Knights","WWW","","dom","P"],
+    ["2019-10-08","Worlds 2019","Round 2","Isurus","Hong Kong Attitude","LWLL","","worlds","P"],
+    ["2020-04-25","LLA 2020 Opening Playoffs","Round 1","Isurus","INFINITY","LWWW","","dom","P"],
+    ["2020-04-26","LLA 2020 Opening Playoffs","Round 2","Isurus","Rainbow7","LWWW","","dom","P"],
+    ["2020-05-02","LLA 2020 Opening Playoffs","Final","Isurus","All Knights","WLLWL","","dom","P"],
+    ["2020-08-22","LLA 2020 Closing Playoffs","Round 2","Isurus","Rainbow7","LLWL","","dom","P"],
+    ["2022-03-19","LLA 2022 Opening Playoffs","Round 1","Rainbow7","Estral Esports","LLL","","dom","P"],
+    ["2022-04-02","LLA 2022 Opening Playoffs","Round 3","Rainbow7","Isurus","LLWWW","","dom","P"],
+    ["2022-04-03","LLA 2022 Opening Playoffs","Semifinal","Rainbow7","Estral Esports","LWLWL","","dom","P"]
+  ],
+  "unknown": [
+    ["2017-12-02","Rio de la Plata Cup 2017","Final","Kaos Latin Gamers","Isurus","3-2","","dom",""]
+  ]
+}

@@ -1,1 +1,32 @@
-{"player":"Ggoong","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2013-08-09","Champions 2013 Summer","Quarterfinal","NaJin White Shield","CJ Entus Frost","LLL","","dom","P"],["2013-08-22","NLB 2013 Summer","Third-Place Match","NaJin White Shield","Jin Air Green Wings Falcons","WWW","r","dom","S"],["2014-01-01","Champions 2014 Winter","Quarterfinal","NaJin White Shield","Xenics Storm","WLWW","","dom","P"],["2014-01-10","Champions 2014 Winter","Semifinal","NaJin White Shield","Samsung Ozone","LWLL","","dom","P"],["2014-01-15","Champions 2014 Winter","Third-Place Match","NaJin White Shield","KT Rolster Bullets","LLWL","","dom","P"],["2014-04-25","Champions 2014 Spring","Quarterfinal","NaJin White Shield","KT Rolster Bullets","LLWWW","","dom","P"],["2014-05-02","Champions 2014 Spring","Semifinal","NaJin White Shield","CJ Entus Blaze","WWLLW","","dom","P"],["2014-05-24","Champions 2014 Spring","Final","NaJin White Shield","Samsung Blue","LWLL","","dom","P"],["2014-07-16","Champions 2014 Summer","Quarterfinal","NaJin White Shield","KT Rolster Arrows","WWLLL","","dom","P"],["2014-08-04","NLB 2014 Summer","Semifinal","NaJin White Shield","NaJin Black Sword","LLL","","dom","S"],["2014-08-07","NLB 2014 Summer","Third-Place Match","NaJin White Shield","Jin Air Green Wings Stealths","LWLWW","","dom","S"],["2014-08-28","Season Korea Regional Finals 2014","Round 1","NaJin White Shield","KT Rolster Bullets","WWW","","dom","P"],["2014-08-29","Season Korea Regional Finals 2014","Round 2","NaJin White Shield","KT Rolster Arrows","WWW","","dom","P"],["2014-08-30","Season Korea Regional Finals 2014","Round 3","NaJin White Shield","SK Telecom T1 K","WWLW","","dom","P"],["2014-10-06","Worlds 2014","Quarterfinal","NaJin White Shield","Oh My God","LLL","","worlds","P"],["2015-09-02","Season Korea Regional Finals 2015","Round 1","NaJin e-mFire","Jin Air Green Wings","LLL","p","dom","P"],["2017-04-13","LSPL 2017 Spring Playoffs","Semifinal","DAN Gaming","Suning","LWLWL","","dom","S"],["2017-04-14","LSPL 2017 Spring Playoffs","Third-Place Match","DAN Gaming","Royal Club","WWLLW","","dom","S"],["2017-04-21","LPL 2017 Summer Promotion","Qualifying Round","DAN Gaming","Vici Gaming","WWLW","","dom","P"],["2018-12-18","Challengers Korea 2019 Spring Promotion","Qualifiers","VSG (Korean Team)","APK Prince","LLL","r","dom","S"],["2019-09-10","LCK 2020 Spring Promotion","Elimination Round","Team Dynamics","Hanwha Life Esports","LWLL","","dom","P"]],"unknown":[["2013-08-18","NLB 2013 Summer","Semifinal","NaJin White Shield","NaJin Black Sword","2-3","","dom","S"],["2018-04-15","Xinhua E-Sports Conference 2018","Final","Topsports Gaming","ThunderoBot Gaming","3-1","","dom",""]]}
+{
+  "player": "Ggoong",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2013-08-09","Champions 2013 Summer","Quarterfinal","NaJin White Shield","CJ Entus Frost","LLL","","dom","P"],
+    ["2013-08-22","NLB 2013 Summer","Third-Place Match","NaJin White Shield","Jin Air Green Wings Falcons","WWW","r","dom","S"],
+    ["2014-01-01","Champions 2014 Winter","Quarterfinal","NaJin White Shield","Xenics Storm","WLWW","","dom","P"],
+    ["2014-01-10","Champions 2014 Winter","Semifinal","NaJin White Shield","Samsung Ozone","LWLL","","dom","P"],
+    ["2014-01-15","Champions 2014 Winter","Third-Place Match","NaJin White Shield","KT Rolster Bullets","LLWL","","dom","P"],
+    ["2014-04-25","Champions 2014 Spring","Quarterfinal","NaJin White Shield","KT Rolster Bullets","LLWWW","","dom","P"],
+    ["2014-05-02","Champions 2014 Spring","Semifinal","NaJin White Shield","CJ Entus Blaze","WWLLW","","dom","P"],
+    ["2014-05-24","Champions 2014 Spring","Final","NaJin White Shield","Samsung Blue","LWLL","","dom","P"],
+    ["2014-07-16","Champions 2014 Summer","Quarterfinal","NaJin White Shield","KT Rolster Arrows","WWLLL","","dom","P"],
+    ["2014-08-04","NLB 2014 Summer","Semifinal","NaJin White Shield","NaJin Black Sword","LLL","","dom","S"],
+    ["2014-08-07","NLB 2014 Summer","Third-Place Match","NaJin White Shield","Jin Air Green Wings Stealths","LWLWW","","dom","S"],
+    ["2014-08-28","Season Korea Regional Finals 2014","Round 1","NaJin White Shield","KT Rolster Bullets","WWW","","dom","P"],
+    ["2014-08-29","Season Korea Regional Finals 2014","Round 2","NaJin White Shield","KT Rolster Arrows","WWW","","dom","P"],
+    ["2014-08-30","Season Korea Regional Finals 2014","Round 3","NaJin White Shield","SK Telecom T1 K","WWLW","","dom","P"],
+    ["2014-10-06","Worlds 2014","Quarterfinal","NaJin White Shield","Oh My God","LLL","","worlds","P"],
+    ["2015-09-02","Season Korea Regional Finals 2015","Round 1","NaJin e-mFire","Jin Air Green Wings","LLL","p","dom","P"],
+    ["2017-04-13","LSPL 2017 Spring Playoffs","Semifinal","DAN Gaming","Suning","LWLWL","","dom","S"],
+    ["2017-04-14","LSPL 2017 Spring Playoffs","Third-Place Match","DAN Gaming","Royal Club","WWLLW","","dom","S"],
+    ["2017-04-21","LPL 2017 Summer Promotion","Qualifying Round","DAN Gaming","Vici Gaming","WWLW","","dom","P"],
+    ["2018-12-18","Challengers Korea 2019 Spring Promotion","Qualifiers","VSG (Korean Team)","APK Prince","LLL","r","dom","S"],
+    ["2019-09-10","LCK 2020 Spring Promotion","Elimination Round","Team Dynamics","Hanwha Life Esports","LWLL","","dom","P"]
+  ],
+  "unknown": [
+    ["2013-08-18","NLB 2013 Summer","Semifinal","NaJin White Shield","NaJin Black Sword","2-3","","dom","S"],
+    ["2018-04-15","Xinhua E-Sports Conference 2018","Final","Topsports Gaming","ThunderoBot Gaming","3-1","","dom",""]
+  ]
+}

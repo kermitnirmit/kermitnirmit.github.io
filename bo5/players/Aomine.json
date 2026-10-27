@@ -1,1 +1,30 @@
-{"player":"Aomine","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2020-08-22","VCS 2020 Summer Playoffs","Round 1","Percent Esports","Team Secret (Vietnamese Team)","LLWWL","p","dom","P"],["2021-12-23","VCS 2021 Winter Playoffs","Semifinal","Burst The Sky Esports","GAM Esports","LLL","","dom","P"],["2021-12-25","VCS 2021 Winter Playoffs","Third-Place Match","Burst The Sky Esports","Luxury Esports","LLWWW","","dom","P"],["2022-03-09","Sea Games 31 Vietnamese Qualifier","Semifinal","Burst The Sky Esports","Saigon Buffalo","LLWL","","dom","S"],["2022-05-06","VCS 2022 Summer Promotion","Round 1","Burst The Sky Esports","Genius Esports","LWLWL","","dom","P"],["2022-05-07","VCS 2022 Summer Promotion","Elimination Round","Burst The Sky Esports","Team Flash.Vietnam","WWLW","","dom","P"],["2022-05-08","VCS 2022 Summer Promotion","Qualifying Round","Burst The Sky Esports","Genius Esports","LLL","","dom","P"],["2024-08-08","VCS 2024 Summer Playoffs","Round 2","Team Secret (Vietnamese Team)","GAM Esports","LLL","","dom","P"],["2024-08-10","VCS 2024 Summer Playoffs","Round 2","Team Secret (Vietnamese Team)","Team Whales","LWWLL","","dom","P"],["2025-03-23","VCS 2025 Spring","Round 4","Hyper Vortex Esports","Saigon Secret","WWLW","","dom","S"],["2025-03-30","VCS 2025 Spring","Final","Hyper Vortex Esports","Team Flash.Vietnam","WWLW","","dom","S"],["2025-06-20","VCS 2025 Summer","Round 3","Saigon Dino","Saigon Secret","WLWLW","","dom","S"],["2025-06-21","VCS 2025 Summer","Round 4","Saigon Dino","Team Flash.Vietnam","WWW","","dom","S"],["2025-06-22","VCS 2025 Summer","Final","Saigon Dino","MGN Vikings Academy","WWLW","","dom","S"],["2025-07-19","VCS 2025 Finals","Semifinal","Saigon Dino","Never Give Up (Vietnamese Team)","WWW","","dom","S"],["2025-07-20","VCS 2025 Finals","Final","Saigon Dino","SN CyberCore Esports","WWW","","dom","S"],["2026-02-08","RTV 2026 Spring Saigon","Final","Saigon Warriors","9Gaming","WLLWL","r","dom","S"],["2026-06-11","VCS 2026 Summer Playoffs","Round 1","Saigon Warriors","SN CyberCore Esports","WWW","","dom","S"],["2026-06-13","VCS 2026 Summer Playoffs","Round 2","Saigon Warriors","ZEN Esports (Vietnamese Team)","WWLW","","dom","S"],["2026-06-20","VCS 2026 Summer Playoffs","Final","Saigon Warriors","Saigon Dino","WWW","","dom","S"],["2026-09-25","VCS 2026 Finals Stage 2","Round 2","Saigon Warriors","MVK Esports Academy","LWWW","","dom","S"],["2026-10-11","VCS 2026 Finals Stage 2","Final","Saigon Warriors","MVK Esports Academy","LLL","","dom","S"]],"unknown":[]}
+{
+  "player": "Aomine",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2020-08-22","VCS 2020 Summer Playoffs","Round 1","Percent Esports","Team Secret (Vietnamese Team)","LLWWL","p","dom","P"],
+    ["2021-12-23","VCS 2021 Winter Playoffs","Semifinal","Burst The Sky Esports","GAM Esports","LLL","","dom","P"],
+    ["2021-12-25","VCS 2021 Winter Playoffs","Third-Place Match","Burst The Sky Esports","Luxury Esports","LLWWW","","dom","P"],
+    ["2022-03-09","Sea Games 31 Vietnamese Qualifier","Semifinal","Burst The Sky Esports","Saigon Buffalo","LLWL","","dom","S"],
+    ["2022-05-06","VCS 2022 Summer Promotion","Round 1","Burst The Sky Esports","Genius Esports","LWLWL","","dom","P"],
+    ["2022-05-07","VCS 2022 Summer Promotion","Elimination Round","Burst The Sky Esports","Team Flash.Vietnam","WWLW","","dom","P"],
+    ["2022-05-08","VCS 2022 Summer Promotion","Qualifying Round","Burst The Sky Esports","Genius Esports","LLL","","dom","P"],
+    ["2024-08-08","VCS 2024 Summer Playoffs","Round 2","Team Secret (Vietnamese Team)","GAM Esports","LLL","","dom","P"],
+    ["2024-08-10","VCS 2024 Summer Playoffs","Round 2","Team Secret (Vietnamese Team)","Team Whales","LWWLL","","dom","P"],
+    ["2025-03-23","VCS 2025 Spring","Round 4","Hyper Vortex Esports","Saigon Secret","WWLW","","dom","S"],
+    ["2025-03-30","VCS 2025 Spring","Final","Hyper Vortex Esports","Team Flash.Vietnam","WWLW","","dom","S"],
+    ["2025-06-20","VCS 2025 Summer","Round 3","Saigon Dino","Saigon Secret","WLWLW","","dom","S"],
+    ["2025-06-21","VCS 2025 Summer","Round 4","Saigon Dino","Team Flash.Vietnam","WWW","","dom","S"],
+    ["2025-06-22","VCS 2025 Summer","Final","Saigon Dino","MGN Vikings Academy","WWLW","","dom","S"],
+    ["2025-07-19","VCS 2025 Finals","Semifinal","Saigon Dino","Never Give Up (Vietnamese Team)","WWW","","dom","S"],
+    ["2025-07-20","VCS 2025 Finals","Final","Saigon Dino","SN CyberCore Esports","WWW","","dom","S"],
+    ["2026-02-08","RTV 2026 Spring Saigon","Final","Saigon Warriors","9Gaming","WLLWL","r","dom","S"],
+    ["2026-06-11","VCS 2026 Summer Playoffs","Round 1","Saigon Warriors","SN CyberCore Esports","WWW","","dom","S"],
+    ["2026-06-13","VCS 2026 Summer Playoffs","Round 2","Saigon Warriors","ZEN Esports (Vietnamese Team)","WWLW","","dom","S"],
+    ["2026-06-20","VCS 2026 Summer Playoffs","Final","Saigon Warriors","Saigon Dino","WWW","","dom","S"],
+    ["2026-09-25","VCS 2026 Finals Stage 2","Round 2","Saigon Warriors","MVK Esports Academy","LWWW","","dom","S"],
+    ["2026-10-11","VCS 2026 Finals Stage 2","Final","Saigon Warriors","MVK Esports Academy","LLL","","dom","S"]
+  ],
+  "unknown": []
+}

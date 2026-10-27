@@ -1,1 +1,32 @@
-{"player":"iBoy","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2017-08-25","LPL 2017 Summer Playoffs","Semifinal","EDward Gaming","Invictus Gaming","WLWLW","","dom","P"],["2017-09-01","LPL 2017 Summer Playoffs","Final","EDward Gaming","Royal Never Give Up","LLWWW","","dom","P"],["2018-01-07","Demacia Championship 2017 Season","Grand Finals","EDward Gaming","Snake Esports","LWWW","","dom","P"],["2018-04-22","LPL 2018 Spring Playoffs","Semifinal","EDward Gaming","Rogue Warriors","WWLW","","dom","P"],["2018-04-28","LPL 2018 Spring Playoffs","Final","EDward Gaming","Royal Never Give Up","WLLL","","dom","P"],["2018-09-08","LPL 2018 Summer Playoffs","Quarterfinal","EDward Gaming","JD Gaming","LLWL","","dom","P"],["2018-09-15","LPL 2018 Regional Finals","Round 1","EDward Gaming","JD Gaming","LWWLW","","dom","P"],["2018-09-16","LPL 2018 Regional Finals","Final","EDward Gaming","Rogue Warriors","LWWW","","dom","P"],["2018-10-06","Worlds 2018","Round 2","EDward Gaming","DetonatioN FocusMe","WWW","","worlds","P"],["2018-10-21","Worlds 2018","Quarterfinal","EDward Gaming","Fnatic","WLLL","","worlds","P"],["2019-04-05","LPL 2019 Spring Playoffs","Round 1","EDward Gaming","SinoDragon Gaming","LLL","","dom","P"],["2019-04-26","National Electronic Sports Tournament 2019","Qualifying Round","EDward Gaming","Snake Esports","WWW","r","dom","P"],["2019-08-22","LPL 2019 Summer Playoffs","Round 1","EDward Gaming","Suning","LWWW","","dom","P"],["2019-08-24","LPL 2019 Summer Playoffs","Quarterfinal","EDward Gaming","Bilibili Gaming","LWLWL","","dom","P"],["2019-12-26","Demacia Cup 2019","Quarterfinal","Vici Gaming","Top Esports","LWLWW","","dom","P"],["2019-12-28","Demacia Cup 2019","Semifinal","Vici Gaming","EDward Gaming","LLWWL","","dom","P"],["2019-12-29","Demacia Cup 2019","Third-Place Match","Vici Gaming","JD Gaming","LLL","","dom","P"],["2020-12-24","Demacia Cup 2020","Quarterfinal","Vici Gaming","Suning","WWW","","dom","P"],["2020-12-26","Demacia Cup 2020","Semifinal","Vici Gaming","Top Esports","LLWL","","dom","P"],["2021-04-01","LPL 2021 Spring Playoffs","Round 1","Rare Atom","Invictus Gaming","WLWLW","","dom","P"],["2021-04-03","LPL 2021 Spring Playoffs","Round 2","Rare Atom","FunPlus Phoenix","LLWL","","dom","P"],["2021-08-20","LPL 2021 Summer Playoffs","Round 3","Rare Atom","Team WE","LLWWL","","dom","P"],["2021-09-04","LPL 2021 Regional Finals","Round 1","Rare Atom","LNG Esports","LLL","","dom","P"],["2022-03-26","LPL 2022 Spring Playoffs","Round 1","Rare Atom","Bilibili Gaming","WLLL","","dom","P"]],"unknown":[]}
+{
+  "player": "iBoy",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2017-08-25","LPL 2017 Summer Playoffs","Semifinal","EDward Gaming","Invictus Gaming","WLWLW","","dom","P"],
+    ["2017-09-01","LPL 2017 Summer Playoffs","Final","EDward Gaming","Royal Never Give Up","LLWWW","","dom","P"],
+    ["2018-01-07","Demacia Championship 2017 Season","Grand Finals","EDward Gaming","Snake Esports","LWWW","","dom","P"],
+    ["2018-04-22","LPL 2018 Spring Playoffs","Semifinal","EDward Gaming","Rogue Warriors","WWLW","","dom","P"],
+    ["2018-04-28","LPL 2018 Spring Playoffs","Final","EDward Gaming","Royal Never Give Up","WLLL","","dom","P"],
+    ["2018-09-08","LPL 2018 Summer Playoffs","Quarterfinal","EDward Gaming","JD Gaming","LLWL","","dom","P"],
+    ["2018-09-15","LPL 2018 Regional Finals","Round 1","EDward Gaming","JD Gaming","LWWLW","","dom","P"],
+    ["2018-09-16","LPL 2018 Regional Finals","Final","EDward Gaming","Rogue Warriors","LWWW","","dom","P"],
+    ["2018-10-06","Worlds 2018","Round 2","EDward Gaming","DetonatioN FocusMe","WWW","","worlds","P"],
+    ["2018-10-21","Worlds 2018","Quarterfinal","EDward Gaming","Fnatic","WLLL","","worlds","P"],
+    ["2019-04-05","LPL 2019 Spring Playoffs","Round 1","EDward Gaming","SinoDragon Gaming","LLL","","dom","P"],
+    ["2019-04-26","National Electronic Sports Tournament 2019","Qualifying Round","EDward Gaming","Snake Esports","WWW","r","dom","P"],
+    ["2019-08-22","LPL 2019 Summer Playoffs","Round 1","EDward Gaming","Suning","LWWW","","dom","P"],
+    ["2019-08-24","LPL 2019 Summer Playoffs","Quarterfinal","EDward Gaming","Bilibili Gaming","LWLWL","","dom","P"],
+    ["2019-12-26","Demacia Cup 2019","Quarterfinal","Vici Gaming","Top Esports","LWLWW","","dom","P"],
+    ["2019-12-28","Demacia Cup 2019","Semifinal","Vici Gaming","EDward Gaming","LLWWL","","dom","P"],
+    ["2019-12-29","Demacia Cup 2019","Third-Place Match","Vici Gaming","JD Gaming","LLL","","dom","P"],
+    ["2020-12-24","Demacia Cup 2020","Quarterfinal","Vici Gaming","Suning","WWW","","dom","P"],
+    ["2020-12-26","Demacia Cup 2020","Semifinal","Vici Gaming","Top Esports","LLWL","","dom","P"],
+    ["2021-04-01","LPL 2021 Spring Playoffs","Round 1","Rare Atom","Invictus Gaming","WLWLW","","dom","P"],
+    ["2021-04-03","LPL 2021 Spring Playoffs","Round 2","Rare Atom","FunPlus Phoenix","LLWL","","dom","P"],
+    ["2021-08-20","LPL 2021 Summer Playoffs","Round 3","Rare Atom","Team WE","LLWWL","","dom","P"],
+    ["2021-09-04","LPL 2021 Regional Finals","Round 1","Rare Atom","LNG Esports","LLL","","dom","P"],
+    ["2022-03-26","LPL 2022 Spring Playoffs","Round 1","Rare Atom","Bilibili Gaming","WLLL","","dom","P"]
+  ],
+  "unknown": []
+}

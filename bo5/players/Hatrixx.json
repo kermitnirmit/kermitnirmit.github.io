@@ -1,1 +1,32 @@
-{"player":"Hatrixx","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2016-03-20","TCL 2016 Winter Playoffs","Quarterfinal","HWA Gaming","Beşiktaş.Oyun Hizmetleri","LLWL","","dom","P"],["2016-03-24","TCL 2016 Winter Playoffs","5th Place","HWA Gaming","Team Turquality","WWW","","dom","P"],["2017-03-09","NA Challenger Series 2017 Spring Playoffs","Semifinal","Tempo Storm","Gold Coin United","LLL","","dom","S"],["2017-12-16","LVP SuperLiga Orange Season 13 Playoffs","Semifinal","Movistar Riders","Giants Only The Brave","LLL","r","dom",""],["2018-03-20","LVP SuperLiga Orange 2018 Spring Playoffs","Semifinal","Movistar Riders","Giants Gaming Spain","LWWW","p","dom","S"],["2018-03-25","LVP SuperLiga Orange 2018 Spring Playoffs","Final","Movistar Riders","MAD Lions E.C.","LLL","p","dom","S"],["2018-08-28","LVP SuperLiga Orange 2018 Summer Playoffs","Semifinal","Movistar Riders","MAD Lions E.C.","LLWWL","","dom","S"],["2019-03-22","LVP SuperLiga Orange 2019 Spring Playoffs","Quarterfinal","Splyce Vipers","G2 Heretics","LWWW","","dom","S"],["2019-03-25","LVP SuperLiga Orange 2019 Spring Playoffs","Semifinal","Splyce Vipers","MAD Lions E.C.","WWW","","dom","S"],["2019-03-31","LVP SuperLiga Orange 2019 Spring Playoffs","Final","Splyce Vipers","Origen BCN","WLWLW","","dom","S"],["2019-05-04","Telialigaen 2019 Spring Playoffs","Semifinal","Celestial Gaming","Trikken","WWW","r","dom",""],["2021-03-21","NLC 2021 Spring Playoffs","Final","BT Excel","Fnatic Rising","WWW","","dom","S"],["2021-05-02","European Masters 2021 Spring Main Event","Final","BT Excel","Karmine Corp","WLLL","","dom","S"],["2022-03-14","LVP SuperLiga 2022 Spring Playoffs","Round 1","KOI (Spanish Team)","Movistar Riders","WLWW","","dom","S"],["2022-03-21","LVP SuperLiga 2022 Spring Playoffs","Round 2","KOI (Spanish Team)","BISONS ECLUB","LLL","","dom","S"],["2022-09-12","LVP SuperLiga 2023 Promotion","Round 1","UCAM Tokiers","Case Esports","WLWW","","dom","S"],["2022-09-20","LVP SuperLiga 2023 Promotion","Round 2","UCAM Tokiers","Guasones","LWWW","","dom","S"],["2022-11-14","Iberian Cup 2022","Semifinal","UCAM Tokiers","KOI (Spanish Team)","WWW","","dom","S"],["2022-11-19","Iberian Cup 2022","Final","UCAM Tokiers","Team Heretics","LWWW","","dom","S"],["2023-09-11","LVP SuperLiga 2024 Promotion","Round 1","UCAM Tokiers","Wizards","WWLW","","dom","S"],["2023-09-19","LVP SuperLiga 2024 Promotion","Round 2","UCAM Tokiers","Case Esports","WWLLL","","dom","S"],["2023-09-22","LVP SuperLiga 2024 Promotion","Round 2","UCAM Tokiers","Wizards","WWLLW","","dom","S"]],"unknown":[["2019-05-25","Telialigaen 2019 Spring Playoffs","Final","Celestial Gaming","Nordavind","3-2","","dom",""]]}
+{
+  "player": "Hatrixx",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2016-03-20","TCL 2016 Winter Playoffs","Quarterfinal","HWA Gaming","Beşiktaş.Oyun Hizmetleri","LLWL","","dom","P"],
+    ["2016-03-24","TCL 2016 Winter Playoffs","5th Place","HWA Gaming","Team Turquality","WWW","","dom","P"],
+    ["2017-03-09","NA Challenger Series 2017 Spring Playoffs","Semifinal","Tempo Storm","Gold Coin United","LLL","","dom","S"],
+    ["2017-12-16","LVP SuperLiga Orange Season 13 Playoffs","Semifinal","Movistar Riders","Giants Only The Brave","LLL","r","dom",""],
+    ["2018-03-20","LVP SuperLiga Orange 2018 Spring Playoffs","Semifinal","Movistar Riders","Giants Gaming Spain","LWWW","p","dom","S"],
+    ["2018-03-25","LVP SuperLiga Orange 2018 Spring Playoffs","Final","Movistar Riders","MAD Lions E.C.","LLL","p","dom","S"],
+    ["2018-08-28","LVP SuperLiga Orange 2018 Summer Playoffs","Semifinal","Movistar Riders","MAD Lions E.C.","LLWWL","","dom","S"],
+    ["2019-03-22","LVP SuperLiga Orange 2019 Spring Playoffs","Quarterfinal","Splyce Vipers","G2 Heretics","LWWW","","dom","S"],
+    ["2019-03-25","LVP SuperLiga Orange 2019 Spring Playoffs","Semifinal","Splyce Vipers","MAD Lions E.C.","WWW","","dom","S"],
+    ["2019-03-31","LVP SuperLiga Orange 2019 Spring Playoffs","Final","Splyce Vipers","Origen BCN","WLWLW","","dom","S"],
+    ["2019-05-04","Telialigaen 2019 Spring Playoffs","Semifinal","Celestial Gaming","Trikken","WWW","r","dom",""],
+    ["2021-03-21","NLC 2021 Spring Playoffs","Final","BT Excel","Fnatic Rising","WWW","","dom","S"],
+    ["2021-05-02","European Masters 2021 Spring Main Event","Final","BT Excel","Karmine Corp","WLLL","","dom","S"],
+    ["2022-03-14","LVP SuperLiga 2022 Spring Playoffs","Round 1","KOI (Spanish Team)","Movistar Riders","WLWW","","dom","S"],
+    ["2022-03-21","LVP SuperLiga 2022 Spring Playoffs","Round 2","KOI (Spanish Team)","BISONS ECLUB","LLL","","dom","S"],
+    ["2022-09-12","LVP SuperLiga 2023 Promotion","Round 1","UCAM Tokiers","Case Esports","WLWW","","dom","S"],
+    ["2022-09-20","LVP SuperLiga 2023 Promotion","Round 2","UCAM Tokiers","Guasones","LWWW","","dom","S"],
+    ["2022-11-14","Iberian Cup 2022","Semifinal","UCAM Tokiers","KOI (Spanish Team)","WWW","","dom","S"],
+    ["2022-11-19","Iberian Cup 2022","Final","UCAM Tokiers","Team Heretics","LWWW","","dom","S"],
+    ["2023-09-11","LVP SuperLiga 2024 Promotion","Round 1","UCAM Tokiers","Wizards","WWLW","","dom","S"],
+    ["2023-09-19","LVP SuperLiga 2024 Promotion","Round 2","UCAM Tokiers","Case Esports","WWLLL","","dom","S"],
+    ["2023-09-22","LVP SuperLiga 2024 Promotion","Round 2","UCAM Tokiers","Wizards","WWLLW","","dom","S"]
+  ],
+  "unknown": [
+    ["2019-05-25","Telialigaen 2019 Spring Playoffs","Final","Celestial Gaming","Nordavind","3-2","","dom",""]
+  ]
+}

@@ -1,1 +1,31 @@
-{"player":"Bala (Áron Balogh)","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2024-07-10","Esports Balkan League 2024 Summer Playoffs","Round 1","Cyber Wolves","BeFive","LLL","","dom","S"],["2025-02-13","Nexus Adria Open 2025 Winter","Semifinal","4goatsbadsupp","Harmony","WLLWL","r","dom","S"],["2025-04-16","Baron Kupa 2025 Season II","Round 3","Delta Fire","children of sudan","WWW","r","dom","S"],["2025-04-17","Baron Kupa 2025 Season II","Semifinal","Delta Fire","Halálmegatron","WWW","r","dom","S"],["2025-04-26","Baron Kupa 2025 Season II","Final","Delta Fire","Lenovo Legion Honvéd","LLL","r","dom","S"],["2025-07-23","Baron Kupa 2025 Season III","Semifinal","Lenovo Legion Honvéd","Spirit Esports","WLWW","r","dom","S"],["2025-08-02","Baron Kupa 2025 Season III","Final","Lenovo Legion Honvéd","Spirit Esports","WWW","r","dom","S"],["2025-08-23","Esports Balkan League 2025 Summer Playoffs","Round 4","Lenovo Legion Honvéd","Crvena zvezda Esports","LLL","","dom","S"],["2025-09-02","Esports Balkan League 2025 Season Finals","Semifinal","Lenovo Legion Honvéd","Crvena zvezda Esports","LLL","","dom","S"],["2025-09-04","Esports Balkan League 2025 Season Finals","Third-Place Match","Lenovo Legion Honvéd","SPIKE Syndicate","LLL","","dom","S"],["2025-09-10","Esports Balkan League 2026 Promotion","Round 1","Lenovo Legion Honvéd","The Secret Club","LLWWL","","dom","S"],["2026-03-05","Esports Balkan League 2026 Winter Playoffs","Round 4","Lenovo Legion Honvéd","Lupus Esports","LLL","","dom","S"],["2026-04-19","Baron Kupa 2026 Season IV","Semifinal","Lenovo Legion Honvéd","Boozynoozi","WWW","r","dom","S"],["2026-04-26","Baron Kupa 2026 Season IV","Final","Lenovo Legion Honvéd","Nyerni jöttünk","WLWW","r","dom","S"],["2026-07-25","Baron Kupa 2026 Season V","Semifinal","Lenovo Legion Honvéd","Holnap Kitalálom","WWW","r","dom","S"],["2026-08-02","Baron Kupa 2026 Season V","Final","Lenovo Legion Honvéd","GENERAL SCIMMIA","WWW","r","dom","S"],["2026-08-25","Esports Balkan League 2026 Summer Playoffs","Semifinal","Lenovo Legion Honvéd","Magaza Esports","WLWW","","dom","S"],["2026-08-27","Esports Balkan League 2026 Summer Playoffs","Final","Lenovo Legion Honvéd","The Secret Club","LLL","","dom","S"],["2026-09-08","Esports Balkan League 2026 Season Finals","Semifinal","Lenovo Legion Honvéd","Magaza Esports","LWLL","","dom","S"],["2026-09-09","Esports Balkan League 2026 Season Finals","Third-Place Match","Lenovo Legion Honvéd","Only The Family","WLWLL","","dom","S"]],"unknown":[["2023-04-05","Magyar Nemzeti E-sport Bajnokság Season 5 Minor Cup 1","Round 4","Team Plague","Békéscsabai Esport Egyesület","2-3","","dom","S"],["2023-08-12","Magyar Nemzeti E-sport Bajnokság Season 5 Minor Cup 3","Round 4","Afterglow Esports","Nem Broken Az ADC xD","1-3","","dom","S"]]}
+{
+  "player": "Bala (Áron Balogh)",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2024-07-10","Esports Balkan League 2024 Summer Playoffs","Round 1","Cyber Wolves","BeFive","LLL","","dom","S"],
+    ["2025-02-13","Nexus Adria Open 2025 Winter","Semifinal","4goatsbadsupp","Harmony","WLLWL","r","dom","S"],
+    ["2025-04-16","Baron Kupa 2025 Season II","Round 3","Delta Fire","children of sudan","WWW","r","dom","S"],
+    ["2025-04-17","Baron Kupa 2025 Season II","Semifinal","Delta Fire","Halálmegatron","WWW","r","dom","S"],
+    ["2025-04-26","Baron Kupa 2025 Season II","Final","Delta Fire","Lenovo Legion Honvéd","LLL","r","dom","S"],
+    ["2025-07-23","Baron Kupa 2025 Season III","Semifinal","Lenovo Legion Honvéd","Spirit Esports","WLWW","r","dom","S"],
+    ["2025-08-02","Baron Kupa 2025 Season III","Final","Lenovo Legion Honvéd","Spirit Esports","WWW","r","dom","S"],
+    ["2025-08-23","Esports Balkan League 2025 Summer Playoffs","Round 4","Lenovo Legion Honvéd","Crvena zvezda Esports","LLL","","dom","S"],
+    ["2025-09-02","Esports Balkan League 2025 Season Finals","Semifinal","Lenovo Legion Honvéd","Crvena zvezda Esports","LLL","","dom","S"],
+    ["2025-09-04","Esports Balkan League 2025 Season Finals","Third-Place Match","Lenovo Legion Honvéd","SPIKE Syndicate","LLL","","dom","S"],
+    ["2025-09-10","Esports Balkan League 2026 Promotion","Round 1","Lenovo Legion Honvéd","The Secret Club","LLWWL","","dom","S"],
+    ["2026-03-05","Esports Balkan League 2026 Winter Playoffs","Round 4","Lenovo Legion Honvéd","Lupus Esports","LLL","","dom","S"],
+    ["2026-04-19","Baron Kupa 2026 Season IV","Semifinal","Lenovo Legion Honvéd","Boozynoozi","WWW","r","dom","S"],
+    ["2026-04-26","Baron Kupa 2026 Season IV","Final","Lenovo Legion Honvéd","Nyerni jöttünk","WLWW","r","dom","S"],
+    ["2026-07-25","Baron Kupa 2026 Season V","Semifinal","Lenovo Legion Honvéd","Holnap Kitalálom","WWW","r","dom","S"],
+    ["2026-08-02","Baron Kupa 2026 Season V","Final","Lenovo Legion Honvéd","GENERAL SCIMMIA","WWW","r","dom","S"],
+    ["2026-08-25","Esports Balkan League 2026 Summer Playoffs","Semifinal","Lenovo Legion Honvéd","Magaza Esports","WLWW","","dom","S"],
+    ["2026-08-27","Esports Balkan League 2026 Summer Playoffs","Final","Lenovo Legion Honvéd","The Secret Club","LLL","","dom","S"],
+    ["2026-09-08","Esports Balkan League 2026 Season Finals","Semifinal","Lenovo Legion Honvéd","Magaza Esports","LWLL","","dom","S"],
+    ["2026-09-09","Esports Balkan League 2026 Season Finals","Third-Place Match","Lenovo Legion Honvéd","Only The Family","WLWLL","","dom","S"]
+  ],
+  "unknown": [
+    ["2023-04-05","Magyar Nemzeti E-sport Bajnokság Season 5 Minor Cup 1","Round 4","Team Plague","Békéscsabai Esport Egyesület","2-3","","dom","S"],
+    ["2023-08-12","Magyar Nemzeti E-sport Bajnokság Season 5 Minor Cup 3","Round 4","Afterglow Esports","Nem Broken Az ADC xD","1-3","","dom","S"]
+  ]
+}

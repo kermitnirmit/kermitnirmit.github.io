@@ -1,1 +1,36 @@
-{"player":"San (Eslam Ashraf)","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2020-08-21","Intel Arabian Cup 2020 Egypt Split 2","Quarterfinal","Anubis Gaming","Ironic Q","WWW","r","dom","P"],["2020-12-11","Intel Arabian Cup 2020","Quarterfinal","Anubis Gaming","OverMinds","WLWW","r","dom","S"],["2020-12-18","Intel Arabian Cup 2020","Semifinal","Anubis Gaming","Fox Gaming","LLWWW","r","dom","S"],["2020-12-19","Intel Arabian Cup 2020","Final","Anubis Gaming","EGZ Esports","WLWW","r","dom","S"],["2021-03-16","Red Bull ProSeed 2021","Final","RA'AD","Anubis Gaming","WWW","r","dom","S"],["2021-05-17","Intel Arabian Cup Champions League 2021 Season 2 Relegation","Round 1","RA'AD","Siren Esports","WWW","r","dom","P"],["2021-05-20","Intel Arabian Cup Champions League 2021 Season 2 Relegation","Round 2","RA'AD","3BL Esports","WWW","r","dom","P"],["2021-07-29","Intel Arabian Cup Champions League 2021 Season 2","Semifinal","RA'AD","KnockOut Esports","LWLL","r","dom","P"],["2021-07-31","Intel Arabian Cup Champions League 2021 Season 2","Third-Place Match","RA'AD","Sahara Warriors","WLWW","r","dom","P"],["2021-09-25","Intel Arabian Cup Champions League 2021 Season 3","Semifinal","RA'AD","Anubis Gaming","LWWLW","r","dom","P"],["2021-09-26","Intel Arabian Cup Champions League 2021 Season 3","Final","RA'AD","Geekay Esports","WLLL","r","dom","P"],["2021-10-09","Intel Arabian Cup Champions League 2021 Grand Finals","Round 1","RA'AD","E9Sports","WWW","r","dom","P"],["2021-10-11","Intel Arabian Cup Champions League 2021 Grand Finals","Round 2","RA'AD","Anubis Gaming","LWLL","r","dom","P"],["2021-10-14","Intel Arabian Cup Champions League 2021 Grand Finals","Round 2","RA'AD","Fox Gaming","WWW","r","dom","P"],["2021-10-15","Intel Arabian Cup Champions League 2021 Grand Finals","Round 3","RA'AD","The Black Lotus","LWLWL","r","dom","P"],["2022-05-19","Rising Stars Season 2","Grand Final","RA'AD","Anubis Gaming","WLWW","r","dom","S"],["2022-07-16","Intel Arabian Cup Prestige Division 2022 Season 1","Semifinal","RA'AD","Geekay Esports","WWLW","r","dom","P"],["2022-07-24","Intel Arabian Cup Prestige Division 2022 Season 1","Final","RA'AD","Anubis Gaming","WWW","r","dom","P"],["2022-09-16","Intel Arabian Cup Prestige Division 2022 Season 2","Quarterfinal","RA'AD","One More Esports","WWW","r","dom","P"],["2022-09-24","Intel Arabian Cup Prestige Division 2022 Season 2","Semifinal","RA'AD","Geekay Esports","WLWLL","r","dom","P"],["2022-09-25","Intel Arabian Cup Prestige Division 2022 Season 2","Third-Place Match","RA'AD","VSlash GnG","LLWWL","r","dom","P"],["2022-10-07","Intel Arabian Cup Prestige Division 2022 Last Chance Qualifier","Round 4","RA'AD","VSlash GnG","WWW","r","dom","P"],["2022-10-15","Intel Arabian Cup Prestige Division 2022 Grand Finals","Semifinal","RA'AD","Anubis Gaming","LLWWW","r","dom","S"],["2022-12-03","Intel Arabian Cup Prestige Division 2022 Grand Finals","Grand Finals","RA'AD","Geekay Esports","WLLL","","dom","S"]],"unknown":[["2019-12-07","The Nexus Arabia 2019","Grand Final","NASR eSports","EGZ Esports","2-3","WLWL","dom","P"],["2020-09-07","Intel Arabian Cup 2020 Egypt Split 2","Grand Finals","Anubis Gaming","Ironic Q","3-1","","dom","P"],["2022-12-23","Red Bull ProSeed 2022","Final","RA'AD","3BL Esports","3-1","","dom","S"]]}
+{
+  "player": "San (Eslam Ashraf)",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2020-08-21","Intel Arabian Cup 2020 Egypt Split 2","Quarterfinal","Anubis Gaming","Ironic Q","WWW","r","dom","P"],
+    ["2020-12-11","Intel Arabian Cup 2020","Quarterfinal","Anubis Gaming","OverMinds","WLWW","r","dom","S"],
+    ["2020-12-18","Intel Arabian Cup 2020","Semifinal","Anubis Gaming","Fox Gaming","LLWWW","r","dom","S"],
+    ["2020-12-19","Intel Arabian Cup 2020","Final","Anubis Gaming","EGZ Esports","WLWW","r","dom","S"],
+    ["2021-03-16","Red Bull ProSeed 2021","Final","RA'AD","Anubis Gaming","WWW","r","dom","S"],
+    ["2021-05-17","Intel Arabian Cup Champions League 2021 Season 2 Relegation","Round 1","RA'AD","Siren Esports","WWW","r","dom","P"],
+    ["2021-05-20","Intel Arabian Cup Champions League 2021 Season 2 Relegation","Round 2","RA'AD","3BL Esports","WWW","r","dom","P"],
+    ["2021-07-29","Intel Arabian Cup Champions League 2021 Season 2","Semifinal","RA'AD","KnockOut Esports","LWLL","r","dom","P"],
+    ["2021-07-31","Intel Arabian Cup Champions League 2021 Season 2","Third-Place Match","RA'AD","Sahara Warriors","WLWW","r","dom","P"],
+    ["2021-09-25","Intel Arabian Cup Champions League 2021 Season 3","Semifinal","RA'AD","Anubis Gaming","LWWLW","r","dom","P"],
+    ["2021-09-26","Intel Arabian Cup Champions League 2021 Season 3","Final","RA'AD","Geekay Esports","WLLL","r","dom","P"],
+    ["2021-10-09","Intel Arabian Cup Champions League 2021 Grand Finals","Round 1","RA'AD","E9Sports","WWW","r","dom","P"],
+    ["2021-10-11","Intel Arabian Cup Champions League 2021 Grand Finals","Round 2","RA'AD","Anubis Gaming","LWLL","r","dom","P"],
+    ["2021-10-14","Intel Arabian Cup Champions League 2021 Grand Finals","Round 2","RA'AD","Fox Gaming","WWW","r","dom","P"],
+    ["2021-10-15","Intel Arabian Cup Champions League 2021 Grand Finals","Round 3","RA'AD","The Black Lotus","LWLWL","r","dom","P"],
+    ["2022-05-19","Rising Stars Season 2","Grand Final","RA'AD","Anubis Gaming","WLWW","r","dom","S"],
+    ["2022-07-16","Intel Arabian Cup Prestige Division 2022 Season 1","Semifinal","RA'AD","Geekay Esports","WWLW","r","dom","P"],
+    ["2022-07-24","Intel Arabian Cup Prestige Division 2022 Season 1","Final","RA'AD","Anubis Gaming","WWW","r","dom","P"],
+    ["2022-09-16","Intel Arabian Cup Prestige Division 2022 Season 2","Quarterfinal","RA'AD","One More Esports","WWW","r","dom","P"],
+    ["2022-09-24","Intel Arabian Cup Prestige Division 2022 Season 2","Semifinal","RA'AD","Geekay Esports","WLWLL","r","dom","P"],
+    ["2022-09-25","Intel Arabian Cup Prestige Division 2022 Season 2","Third-Place Match","RA'AD","VSlash GnG","LLWWL","r","dom","P"],
+    ["2022-10-07","Intel Arabian Cup Prestige Division 2022 Last Chance Qualifier","Round 4","RA'AD","VSlash GnG","WWW","r","dom","P"],
+    ["2022-10-15","Intel Arabian Cup Prestige Division 2022 Grand Finals","Semifinal","RA'AD","Anubis Gaming","LLWWW","r","dom","S"],
+    ["2022-12-03","Intel Arabian Cup Prestige Division 2022 Grand Finals","Grand Finals","RA'AD","Geekay Esports","WLLL","","dom","S"]
+  ],
+  "unknown": [
+    ["2019-12-07","The Nexus Arabia 2019","Grand Final","NASR eSports","EGZ Esports","2-3","WLWL","dom","P"],
+    ["2020-09-07","Intel Arabian Cup 2020 Egypt Split 2","Grand Finals","Anubis Gaming","Ironic Q","3-1","","dom","P"],
+    ["2022-12-23","Red Bull ProSeed 2022","Final","RA'AD","3BL Esports","3-1","","dom","S"]
+  ]
+}

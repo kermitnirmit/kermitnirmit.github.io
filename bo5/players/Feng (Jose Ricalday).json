@@ -1,1 +1,30 @@
-{"player":"Feng (Jose Ricalday)","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2019-05-01","División de Honor 2019 Closing Promotion","Final","LanTV","Nawal Gaming","WWW","r","dom","S"],["2019-08-08","División de Honor 2019 Closing Playoffs","Semifinal","Estral Esports","MAD Lions E.C. Mexico","LLWWW","","dom","S"],["2019-08-25","División de Honor 2019 Closing Playoffs","Final","Estral Esports","Arctic Gaming Mexico","LWWW","","dom","S"],["2020-04-02","División de Honor 2020 Opening Playoffs","Semifinal","Arctic Gaming Mexico","Team Aze","LLL","","dom","S"],["2020-04-08","División de Honor 2020 Opening Playoffs","Third-Place Match","Arctic Gaming Mexico","Cream Esports Mexico","WLWLL","p","dom","S"],["2021-04-07","Golden League 2021 Opening Playoffs","Round 3","Zeu5 Bogota","Once Caldas Esports","WWLW","","dom","S"],["2021-04-20","Golden League 2021 Opening Playoffs","Final","Zeu5 Bogota","Wygers Colombia","LWWW","","dom","S"],["2021-07-20","Golden League 2021 Closing Playoffs","Round 3","Zeu5 Bogota","TFK","WWW","","dom","S"],["2021-07-27","Golden League 2021 Closing Playoffs","Final","Zeu5 Bogota","Braves Rising","WWW","","dom","S"],["2022-03-26","Volcano League 2022 Opening Playoffs","Semifinal","Pirate Dream","Skull Cracker","WLWLW","","dom","S"],["2022-03-31","Volcano League 2022 Opening Playoffs","Final","Pirate Dream","Descuydado Esports","LLL","","dom","S"],["2022-07-14","Volcano League 2022 Closing Playoffs","Semifinal","Pirate Dream","Descuydado Esports","LLL","","dom","S"],["2022-07-16","Volcano League 2022 Closing Playoffs","Semifinal","Pirate Dream","Waia Snikt","WLWW","","dom","S"],["2022-07-21","Volcano League 2022 Closing Playoffs","Final","Pirate Dream","Descuydado Esports","LLWWL","","dom","S"],["2022-07-28","Volcano League 2022 Super Final","Grand Final","Pirate Dream","Descuydado Esports","WLLL","","dom","S"],["2023-03-05","División de Honor 2023 Opening Playoffs","Round 1","PÊEK Gaming","19esports","LWLL","","dom","S"],["2023-03-12","División de Honor 2023 Opening Playoffs","Round 1","PÊEK Gaming","Tomorrow Esports","LLWWW","","dom","S"],["2023-03-19","División de Honor 2023 Opening Playoffs","Round 2","PÊEK Gaming","Atheris Esports","WWW","","dom","S"],["2023-03-24","División de Honor 2023 Opening Playoffs","Round 3","PÊEK Gaming","19esports","LWLWW","","dom","S"],["2023-03-31","División de Honor 2023 Opening Playoffs","Grand Final","PÊEK Gaming","Zylant Esports","LWWLW","","dom","S"],["2024-10-13","Mystic League 2024 Season","Semifinal","Space Rabbit e-Sports","3v Team","WLLWW","r","dom","S"],["2024-10-20","Mystic League 2024 Season","Final","Space Rabbit e-Sports","Dark Project","LLL","r","dom","S"]],"unknown":[]}
+{
+  "player": "Feng (Jose Ricalday)",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2019-05-01","División de Honor 2019 Closing Promotion","Final","LanTV","Nawal Gaming","WWW","r","dom","S"],
+    ["2019-08-08","División de Honor 2019 Closing Playoffs","Semifinal","Estral Esports","MAD Lions E.C. Mexico","LLWWW","","dom","S"],
+    ["2019-08-25","División de Honor 2019 Closing Playoffs","Final","Estral Esports","Arctic Gaming Mexico","LWWW","","dom","S"],
+    ["2020-04-02","División de Honor 2020 Opening Playoffs","Semifinal","Arctic Gaming Mexico","Team Aze","LLL","","dom","S"],
+    ["2020-04-08","División de Honor 2020 Opening Playoffs","Third-Place Match","Arctic Gaming Mexico","Cream Esports Mexico","WLWLL","p","dom","S"],
+    ["2021-04-07","Golden League 2021 Opening Playoffs","Round 3","Zeu5 Bogota","Once Caldas Esports","WWLW","","dom","S"],
+    ["2021-04-20","Golden League 2021 Opening Playoffs","Final","Zeu5 Bogota","Wygers Colombia","LWWW","","dom","S"],
+    ["2021-07-20","Golden League 2021 Closing Playoffs","Round 3","Zeu5 Bogota","TFK","WWW","","dom","S"],
+    ["2021-07-27","Golden League 2021 Closing Playoffs","Final","Zeu5 Bogota","Braves Rising","WWW","","dom","S"],
+    ["2022-03-26","Volcano League 2022 Opening Playoffs","Semifinal","Pirate Dream","Skull Cracker","WLWLW","","dom","S"],
+    ["2022-03-31","Volcano League 2022 Opening Playoffs","Final","Pirate Dream","Descuydado Esports","LLL","","dom","S"],
+    ["2022-07-14","Volcano League 2022 Closing Playoffs","Semifinal","Pirate Dream","Descuydado Esports","LLL","","dom","S"],
+    ["2022-07-16","Volcano League 2022 Closing Playoffs","Semifinal","Pirate Dream","Waia Snikt","WLWW","","dom","S"],
+    ["2022-07-21","Volcano League 2022 Closing Playoffs","Final","Pirate Dream","Descuydado Esports","LLWWL","","dom","S"],
+    ["2022-07-28","Volcano League 2022 Super Final","Grand Final","Pirate Dream","Descuydado Esports","WLLL","","dom","S"],
+    ["2023-03-05","División de Honor 2023 Opening Playoffs","Round 1","PÊEK Gaming","19esports","LWLL","","dom","S"],
+    ["2023-03-12","División de Honor 2023 Opening Playoffs","Round 1","PÊEK Gaming","Tomorrow Esports","LLWWW","","dom","S"],
+    ["2023-03-19","División de Honor 2023 Opening Playoffs","Round 2","PÊEK Gaming","Atheris Esports","WWW","","dom","S"],
+    ["2023-03-24","División de Honor 2023 Opening Playoffs","Round 3","PÊEK Gaming","19esports","LWLWW","","dom","S"],
+    ["2023-03-31","División de Honor 2023 Opening Playoffs","Grand Final","PÊEK Gaming","Zylant Esports","LWWLW","","dom","S"],
+    ["2024-10-13","Mystic League 2024 Season","Semifinal","Space Rabbit e-Sports","3v Team","WLLWW","r","dom","S"],
+    ["2024-10-20","Mystic League 2024 Season","Final","Space Rabbit e-Sports","Dark Project","LLL","r","dom","S"]
+  ],
+  "unknown": []
+}

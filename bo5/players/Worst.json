@@ -1,1 +1,38 @@
-{"player":"Worst","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2019-08-25","LPLOL 2019 Summer Playoffs","Round 2","EGN Esports","K1ck eSports Club","WWLW","","dom","S"],["2019-08-31","LPLOL 2019 Summer Playoffs","Final","EGN Esports","For The Win Esports","LLWL","","dom","S"],["2019-11-23","LPLOL 2019 Grand Final","Final","EGN Esports","For The Win Esports","LLL","","dom","S"],["2020-03-10","LPLOL 2020 Spring Playoffs","Round 2","EGN Esports","SAMCLAN Esports Club","WWW","","dom","S"],["2020-03-22","LPLOL 2020 Spring Playoffs","Final","EGN Esports","For The Win Esports","LWWLW","","dom","S"],["2020-05-24","LPLOL 2020 Spring Cup","Final","EGN Esports","For The Win Esports","WLWW","r","dom","S"],["2020-08-02","LPLOL 2020 Summer Playoffs","Final","EGN Esports","SAMCLAN Esports Club","WLWW","","dom","S"],["2020-10-18","LPLOL 2020 Summer Cup","Final","EGN Esports","For The Win Esports","LWLWL","r","dom","S"],["2020-11-05","Iberian Cup 2020","Quarterfinal","EGN Esports","SLO REJECTS","LLL","","dom","S"],["2020-11-22","LPLOL 2020 Grand Final","Final","EGN Esports","SAMCLAN Esports Club","WWW","","dom","S"],["2022-03-09","LPLOL 2022 Spring Playoffs","Round 1","White Dragons","For The Win Esports","LWLL","","dom","S"],["2022-03-12","LPLOL 2022 Spring Playoffs","Semifinal","White Dragons","EGN Esports","LWLWL","","dom","S"],["2022-07-27","LPLOL 2022 Summer Playoffs","Round 1","White Dragons","For The Win Esports","LLWWL","","dom","S"],["2022-07-31","LPLOL 2022 Summer Playoffs","Semifinal","White Dragons","EGN Esports","WWLW","","dom","S"],["2022-08-07","LPLOL 2022 Summer Playoffs","Final","White Dragons","For The Win Esports","LWWLL","","dom","S"],["2022-11-13","LPLOL 2022 Pro-Am","Semifinal","White Dragons","EGN Esports","LLWL","","dom","S"],["2023-03-16","LPLOL 2023 Spring Playoffs","Round 1","White Dragons","GTZ Esports","LLL","","dom","S"],["2023-03-23","LPLOL 2023 Spring Playoffs","Semifinal","White Dragons","For The Win Esports","WLLWW","","dom","S"],["2023-04-01","LPLOL 2023 Spring Playoffs","Final","White Dragons","GTZ Esports","LLL","","dom","S"],["2023-07-20","LPLOL 2023 Summer Playoffs","Round 1","White Dragons","GTZ Esports","LWWLL","","dom","S"],["2023-07-27","LPLOL 2023 Summer Playoffs","Semifinal","White Dragons","Odivelas Sports Club","WWLW","","dom","S"],["2023-08-05","LPLOL 2023 Summer Playoffs","Final","White Dragons","GTZ Esports","LLL","","dom","S"],["2024-03-15","LPLOL 2024 Spring Playoffs","Round 1","SAW (Portuguese Team)","Hurricane of Feathers","WWW","","dom","S"],["2024-03-21","LPLOL 2024 Spring Playoffs","Semifinal","SAW (Portuguese Team)","GTZ Esports","WLWLL","","dom","S"],["2024-07-05","LPLOL 2024 Summer Playoffs","Round 1","White Dragons","Hurricane of Feathers","WWLLW","","dom","S"],["2024-07-11","LPLOL 2024 Summer Playoffs","Semifinal","White Dragons","GTZ Esports","LLWWL","","dom","S"],["2025-05-22","LPLOL 2025 Spring Playoffs","Semifinal","For The Win Esports","Odivelas Sports Club","LLWWW","","dom","S"],["2025-05-23","LPLOL 2025 Spring Playoffs","Final","For The Win Esports","FlameHard","LLL","","dom","S"]],"unknown":[["2025-05-15","LPLOL 2025 Spring Playoffs","Round 1","For The Win Esports","FlameHard","1-3","LWL","dom","S"]]}
+{
+  "player": "Worst",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2019-08-25","LPLOL 2019 Summer Playoffs","Round 2","EGN Esports","K1ck eSports Club","WWLW","","dom","S"],
+    ["2019-08-31","LPLOL 2019 Summer Playoffs","Final","EGN Esports","For The Win Esports","LLWL","","dom","S"],
+    ["2019-11-23","LPLOL 2019 Grand Final","Final","EGN Esports","For The Win Esports","LLL","","dom","S"],
+    ["2020-03-10","LPLOL 2020 Spring Playoffs","Round 2","EGN Esports","SAMCLAN Esports Club","WWW","","dom","S"],
+    ["2020-03-22","LPLOL 2020 Spring Playoffs","Final","EGN Esports","For The Win Esports","LWWLW","","dom","S"],
+    ["2020-05-24","LPLOL 2020 Spring Cup","Final","EGN Esports","For The Win Esports","WLWW","r","dom","S"],
+    ["2020-08-02","LPLOL 2020 Summer Playoffs","Final","EGN Esports","SAMCLAN Esports Club","WLWW","","dom","S"],
+    ["2020-10-18","LPLOL 2020 Summer Cup","Final","EGN Esports","For The Win Esports","LWLWL","r","dom","S"],
+    ["2020-11-05","Iberian Cup 2020","Quarterfinal","EGN Esports","SLO REJECTS","LLL","","dom","S"],
+    ["2020-11-22","LPLOL 2020 Grand Final","Final","EGN Esports","SAMCLAN Esports Club","WWW","","dom","S"],
+    ["2022-03-09","LPLOL 2022 Spring Playoffs","Round 1","White Dragons","For The Win Esports","LWLL","","dom","S"],
+    ["2022-03-12","LPLOL 2022 Spring Playoffs","Semifinal","White Dragons","EGN Esports","LWLWL","","dom","S"],
+    ["2022-07-27","LPLOL 2022 Summer Playoffs","Round 1","White Dragons","For The Win Esports","LLWWL","","dom","S"],
+    ["2022-07-31","LPLOL 2022 Summer Playoffs","Semifinal","White Dragons","EGN Esports","WWLW","","dom","S"],
+    ["2022-08-07","LPLOL 2022 Summer Playoffs","Final","White Dragons","For The Win Esports","LWWLL","","dom","S"],
+    ["2022-11-13","LPLOL 2022 Pro-Am","Semifinal","White Dragons","EGN Esports","LLWL","","dom","S"],
+    ["2023-03-16","LPLOL 2023 Spring Playoffs","Round 1","White Dragons","GTZ Esports","LLL","","dom","S"],
+    ["2023-03-23","LPLOL 2023 Spring Playoffs","Semifinal","White Dragons","For The Win Esports","WLLWW","","dom","S"],
+    ["2023-04-01","LPLOL 2023 Spring Playoffs","Final","White Dragons","GTZ Esports","LLL","","dom","S"],
+    ["2023-07-20","LPLOL 2023 Summer Playoffs","Round 1","White Dragons","GTZ Esports","LWWLL","","dom","S"],
+    ["2023-07-27","LPLOL 2023 Summer Playoffs","Semifinal","White Dragons","Odivelas Sports Club","WWLW","","dom","S"],
+    ["2023-08-05","LPLOL 2023 Summer Playoffs","Final","White Dragons","GTZ Esports","LLL","","dom","S"],
+    ["2024-03-15","LPLOL 2024 Spring Playoffs","Round 1","SAW (Portuguese Team)","Hurricane of Feathers","WWW","","dom","S"],
+    ["2024-03-21","LPLOL 2024 Spring Playoffs","Semifinal","SAW (Portuguese Team)","GTZ Esports","WLWLL","","dom","S"],
+    ["2024-07-05","LPLOL 2024 Summer Playoffs","Round 1","White Dragons","Hurricane of Feathers","WWLLW","","dom","S"],
+    ["2024-07-11","LPLOL 2024 Summer Playoffs","Semifinal","White Dragons","GTZ Esports","LLWWL","","dom","S"],
+    ["2025-05-22","LPLOL 2025 Spring Playoffs","Semifinal","For The Win Esports","Odivelas Sports Club","LLWWW","","dom","S"],
+    ["2025-05-23","LPLOL 2025 Spring Playoffs","Final","For The Win Esports","FlameHard","LLL","","dom","S"]
+  ],
+  "unknown": [
+    ["2025-05-15","LPLOL 2025 Spring Playoffs","Round 1","For The Win Esports","FlameHard","1-3","LWL","dom","S"]
+  ]
+}

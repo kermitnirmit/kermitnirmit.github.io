@@ -1,1 +1,32 @@
-{"player":"yanxiang","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2020-08-28","LDL 2020 Summer Playoffs","Round 1","Shu Dai Xiong Gaming","Dominus Esports Young","WWW","","dom","S"],["2020-08-30","LDL 2020 Summer Playoffs","Quarterfinal","Shu Dai Xiong Gaming","Joy Dream","WWW","","dom","S"],["2020-09-02","LDL 2020 Summer Playoffs","Semifinal","Shu Dai Xiong Gaming","FunPlus Phoenix Blaze","WWLW","","dom","S"],["2020-09-06","LDL 2020 Summer Playoffs","Final","Shu Dai Xiong Gaming","Invictus Gaming Young","LLL","","dom","S"],["2021-08-25","LDL 2021 Summer Playoffs","Round 1","Shu Dai Xiong Gaming","WanZhen Esports Club","LWWLW","","dom","S"],["2021-08-29","LDL 2021 Summer Playoffs","Quarterfinal","Shu Dai Xiong Gaming","Royal Club","WLWLL","","dom","S"],["2022-08-11","LDL 2022 Summer Playoffs","Round 1","Team WE Academy","LGD Gaming Young Team","WWLW","","dom","S"],["2022-08-15","LDL 2022 Summer Playoffs","Round 2","Team WE Academy","EDward Gaming Youth Team","LLL","","dom","S"],["2023-01-04","Weibo Cup 2022","Quarterfinal","Team WE Academy","Bilibili Gaming","LLWL","r","dom","P"],["2023-03-22","LDL 2023 Replacements 1","Replacements","Team WE Academy","MAX (Chinese Team)","WWLLW","","dom","S"],["2023-06-06","LDL 2023 Split 2 Playoffs","Round 1","Team WE Academy","Invictus Gaming Young","LWLL","","dom","S"],["2023-06-07","LDL 2023 Split 2 Playoffs","Round 1","Team WE Academy","Top Esports Challenger","LLL","","dom","S"],["2023-08-02","LDL 2023 Grand Finals","Round 3","Team WE Academy","FunPlus Phoenix Blaze","LWLL","p","dom","S"],["2025-04-04","LDL 2025 Split 1 Cup","","Team WE Academy","ThunderTalk Gaming Young","WLWW","","dom","S"],["2025-04-06","LDL 2025 Split 1 Cup","","Team WE Academy","Top Esports Challenger","LLL","","dom","S"],["2025-04-10","LDL 2025 Split 1 Cup","Quarterfinal","Team WE Academy","Bilibili Gaming Junior","LLL","","dom","S"],["2025-09-14","LDL 2025 Split 3 Cup","Round 1","Team WE Academy","Bilibili Gaming Junior","LLL","","dom","S"],["2026-05-25","2026 Asia Masters Elite Invitational Tournament","Round 1","Weibo Gaming Youth Team","EDward Gaming Youth Team","LLWWW","","dom","S"],["2026-05-25","2026 Asia Masters Elite Invitational Tournament","Round 2","Weibo Gaming Youth Team","EDward Gaming Youth Team","LWWW","","dom","S"],["2026-05-27","2026 Asia Masters Elite Invitational Tournament","Round 2","Weibo Gaming Youth Team","Bilibili Gaming Junior","LLL","","dom","S"],["2026-05-31","2026 Asia Masters Elite Invitational Tournament","Final","Weibo Gaming Youth Team","Bilibili Gaming Junior","WWW","","dom","S"],["2026-07-18","2026 Asia Masters Elite Invitational Tournament 2","","Weibo Gaming Youth Team","Top Esports Challenger","LLL","r","dom","S"],["2026-07-25","2026 Asia Masters Elite Invitational Tournament 2","","Weibo Gaming Youth Team","LGD Gaming Young Team","WWW","","dom","S"],["2026-08-01","2026 Asia Masters Elite Invitational Tournament 2","","Weibo Gaming Youth Team","Xi Lai Gaming","WLWLL","","dom","S"]],"unknown":[]}
+{
+  "player": "yanxiang",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2020-08-28","LDL 2020 Summer Playoffs","Round 1","Shu Dai Xiong Gaming","Dominus Esports Young","WWW","","dom","S"],
+    ["2020-08-30","LDL 2020 Summer Playoffs","Quarterfinal","Shu Dai Xiong Gaming","Joy Dream","WWW","","dom","S"],
+    ["2020-09-02","LDL 2020 Summer Playoffs","Semifinal","Shu Dai Xiong Gaming","FunPlus Phoenix Blaze","WWLW","","dom","S"],
+    ["2020-09-06","LDL 2020 Summer Playoffs","Final","Shu Dai Xiong Gaming","Invictus Gaming Young","LLL","","dom","S"],
+    ["2021-08-25","LDL 2021 Summer Playoffs","Round 1","Shu Dai Xiong Gaming","WanZhen Esports Club","LWWLW","","dom","S"],
+    ["2021-08-29","LDL 2021 Summer Playoffs","Quarterfinal","Shu Dai Xiong Gaming","Royal Club","WLWLL","","dom","S"],
+    ["2022-08-11","LDL 2022 Summer Playoffs","Round 1","Team WE Academy","LGD Gaming Young Team","WWLW","","dom","S"],
+    ["2022-08-15","LDL 2022 Summer Playoffs","Round 2","Team WE Academy","EDward Gaming Youth Team","LLL","","dom","S"],
+    ["2023-01-04","Weibo Cup 2022","Quarterfinal","Team WE Academy","Bilibili Gaming","LLWL","r","dom","P"],
+    ["2023-03-22","LDL 2023 Replacements 1","Replacements","Team WE Academy","MAX (Chinese Team)","WWLLW","","dom","S"],
+    ["2023-06-06","LDL 2023 Split 2 Playoffs","Round 1","Team WE Academy","Invictus Gaming Young","LWLL","","dom","S"],
+    ["2023-06-07","LDL 2023 Split 2 Playoffs","Round 1","Team WE Academy","Top Esports Challenger","LLL","","dom","S"],
+    ["2023-08-02","LDL 2023 Grand Finals","Round 3","Team WE Academy","FunPlus Phoenix Blaze","LWLL","p","dom","S"],
+    ["2025-04-04","LDL 2025 Split 1 Cup","","Team WE Academy","ThunderTalk Gaming Young","WLWW","","dom","S"],
+    ["2025-04-06","LDL 2025 Split 1 Cup","","Team WE Academy","Top Esports Challenger","LLL","","dom","S"],
+    ["2025-04-10","LDL 2025 Split 1 Cup","Quarterfinal","Team WE Academy","Bilibili Gaming Junior","LLL","","dom","S"],
+    ["2025-09-14","LDL 2025 Split 3 Cup","Round 1","Team WE Academy","Bilibili Gaming Junior","LLL","","dom","S"],
+    ["2026-05-25","2026 Asia Masters Elite Invitational Tournament","Round 1","Weibo Gaming Youth Team","EDward Gaming Youth Team","LLWWW","","dom","S"],
+    ["2026-05-25","2026 Asia Masters Elite Invitational Tournament","Round 2","Weibo Gaming Youth Team","EDward Gaming Youth Team","LWWW","","dom","S"],
+    ["2026-05-27","2026 Asia Masters Elite Invitational Tournament","Round 2","Weibo Gaming Youth Team","Bilibili Gaming Junior","LLL","","dom","S"],
+    ["2026-05-31","2026 Asia Masters Elite Invitational Tournament","Final","Weibo Gaming Youth Team","Bilibili Gaming Junior","WWW","","dom","S"],
+    ["2026-07-18","2026 Asia Masters Elite Invitational Tournament 2","","Weibo Gaming Youth Team","Top Esports Challenger","LLL","r","dom","S"],
+    ["2026-07-25","2026 Asia Masters Elite Invitational Tournament 2","","Weibo Gaming Youth Team","LGD Gaming Young Team","WWW","","dom","S"],
+    ["2026-08-01","2026 Asia Masters Elite Invitational Tournament 2","","Weibo Gaming Youth Team","Xi Lai Gaming","WLWLL","","dom","S"]
+  ],
+  "unknown": []
+}

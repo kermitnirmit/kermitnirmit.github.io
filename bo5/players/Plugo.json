@@ -1,1 +1,31 @@
-{"player":"Plugo","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2016-07-21","Latin America Cup LAS 2016 Season Closing Cup Playoffs","Semifinal","Kaos Latin Gamers","Furious Gaming","WLWW","","dom","P"],["2016-08-07","Latin America Cup LAS 2016 Season Closing Cup Playoffs","Final","Kaos Latin Gamers","Isurus","LLWWW","","dom","P"],["2016-11-04","CLS 2017 Preseason Tournament","Round 3","Kaos Latin Gamers","Last Kings","LLL","","dom","P"],["2017-03-31","CLS 2017 Closing Promotion","Qualifiers","Kaos Latin Gamers","Legatum","WLWW","","dom","P"],["2017-08-19","CLS 2017 Closing Playoffs","Final","Kaos Latin Gamers","Isurus","LWWW","","dom","P"],["2018-03-31","CLS 2018 Opening Playoffs","Semifinal","Kaos Latin Gamers","Isurus","WWW","","dom","P"],["2018-04-14","CLS 2018 Opening Playoffs","Final","Kaos Latin Gamers","Rebirth eSports","LWLWW","","dom","P"],["2018-09-02","CLS 2018 Closing Playoffs","Semifinal","Kaos Latin Gamers","Furious Gaming","WWW","","dom","P"],["2018-09-09","CLS 2018 Closing Playoffs","Final","Kaos Latin Gamers","Rebirth eSports","WWLW","","dom","P"],["2018-09-15","Final Latinoamérica Movistar 2018","Grand Finals","Kaos Latin Gamers","INFINITY","LLL","r","dom",""],["2019-04-07","LLA 2019 Opening Playoffs","Semifinal","All Knights","Isurus","LWLWL","","dom","P"],["2019-08-17","LLA 2019 Closing Playoffs","Semifinal","All Knights","INFINITY","WLWW","","dom","P"],["2019-08-31","LLA 2019 Closing Playoffs","Final","All Knights","Isurus","LLL","","dom","P"],["2020-05-02","LLA 2020 Opening Playoffs","Final","All Knights","Isurus","LWWLW","","dom","P"],["2021-07-13","Liga Master Flow 2021 Closing Playoffs","Quarterfinal","Globant Emerald","Naguara Team","WWW","","dom","S"],["2021-07-21","Liga Master Flow 2021 Closing Playoffs","Semifinal","Globant Emerald","Pampas","WLWW","","dom","S"],["2021-07-29","Liga Master Flow 2021 Closing Playoffs","Final","Globant Emerald","Savage (Latin American Team)","WWW","","dom","S"],["2021-08-11","Regional Sur 2021 Season","Final","Globant Emerald","Cruzados Esports","WLWW","","dom","S"],["2021-09-03","LLA 2022 Opening Promotion","Semifinal","Globant Emerald","Kaos Latin Gamers","WLWW","","dom","P"],["2021-09-04","LLA 2022 Opening Promotion","Final","Globant Emerald","Team Aze","LLL","","dom","P"],["2021-09-05","LLA 2022 Opening Promotion","Final","Globant Emerald","Furious Gaming","WWLW","","dom","P"]],"unknown":[["2017-12-02","Rio de la Plata Cup 2017","Final","Kaos Latin Gamers","Isurus","3-2","","dom",""]]}
+{
+  "player": "Plugo",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2016-07-21","Latin America Cup LAS 2016 Season Closing Cup Playoffs","Semifinal","Kaos Latin Gamers","Furious Gaming","WLWW","","dom","P"],
+    ["2016-08-07","Latin America Cup LAS 2016 Season Closing Cup Playoffs","Final","Kaos Latin Gamers","Isurus","LLWWW","","dom","P"],
+    ["2016-11-04","CLS 2017 Preseason Tournament","Round 3","Kaos Latin Gamers","Last Kings","LLL","","dom","P"],
+    ["2017-03-31","CLS 2017 Closing Promotion","Qualifiers","Kaos Latin Gamers","Legatum","WLWW","","dom","P"],
+    ["2017-08-19","CLS 2017 Closing Playoffs","Final","Kaos Latin Gamers","Isurus","LWWW","","dom","P"],
+    ["2018-03-31","CLS 2018 Opening Playoffs","Semifinal","Kaos Latin Gamers","Isurus","WWW","","dom","P"],
+    ["2018-04-14","CLS 2018 Opening Playoffs","Final","Kaos Latin Gamers","Rebirth eSports","LWLWW","","dom","P"],
+    ["2018-09-02","CLS 2018 Closing Playoffs","Semifinal","Kaos Latin Gamers","Furious Gaming","WWW","","dom","P"],
+    ["2018-09-09","CLS 2018 Closing Playoffs","Final","Kaos Latin Gamers","Rebirth eSports","WWLW","","dom","P"],
+    ["2018-09-15","Final Latinoamérica Movistar 2018","Grand Finals","Kaos Latin Gamers","INFINITY","LLL","r","dom",""],
+    ["2019-04-07","LLA 2019 Opening Playoffs","Semifinal","All Knights","Isurus","LWLWL","","dom","P"],
+    ["2019-08-17","LLA 2019 Closing Playoffs","Semifinal","All Knights","INFINITY","WLWW","","dom","P"],
+    ["2019-08-31","LLA 2019 Closing Playoffs","Final","All Knights","Isurus","LLL","","dom","P"],
+    ["2020-05-02","LLA 2020 Opening Playoffs","Final","All Knights","Isurus","LWWLW","","dom","P"],
+    ["2021-07-13","Liga Master Flow 2021 Closing Playoffs","Quarterfinal","Globant Emerald","Naguara Team","WWW","","dom","S"],
+    ["2021-07-21","Liga Master Flow 2021 Closing Playoffs","Semifinal","Globant Emerald","Pampas","WLWW","","dom","S"],
+    ["2021-07-29","Liga Master Flow 2021 Closing Playoffs","Final","Globant Emerald","Savage (Latin American Team)","WWW","","dom","S"],
+    ["2021-08-11","Regional Sur 2021 Season","Final","Globant Emerald","Cruzados Esports","WLWW","","dom","S"],
+    ["2021-09-03","LLA 2022 Opening Promotion","Semifinal","Globant Emerald","Kaos Latin Gamers","WLWW","","dom","P"],
+    ["2021-09-04","LLA 2022 Opening Promotion","Final","Globant Emerald","Team Aze","LLL","","dom","P"],
+    ["2021-09-05","LLA 2022 Opening Promotion","Final","Globant Emerald","Furious Gaming","WWLW","","dom","P"]
+  ],
+  "unknown": [
+    ["2017-12-02","Rio de la Plata Cup 2017","Final","Kaos Latin Gamers","Isurus","3-2","","dom",""]
+  ]
+}

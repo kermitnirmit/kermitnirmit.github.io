@@ -1,1 +1,30 @@
-{"player":"Vit (Lê Hoài An)","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2019-04-07","VCS B 2019 Spring Round II","Final","Đạt Gaming","Team Flash.Vietnam","LWLL","r","dom",""],["2019-04-26","VCS 2019 Summer Promotion","Round 1","Adonis Esports","FTV Esports","LWWW","","dom","P"],["2019-04-27","VCS 2019 Summer Promotion","Qualifying Round","Adonis Esports","QTV Gaming","WLWLL","","dom","P"],["2019-04-28","VCS 2019 Summer Promotion","Qualifying Round","Adonis Esports","FTV Esports","LWWLL","","dom","P"],["2019-11-24","VCS B 2019 Winter Round III","Final","Adonis Esports","Super Guy Destroys","WWW","r","dom","S"],["2019-12-11","VCS 2020 Spring Promotion","Round 1","Adonis Esports","CERBERUS Esports (Vietnamese Team)","LLL","","dom","P"],["2019-12-13","VCS 2020 Spring Promotion","Elimination Round","Adonis Esports","Super Guy Destroys","WWW","","dom","P"],["2019-12-15","VCS 2020 Spring Promotion","Qualifying Round","Adonis Esports","QTV Gaming","WLWW","","dom","P"],["2020-05-01","VCS 2020 Summer Promotion","Round 1","OverPower Esports","Percent Esports","LWWW","","dom","P"],["2020-05-02","VCS 2020 Summer Promotion","Qualifying Round","OverPower Esports","FTV Esports","WWLW","","dom","P"],["2020-11-28","VCS 2021 Spring Promotion","Round 1","OverPower Esports","Luxury Esports","LLWL","","dom","P"],["2020-11-29","VCS 2021 Spring Promotion","Elimination Round","OverPower Esports","Saigon Buffalo","LLL","","dom","P"],["2021-12-22","VCS 2021 Winter Playoffs","Semifinal","Luxury Esports","CERBERUS Esports (Vietnamese Team)","LLWL","","dom","P"],["2021-12-25","VCS 2021 Winter Playoffs","Third-Place Match","Luxury Esports","Burst The Sky Esports","WWLLL","p","dom","P"],["2023-04-15","VCS 2023 Spring Playoffs","Round 1","Team Whales","SBTC Esports","WLLL","","dom","P"],["2023-04-16","VCS 2023 Spring Playoffs","Round 1","Team Whales","CERBERUS Esports (Vietnamese Team)","LWWLL","","dom","P"],["2025-04-13","Road to VCS 2025 Summer Online Finals KOL &amp; Partner Optimus VPS Pro League","Grand Finals","Apex Predator","Young Buffalo Gaming","WWW","r","dom","S"],["2025-05-04","Road to VCS 2025 Summer VIRESA Challenge Cup","Grand Finals","Apex Predator","Mila Gaming","WWW","r","dom","S"],["2025-05-09","VCS 2025 Summer Qualifier","Round 2","Apex Predator","evil genius (RTV Team)","WWW","","dom","S"],["2026-05-03","VCS 2026 Summer Promotion","","SN CyberCore Esports","FPT University Hochiminh","WLLWW","r","dom","S"],["2026-06-11","VCS 2026 Summer Playoffs","Round 1","SN CyberCore Esports","Saigon Warriors","LLL","","dom","S"],["2026-06-14","VCS 2026 Summer Playoffs","Round 1","SN CyberCore Esports","Saigon Dino","WLWLL","","dom","S"]],"unknown":[]}
+{
+  "player": "Vit (Lê Hoài An)",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2019-04-07","VCS B 2019 Spring Round II","Final","Đạt Gaming","Team Flash.Vietnam","LWLL","r","dom",""],
+    ["2019-04-26","VCS 2019 Summer Promotion","Round 1","Adonis Esports","FTV Esports","LWWW","","dom","P"],
+    ["2019-04-27","VCS 2019 Summer Promotion","Qualifying Round","Adonis Esports","QTV Gaming","WLWLL","","dom","P"],
+    ["2019-04-28","VCS 2019 Summer Promotion","Qualifying Round","Adonis Esports","FTV Esports","LWWLL","","dom","P"],
+    ["2019-11-24","VCS B 2019 Winter Round III","Final","Adonis Esports","Super Guy Destroys","WWW","r","dom","S"],
+    ["2019-12-11","VCS 2020 Spring Promotion","Round 1","Adonis Esports","CERBERUS Esports (Vietnamese Team)","LLL","","dom","P"],
+    ["2019-12-13","VCS 2020 Spring Promotion","Elimination Round","Adonis Esports","Super Guy Destroys","WWW","","dom","P"],
+    ["2019-12-15","VCS 2020 Spring Promotion","Qualifying Round","Adonis Esports","QTV Gaming","WLWW","","dom","P"],
+    ["2020-05-01","VCS 2020 Summer Promotion","Round 1","OverPower Esports","Percent Esports","LWWW","","dom","P"],
+    ["2020-05-02","VCS 2020 Summer Promotion","Qualifying Round","OverPower Esports","FTV Esports","WWLW","","dom","P"],
+    ["2020-11-28","VCS 2021 Spring Promotion","Round 1","OverPower Esports","Luxury Esports","LLWL","","dom","P"],
+    ["2020-11-29","VCS 2021 Spring Promotion","Elimination Round","OverPower Esports","Saigon Buffalo","LLL","","dom","P"],
+    ["2021-12-22","VCS 2021 Winter Playoffs","Semifinal","Luxury Esports","CERBERUS Esports (Vietnamese Team)","LLWL","","dom","P"],
+    ["2021-12-25","VCS 2021 Winter Playoffs","Third-Place Match","Luxury Esports","Burst The Sky Esports","WWLLL","p","dom","P"],
+    ["2023-04-15","VCS 2023 Spring Playoffs","Round 1","Team Whales","SBTC Esports","WLLL","","dom","P"],
+    ["2023-04-16","VCS 2023 Spring Playoffs","Round 1","Team Whales","CERBERUS Esports (Vietnamese Team)","LWWLL","","dom","P"],
+    ["2025-04-13","Road to VCS 2025 Summer Online Finals KOL &amp; Partner Optimus VPS Pro League","Grand Finals","Apex Predator","Young Buffalo Gaming","WWW","r","dom","S"],
+    ["2025-05-04","Road to VCS 2025 Summer VIRESA Challenge Cup","Grand Finals","Apex Predator","Mila Gaming","WWW","r","dom","S"],
+    ["2025-05-09","VCS 2025 Summer Qualifier","Round 2","Apex Predator","evil genius (RTV Team)","WWW","","dom","S"],
+    ["2026-05-03","VCS 2026 Summer Promotion","","SN CyberCore Esports","FPT University Hochiminh","WLLWW","r","dom","S"],
+    ["2026-06-11","VCS 2026 Summer Playoffs","Round 1","SN CyberCore Esports","Saigon Warriors","LLL","","dom","S"],
+    ["2026-06-14","VCS 2026 Summer Playoffs","Round 1","SN CyberCore Esports","Saigon Dino","WLWLL","","dom","S"]
+  ],
+  "unknown": []
+}

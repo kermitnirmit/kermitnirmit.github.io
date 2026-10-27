@@ -1,1 +1,35 @@
-{"player":"Condi","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2015-03-27","2015 Demacia Cup Spring Season","Quarterfinal","Masters 3","EDward Gaming","LLL","","dom","P"],["2015-04-14","LPL 2015 Summer Promotion","Round 1","Masters 3","Kx.Happy","WWW","","dom","P"],["2015-04-18","LPL 2015 Summer Promotion","Qualifiers","Masters 3","Energy Pacemaker","WWW","p","dom","P"],["2015-05-25","2015 Demacia Cup Summer Season","Round of 32","Masters 3","ShowTime","WWW","","dom","P"],["2015-06-22","2015 Demacia Cup Summer Season","Round of 16","Masters 3","Team WE","LLL","","dom","P"],["2015-08-11","LPL 2015 Summer Playoffs","Gauntlet Round 1","Masters 3","Oh My God","LLL","","dom","P"],["2016-04-15","LPL 2016 Spring Playoffs","Quarterfinal","Team WE","Vici Gaming","LWWW","","dom","P"],["2016-04-17","LPL 2016 Spring Playoffs","Semifinal","Team WE","Royal Never Give Up","LLWWL","","dom","P"],["2016-04-18","LPL 2016 Spring Playoffs","Third-Place Match","Team WE","Qiao Gu Reapers","WWW","","dom","P"],["2016-07-02","Demacia Cup 2016 Season","Quarterfinal","Team WE","Royal Never Give Up","LLL","","dom","P"],["2016-08-12","LPL 2016 Summer Playoffs","Quarterfinal","Team WE","Vici Gaming","WLWW","","dom","P"],["2016-08-14","LPL 2016 Summer Playoffs","Semifinal","Team WE","EDward Gaming","LWLWL","","dom","P"],["2016-08-15","LPL 2016 Summer Playoffs","Third-Place Match","Team WE","I May","WLLL","","dom","P"],["2016-08-27","LPL 2016 Regional Finals","Round 2","Team WE","Snake Esports","WLWLW","","dom","P"],["2016-08-28","LPL 2016 Regional Finals","Final","Team WE","I May","WLWLL","","dom","P"],["2017-04-22","LPL 2017 Spring Playoffs","Semifinal","Team WE","Oh My God","WWLW","","dom","P"],["2017-04-29","LPL 2017 Spring Playoffs","Final","Team WE","Royal Never Give Up","WWW","","dom","P"],["2017-05-20","MSI 2017","Semifinal","Team WE","G2 Esports","LLWL","","msi","P"],["2017-06-01","Demacia Cup 2017 Season","Quarterfinal","Team WE","Invictus Gaming","LLL","","dom","P"],["2017-08-23","LPL 2017 Summer Playoffs","Quarterfinal","Team WE","Newbee","WWW","","dom","P"],["2017-08-25","LPL 2017 Summer Playoffs","Semifinal","Team WE","Royal Never Give Up","WLWLL","","dom","P"],["2017-08-26","LPL 2017 Summer Playoffs","Third-Place Match","Team WE","Invictus Gaming","LWWLL","","dom","P"],["2017-09-03","LPL 2017 Regional Finals","Final","Team WE","Invictus Gaming","WLLWW","","dom","P"],["2017-09-29","Worlds 2017","Round 2","Team WE","Young Generation","WWW","","worlds","P"],["2017-10-22","Worlds 2017","Quarterfinal","Team WE","Cloud9","WLLWW","","worlds","P"],["2017-10-29","Worlds 2017","Semifinal","Team WE","Samsung Galaxy","WLLL","","worlds","P"],["2019-04-25","National Electronic Sports Tournament 2019","Qualifying Round","LGD Gaming","JD Gaming","WLLWL","r","dom","P"]],"unknown":[]}
+{
+  "player": "Condi",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2015-03-27","2015 Demacia Cup Spring Season","Quarterfinal","Masters 3","EDward Gaming","LLL","","dom","P"],
+    ["2015-04-14","LPL 2015 Summer Promotion","Round 1","Masters 3","Kx.Happy","WWW","","dom","P"],
+    ["2015-04-18","LPL 2015 Summer Promotion","Qualifiers","Masters 3","Energy Pacemaker","WWW","p","dom","P"],
+    ["2015-05-25","2015 Demacia Cup Summer Season","Round of 32","Masters 3","ShowTime","WWW","","dom","P"],
+    ["2015-06-22","2015 Demacia Cup Summer Season","Round of 16","Masters 3","Team WE","LLL","","dom","P"],
+    ["2015-08-11","LPL 2015 Summer Playoffs","Gauntlet Round 1","Masters 3","Oh My God","LLL","","dom","P"],
+    ["2016-04-15","LPL 2016 Spring Playoffs","Quarterfinal","Team WE","Vici Gaming","LWWW","","dom","P"],
+    ["2016-04-17","LPL 2016 Spring Playoffs","Semifinal","Team WE","Royal Never Give Up","LLWWL","","dom","P"],
+    ["2016-04-18","LPL 2016 Spring Playoffs","Third-Place Match","Team WE","Qiao Gu Reapers","WWW","","dom","P"],
+    ["2016-07-02","Demacia Cup 2016 Season","Quarterfinal","Team WE","Royal Never Give Up","LLL","","dom","P"],
+    ["2016-08-12","LPL 2016 Summer Playoffs","Quarterfinal","Team WE","Vici Gaming","WLWW","","dom","P"],
+    ["2016-08-14","LPL 2016 Summer Playoffs","Semifinal","Team WE","EDward Gaming","LWLWL","","dom","P"],
+    ["2016-08-15","LPL 2016 Summer Playoffs","Third-Place Match","Team WE","I May","WLLL","","dom","P"],
+    ["2016-08-27","LPL 2016 Regional Finals","Round 2","Team WE","Snake Esports","WLWLW","","dom","P"],
+    ["2016-08-28","LPL 2016 Regional Finals","Final","Team WE","I May","WLWLL","","dom","P"],
+    ["2017-04-22","LPL 2017 Spring Playoffs","Semifinal","Team WE","Oh My God","WWLW","","dom","P"],
+    ["2017-04-29","LPL 2017 Spring Playoffs","Final","Team WE","Royal Never Give Up","WWW","","dom","P"],
+    ["2017-05-20","MSI 2017","Semifinal","Team WE","G2 Esports","LLWL","","msi","P"],
+    ["2017-06-01","Demacia Cup 2017 Season","Quarterfinal","Team WE","Invictus Gaming","LLL","","dom","P"],
+    ["2017-08-23","LPL 2017 Summer Playoffs","Quarterfinal","Team WE","Newbee","WWW","","dom","P"],
+    ["2017-08-25","LPL 2017 Summer Playoffs","Semifinal","Team WE","Royal Never Give Up","WLWLL","","dom","P"],
+    ["2017-08-26","LPL 2017 Summer Playoffs","Third-Place Match","Team WE","Invictus Gaming","LWWLL","","dom","P"],
+    ["2017-09-03","LPL 2017 Regional Finals","Final","Team WE","Invictus Gaming","WLLWW","","dom","P"],
+    ["2017-09-29","Worlds 2017","Round 2","Team WE","Young Generation","WWW","","worlds","P"],
+    ["2017-10-22","Worlds 2017","Quarterfinal","Team WE","Cloud9","WLLWW","","worlds","P"],
+    ["2017-10-29","Worlds 2017","Semifinal","Team WE","Samsung Galaxy","WLLL","","worlds","P"],
+    ["2019-04-25","National Electronic Sports Tournament 2019","Qualifying Round","LGD Gaming","JD Gaming","WLLWL","r","dom","P"]
+  ],
+  "unknown": []
+}

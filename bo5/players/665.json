@@ -1,1 +1,34 @@
-{"player":"665","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2022-04-01","PCS 2022 Spring Playoffs","Round 1","Meta Falcon Team","CTBC Flying Oyster","LLL","","dom","P"],["2022-04-02","PCS 2022 Spring Playoffs","Round 1","Meta Falcon Team","Frank Esports","LLL","","dom","P"],["2022-08-20","PCS 2022 Summer Playoffs","Round 1","Meta Falcon Team","J Team","LLL","","dom","P"],["2024-03-17","PCS 2024 Spring Playoffs","Last Chance Qualifier","Deep Cross Gaming","DetonatioN FocusMe","LWWLW","","dom","P"],["2024-03-21","PCS 2024 Spring Playoffs","Stage 2 Round 1","Deep Cross Gaming","Frank Esports","LLL","","dom","P"],["2024-03-28","PCS 2024 Spring Playoffs","Stage 2 Round 2","Deep Cross Gaming","Fukuoka SoftBank HAWKS gaming","LWLWL","","dom","P"],["2024-08-14","PCS 2024 Summer Playoffs","Stage 2 Round 1","Deep Cross Gaming","DetonatioN FocusMe","LWWW","","dom","P"],["2024-08-18","PCS 2024 Summer Playoffs","Stage 2 Round 2","Deep Cross Gaming","Fukuoka SoftBank HAWKS gaming","WLWLL","","dom","P"],["2024-08-21","PCS 2024 Summer Playoffs","Stage 2 Round 2","Deep Cross Gaming","CTBC Flying Oyster","LLL","","dom","P"],["2025-03-10","PCS 2025 Split 1 Playoffs","Round 1","Deep Cross Gaming","HELL PIGS","WWW","","dom","S"],["2025-03-24","PCS 2025 Split 1 Playoffs","Round 2","Deep Cross Gaming","Frank Esports","LLWWW","","dom","S"],["2025-03-26","PCS 2025 Split 1 Playoffs","Final","Deep Cross Gaming","West Point Esports Philippines","WWW","","dom","S"],["2025-06-10","PCS 2025 Split 2 Playoffs","Round 1","Deep Cross Gaming","Frank Esports","LWLL","","dom","S"],["2025-06-11","PCS 2025 Split 2 Playoffs","Round 1","Deep Cross Gaming","wangting","WWW","","dom","S"],["2025-06-17","PCS 2025 Split 2 Playoffs","Round 2","Deep Cross Gaming","West Point Esports Philippines","WWW","","dom","S"],["2025-06-18","PCS 2025 Split 2 Playoffs","Final","Deep Cross Gaming","Frank Esports","WWW","","dom","S"],["2025-07-21","PCS 2025 Split 3","Round 1","Deep Cross Gaming","TALON Academy","WWW","","dom","S"],["2025-08-11","PCS 2025 Split 3","Round 2","Deep Cross Gaming","West Point Esports Philippines","WWW","","dom","S"],["2025-08-20","PCS 2025 Split 3","Round 3","Deep Cross Gaming","Frank Esports","LLWL","","dom","S"],["2025-08-26","PCS 2025 Split 3 Playoffs","Round 1","Deep Cross Gaming","PSG Talon Academy","LWLWL","","dom","S"],["2025-08-27","PCS 2025 Split 3 Playoffs","Round 1","Deep Cross Gaming","CTBC Flying Oyster Academy","LWWLW","","dom","S"],["2025-08-30","PCS 2025 Split 3 Playoffs","Round 2","Deep Cross Gaming","PSG Talon Academy","WWW","","dom","S"],["2025-08-31","PCS 2025 Split 3 Playoffs","Final","Deep Cross Gaming","Frank Esports","WWLW","","dom","S"],["2025-10-01","LCP 2026 Promotion","FFA Round 1","Deep Cross Gaming","QT DIG","WWW","","dom","P"],["2025-10-02","LCP 2026 Promotion","FFA Round 2","Deep Cross Gaming","Inferno Esports (Filipino Team)","WWW","","dom","P"],["2025-10-03","LCP 2026 Promotion","FFA Finals","Deep Cross Gaming","Chiefs Esports Club","WLWW","","dom","P"]],"unknown":[]}
+{
+  "player": "665",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2022-04-01","PCS 2022 Spring Playoffs","Round 1","Meta Falcon Team","CTBC Flying Oyster","LLL","","dom","P"],
+    ["2022-04-02","PCS 2022 Spring Playoffs","Round 1","Meta Falcon Team","Frank Esports","LLL","","dom","P"],
+    ["2022-08-20","PCS 2022 Summer Playoffs","Round 1","Meta Falcon Team","J Team","LLL","","dom","P"],
+    ["2024-03-17","PCS 2024 Spring Playoffs","Last Chance Qualifier","Deep Cross Gaming","DetonatioN FocusMe","LWWLW","","dom","P"],
+    ["2024-03-21","PCS 2024 Spring Playoffs","Stage 2 Round 1","Deep Cross Gaming","Frank Esports","LLL","","dom","P"],
+    ["2024-03-28","PCS 2024 Spring Playoffs","Stage 2 Round 2","Deep Cross Gaming","Fukuoka SoftBank HAWKS gaming","LWLWL","","dom","P"],
+    ["2024-08-14","PCS 2024 Summer Playoffs","Stage 2 Round 1","Deep Cross Gaming","DetonatioN FocusMe","LWWW","","dom","P"],
+    ["2024-08-18","PCS 2024 Summer Playoffs","Stage 2 Round 2","Deep Cross Gaming","Fukuoka SoftBank HAWKS gaming","WLWLL","","dom","P"],
+    ["2024-08-21","PCS 2024 Summer Playoffs","Stage 2 Round 2","Deep Cross Gaming","CTBC Flying Oyster","LLL","","dom","P"],
+    ["2025-03-10","PCS 2025 Split 1 Playoffs","Round 1","Deep Cross Gaming","HELL PIGS","WWW","","dom","S"],
+    ["2025-03-24","PCS 2025 Split 1 Playoffs","Round 2","Deep Cross Gaming","Frank Esports","LLWWW","","dom","S"],
+    ["2025-03-26","PCS 2025 Split 1 Playoffs","Final","Deep Cross Gaming","West Point Esports Philippines","WWW","","dom","S"],
+    ["2025-06-10","PCS 2025 Split 2 Playoffs","Round 1","Deep Cross Gaming","Frank Esports","LWLL","","dom","S"],
+    ["2025-06-11","PCS 2025 Split 2 Playoffs","Round 1","Deep Cross Gaming","wangting","WWW","","dom","S"],
+    ["2025-06-17","PCS 2025 Split 2 Playoffs","Round 2","Deep Cross Gaming","West Point Esports Philippines","WWW","","dom","S"],
+    ["2025-06-18","PCS 2025 Split 2 Playoffs","Final","Deep Cross Gaming","Frank Esports","WWW","","dom","S"],
+    ["2025-07-21","PCS 2025 Split 3","Round 1","Deep Cross Gaming","TALON Academy","WWW","","dom","S"],
+    ["2025-08-11","PCS 2025 Split 3","Round 2","Deep Cross Gaming","West Point Esports Philippines","WWW","","dom","S"],
+    ["2025-08-20","PCS 2025 Split 3","Round 3","Deep Cross Gaming","Frank Esports","LLWL","","dom","S"],
+    ["2025-08-26","PCS 2025 Split 3 Playoffs","Round 1","Deep Cross Gaming","PSG Talon Academy","LWLWL","","dom","S"],
+    ["2025-08-27","PCS 2025 Split 3 Playoffs","Round 1","Deep Cross Gaming","CTBC Flying Oyster Academy","LWWLW","","dom","S"],
+    ["2025-08-30","PCS 2025 Split 3 Playoffs","Round 2","Deep Cross Gaming","PSG Talon Academy","WWW","","dom","S"],
+    ["2025-08-31","PCS 2025 Split 3 Playoffs","Final","Deep Cross Gaming","Frank Esports","WWLW","","dom","S"],
+    ["2025-10-01","LCP 2026 Promotion","FFA Round 1","Deep Cross Gaming","QT DIG","WWW","","dom","P"],
+    ["2025-10-02","LCP 2026 Promotion","FFA Round 2","Deep Cross Gaming","Inferno Esports (Filipino Team)","WWW","","dom","P"],
+    ["2025-10-03","LCP 2026 Promotion","FFA Finals","Deep Cross Gaming","Chiefs Esports Club","WLWW","","dom","P"]
+  ],
+  "unknown": []
+}

@@ -1,1 +1,41 @@
-{"player":"Chrisberg","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2017-05-16","Underdogs Spring Split 2017 Playoffs","Round 2","GamersOrigin","Eclypsia","WWW","r","dom",""],["2017-05-17","Underdogs Spring Split 2017 Playoffs","Round 3","GamersOrigin","GrosBill Esport","WWW","r","dom",""],["2017-05-18","Underdogs Spring Split 2017 Playoffs","Round 4","GamersOrigin","Team-LDLC","WWW","r","dom",""],["2019-03-22","PG Nationals 2019 Spring Playoffs","Semifinal","Outplayed","Campus Party Sparks","LLL","","dom","S"],["2020-12-06","Telialigaen 2020 Autumn Playoffs","Final","Nordavind","Domino esports","WWW","r","dom",""],["2021-03-20","NLC 2021 Spring Playoffs","Round 4","Nordavind","Fnatic Rising","LWLL","","dom","S"],["2021-11-28","Leagues.gg Winter Showdown Norway 2021 Playoffs","Round 4","00 Nation","00 Prospects","WWW","r","dom","S"],["2021-12-12","Leagues.gg Winter Showdown Norway 2021 Playoffs","Grand Final","00 Nation","00 Prospects","WWW","r","dom","S"],["2022-08-03","NLC 2022 Summer Playoffs","Round 1","Astralis Talent","Riddle Esports","LWWW","","dom","S"],["2022-08-10","NLC 2022 Summer Playoffs","Round 2","Astralis Talent","X7 Esports","LLL","","dom","S"],["2022-10-31","NLC 2022 Aurora Open","Quarterfinal","Astralis Talent","RATE Gaming","WWW","","dom","S"],["2022-11-07","NLC 2022 Aurora Open","Semifinal","Astralis Talent","JDXL","LWWLW","","dom","S"],["2022-11-13","NLC 2022 Aurora Open","Final","Astralis Talent","Dusty","LLL","","dom","S"],["2023-10-25","Aurora Cup 2023 Main Event","Quarterfinal","Nativz","Jlingz Esports","LLL","","dom","S"],["2024-10-30","Aurora Cup 2024","Quarterfinal","Bitfix Gaming","Venomcrest Esports","LLL","","dom","S"],["2024-11-10","Good Game-ligaen 2024 Autumn Playoffs","Round 2","Bitfix Gaming","CNG Royal","WWW","r","dom","S"],["2025-06-07","4 Nations 2025 Spring Playoffs","Round 4","Venomcrest Serpents","Int Quick","LLWL","","dom","S"],["2025-06-14","4 Nations 2025 Spring Playoffs","Round 4","Venomcrest Serpents","Brod n Friends","WWLW","","dom","S"],["2026-03-29","LOL DK Ligaen 2026 Spring Playoffs","Round 1","Rich Gang Denmark","DMG Esports Denmark","WWW","r","dom","S"],["2026-04-24","LOL DK Ligaen 2026 Spring Playoffs","Round 3","Rich Gang Denmark","DMG Esports Denmark","LLL","","dom","S"]],"unknown":[["2016-12-18","LVP División de Honor Season 11","Final","G2 Vodafone","ASUS ROG Army","1-3","","dom",""],["2017-11-30","LVP Segunda División Season 13 Playoffs","Semifinal","FEN1X eSports","eMonkeyz","1-3","","dom",""],["2018-04-08","ESL Premiership 2018 Spring Playoffs","Final","Misfits Academy","Excel Esports","3-2","","dom",""],["2018-08-16","Forge of Champions 2018 Summer/Tournament 4","Final","Misfits Academy","Enclave","3-1","","dom",""],["2018-09-06","Forge of Champions 2018 Summer/Grand Final","Final","Misfits Academy","Diabolus Esports","3-2","","dom",""],["2018-12-15","League Championship Denmark 2018 Winter Playoffs","Semifinal","Bucks Vipers","Team Singularity","2-3","","dom",""],["2018-12-16","League Championship Denmark 2018 Winter Playoffs","Third-Place Match","Bucks Vipers","Good Game Esport","3-1","","dom",""],["2019-06-16","Swedish Esports League Season 3 Playoffs","Final","The Final Tribe","FALKN","3-1","","dom",""],["2020-11-16","Telialigaen 2020 Autumn Playoffs","Semifinal","Nordavind","Viking Esports (Norwegian Team)","3-1","","dom",""],["2021-11-14","Telialigaen 2021 Autumn Playoffs","Semifinal","00 Nation","Bifrost","2-3","","dom","S"],["2024-11-17","Good Game-ligaen 2024 Autumn Playoffs","Grand Final","Bitfix Gaming","DMG Esports Norway","1-3","","dom","S"],["2026-04-06","LOL DK Ligaen 2026 Spring Playoffs","Round 3","Rich Gang Denmark","Sørby eSport","2-3","","dom","S"]]}
+{
+  "player": "Chrisberg",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2017-05-16","Underdogs Spring Split 2017 Playoffs","Round 2","GamersOrigin","Eclypsia","WWW","r","dom",""],
+    ["2017-05-17","Underdogs Spring Split 2017 Playoffs","Round 3","GamersOrigin","GrosBill Esport","WWW","r","dom",""],
+    ["2017-05-18","Underdogs Spring Split 2017 Playoffs","Round 4","GamersOrigin","Team-LDLC","WWW","r","dom",""],
+    ["2019-03-22","PG Nationals 2019 Spring Playoffs","Semifinal","Outplayed","Campus Party Sparks","LLL","","dom","S"],
+    ["2020-12-06","Telialigaen 2020 Autumn Playoffs","Final","Nordavind","Domino esports","WWW","r","dom",""],
+    ["2021-03-20","NLC 2021 Spring Playoffs","Round 4","Nordavind","Fnatic Rising","LWLL","","dom","S"],
+    ["2021-11-28","Leagues.gg Winter Showdown Norway 2021 Playoffs","Round 4","00 Nation","00 Prospects","WWW","r","dom","S"],
+    ["2021-12-12","Leagues.gg Winter Showdown Norway 2021 Playoffs","Grand Final","00 Nation","00 Prospects","WWW","r","dom","S"],
+    ["2022-08-03","NLC 2022 Summer Playoffs","Round 1","Astralis Talent","Riddle Esports","LWWW","","dom","S"],
+    ["2022-08-10","NLC 2022 Summer Playoffs","Round 2","Astralis Talent","X7 Esports","LLL","","dom","S"],
+    ["2022-10-31","NLC 2022 Aurora Open","Quarterfinal","Astralis Talent","RATE Gaming","WWW","","dom","S"],
+    ["2022-11-07","NLC 2022 Aurora Open","Semifinal","Astralis Talent","JDXL","LWWLW","","dom","S"],
+    ["2022-11-13","NLC 2022 Aurora Open","Final","Astralis Talent","Dusty","LLL","","dom","S"],
+    ["2023-10-25","Aurora Cup 2023 Main Event","Quarterfinal","Nativz","Jlingz Esports","LLL","","dom","S"],
+    ["2024-10-30","Aurora Cup 2024","Quarterfinal","Bitfix Gaming","Venomcrest Esports","LLL","","dom","S"],
+    ["2024-11-10","Good Game-ligaen 2024 Autumn Playoffs","Round 2","Bitfix Gaming","CNG Royal","WWW","r","dom","S"],
+    ["2025-06-07","4 Nations 2025 Spring Playoffs","Round 4","Venomcrest Serpents","Int Quick","LLWL","","dom","S"],
+    ["2025-06-14","4 Nations 2025 Spring Playoffs","Round 4","Venomcrest Serpents","Brod n Friends","WWLW","","dom","S"],
+    ["2026-03-29","LOL DK Ligaen 2026 Spring Playoffs","Round 1","Rich Gang Denmark","DMG Esports Denmark","WWW","r","dom","S"],
+    ["2026-04-24","LOL DK Ligaen 2026 Spring Playoffs","Round 3","Rich Gang Denmark","DMG Esports Denmark","LLL","","dom","S"]
+  ],
+  "unknown": [
+    ["2016-12-18","LVP División de Honor Season 11","Final","G2 Vodafone","ASUS ROG Army","1-3","","dom",""],
+    ["2017-11-30","LVP Segunda División Season 13 Playoffs","Semifinal","FEN1X eSports","eMonkeyz","1-3","","dom",""],
+    ["2018-04-08","ESL Premiership 2018 Spring Playoffs","Final","Misfits Academy","Excel Esports","3-2","","dom",""],
+    ["2018-08-16","Forge of Champions 2018 Summer/Tournament 4","Final","Misfits Academy","Enclave","3-1","","dom",""],
+    ["2018-09-06","Forge of Champions 2018 Summer/Grand Final","Final","Misfits Academy","Diabolus Esports","3-2","","dom",""],
+    ["2018-12-15","League Championship Denmark 2018 Winter Playoffs","Semifinal","Bucks Vipers","Team Singularity","2-3","","dom",""],
+    ["2018-12-16","League Championship Denmark 2018 Winter Playoffs","Third-Place Match","Bucks Vipers","Good Game Esport","3-1","","dom",""],
+    ["2019-06-16","Swedish Esports League Season 3 Playoffs","Final","The Final Tribe","FALKN","3-1","","dom",""],
+    ["2020-11-16","Telialigaen 2020 Autumn Playoffs","Semifinal","Nordavind","Viking Esports (Norwegian Team)","3-1","","dom",""],
+    ["2021-11-14","Telialigaen 2021 Autumn Playoffs","Semifinal","00 Nation","Bifrost","2-3","","dom","S"],
+    ["2024-11-17","Good Game-ligaen 2024 Autumn Playoffs","Grand Final","Bitfix Gaming","DMG Esports Norway","1-3","","dom","S"],
+    ["2026-04-06","LOL DK Ligaen 2026 Spring Playoffs","Round 3","Rich Gang Denmark","Sørby eSport","2-3","","dom","S"]
+  ]
+}

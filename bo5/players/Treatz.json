@@ -1,1 +1,28 @@
-{"player":"Treatz","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2017-12-16","LVP SuperLiga Orange Season 13 Playoffs","Semifinal","Movistar Riders","Giants Only The Brave","LLL","r","dom",""],["2018-03-20","LVP SuperLiga Orange 2018 Spring Playoffs","Semifinal","Movistar Riders","Giants Gaming Spain","LWWW","p","dom","S"],["2018-03-25","LVP SuperLiga Orange 2018 Spring Playoffs","Final","Movistar Riders","MAD Lions E.C.","LLL","p","dom","S"],["2018-11-17","Open Tour France 2018","Round 6","Gentside","Team Vitality Academy","LLL","r","dom",""],["2019-03-28","NA Academy League 2019 Spring Playoffs","Semifinal","TSM Academy","Echo Fox Academy","WWW","","dom","S"],["2019-04-05","NA Academy League 2019 Spring Playoffs","Final","TSM Academy","Cloud9 Academy","WLWW","","dom","S"],["2019-08-02","NA Academy League 2019 Summer Playoffs","Quarterfinal","TSM Academy","Team Liquid Academy","WWW","","dom","S"],["2019-08-08","NA Academy League 2019 Summer Playoffs","Semifinal","TSM Academy","Golden Guardians Academy","WLLL","","dom","S"],["2020-04-02","NA Academy League 2020 Spring Playoffs","Quarterfinal","TSM Academy","100 Thieves Academy","WWW","","dom","S"],["2020-04-10","NA Academy League 2020 Spring Playoffs","Semifinal","TSM Academy","Cloud9 Academy","WLLL","","dom","S"],["2020-08-13","LCS 2020 Summer Playoffs","Round 1","TSM","Golden Guardians","LLL","","dom","P"],["2020-08-15","LCS 2020 Summer Playoffs","Round 1","TSM","Dignitas","WWW","","dom","P"],["2020-08-21","NA Academy League 2020 Summer Playoffs","Semifinal","TSM Academy","Evil Geniuses Academy","WWW","","dom","S"],["2020-08-28","NA Academy League 2020 Summer Playoffs","Final","TSM Academy","Cloud9 Academy","WLLL","","dom","S"],["2021-03-26","LEC 2021 Spring Playoffs","Round 1","SK Gaming","Fnatic","LWLL","","dom","P"],["2025-02-14","NLC 2025 Winter Playoffs","Round 5","NORD Esports","Los Ratones","LLWL","","dom","S"],["2025-03-01","NLC 2025 Winter Playoffs","Round 5","NORD Esports","Bulldog Esports","WWLW","","dom","S"],["2025-03-02","NLC 2025 Winter Playoffs","Final","NORD Esports","Los Ratones","LLL","","dom","S"],["2025-08-14","NLC 2025 Summer Playoffs","Round 3","NORD Esports","Lundqvist Lightside","WWW","","dom","S"],["2025-08-20","NLC 2025 Summer Playoffs","Round 4","NORD Esports","Verdant","WLLL","","dom","S"]],"unknown":[]}
+{
+  "player": "Treatz",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2017-12-16","LVP SuperLiga Orange Season 13 Playoffs","Semifinal","Movistar Riders","Giants Only The Brave","LLL","r","dom",""],
+    ["2018-03-20","LVP SuperLiga Orange 2018 Spring Playoffs","Semifinal","Movistar Riders","Giants Gaming Spain","LWWW","p","dom","S"],
+    ["2018-03-25","LVP SuperLiga Orange 2018 Spring Playoffs","Final","Movistar Riders","MAD Lions E.C.","LLL","p","dom","S"],
+    ["2018-11-17","Open Tour France 2018","Round 6","Gentside","Team Vitality Academy","LLL","r","dom",""],
+    ["2019-03-28","NA Academy League 2019 Spring Playoffs","Semifinal","TSM Academy","Echo Fox Academy","WWW","","dom","S"],
+    ["2019-04-05","NA Academy League 2019 Spring Playoffs","Final","TSM Academy","Cloud9 Academy","WLWW","","dom","S"],
+    ["2019-08-02","NA Academy League 2019 Summer Playoffs","Quarterfinal","TSM Academy","Team Liquid Academy","WWW","","dom","S"],
+    ["2019-08-08","NA Academy League 2019 Summer Playoffs","Semifinal","TSM Academy","Golden Guardians Academy","WLLL","","dom","S"],
+    ["2020-04-02","NA Academy League 2020 Spring Playoffs","Quarterfinal","TSM Academy","100 Thieves Academy","WWW","","dom","S"],
+    ["2020-04-10","NA Academy League 2020 Spring Playoffs","Semifinal","TSM Academy","Cloud9 Academy","WLLL","","dom","S"],
+    ["2020-08-13","LCS 2020 Summer Playoffs","Round 1","TSM","Golden Guardians","LLL","","dom","P"],
+    ["2020-08-15","LCS 2020 Summer Playoffs","Round 1","TSM","Dignitas","WWW","","dom","P"],
+    ["2020-08-21","NA Academy League 2020 Summer Playoffs","Semifinal","TSM Academy","Evil Geniuses Academy","WWW","","dom","S"],
+    ["2020-08-28","NA Academy League 2020 Summer Playoffs","Final","TSM Academy","Cloud9 Academy","WLLL","","dom","S"],
+    ["2021-03-26","LEC 2021 Spring Playoffs","Round 1","SK Gaming","Fnatic","LWLL","","dom","P"],
+    ["2025-02-14","NLC 2025 Winter Playoffs","Round 5","NORD Esports","Los Ratones","LLWL","","dom","S"],
+    ["2025-03-01","NLC 2025 Winter Playoffs","Round 5","NORD Esports","Bulldog Esports","WWLW","","dom","S"],
+    ["2025-03-02","NLC 2025 Winter Playoffs","Final","NORD Esports","Los Ratones","LLL","","dom","S"],
+    ["2025-08-14","NLC 2025 Summer Playoffs","Round 3","NORD Esports","Lundqvist Lightside","WWW","","dom","S"],
+    ["2025-08-20","NLC 2025 Summer Playoffs","Round 4","NORD Esports","Verdant","WLLL","","dom","S"]
+  ],
+  "unknown": []
+}

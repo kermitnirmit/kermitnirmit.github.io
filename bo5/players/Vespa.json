@@ -1,1 +1,32 @@
-{"player":"Vespa","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2021-06-27","Open Tour France 2021 Playoffs","Semifinal","PCS Taran","Omerix Esport","LWWLW","","dom","S"],["2021-07-11","Open Tour France 2021 Playoffs","Final","PCS Taran","Warthox Esport","LWWLW","","dom","S"],["2021-09-13","LFL Division 2 2021 Promotion","Round 1","PCS Taran","Zephyr Esport","WLWW","","dom","S"],["2021-09-17","LFL Division 2 2021 Promotion","Round 2","PCS Taran","Team MCES Academy","LLL","","dom","S"],["2021-09-18","LFL Division 2 2021 Promotion","Round 2","PCS Taran","Zephyr Esport","LWWW","","dom","S"],["2021-11-28","Esport League FR Season 5 Palier 1 Playoffs","Round 3","Salade Makers","Otterz Esport","LLL","r","dom",""],["2023-03-21","LFL Division 2 2023 Spring Playoffs","Round 2","Lille Esport","Team Du Sud","LWLWL","","dom","S"],["2023-04-01","LFL Division 2 2023 Spring Playoffs","Semifinal","Lille Esport","beGenius ESC","LLWWL","","dom","S"],["2023-08-07","LFL Division 2 2023 Summer Playoffs","Round 2","Lille Esport","Team Du Sud","LLL","","dom","S"],["2023-08-12","LFL Division 2 2023 Summer Playoffs","Semifinal","Lille Esport","Atletec","WLLWL","","dom","S"],["2023-09-18","LFL 2024 Promotion","Round 1","Lille Esport","GameWard","WLLL","","dom","S"],["2023-09-20","LFL 2024 Promotion","Round 1","Lille Esport","Team Du Sud","LLL","","dom","S"],["2023-09-28","Coupe de France 2023","Round 2","Lille Esport","Aegis (French Team)","LLWL","","dom","S"],["2024-03-19","LFL Division 2 2024 Spring Playoffs","Round 1","Zerance","Ici Japon Corp. Esport","LLL","","dom","S"],["2025-08-16","Hitpoint Masters 2025 Summer Playoffs","Round 1","eSuba","Entropiq","WLWLL","","dom","S"],["2025-08-23","Hitpoint Masters 2025 Summer Playoffs","Round 1","eSuba","EXILE esports","WWW","","dom","S"],["2025-08-24","Hitpoint Masters 2025 Summer Playoffs","Round 2","eSuba","Tan'i eSports CZ","WWW","","dom","S"],["2025-08-29","Hitpoint Masters 2025 Summer Playoffs","Round 3","eSuba","Nightbirds","WWW","","dom","S"],["2025-08-30","Hitpoint Masters 2025 Summer Playoffs","Final","eSuba","Entropiq","WWW","","dom","S"],["2026-05-19","TCL 2026 Spring Playoffs","Round 1","SU Esports","BoostGate Esports","LWWW","","dom","S"],["2026-05-22","TCL 2026 Spring Playoffs","Round 2","SU Esports","PCIFIC Esports","WLLL","","dom","S"],["2026-09-02","Esports Balkan League 2027 Promotion","Round 1","Only The Family","Croatian Flair x RLX","LWWLW","","dom","S"],["2026-09-07","Esports Balkan League 2026 Season Finals","Semifinal","Only The Family","The Secret Club","LLL","","dom","S"],["2026-09-09","Esports Balkan League 2026 Season Finals","Third-Place Match","Only The Family","Lenovo Legion Honvéd","LWLWW","","dom","S"]],"unknown":[]}
+{
+  "player": "Vespa",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2021-06-27","Open Tour France 2021 Playoffs","Semifinal","PCS Taran","Omerix Esport","LWWLW","","dom","S"],
+    ["2021-07-11","Open Tour France 2021 Playoffs","Final","PCS Taran","Warthox Esport","LWWLW","","dom","S"],
+    ["2021-09-13","LFL Division 2 2021 Promotion","Round 1","PCS Taran","Zephyr Esport","WLWW","","dom","S"],
+    ["2021-09-17","LFL Division 2 2021 Promotion","Round 2","PCS Taran","Team MCES Academy","LLL","","dom","S"],
+    ["2021-09-18","LFL Division 2 2021 Promotion","Round 2","PCS Taran","Zephyr Esport","LWWW","","dom","S"],
+    ["2021-11-28","Esport League FR Season 5 Palier 1 Playoffs","Round 3","Salade Makers","Otterz Esport","LLL","r","dom",""],
+    ["2023-03-21","LFL Division 2 2023 Spring Playoffs","Round 2","Lille Esport","Team Du Sud","LWLWL","","dom","S"],
+    ["2023-04-01","LFL Division 2 2023 Spring Playoffs","Semifinal","Lille Esport","beGenius ESC","LLWWL","","dom","S"],
+    ["2023-08-07","LFL Division 2 2023 Summer Playoffs","Round 2","Lille Esport","Team Du Sud","LLL","","dom","S"],
+    ["2023-08-12","LFL Division 2 2023 Summer Playoffs","Semifinal","Lille Esport","Atletec","WLLWL","","dom","S"],
+    ["2023-09-18","LFL 2024 Promotion","Round 1","Lille Esport","GameWard","WLLL","","dom","S"],
+    ["2023-09-20","LFL 2024 Promotion","Round 1","Lille Esport","Team Du Sud","LLL","","dom","S"],
+    ["2023-09-28","Coupe de France 2023","Round 2","Lille Esport","Aegis (French Team)","LLWL","","dom","S"],
+    ["2024-03-19","LFL Division 2 2024 Spring Playoffs","Round 1","Zerance","Ici Japon Corp. Esport","LLL","","dom","S"],
+    ["2025-08-16","Hitpoint Masters 2025 Summer Playoffs","Round 1","eSuba","Entropiq","WLWLL","","dom","S"],
+    ["2025-08-23","Hitpoint Masters 2025 Summer Playoffs","Round 1","eSuba","EXILE esports","WWW","","dom","S"],
+    ["2025-08-24","Hitpoint Masters 2025 Summer Playoffs","Round 2","eSuba","Tan'i eSports CZ","WWW","","dom","S"],
+    ["2025-08-29","Hitpoint Masters 2025 Summer Playoffs","Round 3","eSuba","Nightbirds","WWW","","dom","S"],
+    ["2025-08-30","Hitpoint Masters 2025 Summer Playoffs","Final","eSuba","Entropiq","WWW","","dom","S"],
+    ["2026-05-19","TCL 2026 Spring Playoffs","Round 1","SU Esports","BoostGate Esports","LWWW","","dom","S"],
+    ["2026-05-22","TCL 2026 Spring Playoffs","Round 2","SU Esports","PCIFIC Esports","WLLL","","dom","S"],
+    ["2026-09-02","Esports Balkan League 2027 Promotion","Round 1","Only The Family","Croatian Flair x RLX","LWWLW","","dom","S"],
+    ["2026-09-07","Esports Balkan League 2026 Season Finals","Semifinal","Only The Family","The Secret Club","LLL","","dom","S"],
+    ["2026-09-09","Esports Balkan League 2026 Season Finals","Third-Place Match","Only The Family","Lenovo Legion Honvéd","LWLWW","","dom","S"]
+  ],
+  "unknown": []
+}

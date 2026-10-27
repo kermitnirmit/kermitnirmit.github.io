@@ -1,1 +1,36 @@
-{"player":"Hai","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2012-12-15","SoloMid Series Finals","","Team NomNom","TSM","WWW","r","dom",""],["2013-05-11","NA LCS Season 3 Summer Promotion","Promotion","Quantic Gaming","compLexity Gaming","WWW","","dom","P"],["2013-09-01","NA LCS Season 3 Summer Playoffs","Final","Cloud9","TSM","WWW","","dom","P"],["2014-04-20","NA LCS 2014 Spring Playoffs","Final","Cloud9","TSM","WWW","","dom","P"],["2014-08-31","NA LCS 2014 Summer Playoffs","Semifinal","Cloud9","Team Curse","WWW","","dom","P"],["2014-09-01","NA LCS 2014 Summer Playoffs","Final","Cloud9","TSM","WLWLL","","dom","P"],["2014-10-04","Worlds 2014","Quarterfinal","Cloud9","Samsung Blue","WLLL","","worlds","P"],["2014-12-08","IEM Season IX - San Jose","Final","Cloud9","Unicorns of Love","WWW","","intl","P"],["2015-04-11","NA LCS 2015 Spring Playoffs","Semifinal","Cloud9","Team Liquid","LLWWW","","dom","P"],["2015-04-19","NA LCS 2015 Spring Playoffs","Final","Cloud9","TSM","WLLL","","dom","P"],["2015-08-29","NA LCS 2015 Regional Finals","Round 1","Cloud9","Gravity (North American Team)","LLWWW","","dom","P"],["2015-08-30","NA LCS 2015 Regional Finals","Round 2","Cloud9","Team Impulse","LLWWW","","dom","P"],["2015-08-31","NA LCS 2015 Regional Finals","Round 3","Cloud9","Team Liquid","WLWW","","dom","P"],["2016-04-02","NA LCS 2016 Spring Playoffs","Quarterfinal","Cloud9","TSM","WLLL","","dom","P"],["2016-05-26","NA Challenger Series 2016 Summer Qualifiers","Qualifiers","Cloud9 Challenger","Destined For Glory","WWW","","dom","S"],["2016-07-14","NA Challenger Series 2016 Summer Playoffs","Semifinal","Cloud9 Challenger","Dream Team","WWW","","dom","S"],["2016-07-21","NA Challenger Series 2016 Summer Playoffs","Final","Cloud9 Challenger","Team Liquid Academy","WLWLW","","dom","S"],["2016-08-06","NA LCS 2017 Spring Promotion","Qualifying Round","Cloud9 Challenger","NRG Esports","WWW","","dom","P"],["2017-04-09","NA LCS 2017 Spring Playoffs","Quarterfinal","FlyQuest","Counter Logic Gaming","LLWWW","","dom","P"],["2017-04-16","NA LCS 2017 Spring Playoffs","Semifinal","FlyQuest","TSM","LLL","","dom","P"],["2017-04-22","NA LCS 2017 Spring Playoffs","Third-Place Match","FlyQuest","Phoenix1","LWWLL","","dom","P"],["2017-09-08","NA LCS 2017 Regional Finals","Round 1","FlyQuest","Dignitas","WWW","","dom","P"],["2017-09-09","NA LCS 2017 Regional Finals","Round 2","FlyQuest","Counter Logic Gaming","WLLL","","dom","P"],["2026-06-28","Doublelift's Retirement Home Tournament","Final","Team Meteos","Team Sneaky","WLWLL","r","dom","S"]],"unknown":[["2012-12-14","SoloMid Series Finals","","Team NomNom","Team FeaR","3-2","","dom",""],["2012-12-17","SoloMid Series Finals","Final","Team NomNom","Team Curse","1-3","","dom",""],["2018-08-24","Return of the Legends 2018","Showmatch","Team West (Return of the Legends)","Team East (Return of the Legends)","3-2","","dom",""]]}
+{
+  "player": "Hai",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2012-12-15","SoloMid Series Finals","","Team NomNom","TSM","WWW","r","dom",""],
+    ["2013-05-11","NA LCS Season 3 Summer Promotion","Promotion","Quantic Gaming","compLexity Gaming","WWW","","dom","P"],
+    ["2013-09-01","NA LCS Season 3 Summer Playoffs","Final","Cloud9","TSM","WWW","","dom","P"],
+    ["2014-04-20","NA LCS 2014 Spring Playoffs","Final","Cloud9","TSM","WWW","","dom","P"],
+    ["2014-08-31","NA LCS 2014 Summer Playoffs","Semifinal","Cloud9","Team Curse","WWW","","dom","P"],
+    ["2014-09-01","NA LCS 2014 Summer Playoffs","Final","Cloud9","TSM","WLWLL","","dom","P"],
+    ["2014-10-04","Worlds 2014","Quarterfinal","Cloud9","Samsung Blue","WLLL","","worlds","P"],
+    ["2014-12-08","IEM Season IX - San Jose","Final","Cloud9","Unicorns of Love","WWW","","intl","P"],
+    ["2015-04-11","NA LCS 2015 Spring Playoffs","Semifinal","Cloud9","Team Liquid","LLWWW","","dom","P"],
+    ["2015-04-19","NA LCS 2015 Spring Playoffs","Final","Cloud9","TSM","WLLL","","dom","P"],
+    ["2015-08-29","NA LCS 2015 Regional Finals","Round 1","Cloud9","Gravity (North American Team)","LLWWW","","dom","P"],
+    ["2015-08-30","NA LCS 2015 Regional Finals","Round 2","Cloud9","Team Impulse","LLWWW","","dom","P"],
+    ["2015-08-31","NA LCS 2015 Regional Finals","Round 3","Cloud9","Team Liquid","WLWW","","dom","P"],
+    ["2016-04-02","NA LCS 2016 Spring Playoffs","Quarterfinal","Cloud9","TSM","WLLL","","dom","P"],
+    ["2016-05-26","NA Challenger Series 2016 Summer Qualifiers","Qualifiers","Cloud9 Challenger","Destined For Glory","WWW","","dom","S"],
+    ["2016-07-14","NA Challenger Series 2016 Summer Playoffs","Semifinal","Cloud9 Challenger","Dream Team","WWW","","dom","S"],
+    ["2016-07-21","NA Challenger Series 2016 Summer Playoffs","Final","Cloud9 Challenger","Team Liquid Academy","WLWLW","","dom","S"],
+    ["2016-08-06","NA LCS 2017 Spring Promotion","Qualifying Round","Cloud9 Challenger","NRG Esports","WWW","","dom","P"],
+    ["2017-04-09","NA LCS 2017 Spring Playoffs","Quarterfinal","FlyQuest","Counter Logic Gaming","LLWWW","","dom","P"],
+    ["2017-04-16","NA LCS 2017 Spring Playoffs","Semifinal","FlyQuest","TSM","LLL","","dom","P"],
+    ["2017-04-22","NA LCS 2017 Spring Playoffs","Third-Place Match","FlyQuest","Phoenix1","LWWLL","","dom","P"],
+    ["2017-09-08","NA LCS 2017 Regional Finals","Round 1","FlyQuest","Dignitas","WWW","","dom","P"],
+    ["2017-09-09","NA LCS 2017 Regional Finals","Round 2","FlyQuest","Counter Logic Gaming","WLLL","","dom","P"],
+    ["2026-06-28","Doublelift's Retirement Home Tournament","Final","Team Meteos","Team Sneaky","WLWLL","r","dom","S"]
+  ],
+  "unknown": [
+    ["2012-12-14","SoloMid Series Finals","","Team NomNom","Team FeaR","3-2","","dom",""],
+    ["2012-12-17","SoloMid Series Finals","Final","Team NomNom","Team Curse","1-3","","dom",""],
+    ["2018-08-24","Return of the Legends 2018","Showmatch","Team West (Return of the Legends)","Team East (Return of the Legends)","3-2","","dom",""]
+  ]
+}

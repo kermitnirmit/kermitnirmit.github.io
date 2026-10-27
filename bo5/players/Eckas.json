@@ -1,1 +1,41 @@
-{"player":"Eckas","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2018-12-12","PG Nationals 2019 Spring Promotion","Final","Cyberground Gaming","Team QLASH Academy","WWW","","dom","S"],["2019-07-22","PG Nationals 2019 Summer Playoffs","Semifinal","Outplayed","Racoon (Italian Team)","WWW","","dom","S"],["2019-07-28","PG Nationals 2019 Summer Playoffs","Final","Outplayed","Campus Party Sparks","LLWL","","dom","S"],["2019-12-07","ESL Vodafone Championship 2019 Winter Playoffs","Final","Outplayed","MOBA ROG","LWLL","","dom","S"],["2020-03-11","PG Nationals 2020 Spring Playoffs","Semifinal","Outplayed","Racoon (Italian Team)","WWLLL","","dom","S"],["2020-07-14","PG Nationals 2020 Summer Playoffs","Round 1","Samsung Morning Stars","Racoon (Italian Team)","WLWW","","dom","S"],["2020-07-21","PG Nationals 2020 Summer Playoffs","Semifinal","Samsung Morning Stars","Mkers","WLWW","","dom","S"],["2020-08-02","PG Nationals 2020 Summer Playoffs","Final","Samsung Morning Stars","Racoon (Italian Team)","WLWW","","dom","S"],["2020-11-07","Iberian Cup 2020","Quarterfinal","Vodafone Giants.Spain","S2V Esports","LWWW","","dom","S"],["2020-11-14","Iberian Cup 2020","Semifinal","Vodafone Giants.Spain","MAD Lions Madrid","WWW","","dom","S"],["2020-11-15","Iberian Cup 2020","Final","Vodafone Giants.Spain","G2 Arctic","LLWWW","","dom","S"],["2021-10-10","Ultraliga Season 7 Expansion","Round 1","Iron Wolves","Estonian Vipers","WWW","r","dom","S"],["2021-10-15","Ultraliga Season 7 Expansion","Round 2","Iron Wolves","Goskilla","WWW","r","dom","S"],["2022-08-07","Prime League 1st Division 2022 Summer Playoffs","Round 2","SK Gaming Prime","Unicorns of Love Sexy Edition","LLL","","dom","S"],["2022-08-11","Prime League 1st Division 2022 Summer Playoffs","Semifinal","SK Gaming Prime","FC Schalke 04 Esports","LLL","","dom","S"],["2022-11-08","Prime Super Cup 2022","Semifinal","SK Gaming Prime","Berlin International Gaming","LLWL","","dom","S"],["2023-03-22","LFL 2023 Spring Playoffs","Round 1","GameWard","Team GO","LLWL","","dom","S"],["2023-09-18","LFL 2024 Promotion","Round 1","GameWard","Lille Esport","LWWW","","dom","S"],["2023-09-21","LFL 2024 Promotion","Round 2","GameWard","IziDream","WWW","","dom","S"],["2023-09-28","Coupe de France 2023","Round 2","GameWard","Team BDS Academy","WWW","","dom","S"],["2023-10-02","Coupe de France 2023","Quarterfinal","GameWard","Team GO","WLLL","","dom","S"],["2023-10-21","Comic Con Baltics 2023","Final","Lietuvos Randomai","Monkey Shoot Pig","WWW","r","dom","S"],["2024-09-19","Coupe de France 2024","Round 2","Solary","Le Pouvoir de l'Amitié","WWW","","dom","S"],["2024-09-23","Coupe de France 2024","Quarterfinal","Solary","Team BDS Academy","LLWWW","","dom","S"],["2024-10-09","Coupe de France 2024","Semifinal","Solary","BK ROG Esports","WWW","","dom","S"],["2024-10-23","Coupe de France 2024","Final","Solary","Vitality.Bee","LWLL","","dom","S"],["2025-08-17","Arabian League 2025 Summer Split","Semifinal","Geekay Esports","FN Esports","WWW","","dom","S"],["2025-08-19","Arabian League 2025 Summer Split","Final","Geekay Esports","GnG Amazigh","WWW","","dom","S"],["2025-10-11","EMEA Masters 2025 Summer Main Event","Round of 16","Geekay Esports","Veni Vidi Vici (Spanish Team)","WWW","","dom","S"],["2025-10-16","EMEA Masters 2025 Summer Main Event","Quarterfinal","Geekay Esports","Unicorns of Love Sexy Edition","LLWL","","dom","S"],["2026-05-24","Comic Con Baltics 2026","Final","Kenty","Wilderness Gaming","WWLLW","","dom","S"]],"unknown":[["2018-09-02","Baltic Esports League Season 1","Grand Finals","Turing eSports","ESCORT P9","3-2","","dom","S"]]}
+{
+  "player": "Eckas",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2018-12-12","PG Nationals 2019 Spring Promotion","Final","Cyberground Gaming","Team QLASH Academy","WWW","","dom","S"],
+    ["2019-07-22","PG Nationals 2019 Summer Playoffs","Semifinal","Outplayed","Racoon (Italian Team)","WWW","","dom","S"],
+    ["2019-07-28","PG Nationals 2019 Summer Playoffs","Final","Outplayed","Campus Party Sparks","LLWL","","dom","S"],
+    ["2019-12-07","ESL Vodafone Championship 2019 Winter Playoffs","Final","Outplayed","MOBA ROG","LWLL","","dom","S"],
+    ["2020-03-11","PG Nationals 2020 Spring Playoffs","Semifinal","Outplayed","Racoon (Italian Team)","WWLLL","","dom","S"],
+    ["2020-07-14","PG Nationals 2020 Summer Playoffs","Round 1","Samsung Morning Stars","Racoon (Italian Team)","WLWW","","dom","S"],
+    ["2020-07-21","PG Nationals 2020 Summer Playoffs","Semifinal","Samsung Morning Stars","Mkers","WLWW","","dom","S"],
+    ["2020-08-02","PG Nationals 2020 Summer Playoffs","Final","Samsung Morning Stars","Racoon (Italian Team)","WLWW","","dom","S"],
+    ["2020-11-07","Iberian Cup 2020","Quarterfinal","Vodafone Giants.Spain","S2V Esports","LWWW","","dom","S"],
+    ["2020-11-14","Iberian Cup 2020","Semifinal","Vodafone Giants.Spain","MAD Lions Madrid","WWW","","dom","S"],
+    ["2020-11-15","Iberian Cup 2020","Final","Vodafone Giants.Spain","G2 Arctic","LLWWW","","dom","S"],
+    ["2021-10-10","Ultraliga Season 7 Expansion","Round 1","Iron Wolves","Estonian Vipers","WWW","r","dom","S"],
+    ["2021-10-15","Ultraliga Season 7 Expansion","Round 2","Iron Wolves","Goskilla","WWW","r","dom","S"],
+    ["2022-08-07","Prime League 1st Division 2022 Summer Playoffs","Round 2","SK Gaming Prime","Unicorns of Love Sexy Edition","LLL","","dom","S"],
+    ["2022-08-11","Prime League 1st Division 2022 Summer Playoffs","Semifinal","SK Gaming Prime","FC Schalke 04 Esports","LLL","","dom","S"],
+    ["2022-11-08","Prime Super Cup 2022","Semifinal","SK Gaming Prime","Berlin International Gaming","LLWL","","dom","S"],
+    ["2023-03-22","LFL 2023 Spring Playoffs","Round 1","GameWard","Team GO","LLWL","","dom","S"],
+    ["2023-09-18","LFL 2024 Promotion","Round 1","GameWard","Lille Esport","LWWW","","dom","S"],
+    ["2023-09-21","LFL 2024 Promotion","Round 2","GameWard","IziDream","WWW","","dom","S"],
+    ["2023-09-28","Coupe de France 2023","Round 2","GameWard","Team BDS Academy","WWW","","dom","S"],
+    ["2023-10-02","Coupe de France 2023","Quarterfinal","GameWard","Team GO","WLLL","","dom","S"],
+    ["2023-10-21","Comic Con Baltics 2023","Final","Lietuvos Randomai","Monkey Shoot Pig","WWW","r","dom","S"],
+    ["2024-09-19","Coupe de France 2024","Round 2","Solary","Le Pouvoir de l'Amitié","WWW","","dom","S"],
+    ["2024-09-23","Coupe de France 2024","Quarterfinal","Solary","Team BDS Academy","LLWWW","","dom","S"],
+    ["2024-10-09","Coupe de France 2024","Semifinal","Solary","BK ROG Esports","WWW","","dom","S"],
+    ["2024-10-23","Coupe de France 2024","Final","Solary","Vitality.Bee","LWLL","","dom","S"],
+    ["2025-08-17","Arabian League 2025 Summer Split","Semifinal","Geekay Esports","FN Esports","WWW","","dom","S"],
+    ["2025-08-19","Arabian League 2025 Summer Split","Final","Geekay Esports","GnG Amazigh","WWW","","dom","S"],
+    ["2025-10-11","EMEA Masters 2025 Summer Main Event","Round of 16","Geekay Esports","Veni Vidi Vici (Spanish Team)","WWW","","dom","S"],
+    ["2025-10-16","EMEA Masters 2025 Summer Main Event","Quarterfinal","Geekay Esports","Unicorns of Love Sexy Edition","LLWL","","dom","S"],
+    ["2026-05-24","Comic Con Baltics 2026","Final","Kenty","Wilderness Gaming","WWLLW","","dom","S"]
+  ],
+  "unknown": [
+    ["2018-09-02","Baltic Esports League Season 1","Grand Finals","Turing eSports","ESCORT P9","3-2","","dom","S"]
+  ]
+}

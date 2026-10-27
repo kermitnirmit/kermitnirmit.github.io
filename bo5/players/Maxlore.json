@@ -1,1 +1,31 @@
-{"player":"Maxlore","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2015-12-06","ESL UK Premiership 2015 Summer","Final","Team Infused","FM eSports","WWW","r","dom",""],["2016-03-08","EU Challenger Series 2016 Spring Playoffs","Semifinal","Inspire eSports","Huma","WLWLL","","dom","S"],["2016-04-03","ESL UK Premiership 2016 Spring Playoffs","Final","Renegades: Banditos","ManaLight","WWW","r","dom",""],["2016-08-13","EU LCS 2016 Summer Playoffs","Quarterfinal","Giants Gaming","Unicorns of Love","LWLL","","dom","P"],["2016-09-03","EU LCS 2016 Regional Finals","Round 1","Giants Gaming","Unicorns of Love","LLL","","dom","P"],["2017-08-19","EU LCS 2017 Summer Playoffs","Quarterfinal","Misfits Gaming","Unicorns of Love","WWW","","dom","P"],["2017-08-26","EU LCS 2017 Summer Playoffs","Semifinal","Misfits Gaming","Fnatic","WWLW","","dom","P"],["2017-09-03","EU LCS 2017 Summer Playoffs","Final","Misfits Gaming","G2 Esports","LLL","","dom","P"],["2017-10-20","Worlds 2017","Quarterfinal","Misfits Gaming","SK Telecom T1","LWWLL","","worlds","P"],["2018-08-25","EU LCS 2018 Summer Playoffs","Quarterfinal","Misfits Gaming","G2 Esports","WWW","","dom","P"],["2018-09-01","EU LCS 2018 Summer Playoffs","Semifinal","Misfits Gaming","Fnatic","LWLL","","dom","P"],["2018-09-08","EU LCS 2018 Summer Playoffs","Third-Place Match","Misfits Gaming","Team Vitality","WLLL","","dom","P"],["2018-09-14","EU LCS 2018 Regional Finals","Round 1","Misfits Gaming","Splyce","LWLWL","","dom","P"],["2021-03-15","LVP SuperLiga 2021 Spring Playoffs","Quarterfinal","Movistar Riders","Vodafone Giants.Spain","LLWL","","dom","S"],["2021-08-06","LVP SuperLiga 2021 Summer Playoffs","Semifinal","Movistar Riders","Vodafone Giants.Spain","WLLL","","dom","S"],["2021-09-09","European Masters 2021 Summer Main Event","Quarterfinal","Movistar Riders","Fnatic Rising","WLLL","","dom","S"],["2021-11-02","Iberian Cup 2021","Quarterfinal","Movistar Riders","Karma Clan Esports","WWW","","dom","S"],["2022-08-08","LVP SuperLiga 2022 Summer Playoffs","Round 2","Giants (Spanish Team)","Team Heretics","LLL","","dom","S"],["2022-08-15","LVP SuperLiga 2022 Summer Playoffs","Semifinal","Giants (Spanish Team)","BISONS ECLUB","WWW","","dom","S"],["2022-08-20","LVP SuperLiga 2022 Summer Playoffs","Final","Giants (Spanish Team)","Team Heretics","LLWL","","dom","S"],["2023-07-26","LVP SuperLiga 2023 Summer Playoffs","Round 1","Barça eSports","Giants (Spanish Team)","WLLL","","dom","S"]],"unknown":[["2021-11-09","Iberian Cup 2021","Semifinal","Movistar Riders","MAD Lions Madrid","2-3","WLWL","dom","S"]]}
+{
+  "player": "Maxlore",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2015-12-06","ESL UK Premiership 2015 Summer","Final","Team Infused","FM eSports","WWW","r","dom",""],
+    ["2016-03-08","EU Challenger Series 2016 Spring Playoffs","Semifinal","Inspire eSports","Huma","WLWLL","","dom","S"],
+    ["2016-04-03","ESL UK Premiership 2016 Spring Playoffs","Final","Renegades: Banditos","ManaLight","WWW","r","dom",""],
+    ["2016-08-13","EU LCS 2016 Summer Playoffs","Quarterfinal","Giants Gaming","Unicorns of Love","LWLL","","dom","P"],
+    ["2016-09-03","EU LCS 2016 Regional Finals","Round 1","Giants Gaming","Unicorns of Love","LLL","","dom","P"],
+    ["2017-08-19","EU LCS 2017 Summer Playoffs","Quarterfinal","Misfits Gaming","Unicorns of Love","WWW","","dom","P"],
+    ["2017-08-26","EU LCS 2017 Summer Playoffs","Semifinal","Misfits Gaming","Fnatic","WWLW","","dom","P"],
+    ["2017-09-03","EU LCS 2017 Summer Playoffs","Final","Misfits Gaming","G2 Esports","LLL","","dom","P"],
+    ["2017-10-20","Worlds 2017","Quarterfinal","Misfits Gaming","SK Telecom T1","LWWLL","","worlds","P"],
+    ["2018-08-25","EU LCS 2018 Summer Playoffs","Quarterfinal","Misfits Gaming","G2 Esports","WWW","","dom","P"],
+    ["2018-09-01","EU LCS 2018 Summer Playoffs","Semifinal","Misfits Gaming","Fnatic","LWLL","","dom","P"],
+    ["2018-09-08","EU LCS 2018 Summer Playoffs","Third-Place Match","Misfits Gaming","Team Vitality","WLLL","","dom","P"],
+    ["2018-09-14","EU LCS 2018 Regional Finals","Round 1","Misfits Gaming","Splyce","LWLWL","","dom","P"],
+    ["2021-03-15","LVP SuperLiga 2021 Spring Playoffs","Quarterfinal","Movistar Riders","Vodafone Giants.Spain","LLWL","","dom","S"],
+    ["2021-08-06","LVP SuperLiga 2021 Summer Playoffs","Semifinal","Movistar Riders","Vodafone Giants.Spain","WLLL","","dom","S"],
+    ["2021-09-09","European Masters 2021 Summer Main Event","Quarterfinal","Movistar Riders","Fnatic Rising","WLLL","","dom","S"],
+    ["2021-11-02","Iberian Cup 2021","Quarterfinal","Movistar Riders","Karma Clan Esports","WWW","","dom","S"],
+    ["2022-08-08","LVP SuperLiga 2022 Summer Playoffs","Round 2","Giants (Spanish Team)","Team Heretics","LLL","","dom","S"],
+    ["2022-08-15","LVP SuperLiga 2022 Summer Playoffs","Semifinal","Giants (Spanish Team)","BISONS ECLUB","WWW","","dom","S"],
+    ["2022-08-20","LVP SuperLiga 2022 Summer Playoffs","Final","Giants (Spanish Team)","Team Heretics","LLWL","","dom","S"],
+    ["2023-07-26","LVP SuperLiga 2023 Summer Playoffs","Round 1","Barça eSports","Giants (Spanish Team)","WLLL","","dom","S"]
+  ],
+  "unknown": [
+    ["2021-11-09","Iberian Cup 2021","Semifinal","Movistar Riders","MAD Lions Madrid","2-3","WLWL","dom","S"]
+  ]
+}

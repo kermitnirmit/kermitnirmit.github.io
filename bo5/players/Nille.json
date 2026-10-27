@@ -1,1 +1,40 @@
-{"player":"Nille","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2020-03-29","Nordic Championship 2020 Spring Playoffs","Final","Team Singularity","Vipers Inc","WWLW","","dom","S"],["2021-08-18","LVP SuperLiga 2022 Spring Promotion","Round 1","eMonkeyz","BCN Squad","LLL","","dom","S"],["2021-08-25","LVP SuperLiga 2022 Spring Promotion","Round 2","eMonkeyz","Astralis SB","LLL","","dom","S"],["2022-03-16","NLC 2022 Spring Playoffs","Round 1","Vanir","Dusty","LLL","","dom","S"],["2023-03-15","NLC 2023 Spring Playoffs","Round 1","Verdant","Ruddy Esports","WWW","","dom","S"],["2023-03-21","NLC 2023 Spring Playoffs","Semifinal","Verdant","NORD Esports","LWLWW","","dom","S"],["2023-03-28","NLC 2023 Spring Playoffs","Final","Verdant","Riddle Esports","LLL","","dom","S"],["2023-07-25","NLC 2023 Summer Playoffs","Round 1","Verdant","Nativz","WLWLL","","dom","S"],["2023-08-01","NLC 2023 Summer Playoffs","Semifinal","Verdant","NORD Esports","LLL","","dom","S"],["2023-10-30","Aurora Cup 2023 Main Event","Quarterfinal","Verdant","Ruddy Esports","WWW","","dom","S"],["2023-11-06","Aurora Cup 2023 Main Event","Semifinal","Verdant","Jlingz Esports","WLWW","","dom","S"],["2023-11-08","Aurora Cup 2023 Main Event","Final","Verdant","Fourth Wall","WWW","","dom","S"],["2024-03-13","NLC 2024 Spring Playoffs","Round 1","NORD Esports","Lionscreed","WWLLL","","dom","S"],["2024-03-20","NLC 2024 Spring Playoffs","Semifinal","NORD Esports","Ruddy Esports","LLL","","dom","S"],["2024-07-25","NLC 2024 Summer Playoffs","Round 1","NORD Esports","DMG Esports","LWWLW","","dom","S"],["2024-07-30","NLC 2024 Summer Playoffs","Semifinal","NORD Esports","Venomcrest Esports","LLL","","dom","S"],["2024-08-02","EMEA Masters 2024 Summer LCQ","Round 3","NORD Esports","Misa Esports","WLLL","","dom","S"],["2024-11-10","Sigma Cup 2024 Gauntlet","Final","WLGaming Esports","Entropiq","LLL","","dom","S"],["2025-03-02","LFL Division 2 2025 Winter Playoffs","Round 1","Team Valiant","IziDream","WWLLL","","dom","S"],["2025-06-01","LFL Division 2 2025 Spring Playoffs","Round 1","Team Valiant","Zerance","WLLWW","","dom","S"],["2025-06-07","LFL Division 2 2025 Spring Playoffs","Round 2","Team Valiant","Project Conquerors","WLWW","","dom","S"],["2025-06-08","LFL Division 2 2025 Spring Playoffs","Final","Team Valiant","Esprit Shōnen","LWWW","","dom","S"],["2025-09-07","LFL Division 2 2025 Summer Playoffs","Round 1","Caldya Esport","Project Conquerors","LLL","","dom","S"],["2025-10-24","TEC Season 4","Semifinal","Team 10 Euro Deal","Team Axelent69","WLWLL","","dom","S"],["2025-12-07","A1 Gaming League 2025 Season","Final","win all","Magaza Esports","LLL","r","dom","S"],["2026-03-04","NLC 2026 Winter Playoffs","Round 1","Arctic Pandas","DMG Esports","WWW","","dom","S"],["2026-03-07","NLC 2026 Winter Playoffs","Final","Arctic Pandas","Verdant","LLL","","dom","S"],["2026-09-07","NLC 2026 Summer Split","Round 4","Arctic Pandas","Ruddy Corporation","LLL","","dom","S"],["2026-09-14","NLC 2026 Summer Split","Round 4","Arctic Pandas","Verdant","LLL","","dom","S"]],"unknown":[["2022-10-29","Telialigaen 2022 Autumn Playoffs","Round 2","Riddle NO","Domino esports","3-1","","dom","S"],["2022-11-13","Telialigaen 2022 Autumn Playoffs","Final","Riddle NO","Domino esports","2-3","","dom","S"]]}
+{
+  "player": "Nille",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2020-03-29","Nordic Championship 2020 Spring Playoffs","Final","Team Singularity","Vipers Inc","WWLW","","dom","S"],
+    ["2021-08-18","LVP SuperLiga 2022 Spring Promotion","Round 1","eMonkeyz","BCN Squad","LLL","","dom","S"],
+    ["2021-08-25","LVP SuperLiga 2022 Spring Promotion","Round 2","eMonkeyz","Astralis SB","LLL","","dom","S"],
+    ["2022-03-16","NLC 2022 Spring Playoffs","Round 1","Vanir","Dusty","LLL","","dom","S"],
+    ["2023-03-15","NLC 2023 Spring Playoffs","Round 1","Verdant","Ruddy Esports","WWW","","dom","S"],
+    ["2023-03-21","NLC 2023 Spring Playoffs","Semifinal","Verdant","NORD Esports","LWLWW","","dom","S"],
+    ["2023-03-28","NLC 2023 Spring Playoffs","Final","Verdant","Riddle Esports","LLL","","dom","S"],
+    ["2023-07-25","NLC 2023 Summer Playoffs","Round 1","Verdant","Nativz","WLWLL","","dom","S"],
+    ["2023-08-01","NLC 2023 Summer Playoffs","Semifinal","Verdant","NORD Esports","LLL","","dom","S"],
+    ["2023-10-30","Aurora Cup 2023 Main Event","Quarterfinal","Verdant","Ruddy Esports","WWW","","dom","S"],
+    ["2023-11-06","Aurora Cup 2023 Main Event","Semifinal","Verdant","Jlingz Esports","WLWW","","dom","S"],
+    ["2023-11-08","Aurora Cup 2023 Main Event","Final","Verdant","Fourth Wall","WWW","","dom","S"],
+    ["2024-03-13","NLC 2024 Spring Playoffs","Round 1","NORD Esports","Lionscreed","WWLLL","","dom","S"],
+    ["2024-03-20","NLC 2024 Spring Playoffs","Semifinal","NORD Esports","Ruddy Esports","LLL","","dom","S"],
+    ["2024-07-25","NLC 2024 Summer Playoffs","Round 1","NORD Esports","DMG Esports","LWWLW","","dom","S"],
+    ["2024-07-30","NLC 2024 Summer Playoffs","Semifinal","NORD Esports","Venomcrest Esports","LLL","","dom","S"],
+    ["2024-08-02","EMEA Masters 2024 Summer LCQ","Round 3","NORD Esports","Misa Esports","WLLL","","dom","S"],
+    ["2024-11-10","Sigma Cup 2024 Gauntlet","Final","WLGaming Esports","Entropiq","LLL","","dom","S"],
+    ["2025-03-02","LFL Division 2 2025 Winter Playoffs","Round 1","Team Valiant","IziDream","WWLLL","","dom","S"],
+    ["2025-06-01","LFL Division 2 2025 Spring Playoffs","Round 1","Team Valiant","Zerance","WLLWW","","dom","S"],
+    ["2025-06-07","LFL Division 2 2025 Spring Playoffs","Round 2","Team Valiant","Project Conquerors","WLWW","","dom","S"],
+    ["2025-06-08","LFL Division 2 2025 Spring Playoffs","Final","Team Valiant","Esprit Shōnen","LWWW","","dom","S"],
+    ["2025-09-07","LFL Division 2 2025 Summer Playoffs","Round 1","Caldya Esport","Project Conquerors","LLL","","dom","S"],
+    ["2025-10-24","TEC Season 4","Semifinal","Team 10 Euro Deal","Team Axelent69","WLWLL","","dom","S"],
+    ["2025-12-07","A1 Gaming League 2025 Season","Final","win all","Magaza Esports","LLL","r","dom","S"],
+    ["2026-03-04","NLC 2026 Winter Playoffs","Round 1","Arctic Pandas","DMG Esports","WWW","","dom","S"],
+    ["2026-03-07","NLC 2026 Winter Playoffs","Final","Arctic Pandas","Verdant","LLL","","dom","S"],
+    ["2026-09-07","NLC 2026 Summer Split","Round 4","Arctic Pandas","Ruddy Corporation","LLL","","dom","S"],
+    ["2026-09-14","NLC 2026 Summer Split","Round 4","Arctic Pandas","Verdant","LLL","","dom","S"]
+  ],
+  "unknown": [
+    ["2022-10-29","Telialigaen 2022 Autumn Playoffs","Round 2","Riddle NO","Domino esports","3-1","","dom","S"],
+    ["2022-11-13","Telialigaen 2022 Autumn Playoffs","Final","Riddle NO","Domino esports","2-3","","dom","S"]
+  ]
+}

@@ -1,1 +1,30 @@
-{"player":"DudsTheBoy","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2016-03-08","Brazilian Challenger Circuit 2016 Split 1 Playoffs","Semifinal","Estúdio XP e-Sports","Robot E-Sports Team","WWW","","dom","S"],["2016-03-26","Brazilian Challenger Circuit 2016 Split 1 Playoffs","Final","Overload (Brazilian Team)","Big Gods","LLWL","","dom","S"],["2016-04-09","CBLOL 2016 Split 2 Promotion","Qual","Overload (Brazilian Team)","paiN Gaming","LLL","","dom","P"],["2016-07-05","Brazilian Challenger Circuit 2016 Split 2 Playoffs","Semifinal","e-Champ Gaming","Team Genesis","LLL","","dom","S"],["2016-07-22","CBLOL 2017 Split 1 Promotion","Qual","e-Champ Gaming","Operation Kino e-Sports","LLWL","","dom","P"],["2016-08-06","Brazilian Challenger Circuit 2017 Split 1 Promotion","Qualifiers","Sob Nova Direção","INTZ Academy","WWW","","dom","S"],["2017-03-09","Brazilian Challenger Circuit 2017 Split 1 Playoffs","Semifinal","T Show","ProGaming Esports","LWLWW","","dom","S"],["2017-03-11","Brazilian Challenger Circuit 2017 Split 1 Playoffs","Final","T Show","INTZ.Genesis","WWLLW","","dom","S"],["2018-03-29","Brazilian Challenger Circuit 2018 Split 1 Playoffs","Semifinal","T Show","Flamengo Esports","LLWL","","dom","S"],["2018-08-20","Brazilian Challenger Circuit 2018 Split 2 Playoffs","Semifinal","Redemption eSports Porto Alegre","Operation Kino e-Sports","LWWW","","dom","S"],["2018-08-26","Brazilian Challenger Circuit 2018 Split 2 Playoffs","Final","Redemption eSports Porto Alegre","paiN Gaming","WWW","","dom","S"],["2019-04-07","CBLOL 2019 Split 1 Playoffs","Semifinal","Redemption eSports Porto Alegre","INTZ","LLWWL","","dom","P"],["2019-08-25","CBLOL 2019 Split 2 Playoffs","Semifinal","KaBuM! Esports","INTZ","WLLL","","dom","P"],["2020-05-02","CBLOL 2020 Split 1 Playoffs","Semifinal","KaBuM! Esports","Vivo Keyd","WWW","","dom","P"],["2020-05-09","CBLOL 2020 Split 1 Playoffs","Final","KaBuM! Esports","Flamengo Esports","WWW","","dom","P"],["2020-08-23","CBLOL 2020 Split 2 Playoffs","Semifinal","KaBuM! Esports","INTZ","LWLWL","","dom","P"],["2021-03-27","CBLOL 2021 Split 1 Playoffs","Quarterfinal","LOUD","paiN Gaming","WWLLL","","dom","P"],["2021-08-07","CBLOL 2021 Split 2 Playoffs","Quarterfinal","LOUD","Rensga Esports","LLL","","dom","P"],["2022-08-12","CBLOL 2022 Split 2 Playoffs","Round 1","KaBuM! Esports","Miners","WWW","","dom","P"],["2022-08-20","CBLOL 2022 Split 2 Playoffs","Round 2","KaBuM! Esports","RED Canids","LWLL","","dom","P"],["2023-03-29","CBLOL Academy 2023 Split 1 Playoffs","Round 1","KaBuM! Academy","Los Grandes Academy","WLWLL","","dom","S"],["2023-04-10","CBLOL Academy 2023 Split 1 Playoffs","Round 3","KaBuM! Academy","INTZ Academy","LLL","","dom","S"]],"unknown":[]}
+{
+  "player": "DudsTheBoy",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2016-03-08","Brazilian Challenger Circuit 2016 Split 1 Playoffs","Semifinal","Estúdio XP e-Sports","Robot E-Sports Team","WWW","","dom","S"],
+    ["2016-03-26","Brazilian Challenger Circuit 2016 Split 1 Playoffs","Final","Overload (Brazilian Team)","Big Gods","LLWL","","dom","S"],
+    ["2016-04-09","CBLOL 2016 Split 2 Promotion","Qual","Overload (Brazilian Team)","paiN Gaming","LLL","","dom","P"],
+    ["2016-07-05","Brazilian Challenger Circuit 2016 Split 2 Playoffs","Semifinal","e-Champ Gaming","Team Genesis","LLL","","dom","S"],
+    ["2016-07-22","CBLOL 2017 Split 1 Promotion","Qual","e-Champ Gaming","Operation Kino e-Sports","LLWL","","dom","P"],
+    ["2016-08-06","Brazilian Challenger Circuit 2017 Split 1 Promotion","Qualifiers","Sob Nova Direção","INTZ Academy","WWW","","dom","S"],
+    ["2017-03-09","Brazilian Challenger Circuit 2017 Split 1 Playoffs","Semifinal","T Show","ProGaming Esports","LWLWW","","dom","S"],
+    ["2017-03-11","Brazilian Challenger Circuit 2017 Split 1 Playoffs","Final","T Show","INTZ.Genesis","WWLLW","","dom","S"],
+    ["2018-03-29","Brazilian Challenger Circuit 2018 Split 1 Playoffs","Semifinal","T Show","Flamengo Esports","LLWL","","dom","S"],
+    ["2018-08-20","Brazilian Challenger Circuit 2018 Split 2 Playoffs","Semifinal","Redemption eSports Porto Alegre","Operation Kino e-Sports","LWWW","","dom","S"],
+    ["2018-08-26","Brazilian Challenger Circuit 2018 Split 2 Playoffs","Final","Redemption eSports Porto Alegre","paiN Gaming","WWW","","dom","S"],
+    ["2019-04-07","CBLOL 2019 Split 1 Playoffs","Semifinal","Redemption eSports Porto Alegre","INTZ","LLWWL","","dom","P"],
+    ["2019-08-25","CBLOL 2019 Split 2 Playoffs","Semifinal","KaBuM! Esports","INTZ","WLLL","","dom","P"],
+    ["2020-05-02","CBLOL 2020 Split 1 Playoffs","Semifinal","KaBuM! Esports","Vivo Keyd","WWW","","dom","P"],
+    ["2020-05-09","CBLOL 2020 Split 1 Playoffs","Final","KaBuM! Esports","Flamengo Esports","WWW","","dom","P"],
+    ["2020-08-23","CBLOL 2020 Split 2 Playoffs","Semifinal","KaBuM! Esports","INTZ","LWLWL","","dom","P"],
+    ["2021-03-27","CBLOL 2021 Split 1 Playoffs","Quarterfinal","LOUD","paiN Gaming","WWLLL","","dom","P"],
+    ["2021-08-07","CBLOL 2021 Split 2 Playoffs","Quarterfinal","LOUD","Rensga Esports","LLL","","dom","P"],
+    ["2022-08-12","CBLOL 2022 Split 2 Playoffs","Round 1","KaBuM! Esports","Miners","WWW","","dom","P"],
+    ["2022-08-20","CBLOL 2022 Split 2 Playoffs","Round 2","KaBuM! Esports","RED Canids","LWLL","","dom","P"],
+    ["2023-03-29","CBLOL Academy 2023 Split 1 Playoffs","Round 1","KaBuM! Academy","Los Grandes Academy","WLWLL","","dom","S"],
+    ["2023-04-10","CBLOL Academy 2023 Split 1 Playoffs","Round 3","KaBuM! Academy","INTZ Academy","LLL","","dom","S"]
+  ],
+  "unknown": []
+}

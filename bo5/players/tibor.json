@@ -1,1 +1,35 @@
-{"player":"tibor","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2020-08-11","Baltic Masters Season 5 Playoffs","Semifinal","Five Kings","Estonian Vipers","LWLWW","","dom","S"],["2020-08-13","Baltic Masters Season 5 Playoffs","Final","Five Kings","Iron Wolves","WLWLW","","dom","S"],["2021-03-02","Baltic Masters 2021 Spring Playoffs","Semifinal","Goskilla","Iron Wolves","WWW","","dom","S"],["2021-03-09","Baltic Masters 2021 Spring Playoffs","Final","Goskilla","Method2Madness","WLLWW","","dom","S"],["2022-04-08","Prime League 2nd Division 2022 Spring Playoffs","Round 1","TT willhaben","Eintracht Frankfurt","WLLWL","","dom","S"],["2022-08-03","Prime League 2nd Division 2022 Summer Playoffs","Round 1","TT willhaben","Sprout (German Team)","LLL","","dom","S"],["2023-07-27","Esports Balkan League 2023 Summer Playoffs","Round 1","SPIKE Syndicate","Cyber Wolves","LLL","","dom","S"],["2023-10-04","Esports Balkan League 2023 Pro-Am","Stage 2","Partizan Esports","Diamant Esports","LLL","","dom","S"],["2023-10-06","Esports Balkan League 2023 Pro-Am","Stage 2","Partizan Esports","SPIKE Syndicate","WLLWW","","dom","S"],["2023-10-07","Esports Balkan League 2023 Pro-Am","Stage 2","Partizan Esports","Diamant Esports","LLWL","","dom","S"],["2023-11-01","Sigma Cup 2023 Gauntlet","Final","Partizan Esports","WLGaming Esports","LLL","","dom","S"],["2024-03-14","Esports Balkan League 2024 Spring Playoffs","Round 1","BeFive","Lupus Esports","LWWW","","dom","S"],["2024-03-15","Esports Balkan League 2024 Spring Playoffs","Semifinal","BeFive","Diamant Esports","WWLW","","dom","S"],["2024-04-05","Esports Balkan League 2024 Spring Playoffs","Final","BeFive","SPIKE Syndicate","LLWWW","","dom","S"],["2024-07-10","Esports Balkan League 2024 Summer Playoffs","Round 1","BeFive","Cyber Wolves","WWW","","dom","S"],["2024-07-11","Esports Balkan League 2024 Summer Playoffs","Semifinal","BeFive","Partizan Esports","LLL","","dom","S"],["2024-10-23","Esports Balkan League 2024 Pro-Am","Round 1","BeFive","SPIKE Syndicate","WWW","","dom","S"],["2024-10-24","Esports Balkan League 2024 Pro-Am","Semifinal","BeFive","Partizan Esports","WLWW","","dom","S"],["2024-10-25","Esports Balkan League 2024 Pro-Am","Final","BeFive","Team Axelent69","LLL","","dom","S"],["2025-02-26","LPLOL 2025 Winter Split","Semifinal","FlameHard","White Dragons","WWW","","dom","S"],["2025-03-08","LPLOL 2025 Winter Split","Final","FlameHard","GTZ Esports","WWW","","dom","S"],["2025-08-17","Hitpoint Masters 2025 Summer Playoffs","Round 1","Tan'i eSports CZ","Nightbirds","LWLL","","dom","S"],["2025-08-23","Hitpoint Masters 2025 Summer Playoffs","Round 1","Tan'i eSports CZ","Team UNiTY","WWW","","dom","S"],["2025-08-24","Hitpoint Masters 2025 Summer Playoffs","Round 2","Tan'i eSports CZ","eSuba","LLL","","dom","S"],["2026-05-28","Road Of Legends 2026 Spring Playoffs","Round 2","mCon esports","Once Upon A Team","WLLWW","","dom","S"],["2026-06-02","Road Of Legends 2026 Spring Playoffs","Round 3","mCon esports","The Bandits","LLWWW","","dom","S"],["2026-06-06","Road Of Legends 2026 Spring Playoffs","Final","mCon esports","Frites Esports Club","LLL","","dom","S"]],"unknown":[]}
+{
+  "player": "tibor",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2020-08-11","Baltic Masters Season 5 Playoffs","Semifinal","Five Kings","Estonian Vipers","LWLWW","","dom","S"],
+    ["2020-08-13","Baltic Masters Season 5 Playoffs","Final","Five Kings","Iron Wolves","WLWLW","","dom","S"],
+    ["2021-03-02","Baltic Masters 2021 Spring Playoffs","Semifinal","Goskilla","Iron Wolves","WWW","","dom","S"],
+    ["2021-03-09","Baltic Masters 2021 Spring Playoffs","Final","Goskilla","Method2Madness","WLLWW","","dom","S"],
+    ["2022-04-08","Prime League 2nd Division 2022 Spring Playoffs","Round 1","TT willhaben","Eintracht Frankfurt","WLLWL","","dom","S"],
+    ["2022-08-03","Prime League 2nd Division 2022 Summer Playoffs","Round 1","TT willhaben","Sprout (German Team)","LLL","","dom","S"],
+    ["2023-07-27","Esports Balkan League 2023 Summer Playoffs","Round 1","SPIKE Syndicate","Cyber Wolves","LLL","","dom","S"],
+    ["2023-10-04","Esports Balkan League 2023 Pro-Am","Stage 2","Partizan Esports","Diamant Esports","LLL","","dom","S"],
+    ["2023-10-06","Esports Balkan League 2023 Pro-Am","Stage 2","Partizan Esports","SPIKE Syndicate","WLLWW","","dom","S"],
+    ["2023-10-07","Esports Balkan League 2023 Pro-Am","Stage 2","Partizan Esports","Diamant Esports","LLWL","","dom","S"],
+    ["2023-11-01","Sigma Cup 2023 Gauntlet","Final","Partizan Esports","WLGaming Esports","LLL","","dom","S"],
+    ["2024-03-14","Esports Balkan League 2024 Spring Playoffs","Round 1","BeFive","Lupus Esports","LWWW","","dom","S"],
+    ["2024-03-15","Esports Balkan League 2024 Spring Playoffs","Semifinal","BeFive","Diamant Esports","WWLW","","dom","S"],
+    ["2024-04-05","Esports Balkan League 2024 Spring Playoffs","Final","BeFive","SPIKE Syndicate","LLWWW","","dom","S"],
+    ["2024-07-10","Esports Balkan League 2024 Summer Playoffs","Round 1","BeFive","Cyber Wolves","WWW","","dom","S"],
+    ["2024-07-11","Esports Balkan League 2024 Summer Playoffs","Semifinal","BeFive","Partizan Esports","LLL","","dom","S"],
+    ["2024-10-23","Esports Balkan League 2024 Pro-Am","Round 1","BeFive","SPIKE Syndicate","WWW","","dom","S"],
+    ["2024-10-24","Esports Balkan League 2024 Pro-Am","Semifinal","BeFive","Partizan Esports","WLWW","","dom","S"],
+    ["2024-10-25","Esports Balkan League 2024 Pro-Am","Final","BeFive","Team Axelent69","LLL","","dom","S"],
+    ["2025-02-26","LPLOL 2025 Winter Split","Semifinal","FlameHard","White Dragons","WWW","","dom","S"],
+    ["2025-03-08","LPLOL 2025 Winter Split","Final","FlameHard","GTZ Esports","WWW","","dom","S"],
+    ["2025-08-17","Hitpoint Masters 2025 Summer Playoffs","Round 1","Tan'i eSports CZ","Nightbirds","LWLL","","dom","S"],
+    ["2025-08-23","Hitpoint Masters 2025 Summer Playoffs","Round 1","Tan'i eSports CZ","Team UNiTY","WWW","","dom","S"],
+    ["2025-08-24","Hitpoint Masters 2025 Summer Playoffs","Round 2","Tan'i eSports CZ","eSuba","LLL","","dom","S"],
+    ["2026-05-28","Road Of Legends 2026 Spring Playoffs","Round 2","mCon esports","Once Upon A Team","WLLWW","","dom","S"],
+    ["2026-06-02","Road Of Legends 2026 Spring Playoffs","Round 3","mCon esports","The Bandits","LLWWW","","dom","S"],
+    ["2026-06-06","Road Of Legends 2026 Spring Playoffs","Final","mCon esports","Frites Esports Club","LLL","","dom","S"]
+  ],
+  "unknown": []
+}

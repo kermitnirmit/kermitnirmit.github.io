@@ -1,1 +1,30 @@
-{"player":"Hans SamD","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2023-03-14","LLA 2023 Opening Playoffs","Round 1","Estral Esports","Six Karma","LWLL","","dom","P"],["2023-03-29","LLA 2023 Opening Playoffs","Round 3","Estral Esports","INFINITY","WLWLW","","dom","P"],["2023-04-04","LLA 2023 Opening Playoffs","Semifinal","Estral Esports","Movistar R7","LWLL","","dom","P"],["2023-07-26","LLA 2023 Closing Playoffs","Round 1","Estral Esports","Six Karma","WWLW","","dom","P"],["2023-08-08","LLA 2023 Closing Playoffs","Semifinal","Estral Esports","Movistar R7","LLWL","","dom","P"],["2023-08-15","LLA 2023 Closing Playoffs","Semifinal","Estral Esports","Six Karma","WWLLW","","dom","P"],["2023-08-26","LLA 2023 Closing Playoffs","Final","Estral Esports","Movistar R7","LLL","","dom","P"],["2024-03-20","LFL 2024 Spring Playoffs","Round 1","BK ROG Esports","Gentle Mates","WLLL","","dom","S"],["2024-07-24","LFL 2024 Summer Playoffs","Round 1","BK ROG Esports","Team GO","WLWLL","","dom","S"],["2024-08-02","EMEA Masters 2024 Summer LCQ","Round 3","BK ROG Esports","FUT Esports","WWW","","dom","S"],["2024-08-15","EMEA Masters 2024 Summer Main Event","Round of 16","BK ROG Esports","Entropiq","WWW","","dom","S"],["2024-08-20","EMEA Masters 2024 Summer Main Event","Quarterfinal","BK ROG Esports","Vitality.Bee","LWLWL","","dom","S"],["2024-09-18","Coupe de France 2024","Round 2","BK ROG Esports","IziDream","WWW","","dom","S"],["2024-09-21","Coupe de France 2024","Quarterfinal","BK ROG Esports","Team GO","LWWLW","","dom","S"],["2024-10-09","Coupe de France 2024","Semifinal","BK ROG Esports","Solary","LLL","","dom","S"],["2025-02-19","LFL 2025 Flash In Playoffs","Round 1","Ici Japon Corp. Esport","Karmine Corp Blue","LLL","","dom","S"],["2025-02-26","LFL 2025 Flash In Playoffs","Round 2","Ici Japon Corp. Esport","Solary","WWLW","","dom","S"],["2025-02-27","LFL 2025 Flash In Playoffs","Final","Ici Japon Corp. Esport","Karmine Corp Blue","LLWL","","dom","S"],["2025-03-20","EMEA Masters 2025 Winter","Quarterfinal","Ici Japon Corp. Esport","Geekay Esports","WWLW","","dom","S"],["2025-03-21","EMEA Masters 2025 Winter","Semifinal","Ici Japon Corp. Esport","Karmine Corp Blue","WWLW","","dom","S"],["2025-03-23","EMEA Masters 2025 Winter","Final","Ici Japon Corp. Esport","Los Ratones","LLL","","dom","S"],["2025-05-21","LFL 2025 Spring Playoffs","Round 1","Ici Japon Corp. Esport","BK ROG Esports","LLL","","dom","S"]],"unknown":[]}
+{
+  "player": "Hans SamD",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2023-03-14","LLA 2023 Opening Playoffs","Round 1","Estral Esports","Six Karma","LWLL","","dom","P"],
+    ["2023-03-29","LLA 2023 Opening Playoffs","Round 3","Estral Esports","INFINITY","WLWLW","","dom","P"],
+    ["2023-04-04","LLA 2023 Opening Playoffs","Semifinal","Estral Esports","Movistar R7","LWLL","","dom","P"],
+    ["2023-07-26","LLA 2023 Closing Playoffs","Round 1","Estral Esports","Six Karma","WWLW","","dom","P"],
+    ["2023-08-08","LLA 2023 Closing Playoffs","Semifinal","Estral Esports","Movistar R7","LLWL","","dom","P"],
+    ["2023-08-15","LLA 2023 Closing Playoffs","Semifinal","Estral Esports","Six Karma","WWLLW","","dom","P"],
+    ["2023-08-26","LLA 2023 Closing Playoffs","Final","Estral Esports","Movistar R7","LLL","","dom","P"],
+    ["2024-03-20","LFL 2024 Spring Playoffs","Round 1","BK ROG Esports","Gentle Mates","WLLL","","dom","S"],
+    ["2024-07-24","LFL 2024 Summer Playoffs","Round 1","BK ROG Esports","Team GO","WLWLL","","dom","S"],
+    ["2024-08-02","EMEA Masters 2024 Summer LCQ","Round 3","BK ROG Esports","FUT Esports","WWW","","dom","S"],
+    ["2024-08-15","EMEA Masters 2024 Summer Main Event","Round of 16","BK ROG Esports","Entropiq","WWW","","dom","S"],
+    ["2024-08-20","EMEA Masters 2024 Summer Main Event","Quarterfinal","BK ROG Esports","Vitality.Bee","LWLWL","","dom","S"],
+    ["2024-09-18","Coupe de France 2024","Round 2","BK ROG Esports","IziDream","WWW","","dom","S"],
+    ["2024-09-21","Coupe de France 2024","Quarterfinal","BK ROG Esports","Team GO","LWWLW","","dom","S"],
+    ["2024-10-09","Coupe de France 2024","Semifinal","BK ROG Esports","Solary","LLL","","dom","S"],
+    ["2025-02-19","LFL 2025 Flash In Playoffs","Round 1","Ici Japon Corp. Esport","Karmine Corp Blue","LLL","","dom","S"],
+    ["2025-02-26","LFL 2025 Flash In Playoffs","Round 2","Ici Japon Corp. Esport","Solary","WWLW","","dom","S"],
+    ["2025-02-27","LFL 2025 Flash In Playoffs","Final","Ici Japon Corp. Esport","Karmine Corp Blue","LLWL","","dom","S"],
+    ["2025-03-20","EMEA Masters 2025 Winter","Quarterfinal","Ici Japon Corp. Esport","Geekay Esports","WWLW","","dom","S"],
+    ["2025-03-21","EMEA Masters 2025 Winter","Semifinal","Ici Japon Corp. Esport","Karmine Corp Blue","WWLW","","dom","S"],
+    ["2025-03-23","EMEA Masters 2025 Winter","Final","Ici Japon Corp. Esport","Los Ratones","LLL","","dom","S"],
+    ["2025-05-21","LFL 2025 Spring Playoffs","Round 1","Ici Japon Corp. Esport","BK ROG Esports","LLL","","dom","S"]
+  ],
+  "unknown": []
+}

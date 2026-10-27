@@ -1,1 +1,42 @@
-{"player":"Klowny","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2017-03-30","Fortuna Championship Series Season 2 Playoffs","Semifinal","x25 Esports","ASUS ROG ELITE","LLWL","r","dom","S"],["2017-04-03","Fortuna Championship Series Season 2 Playoffs","Third-Place Match","x25 Esports","Mistiga Crew","WWW","r","dom","S"],["2017-06-26","Fortuna Championship Series Season 3 Playoffs","Semifinal","x25 Esports","ASUS ROG ELITE","LLL","r","dom","S"],["2018-03-25","Esports Balkan League Season 2 Playoffs","Final","x25 Esports","KlikTech","LLL","r","dom",""],["2018-08-27","Esports Balkan League Season 3 Playoffs","Semifinal","x25 Esports","ASUS ROG ELITE","LLWL","p","dom","S"],["2018-08-30","Esports Balkan League Season 3 Playoffs","Third-Place Match","x25 Esports","WiLD MultiGaming","WLLL","","dom","S"],["2019-01-12","Esports Balkan League Season 4 Qualification","Round 1","Level Up esports","Random 5","WLLL","r","dom","S"],["2019-01-13","Esports Balkan League Season 4 Qualification","Round 3","Level Up esports","Team Nerotec","WWW","r","dom","S"],["2020-03-15","Esports Balkan League Season 6 Playoffs","Semifinal","Energypot Wizards","Elementaries Esport Club","WWLW","","dom","S"],["2020-03-29","Esports Balkan League Season 6 Playoffs","Final","Energypot Wizards","Crvena zvezda Esports","LWWLW","","dom","S"],["2020-08-09","Esports Balkan League Season 7 Playoffs","Semifinal","SuppUp eSports","Split Raiders","WWW","","dom","S"],["2020-08-15","Esports Balkan League Season 7 Playoffs","Final","SuppUp eSports","CR4ZY","WWW","","dom","S"],["2021-03-20","Esports Balkan League Season 8 Playoffs","Semifinal","SAIM SE SuppUp","x25 Esports","WWW","","dom","S"],["2021-03-27","Esports Balkan League Season 8 Playoffs","Final","SAIM SE SuppUp","Z10 ESHARK","WWLW","p","dom","S"],["2021-08-18","LVP SuperLiga 2022 Spring Promotion","Round 1","BCN Squad","eMonkeyz","WWW","","dom","S"],["2022-04-06","Prime League 2nd Division 2022 Spring Playoffs","Round 1","Sprout (German Team)","mYinsanity","LWLL","","dom","S"],["2022-08-03","Prime League 2nd Division 2022 Summer Playoffs","Round 1","Sprout (German Team)","TT willhaben","WWW","","dom","S"],["2022-08-15","Prime League 2nd Division 2022 Summer Playoffs","Round 2","Sprout (German Team)","No Need Orga","LLWWL","","dom","S"],["2023-03-17","Esports Balkan League 2023 Spring Playoffs","Round 1","Cyber Wolves","Crvena zvezda Esports","LWWW","","dom","S"],["2023-03-21","Esports Balkan League 2023 Spring Playoffs","Semifinal","Cyber Wolves","Diamant Esports","LLWWL","","dom","S"],["2023-07-27","Esports Balkan League 2023 Summer Playoffs","Round 1","Cyber Wolves","SPIKE Syndicate","WWW","","dom","S"],["2023-07-31","Esports Balkan League 2023 Summer Playoffs","Semifinal","Cyber Wolves","Partizan Esports","LWWW","","dom","S"],["2023-08-12","Esports Balkan League 2023 Summer Playoffs","Final","Cyber Wolves","Diamant Esports","LWLL","","dom","S"],["2024-03-19","Greek Legends League 2024 Spring Playoffs","Round 1","Team Phantasma","Anorthosis Famagusta Esports","LWLL","","dom","S"],["2024-03-27","Greek Legends League 2024 Spring Playoffs","Semifinal","Team Phantasma","Gamespace Mediterranean College Esports","WWW","","dom","S"],["2024-04-12","Greek Legends League 2024 Spring Playoffs","Final","Team Phantasma","Anorthosis Famagusta Esports","LWWW","","dom","S"],["2024-07-11","LIT 2024 Summer Playoffs","Round 1","Atleta Esport","EKO Esports","WWLW","","dom","S"],["2024-07-18","LIT 2024 Summer Playoffs","Semifinal","Atleta Esport","Macko Esports","LLWL","","dom","S"],["2024-10-22","Esports Balkan League 2024 Pro-Am","Round 1","Partizan Esports","Team Axelent69","LLL","","dom","S"],["2024-10-24","Esports Balkan League 2024 Pro-Am","Semifinal","Partizan Esports","BeFive","LWLL","","dom","S"],["2026-06-23","LoL Game Changers 2026 Stage 2","Playoffs Round 3","Vitality Rising Bees","Eterna","WWW","r","dom","S"],["2026-07-21","LoL Game Changers 2026 Stage 3","Playoffs Round 3","Vitality Rising Bees","SK Gaming Avarosa","WWW","r","dom","S"]],"unknown":[["2018-03-20","Esports Balkan League Season 2 Playoffs","Semifinal","x25 Esports","Team Horizon Reapers","3-1","","dom",""]]}
+{
+  "player": "Klowny",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2017-03-30","Fortuna Championship Series Season 2 Playoffs","Semifinal","x25 Esports","ASUS ROG ELITE","LLWL","r","dom","S"],
+    ["2017-04-03","Fortuna Championship Series Season 2 Playoffs","Third-Place Match","x25 Esports","Mistiga Crew","WWW","r","dom","S"],
+    ["2017-06-26","Fortuna Championship Series Season 3 Playoffs","Semifinal","x25 Esports","ASUS ROG ELITE","LLL","r","dom","S"],
+    ["2018-03-25","Esports Balkan League Season 2 Playoffs","Final","x25 Esports","KlikTech","LLL","r","dom",""],
+    ["2018-08-27","Esports Balkan League Season 3 Playoffs","Semifinal","x25 Esports","ASUS ROG ELITE","LLWL","p","dom","S"],
+    ["2018-08-30","Esports Balkan League Season 3 Playoffs","Third-Place Match","x25 Esports","WiLD MultiGaming","WLLL","","dom","S"],
+    ["2019-01-12","Esports Balkan League Season 4 Qualification","Round 1","Level Up esports","Random 5","WLLL","r","dom","S"],
+    ["2019-01-13","Esports Balkan League Season 4 Qualification","Round 3","Level Up esports","Team Nerotec","WWW","r","dom","S"],
+    ["2020-03-15","Esports Balkan League Season 6 Playoffs","Semifinal","Energypot Wizards","Elementaries Esport Club","WWLW","","dom","S"],
+    ["2020-03-29","Esports Balkan League Season 6 Playoffs","Final","Energypot Wizards","Crvena zvezda Esports","LWWLW","","dom","S"],
+    ["2020-08-09","Esports Balkan League Season 7 Playoffs","Semifinal","SuppUp eSports","Split Raiders","WWW","","dom","S"],
+    ["2020-08-15","Esports Balkan League Season 7 Playoffs","Final","SuppUp eSports","CR4ZY","WWW","","dom","S"],
+    ["2021-03-20","Esports Balkan League Season 8 Playoffs","Semifinal","SAIM SE SuppUp","x25 Esports","WWW","","dom","S"],
+    ["2021-03-27","Esports Balkan League Season 8 Playoffs","Final","SAIM SE SuppUp","Z10 ESHARK","WWLW","p","dom","S"],
+    ["2021-08-18","LVP SuperLiga 2022 Spring Promotion","Round 1","BCN Squad","eMonkeyz","WWW","","dom","S"],
+    ["2022-04-06","Prime League 2nd Division 2022 Spring Playoffs","Round 1","Sprout (German Team)","mYinsanity","LWLL","","dom","S"],
+    ["2022-08-03","Prime League 2nd Division 2022 Summer Playoffs","Round 1","Sprout (German Team)","TT willhaben","WWW","","dom","S"],
+    ["2022-08-15","Prime League 2nd Division 2022 Summer Playoffs","Round 2","Sprout (German Team)","No Need Orga","LLWWL","","dom","S"],
+    ["2023-03-17","Esports Balkan League 2023 Spring Playoffs","Round 1","Cyber Wolves","Crvena zvezda Esports","LWWW","","dom","S"],
+    ["2023-03-21","Esports Balkan League 2023 Spring Playoffs","Semifinal","Cyber Wolves","Diamant Esports","LLWWL","","dom","S"],
+    ["2023-07-27","Esports Balkan League 2023 Summer Playoffs","Round 1","Cyber Wolves","SPIKE Syndicate","WWW","","dom","S"],
+    ["2023-07-31","Esports Balkan League 2023 Summer Playoffs","Semifinal","Cyber Wolves","Partizan Esports","LWWW","","dom","S"],
+    ["2023-08-12","Esports Balkan League 2023 Summer Playoffs","Final","Cyber Wolves","Diamant Esports","LWLL","","dom","S"],
+    ["2024-03-19","Greek Legends League 2024 Spring Playoffs","Round 1","Team Phantasma","Anorthosis Famagusta Esports","LWLL","","dom","S"],
+    ["2024-03-27","Greek Legends League 2024 Spring Playoffs","Semifinal","Team Phantasma","Gamespace Mediterranean College Esports","WWW","","dom","S"],
+    ["2024-04-12","Greek Legends League 2024 Spring Playoffs","Final","Team Phantasma","Anorthosis Famagusta Esports","LWWW","","dom","S"],
+    ["2024-07-11","LIT 2024 Summer Playoffs","Round 1","Atleta Esport","EKO Esports","WWLW","","dom","S"],
+    ["2024-07-18","LIT 2024 Summer Playoffs","Semifinal","Atleta Esport","Macko Esports","LLWL","","dom","S"],
+    ["2024-10-22","Esports Balkan League 2024 Pro-Am","Round 1","Partizan Esports","Team Axelent69","LLL","","dom","S"],
+    ["2024-10-24","Esports Balkan League 2024 Pro-Am","Semifinal","Partizan Esports","BeFive","LWLL","","dom","S"],
+    ["2026-06-23","LoL Game Changers 2026 Stage 2","Playoffs Round 3","Vitality Rising Bees","Eterna","WWW","r","dom","S"],
+    ["2026-07-21","LoL Game Changers 2026 Stage 3","Playoffs Round 3","Vitality Rising Bees","SK Gaming Avarosa","WWW","r","dom","S"]
+  ],
+  "unknown": [
+    ["2018-03-20","Esports Balkan League Season 2 Playoffs","Semifinal","x25 Esports","Team Horizon Reapers","3-1","","dom",""]
+  ]
+}

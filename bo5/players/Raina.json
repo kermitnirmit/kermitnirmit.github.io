@@ -1,1 +1,32 @@
-{"player":"Raina","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2018-09-13","LJL 2019 Spring Promotion","Qualifiers","AKIHABARA ENCOUNT","V3 Esports","LLL","p","dom","P"],["2020-03-21","LJL 2020 Spring Playoffs","Round 1","V3 Esports","AXIZ","WWW","","dom","P"],["2020-03-29","LJL 2020 Spring Playoffs","Round 2","V3 Esports","Crest Gaming Act","LLWWW","","dom","P"],["2020-05-03","LJL 2020 Spring Playoffs","Round 3","V3 Esports","DetonatioN FocusMe","LWLL","","dom","P"],["2020-08-22","LJL 2020 Summer Playoffs","Round 2","V3 Esports","Sengoku Gaming","WLWW","","dom","P"],["2020-09-06","LJL 2020 Summer Playoffs","Final","V3 Esports","DetonatioN FocusMe","WLLWW","","dom","P"],["2021-03-20","LJL 2021 Spring Playoffs","Round 1","V3 Esports","Fukuoka SoftBank HAWKS gaming","LWLWW","","dom","P"],["2021-04-04","LJL 2021 Spring Playoffs","Round 2","V3 Esports","Sengoku Gaming","LWLWW","","dom","P"],["2021-04-10","LJL 2021 Spring Playoffs","Round 3","V3 Esports","Rascal Jester","WWW","","dom","P"],["2021-04-11","LJL 2021 Spring Playoffs","Final","V3 Esports","DetonatioN FocusMe","LWLL","","dom","P"],["2021-08-14","LJL 2021 Summer Playoffs","Round 1","V3 Esports","Fukuoka SoftBank HAWKS gaming","WWW","","dom","P"],["2021-08-29","LJL 2021 Summer Playoffs","Round 2","V3 Esports","AXIZ","LLL","","dom","P"],["2022-04-01","LJL 2022 Spring Playoffs","Round 1","Fukuoka SoftBank HAWKS gaming","Burning Core","WLLL","","dom","P"],["2022-08-24","LJL 2022 Summer Playoffs","Round 1","Fukuoka SoftBank HAWKS gaming","Burning Core","WWW","","dom","P"],["2022-08-31","LJL 2022 Summer Playoffs","Round 2","Fukuoka SoftBank HAWKS gaming","Rascal Jester","WLWW","","dom","P"],["2022-09-02","LJL 2022 Summer Playoffs","Round 3","Fukuoka SoftBank HAWKS gaming","Sengoku Gaming","LWLL","","dom","P"],["2023-04-02","LJL 2023 Spring Playoffs","Round 1","Burning Core","FENNEL","WWLLL","","dom","P"],["2023-07-30","LJL 2023 Summer Playoffs","Round 1","Burning Core","AXIZ","WWLLL","","dom","P"],["2025-03-09","LJL 2025 Forge","Final","REJECT","VARREL YOUTH","WWW","","dom","S"],["2025-05-06","LJL 2025 Storm","Final","REJECT","QT DIG","LWWW","","dom","S"],["2025-06-21","LJL 2025 Ignite","Final","REJECT","Burning Core Toyama","WWW","","dom","S"],["2025-07-19","LJL 2025 Finals","Round 1","REJECT","QT DIG","WWW","","dom","S"],["2025-08-08","LJL 2025 Finals","Round 3","REJECT","DetonatioN FocusMe Academy","WWLW","","dom","S"],["2025-09-15","LJL 2025 Finals","Final","REJECT","QT DIG","LLWL","","dom","S"]],"unknown":[]}
+{
+  "player": "Raina",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2018-09-13","LJL 2019 Spring Promotion","Qualifiers","AKIHABARA ENCOUNT","V3 Esports","LLL","p","dom","P"],
+    ["2020-03-21","LJL 2020 Spring Playoffs","Round 1","V3 Esports","AXIZ","WWW","","dom","P"],
+    ["2020-03-29","LJL 2020 Spring Playoffs","Round 2","V3 Esports","Crest Gaming Act","LLWWW","","dom","P"],
+    ["2020-05-03","LJL 2020 Spring Playoffs","Round 3","V3 Esports","DetonatioN FocusMe","LWLL","","dom","P"],
+    ["2020-08-22","LJL 2020 Summer Playoffs","Round 2","V3 Esports","Sengoku Gaming","WLWW","","dom","P"],
+    ["2020-09-06","LJL 2020 Summer Playoffs","Final","V3 Esports","DetonatioN FocusMe","WLLWW","","dom","P"],
+    ["2021-03-20","LJL 2021 Spring Playoffs","Round 1","V3 Esports","Fukuoka SoftBank HAWKS gaming","LWLWW","","dom","P"],
+    ["2021-04-04","LJL 2021 Spring Playoffs","Round 2","V3 Esports","Sengoku Gaming","LWLWW","","dom","P"],
+    ["2021-04-10","LJL 2021 Spring Playoffs","Round 3","V3 Esports","Rascal Jester","WWW","","dom","P"],
+    ["2021-04-11","LJL 2021 Spring Playoffs","Final","V3 Esports","DetonatioN FocusMe","LWLL","","dom","P"],
+    ["2021-08-14","LJL 2021 Summer Playoffs","Round 1","V3 Esports","Fukuoka SoftBank HAWKS gaming","WWW","","dom","P"],
+    ["2021-08-29","LJL 2021 Summer Playoffs","Round 2","V3 Esports","AXIZ","LLL","","dom","P"],
+    ["2022-04-01","LJL 2022 Spring Playoffs","Round 1","Fukuoka SoftBank HAWKS gaming","Burning Core","WLLL","","dom","P"],
+    ["2022-08-24","LJL 2022 Summer Playoffs","Round 1","Fukuoka SoftBank HAWKS gaming","Burning Core","WWW","","dom","P"],
+    ["2022-08-31","LJL 2022 Summer Playoffs","Round 2","Fukuoka SoftBank HAWKS gaming","Rascal Jester","WLWW","","dom","P"],
+    ["2022-09-02","LJL 2022 Summer Playoffs","Round 3","Fukuoka SoftBank HAWKS gaming","Sengoku Gaming","LWLL","","dom","P"],
+    ["2023-04-02","LJL 2023 Spring Playoffs","Round 1","Burning Core","FENNEL","WWLLL","","dom","P"],
+    ["2023-07-30","LJL 2023 Summer Playoffs","Round 1","Burning Core","AXIZ","WWLLL","","dom","P"],
+    ["2025-03-09","LJL 2025 Forge","Final","REJECT","VARREL YOUTH","WWW","","dom","S"],
+    ["2025-05-06","LJL 2025 Storm","Final","REJECT","QT DIG","LWWW","","dom","S"],
+    ["2025-06-21","LJL 2025 Ignite","Final","REJECT","Burning Core Toyama","WWW","","dom","S"],
+    ["2025-07-19","LJL 2025 Finals","Round 1","REJECT","QT DIG","WWW","","dom","S"],
+    ["2025-08-08","LJL 2025 Finals","Round 3","REJECT","DetonatioN FocusMe Academy","WWLW","","dom","S"],
+    ["2025-09-15","LJL 2025 Finals","Final","REJECT","QT DIG","LLWL","","dom","S"]
+  ],
+  "unknown": []
+}

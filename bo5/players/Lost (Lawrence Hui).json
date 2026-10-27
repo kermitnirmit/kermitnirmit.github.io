@@ -1,1 +1,34 @@
-{"player":"Lost (Lawrence Hui)","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2017-04-09","OPL 2017 Split 1 Playoffs","Round 3","Legacy Esports","Sin Gaming","LLWWW","","dom","P"],["2017-04-16","OPL 2017 Split 1 Playoffs","Final","Legacy Esports","Dire Wolves","LLWL","","dom","P"],["2017-08-27","OPL 2017 Split 2 Playoffs","Round 3","Legacy Esports","Chiefs Esports Club","LLL","","dom","P"],["2018-03-22","NA Academy League 2018 Spring Playoffs","Semifinal","Echo Fox Academy","Team Liquid Academy","WWLW","","dom","S"],["2018-03-30","NA Academy League 2018 Spring Playoffs","Final","Echo Fox Academy","FlyQuest Academy","LLWWL","","dom","S"],["2018-08-25","NA LCS 2018 Summer Playoffs","Quarterfinal","Echo Fox","TSM","LWWLL","","dom","P"],["2018-09-14","NA LCS 2018 Regional Finals","Round 1","Echo Fox","Clutch Gaming","WWW","","dom","P"],["2018-09-15","NA LCS 2018 Regional Finals","Round 2","Echo Fox","TSM","LLL","","dom","P"],["2019-03-21","NA Academy League 2019 Spring Playoffs","Quarterfinal","Echo Fox Academy","100 Thieves Academy","WLWLW","","dom","S"],["2019-03-28","NA Academy League 2019 Spring Playoffs","Semifinal","Echo Fox Academy","TSM Academy","LLL","","dom","S"],["2019-08-01","NA Academy League 2019 Summer Playoffs","Quarterfinal","Echo Fox Academy","100 Thieves Academy","LWLWL","","dom","S"],["2020-04-02","NA Academy League 2020 Spring Playoffs","Quarterfinal","TSM Academy","100 Thieves Academy","WWW","","dom","S"],["2020-04-10","NA Academy League 2020 Spring Playoffs","Semifinal","TSM Academy","Cloud9 Academy","WLLL","","dom","S"],["2020-08-21","NA Academy League 2020 Summer Playoffs","Semifinal","TSM Academy","Evil Geniuses Academy","WWW","","dom","S"],["2020-08-28","NA Academy League 2020 Summer Playoffs","Final","TSM Academy","Cloud9 Academy","WLLL","","dom","S"],["2021-03-20","LCS 2021 Mid-Season Showdown","Round 1","TSM","Team Liquid","LLWL","","dom","P"],["2021-03-27","LCS 2021 Mid-Season Showdown","Round 1","TSM","Evil Geniuses.NA","WLWW","","dom","P"],["2021-04-04","LCS 2021 Mid-Season Showdown","Round 2","TSM","100 Thieves","WWLW","","dom","P"],["2021-04-10","LCS 2021 Mid-Season Showdown","Round 3","TSM","Team Liquid","LLWL","","dom","P"],["2021-08-15","LCS 2021 Championship","Round 2","TSM","Team Liquid","LLWL","","dom","P"],["2021-08-20","LCS 2021 Championship","Round 2","TSM","Immortals","WWLW","","dom","P"],["2021-08-22","LCS 2021 Championship","Round 3","TSM","Cloud9","WLWLL","","dom","P"],["2022-04-09","LCS 2022 Spring Playoffs","Round 1","Golden Guardians","Cloud9","LLL","","dom","P"],["2023-03-27","North American Challengers League 2023 Spring Playoffs","Round 5","Cloud9 Challengers","Dignitas Challengers","LLWL","","dom","S"],["2023-04-01","North American Challengers League 2023 Spring Playoffs","Round 6","Cloud9 Challengers","Team Liquid Challengers","WLWW","","dom","S"],["2023-04-02","North American Challengers League 2023 Spring Playoffs","Grand Final","Cloud9 Challengers","Dignitas Challengers","LWWW","","dom","S"]],"unknown":[]}
+{
+  "player": "Lost (Lawrence Hui)",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2017-04-09","OPL 2017 Split 1 Playoffs","Round 3","Legacy Esports","Sin Gaming","LLWWW","","dom","P"],
+    ["2017-04-16","OPL 2017 Split 1 Playoffs","Final","Legacy Esports","Dire Wolves","LLWL","","dom","P"],
+    ["2017-08-27","OPL 2017 Split 2 Playoffs","Round 3","Legacy Esports","Chiefs Esports Club","LLL","","dom","P"],
+    ["2018-03-22","NA Academy League 2018 Spring Playoffs","Semifinal","Echo Fox Academy","Team Liquid Academy","WWLW","","dom","S"],
+    ["2018-03-30","NA Academy League 2018 Spring Playoffs","Final","Echo Fox Academy","FlyQuest Academy","LLWWL","","dom","S"],
+    ["2018-08-25","NA LCS 2018 Summer Playoffs","Quarterfinal","Echo Fox","TSM","LWWLL","","dom","P"],
+    ["2018-09-14","NA LCS 2018 Regional Finals","Round 1","Echo Fox","Clutch Gaming","WWW","","dom","P"],
+    ["2018-09-15","NA LCS 2018 Regional Finals","Round 2","Echo Fox","TSM","LLL","","dom","P"],
+    ["2019-03-21","NA Academy League 2019 Spring Playoffs","Quarterfinal","Echo Fox Academy","100 Thieves Academy","WLWLW","","dom","S"],
+    ["2019-03-28","NA Academy League 2019 Spring Playoffs","Semifinal","Echo Fox Academy","TSM Academy","LLL","","dom","S"],
+    ["2019-08-01","NA Academy League 2019 Summer Playoffs","Quarterfinal","Echo Fox Academy","100 Thieves Academy","LWLWL","","dom","S"],
+    ["2020-04-02","NA Academy League 2020 Spring Playoffs","Quarterfinal","TSM Academy","100 Thieves Academy","WWW","","dom","S"],
+    ["2020-04-10","NA Academy League 2020 Spring Playoffs","Semifinal","TSM Academy","Cloud9 Academy","WLLL","","dom","S"],
+    ["2020-08-21","NA Academy League 2020 Summer Playoffs","Semifinal","TSM Academy","Evil Geniuses Academy","WWW","","dom","S"],
+    ["2020-08-28","NA Academy League 2020 Summer Playoffs","Final","TSM Academy","Cloud9 Academy","WLLL","","dom","S"],
+    ["2021-03-20","LCS 2021 Mid-Season Showdown","Round 1","TSM","Team Liquid","LLWL","","dom","P"],
+    ["2021-03-27","LCS 2021 Mid-Season Showdown","Round 1","TSM","Evil Geniuses.NA","WLWW","","dom","P"],
+    ["2021-04-04","LCS 2021 Mid-Season Showdown","Round 2","TSM","100 Thieves","WWLW","","dom","P"],
+    ["2021-04-10","LCS 2021 Mid-Season Showdown","Round 3","TSM","Team Liquid","LLWL","","dom","P"],
+    ["2021-08-15","LCS 2021 Championship","Round 2","TSM","Team Liquid","LLWL","","dom","P"],
+    ["2021-08-20","LCS 2021 Championship","Round 2","TSM","Immortals","WWLW","","dom","P"],
+    ["2021-08-22","LCS 2021 Championship","Round 3","TSM","Cloud9","WLWLL","","dom","P"],
+    ["2022-04-09","LCS 2022 Spring Playoffs","Round 1","Golden Guardians","Cloud9","LLL","","dom","P"],
+    ["2023-03-27","North American Challengers League 2023 Spring Playoffs","Round 5","Cloud9 Challengers","Dignitas Challengers","LLWL","","dom","S"],
+    ["2023-04-01","North American Challengers League 2023 Spring Playoffs","Round 6","Cloud9 Challengers","Team Liquid Challengers","WLWW","","dom","S"],
+    ["2023-04-02","North American Challengers League 2023 Spring Playoffs","Grand Final","Cloud9 Challengers","Dignitas Challengers","LWWW","","dom","S"]
+  ],
+  "unknown": []
+}

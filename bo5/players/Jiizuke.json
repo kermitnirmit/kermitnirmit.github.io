@@ -1,1 +1,38 @@
-{"player":"Jiizuke","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2016-05-27","EU Challenger Series 2016 Summer Qualifiers","Qualifiers","Team Forge","SK Gaming","WWLW","","dom","S"],["2016-10-30","Lucca Comics &amp; Games 2016 Torneo Nazionale Italiano","Final","Team Forge","NextGaming","WWW","r","dom",""],["2017-01-15","EU Challenger Series 2017 Spring Qualifiers","Final","Team Forge","Fnatic Academy","LLL","","dom","S"],["2017-07-30","EU Challenger Series 2017 Summer Playoffs","Qualifiers","Giants Gaming","Wind and Rain","WWW","","dom","S"],["2017-08-18","EU LCS 2018 Spring Promotion","Round 1","Giants Gaming","Ninjas in Pyjamas","WWLW","","dom","P"],["2017-08-24","EU LCS 2018 Spring Promotion","Qualifying Round","Giants Gaming","FC Schalke 04 Esports","LWWLW","","dom","P"],["2017-12-16","LVP SuperLiga Orange Season 13 Playoffs","Semifinal","Giants Only The Brave","Movistar Riders","WWW","r","dom",""],["2018-03-24","EU LCS 2018 Spring Playoffs","Quarterfinal","Team Vitality","H2k-Gaming","WLWLW","","dom","P"],["2018-03-31","EU LCS 2018 Spring Playoffs","Semifinal","Team Vitality","Fnatic","LLWL","","dom","P"],["2018-04-07","EU LCS 2018 Spring Playoffs","Third-Place Match","Team Vitality","Splyce","WLWLL","","dom","P"],["2018-08-31","EU LCS 2018 Summer Playoffs","Semifinal","Team Vitality","FC Schalke 04 Esports","LLWL","","dom","P"],["2018-09-08","EU LCS 2018 Summer Playoffs","Third-Place Match","Team Vitality","Misfits Gaming","LWWW","","dom","P"],["2019-03-29","LEC 2019 Spring Playoffs","Round 1","Team Vitality","Fnatic","LLL","","dom","P"],["2019-08-24","LEC 2019 Summer Playoffs","Round 1","Team Vitality","FC Schalke 04 Esports","LLWL","","dom","P"],["2020-04-04","LCS 2020 Spring Playoffs","Round 1","Evil Geniuses.NA","FlyQuest","WWLW","","dom","P"],["2020-04-11","LCS 2020 Spring Playoffs","Round 2","Evil Geniuses.NA","Cloud9","LLWL","","dom","P"],["2020-04-18","LCS 2020 Spring Playoffs","Round 3","Evil Geniuses.NA","FlyQuest","LLWL","","dom","P"],["2021-01-30","LCS 2021 Lock In","Semifinal","Evil Geniuses.NA","Team Liquid","LLL","","dom","P"],["2021-03-27","LCS 2021 Mid-Season Showdown","Round 1","Evil Geniuses.NA","TSM","LWLL","","dom","P"],["2021-08-07","LCS 2021 Championship","Round 1","Evil Geniuses.NA","Dignitas","WLWW","","dom","P"],["2021-08-14","LCS 2021 Championship","Round 2","Evil Geniuses.NA","100 Thieves","LWLWL","","dom","P"],["2021-08-19","LCS 2021 Championship","Round 2","Evil Geniuses.NA","Cloud9","LLL","","dom","P"],["2022-08-08","LVP SuperLiga 2022 Summer Playoffs","Round 2","Giants (Spanish Team)","Team Heretics","LLL","","dom","S"],["2022-08-15","LVP SuperLiga 2022 Summer Playoffs","Semifinal","Giants (Spanish Team)","BISONS ECLUB","WWW","","dom","S"],["2022-08-20","LVP SuperLiga 2022 Summer Playoffs","Final","Giants (Spanish Team)","Team Heretics","LLWL","","dom","S"],["2023-09-29","Coupe de France 2023","Round 2","Karmine Corp","Project Conquerors","WWW","","dom","S"],["2023-10-04","Coupe de France 2023","Quarterfinal","Karmine Corp","Vitality.Bee","WLLL","","dom","S"]],"unknown":[["2016-10-15","Milan Games Week League 2016","Final","Team Forge","NextGaming","2-3","","dom",""],["2017-12-17","LVP SuperLiga Orange Season 13 Playoffs","Final","Giants Only The Brave","MAD Lions E.C.","3-2","","dom",""]]}
+{
+  "player": "Jiizuke",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2016-05-27","EU Challenger Series 2016 Summer Qualifiers","Qualifiers","Team Forge","SK Gaming","WWLW","","dom","S"],
+    ["2016-10-30","Lucca Comics &amp; Games 2016 Torneo Nazionale Italiano","Final","Team Forge","NextGaming","WWW","r","dom",""],
+    ["2017-01-15","EU Challenger Series 2017 Spring Qualifiers","Final","Team Forge","Fnatic Academy","LLL","","dom","S"],
+    ["2017-07-30","EU Challenger Series 2017 Summer Playoffs","Qualifiers","Giants Gaming","Wind and Rain","WWW","","dom","S"],
+    ["2017-08-18","EU LCS 2018 Spring Promotion","Round 1","Giants Gaming","Ninjas in Pyjamas","WWLW","","dom","P"],
+    ["2017-08-24","EU LCS 2018 Spring Promotion","Qualifying Round","Giants Gaming","FC Schalke 04 Esports","LWWLW","","dom","P"],
+    ["2017-12-16","LVP SuperLiga Orange Season 13 Playoffs","Semifinal","Giants Only The Brave","Movistar Riders","WWW","r","dom",""],
+    ["2018-03-24","EU LCS 2018 Spring Playoffs","Quarterfinal","Team Vitality","H2k-Gaming","WLWLW","","dom","P"],
+    ["2018-03-31","EU LCS 2018 Spring Playoffs","Semifinal","Team Vitality","Fnatic","LLWL","","dom","P"],
+    ["2018-04-07","EU LCS 2018 Spring Playoffs","Third-Place Match","Team Vitality","Splyce","WLWLL","","dom","P"],
+    ["2018-08-31","EU LCS 2018 Summer Playoffs","Semifinal","Team Vitality","FC Schalke 04 Esports","LLWL","","dom","P"],
+    ["2018-09-08","EU LCS 2018 Summer Playoffs","Third-Place Match","Team Vitality","Misfits Gaming","LWWW","","dom","P"],
+    ["2019-03-29","LEC 2019 Spring Playoffs","Round 1","Team Vitality","Fnatic","LLL","","dom","P"],
+    ["2019-08-24","LEC 2019 Summer Playoffs","Round 1","Team Vitality","FC Schalke 04 Esports","LLWL","","dom","P"],
+    ["2020-04-04","LCS 2020 Spring Playoffs","Round 1","Evil Geniuses.NA","FlyQuest","WWLW","","dom","P"],
+    ["2020-04-11","LCS 2020 Spring Playoffs","Round 2","Evil Geniuses.NA","Cloud9","LLWL","","dom","P"],
+    ["2020-04-18","LCS 2020 Spring Playoffs","Round 3","Evil Geniuses.NA","FlyQuest","LLWL","","dom","P"],
+    ["2021-01-30","LCS 2021 Lock In","Semifinal","Evil Geniuses.NA","Team Liquid","LLL","","dom","P"],
+    ["2021-03-27","LCS 2021 Mid-Season Showdown","Round 1","Evil Geniuses.NA","TSM","LWLL","","dom","P"],
+    ["2021-08-07","LCS 2021 Championship","Round 1","Evil Geniuses.NA","Dignitas","WLWW","","dom","P"],
+    ["2021-08-14","LCS 2021 Championship","Round 2","Evil Geniuses.NA","100 Thieves","LWLWL","","dom","P"],
+    ["2021-08-19","LCS 2021 Championship","Round 2","Evil Geniuses.NA","Cloud9","LLL","","dom","P"],
+    ["2022-08-08","LVP SuperLiga 2022 Summer Playoffs","Round 2","Giants (Spanish Team)","Team Heretics","LLL","","dom","S"],
+    ["2022-08-15","LVP SuperLiga 2022 Summer Playoffs","Semifinal","Giants (Spanish Team)","BISONS ECLUB","WWW","","dom","S"],
+    ["2022-08-20","LVP SuperLiga 2022 Summer Playoffs","Final","Giants (Spanish Team)","Team Heretics","LLWL","","dom","S"],
+    ["2023-09-29","Coupe de France 2023","Round 2","Karmine Corp","Project Conquerors","WWW","","dom","S"],
+    ["2023-10-04","Coupe de France 2023","Quarterfinal","Karmine Corp","Vitality.Bee","WLLL","","dom","S"]
+  ],
+  "unknown": [
+    ["2016-10-15","Milan Games Week League 2016","Final","Team Forge","NextGaming","2-3","","dom",""],
+    ["2017-12-17","LVP SuperLiga Orange Season 13 Playoffs","Final","Giants Only The Brave","MAD Lions E.C.","3-2","","dom",""]
+  ]
+}

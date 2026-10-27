@@ -1,1 +1,29 @@
-{"player":"CENTU","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2024-03-14","GL2D 2024 Spring Playoffs","Round 1","Team Insidious","Actions Per Minute","WLLWW","","dom","S"],["2024-03-28","GL2D 2024 Spring Playoffs","Final","Team Insidious","Actions Per Minute","WWW","","dom","S"],["2024-07-25","Ultraliga 2024 Summer Playoffs","Round 1","GRP Esports","Forsaken (Polish Team)","LLL","","dom","S"],["2025-03-02","Hellenic Legends League 2025 Winter Playoffs","Final","Gamespace Mediterranean College Esports","Team Phantasma","LLWL","","dom","S"],["2025-05-15","Hellenic Legends League 2025 Spring Playoffs","Round 2","Gamespace Mediterranean College Esports","Actions Per Minute","WWW","","dom","S"],["2025-05-18","Hellenic Legends League 2025 Spring Playoffs","Round 3","Gamespace Mediterranean College Esports","Team Phantasma","WLLWW","","dom","S"],["2025-06-01","Hellenic Legends League 2025 Spring Playoffs","Final","Gamespace Mediterranean College Esports","Team Phantasma","LLWL","","dom","S"],["2025-07-16","Hellenic Legends League 2025 Summer Super Cup","Quarterfinal","Gamespace Mediterranean College Esports","GOAL","WWLLW","","dom","S"],["2025-07-23","Hellenic Legends League 2025 Summer Super Cup","Semifinal","Gamespace Mediterranean College Esports","Team Paradox","WLWW","","dom","S"],["2025-07-27","Hellenic Legends League 2025 Summer Super Cup","Final","Gamespace Mediterranean College Esports","Team Phantasma","LLL","","dom","S"],["2025-09-04","Hellenic Legends League 2025 Season Finals","Semifinal","Gamespace Mediterranean College Esports","Team Insidious","WWLW","","dom","S"],["2025-09-14","Hellenic Legends League 2025 Season Finals","Final","Gamespace Mediterranean College Esports","Team Phantasma","LLL","","dom","S"],["2026-01-29","LIT 2026 Winter Playoffs","Round 3","Colossal Gaming","Deacoy","LWWW","","dom","S"],["2026-02-06","LIT 2026 Winter Playoffs","Semifinal","Colossal Gaming","HMBLE","LLL","","dom","S"],["2026-02-13","LIT 2026 Winter Playoffs","Semifinal","Colossal Gaming","GMBLERS Esports","LWWW","","dom","S"],["2026-03-06","LIT 2026 Winter Playoffs","Final","Colossal Gaming","HMBLE","LLL","","dom","S"],["2026-05-19","TCL 2026 Spring Playoffs","Round 1","BoostGate Esports","SU Esports","WLLL","","dom","S"],["2026-08-28","Hellenic Legends League 2026 Summer Playoffs","Round 2","Team Phantasma","Gamespace Mediterranean College Esports","WLWLL","","dom","S"],["2026-09-02","Hellenic Legends League 2026 Summer Playoffs","Round 2","Team Phantasma","WLGaming Esports","WWLW","","dom","S"],["2026-09-11","Hellenic Legends League 2026 Summer Playoffs","Round 3","Team Phantasma","Gamespace Mediterranean College Esports","WWLW","","dom","S"],["2026-09-12","Hellenic Legends League 2026 Summer Playoffs","Final","Team Phantasma","Valerion","LWLL","","dom","S"]],"unknown":[]}
+{
+  "player": "CENTU",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2024-03-14","GL2D 2024 Spring Playoffs","Round 1","Team Insidious","Actions Per Minute","WLLWW","","dom","S"],
+    ["2024-03-28","GL2D 2024 Spring Playoffs","Final","Team Insidious","Actions Per Minute","WWW","","dom","S"],
+    ["2024-07-25","Ultraliga 2024 Summer Playoffs","Round 1","GRP Esports","Forsaken (Polish Team)","LLL","","dom","S"],
+    ["2025-03-02","Hellenic Legends League 2025 Winter Playoffs","Final","Gamespace Mediterranean College Esports","Team Phantasma","LLWL","","dom","S"],
+    ["2025-05-15","Hellenic Legends League 2025 Spring Playoffs","Round 2","Gamespace Mediterranean College Esports","Actions Per Minute","WWW","","dom","S"],
+    ["2025-05-18","Hellenic Legends League 2025 Spring Playoffs","Round 3","Gamespace Mediterranean College Esports","Team Phantasma","WLLWW","","dom","S"],
+    ["2025-06-01","Hellenic Legends League 2025 Spring Playoffs","Final","Gamespace Mediterranean College Esports","Team Phantasma","LLWL","","dom","S"],
+    ["2025-07-16","Hellenic Legends League 2025 Summer Super Cup","Quarterfinal","Gamespace Mediterranean College Esports","GOAL","WWLLW","","dom","S"],
+    ["2025-07-23","Hellenic Legends League 2025 Summer Super Cup","Semifinal","Gamespace Mediterranean College Esports","Team Paradox","WLWW","","dom","S"],
+    ["2025-07-27","Hellenic Legends League 2025 Summer Super Cup","Final","Gamespace Mediterranean College Esports","Team Phantasma","LLL","","dom","S"],
+    ["2025-09-04","Hellenic Legends League 2025 Season Finals","Semifinal","Gamespace Mediterranean College Esports","Team Insidious","WWLW","","dom","S"],
+    ["2025-09-14","Hellenic Legends League 2025 Season Finals","Final","Gamespace Mediterranean College Esports","Team Phantasma","LLL","","dom","S"],
+    ["2026-01-29","LIT 2026 Winter Playoffs","Round 3","Colossal Gaming","Deacoy","LWWW","","dom","S"],
+    ["2026-02-06","LIT 2026 Winter Playoffs","Semifinal","Colossal Gaming","HMBLE","LLL","","dom","S"],
+    ["2026-02-13","LIT 2026 Winter Playoffs","Semifinal","Colossal Gaming","GMBLERS Esports","LWWW","","dom","S"],
+    ["2026-03-06","LIT 2026 Winter Playoffs","Final","Colossal Gaming","HMBLE","LLL","","dom","S"],
+    ["2026-05-19","TCL 2026 Spring Playoffs","Round 1","BoostGate Esports","SU Esports","WLLL","","dom","S"],
+    ["2026-08-28","Hellenic Legends League 2026 Summer Playoffs","Round 2","Team Phantasma","Gamespace Mediterranean College Esports","WLWLL","","dom","S"],
+    ["2026-09-02","Hellenic Legends League 2026 Summer Playoffs","Round 2","Team Phantasma","WLGaming Esports","WWLW","","dom","S"],
+    ["2026-09-11","Hellenic Legends League 2026 Summer Playoffs","Round 3","Team Phantasma","Gamespace Mediterranean College Esports","WWLW","","dom","S"],
+    ["2026-09-12","Hellenic Legends League 2026 Summer Playoffs","Final","Team Phantasma","Valerion","LWLL","","dom","S"]
+  ],
+  "unknown": []
+}

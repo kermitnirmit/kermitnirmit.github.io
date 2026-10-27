@@ -1,1 +1,36 @@
-{"player":"Swift","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2014-01-01","Champions 2014 Winter","Quarterfinal","Xenics Storm","NaJin White Shield","LWLL","","dom","P"],["2014-01-09","NLB 2014 Winter","Semifinal","Xenics Storm","NaJin Black Sword","LLL","r","dom","S"],["2014-04-18","Champions 2014 Spring","Quarterfinal","CJ Entus Frost","Samsung Blue","WLLL","","dom","P"],["2015-02-09","2015 Demacia Cup Spring Season","Round of 32","Qiao Gu Reapers","Team WE Future","WWW","","dom","P"],["2015-03-09","2015 Demacia Cup Spring Season","Round of 16","Qiao Gu Reapers","Oh My God","LWLWW","","dom","P"],["2015-03-27","2015 Demacia Cup Spring Season","Quarterfinal","Qiao Gu Reapers","Snake Esports","WLWW","","dom","P"],["2015-03-28","2015 Demacia Cup Spring Season","Semifinal","Qiao Gu Reapers","Invictus Gaming","LLL","","dom","P"],["2015-03-29","2015 Demacia Cup Spring Season","Third-Place Match","Qiao Gu Reapers","Team WE","WWLLW","","dom","P"],["2015-06-08","2015 Demacia Cup Summer Season","Round of 32","Qiao Gu Reapers","Kx.Happy","WLWW","","dom","P"],["2015-06-29","2015 Demacia Cup Summer Season","Round of 16","Qiao Gu Reapers","LGD Gaming","LWLL","","dom","P"],["2015-08-16","LPL 2015 Summer Playoffs","Semifinal","Qiao Gu Reapers","Invictus Gaming","WWLLW","","dom","P"],["2015-08-23","LPL 2015 Summer Playoffs","Final","Qiao Gu Reapers","LGD Gaming","WLWLL","","dom","P"],["2015-09-05","LPL 2015 Regional Finals","Elimination Match","Qiao Gu Reapers","Snake Esports","WWW","","dom","P"],["2015-09-05","LPL 2015 Regional Finals","Losers Finals","Qiao Gu Reapers","Invictus Gaming","LLL","","dom","P"],["2015-12-20","IEM Season X - Cologne","Final","Qiao Gu Reapers","ESC Ever","WLLWL","","intl","P"],["2016-04-18","LPL 2016 Spring Playoffs","Third-Place Match","Qiao Gu Reapers","Team WE","LLL","","dom","P"],["2016-08-11","LPL 2017 Spring Promotion","Qualifying Round","Newbee","LGD Gaming","WLLL","","dom","P"],["2016-08-13","LPL 2017 Spring Promotion","Qualifying Round","Newbee","Star Horn Royal Club","WWW","","dom","P"],["2017-04-20","LPL 2017 Spring Playoffs","Quarterfinal","Newbee","EDward Gaming","LLL","","dom","P"],["2017-08-22","LPL 2017 Summer Playoffs","Round 1","Newbee","Snake Esports","WWW","","dom","P"],["2017-08-23","LPL 2017 Summer Playoffs","Quarterfinal","Newbee","Team WE","LLL","","dom","P"]],"unknown":[["2014-01-14","NLB 2014 Winter","Third-Place Match","Xenics Storm","Samsung Blue","1-3","","dom","S"],["2014-04-28","NLB 2014 Spring","Semifinal","CJ Entus Frost","SK Telecom T1 K","3-1","","dom","S"],["2014-05-17","NLB 2014 Spring","Final","CJ Entus Frost","NaJin Black Sword","3-1","","dom","S"],["2015-04-09","LSPL 2015 Spring Playoffs","Grand Finals","Qiao Gu Reapers","Vici Potential Gaming","3-1","","dom","S"],["2017-04-18","LPL 2017 Spring Playoffs","Round 1","Newbee","Invictus Gaming","3-1","WWW","dom","P"],["2017-07-23","Xinhua E-Sports Conference 2017","Final","Newbee","Invictus Gaming","1-3","","dom",""]]}
+{
+  "player": "Swift",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2014-01-01","Champions 2014 Winter","Quarterfinal","Xenics Storm","NaJin White Shield","LWLL","","dom","P"],
+    ["2014-01-09","NLB 2014 Winter","Semifinal","Xenics Storm","NaJin Black Sword","LLL","r","dom","S"],
+    ["2014-04-18","Champions 2014 Spring","Quarterfinal","CJ Entus Frost","Samsung Blue","WLLL","","dom","P"],
+    ["2015-02-09","2015 Demacia Cup Spring Season","Round of 32","Qiao Gu Reapers","Team WE Future","WWW","","dom","P"],
+    ["2015-03-09","2015 Demacia Cup Spring Season","Round of 16","Qiao Gu Reapers","Oh My God","LWLWW","","dom","P"],
+    ["2015-03-27","2015 Demacia Cup Spring Season","Quarterfinal","Qiao Gu Reapers","Snake Esports","WLWW","","dom","P"],
+    ["2015-03-28","2015 Demacia Cup Spring Season","Semifinal","Qiao Gu Reapers","Invictus Gaming","LLL","","dom","P"],
+    ["2015-03-29","2015 Demacia Cup Spring Season","Third-Place Match","Qiao Gu Reapers","Team WE","WWLLW","","dom","P"],
+    ["2015-06-08","2015 Demacia Cup Summer Season","Round of 32","Qiao Gu Reapers","Kx.Happy","WLWW","","dom","P"],
+    ["2015-06-29","2015 Demacia Cup Summer Season","Round of 16","Qiao Gu Reapers","LGD Gaming","LWLL","","dom","P"],
+    ["2015-08-16","LPL 2015 Summer Playoffs","Semifinal","Qiao Gu Reapers","Invictus Gaming","WWLLW","","dom","P"],
+    ["2015-08-23","LPL 2015 Summer Playoffs","Final","Qiao Gu Reapers","LGD Gaming","WLWLL","","dom","P"],
+    ["2015-09-05","LPL 2015 Regional Finals","Elimination Match","Qiao Gu Reapers","Snake Esports","WWW","","dom","P"],
+    ["2015-09-05","LPL 2015 Regional Finals","Losers Finals","Qiao Gu Reapers","Invictus Gaming","LLL","","dom","P"],
+    ["2015-12-20","IEM Season X - Cologne","Final","Qiao Gu Reapers","ESC Ever","WLLWL","","intl","P"],
+    ["2016-04-18","LPL 2016 Spring Playoffs","Third-Place Match","Qiao Gu Reapers","Team WE","LLL","","dom","P"],
+    ["2016-08-11","LPL 2017 Spring Promotion","Qualifying Round","Newbee","LGD Gaming","WLLL","","dom","P"],
+    ["2016-08-13","LPL 2017 Spring Promotion","Qualifying Round","Newbee","Star Horn Royal Club","WWW","","dom","P"],
+    ["2017-04-20","LPL 2017 Spring Playoffs","Quarterfinal","Newbee","EDward Gaming","LLL","","dom","P"],
+    ["2017-08-22","LPL 2017 Summer Playoffs","Round 1","Newbee","Snake Esports","WWW","","dom","P"],
+    ["2017-08-23","LPL 2017 Summer Playoffs","Quarterfinal","Newbee","Team WE","LLL","","dom","P"]
+  ],
+  "unknown": [
+    ["2014-01-14","NLB 2014 Winter","Third-Place Match","Xenics Storm","Samsung Blue","1-3","","dom","S"],
+    ["2014-04-28","NLB 2014 Spring","Semifinal","CJ Entus Frost","SK Telecom T1 K","3-1","","dom","S"],
+    ["2014-05-17","NLB 2014 Spring","Final","CJ Entus Frost","NaJin Black Sword","3-1","","dom","S"],
+    ["2015-04-09","LSPL 2015 Spring Playoffs","Grand Finals","Qiao Gu Reapers","Vici Potential Gaming","3-1","","dom","S"],
+    ["2017-04-18","LPL 2017 Spring Playoffs","Round 1","Newbee","Invictus Gaming","3-1","WWW","dom","P"],
+    ["2017-07-23","Xinhua E-Sports Conference 2017","Final","Newbee","Invictus Gaming","1-3","","dom",""]
+  ]
+}

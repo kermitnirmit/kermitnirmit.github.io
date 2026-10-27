@@ -1,1 +1,35 @@
-{"player":"nukeduck","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2013-05-06","EU LCS Season 3 Summer Promotion","Promotion","Sinners Never Sleep","against All authority","WWW","","dom","P"],["2013-08-25","EU LCS Season 3 Summer Playoffs","Final","Lemondogs","Fnatic","LLWL","","dom","P"],["2013-12-15","EU LCS 2014 Spring Promotion","Promo","Ninjas in Pyjamas","Kiedys Mialem Team","LLL","","dom","P"],["2014-01-28","Kaos TV Challenger Series EUW Week 18 Cup","Final","Ninjas in Pyjamas","The Fox Sound","WWW","r","dom",""],["2014-04-11","EU Challenger Series 2014 Spring Playoffs","Final","Ninjas in Pyjamas","Cloud9 Eclipse","LLWL","","dom","S"],["2014-04-24","EU LCS 2014 Summer Promotion","Promo","Ninjas in Pyjamas","Millenium","WLLWL","","dom","P"],["2014-05-19","Solomid EU Tournament Circuit Invitational 6","Final","Ninjas in Pyjamas","Gamers2","WWW","r","dom",""],["2015-04-25","EU LCS 2015 Summer Promotion","Promotion","Team ROCCAT","Copenhagen Wolves Academy","WWW","","dom","P"],["2015-08-09","EU LCS 2015 Summer Playoffs","Quarterfinal","Team ROCCAT","Unicorns of Love","LLWWL","","dom","P"],["2015-08-29","EU LCS 2015 Regional Finals","Round 1","Team ROCCAT","Giants Gaming","WWW","","dom","P"],["2015-08-30","EU LCS 2015 Regional Finals","Round 2","Team ROCCAT","Origen","LWWLL","","dom","P"],["2016-04-02","EU LCS 2016 Spring Playoffs","Quarterfinal","Team Vitality","Fnatic","LLWL","","dom","P"],["2018-08-24","EU LCS 2018 Summer Playoffs","Quarterfinal","FC Schalke 04 Esports","Splyce","WLLWW","","dom","P"],["2018-08-31","EU LCS 2018 Summer Playoffs","Semifinal","FC Schalke 04 Esports","Team Vitality","WWLW","","dom","P"],["2018-09-09","EU LCS 2018 Summer Playoffs","Final","FC Schalke 04 Esports","Fnatic","WLLL","","dom","P"],["2018-09-16","EU LCS 2018 Regional Finals","Round 3","FC Schalke 04 Esports","G2 Esports","LWLL","","dom","P"],["2019-04-06","LEC 2019 Spring Playoffs","Round 2","Origen","G2 Esports","LLL","","dom","P"],["2019-04-13","LEC 2019 Spring Playoffs","Round 3","Origen","Fnatic","WWLW","","dom","P"],["2019-04-14","LEC 2019 Spring Playoffs","Final","Origen","G2 Esports","LLL","","dom","P"],["2019-09-13","LEC 2019 Regional Finals","Round 1","Origen","Splyce","WLLWL","","dom","P"],["2020-04-04","LEC 2020 Spring Playoffs","Round 1","Origen","Fnatic","LLWL","","dom","P"],["2020-04-10","LEC 2020 Spring Playoffs","Round 2","Origen","Rogue (European Team)","LWWW","","dom","P"],["2020-04-12","LEC 2020 Spring Playoffs","Round 3","Origen","G2 Esports","LLWL","","dom","P"],["2022-03-27","LEC 2022 Spring Playoffs","Round 1","Excel Esports","Team Vitality","WLWLL","","dom","P"],["2022-08-28","LEC 2022 Summer Playoffs","Round 1","Excel Esports","Fnatic","WWLLL","","dom","P"]],"unknown":[["2014-05-07","Solomid EU Tournament Circuit Invitational 5","Final","Rest In Pepperonis","Gamers2","3-1","","dom",""]]}
+{
+  "player": "nukeduck",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2013-05-06","EU LCS Season 3 Summer Promotion","Promotion","Sinners Never Sleep","against All authority","WWW","","dom","P"],
+    ["2013-08-25","EU LCS Season 3 Summer Playoffs","Final","Lemondogs","Fnatic","LLWL","","dom","P"],
+    ["2013-12-15","EU LCS 2014 Spring Promotion","Promo","Ninjas in Pyjamas","Kiedys Mialem Team","LLL","","dom","P"],
+    ["2014-01-28","Kaos TV Challenger Series EUW Week 18 Cup","Final","Ninjas in Pyjamas","The Fox Sound","WWW","r","dom",""],
+    ["2014-04-11","EU Challenger Series 2014 Spring Playoffs","Final","Ninjas in Pyjamas","Cloud9 Eclipse","LLWL","","dom","S"],
+    ["2014-04-24","EU LCS 2014 Summer Promotion","Promo","Ninjas in Pyjamas","Millenium","WLLWL","","dom","P"],
+    ["2014-05-19","Solomid EU Tournament Circuit Invitational 6","Final","Ninjas in Pyjamas","Gamers2","WWW","r","dom",""],
+    ["2015-04-25","EU LCS 2015 Summer Promotion","Promotion","Team ROCCAT","Copenhagen Wolves Academy","WWW","","dom","P"],
+    ["2015-08-09","EU LCS 2015 Summer Playoffs","Quarterfinal","Team ROCCAT","Unicorns of Love","LLWWL","","dom","P"],
+    ["2015-08-29","EU LCS 2015 Regional Finals","Round 1","Team ROCCAT","Giants Gaming","WWW","","dom","P"],
+    ["2015-08-30","EU LCS 2015 Regional Finals","Round 2","Team ROCCAT","Origen","LWWLL","","dom","P"],
+    ["2016-04-02","EU LCS 2016 Spring Playoffs","Quarterfinal","Team Vitality","Fnatic","LLWL","","dom","P"],
+    ["2018-08-24","EU LCS 2018 Summer Playoffs","Quarterfinal","FC Schalke 04 Esports","Splyce","WLLWW","","dom","P"],
+    ["2018-08-31","EU LCS 2018 Summer Playoffs","Semifinal","FC Schalke 04 Esports","Team Vitality","WWLW","","dom","P"],
+    ["2018-09-09","EU LCS 2018 Summer Playoffs","Final","FC Schalke 04 Esports","Fnatic","WLLL","","dom","P"],
+    ["2018-09-16","EU LCS 2018 Regional Finals","Round 3","FC Schalke 04 Esports","G2 Esports","LWLL","","dom","P"],
+    ["2019-04-06","LEC 2019 Spring Playoffs","Round 2","Origen","G2 Esports","LLL","","dom","P"],
+    ["2019-04-13","LEC 2019 Spring Playoffs","Round 3","Origen","Fnatic","WWLW","","dom","P"],
+    ["2019-04-14","LEC 2019 Spring Playoffs","Final","Origen","G2 Esports","LLL","","dom","P"],
+    ["2019-09-13","LEC 2019 Regional Finals","Round 1","Origen","Splyce","WLLWL","","dom","P"],
+    ["2020-04-04","LEC 2020 Spring Playoffs","Round 1","Origen","Fnatic","LLWL","","dom","P"],
+    ["2020-04-10","LEC 2020 Spring Playoffs","Round 2","Origen","Rogue (European Team)","LWWW","","dom","P"],
+    ["2020-04-12","LEC 2020 Spring Playoffs","Round 3","Origen","G2 Esports","LLWL","","dom","P"],
+    ["2022-03-27","LEC 2022 Spring Playoffs","Round 1","Excel Esports","Team Vitality","WLWLL","","dom","P"],
+    ["2022-08-28","LEC 2022 Summer Playoffs","Round 1","Excel Esports","Fnatic","WWLLL","","dom","P"]
+  ],
+  "unknown": [
+    ["2014-05-07","Solomid EU Tournament Circuit Invitational 5","Final","Rest In Pepperonis","Gamers2","3-1","","dom",""]
+  ]
+}

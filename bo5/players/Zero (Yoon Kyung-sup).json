@@ -1,1 +1,37 @@
-{"player":"Zero (Yoon Kyung-sup)","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2013-01-03","Champions 2013 Winter","Quarterfinal","KT Rolster A","KT Rolster B","LLWL","","dom","P"],["2014-05-14","NLB 2014 Spring","Third-Place Match","KT Rolster Bullets","SK Telecom T1 K","LLL","r","dom","S"],["2014-08-20","LPL 2014 Summer Playoffs","Winners Round 1","Star Horn Royal Club","Oh My God","WWLLL","","dom","P"],["2014-08-22","LPL 2014 Summer Playoffs","Losers Round 1","Star Horn Royal Club","LGD Gaming","WWW","","dom","P"],["2014-08-23","LPL 2014 Summer Playoffs","Losers Finals","Star Horn Royal Club","Oh My God","LWWLL","","dom","P"],["2014-10-05","Worlds 2014","Quarterfinal","Star Horn Royal Club","EDward Gaming","WWLLW","","worlds","P"],["2014-10-12","Worlds 2014","Semifinal","Star Horn Royal Club","Oh My God","LWWLW","","worlds","P"],["2014-10-19","Worlds 2014","Final","Star Horn Royal Club","Samsung White","LLWL","","worlds","P"],["2015-03-02","2015 Demacia Cup Spring Season","Round of 16","Star Horn Royal Club","Snake Honor Esports","WWW","","dom","P"],["2015-03-27","2015 Demacia Cup Spring Season","Quarterfinal","Star Horn Royal Club","Team WE","LLL","","dom","P"],["2015-04-16","LPL 2015 Summer Promotion","Round 1","Star Horn Royal Club","Young Glory","WWW","","dom","P"],["2015-04-19","LPL 2015 Summer Promotion","Qualifiers","Star Horn Royal Club","Gamtee","LLL","","dom","P"],["2015-06-15","2015 Demacia Cup Summer Season","Round of 32","Team King","Energy Pacemaker.All","WLLWW","","dom","P"],["2015-06-29","2015 Demacia Cup Summer Season","Round of 16","Team King","Unlimited Potential","WLLL","p","dom","P"],["2015-08-10","LPL 2016 Spring Promotion","Elimination Round","Team King","2144 Danmu Gaming","LLWL","","dom","P"],["2016-04-15","LPL 2016 Spring Playoffs","Quarterfinal","Team WE","Vici Gaming","LWWW","","dom","P"],["2016-04-17","LPL 2016 Spring Playoffs","Semifinal","Team WE","Royal Never Give Up","LLWWL","","dom","P"],["2016-04-18","LPL 2016 Spring Playoffs","Third-Place Match","Team WE","Qiao Gu Reapers","WWW","","dom","P"],["2016-07-02","Demacia Cup 2016 Season","Quarterfinal","Team WE","Royal Never Give Up","LLL","","dom","P"],["2016-08-12","LPL 2016 Summer Playoffs","Quarterfinal","Team WE","Vici Gaming","WLWW","","dom","P"],["2016-08-14","LPL 2016 Summer Playoffs","Semifinal","Team WE","EDward Gaming","LWLWL","","dom","P"],["2016-08-15","LPL 2016 Summer Playoffs","Third-Place Match","Team WE","I May","WLLL","","dom","P"],["2016-08-27","LPL 2016 Regional Finals","Round 2","Team WE","Snake Esports","WLWLW","","dom","P"],["2016-08-28","LPL 2016 Regional Finals","Final","Team WE","I May","WLWLL","","dom","P"],["2017-05-20","MSI 2017","Semifinal","Team WE","G2 Esports","LLWL","p","msi","P"],["2017-06-01","Demacia Cup 2017 Season","Quarterfinal","Team WE","Invictus Gaming","LLL","p","dom","P"],["2017-09-29","Worlds 2017","Round 2","Team WE","Young Generation","WWW","p","worlds","P"]],"unknown":[["2014-04-29","NLB 2014 Spring","Semifinal","KT Rolster Bullets","NaJin Black Sword","1-3","","dom","S"]]}
+{
+  "player": "Zero (Yoon Kyung-sup)",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2013-01-03","Champions 2013 Winter","Quarterfinal","KT Rolster A","KT Rolster B","LLWL","","dom","P"],
+    ["2014-05-14","NLB 2014 Spring","Third-Place Match","KT Rolster Bullets","SK Telecom T1 K","LLL","r","dom","S"],
+    ["2014-08-20","LPL 2014 Summer Playoffs","Winners Round 1","Star Horn Royal Club","Oh My God","WWLLL","","dom","P"],
+    ["2014-08-22","LPL 2014 Summer Playoffs","Losers Round 1","Star Horn Royal Club","LGD Gaming","WWW","","dom","P"],
+    ["2014-08-23","LPL 2014 Summer Playoffs","Losers Finals","Star Horn Royal Club","Oh My God","LWWLL","","dom","P"],
+    ["2014-10-05","Worlds 2014","Quarterfinal","Star Horn Royal Club","EDward Gaming","WWLLW","","worlds","P"],
+    ["2014-10-12","Worlds 2014","Semifinal","Star Horn Royal Club","Oh My God","LWWLW","","worlds","P"],
+    ["2014-10-19","Worlds 2014","Final","Star Horn Royal Club","Samsung White","LLWL","","worlds","P"],
+    ["2015-03-02","2015 Demacia Cup Spring Season","Round of 16","Star Horn Royal Club","Snake Honor Esports","WWW","","dom","P"],
+    ["2015-03-27","2015 Demacia Cup Spring Season","Quarterfinal","Star Horn Royal Club","Team WE","LLL","","dom","P"],
+    ["2015-04-16","LPL 2015 Summer Promotion","Round 1","Star Horn Royal Club","Young Glory","WWW","","dom","P"],
+    ["2015-04-19","LPL 2015 Summer Promotion","Qualifiers","Star Horn Royal Club","Gamtee","LLL","","dom","P"],
+    ["2015-06-15","2015 Demacia Cup Summer Season","Round of 32","Team King","Energy Pacemaker.All","WLLWW","","dom","P"],
+    ["2015-06-29","2015 Demacia Cup Summer Season","Round of 16","Team King","Unlimited Potential","WLLL","p","dom","P"],
+    ["2015-08-10","LPL 2016 Spring Promotion","Elimination Round","Team King","2144 Danmu Gaming","LLWL","","dom","P"],
+    ["2016-04-15","LPL 2016 Spring Playoffs","Quarterfinal","Team WE","Vici Gaming","LWWW","","dom","P"],
+    ["2016-04-17","LPL 2016 Spring Playoffs","Semifinal","Team WE","Royal Never Give Up","LLWWL","","dom","P"],
+    ["2016-04-18","LPL 2016 Spring Playoffs","Third-Place Match","Team WE","Qiao Gu Reapers","WWW","","dom","P"],
+    ["2016-07-02","Demacia Cup 2016 Season","Quarterfinal","Team WE","Royal Never Give Up","LLL","","dom","P"],
+    ["2016-08-12","LPL 2016 Summer Playoffs","Quarterfinal","Team WE","Vici Gaming","WLWW","","dom","P"],
+    ["2016-08-14","LPL 2016 Summer Playoffs","Semifinal","Team WE","EDward Gaming","LWLWL","","dom","P"],
+    ["2016-08-15","LPL 2016 Summer Playoffs","Third-Place Match","Team WE","I May","WLLL","","dom","P"],
+    ["2016-08-27","LPL 2016 Regional Finals","Round 2","Team WE","Snake Esports","WLWLW","","dom","P"],
+    ["2016-08-28","LPL 2016 Regional Finals","Final","Team WE","I May","WLWLL","","dom","P"],
+    ["2017-05-20","MSI 2017","Semifinal","Team WE","G2 Esports","LLWL","p","msi","P"],
+    ["2017-06-01","Demacia Cup 2017 Season","Quarterfinal","Team WE","Invictus Gaming","LLL","p","dom","P"],
+    ["2017-09-29","Worlds 2017","Round 2","Team WE","Young Generation","WWW","p","worlds","P"]
+  ],
+  "unknown": [
+    ["2014-04-29","NLB 2014 Spring","Semifinal","KT Rolster Bullets","NaJin Black Sword","1-3","","dom","S"]
+  ]
+}

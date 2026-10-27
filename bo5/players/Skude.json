@@ -1,1 +1,43 @@
-{"player":"Skude","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2018-12-12","Summoner's Inn League Season 2 Promotion","Final","Unicorns of Love Sexy Edition","Aequilibritas E-Sports","WWW","r","dom",""],["2019-04-12","Summoner's Inn League Season 3 Promotion","Round 2","Unicorns of Love Sexy Edition","Aequilibritas E-Sports","WWW","r","dom",""],["2019-04-14","ACC Masters of eSports 2019","Final","Unicorns of Love Sexy Edition","WarKidZ E-Sports","LWWLL","r","dom",""],["2020-03-29","Nordic Championship 2020 Spring Playoffs","Final","Team Singularity","Vipers Inc","WWLW","","dom","S"],["2020-08-12","NLC 2020 Summer Relegation","Qualifiers","Team Singularity","KOVA Esports","WWLLW","","dom","S"],["2021-02-10","Telia Esports Series Denmark 2021 Spring Playoffs","Round 1","Absolved","Atlando Esports","WLWW","","dom","S"],["2021-02-21","Telia Esports Series Denmark 2021 Spring Playoffs","Round 2","Absolved","Masonic","WLWW","","dom","S"],["2021-02-28","Telia Esports Series Denmark 2021 Spring Playoffs","Final","Absolved","Masonic","WWW","","dom","S"],["2021-07-07","Telia Esports Series Denmark 2021 Summer Playoffs","Round 1","Absolved","Protecting Guardians","WLLL","","dom","S"],["2021-07-14","Telia Esports Series Denmark 2021 Summer Playoffs","Round 1","Absolved","Havoc (Danish Team)","LWWW","","dom","S"],["2021-07-21","Telia Esports Series Denmark 2021 Summer Playoffs","Round 2","Absolved","Nativz","LWWW","","dom","S"],["2021-07-25","Telia Esports Series Denmark 2021 Summer Playoffs","Final","Absolved","Protecting Guardians","LWWW","","dom","S"],["2021-10-14","NLC 2022 Spring Qualifier","Round 4","X7 Esports","NYYRIKKI","WLLL","","dom","S"],["2021-10-16","NLC 2022 Spring Qualifier","Round 4","X7 Esports","Bifrost","LLL","","dom","S"],["2021-10-17","NLC 2022 Spring Qualifier","Round 5","X7 Esports","MNM Gaming","LLL","","dom","S"],["2022-03-11","Elite Series 2022 Spring Playoffs","Round 1","mCon LG UltraGear","KRC Genk Esports","WLLWW","","dom","S"],["2022-03-19","Elite Series 2022 Spring Playoffs","Final","mCon LG UltraGear","KRC Genk Esports","LWLL","","dom","S"],["2022-07-08","Crusaders Crown 2022","Final","Crvena zvezda Esports","Team Phantasma","LLWL","","dom","S"],["2022-07-25","Esports Balkan League 2022 Summer Playoffs","Round 1","Crvena zvezda Esports","Diamant Esports","WLWW","","dom","S"],["2022-08-13","Esports Balkan League 2022 Summer Playoffs","Final","Crvena zvezda Esports","Valiance","LWLWL","","dom","S"],["2023-03-09","Arabian League 2023 Spring Playoffs","Round 1","RA'AD","Geekay Esports","LLWL","","dom","S"],["2023-03-16","Arabian League 2023 Spring Playoffs","Semifinal","RA'AD","Triple Esports","WWW","","dom","S"],["2023-03-30","Arabian League 2023 Spring Playoffs","Final","RA'AD","Geekay Esports","LLL","","dom","S"],["2023-08-09","Arabian League 2023 Summer Playoffs","Round 1","RA'AD","Geekay Esports","WWLW","","dom","S"],["2023-08-10","Arabian League 2023 Summer Playoffs","Semifinal","RA'AD","Nigma Galaxy Male","WLLL","","dom","S"],["2024-03-29","Arabian League 2024 Spring Playoffs","Round 1","Fox Gaming","Twisted Minds","WWLW","","dom","S"],["2024-04-04","Arabian League 2024 Spring Playoffs","Semifinal","Fox Gaming","Geekay Esports","LWLL","","dom","S"]],"unknown":[["2018-10-06","League Championship Denmark 2018 Autumn Playoffs","Semifinal","Team Singularity","Good Game Esport","3-2","","dom",""],["2018-10-07","League Championship Denmark 2018 Autumn Playoffs","Final","Team Singularity","Copenhagen Flames","3-1","","dom",""],["2018-12-15","League Championship Denmark 2018 Winter Playoffs","Semifinal","Team Singularity","Bucks Vipers","3-2","","dom",""],["2018-12-16","League Championship Denmark 2018 Winter Playoffs","Final","Team Singularity","Copenhagen Flames","3-1","","dom",""],["2019-11-01","Forge of Champions 2019 Summer/Promotion","Promotion Finals","Barrage Esports Retirement Home","Barrage (British Team)","3-1","WWW","dom","S"],["2021-06-26","Magyar Esport Kupa 2021 Summer","Grand Final","Orange Panther Gaming","Team Plague","2-3","WLLL","dom","S"],["2022-10-11","Magyar Nemzeti E-sport Bajnokság Season 4 Autumn Cup","Round 4","Team Plague","KmK eSports","3-1","","dom","S"]]}
+{
+  "player": "Skude",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2018-12-12","Summoner's Inn League Season 2 Promotion","Final","Unicorns of Love Sexy Edition","Aequilibritas E-Sports","WWW","r","dom",""],
+    ["2019-04-12","Summoner's Inn League Season 3 Promotion","Round 2","Unicorns of Love Sexy Edition","Aequilibritas E-Sports","WWW","r","dom",""],
+    ["2019-04-14","ACC Masters of eSports 2019","Final","Unicorns of Love Sexy Edition","WarKidZ E-Sports","LWWLL","r","dom",""],
+    ["2020-03-29","Nordic Championship 2020 Spring Playoffs","Final","Team Singularity","Vipers Inc","WWLW","","dom","S"],
+    ["2020-08-12","NLC 2020 Summer Relegation","Qualifiers","Team Singularity","KOVA Esports","WWLLW","","dom","S"],
+    ["2021-02-10","Telia Esports Series Denmark 2021 Spring Playoffs","Round 1","Absolved","Atlando Esports","WLWW","","dom","S"],
+    ["2021-02-21","Telia Esports Series Denmark 2021 Spring Playoffs","Round 2","Absolved","Masonic","WLWW","","dom","S"],
+    ["2021-02-28","Telia Esports Series Denmark 2021 Spring Playoffs","Final","Absolved","Masonic","WWW","","dom","S"],
+    ["2021-07-07","Telia Esports Series Denmark 2021 Summer Playoffs","Round 1","Absolved","Protecting Guardians","WLLL","","dom","S"],
+    ["2021-07-14","Telia Esports Series Denmark 2021 Summer Playoffs","Round 1","Absolved","Havoc (Danish Team)","LWWW","","dom","S"],
+    ["2021-07-21","Telia Esports Series Denmark 2021 Summer Playoffs","Round 2","Absolved","Nativz","LWWW","","dom","S"],
+    ["2021-07-25","Telia Esports Series Denmark 2021 Summer Playoffs","Final","Absolved","Protecting Guardians","LWWW","","dom","S"],
+    ["2021-10-14","NLC 2022 Spring Qualifier","Round 4","X7 Esports","NYYRIKKI","WLLL","","dom","S"],
+    ["2021-10-16","NLC 2022 Spring Qualifier","Round 4","X7 Esports","Bifrost","LLL","","dom","S"],
+    ["2021-10-17","NLC 2022 Spring Qualifier","Round 5","X7 Esports","MNM Gaming","LLL","","dom","S"],
+    ["2022-03-11","Elite Series 2022 Spring Playoffs","Round 1","mCon LG UltraGear","KRC Genk Esports","WLLWW","","dom","S"],
+    ["2022-03-19","Elite Series 2022 Spring Playoffs","Final","mCon LG UltraGear","KRC Genk Esports","LWLL","","dom","S"],
+    ["2022-07-08","Crusaders Crown 2022","Final","Crvena zvezda Esports","Team Phantasma","LLWL","","dom","S"],
+    ["2022-07-25","Esports Balkan League 2022 Summer Playoffs","Round 1","Crvena zvezda Esports","Diamant Esports","WLWW","","dom","S"],
+    ["2022-08-13","Esports Balkan League 2022 Summer Playoffs","Final","Crvena zvezda Esports","Valiance","LWLWL","","dom","S"],
+    ["2023-03-09","Arabian League 2023 Spring Playoffs","Round 1","RA'AD","Geekay Esports","LLWL","","dom","S"],
+    ["2023-03-16","Arabian League 2023 Spring Playoffs","Semifinal","RA'AD","Triple Esports","WWW","","dom","S"],
+    ["2023-03-30","Arabian League 2023 Spring Playoffs","Final","RA'AD","Geekay Esports","LLL","","dom","S"],
+    ["2023-08-09","Arabian League 2023 Summer Playoffs","Round 1","RA'AD","Geekay Esports","WWLW","","dom","S"],
+    ["2023-08-10","Arabian League 2023 Summer Playoffs","Semifinal","RA'AD","Nigma Galaxy Male","WLLL","","dom","S"],
+    ["2024-03-29","Arabian League 2024 Spring Playoffs","Round 1","Fox Gaming","Twisted Minds","WWLW","","dom","S"],
+    ["2024-04-04","Arabian League 2024 Spring Playoffs","Semifinal","Fox Gaming","Geekay Esports","LWLL","","dom","S"]
+  ],
+  "unknown": [
+    ["2018-10-06","League Championship Denmark 2018 Autumn Playoffs","Semifinal","Team Singularity","Good Game Esport","3-2","","dom",""],
+    ["2018-10-07","League Championship Denmark 2018 Autumn Playoffs","Final","Team Singularity","Copenhagen Flames","3-1","","dom",""],
+    ["2018-12-15","League Championship Denmark 2018 Winter Playoffs","Semifinal","Team Singularity","Bucks Vipers","3-2","","dom",""],
+    ["2018-12-16","League Championship Denmark 2018 Winter Playoffs","Final","Team Singularity","Copenhagen Flames","3-1","","dom",""],
+    ["2019-11-01","Forge of Champions 2019 Summer/Promotion","Promotion Finals","Barrage Esports Retirement Home","Barrage (British Team)","3-1","WWW","dom","S"],
+    ["2021-06-26","Magyar Esport Kupa 2021 Summer","Grand Final","Orange Panther Gaming","Team Plague","2-3","WLLL","dom","S"],
+    ["2022-10-11","Magyar Nemzeti E-sport Bajnokság Season 4 Autumn Cup","Round 4","Team Plague","KmK eSports","3-1","","dom","S"]
+  ]
+}

@@ -1,1 +1,37 @@
-{"player":"Lac","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2020-08-20","Liga Master Flow 2021 Opening Promotion","Qualifier","Intel New Indians","Coscu Army","LWLL","r","dom","S"],["2022-03-24","Liga Master Flow 2022 Opening Playoffs","Quarterfinal","Undead Gaming","Boca Juniors Gaming","LLL","","dom","S"],["2022-07-06","Liga Master Flow 2022 Closing Playoffs","Quarterfinal","KRÜ Esports","Undead Gaming","WWW","","dom","S"],["2022-07-14","Liga Master Flow 2022 Closing Playoffs","Semifinal","KRÜ Esports","Leviatan","LWLWL","","dom","S"],["2023-03-03","Liga Master Flow 2023 Opening Playoffs","Round 1","WAP Esports","PRIMATE","LLWWL","","dom","S"],["2023-03-10","Liga Master Flow 2023 Opening Playoffs","Round 1","WAP Esports","Boca Juniors Gaming","WWW","","dom","S"],["2023-03-17","Liga Master Flow 2023 Opening Playoffs","Round 2","WAP Esports","Globant Emerald","WWW","","dom","S"],["2023-03-23","Liga Master Flow 2023 Opening Playoffs","Round 3","WAP Esports","PRIMATE","LWWW","","dom","S"],["2023-03-31","Liga Master Flow 2023 Opening Playoffs","Grand Final","WAP Esports","Pampas","LLL","","dom","S"],["2023-07-27","Liga Regional Sur 2023 Closing Playoffs","Round 1","WAP Esports","PRIMATE","LLL","","dom","S"],["2023-08-03","Liga Regional Sur 2023 Closing Playoffs","Round 1","WAP Esports","Globant Emerald","LWWW","","dom","S"],["2023-08-11","Liga Regional Sur 2023 Closing Playoffs","Round 2","WAP Esports","Malvinas Rise","WWW","","dom","S"],["2023-08-12","Liga Regional Sur 2023 Closing Playoffs","Round 3","WAP Esports","Furious Gaming","LWWLL","","dom","S"],["2024-03-12","LLA 2024 Opening Playoffs","Round 1","All Knights","Six Karma","WWW","","dom","P"],["2024-03-13","LLA 2024 Opening Playoffs","Round 2","All Knights","Leviatan","WLWW","","dom","P"],["2024-03-20","LLA 2024 Opening Playoffs","Round 3","All Knights","Isurus","WWLLL","","dom","P"],["2024-06-28","Liga Regional Sur 2024 Playoffs","Round 1","Undead Gaming","PRIMATE","LWLL","","dom","S"],["2024-07-11","Liga Regional Sur 2024 Playoffs","Round 1","Undead Gaming","Meta Gaming","WWLW","p","dom","S"],["2025-05-13","Liga Regional Sur 2025 Split 1 Playoffs","Round 1","Maze Gaming","Farenvehn","LWWW","","dom","S"],["2025-05-27","Liga Regional Sur 2025 Split 1 Playoffs","Round 2","Maze Gaming","WAP Esports","WLWLW","","dom","S"],["2025-06-04","Liga Regional Sur 2025 Split 1 Playoffs","Final","Maze Gaming","Farenvehn","WLLL","","dom","S"],["2025-08-26","Liga Regional Sur 2025 Split 2 Playoffs","Round 2","Maze Gaming","Seven Dark","WWW","","dom","S"],["2025-09-01","Liga Regional Sur 2025 Split 2 Playoffs","Round 3","Maze Gaming","Golden Lions","WLWLW","","dom","S"],["2025-09-09","Liga Regional Sur 2025 Split 2 Playoffs","Round 4","Maze Gaming","Sicar Esports","WLLL","","dom","S"],["2026-04-28","Liga Regional Sur 2026 Split 1 Playoffs","Round 1","Malvinas Gaming","Volticons","LWLWL","","dom","S"],["2026-05-12","Liga Regional Sur 2026 Split 1 Playoffs","Round 1","Malvinas Gaming","The New Kings","WWW","","dom","S"],["2026-05-19","Liga Regional Sur 2026 Split 1 Playoffs","Round 2","Malvinas Gaming","9z Globant","LLL","","dom","S"],["2026-08-03","Liga Regional Sur 2026 Split 2 Playoffs","Round 1","Docta Esports","Volticons","WLWW","","dom","S"],["2026-08-19","Liga Regional Sur 2026 Split 2 Playoffs","Round 2","Docta Esports","Maze Gaming","LLL","","dom","S"]],"unknown":[]}
+{
+  "player": "Lac",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2020-08-20","Liga Master Flow 2021 Opening Promotion","Qualifier","Intel New Indians","Coscu Army","LWLL","r","dom","S"],
+    ["2022-03-24","Liga Master Flow 2022 Opening Playoffs","Quarterfinal","Undead Gaming","Boca Juniors Gaming","LLL","","dom","S"],
+    ["2022-07-06","Liga Master Flow 2022 Closing Playoffs","Quarterfinal","KRÜ Esports","Undead Gaming","WWW","","dom","S"],
+    ["2022-07-14","Liga Master Flow 2022 Closing Playoffs","Semifinal","KRÜ Esports","Leviatan","LWLWL","","dom","S"],
+    ["2023-03-03","Liga Master Flow 2023 Opening Playoffs","Round 1","WAP Esports","PRIMATE","LLWWL","","dom","S"],
+    ["2023-03-10","Liga Master Flow 2023 Opening Playoffs","Round 1","WAP Esports","Boca Juniors Gaming","WWW","","dom","S"],
+    ["2023-03-17","Liga Master Flow 2023 Opening Playoffs","Round 2","WAP Esports","Globant Emerald","WWW","","dom","S"],
+    ["2023-03-23","Liga Master Flow 2023 Opening Playoffs","Round 3","WAP Esports","PRIMATE","LWWW","","dom","S"],
+    ["2023-03-31","Liga Master Flow 2023 Opening Playoffs","Grand Final","WAP Esports","Pampas","LLL","","dom","S"],
+    ["2023-07-27","Liga Regional Sur 2023 Closing Playoffs","Round 1","WAP Esports","PRIMATE","LLL","","dom","S"],
+    ["2023-08-03","Liga Regional Sur 2023 Closing Playoffs","Round 1","WAP Esports","Globant Emerald","LWWW","","dom","S"],
+    ["2023-08-11","Liga Regional Sur 2023 Closing Playoffs","Round 2","WAP Esports","Malvinas Rise","WWW","","dom","S"],
+    ["2023-08-12","Liga Regional Sur 2023 Closing Playoffs","Round 3","WAP Esports","Furious Gaming","LWWLL","","dom","S"],
+    ["2024-03-12","LLA 2024 Opening Playoffs","Round 1","All Knights","Six Karma","WWW","","dom","P"],
+    ["2024-03-13","LLA 2024 Opening Playoffs","Round 2","All Knights","Leviatan","WLWW","","dom","P"],
+    ["2024-03-20","LLA 2024 Opening Playoffs","Round 3","All Knights","Isurus","WWLLL","","dom","P"],
+    ["2024-06-28","Liga Regional Sur 2024 Playoffs","Round 1","Undead Gaming","PRIMATE","LWLL","","dom","S"],
+    ["2024-07-11","Liga Regional Sur 2024 Playoffs","Round 1","Undead Gaming","Meta Gaming","WWLW","p","dom","S"],
+    ["2025-05-13","Liga Regional Sur 2025 Split 1 Playoffs","Round 1","Maze Gaming","Farenvehn","LWWW","","dom","S"],
+    ["2025-05-27","Liga Regional Sur 2025 Split 1 Playoffs","Round 2","Maze Gaming","WAP Esports","WLWLW","","dom","S"],
+    ["2025-06-04","Liga Regional Sur 2025 Split 1 Playoffs","Final","Maze Gaming","Farenvehn","WLLL","","dom","S"],
+    ["2025-08-26","Liga Regional Sur 2025 Split 2 Playoffs","Round 2","Maze Gaming","Seven Dark","WWW","","dom","S"],
+    ["2025-09-01","Liga Regional Sur 2025 Split 2 Playoffs","Round 3","Maze Gaming","Golden Lions","WLWLW","","dom","S"],
+    ["2025-09-09","Liga Regional Sur 2025 Split 2 Playoffs","Round 4","Maze Gaming","Sicar Esports","WLLL","","dom","S"],
+    ["2026-04-28","Liga Regional Sur 2026 Split 1 Playoffs","Round 1","Malvinas Gaming","Volticons","LWLWL","","dom","S"],
+    ["2026-05-12","Liga Regional Sur 2026 Split 1 Playoffs","Round 1","Malvinas Gaming","The New Kings","WWW","","dom","S"],
+    ["2026-05-19","Liga Regional Sur 2026 Split 1 Playoffs","Round 2","Malvinas Gaming","9z Globant","LLL","","dom","S"],
+    ["2026-08-03","Liga Regional Sur 2026 Split 2 Playoffs","Round 1","Docta Esports","Volticons","WLWW","","dom","S"],
+    ["2026-08-19","Liga Regional Sur 2026 Split 2 Playoffs","Round 2","Docta Esports","Maze Gaming","LLL","","dom","S"]
+  ],
+  "unknown": []
+}

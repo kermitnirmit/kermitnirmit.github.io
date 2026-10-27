@@ -1,1 +1,31 @@
-{"player":"Solokill","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2021-07-19","LDL 2021 Summer Cup","Quarterfinal","WanZhen Esports Club","Royal Club","LLL","","dom","S"],["2021-08-25","LDL 2021 Summer Playoffs","Round 1","WanZhen Esports Club","Shu Dai Xiong Gaming","WLLWL","","dom","S"],["2022-04-12","LDL 2022 Spring Playoffs","Round 1","EDward Gaming Youth Team","TEAM ORANGE","WLWW","","dom","S"],["2022-04-14","LDL 2022 Spring Playoffs","Round 2","EDward Gaming Youth Team","V5 87","WLLWL","","dom","S"],["2022-08-15","LDL 2022 Summer Playoffs","Round 2","EDward Gaming Youth Team","Team WE Academy","WWW","","dom","S"],["2022-08-20","LDL 2022 Summer Playoffs","Round 3","EDward Gaming Youth Team","Joy Dream","WWLW","","dom","S"],["2022-08-22","LDL 2022 Summer Playoffs","Round 4","EDward Gaming Youth Team","MAX (Chinese Team)","WWLW","","dom","S"],["2022-08-28","LDL 2022 Summer Playoffs","Final","EDward Gaming Youth Team","FunPlus Phoenix Blaze","LLWL","","dom","S"],["2022-09-17","Asia Star Challengers Invitational 2022","Quarterfinal","EDward Gaming Youth Team","Huya Streamer","WLWW","","dom","S"],["2022-09-22","Asia Star Challengers Invitational 2022","Semifinal","EDward Gaming Youth Team","FunPlus Phoenix Blaze","WLWLW","","dom","S"],["2022-09-25","Asia Star Challengers Invitational 2022","Final","EDward Gaming Youth Team","MAX (Chinese Team)","WWW","","dom","S"],["2023-03-30","PCS 2023 Spring Playoffs","Round 2","Frank Esports","CTBC Flying Oyster","WWLLL","","dom","P"],["2023-04-01","PCS 2023 Spring Playoffs","Round 2","Frank Esports","Deep Cross Gaming","WLWLW","","dom","P"],["2023-04-07","PCS 2023 Spring Playoffs","Round 3","Frank Esports","Impunity","WWW","","dom","P"],["2023-04-08","PCS 2023 Spring Playoffs","Round 4","Frank Esports","CTBC Flying Oyster","LWWW","","dom","P"],["2023-04-09","PCS 2023 Spring Playoffs","Final","Frank Esports","PSG Talon","LLL","","dom","P"],["2023-08-18","PCS 2023 Summer Playoffs","Round 1","Frank Esports","Chiefs Esports Club","WWLW","","dom","P"],["2023-08-20","PCS 2023 Summer Playoffs","Round 2","Frank Esports","J Team","WWW","","dom","P"],["2023-08-26","PCS 2023 Summer Playoffs","Round 3","Frank Esports","CTBC Flying Oyster","LWLWL","","dom","P"],["2025-05-25","LPL 2025 Split 2 Playoffs","Play-In","Ninjas in Pyjamas.CN","FunPlus Phoenix","LWLWL","","dom","P"],["2025-08-30","LPL 2025 Grand Finals","Play-In","Ninjas in Pyjamas.CN","FunPlus Phoenix","LWLWW","","dom","P"],["2025-09-08","LPL 2025 Grand Finals","Round 1","Ninjas in Pyjamas.CN","Top Esports","LWLL","","dom","P"],["2025-09-12","LPL 2025 Grand Finals","Round 1","Ninjas in Pyjamas.CN","Anyone's Legend","WLLL","","dom","P"]],"unknown":[]}
+{
+  "player": "Solokill",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2021-07-19","LDL 2021 Summer Cup","Quarterfinal","WanZhen Esports Club","Royal Club","LLL","","dom","S"],
+    ["2021-08-25","LDL 2021 Summer Playoffs","Round 1","WanZhen Esports Club","Shu Dai Xiong Gaming","WLLWL","","dom","S"],
+    ["2022-04-12","LDL 2022 Spring Playoffs","Round 1","EDward Gaming Youth Team","TEAM ORANGE","WLWW","","dom","S"],
+    ["2022-04-14","LDL 2022 Spring Playoffs","Round 2","EDward Gaming Youth Team","V5 87","WLLWL","","dom","S"],
+    ["2022-08-15","LDL 2022 Summer Playoffs","Round 2","EDward Gaming Youth Team","Team WE Academy","WWW","","dom","S"],
+    ["2022-08-20","LDL 2022 Summer Playoffs","Round 3","EDward Gaming Youth Team","Joy Dream","WWLW","","dom","S"],
+    ["2022-08-22","LDL 2022 Summer Playoffs","Round 4","EDward Gaming Youth Team","MAX (Chinese Team)","WWLW","","dom","S"],
+    ["2022-08-28","LDL 2022 Summer Playoffs","Final","EDward Gaming Youth Team","FunPlus Phoenix Blaze","LLWL","","dom","S"],
+    ["2022-09-17","Asia Star Challengers Invitational 2022","Quarterfinal","EDward Gaming Youth Team","Huya Streamer","WLWW","","dom","S"],
+    ["2022-09-22","Asia Star Challengers Invitational 2022","Semifinal","EDward Gaming Youth Team","FunPlus Phoenix Blaze","WLWLW","","dom","S"],
+    ["2022-09-25","Asia Star Challengers Invitational 2022","Final","EDward Gaming Youth Team","MAX (Chinese Team)","WWW","","dom","S"],
+    ["2023-03-30","PCS 2023 Spring Playoffs","Round 2","Frank Esports","CTBC Flying Oyster","WWLLL","","dom","P"],
+    ["2023-04-01","PCS 2023 Spring Playoffs","Round 2","Frank Esports","Deep Cross Gaming","WLWLW","","dom","P"],
+    ["2023-04-07","PCS 2023 Spring Playoffs","Round 3","Frank Esports","Impunity","WWW","","dom","P"],
+    ["2023-04-08","PCS 2023 Spring Playoffs","Round 4","Frank Esports","CTBC Flying Oyster","LWWW","","dom","P"],
+    ["2023-04-09","PCS 2023 Spring Playoffs","Final","Frank Esports","PSG Talon","LLL","","dom","P"],
+    ["2023-08-18","PCS 2023 Summer Playoffs","Round 1","Frank Esports","Chiefs Esports Club","WWLW","","dom","P"],
+    ["2023-08-20","PCS 2023 Summer Playoffs","Round 2","Frank Esports","J Team","WWW","","dom","P"],
+    ["2023-08-26","PCS 2023 Summer Playoffs","Round 3","Frank Esports","CTBC Flying Oyster","LWLWL","","dom","P"],
+    ["2025-05-25","LPL 2025 Split 2 Playoffs","Play-In","Ninjas in Pyjamas.CN","FunPlus Phoenix","LWLWL","","dom","P"],
+    ["2025-08-30","LPL 2025 Grand Finals","Play-In","Ninjas in Pyjamas.CN","FunPlus Phoenix","LWLWW","","dom","P"],
+    ["2025-09-08","LPL 2025 Grand Finals","Round 1","Ninjas in Pyjamas.CN","Top Esports","LWLL","","dom","P"],
+    ["2025-09-12","LPL 2025 Grand Finals","Round 1","Ninjas in Pyjamas.CN","Anyone's Legend","WLLL","","dom","P"]
+  ],
+  "unknown": []
+}

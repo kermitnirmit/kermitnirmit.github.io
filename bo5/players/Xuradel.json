@@ -1,1 +1,34 @@
-{"player":"Xuradel","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2016-08-09","Circuito de Leyendas Norte 2016 Closing Playoffs","Semifinal","INFINITY","Infamous Gaming","WWW","","dom","S"],["2016-08-10","Circuito de Leyendas Norte 2016 Closing Playoffs","Final","INFINITY","Exceltec Predators","WWW","","dom","S"],["2016-08-16","LLN 2017 Opening Promotion","Qualifying Round","INFINITY","BrawL eSports","WWW","","dom","P"],["2017-04-05","Circuito de Leyendas Norte 2017 Opening Playoffs","Semifinal","6Sense","Silver Crows","LLL","","dom","S"],["2018-03-30","LLN 2018 Opening Playoffs","Quarterfinal","Predators Esports","Gaming Gaming","LLWWL","","dom","P"],["2019-03-30","LLA 2019 Opening Playoffs","Quarterfinal","XTEN Esports","Rainbow7","LWLL","","dom","P"],["2019-07-29","Liga Tica de Leyendas 2019 Closing Playoffs","Semifinal","Infinity Esports Costa Rica","Zwan Gaming","WWW","","dom","S"],["2019-08-19","Liga Tica de Leyendas 2019 Closing Playoffs","Final","Infinity Esports Costa Rica","OG Esports","WLWW","","dom","S"],["2019-08-31","Liga Tica de Leyendas 2019 National Qualifier","Final","Infinity Esports Costa Rica","OG Esports","WWW","","dom","S"],["2021-07-07","Tempest League 2021 Season Playoffs","Round 1","Janus Vipers","Project Guardians","LLWWW","","dom","S"],["2021-07-14","Tempest League 2021 Season Playoffs","Semifinal","Janus Vipers","Saprissa Esports","WWW","","dom","S"],["2021-07-21","Tempest League 2021 Season Playoffs","Final","Janus Vipers","Fatal Ambition","LWWW","","dom","S"],["2021-08-01","Tempest League 2021 Season Playoffs","Grand Final","Janus Vipers","Bandits Gaming","WWLW","","dom","S"],["2021-08-12","Regional Norte 2021 Season","Final","Janus Vipers","Team Aze","LLL","","dom","S"],["2022-03-16","Elements League 2022 Opening Playoffs","Semifinal","Saprissa Esports","Red Rooster Team","WWW","","dom","S"],["2022-03-24","Elements League 2022 Opening Playoffs","Final","Saprissa Esports","Janus Esports","LWWW","","dom","S"],["2022-07-12","Elements League 2022 Closing Playoffs","Semifinal","Saprissa Esports","Gravity Elite","WWW","","dom","S"],["2022-07-28","Elements League 2022 Closing Playoffs","Final","Saprissa Esports","Aurelius Esports","LWWW","","dom","S"],["2022-08-19","Regional Norte 2022 Season","Final","Saprissa Esports","The Kings","LLL","","dom","S"],["2022-11-09","Golden League 2022 Golden Cup","Round 1","Spirituals","Ramo Awake Gaming","WLWW","","dom","S"],["2022-11-16","Golden League 2022 Golden Cup","Semifinal","Spirituals","PRO42","LWLWW","","dom","S"],["2023-03-18","Elements League 2023 Opening Playoffs","Semifinal","Mezexis Esports","Bandits Gaming","LWLL","","dom","S"],["2023-07-24","Liga Regional Norte 2023 Closing Playoffs","Round 1","Descuydado Aucas Esports","Tomorrow Esports","WLLWW","","dom","S"],["2023-08-01","Liga Regional Norte 2023 Closing Playoffs","Round 2","Descuydado Aucas Esports","Fuego","LLWL","","dom","S"]],"unknown":[["2022-11-23","Golden League 2022 Golden Cup","Final","Spirituals","Braves Rising","1-3","LWL","dom","S"]]}
+{
+  "player": "Xuradel",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2016-08-09","Circuito de Leyendas Norte 2016 Closing Playoffs","Semifinal","INFINITY","Infamous Gaming","WWW","","dom","S"],
+    ["2016-08-10","Circuito de Leyendas Norte 2016 Closing Playoffs","Final","INFINITY","Exceltec Predators","WWW","","dom","S"],
+    ["2016-08-16","LLN 2017 Opening Promotion","Qualifying Round","INFINITY","BrawL eSports","WWW","","dom","P"],
+    ["2017-04-05","Circuito de Leyendas Norte 2017 Opening Playoffs","Semifinal","6Sense","Silver Crows","LLL","","dom","S"],
+    ["2018-03-30","LLN 2018 Opening Playoffs","Quarterfinal","Predators Esports","Gaming Gaming","LLWWL","","dom","P"],
+    ["2019-03-30","LLA 2019 Opening Playoffs","Quarterfinal","XTEN Esports","Rainbow7","LWLL","","dom","P"],
+    ["2019-07-29","Liga Tica de Leyendas 2019 Closing Playoffs","Semifinal","Infinity Esports Costa Rica","Zwan Gaming","WWW","","dom","S"],
+    ["2019-08-19","Liga Tica de Leyendas 2019 Closing Playoffs","Final","Infinity Esports Costa Rica","OG Esports","WLWW","","dom","S"],
+    ["2019-08-31","Liga Tica de Leyendas 2019 National Qualifier","Final","Infinity Esports Costa Rica","OG Esports","WWW","","dom","S"],
+    ["2021-07-07","Tempest League 2021 Season Playoffs","Round 1","Janus Vipers","Project Guardians","LLWWW","","dom","S"],
+    ["2021-07-14","Tempest League 2021 Season Playoffs","Semifinal","Janus Vipers","Saprissa Esports","WWW","","dom","S"],
+    ["2021-07-21","Tempest League 2021 Season Playoffs","Final","Janus Vipers","Fatal Ambition","LWWW","","dom","S"],
+    ["2021-08-01","Tempest League 2021 Season Playoffs","Grand Final","Janus Vipers","Bandits Gaming","WWLW","","dom","S"],
+    ["2021-08-12","Regional Norte 2021 Season","Final","Janus Vipers","Team Aze","LLL","","dom","S"],
+    ["2022-03-16","Elements League 2022 Opening Playoffs","Semifinal","Saprissa Esports","Red Rooster Team","WWW","","dom","S"],
+    ["2022-03-24","Elements League 2022 Opening Playoffs","Final","Saprissa Esports","Janus Esports","LWWW","","dom","S"],
+    ["2022-07-12","Elements League 2022 Closing Playoffs","Semifinal","Saprissa Esports","Gravity Elite","WWW","","dom","S"],
+    ["2022-07-28","Elements League 2022 Closing Playoffs","Final","Saprissa Esports","Aurelius Esports","LWWW","","dom","S"],
+    ["2022-08-19","Regional Norte 2022 Season","Final","Saprissa Esports","The Kings","LLL","","dom","S"],
+    ["2022-11-09","Golden League 2022 Golden Cup","Round 1","Spirituals","Ramo Awake Gaming","WLWW","","dom","S"],
+    ["2022-11-16","Golden League 2022 Golden Cup","Semifinal","Spirituals","PRO42","LWLWW","","dom","S"],
+    ["2023-03-18","Elements League 2023 Opening Playoffs","Semifinal","Mezexis Esports","Bandits Gaming","LWLL","","dom","S"],
+    ["2023-07-24","Liga Regional Norte 2023 Closing Playoffs","Round 1","Descuydado Aucas Esports","Tomorrow Esports","WLLWW","","dom","S"],
+    ["2023-08-01","Liga Regional Norte 2023 Closing Playoffs","Round 2","Descuydado Aucas Esports","Fuego","LLWL","","dom","S"]
+  ],
+  "unknown": [
+    ["2022-11-23","Golden League 2022 Golden Cup","Final","Spirituals","Braves Rising","1-3","LWL","dom","S"]
+  ]
+}

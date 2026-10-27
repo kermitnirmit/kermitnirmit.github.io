@@ -1,1 +1,42 @@
-{"player":"Stixxay","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2015-11-23","IEM Season X - San Jose","Final","Counter Logic Gaming","Origen","LLL","","intl","P"],["2016-04-09","NA LCS 2016 Spring Playoffs","Semifinal","Counter Logic Gaming","Team Liquid","LWWLW","","dom","P"],["2016-04-17","NA LCS 2016 Spring Playoffs","Final","Counter Logic Gaming","TSM","WLWLW","","dom","P"],["2016-05-14","MSI 2016","Semifinal","Counter Logic Gaming","Flash Wolves","WLWW","","msi","P"],["2016-05-15","MSI 2016","Final","Counter Logic Gaming","SK Telecom T1","LLL","","msi","P"],["2016-08-14","NA LCS 2016 Summer Playoffs","Quarterfinal","Counter Logic Gaming","Team Liquid","WWLW","","dom","P"],["2016-08-21","NA LCS 2016 Summer Playoffs","Semifinal","Counter Logic Gaming","TSM","LLL","","dom","P"],["2016-08-27","NA LCS 2016 Summer Playoffs","Third-Place Match","Counter Logic Gaming","Immortals","WLLWL","","dom","P"],["2017-04-09","NA LCS 2017 Spring Playoffs","Quarterfinal","Counter Logic Gaming","FlyQuest","WWLLL","","dom","P"],["2017-08-20","NA LCS 2017 Summer Playoffs","Quarterfinal","Counter Logic Gaming","Team EnVyUs","WLLWW","","dom","P"],["2017-08-26","NA LCS 2017 Summer Playoffs","Semifinal","Counter Logic Gaming","Immortals","LLL","","dom","P"],["2017-09-02","NA LCS 2017 Summer Playoffs","Third-Place Match","Counter Logic Gaming","Dignitas","WWW","","dom","P"],["2017-09-09","NA LCS 2017 Regional Finals","Round 2","Counter Logic Gaming","FlyQuest","LWWW","","dom","P"],["2017-09-10","NA LCS 2017 Regional Finals","Round 3","Counter Logic Gaming","Cloud9","LLWL","","dom","P"],["2019-08-11","LCS 2019 Summer Playoffs","Quarterfinal","Counter Logic Gaming","OpTic Gaming","WWW","","dom","P"],["2019-08-17","LCS 2019 Summer Playoffs","Semifinal","Counter Logic Gaming","Cloud9","LLWL","","dom","P"],["2019-08-24","LCS 2019 Summer Playoffs","Third-Place Match","Counter Logic Gaming","Clutch Gaming","LLWWW","","dom","P"],["2019-09-07","LCS 2019 Regional Finals","Round 2","Counter Logic Gaming","Clutch Gaming","LLWL","","dom","P"],["2021-08-13","LCS 2021 Championship","Round 1","Golden Guardians","Cloud9","LLL","","dom","P"],["2022-02-01","LCS Proving Grounds 2022 Spring/Circuit Qualifier 1","Final","Golden Guardians Academy","100 Thieves Next","LLL","","dom","S"],["2022-08-26","LCS 2022 Championship","Round 1","Golden Guardians","Counter Logic Gaming","LWLWL","","dom","P"],["2023-03-25","LCS 2023 Spring Playoffs","Round 1","Golden Guardians","100 Thieves","LWLWW","","dom","P"],["2023-03-31","LCS 2023 Spring Playoffs","Round 2","Golden Guardians","Evil Geniuses.NA","WWW","","dom","P"],["2023-04-08","LCS 2023 Spring Playoffs","Round 3","Golden Guardians","FlyQuest","LWLWW","","dom","P"],["2023-04-09","LCS 2023 Spring Playoffs","Final","Golden Guardians","Cloud9","LWLL","","dom","P"],["2023-05-07","MSI 2023","Last Chance Qualifier","Golden Guardians","PSG Talon","WWW","","msi","P"],["2023-05-12","MSI 2023","Bracket Round 1","Golden Guardians","JD Gaming","LLL","","msi","P"],["2023-05-14","MSI 2023","Bracket Round 1","Golden Guardians","Cloud9","LLWL","","msi","P"],["2023-08-06","LCS 2023 Championship","Round 2","Golden Guardians","NRG","LLWL","","dom","P"],["2023-08-11","LCS 2023 Championship","Round 2","Golden Guardians","Dignitas","WWW","","dom","P"],["2023-08-13","LCS 2023 Championship","Round 3","Golden Guardians","Team Liquid","LLWWL","","dom","P"],["2023-10-09","Worlds Qualifying Series 2023","EMEA vs NA","Golden Guardians","Team BDS","LLL","","dom","P"]],"unknown":[["2015-05-16","AlphaDraft Challenger League","Final","Misfits (North American Team)","Frank Fang Gaming","3-2","","dom",""]]}
+{
+  "player": "Stixxay",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2015-11-23","IEM Season X - San Jose","Final","Counter Logic Gaming","Origen","LLL","","intl","P"],
+    ["2016-04-09","NA LCS 2016 Spring Playoffs","Semifinal","Counter Logic Gaming","Team Liquid","LWWLW","","dom","P"],
+    ["2016-04-17","NA LCS 2016 Spring Playoffs","Final","Counter Logic Gaming","TSM","WLWLW","","dom","P"],
+    ["2016-05-14","MSI 2016","Semifinal","Counter Logic Gaming","Flash Wolves","WLWW","","msi","P"],
+    ["2016-05-15","MSI 2016","Final","Counter Logic Gaming","SK Telecom T1","LLL","","msi","P"],
+    ["2016-08-14","NA LCS 2016 Summer Playoffs","Quarterfinal","Counter Logic Gaming","Team Liquid","WWLW","","dom","P"],
+    ["2016-08-21","NA LCS 2016 Summer Playoffs","Semifinal","Counter Logic Gaming","TSM","LLL","","dom","P"],
+    ["2016-08-27","NA LCS 2016 Summer Playoffs","Third-Place Match","Counter Logic Gaming","Immortals","WLLWL","","dom","P"],
+    ["2017-04-09","NA LCS 2017 Spring Playoffs","Quarterfinal","Counter Logic Gaming","FlyQuest","WWLLL","","dom","P"],
+    ["2017-08-20","NA LCS 2017 Summer Playoffs","Quarterfinal","Counter Logic Gaming","Team EnVyUs","WLLWW","","dom","P"],
+    ["2017-08-26","NA LCS 2017 Summer Playoffs","Semifinal","Counter Logic Gaming","Immortals","LLL","","dom","P"],
+    ["2017-09-02","NA LCS 2017 Summer Playoffs","Third-Place Match","Counter Logic Gaming","Dignitas","WWW","","dom","P"],
+    ["2017-09-09","NA LCS 2017 Regional Finals","Round 2","Counter Logic Gaming","FlyQuest","LWWW","","dom","P"],
+    ["2017-09-10","NA LCS 2017 Regional Finals","Round 3","Counter Logic Gaming","Cloud9","LLWL","","dom","P"],
+    ["2019-08-11","LCS 2019 Summer Playoffs","Quarterfinal","Counter Logic Gaming","OpTic Gaming","WWW","","dom","P"],
+    ["2019-08-17","LCS 2019 Summer Playoffs","Semifinal","Counter Logic Gaming","Cloud9","LLWL","","dom","P"],
+    ["2019-08-24","LCS 2019 Summer Playoffs","Third-Place Match","Counter Logic Gaming","Clutch Gaming","LLWWW","","dom","P"],
+    ["2019-09-07","LCS 2019 Regional Finals","Round 2","Counter Logic Gaming","Clutch Gaming","LLWL","","dom","P"],
+    ["2021-08-13","LCS 2021 Championship","Round 1","Golden Guardians","Cloud9","LLL","","dom","P"],
+    ["2022-02-01","LCS Proving Grounds 2022 Spring/Circuit Qualifier 1","Final","Golden Guardians Academy","100 Thieves Next","LLL","","dom","S"],
+    ["2022-08-26","LCS 2022 Championship","Round 1","Golden Guardians","Counter Logic Gaming","LWLWL","","dom","P"],
+    ["2023-03-25","LCS 2023 Spring Playoffs","Round 1","Golden Guardians","100 Thieves","LWLWW","","dom","P"],
+    ["2023-03-31","LCS 2023 Spring Playoffs","Round 2","Golden Guardians","Evil Geniuses.NA","WWW","","dom","P"],
+    ["2023-04-08","LCS 2023 Spring Playoffs","Round 3","Golden Guardians","FlyQuest","LWLWW","","dom","P"],
+    ["2023-04-09","LCS 2023 Spring Playoffs","Final","Golden Guardians","Cloud9","LWLL","","dom","P"],
+    ["2023-05-07","MSI 2023","Last Chance Qualifier","Golden Guardians","PSG Talon","WWW","","msi","P"],
+    ["2023-05-12","MSI 2023","Bracket Round 1","Golden Guardians","JD Gaming","LLL","","msi","P"],
+    ["2023-05-14","MSI 2023","Bracket Round 1","Golden Guardians","Cloud9","LLWL","","msi","P"],
+    ["2023-08-06","LCS 2023 Championship","Round 2","Golden Guardians","NRG","LLWL","","dom","P"],
+    ["2023-08-11","LCS 2023 Championship","Round 2","Golden Guardians","Dignitas","WWW","","dom","P"],
+    ["2023-08-13","LCS 2023 Championship","Round 3","Golden Guardians","Team Liquid","LLWWL","","dom","P"],
+    ["2023-10-09","Worlds Qualifying Series 2023","EMEA vs NA","Golden Guardians","Team BDS","LLL","","dom","P"]
+  ],
+  "unknown": [
+    ["2015-05-16","AlphaDraft Challenger League","Final","Misfits (North American Team)","Frank Fang Gaming","3-2","","dom",""]
+  ]
+}

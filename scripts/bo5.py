@@ -406,9 +406,23 @@ def write_index(out, path, n):
     if same_but_date(path, index):
         print(f'index: {len(rows)} players, unchanged', file=sys.stderr)
         return
-    with open(path, 'w') as fh:
-        json.dump(index, fh, ensure_ascii=False, separators=(',', ':'))
+    dump(index, path)
     print(f'index: {len(rows)} players -> {path}', file=sys.stderr)
+
+
+def dump(data, path):
+    """Write data as JSON with one key per line and one row per line, so a diff shows which series or players changed."""
+    def compact(v):
+        return json.dumps(v, ensure_ascii=False, separators=(',', ':'))
+    lines = []
+    for k, v in data.items():
+        if isinstance(v, list) and v and all(isinstance(x, list) for x in v):
+            rows = ',\n'.join('    ' + compact(x) for x in v)
+            lines.append(f'  {compact(k)}: [\n{rows}\n  ]')
+        else:
+            lines.append(f'  {compact(k)}: {compact(v)}')
+    with open(path, 'w') as fh:
+        fh.write('{\n' + ',\n'.join(lines) + '\n}\n')
 
 
 def same_but_date(path, data):
@@ -468,8 +482,7 @@ def main():
             path = os.path.join(a.out, p.replace('/', '_') + '.json')
             if same_but_date(path, data):
                 continue  # leave the file alone so a scheduled run only commits real changes
-            with open(path, 'w') as f:
-                json.dump(data, f, ensure_ascii=False, separators=(',', ':'))
+            dump(data, path)
             written += 1
     print(f'{len(players)} players checked, {written} changed, in {time.time() - start:.0f}s', file=sys.stderr)
     if a.index:

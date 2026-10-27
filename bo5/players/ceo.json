@@ -1,1 +1,36 @@
-{"player":"ceo","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2020-08-20","Liga Master Flow 2021 Opening Promotion","Qualifier","Coscu Army","Intel New Indians","WLWW","r","dom","S"],["2021-03-27","LLA 2021 Opening Playoffs","Round 1","Rainbow7","All Knights","LLWL","","dom","P"],["2022-03-19","LLA 2022 Opening Playoffs","Round 1","Rainbow7","Estral Esports","LLL","","dom","P"],["2022-04-02","LLA 2022 Opening Playoffs","Round 3","Rainbow7","Isurus","LLWWW","","dom","P"],["2022-04-03","LLA 2022 Opening Playoffs","Semifinal","Rainbow7","Estral Esports","LWLWL","","dom","P"],["2022-08-07","LLA 2022 Closing Playoffs","Round 1","Rainbow7","Isurus","WLLWL","","dom","P"],["2022-08-20","LLA 2022 Closing Playoffs","Round 3","Rainbow7","Team Aze","LWLWL","","dom","P"],["2023-03-15","LLA 2023 Opening Playoffs","Round 1","Movistar R7","Isurus","LWWLW","","dom","P"],["2023-03-28","LLA 2023 Opening Playoffs","Semifinal","Movistar R7","Six Karma","LLWWL","","dom","P"],["2023-04-04","LLA 2023 Opening Playoffs","Semifinal","Movistar R7","Estral Esports","WLWW","","dom","P"],["2023-04-15","LLA 2023 Opening Playoffs","Final","Movistar R7","Six Karma","LWWLW","","dom","P"],["2023-07-25","LLA 2023 Closing Playoffs","Round 1","Movistar R7","INFINITY","WLWW","","dom","P"],["2023-08-08","LLA 2023 Closing Playoffs","Semifinal","Movistar R7","Estral Esports","WWLW","","dom","P"],["2023-08-26","LLA 2023 Closing Playoffs","Final","Movistar R7","Estral Esports","WWW","","dom","P"],["2024-03-06","LLA 2024 Opening Playoffs","Round 1","Movistar R7","Isurus","WWW","","dom","P"],["2024-03-19","LLA 2024 Opening Playoffs","Semifinal","Movistar R7","Estral Esports","WWLLL","","dom","P"],["2024-03-26","LLA 2024 Opening Playoffs","Semifinal","Movistar R7","Isurus","LWLWW","","dom","P"],["2024-04-06","LLA 2024 Opening Playoffs","Final","Movistar R7","Estral Esports","LLL","","dom","P"],["2024-07-30","LLA 2024 Closing Playoffs","Round 1","Movistar R7","Estral Esports","LLWWW","","dom","P"],["2024-08-06","LLA 2024 Closing Playoffs","Round 2","Movistar R7","Isurus","WWLW","","dom","P"],["2024-08-24","LLA 2024 Closing Playoffs","Final","Movistar R7","INFINITY","WWW","","dom","P"],["2025-08-24","LTA South 2025 Split 3","Round 1","Leviatan","Isurus","LWLWW","","dom","P"],["2025-08-29","LTA South 2025 Split 3","Round 2","Leviatan","RED Canids","LWLL","","dom","P"],["2026-02-03","CBLOL 2026 Cup","Play-In Last Chance","Leviatan","paiN Gaming","LWWW","","dom","P"],["2026-02-14","CBLOL 2026 Cup","Round 1","Leviatan","Vivo Keyd Stars","WWLW","","dom","P"],["2026-02-15","CBLOL 2026 Cup","Round 2","Leviatan","FURIA","LLL","","dom","P"],["2026-05-09","CBLOL 2026 Split 1 Playoffs","Round 1","Vivo Keyd Stars","LOUD","LLWL","","dom","P"],["2026-05-23","CBLOL 2026 Split 1 Playoffs","Round 1","Vivo Keyd Stars","LØS","LLL","","dom","P"]],"unknown":[]}
+{
+  "player": "ceo",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2020-08-20","Liga Master Flow 2021 Opening Promotion","Qualifier","Coscu Army","Intel New Indians","WLWW","r","dom","S"],
+    ["2021-03-27","LLA 2021 Opening Playoffs","Round 1","Rainbow7","All Knights","LLWL","","dom","P"],
+    ["2022-03-19","LLA 2022 Opening Playoffs","Round 1","Rainbow7","Estral Esports","LLL","","dom","P"],
+    ["2022-04-02","LLA 2022 Opening Playoffs","Round 3","Rainbow7","Isurus","LLWWW","","dom","P"],
+    ["2022-04-03","LLA 2022 Opening Playoffs","Semifinal","Rainbow7","Estral Esports","LWLWL","","dom","P"],
+    ["2022-08-07","LLA 2022 Closing Playoffs","Round 1","Rainbow7","Isurus","WLLWL","","dom","P"],
+    ["2022-08-20","LLA 2022 Closing Playoffs","Round 3","Rainbow7","Team Aze","LWLWL","","dom","P"],
+    ["2023-03-15","LLA 2023 Opening Playoffs","Round 1","Movistar R7","Isurus","LWWLW","","dom","P"],
+    ["2023-03-28","LLA 2023 Opening Playoffs","Semifinal","Movistar R7","Six Karma","LLWWL","","dom","P"],
+    ["2023-04-04","LLA 2023 Opening Playoffs","Semifinal","Movistar R7","Estral Esports","WLWW","","dom","P"],
+    ["2023-04-15","LLA 2023 Opening Playoffs","Final","Movistar R7","Six Karma","LWWLW","","dom","P"],
+    ["2023-07-25","LLA 2023 Closing Playoffs","Round 1","Movistar R7","INFINITY","WLWW","","dom","P"],
+    ["2023-08-08","LLA 2023 Closing Playoffs","Semifinal","Movistar R7","Estral Esports","WWLW","","dom","P"],
+    ["2023-08-26","LLA 2023 Closing Playoffs","Final","Movistar R7","Estral Esports","WWW","","dom","P"],
+    ["2024-03-06","LLA 2024 Opening Playoffs","Round 1","Movistar R7","Isurus","WWW","","dom","P"],
+    ["2024-03-19","LLA 2024 Opening Playoffs","Semifinal","Movistar R7","Estral Esports","WWLLL","","dom","P"],
+    ["2024-03-26","LLA 2024 Opening Playoffs","Semifinal","Movistar R7","Isurus","LWLWW","","dom","P"],
+    ["2024-04-06","LLA 2024 Opening Playoffs","Final","Movistar R7","Estral Esports","LLL","","dom","P"],
+    ["2024-07-30","LLA 2024 Closing Playoffs","Round 1","Movistar R7","Estral Esports","LLWWW","","dom","P"],
+    ["2024-08-06","LLA 2024 Closing Playoffs","Round 2","Movistar R7","Isurus","WWLW","","dom","P"],
+    ["2024-08-24","LLA 2024 Closing Playoffs","Final","Movistar R7","INFINITY","WWW","","dom","P"],
+    ["2025-08-24","LTA South 2025 Split 3","Round 1","Leviatan","Isurus","LWLWW","","dom","P"],
+    ["2025-08-29","LTA South 2025 Split 3","Round 2","Leviatan","RED Canids","LWLL","","dom","P"],
+    ["2026-02-03","CBLOL 2026 Cup","Play-In Last Chance","Leviatan","paiN Gaming","LWWW","","dom","P"],
+    ["2026-02-14","CBLOL 2026 Cup","Round 1","Leviatan","Vivo Keyd Stars","WWLW","","dom","P"],
+    ["2026-02-15","CBLOL 2026 Cup","Round 2","Leviatan","FURIA","LLL","","dom","P"],
+    ["2026-05-09","CBLOL 2026 Split 1 Playoffs","Round 1","Vivo Keyd Stars","LOUD","LLWL","","dom","P"],
+    ["2026-05-23","CBLOL 2026 Split 1 Playoffs","Round 1","Vivo Keyd Stars","LØS","LLL","","dom","P"]
+  ],
+  "unknown": []
+}

@@ -1,1 +1,41 @@
-{"player":"Khan","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2015-08-11","LPL 2016 Spring Promotion","Elimination Round","Newbee","Team WE","LLL","","dom","P"],["2017-08-26","LCK 2017 Summer Playoffs","Final","Longzhu Gaming","SK Telecom T1","WWLW","","dom","P"],["2017-10-19","Worlds 2017","Quarterfinal","Longzhu Gaming","Samsung Galaxy","LLL","","worlds","P"],["2017-12-02","LoL KeSPA Cup 2017","Final","Longzhu Gaming","KT Rolster","WLWLL","","dom","P"],["2018-04-14","LCK 2018 Spring Playoffs","Final","Kingzone DragonX","Afreeca Freecs","LWWW","","dom","P"],["2018-05-19","MSI 2018","Semifinal","Kingzone DragonX","Flash Wolves","WLWW","","msi","P"],["2018-05-20","MSI 2018","Final","Kingzone DragonX","Royal Never Give Up","LWLL","","msi","P"],["2018-08-15","LCK 2018 Summer Playoffs","Round 2","Kingzone DragonX","Afreeca Freecs","LLWL","","dom","P"],["2018-09-16","LCK 2018 Regional Finals","Round 3","Kingzone DragonX","Gen.G","LLL","p","dom","P"],["2019-04-07","LCK 2019 Spring Playoffs","Round 3","SK Telecom T1","Kingzone DragonX","WWW","","dom","P"],["2019-04-13","LCK 2019 Spring Playoffs","Final","SK Telecom T1","Griffin (Korean Team)","WWW","","dom","P"],["2019-05-18","MSI 2019","Semifinal","SK Telecom T1","G2 Esports","WLWLL","","msi","P"],["2019-08-23","LCK 2019 Summer Playoffs","Round 2","SK Telecom T1","SANDBOX Gaming","WWW","","dom","P"],["2019-08-25","LCK 2019 Summer Playoffs","Round 3","SK Telecom T1","DAMWON Gaming","WWW","","dom","P"],["2019-08-31","LCK 2019 Summer Playoffs","Final","SK Telecom T1","Griffin (Korean Team)","WWLW","","dom","P"],["2019-10-27","Worlds 2019","Quarterfinal","SK Telecom T1","Splyce","WWLW","","worlds","P"],["2019-11-03","Worlds 2019","Semifinal","SK Telecom T1","G2 Esports","LWLL","","worlds","P"],["2020-04-29","LPL 2020 Spring Playoffs","Third-Place Match","FunPlus Phoenix","Invictus Gaming","WWW","","dom","P"],["2020-05-30","Mid-Season Cup 2020","Semifinal","FunPlus Phoenix","JD Gaming","LWWW","","intl","P"],["2020-05-31","Mid-Season Cup 2020","Final","FunPlus Phoenix","Top Esports","LWLL","","intl","P"],["2020-12-26","LoL KeSPA Cup 2020","Semifinal","DAMWON Gaming","Hanwha Life Esports","WLWW","","dom","P"],["2021-01-02","LoL KeSPA Cup 2020","Final","DAMWON Gaming","Nongshim RedForce","WWW","","dom","P"],["2021-04-03","LCK 2021 Spring Playoffs","Semifinal","DWG KIA","Hanwha Life Esports","WWW","","dom","P"],["2021-04-10","LCK 2021 Spring Playoffs","Final","DWG KIA","Gen.G","WWW","","dom","P"],["2021-05-22","MSI 2021","Semifinal","DWG KIA","MAD Lions","WLLWW","","msi","P"],["2021-05-23","MSI 2021","Final","DWG KIA","Royal Never Give Up","LWLWL","","msi","P"],["2021-08-21","LCK 2021 Summer Playoffs","Semifinal","DWG KIA","Nongshim RedForce","WWW","","dom","P"],["2021-08-28","LCK 2021 Summer Playoffs","Final","DWG KIA","T1","WWLW","","dom","P"],["2021-10-24","Worlds 2021","Quarterfinal","DWG KIA","MAD Lions","WWW","","worlds","P"],["2021-10-30","Worlds 2021","Semifinal","DWG KIA","T1","WLLWW","","worlds","P"],["2021-11-06","Worlds 2021","Final","DWG KIA","EDward Gaming","LWWLL","","worlds","P"]],"unknown":[["2025-07-20","SLL Summer 2025","Semifinal","Egyeon boijeu","Nara (2025 SLL Summer Team)","2-3","","dom","S"]]}
+{
+  "player": "Khan",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2015-08-11","LPL 2016 Spring Promotion","Elimination Round","Newbee","Team WE","LLL","","dom","P"],
+    ["2017-08-26","LCK 2017 Summer Playoffs","Final","Longzhu Gaming","SK Telecom T1","WWLW","","dom","P"],
+    ["2017-10-19","Worlds 2017","Quarterfinal","Longzhu Gaming","Samsung Galaxy","LLL","","worlds","P"],
+    ["2017-12-02","LoL KeSPA Cup 2017","Final","Longzhu Gaming","KT Rolster","WLWLL","","dom","P"],
+    ["2018-04-14","LCK 2018 Spring Playoffs","Final","Kingzone DragonX","Afreeca Freecs","LWWW","","dom","P"],
+    ["2018-05-19","MSI 2018","Semifinal","Kingzone DragonX","Flash Wolves","WLWW","","msi","P"],
+    ["2018-05-20","MSI 2018","Final","Kingzone DragonX","Royal Never Give Up","LWLL","","msi","P"],
+    ["2018-08-15","LCK 2018 Summer Playoffs","Round 2","Kingzone DragonX","Afreeca Freecs","LLWL","","dom","P"],
+    ["2018-09-16","LCK 2018 Regional Finals","Round 3","Kingzone DragonX","Gen.G","LLL","p","dom","P"],
+    ["2019-04-07","LCK 2019 Spring Playoffs","Round 3","SK Telecom T1","Kingzone DragonX","WWW","","dom","P"],
+    ["2019-04-13","LCK 2019 Spring Playoffs","Final","SK Telecom T1","Griffin (Korean Team)","WWW","","dom","P"],
+    ["2019-05-18","MSI 2019","Semifinal","SK Telecom T1","G2 Esports","WLWLL","","msi","P"],
+    ["2019-08-23","LCK 2019 Summer Playoffs","Round 2","SK Telecom T1","SANDBOX Gaming","WWW","","dom","P"],
+    ["2019-08-25","LCK 2019 Summer Playoffs","Round 3","SK Telecom T1","DAMWON Gaming","WWW","","dom","P"],
+    ["2019-08-31","LCK 2019 Summer Playoffs","Final","SK Telecom T1","Griffin (Korean Team)","WWLW","","dom","P"],
+    ["2019-10-27","Worlds 2019","Quarterfinal","SK Telecom T1","Splyce","WWLW","","worlds","P"],
+    ["2019-11-03","Worlds 2019","Semifinal","SK Telecom T1","G2 Esports","LWLL","","worlds","P"],
+    ["2020-04-29","LPL 2020 Spring Playoffs","Third-Place Match","FunPlus Phoenix","Invictus Gaming","WWW","","dom","P"],
+    ["2020-05-30","Mid-Season Cup 2020","Semifinal","FunPlus Phoenix","JD Gaming","LWWW","","intl","P"],
+    ["2020-05-31","Mid-Season Cup 2020","Final","FunPlus Phoenix","Top Esports","LWLL","","intl","P"],
+    ["2020-12-26","LoL KeSPA Cup 2020","Semifinal","DAMWON Gaming","Hanwha Life Esports","WLWW","","dom","P"],
+    ["2021-01-02","LoL KeSPA Cup 2020","Final","DAMWON Gaming","Nongshim RedForce","WWW","","dom","P"],
+    ["2021-04-03","LCK 2021 Spring Playoffs","Semifinal","DWG KIA","Hanwha Life Esports","WWW","","dom","P"],
+    ["2021-04-10","LCK 2021 Spring Playoffs","Final","DWG KIA","Gen.G","WWW","","dom","P"],
+    ["2021-05-22","MSI 2021","Semifinal","DWG KIA","MAD Lions","WLLWW","","msi","P"],
+    ["2021-05-23","MSI 2021","Final","DWG KIA","Royal Never Give Up","LWLWL","","msi","P"],
+    ["2021-08-21","LCK 2021 Summer Playoffs","Semifinal","DWG KIA","Nongshim RedForce","WWW","","dom","P"],
+    ["2021-08-28","LCK 2021 Summer Playoffs","Final","DWG KIA","T1","WWLW","","dom","P"],
+    ["2021-10-24","Worlds 2021","Quarterfinal","DWG KIA","MAD Lions","WWW","","worlds","P"],
+    ["2021-10-30","Worlds 2021","Semifinal","DWG KIA","T1","WLLWW","","worlds","P"],
+    ["2021-11-06","Worlds 2021","Final","DWG KIA","EDward Gaming","LWWLL","","worlds","P"]
+  ],
+  "unknown": [
+    ["2025-07-20","SLL Summer 2025","Semifinal","Egyeon boijeu","Nara (2025 SLL Summer Team)","2-3","","dom","S"]
+  ]
+}

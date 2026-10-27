@@ -1,1 +1,33 @@
-{"player":"Samson","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2022-09-20","PG Proving Grounds 2023 Promotion","Round 1","Login Esports","Away from Normal","LWWW","","dom","S"],["2022-09-26","PG Proving Grounds 2023 Promotion","Round 2","Login Esports","P11 Esports","LWWLL","","dom","S"],["2022-09-27","PG Proving Grounds 2023 Promotion","Round 2","Login Esports","Away from Normal","LWWW","","dom","S"],["2022-11-12","NLC 2nd Division 2023 Spring Promotion 2","Round 1","Formulation Gaming","orgless clash team","LLWL","","dom","S"],["2022-11-15","NLC 2nd Division 2023 Spring Promotion 2","Round 1","Formulation Gaming","Karolinerna","WWW","","dom","S"],["2022-11-17","NLC 2nd Division 2023 Spring Promotion 2","Round 2","Formulation Gaming","orgless clash team","LWLL","","dom","S"],["2023-03-22","PG Proving Grounds 2023 Spring Playoffs","Round 1","Atleta Esport","ENEMI3S","WLLWL","","dom","S"],["2023-03-29","PG Proving Grounds 2023 Spring Playoffs","Semifinal","Atleta Esport","Angry Bats","LWLL","","dom","S"],["2023-08-13","NLC 3rd Division 2023 Summer Playoffs","Grand Final","Jlingz Esports","Verdant Bloom","WWW","r","dom","S"],["2023-08-17","NLC 2nd Division 2024 Spring Promotion","Round 1","Jlingz Esports","Invulnerables Esports","WWW","","dom","S"],["2023-08-19","NLC 2nd Division 2024 Spring Promotion","Round 2","Jlingz Esports","Gran Turismo","LWLWW","","dom","S"],["2023-10-25","Aurora Cup 2023 Main Event","Quarterfinal","Jlingz Esports","Nativz","WWW","","dom","S"],["2023-11-06","Aurora Cup 2023 Main Event","Semifinal","Jlingz Esports","Verdant","LWLL","","dom","S"],["2024-05-12","Good Game-ligaen 2024 Spring Playoffs","Final","DMG Esports Norway","Lazy In Life","WLWW","","dom","S"],["2024-10-16","NLC 2025 Last Chance Qualifier","Round 1","Garden Gaming","UniQ Esports Club","WLWLL","","dom","S"],["2024-10-28","NLC 2025 Last Chance Qualifier","Round 1","Garden Gaming","Ruzeh Esports","WLWLW","","dom","S"],["2024-10-30","NLC 2025 Last Chance Qualifier","Round 2","Garden Gaming","BlueWhites","WWW","","dom","S"],["2024-11-14","NLC 2025 Last Chance Qualifier","Round 3","Garden Gaming","Lazy In Life","LLL","","dom","S"],["2025-03-22","League Championship Denmark 2025 Winter Playoffs","Final","Garden Gaming","Fortress Esports","LLL","r","dom","S"],["2025-07-24","Hellenic Challengers Cup 2025 Summer Super Cup","Round 4","Howl Esports","Paranormal Invaders","WLWW","","dom","S"],["2025-07-28","Hellenic Challengers Cup 2025 Summer Super Cup","Grand Final","Howl Esports","BERZLOY","WLWW","","dom","S"],["2025-07-29","Hellenic Legends League 2026 Winter Promotion","Promotion","Howl Esports","Zerolag Esports","WWLW","","dom","S"],["2025-08-01","NLC 2025 Summer Playoffs","Round 1","Lundqvist Lightside","KAOS e-sport","WWW","","dom","S"],["2025-08-08","NLC 2025 Summer Playoffs","Round 2","Lundqvist Lightside","Bulldog Esports","WLWW","","dom","S"],["2025-08-14","NLC 2025 Summer Playoffs","Round 3","Lundqvist Lightside","NORD Esports","LLL","","dom","S"]],"unknown":[]}
+{
+  "player": "Samson",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2022-09-20","PG Proving Grounds 2023 Promotion","Round 1","Login Esports","Away from Normal","LWWW","","dom","S"],
+    ["2022-09-26","PG Proving Grounds 2023 Promotion","Round 2","Login Esports","P11 Esports","LWWLL","","dom","S"],
+    ["2022-09-27","PG Proving Grounds 2023 Promotion","Round 2","Login Esports","Away from Normal","LWWW","","dom","S"],
+    ["2022-11-12","NLC 2nd Division 2023 Spring Promotion 2","Round 1","Formulation Gaming","orgless clash team","LLWL","","dom","S"],
+    ["2022-11-15","NLC 2nd Division 2023 Spring Promotion 2","Round 1","Formulation Gaming","Karolinerna","WWW","","dom","S"],
+    ["2022-11-17","NLC 2nd Division 2023 Spring Promotion 2","Round 2","Formulation Gaming","orgless clash team","LWLL","","dom","S"],
+    ["2023-03-22","PG Proving Grounds 2023 Spring Playoffs","Round 1","Atleta Esport","ENEMI3S","WLLWL","","dom","S"],
+    ["2023-03-29","PG Proving Grounds 2023 Spring Playoffs","Semifinal","Atleta Esport","Angry Bats","LWLL","","dom","S"],
+    ["2023-08-13","NLC 3rd Division 2023 Summer Playoffs","Grand Final","Jlingz Esports","Verdant Bloom","WWW","r","dom","S"],
+    ["2023-08-17","NLC 2nd Division 2024 Spring Promotion","Round 1","Jlingz Esports","Invulnerables Esports","WWW","","dom","S"],
+    ["2023-08-19","NLC 2nd Division 2024 Spring Promotion","Round 2","Jlingz Esports","Gran Turismo","LWLWW","","dom","S"],
+    ["2023-10-25","Aurora Cup 2023 Main Event","Quarterfinal","Jlingz Esports","Nativz","WWW","","dom","S"],
+    ["2023-11-06","Aurora Cup 2023 Main Event","Semifinal","Jlingz Esports","Verdant","LWLL","","dom","S"],
+    ["2024-05-12","Good Game-ligaen 2024 Spring Playoffs","Final","DMG Esports Norway","Lazy In Life","WLWW","","dom","S"],
+    ["2024-10-16","NLC 2025 Last Chance Qualifier","Round 1","Garden Gaming","UniQ Esports Club","WLWLL","","dom","S"],
+    ["2024-10-28","NLC 2025 Last Chance Qualifier","Round 1","Garden Gaming","Ruzeh Esports","WLWLW","","dom","S"],
+    ["2024-10-30","NLC 2025 Last Chance Qualifier","Round 2","Garden Gaming","BlueWhites","WWW","","dom","S"],
+    ["2024-11-14","NLC 2025 Last Chance Qualifier","Round 3","Garden Gaming","Lazy In Life","LLL","","dom","S"],
+    ["2025-03-22","League Championship Denmark 2025 Winter Playoffs","Final","Garden Gaming","Fortress Esports","LLL","r","dom","S"],
+    ["2025-07-24","Hellenic Challengers Cup 2025 Summer Super Cup","Round 4","Howl Esports","Paranormal Invaders","WLWW","","dom","S"],
+    ["2025-07-28","Hellenic Challengers Cup 2025 Summer Super Cup","Grand Final","Howl Esports","BERZLOY","WLWW","","dom","S"],
+    ["2025-07-29","Hellenic Legends League 2026 Winter Promotion","Promotion","Howl Esports","Zerolag Esports","WWLW","","dom","S"],
+    ["2025-08-01","NLC 2025 Summer Playoffs","Round 1","Lundqvist Lightside","KAOS e-sport","WWW","","dom","S"],
+    ["2025-08-08","NLC 2025 Summer Playoffs","Round 2","Lundqvist Lightside","Bulldog Esports","WLWW","","dom","S"],
+    ["2025-08-14","NLC 2025 Summer Playoffs","Round 3","Lundqvist Lightside","NORD Esports","LLL","","dom","S"]
+  ],
+  "unknown": []
+}

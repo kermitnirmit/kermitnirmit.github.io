@@ -1,1 +1,42 @@
-{"player":"Vsta","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2020-12-26","LoL KeSPA Cup 2020","Semifinal","Hanwha Life Esports","DAMWON Gaming","LWLL","","dom","P"],["2021-03-31","LCK 2021 Spring Playoffs","Quarterfinal","Hanwha Life Esports","Nongshim RedForce","WLWLW","","dom","P"],["2021-04-03","LCK 2021 Spring Playoffs","Semifinal","Hanwha Life Esports","DWG KIA","LLL","","dom","P"],["2021-08-31","LCK 2021 Regional Finals","Round 1","Hanwha Life Esports","Liiv SANDBOX","LWWW","","dom","P"],["2021-09-01","LCK 2021 Regional Finals","Round 2","Hanwha Life Esports","Nongshim RedForce","WWW","","dom","P"],["2021-09-02","LCK 2021 Regional Finals","Final","Hanwha Life Esports","T1","LLWWL","","dom","P"],["2021-10-09","Worlds 2021","Qualification Round","Hanwha Life Esports","Beyond Gaming","WWW","","worlds","P"],["2021-10-22","Worlds 2021","Quarterfinal","Hanwha Life Esports","T1","LLL","","worlds","P"],["2023-04-01","LJL 2023 Spring Playoffs","Round 1","Fukuoka SoftBank HAWKS gaming","AXIZ","WWW","","dom","P"],["2023-04-09","LJL 2023 Spring Playoffs","Round 2","Fukuoka SoftBank HAWKS gaming","DetonatioN FocusMe","LLL","","dom","P"],["2023-07-23","LJL 2023 Summer Playoffs","Round 2","Fukuoka SoftBank HAWKS gaming","FENNEL","LWWLW","","dom","P"],["2023-08-06","LJL 2023 Summer Playoffs","Round 4","Fukuoka SoftBank HAWKS gaming","DetonatioN FocusMe","WLLWL","","dom","P"],["2023-08-13","LJL 2023 Summer Playoffs","Round 4","Fukuoka SoftBank HAWKS gaming","Sengoku Gaming","WLWW","","dom","P"],["2023-08-20","LJL 2023 Summer Playoffs","Final","Fukuoka SoftBank HAWKS gaming","DetonatioN FocusMe","LWLWL","","dom","P"],["2024-02-25","LJL 2024 Spring Playoffs","Semifinal","Fukuoka SoftBank HAWKS gaming","Sengoku Gaming","WWW","","dom","P"],["2024-03-03","LJL 2024 Spring Playoffs","Final","Fukuoka SoftBank HAWKS gaming","DetonatioN FocusMe","WWW","","dom","P"],["2024-03-24","PCS 2024 Spring Playoffs","Stage 2 Round 2","Fukuoka SoftBank HAWKS gaming","PSG Talon","LWLWL","","dom","P"],["2024-03-28","PCS 2024 Spring Playoffs","Stage 2 Round 2","Fukuoka SoftBank HAWKS gaming","Deep Cross Gaming","WLWLW","","dom","P"],["2024-03-31","PCS 2024 Spring Playoffs","Stage 2 Round 3","Fukuoka SoftBank HAWKS gaming","Frank Esports","WLLWW","","dom","P"],["2024-04-06","PCS 2024 Spring Playoffs","Stage 2 Round 4","Fukuoka SoftBank HAWKS gaming","CTBC Flying Oyster","WWW","","dom","P"],["2024-04-07","PCS 2024 Spring Playoffs","Final","Fukuoka SoftBank HAWKS gaming","PSG Talon","LLL","","dom","P"],["2024-07-28","LJL 2024 Summer Playoffs","Final","Fukuoka SoftBank HAWKS gaming","DetonatioN FocusMe","WWW","","dom","P"],["2024-08-18","PCS 2024 Summer Playoffs","Stage 2 Round 2","Fukuoka SoftBank HAWKS gaming","Deep Cross Gaming","LWLWW","","dom","P"],["2024-08-23","PCS 2024 Summer Playoffs","Stage 2 Round 4","Fukuoka SoftBank HAWKS gaming","PSG Talon","LLL","","dom","P"],["2024-08-31","PCS 2024 Summer Playoffs","Stage 2 Round 4","Fukuoka SoftBank HAWKS gaming","Frank Esports","LWWW","","dom","P"],["2024-09-01","PCS 2024 Summer Playoffs","Final","Fukuoka SoftBank HAWKS gaming","PSG Talon","LLWL","","dom","P"],["2026-02-12","LCP 2026 Split 1 Playoffs","Round 1","Fukuoka SoftBank HAWKS gaming","GAM Esports","WWW","","dom","P"],["2026-02-14","LCP 2026 Split 1 Playoffs","Round 2","Fukuoka SoftBank HAWKS gaming","Team Secret Whales","WLLL","","dom","P"],["2026-02-27","LCP 2026 Split 1 Playoffs","Round 2","Fukuoka SoftBank HAWKS gaming","Ground Zero Gaming","WWLW","","dom","P"],["2026-02-28","LCP 2026 Split 1 Playoffs","Round 3","Fukuoka SoftBank HAWKS gaming","Deep Cross Gaming","WWLLL","","dom","P"],["2026-05-24","LCP 2026 Split 2 Playoffs","Round 1","Fukuoka SoftBank HAWKS gaming","Deep Cross Gaming","LLL","","dom","P"],["2026-08-06","LCP 2026 Split 3","Round 3","Fukuoka SoftBank HAWKS gaming","Ground Zero Gaming","LLL","","dom","P"]],"unknown":[["2025-07-20","SLL Summer 2025","Semifinal","Egyeon boijeu","Nara (2025 SLL Summer Team)","2-3","","dom","S"]]}
+{
+  "player": "Vsta",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2020-12-26","LoL KeSPA Cup 2020","Semifinal","Hanwha Life Esports","DAMWON Gaming","LWLL","","dom","P"],
+    ["2021-03-31","LCK 2021 Spring Playoffs","Quarterfinal","Hanwha Life Esports","Nongshim RedForce","WLWLW","","dom","P"],
+    ["2021-04-03","LCK 2021 Spring Playoffs","Semifinal","Hanwha Life Esports","DWG KIA","LLL","","dom","P"],
+    ["2021-08-31","LCK 2021 Regional Finals","Round 1","Hanwha Life Esports","Liiv SANDBOX","LWWW","","dom","P"],
+    ["2021-09-01","LCK 2021 Regional Finals","Round 2","Hanwha Life Esports","Nongshim RedForce","WWW","","dom","P"],
+    ["2021-09-02","LCK 2021 Regional Finals","Final","Hanwha Life Esports","T1","LLWWL","","dom","P"],
+    ["2021-10-09","Worlds 2021","Qualification Round","Hanwha Life Esports","Beyond Gaming","WWW","","worlds","P"],
+    ["2021-10-22","Worlds 2021","Quarterfinal","Hanwha Life Esports","T1","LLL","","worlds","P"],
+    ["2023-04-01","LJL 2023 Spring Playoffs","Round 1","Fukuoka SoftBank HAWKS gaming","AXIZ","WWW","","dom","P"],
+    ["2023-04-09","LJL 2023 Spring Playoffs","Round 2","Fukuoka SoftBank HAWKS gaming","DetonatioN FocusMe","LLL","","dom","P"],
+    ["2023-07-23","LJL 2023 Summer Playoffs","Round 2","Fukuoka SoftBank HAWKS gaming","FENNEL","LWWLW","","dom","P"],
+    ["2023-08-06","LJL 2023 Summer Playoffs","Round 4","Fukuoka SoftBank HAWKS gaming","DetonatioN FocusMe","WLLWL","","dom","P"],
+    ["2023-08-13","LJL 2023 Summer Playoffs","Round 4","Fukuoka SoftBank HAWKS gaming","Sengoku Gaming","WLWW","","dom","P"],
+    ["2023-08-20","LJL 2023 Summer Playoffs","Final","Fukuoka SoftBank HAWKS gaming","DetonatioN FocusMe","LWLWL","","dom","P"],
+    ["2024-02-25","LJL 2024 Spring Playoffs","Semifinal","Fukuoka SoftBank HAWKS gaming","Sengoku Gaming","WWW","","dom","P"],
+    ["2024-03-03","LJL 2024 Spring Playoffs","Final","Fukuoka SoftBank HAWKS gaming","DetonatioN FocusMe","WWW","","dom","P"],
+    ["2024-03-24","PCS 2024 Spring Playoffs","Stage 2 Round 2","Fukuoka SoftBank HAWKS gaming","PSG Talon","LWLWL","","dom","P"],
+    ["2024-03-28","PCS 2024 Spring Playoffs","Stage 2 Round 2","Fukuoka SoftBank HAWKS gaming","Deep Cross Gaming","WLWLW","","dom","P"],
+    ["2024-03-31","PCS 2024 Spring Playoffs","Stage 2 Round 3","Fukuoka SoftBank HAWKS gaming","Frank Esports","WLLWW","","dom","P"],
+    ["2024-04-06","PCS 2024 Spring Playoffs","Stage 2 Round 4","Fukuoka SoftBank HAWKS gaming","CTBC Flying Oyster","WWW","","dom","P"],
+    ["2024-04-07","PCS 2024 Spring Playoffs","Final","Fukuoka SoftBank HAWKS gaming","PSG Talon","LLL","","dom","P"],
+    ["2024-07-28","LJL 2024 Summer Playoffs","Final","Fukuoka SoftBank HAWKS gaming","DetonatioN FocusMe","WWW","","dom","P"],
+    ["2024-08-18","PCS 2024 Summer Playoffs","Stage 2 Round 2","Fukuoka SoftBank HAWKS gaming","Deep Cross Gaming","LWLWW","","dom","P"],
+    ["2024-08-23","PCS 2024 Summer Playoffs","Stage 2 Round 4","Fukuoka SoftBank HAWKS gaming","PSG Talon","LLL","","dom","P"],
+    ["2024-08-31","PCS 2024 Summer Playoffs","Stage 2 Round 4","Fukuoka SoftBank HAWKS gaming","Frank Esports","LWWW","","dom","P"],
+    ["2024-09-01","PCS 2024 Summer Playoffs","Final","Fukuoka SoftBank HAWKS gaming","PSG Talon","LLWL","","dom","P"],
+    ["2026-02-12","LCP 2026 Split 1 Playoffs","Round 1","Fukuoka SoftBank HAWKS gaming","GAM Esports","WWW","","dom","P"],
+    ["2026-02-14","LCP 2026 Split 1 Playoffs","Round 2","Fukuoka SoftBank HAWKS gaming","Team Secret Whales","WLLL","","dom","P"],
+    ["2026-02-27","LCP 2026 Split 1 Playoffs","Round 2","Fukuoka SoftBank HAWKS gaming","Ground Zero Gaming","WWLW","","dom","P"],
+    ["2026-02-28","LCP 2026 Split 1 Playoffs","Round 3","Fukuoka SoftBank HAWKS gaming","Deep Cross Gaming","WWLLL","","dom","P"],
+    ["2026-05-24","LCP 2026 Split 2 Playoffs","Round 1","Fukuoka SoftBank HAWKS gaming","Deep Cross Gaming","LLL","","dom","P"],
+    ["2026-08-06","LCP 2026 Split 3","Round 3","Fukuoka SoftBank HAWKS gaming","Ground Zero Gaming","LLL","","dom","P"]
+  ],
+  "unknown": [
+    ["2025-07-20","SLL Summer 2025","Semifinal","Egyeon boijeu","Nara (2025 SLL Summer Team)","2-3","","dom","S"]
+  ]
+}

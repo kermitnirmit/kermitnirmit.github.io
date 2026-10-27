@@ -1,1 +1,38 @@
-{"player":"Shikari","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2017-03-19","ESL Premiership 2017 Spring Playoffs","Final","Team XENEX","MNM Gaming","LLL","r","dom",""],["2019-03-31","UK League Championship 2019 Spring Playoffs","Final","Fnatic Rising","Diabolus Esports","WWW","","dom","S"],["2021-09-20","LFL 2022 Promotion","Round 1","IziDream","Elyandra Esport","WLLL","","dom","S"],["2021-09-22","LFL 2022 Promotion","Round 1","IziDream","Team MCES","WWW","","dom","S"],["2021-09-24","LFL 2022 Promotion","Round 2","IziDream","Elyandra Esport","WLLL","","dom","S"],["2022-03-19","NLC 2022 Spring Playoffs","Round 2","Bifrost","X7 Esports","WLLWL","","dom","S"],["2022-03-23","NLC 2022 Spring Playoffs","Semifinal","Bifrost","Dusty","WWW","","dom","S"],["2022-03-30","NLC 2022 Spring Playoffs","Final","Bifrost","X7 Esports","LLL","","dom","S"],["2022-04-29","European Masters 2022 Spring Main Event","Quarterfinal","Bifrost","AGO ROGUE","LLL","","dom","S"],["2022-08-01","NLC 2022 Summer Playoffs","Round 1","Bifrost","X7 Esports","LWLL","","dom","S"],["2022-11-04","NLC 2022 Aurora Open","Quarterfinal","Bifrost","Riddle Esports","WLWLL","","dom","S"],["2023-07-25","NLC 2023 Summer Playoffs","Round 1","Nativz","Verdant","LWLWW","","dom","S"],["2023-08-05","NLC 2023 Summer Playoffs","Final","Nativz","NORD Esports","LWWW","","dom","S"],["2023-11-07","Elite Series 2023 Benelux Masters","Quarterfinal","HEET","Myth Esports","LWLL","","dom","S"],["2023-12-11","Drututt Ultimate Showdown 2","Round 4","Team Caedrel","Team Paolocannone","WLWW","","dom","S"],["2023-12-12","Drututt Ultimate Showdown 2","Round 5","Team Caedrel","Team Rybson","LLL","","dom","S"],["2024-03-26","Prime League 2nd Division 2024 Spring Playoffs","Round 2","Spinebusters E-Sport","TeamOrangeGaming","WLWW","","dom","S"],["2024-04-09","Prime League 2nd Division 2024 Spring Playoffs","Final","Spinebusters E-Sport","TeamOrangeGaming","WWW","","dom","S"],["2024-07-09","Prime League 2nd Division 2024 Summer Playoffs","Round 1","Spinebusters E-Sport","EPIC-DUDES","WWW","","dom","S"],["2024-07-18","Prime League 2nd Division 2024 Summer Playoffs","Round 2","Spinebusters E-Sport","ROSSMANN Centaurs","WWW","","dom","S"],["2024-07-24","Prime League 2nd Division 2024 Summer Playoffs","Semifinal","Spinebusters E-Sport","Kaufland Hangry Knights","LWLWW","","dom","S"],["2024-07-30","Prime League 2nd Division 2024 Summer Playoffs","Final","Spinebusters E-Sport","DKB XPERION NXT","LWWLW","","dom","S"],["2024-09-03","Prime League 1st Division 2025 Promotion","Round 1","Spinebusters E-Sport","MOUZ NXT","WWW","","dom","S"],["2024-09-07","Prime League 1st Division 2025 Promotion","Round 2","Spinebusters E-Sport","Kaufland Hangry Knights","LLWL","","dom","S"]],"unknown":[["2017-08-25","Multiplay UK Masters Season 3 Playoffs","Grand Final","Excel Esports","MNM Gaming","2-3","","dom",""],["2017-11-04","ESL Premiership 2017 Autumn Playoffs","Final","Excel Esports","Team Singularity","3-2","","dom",""],["2018-04-08","ESL Premiership 2018 Spring Playoffs","Final","Misfits Academy","Excel Esports","3-2","","dom",""],["2018-08-16","Forge of Champions 2018 Summer/Tournament 4","Final","Misfits Academy","Enclave","3-1","","dom",""],["2018-09-06","Forge of Champions 2018 Summer/Grand Final","Final","Misfits Academy","Diabolus Esports","3-2","","dom",""]]}
+{
+  "player": "Shikari",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2017-03-19","ESL Premiership 2017 Spring Playoffs","Final","Team XENEX","MNM Gaming","LLL","r","dom",""],
+    ["2019-03-31","UK League Championship 2019 Spring Playoffs","Final","Fnatic Rising","Diabolus Esports","WWW","","dom","S"],
+    ["2021-09-20","LFL 2022 Promotion","Round 1","IziDream","Elyandra Esport","WLLL","","dom","S"],
+    ["2021-09-22","LFL 2022 Promotion","Round 1","IziDream","Team MCES","WWW","","dom","S"],
+    ["2021-09-24","LFL 2022 Promotion","Round 2","IziDream","Elyandra Esport","WLLL","","dom","S"],
+    ["2022-03-19","NLC 2022 Spring Playoffs","Round 2","Bifrost","X7 Esports","WLLWL","","dom","S"],
+    ["2022-03-23","NLC 2022 Spring Playoffs","Semifinal","Bifrost","Dusty","WWW","","dom","S"],
+    ["2022-03-30","NLC 2022 Spring Playoffs","Final","Bifrost","X7 Esports","LLL","","dom","S"],
+    ["2022-04-29","European Masters 2022 Spring Main Event","Quarterfinal","Bifrost","AGO ROGUE","LLL","","dom","S"],
+    ["2022-08-01","NLC 2022 Summer Playoffs","Round 1","Bifrost","X7 Esports","LWLL","","dom","S"],
+    ["2022-11-04","NLC 2022 Aurora Open","Quarterfinal","Bifrost","Riddle Esports","WLWLL","","dom","S"],
+    ["2023-07-25","NLC 2023 Summer Playoffs","Round 1","Nativz","Verdant","LWLWW","","dom","S"],
+    ["2023-08-05","NLC 2023 Summer Playoffs","Final","Nativz","NORD Esports","LWWW","","dom","S"],
+    ["2023-11-07","Elite Series 2023 Benelux Masters","Quarterfinal","HEET","Myth Esports","LWLL","","dom","S"],
+    ["2023-12-11","Drututt Ultimate Showdown 2","Round 4","Team Caedrel","Team Paolocannone","WLWW","","dom","S"],
+    ["2023-12-12","Drututt Ultimate Showdown 2","Round 5","Team Caedrel","Team Rybson","LLL","","dom","S"],
+    ["2024-03-26","Prime League 2nd Division 2024 Spring Playoffs","Round 2","Spinebusters E-Sport","TeamOrangeGaming","WLWW","","dom","S"],
+    ["2024-04-09","Prime League 2nd Division 2024 Spring Playoffs","Final","Spinebusters E-Sport","TeamOrangeGaming","WWW","","dom","S"],
+    ["2024-07-09","Prime League 2nd Division 2024 Summer Playoffs","Round 1","Spinebusters E-Sport","EPIC-DUDES","WWW","","dom","S"],
+    ["2024-07-18","Prime League 2nd Division 2024 Summer Playoffs","Round 2","Spinebusters E-Sport","ROSSMANN Centaurs","WWW","","dom","S"],
+    ["2024-07-24","Prime League 2nd Division 2024 Summer Playoffs","Semifinal","Spinebusters E-Sport","Kaufland Hangry Knights","LWLWW","","dom","S"],
+    ["2024-07-30","Prime League 2nd Division 2024 Summer Playoffs","Final","Spinebusters E-Sport","DKB XPERION NXT","LWWLW","","dom","S"],
+    ["2024-09-03","Prime League 1st Division 2025 Promotion","Round 1","Spinebusters E-Sport","MOUZ NXT","WWW","","dom","S"],
+    ["2024-09-07","Prime League 1st Division 2025 Promotion","Round 2","Spinebusters E-Sport","Kaufland Hangry Knights","LLWL","","dom","S"]
+  ],
+  "unknown": [
+    ["2017-08-25","Multiplay UK Masters Season 3 Playoffs","Grand Final","Excel Esports","MNM Gaming","2-3","","dom",""],
+    ["2017-11-04","ESL Premiership 2017 Autumn Playoffs","Final","Excel Esports","Team Singularity","3-2","","dom",""],
+    ["2018-04-08","ESL Premiership 2018 Spring Playoffs","Final","Misfits Academy","Excel Esports","3-2","","dom",""],
+    ["2018-08-16","Forge of Champions 2018 Summer/Tournament 4","Final","Misfits Academy","Enclave","3-1","","dom",""],
+    ["2018-09-06","Forge of Champions 2018 Summer/Grand Final","Final","Misfits Academy","Diabolus Esports","3-2","","dom",""]
+  ]
+}

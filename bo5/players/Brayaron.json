@@ -1,1 +1,34 @@
-{"player":"Brayaron","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2019-07-22","Liga Tica de Leyendas 2019 Closing Playoffs","Quarterfinal","Zwan Gaming","Kokoro No Senshi","WWLW","","dom","S"],["2019-07-29","Liga Tica de Leyendas 2019 Closing Playoffs","Semifinal","Zwan Gaming","Infinity Esports Costa Rica","LLL","","dom","S"],["2019-08-05","Liga Tica de Leyendas 2019 Closing Playoffs","Third-Place Match","Zwan Gaming","TopHard Esports","LLL","","dom","S"],["2019-11-08","Guardians League 2019 Closing Playoffs","Semifinal","Instinct Gaming","Deliverance Esports Peru","WLLWW","","dom","S"],["2019-11-30","Guardians League 2019 Closing Playoffs","Final","Instinct Gaming","Spectacled Bears","WWW","","dom","S"],["2020-05-01","Guardians League 2020 Opening Playoffs","Semifinal","Instinct Gaming","G-Pride","LWWLW","","dom","S"],["2020-08-08","Guardians League 2020 Closing Playoffs","Round 3","Instinct Gaming","Polaris Gaming","WLLL","","dom","S"],["2020-08-21","Guardians League 2020 Tiebreakers","Tiebreakers","Instinct Gaming","G-Pride","LLL","","dom","S"],["2021-04-09","Claro Stars League 2021 Opening Playoffs","Round 3","Instinct Gaming","Deliverance Esports Peru","WWLLL","","dom","S"],["2022-06-27","Liga de Honor Entel 2022 Closing Playoffs","Round 1","Furious Gaming","Cruzados Esports","WWW","","dom","S"],["2022-07-04","Liga de Honor Entel 2022 Closing Playoffs","Round 3","Furious Gaming","Movistar Optix","WLWW","","dom","S"],["2022-07-18","Liga de Honor Entel 2022 Closing Playoffs","Grand Final","Furious Gaming","Movistar Optix","WWLW","","dom","S"],["2023-03-05","División de Honor 2023 Opening Playoffs","Round 1","19esports","PÊEK Gaming","WLWW","","dom","S"],["2023-03-17","División de Honor 2023 Opening Playoffs","Round 3","19esports","Zylant Esports","LLWL","","dom","S"],["2023-03-24","División de Honor 2023 Opening Playoffs","Round 3","19esports","PÊEK Gaming","WLWLL","","dom","S"],["2025-12-16","Mystic League A 2025 Main Event","Final","3v Team","NCG Esports","LLL","r","dom","S"],["2026-04-27","Liga Regional Norte 2026 Split 1 Playoffs","Round 1","G3V E-sports","SDM Tigres","WWLW","p","dom","S"],["2026-05-25","Liga Regional Norte 2026 Split 1 Playoffs","Round 3","G3V E-sports","Fuego","LLWL","p","dom","S"],["2026-06-01","Liga Regional Norte 2026 Split 1 Playoffs","Round 3","G3V E-sports","SDM Tigres","WWLLW","p","dom","S"],["2026-06-08","Liga Regional Norte 2026 Split 1 Playoffs","Final","G3V E-sports","Fuego","LLL","p","dom","S"],["2026-07-21","Liga Regional Sur 2026 Split 2 Playoffs","Round 1","Golden Lions","Volticons","LWWW","","dom","S"],["2026-08-25","Liga Regional Sur 2026 Split 2 Playoffs","Round 3","Golden Lions","9z Globant","LLL","","dom","S"],["2026-09-01","Liga Regional Sur 2026 Split 2 Playoffs","Round 3","Golden Lions","Maze Gaming","WLWW","","dom","S"],["2026-09-28","CBLOL 2027 Promotion","Play-In","Golden Lions","KaBuM! Ilha das Lendas","LLL","","dom","P"]],"unknown":[["2020-05-08","Guardians League 2020 Opening Playoffs","Final","Instinct Gaming","Deliverance Esports Peru","3-1","WWW","dom","S"]]}
+{
+  "player": "Brayaron",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2019-07-22","Liga Tica de Leyendas 2019 Closing Playoffs","Quarterfinal","Zwan Gaming","Kokoro No Senshi","WWLW","","dom","S"],
+    ["2019-07-29","Liga Tica de Leyendas 2019 Closing Playoffs","Semifinal","Zwan Gaming","Infinity Esports Costa Rica","LLL","","dom","S"],
+    ["2019-08-05","Liga Tica de Leyendas 2019 Closing Playoffs","Third-Place Match","Zwan Gaming","TopHard Esports","LLL","","dom","S"],
+    ["2019-11-08","Guardians League 2019 Closing Playoffs","Semifinal","Instinct Gaming","Deliverance Esports Peru","WLLWW","","dom","S"],
+    ["2019-11-30","Guardians League 2019 Closing Playoffs","Final","Instinct Gaming","Spectacled Bears","WWW","","dom","S"],
+    ["2020-05-01","Guardians League 2020 Opening Playoffs","Semifinal","Instinct Gaming","G-Pride","LWWLW","","dom","S"],
+    ["2020-08-08","Guardians League 2020 Closing Playoffs","Round 3","Instinct Gaming","Polaris Gaming","WLLL","","dom","S"],
+    ["2020-08-21","Guardians League 2020 Tiebreakers","Tiebreakers","Instinct Gaming","G-Pride","LLL","","dom","S"],
+    ["2021-04-09","Claro Stars League 2021 Opening Playoffs","Round 3","Instinct Gaming","Deliverance Esports Peru","WWLLL","","dom","S"],
+    ["2022-06-27","Liga de Honor Entel 2022 Closing Playoffs","Round 1","Furious Gaming","Cruzados Esports","WWW","","dom","S"],
+    ["2022-07-04","Liga de Honor Entel 2022 Closing Playoffs","Round 3","Furious Gaming","Movistar Optix","WLWW","","dom","S"],
+    ["2022-07-18","Liga de Honor Entel 2022 Closing Playoffs","Grand Final","Furious Gaming","Movistar Optix","WWLW","","dom","S"],
+    ["2023-03-05","División de Honor 2023 Opening Playoffs","Round 1","19esports","PÊEK Gaming","WLWW","","dom","S"],
+    ["2023-03-17","División de Honor 2023 Opening Playoffs","Round 3","19esports","Zylant Esports","LLWL","","dom","S"],
+    ["2023-03-24","División de Honor 2023 Opening Playoffs","Round 3","19esports","PÊEK Gaming","WLWLL","","dom","S"],
+    ["2025-12-16","Mystic League A 2025 Main Event","Final","3v Team","NCG Esports","LLL","r","dom","S"],
+    ["2026-04-27","Liga Regional Norte 2026 Split 1 Playoffs","Round 1","G3V E-sports","SDM Tigres","WWLW","p","dom","S"],
+    ["2026-05-25","Liga Regional Norte 2026 Split 1 Playoffs","Round 3","G3V E-sports","Fuego","LLWL","p","dom","S"],
+    ["2026-06-01","Liga Regional Norte 2026 Split 1 Playoffs","Round 3","G3V E-sports","SDM Tigres","WWLLW","p","dom","S"],
+    ["2026-06-08","Liga Regional Norte 2026 Split 1 Playoffs","Final","G3V E-sports","Fuego","LLL","p","dom","S"],
+    ["2026-07-21","Liga Regional Sur 2026 Split 2 Playoffs","Round 1","Golden Lions","Volticons","LWWW","","dom","S"],
+    ["2026-08-25","Liga Regional Sur 2026 Split 2 Playoffs","Round 3","Golden Lions","9z Globant","LLL","","dom","S"],
+    ["2026-09-01","Liga Regional Sur 2026 Split 2 Playoffs","Round 3","Golden Lions","Maze Gaming","WLWW","","dom","S"],
+    ["2026-09-28","CBLOL 2027 Promotion","Play-In","Golden Lions","KaBuM! Ilha das Lendas","LLL","","dom","P"]
+  ],
+  "unknown": [
+    ["2020-05-08","Guardians League 2020 Opening Playoffs","Final","Instinct Gaming","Deliverance Esports Peru","3-1","WWW","dom","S"]
+  ]
+}

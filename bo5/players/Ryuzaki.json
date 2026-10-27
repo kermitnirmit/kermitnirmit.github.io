@@ -1,1 +1,35 @@
-{"player":"Ryuzaki","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2017-03-30","Fortuna Championship Series Season 2 Playoffs","Semifinal","x25 Esports","ASUS ROG ELITE","LLWL","r","dom","S"],["2017-04-03","Fortuna Championship Series Season 2 Playoffs","Third-Place Match","x25 Esports","Mistiga Crew","WWW","r","dom","S"],["2017-06-26","Fortuna Championship Series Season 3 Playoffs","Semifinal","x25 Esports","ASUS ROG ELITE","LLL","r","dom","S"],["2018-08-28","Esports Balkan League Season 3 Playoffs","Semifinal","Crvena zvezda Esports","WiLD MultiGaming","WLLWW","","dom","S"],["2018-09-01","Esports Balkan League Season 3 Playoffs","Final","Crvena zvezda Esports","ASUS ROG ELITE","LLL","","dom","S"],["2019-01-12","Esports Balkan League Season 4 Qualification","Round 1","Level Up esports","Random 5","WLLL","r","dom","S"],["2019-01-13","Esports Balkan League Season 4 Qualification","Round 3","Level Up esports","Team Nerotec","WWW","r","dom","S"],["2020-05-12","Brazilian Challenger Circuit 2020 Split 1 Playoffs","Semifinal","Team oNe eSports","Havan Liberty Gaming","WLWW","","dom","S"],["2020-05-16","Brazilian Challenger Circuit 2020 Split 1 Playoffs","Final","Team oNe eSports","Santos e-Sports","LLL","","dom","S"],["2020-05-19","CBLOL 2020 Split 2 Promotion","Promotion","Team oNe eSports","INTZ","LWWLL","","dom","P"],["2021-03-21","Esports Balkan League Season 8 Playoffs","Semifinal","Z10 ESHARK","CR4ZY","WWW","","dom","S"],["2021-03-27","Esports Balkan League Season 8 Playoffs","Final","Z10 ESHARK","SAIM SE SuppUp","LLWL","","dom","S"],["2021-08-02","Esports Balkan League Season 9 Playoffs","Semifinal","Zero Tenacity","Split Raiders","LLWWW","","dom","S"],["2021-08-07","Esports Balkan League Season 9 Playoffs","Final","Zero Tenacity","Crvena zvezda Esports","LLWWW","","dom","S"],["2022-03-16","Ultraliga Season 7 Playoffs","Round 1","Zero Tenacity","Komil and Friends","WWLW","","dom","S"],["2022-03-23","Ultraliga Season 7 Playoffs","Round 2","Zero Tenacity","Team ESCA Gaming","LLL","","dom","S"],["2022-08-09","Ultraliga Season 8 Playoffs","Round 2","Zero Tenacity","AGO ROGUE","LWLL","","dom","S"],["2022-08-16","Ultraliga Season 8 Playoffs","Semifinal","Zero Tenacity","Illuminar Gaming","WWW","","dom","S"],["2022-08-17","Ultraliga Season 8 Playoffs","Final","Zero Tenacity","AGO ROGUE","WWW","","dom","S"],["2023-03-21","Ultraliga Season 9 Playoffs","Round 2","Zero Tenacity","Grypciocraft Esports","WWLW","","dom","S"],["2023-03-31","Ultraliga Season 9 Playoffs","Final","Zero Tenacity","Orbit Anonymo Esports","WWLW","","dom","S"],["2023-07-03","European Pro League Season 1","Final","Zero Tenacity","WLGaming Esports","WWW","","dom","S"],["2023-08-01","Ultraliga Season 10 Playoffs","Round 2","Zero Tenacity","Orbit Anonymo Esports","LWLWL","","dom","S"],["2023-08-04","Ultraliga Season 10 Playoffs","Semifinal","Zero Tenacity","AliorBank Team","LWLL","","dom","S"],["2023-11-16","Ultraliga Super Puchar 2023 Main Event","Semifinal","Zero Tenacity","Forsaken (Polish Team)","WWW","","dom","S"],["2023-11-17","Ultraliga Super Puchar 2023 Main Event","Final","Zero Tenacity","Orbit Anonymo Esports","WWLW","","dom","S"],["2024-10-24","Greek Legends League 2024 Pro-Am","Final","Anorthosis Famagusta Esports","Team Phantasma","WLLL","","dom","S"]],"unknown":[]}
+{
+  "player": "Ryuzaki",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2017-03-30","Fortuna Championship Series Season 2 Playoffs","Semifinal","x25 Esports","ASUS ROG ELITE","LLWL","r","dom","S"],
+    ["2017-04-03","Fortuna Championship Series Season 2 Playoffs","Third-Place Match","x25 Esports","Mistiga Crew","WWW","r","dom","S"],
+    ["2017-06-26","Fortuna Championship Series Season 3 Playoffs","Semifinal","x25 Esports","ASUS ROG ELITE","LLL","r","dom","S"],
+    ["2018-08-28","Esports Balkan League Season 3 Playoffs","Semifinal","Crvena zvezda Esports","WiLD MultiGaming","WLLWW","","dom","S"],
+    ["2018-09-01","Esports Balkan League Season 3 Playoffs","Final","Crvena zvezda Esports","ASUS ROG ELITE","LLL","","dom","S"],
+    ["2019-01-12","Esports Balkan League Season 4 Qualification","Round 1","Level Up esports","Random 5","WLLL","r","dom","S"],
+    ["2019-01-13","Esports Balkan League Season 4 Qualification","Round 3","Level Up esports","Team Nerotec","WWW","r","dom","S"],
+    ["2020-05-12","Brazilian Challenger Circuit 2020 Split 1 Playoffs","Semifinal","Team oNe eSports","Havan Liberty Gaming","WLWW","","dom","S"],
+    ["2020-05-16","Brazilian Challenger Circuit 2020 Split 1 Playoffs","Final","Team oNe eSports","Santos e-Sports","LLL","","dom","S"],
+    ["2020-05-19","CBLOL 2020 Split 2 Promotion","Promotion","Team oNe eSports","INTZ","LWWLL","","dom","P"],
+    ["2021-03-21","Esports Balkan League Season 8 Playoffs","Semifinal","Z10 ESHARK","CR4ZY","WWW","","dom","S"],
+    ["2021-03-27","Esports Balkan League Season 8 Playoffs","Final","Z10 ESHARK","SAIM SE SuppUp","LLWL","","dom","S"],
+    ["2021-08-02","Esports Balkan League Season 9 Playoffs","Semifinal","Zero Tenacity","Split Raiders","LLWWW","","dom","S"],
+    ["2021-08-07","Esports Balkan League Season 9 Playoffs","Final","Zero Tenacity","Crvena zvezda Esports","LLWWW","","dom","S"],
+    ["2022-03-16","Ultraliga Season 7 Playoffs","Round 1","Zero Tenacity","Komil and Friends","WWLW","","dom","S"],
+    ["2022-03-23","Ultraliga Season 7 Playoffs","Round 2","Zero Tenacity","Team ESCA Gaming","LLL","","dom","S"],
+    ["2022-08-09","Ultraliga Season 8 Playoffs","Round 2","Zero Tenacity","AGO ROGUE","LWLL","","dom","S"],
+    ["2022-08-16","Ultraliga Season 8 Playoffs","Semifinal","Zero Tenacity","Illuminar Gaming","WWW","","dom","S"],
+    ["2022-08-17","Ultraliga Season 8 Playoffs","Final","Zero Tenacity","AGO ROGUE","WWW","","dom","S"],
+    ["2023-03-21","Ultraliga Season 9 Playoffs","Round 2","Zero Tenacity","Grypciocraft Esports","WWLW","","dom","S"],
+    ["2023-03-31","Ultraliga Season 9 Playoffs","Final","Zero Tenacity","Orbit Anonymo Esports","WWLW","","dom","S"],
+    ["2023-07-03","European Pro League Season 1","Final","Zero Tenacity","WLGaming Esports","WWW","","dom","S"],
+    ["2023-08-01","Ultraliga Season 10 Playoffs","Round 2","Zero Tenacity","Orbit Anonymo Esports","LWLWL","","dom","S"],
+    ["2023-08-04","Ultraliga Season 10 Playoffs","Semifinal","Zero Tenacity","AliorBank Team","LWLL","","dom","S"],
+    ["2023-11-16","Ultraliga Super Puchar 2023 Main Event","Semifinal","Zero Tenacity","Forsaken (Polish Team)","WWW","","dom","S"],
+    ["2023-11-17","Ultraliga Super Puchar 2023 Main Event","Final","Zero Tenacity","Orbit Anonymo Esports","WWLW","","dom","S"],
+    ["2024-10-24","Greek Legends League 2024 Pro-Am","Final","Anorthosis Famagusta Esports","Team Phantasma","WLLL","","dom","S"]
+  ],
+  "unknown": []
+}

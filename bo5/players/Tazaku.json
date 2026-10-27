@@ -1,1 +1,35 @@
-{"player":"Tazaku","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2020-11-06","Prime League Pro Division 2021 Spring Promotion","Round 1","mYinsanity","Flayn eSports","LLL","","dom","S"],["2020-11-13","Prime League Pro Division 2021 Spring Promotion","Round 1","mYinsanity","PENTA 1860","WLLWL","","dom","S"],["2021-11-05","Prime League Pro Division 2021 Summer Relegations","Round 1","EURONICS Gaming","404 Multigaming e.V.","WLWW","","dom","S"],["2021-11-10","Prime League Pro Division 2021 Summer Relegations","Round 2","EURONICS Gaming","WAVE Esports","LWLWL","","dom","S"],["2021-11-12","Prime League Pro Division 2021 Summer Relegations","Round 2","EURONICS Gaming","404 Multigaming e.V.","WWW","","dom","S"],["2022-03-14","LVP SuperLiga 2022 Spring Playoffs","Round 1","Movistar Riders","KOI (Spanish Team)","LWLL","","dom","S"],["2025-04-12","Prime League 2nd Division 2025 Spring Relegation","Round 5","VfB eSports","Lausanne-Sport Esports","WWW","r","dom","S"],["2025-07-08","Prime League 2nd Division 2025 Summer Playoffs","Round 1","VfB eSports","Footprint Gaming","WWW","","dom","S"],["2025-07-10","Prime League 2nd Division 2025 Summer Playoffs","Round 2","VfB eSports","All for One Gaming","WLLL","","dom","S"],["2025-07-14","Prime League 2nd Division 2025 Summer Playoffs","Round 2","VfB eSports","Spongecord prime","WWLW","","dom","S"],["2025-07-18","Prime League 2nd Division 2025 Summer Playoffs","Round 3","VfB eSports","A One Man Army Prime","LWWLW","","dom","S"],["2025-07-21","Prime League 2nd Division 2025 Summer Playoffs","Round 4","VfB eSports","Könige der Meere","LLWL","","dom","S"],["2025-08-02","Prime League 2nd Division 2025 Season Finals","Round 1","VfB eSports","A One Man Army Prime","WWW","","dom","S"],["2025-08-07","Prime League 2nd Division 2025 Season Finals","Round 2","VfB eSports","Könige der Meere","WWLW","","dom","S"],["2025-08-11","Prime League 2nd Division 2025 Season Finals","Round 4","VfB eSports","DKB XPERION NXT","LLL","","dom","S"],["2025-08-17","Prime League 2nd Division 2025 Season Finals","Round 4","VfB eSports","A One Man Army Prime","LLL","","dom","S"],["2025-11-24","Prime League 2nd Division 2026 Fall Playoffs","Round 1","VfB eSports","All for One Gaming","WWW","","dom","S"],["2025-11-27","Prime League 2nd Division 2026 Fall Playoffs","Round 2","VfB eSports","CGN Esports","LLWWW","","dom","S"],["2025-12-04","Prime League 2nd Division 2026 Fall Playoffs","Round 4","VfB eSports","DKB XPERION NXT","WWLW","","dom","S"],["2025-12-12","Prime League 2nd Division 2026 Fall Playoffs","Grand Final","VfB eSports","6GPA","WWW","","dom","S"],["2026-02-24","Prime League 2nd Division 2026 Winter Playoffs","Round 1","VfB eSports","6GPA","WLWW","","dom","S"],["2026-03-09","Prime League 2nd Division 2026 Winter Playoffs","Round 2","VfB eSports","DKB XPERION NXT","WLWLW","","dom","S"],["2026-03-11","Prime League 2nd Division 2026 Winter Playoffs","Round 3","VfB eSports","SixSeven","WLWW","","dom","S"],["2026-03-13","Prime League 2nd Division 2026 Winter Playoffs","Round 4","VfB eSports","MT1 Esports","LWWW","","dom","S"],["2026-03-15","Prime League 2nd Division 2026 Winter Playoffs","Grand Final","VfB eSports","CGN Esports","LLL","","dom","S"]],"unknown":[["2026-03-02","Prime League 2nd Division 2026 Winter Playoffs","Round 2","VfB eSports","CGN Esports","1-3","","dom","S"]]}
+{
+  "player": "Tazaku",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2020-11-06","Prime League Pro Division 2021 Spring Promotion","Round 1","mYinsanity","Flayn eSports","LLL","","dom","S"],
+    ["2020-11-13","Prime League Pro Division 2021 Spring Promotion","Round 1","mYinsanity","PENTA 1860","WLLWL","","dom","S"],
+    ["2021-11-05","Prime League Pro Division 2021 Summer Relegations","Round 1","EURONICS Gaming","404 Multigaming e.V.","WLWW","","dom","S"],
+    ["2021-11-10","Prime League Pro Division 2021 Summer Relegations","Round 2","EURONICS Gaming","WAVE Esports","LWLWL","","dom","S"],
+    ["2021-11-12","Prime League Pro Division 2021 Summer Relegations","Round 2","EURONICS Gaming","404 Multigaming e.V.","WWW","","dom","S"],
+    ["2022-03-14","LVP SuperLiga 2022 Spring Playoffs","Round 1","Movistar Riders","KOI (Spanish Team)","LWLL","","dom","S"],
+    ["2025-04-12","Prime League 2nd Division 2025 Spring Relegation","Round 5","VfB eSports","Lausanne-Sport Esports","WWW","r","dom","S"],
+    ["2025-07-08","Prime League 2nd Division 2025 Summer Playoffs","Round 1","VfB eSports","Footprint Gaming","WWW","","dom","S"],
+    ["2025-07-10","Prime League 2nd Division 2025 Summer Playoffs","Round 2","VfB eSports","All for One Gaming","WLLL","","dom","S"],
+    ["2025-07-14","Prime League 2nd Division 2025 Summer Playoffs","Round 2","VfB eSports","Spongecord prime","WWLW","","dom","S"],
+    ["2025-07-18","Prime League 2nd Division 2025 Summer Playoffs","Round 3","VfB eSports","A One Man Army Prime","LWWLW","","dom","S"],
+    ["2025-07-21","Prime League 2nd Division 2025 Summer Playoffs","Round 4","VfB eSports","Könige der Meere","LLWL","","dom","S"],
+    ["2025-08-02","Prime League 2nd Division 2025 Season Finals","Round 1","VfB eSports","A One Man Army Prime","WWW","","dom","S"],
+    ["2025-08-07","Prime League 2nd Division 2025 Season Finals","Round 2","VfB eSports","Könige der Meere","WWLW","","dom","S"],
+    ["2025-08-11","Prime League 2nd Division 2025 Season Finals","Round 4","VfB eSports","DKB XPERION NXT","LLL","","dom","S"],
+    ["2025-08-17","Prime League 2nd Division 2025 Season Finals","Round 4","VfB eSports","A One Man Army Prime","LLL","","dom","S"],
+    ["2025-11-24","Prime League 2nd Division 2026 Fall Playoffs","Round 1","VfB eSports","All for One Gaming","WWW","","dom","S"],
+    ["2025-11-27","Prime League 2nd Division 2026 Fall Playoffs","Round 2","VfB eSports","CGN Esports","LLWWW","","dom","S"],
+    ["2025-12-04","Prime League 2nd Division 2026 Fall Playoffs","Round 4","VfB eSports","DKB XPERION NXT","WWLW","","dom","S"],
+    ["2025-12-12","Prime League 2nd Division 2026 Fall Playoffs","Grand Final","VfB eSports","6GPA","WWW","","dom","S"],
+    ["2026-02-24","Prime League 2nd Division 2026 Winter Playoffs","Round 1","VfB eSports","6GPA","WLWW","","dom","S"],
+    ["2026-03-09","Prime League 2nd Division 2026 Winter Playoffs","Round 2","VfB eSports","DKB XPERION NXT","WLWLW","","dom","S"],
+    ["2026-03-11","Prime League 2nd Division 2026 Winter Playoffs","Round 3","VfB eSports","SixSeven","WLWW","","dom","S"],
+    ["2026-03-13","Prime League 2nd Division 2026 Winter Playoffs","Round 4","VfB eSports","MT1 Esports","LWWW","","dom","S"],
+    ["2026-03-15","Prime League 2nd Division 2026 Winter Playoffs","Grand Final","VfB eSports","CGN Esports","LLL","","dom","S"]
+  ],
+  "unknown": [
+    ["2026-03-02","Prime League 2nd Division 2026 Winter Playoffs","Round 2","VfB eSports","CGN Esports","1-3","","dom","S"]
+  ]
+}

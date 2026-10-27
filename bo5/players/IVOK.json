@@ -1,1 +1,28 @@
-{"player":"IVOK","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2020-08-23","UK League Championship 2020 Relegation Series","Qualifiers","nerdRage","Barrage Academy","LLL","p","dom","S"],["2020-11-28","Hitpoint Winter 2020 Playoffs","Round 1","Absolute Legends CZSK","Vikingekrig Esports","LWWW","","dom","S"],["2020-11-29","Hitpoint Winter 2020 Playoffs","Round 2","Absolute Legends CZSK","eSuba","LWLL","","dom","S"],["2021-01-11","Greek Legends League 2021 Spring Promotion","Promotion","Rejects Gaming","CowBoySquad Imperials Esports","LLL","","dom","S"],["2021-03-04","Hitpoint Masters 2021 Spring Playoffs","Round 1","Dark Tigers","ECLOT","LWWW","","dom","S"],["2021-03-11","Hitpoint Masters 2021 Spring Playoffs","Round 2","Dark Tigers","Vikingekrig Esports","WLLWL","","dom","S"],["2021-08-03","Greek Legends League 2021 Winter Promotion","Promotion","Team Refuse","Team HavoC","LLWWW","","dom","S"],["2023-07-13","GL2D 2023 Summer Playoffs","Round 1","Ionikos Nikaias Esports","Actions Per Minute","LWWW","","dom","S"],["2023-07-27","GL2D 2023 Summer Playoffs","Final","Ionikos Nikaias Esports","Team Refuse","LLL","","dom","S"],["2023-08-09","Greek Legends League 2024 Spring Promotion","Round 1","Ionikos Nikaias Esports","Pentagon Rejects","WLWLW","","dom","S"],["2023-08-11","Greek Legends League 2024 Spring Promotion","Round 2","Ionikos Nikaias Esports","Zerolag Esports","WLLL","","dom","S"],["2023-08-12","Greek Legends League 2024 Spring Promotion","Round 2","Ionikos Nikaias Esports","Team Refuse","WLLL","","dom","S"],["2024-03-26","NLC 2nd Division 2024 Spring Playoffs","Round 1","Ruzeh Esports","Rich Gang (Norwegian Team)","WWLLL","","dom","S"],["2024-03-29","NLC 2nd Division 2024 Spring Playoffs","Round 1","Ruzeh Esports","Garden Gaming","LLL","","dom","S"],["2024-07-09","Prime League 2nd Division 2024 Summer Playoffs","Round 1","EPIC-DUDES","Spinebusters E-Sport","LLL","","dom","S"],["2025-02-25","Hellenic Legends League 2025 Spring Promotion","Round 2","Team Refuse","SINS Esports","LWLL","p","dom","S"],["2025-07-07","Prime League 2nd Division 2025 Summer Playoffs","Round 1","Team Mentality","Münster Esports","LLWL","","dom","S"],["2025-07-09","Prime League 2nd Division 2025 Summer Playoffs","Round 1","Team Mentality","Kanji Esports","LWWW","","dom","S"],["2025-07-14","Prime League 2nd Division 2025 Summer Playoffs","Round 2","Team Mentality","Entropy x Teufel","WLWLL","","dom","S"],["2025-08-10","Prime League 2nd Division 2025 Summer Relegation","Round 5","Team Mentality","Orgless Goats","WWW","r","dom","S"]],"unknown":[]}
+{
+  "player": "IVOK",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2020-08-23","UK League Championship 2020 Relegation Series","Qualifiers","nerdRage","Barrage Academy","LLL","p","dom","S"],
+    ["2020-11-28","Hitpoint Winter 2020 Playoffs","Round 1","Absolute Legends CZSK","Vikingekrig Esports","LWWW","","dom","S"],
+    ["2020-11-29","Hitpoint Winter 2020 Playoffs","Round 2","Absolute Legends CZSK","eSuba","LWLL","","dom","S"],
+    ["2021-01-11","Greek Legends League 2021 Spring Promotion","Promotion","Rejects Gaming","CowBoySquad Imperials Esports","LLL","","dom","S"],
+    ["2021-03-04","Hitpoint Masters 2021 Spring Playoffs","Round 1","Dark Tigers","ECLOT","LWWW","","dom","S"],
+    ["2021-03-11","Hitpoint Masters 2021 Spring Playoffs","Round 2","Dark Tigers","Vikingekrig Esports","WLLWL","","dom","S"],
+    ["2021-08-03","Greek Legends League 2021 Winter Promotion","Promotion","Team Refuse","Team HavoC","LLWWW","","dom","S"],
+    ["2023-07-13","GL2D 2023 Summer Playoffs","Round 1","Ionikos Nikaias Esports","Actions Per Minute","LWWW","","dom","S"],
+    ["2023-07-27","GL2D 2023 Summer Playoffs","Final","Ionikos Nikaias Esports","Team Refuse","LLL","","dom","S"],
+    ["2023-08-09","Greek Legends League 2024 Spring Promotion","Round 1","Ionikos Nikaias Esports","Pentagon Rejects","WLWLW","","dom","S"],
+    ["2023-08-11","Greek Legends League 2024 Spring Promotion","Round 2","Ionikos Nikaias Esports","Zerolag Esports","WLLL","","dom","S"],
+    ["2023-08-12","Greek Legends League 2024 Spring Promotion","Round 2","Ionikos Nikaias Esports","Team Refuse","WLLL","","dom","S"],
+    ["2024-03-26","NLC 2nd Division 2024 Spring Playoffs","Round 1","Ruzeh Esports","Rich Gang (Norwegian Team)","WWLLL","","dom","S"],
+    ["2024-03-29","NLC 2nd Division 2024 Spring Playoffs","Round 1","Ruzeh Esports","Garden Gaming","LLL","","dom","S"],
+    ["2024-07-09","Prime League 2nd Division 2024 Summer Playoffs","Round 1","EPIC-DUDES","Spinebusters E-Sport","LLL","","dom","S"],
+    ["2025-02-25","Hellenic Legends League 2025 Spring Promotion","Round 2","Team Refuse","SINS Esports","LWLL","p","dom","S"],
+    ["2025-07-07","Prime League 2nd Division 2025 Summer Playoffs","Round 1","Team Mentality","Münster Esports","LLWL","","dom","S"],
+    ["2025-07-09","Prime League 2nd Division 2025 Summer Playoffs","Round 1","Team Mentality","Kanji Esports","LWWW","","dom","S"],
+    ["2025-07-14","Prime League 2nd Division 2025 Summer Playoffs","Round 2","Team Mentality","Entropy x Teufel","WLWLL","","dom","S"],
+    ["2025-08-10","Prime League 2nd Division 2025 Summer Relegation","Round 5","Team Mentality","Orgless Goats","WWW","r","dom","S"]
+  ],
+  "unknown": []
+}

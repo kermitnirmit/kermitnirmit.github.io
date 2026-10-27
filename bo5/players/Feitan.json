@@ -1,1 +1,32 @@
-{"player":"Feitan","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2019-04-02","Liga de Honor Entel 2019 Opening Playoffs","Semifinal","Valorous","Dark Horse","LLL","","dom","S"],["2019-08-05","Liga de Honor Entel 2019 Closing Playoffs","Semifinal","Azules Esports","Universidad Católica Esports","WWW","","dom","S"],["2019-08-18","Liga de Honor Entel 2019 Closing Playoffs","Final","Azules Esports","Rebirth eSports","LWWW","","dom","S"],["2019-09-12","Regional Sur 2019 Season","Playoffs","Azules Esports","9z Team","WLWW","","dom","S"],["2019-09-28","LLA 2020 Opening Promotion","Qualifiers","Azules Esports","Kaos Latin Gamers","LWWLW","","dom","P"],["2020-08-10","Liga de Honor Entel 2020 Closing Playoffs","Semifinal","Rebirth eSports","Universidad Católica Esports","LLL","","dom","S"],["2022-03-28","Liga de Honor Entel 2022 Opening Playoffs","Round 1","Furious Gaming","Movistar Optix","WLWLW","","dom","S"],["2022-04-04","Liga de Honor Entel 2022 Opening Playoffs","Round 3","Furious Gaming","Dark Horse","WWW","","dom","S"],["2022-04-19","Liga de Honor Entel 2022 Opening Playoffs","Grand Final","Furious Gaming","Movistar Optix","LWWW","","dom","S"],["2022-06-27","Liga de Honor Entel 2022 Closing Playoffs","Round 1","Furious Gaming","Cruzados Esports","WWW","","dom","S"],["2022-07-04","Liga de Honor Entel 2022 Closing Playoffs","Round 3","Furious Gaming","Movistar Optix","WLWW","","dom","S"],["2022-07-18","Liga de Honor Entel 2022 Closing Playoffs","Grand Final","Furious Gaming","Movistar Optix","WWLW","","dom","S"],["2022-11-28","Liga de Honor Entel 2022 Super Copa","Final","Furious Gaming","Eclipse Gaming (Latin American Team)","LLWWL","","dom","S"],["2023-07-28","Liga Regional Sur 2023 Closing Playoffs","Round 1","Furious Gaming","Malvinas Rise","LWWW","","dom","S"],["2023-08-10","Liga Regional Sur 2023 Closing Playoffs","Round 3","Furious Gaming","PRIMATE","LLWL","","dom","S"],["2023-08-12","Liga Regional Sur 2023 Closing Playoffs","Round 3","Furious Gaming","WAP Esports","WLLWW","","dom","S"],["2023-08-26","Liga Regional Sur 2023 Closing Playoffs","Grand Final","Furious Gaming","PRIMATE","WLLL","","dom","S"],["2024-03-09","Emerald League 2024 Tier Edition","Round 4","Meta Gaming","WAP Esports","WWW","r","dom",""],["2024-06-24","Liga Regional Sur 2024 Playoffs","Round 1","Meta Gaming","WAP Esports","WLLL","p","dom","S"],["2024-10-14","Emerald League 2024 Special Edition","Semifinal","Team Evermeet","POG Team","WWW","r","dom",""],["2024-12-17","Emerald League 2024 Special Edition","Final","Team Evermeet","Izanagi eSports","WWW","r","dom",""]],"unknown":[["2018-09-23","Circuito Nacional Chile 2018 Closing","Semifinal","Andes Esports","Universidad Católica Esports","2-3","","dom",""],["2024-03-17","Emerald League 2024 Tier Edition","Final","Meta Gaming","PRIMATE","1-3","","dom",""]]}
+{
+  "player": "Feitan",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2019-04-02","Liga de Honor Entel 2019 Opening Playoffs","Semifinal","Valorous","Dark Horse","LLL","","dom","S"],
+    ["2019-08-05","Liga de Honor Entel 2019 Closing Playoffs","Semifinal","Azules Esports","Universidad Católica Esports","WWW","","dom","S"],
+    ["2019-08-18","Liga de Honor Entel 2019 Closing Playoffs","Final","Azules Esports","Rebirth eSports","LWWW","","dom","S"],
+    ["2019-09-12","Regional Sur 2019 Season","Playoffs","Azules Esports","9z Team","WLWW","","dom","S"],
+    ["2019-09-28","LLA 2020 Opening Promotion","Qualifiers","Azules Esports","Kaos Latin Gamers","LWWLW","","dom","P"],
+    ["2020-08-10","Liga de Honor Entel 2020 Closing Playoffs","Semifinal","Rebirth eSports","Universidad Católica Esports","LLL","","dom","S"],
+    ["2022-03-28","Liga de Honor Entel 2022 Opening Playoffs","Round 1","Furious Gaming","Movistar Optix","WLWLW","","dom","S"],
+    ["2022-04-04","Liga de Honor Entel 2022 Opening Playoffs","Round 3","Furious Gaming","Dark Horse","WWW","","dom","S"],
+    ["2022-04-19","Liga de Honor Entel 2022 Opening Playoffs","Grand Final","Furious Gaming","Movistar Optix","LWWW","","dom","S"],
+    ["2022-06-27","Liga de Honor Entel 2022 Closing Playoffs","Round 1","Furious Gaming","Cruzados Esports","WWW","","dom","S"],
+    ["2022-07-04","Liga de Honor Entel 2022 Closing Playoffs","Round 3","Furious Gaming","Movistar Optix","WLWW","","dom","S"],
+    ["2022-07-18","Liga de Honor Entel 2022 Closing Playoffs","Grand Final","Furious Gaming","Movistar Optix","WWLW","","dom","S"],
+    ["2022-11-28","Liga de Honor Entel 2022 Super Copa","Final","Furious Gaming","Eclipse Gaming (Latin American Team)","LLWWL","","dom","S"],
+    ["2023-07-28","Liga Regional Sur 2023 Closing Playoffs","Round 1","Furious Gaming","Malvinas Rise","LWWW","","dom","S"],
+    ["2023-08-10","Liga Regional Sur 2023 Closing Playoffs","Round 3","Furious Gaming","PRIMATE","LLWL","","dom","S"],
+    ["2023-08-12","Liga Regional Sur 2023 Closing Playoffs","Round 3","Furious Gaming","WAP Esports","WLLWW","","dom","S"],
+    ["2023-08-26","Liga Regional Sur 2023 Closing Playoffs","Grand Final","Furious Gaming","PRIMATE","WLLL","","dom","S"],
+    ["2024-03-09","Emerald League 2024 Tier Edition","Round 4","Meta Gaming","WAP Esports","WWW","r","dom",""],
+    ["2024-06-24","Liga Regional Sur 2024 Playoffs","Round 1","Meta Gaming","WAP Esports","WLLL","p","dom","S"],
+    ["2024-10-14","Emerald League 2024 Special Edition","Semifinal","Team Evermeet","POG Team","WWW","r","dom",""],
+    ["2024-12-17","Emerald League 2024 Special Edition","Final","Team Evermeet","Izanagi eSports","WWW","r","dom",""]
+  ],
+  "unknown": [
+    ["2018-09-23","Circuito Nacional Chile 2018 Closing","Semifinal","Andes Esports","Universidad Católica Esports","2-3","","dom",""],
+    ["2024-03-17","Emerald League 2024 Tier Edition","Final","Meta Gaming","PRIMATE","1-3","","dom",""]
+  ]
+}

@@ -1,1 +1,34 @@
-{"player":"QQMore","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2016-11-06","CLS 2017 Preseason Tournament","Final","Isurus","Furious Gaming","LWLWW","","dom","P"],["2017-04-08","CLS 2017 Opening Playoffs","Final","Isurus","Furious Gaming","WWW","","dom","P"],["2017-07-28","CLS 2017 Closing Playoffs","Round 2","Isurus","Furious Gaming","LLWWW","","dom","P"],["2017-08-19","CLS 2017 Closing Playoffs","Final","Isurus","Kaos Latin Gamers","WLLL","","dom","P"],["2018-03-29","CLS 2018 Opening Playoffs","Quarterfinal","Isurus","Legatum","WWW","","dom","P"],["2018-03-31","CLS 2018 Opening Playoffs","Semifinal","Isurus","Kaos Latin Gamers","LLL","","dom","P"],["2018-08-30","CLS 2018 Closing Playoffs","Quarterfinal","Isurus","Evilvice Esports","LWWLW","","dom","P"],["2018-09-01","CLS 2018 Closing Playoffs","Semifinal","Isurus","Rebirth eSports","LLL","","dom","P"],["2022-04-01","Liga Master Flow 2022 Opening Playoffs","Quarterfinal","Pampas","9z Team","WWW","","dom","S"],["2022-04-08","Liga Master Flow 2022 Opening Playoffs","Semifinal","Pampas","EBRO","LWLWL","","dom","S"],["2022-07-08","Liga Master Flow 2022 Closing Playoffs","Quarterfinal","Pampas","River Plate Gaming","WWW","","dom","S"],["2022-07-15","Liga Master Flow 2022 Closing Playoffs","Semifinal","Pampas","Boca Juniors Gaming","LLL","","dom","S"],["2022-11-28","Liga de Honor Entel 2022 Super Copa","Final","Eclipse Gaming (Latin American Team)","Furious Gaming","WWLLW","","dom","S"],["2022-12-02","Duelo Andino 2022","Grand Final","Eclipse Gaming (Latin American Team)","Leviatan","LWLL","","dom","S"],["2023-03-04","Liga de Honor 2023 Opening Playoffs","Round 1","Eclipse Gaming (Latin American Team)","Meta Gaming","LLWL","","dom","S"],["2023-03-13","Liga de Honor 2023 Opening Playoffs","Round 1","Eclipse Gaming (Latin American Team)","Rebirth eSports","WWW","","dom","S"],["2023-03-24","Liga de Honor 2023 Opening Playoffs","Round 2","Eclipse Gaming (Latin American Team)","Cruzados Esports","LWLWW","","dom","S"],["2023-03-27","Liga de Honor 2023 Opening Playoffs","Round 3","Eclipse Gaming (Latin American Team)","Maze Gaming","WWLLW","","dom","S"],["2023-03-30","Liga de Honor 2023 Opening Playoffs","Grand Final","Eclipse Gaming (Latin American Team)","Meta Gaming","WLWLW","","dom","S"],["2023-08-03","Liga Regional Sur 2023 Closing Playoffs","Round 1","Globant Emerald","WAP Esports","WLLL","","dom","S"],["2024-06-24","Liga Regional Sur 2024 Playoffs","Round 1","WAP Esports","Meta Gaming","LWWW","","dom","S"],["2024-06-30","Liga Regional Sur 2024 Playoffs","Round 2","WAP Esports","PRIMATE","LWWW","","dom","S"],["2024-07-21","Liga Regional Sur 2024 Playoffs","Grand Final","WAP Esports","PRIMATE","WWLW","","dom","S"],["2026-08-04","Liga Regional Sur 2026 Split 2 Playoffs","Round 1","Malvinas Gaming","Maze Gaming","WLLWL","","dom","S"]],"unknown":[["2017-12-02","Rio de la Plata Cup 2017","Final","Isurus","Kaos Latin Gamers","2-3","","dom",""]]}
+{
+  "player": "QQMore",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2016-11-06","CLS 2017 Preseason Tournament","Final","Isurus","Furious Gaming","LWLWW","","dom","P"],
+    ["2017-04-08","CLS 2017 Opening Playoffs","Final","Isurus","Furious Gaming","WWW","","dom","P"],
+    ["2017-07-28","CLS 2017 Closing Playoffs","Round 2","Isurus","Furious Gaming","LLWWW","","dom","P"],
+    ["2017-08-19","CLS 2017 Closing Playoffs","Final","Isurus","Kaos Latin Gamers","WLLL","","dom","P"],
+    ["2018-03-29","CLS 2018 Opening Playoffs","Quarterfinal","Isurus","Legatum","WWW","","dom","P"],
+    ["2018-03-31","CLS 2018 Opening Playoffs","Semifinal","Isurus","Kaos Latin Gamers","LLL","","dom","P"],
+    ["2018-08-30","CLS 2018 Closing Playoffs","Quarterfinal","Isurus","Evilvice Esports","LWWLW","","dom","P"],
+    ["2018-09-01","CLS 2018 Closing Playoffs","Semifinal","Isurus","Rebirth eSports","LLL","","dom","P"],
+    ["2022-04-01","Liga Master Flow 2022 Opening Playoffs","Quarterfinal","Pampas","9z Team","WWW","","dom","S"],
+    ["2022-04-08","Liga Master Flow 2022 Opening Playoffs","Semifinal","Pampas","EBRO","LWLWL","","dom","S"],
+    ["2022-07-08","Liga Master Flow 2022 Closing Playoffs","Quarterfinal","Pampas","River Plate Gaming","WWW","","dom","S"],
+    ["2022-07-15","Liga Master Flow 2022 Closing Playoffs","Semifinal","Pampas","Boca Juniors Gaming","LLL","","dom","S"],
+    ["2022-11-28","Liga de Honor Entel 2022 Super Copa","Final","Eclipse Gaming (Latin American Team)","Furious Gaming","WWLLW","","dom","S"],
+    ["2022-12-02","Duelo Andino 2022","Grand Final","Eclipse Gaming (Latin American Team)","Leviatan","LWLL","","dom","S"],
+    ["2023-03-04","Liga de Honor 2023 Opening Playoffs","Round 1","Eclipse Gaming (Latin American Team)","Meta Gaming","LLWL","","dom","S"],
+    ["2023-03-13","Liga de Honor 2023 Opening Playoffs","Round 1","Eclipse Gaming (Latin American Team)","Rebirth eSports","WWW","","dom","S"],
+    ["2023-03-24","Liga de Honor 2023 Opening Playoffs","Round 2","Eclipse Gaming (Latin American Team)","Cruzados Esports","LWLWW","","dom","S"],
+    ["2023-03-27","Liga de Honor 2023 Opening Playoffs","Round 3","Eclipse Gaming (Latin American Team)","Maze Gaming","WWLLW","","dom","S"],
+    ["2023-03-30","Liga de Honor 2023 Opening Playoffs","Grand Final","Eclipse Gaming (Latin American Team)","Meta Gaming","WLWLW","","dom","S"],
+    ["2023-08-03","Liga Regional Sur 2023 Closing Playoffs","Round 1","Globant Emerald","WAP Esports","WLLL","","dom","S"],
+    ["2024-06-24","Liga Regional Sur 2024 Playoffs","Round 1","WAP Esports","Meta Gaming","LWWW","","dom","S"],
+    ["2024-06-30","Liga Regional Sur 2024 Playoffs","Round 2","WAP Esports","PRIMATE","LWWW","","dom","S"],
+    ["2024-07-21","Liga Regional Sur 2024 Playoffs","Grand Final","WAP Esports","PRIMATE","WWLW","","dom","S"],
+    ["2026-08-04","Liga Regional Sur 2026 Split 2 Playoffs","Round 1","Malvinas Gaming","Maze Gaming","WLLWL","","dom","S"]
+  ],
+  "unknown": [
+    ["2017-12-02","Rio de la Plata Cup 2017","Final","Isurus","Kaos Latin Gamers","2-3","","dom",""]
+  ]
+}

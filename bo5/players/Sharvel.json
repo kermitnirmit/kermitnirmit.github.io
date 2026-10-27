@@ -1,1 +1,29 @@
-{"player":"Sharvel","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2022-11-19","LCK Academy Series 2022 2nd Championship Playoffs","Semifinal","DWG KIA Youth","KT Rolster Academy","WLLWW","","dom","S"],["2022-11-20","LCK Academy Series 2022 2nd Championship Playoffs","Final","DWG KIA Youth","DRX Academy","WLLWL","","dom","S"],["2023-11-25","LCK Academy Series 2023 2nd Championship Playoffs","Semifinal","Dplus Kia Youth","KT Rolster Academy","LWLWL","r","dom","S"],["2024-03-25","LCK CL 2024 Spring Playoffs","Round 1","Dplus Kia Challengers","OKSavingsBank BRION Challengers","WWW","r","dom","S"],["2024-04-02","LCK CL 2024 Spring Playoffs","Round 2","Dplus Kia Challengers","Hanwha Life Esports Challengers","WLWW","","dom","S"],["2024-04-08","LCK CL 2024 Spring Playoffs","Round 3","Dplus Kia Challengers","KT Rolster Challengers","LWLWW","r","dom","S"],["2024-04-12","LCK CL 2024 Spring Playoffs","Final","Dplus Kia Challengers","KT Rolster Challengers","LLWL","r","dom","S"],["2024-08-27","LCK CL 2024 Summer Playoffs","Round 2","Dplus Kia Challengers","Kwangdong Freecs Challengers","WWLLL","r","dom","S"],["2024-09-03","LCK CL 2024 Summer Playoffs","Round 2","Dplus Kia Challengers","T1 Esports Academy","WWLW","r","dom","S"],["2024-09-05","LCK CL 2024 Summer Playoffs","Round 3","Dplus Kia Challengers","Kwangdong Freecs Challengers","LWWW","","dom","S"],["2024-09-06","LCK CL 2024 Summer Playoffs","Final","Dplus Kia Challengers","KT Rolster Challengers","LLWL","","dom","S"],["2024-09-18","Asia Star Challengers Invitational 2024","Round 1","Dplus Kia Challengers","KT Rolster Challengers","WLLL","r","dom","S"],["2024-09-20","Asia Star Challengers Invitational 2024","Round 1","Dplus Kia Challengers","T1 Esports Academy","WWW","r","dom","S"],["2024-09-21","Asia Star Challengers Invitational 2024","Round 2","Dplus Kia Challengers","Kwangdong Freecs Challengers","LWLWL","r","dom","S"],["2026-01-26","LCK CL 2026 Kickoff","","Dplus Kia Challengers","T1 Esports Academy","LLWL","","dom","S"],["2026-06-17","Asia Masters 2026","Round 1","Dplus Kia Challengers","KT Rolster Challengers","WWLW","","dom","S"],["2026-06-18","Asia Masters 2026","Round 2","Dplus Kia Challengers","T1 Esports Academy","LWLWW","","dom","S"],["2026-06-21","Asia Masters 2026","Final","Dplus Kia Challengers","T1 Esports Academy","LWWW","","dom","S"],["2026-08-11","LoL KeSPA Cup 2026","Quarterfinal","DN SOOPers","Hanwha Life Esports","WWW","","dom","P"],["2026-08-17","LoL KeSPA Cup 2026","Semifinal","DN SOOPers","T1","LWWW","","dom","P"],["2026-08-18","LoL KeSPA Cup 2026","Final","DN SOOPers","Nongshim RedForce","WWW","","dom","P"]],"unknown":[]}
+{
+  "player": "Sharvel",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2022-11-19","LCK Academy Series 2022 2nd Championship Playoffs","Semifinal","DWG KIA Youth","KT Rolster Academy","WLLWW","","dom","S"],
+    ["2022-11-20","LCK Academy Series 2022 2nd Championship Playoffs","Final","DWG KIA Youth","DRX Academy","WLLWL","","dom","S"],
+    ["2023-11-25","LCK Academy Series 2023 2nd Championship Playoffs","Semifinal","Dplus Kia Youth","KT Rolster Academy","LWLWL","r","dom","S"],
+    ["2024-03-25","LCK CL 2024 Spring Playoffs","Round 1","Dplus Kia Challengers","OKSavingsBank BRION Challengers","WWW","r","dom","S"],
+    ["2024-04-02","LCK CL 2024 Spring Playoffs","Round 2","Dplus Kia Challengers","Hanwha Life Esports Challengers","WLWW","","dom","S"],
+    ["2024-04-08","LCK CL 2024 Spring Playoffs","Round 3","Dplus Kia Challengers","KT Rolster Challengers","LWLWW","r","dom","S"],
+    ["2024-04-12","LCK CL 2024 Spring Playoffs","Final","Dplus Kia Challengers","KT Rolster Challengers","LLWL","r","dom","S"],
+    ["2024-08-27","LCK CL 2024 Summer Playoffs","Round 2","Dplus Kia Challengers","Kwangdong Freecs Challengers","WWLLL","r","dom","S"],
+    ["2024-09-03","LCK CL 2024 Summer Playoffs","Round 2","Dplus Kia Challengers","T1 Esports Academy","WWLW","r","dom","S"],
+    ["2024-09-05","LCK CL 2024 Summer Playoffs","Round 3","Dplus Kia Challengers","Kwangdong Freecs Challengers","LWWW","","dom","S"],
+    ["2024-09-06","LCK CL 2024 Summer Playoffs","Final","Dplus Kia Challengers","KT Rolster Challengers","LLWL","","dom","S"],
+    ["2024-09-18","Asia Star Challengers Invitational 2024","Round 1","Dplus Kia Challengers","KT Rolster Challengers","WLLL","r","dom","S"],
+    ["2024-09-20","Asia Star Challengers Invitational 2024","Round 1","Dplus Kia Challengers","T1 Esports Academy","WWW","r","dom","S"],
+    ["2024-09-21","Asia Star Challengers Invitational 2024","Round 2","Dplus Kia Challengers","Kwangdong Freecs Challengers","LWLWL","r","dom","S"],
+    ["2026-01-26","LCK CL 2026 Kickoff","","Dplus Kia Challengers","T1 Esports Academy","LLWL","","dom","S"],
+    ["2026-06-17","Asia Masters 2026","Round 1","Dplus Kia Challengers","KT Rolster Challengers","WWLW","","dom","S"],
+    ["2026-06-18","Asia Masters 2026","Round 2","Dplus Kia Challengers","T1 Esports Academy","LWLWW","","dom","S"],
+    ["2026-06-21","Asia Masters 2026","Final","Dplus Kia Challengers","T1 Esports Academy","LWWW","","dom","S"],
+    ["2026-08-11","LoL KeSPA Cup 2026","Quarterfinal","DN SOOPers","Hanwha Life Esports","WWW","","dom","P"],
+    ["2026-08-17","LoL KeSPA Cup 2026","Semifinal","DN SOOPers","T1","LWWW","","dom","P"],
+    ["2026-08-18","LoL KeSPA Cup 2026","Final","DN SOOPers","Nongshim RedForce","WWW","","dom","P"]
+  ],
+  "unknown": []
+}

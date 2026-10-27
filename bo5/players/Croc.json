@@ -1,1 +1,36 @@
-{"player":"Croc","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2020-04-10","OPL 2020 Split 1 Playoffs","Round 1","Chiefs Esports Club","Dire Wolves","LWWW","","dom","P"],["2020-04-11","OPL 2020 Split 1 Playoffs","Round 2","Chiefs Esports Club","Legacy Esports","LWLL","","dom","P"],["2020-04-18","OPL 2020 Split 1 Playoffs","Round 3","Chiefs Esports Club","Dire Wolves","WLLWL","","dom","P"],["2020-08-14","OPL 2020 Split 2 Playoffs","Round 1","Chiefs Esports Club","Dire Wolves","WWLW","","dom","P"],["2020-08-21","OPL 2020 Split 2 Playoffs","Round 2","Chiefs Esports Club","Pentanet.GG","WWW","","dom","P"],["2020-08-22","OPL 2020 Split 2 Playoffs","Round 3","Chiefs Esports Club","ORDER","LLWL","","dom","P"],["2021-08-07","CBLOL 2021 Split 2 Playoffs","Quarterfinal","Rensga Esports","LOUD","WWW","","dom","P"],["2021-08-21","CBLOL 2021 Split 2 Playoffs","Semifinal","Rensga Esports","paiN Gaming","LWLWW","","dom","P"],["2021-09-04","CBLOL 2021 Split 2 Playoffs","Final","Rensga Esports","RED Canids","LLWL","","dom","P"],["2022-03-25","CBLOL 2022 Split 1 Playoffs","Round 1","Netshoes Miners","Liberty","LLL","","dom","P"],["2022-08-14","CBLOL 2022 Split 2 Playoffs","Round 1","LOUD","RED Canids","LWWW","","dom","P"],["2022-08-21","CBLOL 2022 Split 2 Playoffs","Semifinal","LOUD","paiN Gaming","WLLWL","","dom","P"],["2022-08-28","CBLOL 2022 Split 2 Playoffs","Semifinal","LOUD","FURIA","WWW","","dom","P"],["2022-09-03","CBLOL 2022 Split 2 Playoffs","Final","LOUD","paiN Gaming","WWW","","dom","P"],["2022-10-03","Worlds 2022","Elimination Round","LOUD","DetonatioN FocusMe","WLLL","","worlds","P"],["2023-03-26","CBLOL 2023 Split 1 Playoffs","Round 1","LOUD","Los Grandes","WLWW","","dom","P"],["2023-04-02","CBLOL 2023 Split 1 Playoffs","Semifinal","LOUD","paiN Gaming","LWWW","","dom","P"],["2023-04-15","CBLOL 2023 Split 1 Playoffs","Final","LOUD","paiN Gaming","WWW","","dom","P"],["2023-08-13","CBLOL 2023 Split 2 Playoffs","Round 1","LOUD","RED Canids","LWWW","","dom","P"],["2023-08-20","CBLOL 2023 Split 2 Playoffs","Semifinal","LOUD","paiN Gaming","WWW","","dom","P"],["2023-09-09","CBLOL 2023 Split 2 Playoffs","Final","LOUD","paiN Gaming","WWLW","","dom","P"],["2024-03-31","CBLOL 2024 Split 1 Playoffs","Round 2","LOUD","RED Canids","WWW","","dom","P"],["2024-04-07","CBLOL 2024 Split 1 Playoffs","Round 4","LOUD","paiN Gaming","WLWW","","dom","P"],["2024-04-20","CBLOL 2024 Split 1 Playoffs","Final","LOUD","paiN Gaming","WLLWW","","dom","P"],["2024-08-03","CBLOL 2024 Split 2 Playoffs","Round 1","LOUD","FURIA","LLWWW","","dom","P"],["2024-08-10","CBLOL 2024 Split 2 Playoffs","Round 2","LOUD","paiN Gaming","LLL","","dom","P"],["2024-08-17","CBLOL 2024 Split 2 Playoffs","Round 2","LOUD","FURIA","WWLLW","","dom","P"],["2024-08-23","CBLOL 2024 Split 2 Playoffs","Round 3","LOUD","RED Canids","LLL","","dom","P"]],"unknown":[]}
+{
+  "player": "Croc",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2020-04-10","OPL 2020 Split 1 Playoffs","Round 1","Chiefs Esports Club","Dire Wolves","LWWW","","dom","P"],
+    ["2020-04-11","OPL 2020 Split 1 Playoffs","Round 2","Chiefs Esports Club","Legacy Esports","LWLL","","dom","P"],
+    ["2020-04-18","OPL 2020 Split 1 Playoffs","Round 3","Chiefs Esports Club","Dire Wolves","WLLWL","","dom","P"],
+    ["2020-08-14","OPL 2020 Split 2 Playoffs","Round 1","Chiefs Esports Club","Dire Wolves","WWLW","","dom","P"],
+    ["2020-08-21","OPL 2020 Split 2 Playoffs","Round 2","Chiefs Esports Club","Pentanet.GG","WWW","","dom","P"],
+    ["2020-08-22","OPL 2020 Split 2 Playoffs","Round 3","Chiefs Esports Club","ORDER","LLWL","","dom","P"],
+    ["2021-08-07","CBLOL 2021 Split 2 Playoffs","Quarterfinal","Rensga Esports","LOUD","WWW","","dom","P"],
+    ["2021-08-21","CBLOL 2021 Split 2 Playoffs","Semifinal","Rensga Esports","paiN Gaming","LWLWW","","dom","P"],
+    ["2021-09-04","CBLOL 2021 Split 2 Playoffs","Final","Rensga Esports","RED Canids","LLWL","","dom","P"],
+    ["2022-03-25","CBLOL 2022 Split 1 Playoffs","Round 1","Netshoes Miners","Liberty","LLL","","dom","P"],
+    ["2022-08-14","CBLOL 2022 Split 2 Playoffs","Round 1","LOUD","RED Canids","LWWW","","dom","P"],
+    ["2022-08-21","CBLOL 2022 Split 2 Playoffs","Semifinal","LOUD","paiN Gaming","WLLWL","","dom","P"],
+    ["2022-08-28","CBLOL 2022 Split 2 Playoffs","Semifinal","LOUD","FURIA","WWW","","dom","P"],
+    ["2022-09-03","CBLOL 2022 Split 2 Playoffs","Final","LOUD","paiN Gaming","WWW","","dom","P"],
+    ["2022-10-03","Worlds 2022","Elimination Round","LOUD","DetonatioN FocusMe","WLLL","","worlds","P"],
+    ["2023-03-26","CBLOL 2023 Split 1 Playoffs","Round 1","LOUD","Los Grandes","WLWW","","dom","P"],
+    ["2023-04-02","CBLOL 2023 Split 1 Playoffs","Semifinal","LOUD","paiN Gaming","LWWW","","dom","P"],
+    ["2023-04-15","CBLOL 2023 Split 1 Playoffs","Final","LOUD","paiN Gaming","WWW","","dom","P"],
+    ["2023-08-13","CBLOL 2023 Split 2 Playoffs","Round 1","LOUD","RED Canids","LWWW","","dom","P"],
+    ["2023-08-20","CBLOL 2023 Split 2 Playoffs","Semifinal","LOUD","paiN Gaming","WWW","","dom","P"],
+    ["2023-09-09","CBLOL 2023 Split 2 Playoffs","Final","LOUD","paiN Gaming","WWLW","","dom","P"],
+    ["2024-03-31","CBLOL 2024 Split 1 Playoffs","Round 2","LOUD","RED Canids","WWW","","dom","P"],
+    ["2024-04-07","CBLOL 2024 Split 1 Playoffs","Round 4","LOUD","paiN Gaming","WLWW","","dom","P"],
+    ["2024-04-20","CBLOL 2024 Split 1 Playoffs","Final","LOUD","paiN Gaming","WLLWW","","dom","P"],
+    ["2024-08-03","CBLOL 2024 Split 2 Playoffs","Round 1","LOUD","FURIA","LLWWW","","dom","P"],
+    ["2024-08-10","CBLOL 2024 Split 2 Playoffs","Round 2","LOUD","paiN Gaming","LLL","","dom","P"],
+    ["2024-08-17","CBLOL 2024 Split 2 Playoffs","Round 2","LOUD","FURIA","WWLLW","","dom","P"],
+    ["2024-08-23","CBLOL 2024 Split 2 Playoffs","Round 3","LOUD","RED Canids","LLL","","dom","P"]
+  ],
+  "unknown": []
+}

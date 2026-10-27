@@ -1,1 +1,29 @@
-{"player":"Jockster","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2015-03-28","CBLOL 2015 Split 1 Playoffs","Semifinal","INTZ","paiN Gaming","WWW","","dom","P"],["2015-04-18","CBLOL 2015 Split 1 Playoffs","Final","INTZ","Keyd Stars","WWW","","dom","P"],["2015-04-24","International Wildcard Invitational 2015","Semifinal","INTZ","Hard Random","WWLW","","dom","P"],["2015-04-25","International Wildcard Invitational 2015","Final","INTZ","Beşiktaş Esports","WLLL","","dom","P"],["2015-07-18","CBLOL 2015 Split 2 Playoffs","Semifinal","INTZ","g3nerationX","WWLW","","dom","P"],["2015-08-08","CBLOL 2015 Split 2 Playoffs","Final","INTZ","paiN Gaming","LLL","","dom","P"],["2016-03-20","CBLOL 2016 Split 1 Playoffs","Semifinal","INTZ","Operation Kino e-Sports","WLWW","","dom","P"],["2016-04-02","CBLOL 2016 Split 1 Playoffs","Final","INTZ","Keyd Stars","WWW","","dom","P"],["2016-04-20","International Wildcard Invitational 2016","Semifinal","INTZ","Hard Random","LLL","","dom","P"],["2016-06-26","CBLOL 2016 Split 2 Playoffs","Semifinal","INTZ","paiN Gaming","WWLLW","","dom","P"],["2016-07-09","CBLOL 2016 Split 2 Playoffs","Final","INTZ","CNB e-Sports Club","WLWW","","dom","P"],["2016-09-03","International Wildcard Qualifier 2016","Final","INTZ","Dark Passage","WLWLW","","dom","P"],["2017-03-25","CBLOL 2017 Split 1 Playoffs","Semifinal","INTZ","Keyd Stars","LLWL","","dom","P"],["2017-08-19","CBLOL 2017 Split 2 Playoffs","Semifinal","INTZ","paiN Gaming","WLLL","","dom","P"],["2018-03-18","CBLOL 2018 Split 1 Playoffs","Round 2","Vivo Keyd","CNB e-Sports Club","WWW","","dom","P"],["2018-03-24","CBLOL 2018 Split 1 Playoffs","Round 3","Vivo Keyd","RED Canids","LWLWW","","dom","P"],["2018-04-07","CBLOL 2018 Split 1 Playoffs","Final","Vivo Keyd","KaBuM! Esports","LWLWL","","dom","P"],["2018-08-11","CBLOL 2018 Split 2 Playoffs","Round 1","Vivo Keyd","Razer Pichau Gaming","WWW","","dom","P"],["2018-08-18","CBLOL 2018 Split 2 Playoffs","Round 2","Vivo Keyd","CNB e-Sports Club","LWLWL","","dom","P"],["2018-12-15","Superliga ABCDE 2018","Semifinal","Vivo Keyd","INTZ","LLL","r","dom",""],["2019-04-27","CBLOL 2019 Split 2 Promotion","Promotion","Vivo Keyd","Team oNe eSports","LWLL","","dom","P"]],"unknown":[]}
+{
+  "player": "Jockster",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2015-03-28","CBLOL 2015 Split 1 Playoffs","Semifinal","INTZ","paiN Gaming","WWW","","dom","P"],
+    ["2015-04-18","CBLOL 2015 Split 1 Playoffs","Final","INTZ","Keyd Stars","WWW","","dom","P"],
+    ["2015-04-24","International Wildcard Invitational 2015","Semifinal","INTZ","Hard Random","WWLW","","dom","P"],
+    ["2015-04-25","International Wildcard Invitational 2015","Final","INTZ","Beşiktaş Esports","WLLL","","dom","P"],
+    ["2015-07-18","CBLOL 2015 Split 2 Playoffs","Semifinal","INTZ","g3nerationX","WWLW","","dom","P"],
+    ["2015-08-08","CBLOL 2015 Split 2 Playoffs","Final","INTZ","paiN Gaming","LLL","","dom","P"],
+    ["2016-03-20","CBLOL 2016 Split 1 Playoffs","Semifinal","INTZ","Operation Kino e-Sports","WLWW","","dom","P"],
+    ["2016-04-02","CBLOL 2016 Split 1 Playoffs","Final","INTZ","Keyd Stars","WWW","","dom","P"],
+    ["2016-04-20","International Wildcard Invitational 2016","Semifinal","INTZ","Hard Random","LLL","","dom","P"],
+    ["2016-06-26","CBLOL 2016 Split 2 Playoffs","Semifinal","INTZ","paiN Gaming","WWLLW","","dom","P"],
+    ["2016-07-09","CBLOL 2016 Split 2 Playoffs","Final","INTZ","CNB e-Sports Club","WLWW","","dom","P"],
+    ["2016-09-03","International Wildcard Qualifier 2016","Final","INTZ","Dark Passage","WLWLW","","dom","P"],
+    ["2017-03-25","CBLOL 2017 Split 1 Playoffs","Semifinal","INTZ","Keyd Stars","LLWL","","dom","P"],
+    ["2017-08-19","CBLOL 2017 Split 2 Playoffs","Semifinal","INTZ","paiN Gaming","WLLL","","dom","P"],
+    ["2018-03-18","CBLOL 2018 Split 1 Playoffs","Round 2","Vivo Keyd","CNB e-Sports Club","WWW","","dom","P"],
+    ["2018-03-24","CBLOL 2018 Split 1 Playoffs","Round 3","Vivo Keyd","RED Canids","LWLWW","","dom","P"],
+    ["2018-04-07","CBLOL 2018 Split 1 Playoffs","Final","Vivo Keyd","KaBuM! Esports","LWLWL","","dom","P"],
+    ["2018-08-11","CBLOL 2018 Split 2 Playoffs","Round 1","Vivo Keyd","Razer Pichau Gaming","WWW","","dom","P"],
+    ["2018-08-18","CBLOL 2018 Split 2 Playoffs","Round 2","Vivo Keyd","CNB e-Sports Club","LWLWL","","dom","P"],
+    ["2018-12-15","Superliga ABCDE 2018","Semifinal","Vivo Keyd","INTZ","LLL","r","dom",""],
+    ["2019-04-27","CBLOL 2019 Split 2 Promotion","Promotion","Vivo Keyd","Team oNe eSports","LWLL","","dom","P"]
+  ],
+  "unknown": []
+}

@@ -1,1 +1,33 @@
-{"player":"Phantomles","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2018-03-19","Lega Prima Season 3 Playoffs","Quarterfinal","inFerno eSports","Team QLASH Academy","WWW","r","dom",""],["2018-03-26","Lega Prima Season 3 Playoffs","Semifinal","inFerno eSports","Team Forge","LLL","r","dom",""],["2019-07-22","PG Nationals 2019 Summer Playoffs","Semifinal","Racoon (Italian Team)","Outplayed","LLL","","dom","S"],["2020-03-12","PG Nationals 2020 Spring Playoffs","Semifinal","YDN Gamers","Samsung Morning Stars","WLWLW","","dom","S"],["2020-03-29","PG Nationals 2020 Spring Playoffs","Final","YDN Gamers","Racoon (Italian Team)","WLWW","","dom","S"],["2020-11-07","Prime League Pro Division 2021 Spring Promotion","Round 1","PENTA 1860","SK Gaming Prime","LLL","","dom","S"],["2020-11-13","Prime League Pro Division 2021 Spring Promotion","Round 1","PENTA 1860","mYinsanity","LWWLW","","dom","S"],["2020-11-14","Prime League Pro Division 2021 Spring Promotion","Round 2","PENTA 1860","Flayn eSports","LWLWW","","dom","S"],["2021-08-08","Prime League Pro Division 2021 Summer Playoffs","Final","PENTA 1860","Berlin International Gaming","LLL","","dom","S"],["2022-08-07","Prime League 1st Division 2022 Summer Playoffs","Round 2","SK Gaming Prime","Unicorns of Love Sexy Edition","LLL","","dom","S"],["2022-08-11","Prime League 1st Division 2022 Summer Playoffs","Semifinal","SK Gaming Prime","FC Schalke 04 Esports","LLL","","dom","S"],["2022-11-08","Prime Super Cup 2022","Semifinal","SK Gaming Prime","Berlin International Gaming","LLWL","","dom","S"],["2023-03-21","LFL Division 2 2023 Spring Playoffs","Round 2","Team Du Sud","Lille Esport","WLWLW","","dom","S"],["2023-04-02","LFL Division 2 2023 Spring Playoffs","Final","Team Du Sud","beGenius ESC","WWW","","dom","S"],["2023-09-12","Prime League 1st Division 2024 Promotion","Round 1","GamerLegion","DKB Diamonds","LWWLW","","dom","S"],["2023-09-18","Prime League 1st Division 2024 Promotion","Round 2","GamerLegion","NNO Prime","LLL","","dom","S"],["2023-09-21","Prime League 1st Division 2024 Promotion","Round 2","GamerLegion","Austrian Force willhaben","WLWW","","dom","S"],["2024-09-11","LFL Division 2 2025 Promotion","Round 1","Klanik Esport","Nameless (French Team)","WWLLW","","dom","S"],["2024-09-13","LFL Division 2 2025 Promotion","Round 2","Klanik Esport","Nameless (French Team)","LWLL","","dom","S"],["2024-10-22","Hitpoint Winter 2024 Main Event","Quarterfinal","eSuba","BRUTE","WLWLW","","dom","S"],["2024-10-29","Hitpoint Winter 2024 Main Event","Semifinal","eSuba","GLORE.FIFINE","WLWW","","dom","S"],["2024-11-03","Hitpoint Winter 2024 Main Event","Final","eSuba","Entropiq","LWLWW","","dom","S"],["2024-11-22","Sigma Cup 2024","Semifinal","eSuba","Team Phantasma","WWLLL","","dom","S"],["2024-11-23","Sigma Cup 2024","Third-Place Match","eSuba","Entropiq","LLL","","dom","S"],["2025-08-03","Sky Masters Season 3","Final","Nightbirds","CITA Kaizen","WLWLW","r","dom","S"]],"unknown":[]}
+{
+  "player": "Phantomles",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2018-03-19","Lega Prima Season 3 Playoffs","Quarterfinal","inFerno eSports","Team QLASH Academy","WWW","r","dom",""],
+    ["2018-03-26","Lega Prima Season 3 Playoffs","Semifinal","inFerno eSports","Team Forge","LLL","r","dom",""],
+    ["2019-07-22","PG Nationals 2019 Summer Playoffs","Semifinal","Racoon (Italian Team)","Outplayed","LLL","","dom","S"],
+    ["2020-03-12","PG Nationals 2020 Spring Playoffs","Semifinal","YDN Gamers","Samsung Morning Stars","WLWLW","","dom","S"],
+    ["2020-03-29","PG Nationals 2020 Spring Playoffs","Final","YDN Gamers","Racoon (Italian Team)","WLWW","","dom","S"],
+    ["2020-11-07","Prime League Pro Division 2021 Spring Promotion","Round 1","PENTA 1860","SK Gaming Prime","LLL","","dom","S"],
+    ["2020-11-13","Prime League Pro Division 2021 Spring Promotion","Round 1","PENTA 1860","mYinsanity","LWWLW","","dom","S"],
+    ["2020-11-14","Prime League Pro Division 2021 Spring Promotion","Round 2","PENTA 1860","Flayn eSports","LWLWW","","dom","S"],
+    ["2021-08-08","Prime League Pro Division 2021 Summer Playoffs","Final","PENTA 1860","Berlin International Gaming","LLL","","dom","S"],
+    ["2022-08-07","Prime League 1st Division 2022 Summer Playoffs","Round 2","SK Gaming Prime","Unicorns of Love Sexy Edition","LLL","","dom","S"],
+    ["2022-08-11","Prime League 1st Division 2022 Summer Playoffs","Semifinal","SK Gaming Prime","FC Schalke 04 Esports","LLL","","dom","S"],
+    ["2022-11-08","Prime Super Cup 2022","Semifinal","SK Gaming Prime","Berlin International Gaming","LLWL","","dom","S"],
+    ["2023-03-21","LFL Division 2 2023 Spring Playoffs","Round 2","Team Du Sud","Lille Esport","WLWLW","","dom","S"],
+    ["2023-04-02","LFL Division 2 2023 Spring Playoffs","Final","Team Du Sud","beGenius ESC","WWW","","dom","S"],
+    ["2023-09-12","Prime League 1st Division 2024 Promotion","Round 1","GamerLegion","DKB Diamonds","LWWLW","","dom","S"],
+    ["2023-09-18","Prime League 1st Division 2024 Promotion","Round 2","GamerLegion","NNO Prime","LLL","","dom","S"],
+    ["2023-09-21","Prime League 1st Division 2024 Promotion","Round 2","GamerLegion","Austrian Force willhaben","WLWW","","dom","S"],
+    ["2024-09-11","LFL Division 2 2025 Promotion","Round 1","Klanik Esport","Nameless (French Team)","WWLLW","","dom","S"],
+    ["2024-09-13","LFL Division 2 2025 Promotion","Round 2","Klanik Esport","Nameless (French Team)","LWLL","","dom","S"],
+    ["2024-10-22","Hitpoint Winter 2024 Main Event","Quarterfinal","eSuba","BRUTE","WLWLW","","dom","S"],
+    ["2024-10-29","Hitpoint Winter 2024 Main Event","Semifinal","eSuba","GLORE.FIFINE","WLWW","","dom","S"],
+    ["2024-11-03","Hitpoint Winter 2024 Main Event","Final","eSuba","Entropiq","LWLWW","","dom","S"],
+    ["2024-11-22","Sigma Cup 2024","Semifinal","eSuba","Team Phantasma","WWLLL","","dom","S"],
+    ["2024-11-23","Sigma Cup 2024","Third-Place Match","eSuba","Entropiq","LLL","","dom","S"],
+    ["2025-08-03","Sky Masters Season 3","Final","Nightbirds","CITA Kaizen","WLWLW","r","dom","S"]
+  ],
+  "unknown": []
+}

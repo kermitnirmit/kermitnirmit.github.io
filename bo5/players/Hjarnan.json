@@ -1,1 +1,46 @@
-{"player":"Hjarnan","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2014-04-11","EU Challenger Series 2014 Spring Playoffs","Final","Cloud9 Eclipse","Ninjas in Pyjamas","WWLW","","dom","S"],["2014-04-25","EU LCS 2014 Summer Promotion","Promo","Cloud9 Eclipse","SUPA HOT CREW","LLL","","dom","P"],["2014-05-11","LoL Pro League Season I","Final","Cloud9 Eclipse","RoX (2014 CIS Team)","WWW","r","dom","S"],["2014-08-08","EU Challenger Series 2014 Summer Playoffs","Final","H2k-Gaming","SK Gaming Prime","WWLLW","","dom","S"],["2014-09-09","EU LCS 2015 Spring Promotion","Promo","H2k-Gaming","Copenhagen Wolves","LLL","","dom","P"],["2014-11-17","Challenger FaceOff 3","Final","H2k-Gaming","n!faculty","WWW","r","dom",""],["2014-12-18","EU LCS 2015 Spring Expansion","Offline","H2k-Gaming","n!faculty","WWW","","dom","P"],["2014-12-20","EU LCS 2015 Spring Expansion","Offline","H2k-Gaming","Giants Gaming","WWW","","dom","P"],["2015-04-04","EU LCS 2015 Spring Playoffs","Quarterfinal","H2k-Gaming","Copenhagen Wolves","WWW","","dom","P"],["2015-04-11","EU LCS 2015 Spring Playoffs","Semifinal","H2k-Gaming","Fnatic","WLWLL","","dom","P"],["2015-04-18","EU LCS 2015 Spring Playoffs","Third-Place Match","H2k-Gaming","SK Gaming","LLWWW","","dom","P"],["2015-08-08","EU LCS 2015 Summer Playoffs","Quarterfinal","H2k-Gaming","Giants Gaming","WWW","","dom","P"],["2015-08-15","EU LCS 2015 Summer Playoffs","Semifinal","H2k-Gaming","Origen","LLWL","","dom","P"],["2015-08-22","EU LCS 2015 Summer Playoffs","Third-Place Match","H2k-Gaming","Unicorns of Love","WWW","","dom","P"],["2016-04-02","EU LCS 2016 Spring Playoffs","Quarterfinal","Team Vitality","Fnatic","LLWL","","dom","P"],["2018-03-30","EU LCS 2018 Spring Playoffs","Semifinal","G2 Esports","Splyce","LWWW","","dom","P"],["2018-04-08","EU LCS 2018 Spring Playoffs","Final","G2 Esports","Fnatic","LLL","","dom","P"],["2018-08-25","EU LCS 2018 Summer Playoffs","Quarterfinal","G2 Esports","Misfits Gaming","LLL","","dom","P"],["2018-09-15","EU LCS 2018 Regional Finals","Round 2","G2 Esports","Splyce","LWLWW","","dom","P"],["2018-09-16","EU LCS 2018 Regional Finals","Round 3","G2 Esports","FC Schalke 04 Esports","WLWW","","dom","P"],["2018-10-07","Worlds 2018","Round 2","G2 Esports","INFINITY","LWWW","","worlds","P"],["2018-10-20","Worlds 2018","Quarterfinal","G2 Esports","Royal Never Give Up","LWLWW","","worlds","P"],["2018-10-27","Worlds 2018","Semifinal","G2 Esports","Invictus Gaming","LLL","","worlds","P"],["2019-03-24","Premier Tour 2018 Winter/Stop 4 - Berlin","Final","ad hoc gaming","Berlin International Gaming","LWLWL","","dom","S"],["2019-03-27","Summoner's Inn League Season 2 Playoffs","Round 2","ad hoc gaming","FC Schalke 04 Evolution","WWW","r","dom",""],["2019-04-02","Summoner's Inn League Season 2 Playoffs","Final","ad hoc gaming","SK Gaming Prime","WLWLL","r","dom",""],["2019-09-01","UK League Championship 2019 Summer Playoffs","Final","Excel UK","Fnatic Rising","LLWL","","dom","S"],["2020-03-19","Prime League Pro Division 2020 Spring Playoffs","Round 3","GamerLegion","mousesports","LLWWL","","dom","S"],["2020-09-20","European Masters 2020 Summer Main Event","Final","GamerLegion","AGO ROGUE","LLL","","dom","S"],["2020-10-14","Prime League Pro Division 2020 Grand Final","Round 1","GamerLegion","FC Schalke 04 Evolution","LWWW","","dom","S"],["2020-10-23","Prime League Pro Division 2020 Grand Final","Semifinal","GamerLegion","mousesports","LLL","","dom","S"],["2020-10-28","Prime League Pro Division 2020 Grand Final","Semifinal","GamerLegion","FC Schalke 04 Evolution","LLL","","dom","S"],["2021-10-26","Prime League Pro Division 2021 Winter Cup","Round 2","GamerLegion","Berlin International Gaming","LLWL","","dom","S"],["2024-04-04","Prime League 2nd Division 2024 Spring Playoffs","Semifinal","Kaufland Hangry Knights","TeamOrangeGaming","LLL","","dom","S"]],"unknown":[["2014-01-12","SCAN EUW Winter Invitational","Final","Cloud9 Europe","Gamers2","3-1","","dom",""],["2014-03-19","Kaos TV Challenger Series EUW Week 20 Cup","Final","Cloud9 Eclipse","Departed","3-1","","dom",""],["2014-05-10","LoL Pro League Season I","Semifinal","Cloud9 Eclipse","Gamers2","3-1","","dom","S"]]}
+{
+  "player": "Hjarnan",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2014-04-11","EU Challenger Series 2014 Spring Playoffs","Final","Cloud9 Eclipse","Ninjas in Pyjamas","WWLW","","dom","S"],
+    ["2014-04-25","EU LCS 2014 Summer Promotion","Promo","Cloud9 Eclipse","SUPA HOT CREW","LLL","","dom","P"],
+    ["2014-05-11","LoL Pro League Season I","Final","Cloud9 Eclipse","RoX (2014 CIS Team)","WWW","r","dom","S"],
+    ["2014-08-08","EU Challenger Series 2014 Summer Playoffs","Final","H2k-Gaming","SK Gaming Prime","WWLLW","","dom","S"],
+    ["2014-09-09","EU LCS 2015 Spring Promotion","Promo","H2k-Gaming","Copenhagen Wolves","LLL","","dom","P"],
+    ["2014-11-17","Challenger FaceOff 3","Final","H2k-Gaming","n!faculty","WWW","r","dom",""],
+    ["2014-12-18","EU LCS 2015 Spring Expansion","Offline","H2k-Gaming","n!faculty","WWW","","dom","P"],
+    ["2014-12-20","EU LCS 2015 Spring Expansion","Offline","H2k-Gaming","Giants Gaming","WWW","","dom","P"],
+    ["2015-04-04","EU LCS 2015 Spring Playoffs","Quarterfinal","H2k-Gaming","Copenhagen Wolves","WWW","","dom","P"],
+    ["2015-04-11","EU LCS 2015 Spring Playoffs","Semifinal","H2k-Gaming","Fnatic","WLWLL","","dom","P"],
+    ["2015-04-18","EU LCS 2015 Spring Playoffs","Third-Place Match","H2k-Gaming","SK Gaming","LLWWW","","dom","P"],
+    ["2015-08-08","EU LCS 2015 Summer Playoffs","Quarterfinal","H2k-Gaming","Giants Gaming","WWW","","dom","P"],
+    ["2015-08-15","EU LCS 2015 Summer Playoffs","Semifinal","H2k-Gaming","Origen","LLWL","","dom","P"],
+    ["2015-08-22","EU LCS 2015 Summer Playoffs","Third-Place Match","H2k-Gaming","Unicorns of Love","WWW","","dom","P"],
+    ["2016-04-02","EU LCS 2016 Spring Playoffs","Quarterfinal","Team Vitality","Fnatic","LLWL","","dom","P"],
+    ["2018-03-30","EU LCS 2018 Spring Playoffs","Semifinal","G2 Esports","Splyce","LWWW","","dom","P"],
+    ["2018-04-08","EU LCS 2018 Spring Playoffs","Final","G2 Esports","Fnatic","LLL","","dom","P"],
+    ["2018-08-25","EU LCS 2018 Summer Playoffs","Quarterfinal","G2 Esports","Misfits Gaming","LLL","","dom","P"],
+    ["2018-09-15","EU LCS 2018 Regional Finals","Round 2","G2 Esports","Splyce","LWLWW","","dom","P"],
+    ["2018-09-16","EU LCS 2018 Regional Finals","Round 3","G2 Esports","FC Schalke 04 Esports","WLWW","","dom","P"],
+    ["2018-10-07","Worlds 2018","Round 2","G2 Esports","INFINITY","LWWW","","worlds","P"],
+    ["2018-10-20","Worlds 2018","Quarterfinal","G2 Esports","Royal Never Give Up","LWLWW","","worlds","P"],
+    ["2018-10-27","Worlds 2018","Semifinal","G2 Esports","Invictus Gaming","LLL","","worlds","P"],
+    ["2019-03-24","Premier Tour 2018 Winter/Stop 4 - Berlin","Final","ad hoc gaming","Berlin International Gaming","LWLWL","","dom","S"],
+    ["2019-03-27","Summoner's Inn League Season 2 Playoffs","Round 2","ad hoc gaming","FC Schalke 04 Evolution","WWW","r","dom",""],
+    ["2019-04-02","Summoner's Inn League Season 2 Playoffs","Final","ad hoc gaming","SK Gaming Prime","WLWLL","r","dom",""],
+    ["2019-09-01","UK League Championship 2019 Summer Playoffs","Final","Excel UK","Fnatic Rising","LLWL","","dom","S"],
+    ["2020-03-19","Prime League Pro Division 2020 Spring Playoffs","Round 3","GamerLegion","mousesports","LLWWL","","dom","S"],
+    ["2020-09-20","European Masters 2020 Summer Main Event","Final","GamerLegion","AGO ROGUE","LLL","","dom","S"],
+    ["2020-10-14","Prime League Pro Division 2020 Grand Final","Round 1","GamerLegion","FC Schalke 04 Evolution","LWWW","","dom","S"],
+    ["2020-10-23","Prime League Pro Division 2020 Grand Final","Semifinal","GamerLegion","mousesports","LLL","","dom","S"],
+    ["2020-10-28","Prime League Pro Division 2020 Grand Final","Semifinal","GamerLegion","FC Schalke 04 Evolution","LLL","","dom","S"],
+    ["2021-10-26","Prime League Pro Division 2021 Winter Cup","Round 2","GamerLegion","Berlin International Gaming","LLWL","","dom","S"],
+    ["2024-04-04","Prime League 2nd Division 2024 Spring Playoffs","Semifinal","Kaufland Hangry Knights","TeamOrangeGaming","LLL","","dom","S"]
+  ],
+  "unknown": [
+    ["2014-01-12","SCAN EUW Winter Invitational","Final","Cloud9 Europe","Gamers2","3-1","","dom",""],
+    ["2014-03-19","Kaos TV Challenger Series EUW Week 20 Cup","Final","Cloud9 Eclipse","Departed","3-1","","dom",""],
+    ["2014-05-10","LoL Pro League Season I","Semifinal","Cloud9 Eclipse","Gamers2","3-1","","dom","S"]
+  ]
+}

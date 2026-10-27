@@ -1,1 +1,30 @@
-{"player":"Luana","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2018-08-14","TCS 2018 Summer Playoffs","Semifinal","Pars eSports","Galakticos","WLWW","","dom","S"],["2018-08-28","TCS 2018 Summer Playoffs","Final","Pars eSports","Beşiktaş Esports","LLL","","dom","S"],["2018-09-03","TCL 2019 Winter Qualifiers","Round 1","Pars eSports","YouthCrew Esports","WWLW","","dom","P"],["2018-09-05","TCL 2019 Winter Qualifiers","Final","Pars eSports","YouthCrew Esports","WWW","","dom","P"],["2019-03-22","Turkey Academy League 2019 Winter Playoffs","Semifinal","SuperMassive Academy","HWA Gaming Academy","WWLLL","","dom","S"],["2019-08-08","Turkey Academy League 2019 Summer Playoffs","Semifinal","SuperMassive Academy","Istanbul Wildcats Academy","LLL","","dom","S"],["2020-04-28","TCL 2020 Winter Playoffs","Quarterfinal","Galakticos","Istanbul Wildcats","LLL","","dom","P"],["2020-08-23","TCL 2020 Summer Playoffs","Semifinal","Galakticos","Papara SuperMassive","LLL","","dom","P"],["2021-04-04","TCL 2021 Winter Playoffs","Quarterfinal","Galatasaray Esports","Dark Passage","WWW","","dom","P"],["2021-04-11","TCL 2021 Winter Playoffs","Semifinal","Galatasaray Esports","Istanbul Wildcats","WWLLL","","dom","P"],["2021-08-10","Turkey Academy League 2021 Summer Playoffs","Semifinal","Galatasaray Academy","SuperMassive Blaze Academy","LLL","","dom","S"],["2022-03-26","TCL 2022 Winter Playoffs","Quarterfinal","Dark Passage","NASR eSports Turkey","WWLLW","","dom","P"],["2022-04-02","TCL 2022 Winter Playoffs","Semifinal","Dark Passage","Galatasaray Esports","LLWL","","dom","P"],["2023-08-13","TCL Division 2 2023 Summer Playoffs","Round 2","Always With Honor (Turkish Team)","Looking for ORG (Turkish Team)","WWW","","dom","S"],["2023-08-25","TCL Division 2 2023 Summer Playoffs","Final","Always With Honor (Turkish Team)","Looking for ORG (Turkish Team)","WLWW","","dom","S"],["2024-03-20","TCL 2024 Winter Playoffs","Round 1","Dark Passage","FUT Esports","WLWLW","","dom","S"],["2024-03-24","TCL 2024 Winter Playoffs","Round 2","Dark Passage","BoostGate Esports","LLWL","","dom","S"],["2024-04-20","Saudi eLeagues 2024 Season 1","Grand Finals","XO Esports","Geekay Esports","WWW","r","dom","S"],["2024-07-20","TCL 2024 Summer Playoffs","Round 1","Misa Esports","FUT Esports","LLL","","dom","S"],["2024-08-02","EMEA Masters 2024 Summer LCQ","Round 3","Misa Esports","NORD Esports","LWWW","","dom","S"],["2026-10-10","TCL 2027 Promotion","Round 1","BoostGate Esports","Shark Attack","LLWWL","","dom","S"],["2026-10-11","TCL 2027 Promotion","Round 2","BoostGate Esports","ITU Rangers","LLL","","dom","S"]],"unknown":[]}
+{
+  "player": "Luana",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2018-08-14","TCS 2018 Summer Playoffs","Semifinal","Pars eSports","Galakticos","WLWW","","dom","S"],
+    ["2018-08-28","TCS 2018 Summer Playoffs","Final","Pars eSports","Beşiktaş Esports","LLL","","dom","S"],
+    ["2018-09-03","TCL 2019 Winter Qualifiers","Round 1","Pars eSports","YouthCrew Esports","WWLW","","dom","P"],
+    ["2018-09-05","TCL 2019 Winter Qualifiers","Final","Pars eSports","YouthCrew Esports","WWW","","dom","P"],
+    ["2019-03-22","Turkey Academy League 2019 Winter Playoffs","Semifinal","SuperMassive Academy","HWA Gaming Academy","WWLLL","","dom","S"],
+    ["2019-08-08","Turkey Academy League 2019 Summer Playoffs","Semifinal","SuperMassive Academy","Istanbul Wildcats Academy","LLL","","dom","S"],
+    ["2020-04-28","TCL 2020 Winter Playoffs","Quarterfinal","Galakticos","Istanbul Wildcats","LLL","","dom","P"],
+    ["2020-08-23","TCL 2020 Summer Playoffs","Semifinal","Galakticos","Papara SuperMassive","LLL","","dom","P"],
+    ["2021-04-04","TCL 2021 Winter Playoffs","Quarterfinal","Galatasaray Esports","Dark Passage","WWW","","dom","P"],
+    ["2021-04-11","TCL 2021 Winter Playoffs","Semifinal","Galatasaray Esports","Istanbul Wildcats","WWLLL","","dom","P"],
+    ["2021-08-10","Turkey Academy League 2021 Summer Playoffs","Semifinal","Galatasaray Academy","SuperMassive Blaze Academy","LLL","","dom","S"],
+    ["2022-03-26","TCL 2022 Winter Playoffs","Quarterfinal","Dark Passage","NASR eSports Turkey","WWLLW","","dom","P"],
+    ["2022-04-02","TCL 2022 Winter Playoffs","Semifinal","Dark Passage","Galatasaray Esports","LLWL","","dom","P"],
+    ["2023-08-13","TCL Division 2 2023 Summer Playoffs","Round 2","Always With Honor (Turkish Team)","Looking for ORG (Turkish Team)","WWW","","dom","S"],
+    ["2023-08-25","TCL Division 2 2023 Summer Playoffs","Final","Always With Honor (Turkish Team)","Looking for ORG (Turkish Team)","WLWW","","dom","S"],
+    ["2024-03-20","TCL 2024 Winter Playoffs","Round 1","Dark Passage","FUT Esports","WLWLW","","dom","S"],
+    ["2024-03-24","TCL 2024 Winter Playoffs","Round 2","Dark Passage","BoostGate Esports","LLWL","","dom","S"],
+    ["2024-04-20","Saudi eLeagues 2024 Season 1","Grand Finals","XO Esports","Geekay Esports","WWW","r","dom","S"],
+    ["2024-07-20","TCL 2024 Summer Playoffs","Round 1","Misa Esports","FUT Esports","LLL","","dom","S"],
+    ["2024-08-02","EMEA Masters 2024 Summer LCQ","Round 3","Misa Esports","NORD Esports","LWWW","","dom","S"],
+    ["2026-10-10","TCL 2027 Promotion","Round 1","BoostGate Esports","Shark Attack","LLWWL","","dom","S"],
+    ["2026-10-11","TCL 2027 Promotion","Round 2","BoostGate Esports","ITU Rangers","LLL","","dom","S"]
+  ],
+  "unknown": []
+}

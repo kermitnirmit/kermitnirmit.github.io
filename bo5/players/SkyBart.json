@@ -1,1 +1,37 @@
-{"player":"SkyBart","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2015-03-29","CBLOL 2015 Split 1 Playoffs","Semifinal","KaBuM! Black","Keyd Stars","LLL","","dom","P"],["2015-04-04","CBLOL 2015 Split 1 Playoffs","Third-Place Match","KaBuM! Black","paiN Gaming","LWWLL","","dom","P"],["2015-11-06","CBLOL 2016 Split 1 Promotion","Qual","JAYOB e-Sports","KaBuM! Black","WWLLL","","dom","P"],["2016-03-20","CBLOL 2016 Split 1 Playoffs","Semifinal","Operation Kino e-Sports","INTZ","LWLL","","dom","P"],["2016-07-22","CBLOL 2017 Split 1 Promotion","Qual","Operation Kino e-Sports","e-Champ Gaming","WWLW","","dom","P"],["2016-09-25","Copa Go4gold 2016","Final","ProGaming Esports","Team Genesis","LLL","r","dom","S"],["2017-03-09","Brazilian Challenger Circuit 2017 Split 1 Playoffs","Semifinal","ProGaming Esports","T Show","WLWLL","","dom","S"],["2017-03-19","CBLOL 2017 Split 2 Promotion","Promotion","ProGaming Esports","KaBuM! Esports","WLWLW","","dom","P"],["2017-12-23","Superliga ABCDE 2017","Final","ProGaming Esports","INTZ","LLL","r","dom",""],["2018-03-17","CBLOL 2018 Split 1 Playoffs","Round 1","ProGaming Esports","CNB e-Sports Club","LWLWL","","dom","P"],["2019-04-01","Brazilian Challenger Circuit 2019 Split 1 Playoffs","Semifinal","Team oNe eSports","RED Canids","WLWW","","dom","S"],["2019-04-20","Brazilian Challenger Circuit 2019 Split 1 Playoffs","Final","Team oNe eSports","paiN Gaming","LLL","","dom","S"],["2019-04-27","CBLOL 2019 Split 2 Promotion","Promotion","Team oNe eSports","Vivo Keyd","WLWW","","dom","P"],["2020-05-12","Brazilian Challenger Circuit 2020 Split 1 Playoffs","Semifinal","Team oNe eSports","Havan Liberty Gaming","WLWW","","dom","S"],["2020-05-16","Brazilian Challenger Circuit 2020 Split 1 Playoffs","Final","Team oNe eSports","Santos e-Sports","LLL","","dom","S"],["2020-05-19","CBLOL 2020 Split 2 Promotion","Promotion","Team oNe eSports","INTZ","LWWLL","","dom","P"],["2020-08-11","Brazilian Challenger Circuit 2020 Split 2 Playoffs","Semifinal","Team oNe eSports","Rensga Esports","WWLW","","dom","S"],["2020-08-15","Brazilian Challenger Circuit 2020 Split 2 Playoffs","Final","Team oNe eSports","RED Canids","LWLL","","dom","S"],["2021-08-11","CBLOL Academy 2021 Split 2 Playoffs","Quarterfinal","paiN Gaming Academy","LOUD Academy","WWW","","dom","S"],["2021-08-25","CBLOL Academy 2021 Split 2 Playoffs","Semifinal","paiN Gaming Academy","Vorax Liberty Academy","WLWW","","dom","S"],["2021-08-28","CBLOL Academy 2021 Split 2 Playoffs","Final","paiN Gaming Academy","Flamengo Academy","LLWL","","dom","S"],["2022-04-06","CBLOL Academy 2022 Split 1 Playoffs","Quarterfinal","paiN Gaming Academy","INTZ Academy","LWLWW","","dom","S"],["2022-04-13","CBLOL Academy 2022 Split 1 Playoffs","Semifinal","paiN Gaming Academy","Netshoes Miners Academy","WWW","","dom","S"],["2022-04-16","CBLOL Academy 2022 Split 1 Playoffs","Final","paiN Gaming Academy","Flamengo Academy","LWLWL","","dom","S"],["2022-08-22","CBLOL Academy 2022 Split 2 Playoffs","Semifinal","paiN Gaming Academy","LOUD Academy","WWW","","dom","S"],["2022-09-10","CBLOL Academy 2022 Split 2 Playoffs","Final","paiN Gaming Academy","RED Academy","WWW","","dom","S"]],"unknown":[["2016-09-23","Copa Go4gold 2016","Semifinal","ProGaming Esports","CNB Infinity","3-2","","dom","S"],["2017-12-16","Superliga ABCDE 2017","Semifinal","ProGaming Esports","Team oNe eSports","3-1","","dom",""]]}
+{
+  "player": "SkyBart",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2015-03-29","CBLOL 2015 Split 1 Playoffs","Semifinal","KaBuM! Black","Keyd Stars","LLL","","dom","P"],
+    ["2015-04-04","CBLOL 2015 Split 1 Playoffs","Third-Place Match","KaBuM! Black","paiN Gaming","LWWLL","","dom","P"],
+    ["2015-11-06","CBLOL 2016 Split 1 Promotion","Qual","JAYOB e-Sports","KaBuM! Black","WWLLL","","dom","P"],
+    ["2016-03-20","CBLOL 2016 Split 1 Playoffs","Semifinal","Operation Kino e-Sports","INTZ","LWLL","","dom","P"],
+    ["2016-07-22","CBLOL 2017 Split 1 Promotion","Qual","Operation Kino e-Sports","e-Champ Gaming","WWLW","","dom","P"],
+    ["2016-09-25","Copa Go4gold 2016","Final","ProGaming Esports","Team Genesis","LLL","r","dom","S"],
+    ["2017-03-09","Brazilian Challenger Circuit 2017 Split 1 Playoffs","Semifinal","ProGaming Esports","T Show","WLWLL","","dom","S"],
+    ["2017-03-19","CBLOL 2017 Split 2 Promotion","Promotion","ProGaming Esports","KaBuM! Esports","WLWLW","","dom","P"],
+    ["2017-12-23","Superliga ABCDE 2017","Final","ProGaming Esports","INTZ","LLL","r","dom",""],
+    ["2018-03-17","CBLOL 2018 Split 1 Playoffs","Round 1","ProGaming Esports","CNB e-Sports Club","LWLWL","","dom","P"],
+    ["2019-04-01","Brazilian Challenger Circuit 2019 Split 1 Playoffs","Semifinal","Team oNe eSports","RED Canids","WLWW","","dom","S"],
+    ["2019-04-20","Brazilian Challenger Circuit 2019 Split 1 Playoffs","Final","Team oNe eSports","paiN Gaming","LLL","","dom","S"],
+    ["2019-04-27","CBLOL 2019 Split 2 Promotion","Promotion","Team oNe eSports","Vivo Keyd","WLWW","","dom","P"],
+    ["2020-05-12","Brazilian Challenger Circuit 2020 Split 1 Playoffs","Semifinal","Team oNe eSports","Havan Liberty Gaming","WLWW","","dom","S"],
+    ["2020-05-16","Brazilian Challenger Circuit 2020 Split 1 Playoffs","Final","Team oNe eSports","Santos e-Sports","LLL","","dom","S"],
+    ["2020-05-19","CBLOL 2020 Split 2 Promotion","Promotion","Team oNe eSports","INTZ","LWWLL","","dom","P"],
+    ["2020-08-11","Brazilian Challenger Circuit 2020 Split 2 Playoffs","Semifinal","Team oNe eSports","Rensga Esports","WWLW","","dom","S"],
+    ["2020-08-15","Brazilian Challenger Circuit 2020 Split 2 Playoffs","Final","Team oNe eSports","RED Canids","LWLL","","dom","S"],
+    ["2021-08-11","CBLOL Academy 2021 Split 2 Playoffs","Quarterfinal","paiN Gaming Academy","LOUD Academy","WWW","","dom","S"],
+    ["2021-08-25","CBLOL Academy 2021 Split 2 Playoffs","Semifinal","paiN Gaming Academy","Vorax Liberty Academy","WLWW","","dom","S"],
+    ["2021-08-28","CBLOL Academy 2021 Split 2 Playoffs","Final","paiN Gaming Academy","Flamengo Academy","LLWL","","dom","S"],
+    ["2022-04-06","CBLOL Academy 2022 Split 1 Playoffs","Quarterfinal","paiN Gaming Academy","INTZ Academy","LWLWW","","dom","S"],
+    ["2022-04-13","CBLOL Academy 2022 Split 1 Playoffs","Semifinal","paiN Gaming Academy","Netshoes Miners Academy","WWW","","dom","S"],
+    ["2022-04-16","CBLOL Academy 2022 Split 1 Playoffs","Final","paiN Gaming Academy","Flamengo Academy","LWLWL","","dom","S"],
+    ["2022-08-22","CBLOL Academy 2022 Split 2 Playoffs","Semifinal","paiN Gaming Academy","LOUD Academy","WWW","","dom","S"],
+    ["2022-09-10","CBLOL Academy 2022 Split 2 Playoffs","Final","paiN Gaming Academy","RED Academy","WWW","","dom","S"]
+  ],
+  "unknown": [
+    ["2016-09-23","Copa Go4gold 2016","Semifinal","ProGaming Esports","CNB Infinity","3-2","","dom","S"],
+    ["2017-12-16","Superliga ABCDE 2017","Semifinal","ProGaming Esports","Team oNe eSports","3-1","","dom",""]
+  ]
+}

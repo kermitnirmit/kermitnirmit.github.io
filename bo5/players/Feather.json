@@ -1,1 +1,33 @@
-{"player":"Feather","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2021-07-20","LDL 2021 Summer Cup","Quarterfinal","Joy Dream","V5 87","WWW","","dom","S"],["2021-07-23","LDL 2021 Summer Cup","Semifinal","Joy Dream","bilibili Team Model","LWWW","","dom","S"],["2021-07-27","LDL 2021 Summer Cup","Final","Joy Dream","Royal Club","WLWLW","","dom","S"],["2021-08-28","LDL 2021 Summer Playoffs","Quarterfinal","Joy Dream","Team Pinnacle","WLWLW","","dom","S"],["2021-09-06","LDL 2021 Summer Playoffs","Semifinal","Joy Dream","Royal Club","LWLWL","","dom","S"],["2022-04-13","LDL 2022 Spring Playoffs","Round 1","Joy Dream","Young Miracles","WLWLW","","dom","S"],["2022-04-15","LDL 2022 Spring Playoffs","Round 2","Joy Dream","Bilibili Gaming Junior","LLWL","","dom","S"],["2022-12-24","Demacia Cup 2022","Quarterfinal","JD Gaming","ThunderTalk Gaming","LLL","","dom","P"],["2023-03-23","LDL 2023 Replacements 1","Replacements","Joy Dream","ThunderTalk Gaming Young","WWW","","dom","S"],["2024-08-05","LPL 2024 Summer Playoffs","Play-In","ThunderTalk Gaming","Oh My God","WWW","","dom","P"],["2024-08-11","LPL 2024 Summer Playoffs","Round 1","ThunderTalk Gaming","FunPlus Phoenix","WLLWL","","dom","P"],["2024-12-27","Demacia Cup 2024","Semifinal","ThunderTalk Gaming","Top Esports","LLL","r","dom","P"],["2025-01-13","LPL 2025 Split 1","","ThunderTalk Gaming","LNG Esports","LWWW","","dom","P"],["2025-01-21","LPL 2025 Split 1","","ThunderTalk Gaming","EDward Gaming","LWWW","","dom","P"],["2025-02-14","LPL 2025 Split 1","","ThunderTalk Gaming","Bilibili Gaming","WWLLW","","dom","P"],["2025-02-22","LPL 2025 Split 1 Playoffs","Round 2","ThunderTalk Gaming","JD Gaming","LWLL","","dom","P"],["2025-02-24","LPL 2025 Split 1 Playoffs","Round 2","ThunderTalk Gaming","Bilibili Gaming","WLLL","","dom","P"],["2025-05-27","LPL 2025 Split 2 Playoffs","Play-In","ThunderTalk Gaming","Weibo Gaming","LLL","","dom","P"],["2026-02-10","LPL 2026 Split 1 Playoffs","Play-In Round 2","ThunderTalk Gaming","LNG Esports","LLL","","dom","P"],["2026-05-23","LPL 2026 Split 2 Playoffs","Play-In","ThunderTalk Gaming","Invictus Gaming","WWW","","dom","P"],["2026-05-29","LPL 2026 Split 2 Playoffs","Round 1","ThunderTalk Gaming","JD Gaming","WLLL","","dom","P"],["2026-06-02","LPL 2026 Split 2 Playoffs","Round 1","ThunderTalk Gaming","LGD Gaming","LLWWL","","dom","P"],["2026-08-28","LPL 2026 Grand Finals","Knight's Road","ThunderTalk Gaming","Invictus Gaming","LLL","","dom","P"]],"unknown":[["2021-08-25","LDL 2021 Summer Playoffs","Round 1","Joy Dream","V5 87","3-1","LWW","dom","S"]]}
+{
+  "player": "Feather",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2021-07-20","LDL 2021 Summer Cup","Quarterfinal","Joy Dream","V5 87","WWW","","dom","S"],
+    ["2021-07-23","LDL 2021 Summer Cup","Semifinal","Joy Dream","bilibili Team Model","LWWW","","dom","S"],
+    ["2021-07-27","LDL 2021 Summer Cup","Final","Joy Dream","Royal Club","WLWLW","","dom","S"],
+    ["2021-08-28","LDL 2021 Summer Playoffs","Quarterfinal","Joy Dream","Team Pinnacle","WLWLW","","dom","S"],
+    ["2021-09-06","LDL 2021 Summer Playoffs","Semifinal","Joy Dream","Royal Club","LWLWL","","dom","S"],
+    ["2022-04-13","LDL 2022 Spring Playoffs","Round 1","Joy Dream","Young Miracles","WLWLW","","dom","S"],
+    ["2022-04-15","LDL 2022 Spring Playoffs","Round 2","Joy Dream","Bilibili Gaming Junior","LLWL","","dom","S"],
+    ["2022-12-24","Demacia Cup 2022","Quarterfinal","JD Gaming","ThunderTalk Gaming","LLL","","dom","P"],
+    ["2023-03-23","LDL 2023 Replacements 1","Replacements","Joy Dream","ThunderTalk Gaming Young","WWW","","dom","S"],
+    ["2024-08-05","LPL 2024 Summer Playoffs","Play-In","ThunderTalk Gaming","Oh My God","WWW","","dom","P"],
+    ["2024-08-11","LPL 2024 Summer Playoffs","Round 1","ThunderTalk Gaming","FunPlus Phoenix","WLLWL","","dom","P"],
+    ["2024-12-27","Demacia Cup 2024","Semifinal","ThunderTalk Gaming","Top Esports","LLL","r","dom","P"],
+    ["2025-01-13","LPL 2025 Split 1","","ThunderTalk Gaming","LNG Esports","LWWW","","dom","P"],
+    ["2025-01-21","LPL 2025 Split 1","","ThunderTalk Gaming","EDward Gaming","LWWW","","dom","P"],
+    ["2025-02-14","LPL 2025 Split 1","","ThunderTalk Gaming","Bilibili Gaming","WWLLW","","dom","P"],
+    ["2025-02-22","LPL 2025 Split 1 Playoffs","Round 2","ThunderTalk Gaming","JD Gaming","LWLL","","dom","P"],
+    ["2025-02-24","LPL 2025 Split 1 Playoffs","Round 2","ThunderTalk Gaming","Bilibili Gaming","WLLL","","dom","P"],
+    ["2025-05-27","LPL 2025 Split 2 Playoffs","Play-In","ThunderTalk Gaming","Weibo Gaming","LLL","","dom","P"],
+    ["2026-02-10","LPL 2026 Split 1 Playoffs","Play-In Round 2","ThunderTalk Gaming","LNG Esports","LLL","","dom","P"],
+    ["2026-05-23","LPL 2026 Split 2 Playoffs","Play-In","ThunderTalk Gaming","Invictus Gaming","WWW","","dom","P"],
+    ["2026-05-29","LPL 2026 Split 2 Playoffs","Round 1","ThunderTalk Gaming","JD Gaming","WLLL","","dom","P"],
+    ["2026-06-02","LPL 2026 Split 2 Playoffs","Round 1","ThunderTalk Gaming","LGD Gaming","LLWWL","","dom","P"],
+    ["2026-08-28","LPL 2026 Grand Finals","Knight's Road","ThunderTalk Gaming","Invictus Gaming","LLL","","dom","P"]
+  ],
+  "unknown": [
+    ["2021-08-25","LDL 2021 Summer Playoffs","Round 1","Joy Dream","V5 87","3-1","LWW","dom","S"]
+  ]
+}

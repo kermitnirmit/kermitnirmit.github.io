@@ -1,1 +1,30 @@
-{"player":"Heng","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2021-05-11","LDL 2021 Spring Playoffs","Semifinal","Young Miracles","Shu Dai Xiong Gaming","WWW","","dom","S"],["2021-05-12","LDL 2021 Spring Playoffs","Final","Young Miracles","FunPlus Phoenix Blaze","WWLW","","dom","S"],["2022-04-13","LDL 2022 Spring Playoffs","Round 1","Young Miracles","Joy Dream","LWLWL","","dom","S"],["2022-08-17","LDL 2022 Summer Playoffs","Round 2","Young Miracles","FunPlus Phoenix Blaze","LLL","","dom","S"],["2023-03-31","LPL 2023 Spring Playoffs","Round 1","Team WE","Top Esports","LLWL","","dom","P"],["2023-07-20","LPL 2023 Summer Playoffs","Round 1","Team WE","EDward Gaming","LWLL","","dom","P"],["2024-03-31","LPL 2024 Spring Playoffs","Round 1","Team WE","Oh My God","LWWW","","dom","P"],["2024-04-02","LPL 2024 Spring Playoffs","Round 2","Team WE","Ninjas in Pyjamas.CN","WLWLL","","dom","P"],["2025-01-12","LPL 2025 Split 1","","Oh My God","Weibo Gaming","LLL","","dom","P"],["2025-01-23","LPL 2025 Split 1","","Oh My God","JD Gaming","WLWLL","","dom","P"],["2025-02-12","LPL 2025 Split 1","","Oh My God","Ultra Prime","WLLWW","","dom","P"],["2025-12-29","Demacia Cup 2025","Quarterfinal","LGD Gaming","Anyone's Legend","WWW","","dom","P"],["2026-01-02","Demacia Cup 2025","Semifinal","LGD Gaming","JD Gaming","LLL","","dom","P"],["2026-05-24","LPL 2026 Split 2 Playoffs","Play-In","LGD Gaming","Weibo Gaming","WWLLW","","dom","P"],["2026-05-29","LPL 2026 Split 2 Playoffs","Round 1","LGD Gaming","Top Esports","LLL","","dom","P"],["2026-06-02","LPL 2026 Split 2 Playoffs","Round 1","LGD Gaming","ThunderTalk Gaming","WWLLW","","dom","P"],["2026-06-05","LPL 2026 Split 2 Playoffs","Round 2","LGD Gaming","Anyone's Legend","LLL","","dom","P"],["2026-08-29","LPL 2026 Grand Finals","Round 1","LGD Gaming","Top Esports","WWLLW","","dom","P"],["2026-09-04","LPL 2026 Grand Finals","Round 2","LGD Gaming","Anyone's Legend","WLLL","","dom","P"],["2026-09-06","LPL 2026 Grand Finals","Round 2","LGD Gaming","Ninjas in Pyjamas.CN","WLWLW","","dom","P"],["2026-09-08","LPL 2026 Grand Finals","Round 3","LGD Gaming","Invictus Gaming","LLL","","dom","P"],["2026-10-13","Demacia Cup Global Invitational 2026","Quarterfinal","LGD Gaming","HANJIN BRION","WLLL","","dom","S"]],"unknown":[]}
+{
+  "player": "Heng",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2021-05-11","LDL 2021 Spring Playoffs","Semifinal","Young Miracles","Shu Dai Xiong Gaming","WWW","","dom","S"],
+    ["2021-05-12","LDL 2021 Spring Playoffs","Final","Young Miracles","FunPlus Phoenix Blaze","WWLW","","dom","S"],
+    ["2022-04-13","LDL 2022 Spring Playoffs","Round 1","Young Miracles","Joy Dream","LWLWL","","dom","S"],
+    ["2022-08-17","LDL 2022 Summer Playoffs","Round 2","Young Miracles","FunPlus Phoenix Blaze","LLL","","dom","S"],
+    ["2023-03-31","LPL 2023 Spring Playoffs","Round 1","Team WE","Top Esports","LLWL","","dom","P"],
+    ["2023-07-20","LPL 2023 Summer Playoffs","Round 1","Team WE","EDward Gaming","LWLL","","dom","P"],
+    ["2024-03-31","LPL 2024 Spring Playoffs","Round 1","Team WE","Oh My God","LWWW","","dom","P"],
+    ["2024-04-02","LPL 2024 Spring Playoffs","Round 2","Team WE","Ninjas in Pyjamas.CN","WLWLL","","dom","P"],
+    ["2025-01-12","LPL 2025 Split 1","","Oh My God","Weibo Gaming","LLL","","dom","P"],
+    ["2025-01-23","LPL 2025 Split 1","","Oh My God","JD Gaming","WLWLL","","dom","P"],
+    ["2025-02-12","LPL 2025 Split 1","","Oh My God","Ultra Prime","WLLWW","","dom","P"],
+    ["2025-12-29","Demacia Cup 2025","Quarterfinal","LGD Gaming","Anyone's Legend","WWW","","dom","P"],
+    ["2026-01-02","Demacia Cup 2025","Semifinal","LGD Gaming","JD Gaming","LLL","","dom","P"],
+    ["2026-05-24","LPL 2026 Split 2 Playoffs","Play-In","LGD Gaming","Weibo Gaming","WWLLW","","dom","P"],
+    ["2026-05-29","LPL 2026 Split 2 Playoffs","Round 1","LGD Gaming","Top Esports","LLL","","dom","P"],
+    ["2026-06-02","LPL 2026 Split 2 Playoffs","Round 1","LGD Gaming","ThunderTalk Gaming","WWLLW","","dom","P"],
+    ["2026-06-05","LPL 2026 Split 2 Playoffs","Round 2","LGD Gaming","Anyone's Legend","LLL","","dom","P"],
+    ["2026-08-29","LPL 2026 Grand Finals","Round 1","LGD Gaming","Top Esports","WWLLW","","dom","P"],
+    ["2026-09-04","LPL 2026 Grand Finals","Round 2","LGD Gaming","Anyone's Legend","WLLL","","dom","P"],
+    ["2026-09-06","LPL 2026 Grand Finals","Round 2","LGD Gaming","Ninjas in Pyjamas.CN","WLWLW","","dom","P"],
+    ["2026-09-08","LPL 2026 Grand Finals","Round 3","LGD Gaming","Invictus Gaming","LLL","","dom","P"],
+    ["2026-10-13","Demacia Cup Global Invitational 2026","Quarterfinal","LGD Gaming","HANJIN BRION","WLLL","","dom","S"]
+  ],
+  "unknown": []
+}

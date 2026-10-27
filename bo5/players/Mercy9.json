@@ -1,1 +1,28 @@
-{"player":"Mercy9","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2024-07-20","TCL 2024 Summer Playoffs","Round 1","Misa Esports","FUT Esports","LLL","","dom","S"],["2024-08-02","EMEA Masters 2024 Summer LCQ","Round 3","Misa Esports","NORD Esports","LWWW","","dom","S"],["2025-05-14","TCL 2025 Spring Playoffs","Round 1","Bushido Wildcats","ULF Esports","LLWWL","","dom","S"],["2025-08-14","Superliga Domino's 2025 Summer Playoffs","Round 1","Team Heretics Academy","GIANTX PRIDE","LLL","","dom","S"],["2025-08-21","Superliga Domino's 2025 Summer Playoffs","Round 2","Team Heretics Academy","UCAM Esports","WLWLW","","dom","S"],["2025-08-23","Superliga Domino's 2025 Summer Playoffs","Final","Team Heretics Academy","GIANTX PRIDE","LLL","","dom","S"],["2025-08-30","Superliga Domino's 2025 Final Four","Semifinal","Team Heretics Academy","Veni Vidi Vici (Spanish Team)","WLWW","","dom","S"],["2025-08-31","Superliga Domino's 2025 Final Four","Final","Team Heretics Academy","GIANTX PRIDE","LWLL","","dom","S"],["2025-10-12","EMEA Masters 2025 Summer Main Event","Round of 16","Team Heretics Academy","Berlin International Gaming","WWLW","","dom","S"],["2025-10-17","EMEA Masters 2025 Summer Main Event","Quarterfinal","Team Heretics Academy","ROSSMANN Centaurs","WLWW","","dom","S"],["2025-10-21","EMEA Masters 2025 Summer Main Event","Semifinal","Team Heretics Academy","Unicorns of Love Sexy Edition","WWW","","dom","S"],["2025-11-02","EMEA Masters 2025 Summer Main Event","Final","Team Heretics Academy","Karmine Corp Blue","LLL","","dom","S"],["2025-11-21","Iberian Cup 2025","Semifinal","Team Heretics Academy","UCAM Esports","LLWL","","dom","S"],["2026-06-03","LES 2026 Spring Playoffs","Semifinal","Team Heretics Academy","Barça eSports","WWLW","","dom","S"],["2026-06-05","LES 2026 Spring Playoffs","Final","Team Heretics Academy","UCAM Esports","WWLW","","dom","S"],["2026-06-13","EMEA Masters 2026 Spring Main Event","Quarterfinal","Team Heretics Academy","Eintracht Spandau","LLWWL","","dom","S"],["2026-08-19","LES 2026 Summer Playoffs","Semifinal","Team Heretics Academy","UCAM Esports","WWW","","dom","S"],["2026-08-20","LES 2026 Summer Playoffs","Final","Team Heretics Academy","Movistar KOI Fénix","WLLWL","","dom","S"],["2026-09-06","LES 2026 Final Four","Final","Team Heretics Academy","Movistar KOI Fénix","WLWLL","","dom","S"],["2026-10-07","EMEA Masters 2026 Summer Main Event","Round of 16","Team Heretics Academy","G2 NORD","LLWWL","","dom","S"]],"unknown":[]}
+{
+  "player": "Mercy9",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2024-07-20","TCL 2024 Summer Playoffs","Round 1","Misa Esports","FUT Esports","LLL","","dom","S"],
+    ["2024-08-02","EMEA Masters 2024 Summer LCQ","Round 3","Misa Esports","NORD Esports","LWWW","","dom","S"],
+    ["2025-05-14","TCL 2025 Spring Playoffs","Round 1","Bushido Wildcats","ULF Esports","LLWWL","","dom","S"],
+    ["2025-08-14","Superliga Domino's 2025 Summer Playoffs","Round 1","Team Heretics Academy","GIANTX PRIDE","LLL","","dom","S"],
+    ["2025-08-21","Superliga Domino's 2025 Summer Playoffs","Round 2","Team Heretics Academy","UCAM Esports","WLWLW","","dom","S"],
+    ["2025-08-23","Superliga Domino's 2025 Summer Playoffs","Final","Team Heretics Academy","GIANTX PRIDE","LLL","","dom","S"],
+    ["2025-08-30","Superliga Domino's 2025 Final Four","Semifinal","Team Heretics Academy","Veni Vidi Vici (Spanish Team)","WLWW","","dom","S"],
+    ["2025-08-31","Superliga Domino's 2025 Final Four","Final","Team Heretics Academy","GIANTX PRIDE","LWLL","","dom","S"],
+    ["2025-10-12","EMEA Masters 2025 Summer Main Event","Round of 16","Team Heretics Academy","Berlin International Gaming","WWLW","","dom","S"],
+    ["2025-10-17","EMEA Masters 2025 Summer Main Event","Quarterfinal","Team Heretics Academy","ROSSMANN Centaurs","WLWW","","dom","S"],
+    ["2025-10-21","EMEA Masters 2025 Summer Main Event","Semifinal","Team Heretics Academy","Unicorns of Love Sexy Edition","WWW","","dom","S"],
+    ["2025-11-02","EMEA Masters 2025 Summer Main Event","Final","Team Heretics Academy","Karmine Corp Blue","LLL","","dom","S"],
+    ["2025-11-21","Iberian Cup 2025","Semifinal","Team Heretics Academy","UCAM Esports","LLWL","","dom","S"],
+    ["2026-06-03","LES 2026 Spring Playoffs","Semifinal","Team Heretics Academy","Barça eSports","WWLW","","dom","S"],
+    ["2026-06-05","LES 2026 Spring Playoffs","Final","Team Heretics Academy","UCAM Esports","WWLW","","dom","S"],
+    ["2026-06-13","EMEA Masters 2026 Spring Main Event","Quarterfinal","Team Heretics Academy","Eintracht Spandau","LLWWL","","dom","S"],
+    ["2026-08-19","LES 2026 Summer Playoffs","Semifinal","Team Heretics Academy","UCAM Esports","WWW","","dom","S"],
+    ["2026-08-20","LES 2026 Summer Playoffs","Final","Team Heretics Academy","Movistar KOI Fénix","WLLWL","","dom","S"],
+    ["2026-09-06","LES 2026 Final Four","Final","Team Heretics Academy","Movistar KOI Fénix","WLWLL","","dom","S"],
+    ["2026-10-07","EMEA Masters 2026 Summer Main Event","Round of 16","Team Heretics Academy","G2 NORD","LLWWL","","dom","S"]
+  ],
+  "unknown": []
+}

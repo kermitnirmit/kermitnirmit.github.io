@@ -1,1 +1,31 @@
-{"player":"J0J0C","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2020-03-09","Greek Legends League 2020 Spring Playoffs","Round 3","Pyrsos Esports","Team Refuse","WWW","","dom","S"],["2020-03-28","Greek Legends League 2020 Spring Playoffs","Round 4","Pyrsos Esports","WLGaming Esports","LWLL","","dom","S"],["2020-07-12","Greek Legends League 2020 Summer Playoffs","Quarterfinal","Gamespace Mediterranean College Esports","Team Refuse","LWLWL","","dom","S"],["2020-12-15","Greek Legends League 2020 Winter Playoffs","Semifinal","Anorthosis Famagusta Esports","Team Refuse","WWLW","","dom","S"],["2020-12-21","Greek Legends League 2020 Winter Playoffs","Final","Anorthosis Famagusta Esports","Team Phantasma","WWW","","dom","S"],["2021-03-01","Greek Legends League 2021 Spring Playoffs","Quarterfinal","Anorthosis Famagusta Esports","Team Phantasma","WLWW","","dom","S"],["2021-03-09","Greek Legends League 2021 Spring Playoffs","Semifinal","Anorthosis Famagusta Esports","WLGaming Esports","WWLW","","dom","S"],["2021-03-23","Greek Legends League 2021 Spring Playoffs","Final","Anorthosis Famagusta Esports","Gamespace Mediterranean College Esports","WWLW","","dom","S"],["2021-07-19","Greek Legends League 2021 Summer Playoffs","Round 2","Anorthosis Famagusta Esports","WLGaming Esports","LLWWW","","dom","S"],["2021-07-27","Greek Legends League 2021 Summer Playoffs","Final","Anorthosis Famagusta Esports","Team Phantasma","WWW","","dom","S"],["2021-11-24","Greek Legends League 2021 Winter Playoffs","Round 2","Anorthosis Famagusta Esports","Team Phantasma","WLWW","","dom","S"],["2021-12-07","Greek Legends League 2021 Winter Playoffs","Final","Anorthosis Famagusta Esports","WLGaming Esports","WLLL","","dom","S"],["2022-03-08","Greek Legends League 2022 Spring Playoffs","Round 1","Anorthosis Famagusta Esports","Hive Athens EC","LLL","","dom","S"],["2022-10-28","Greek Legends League 2022 Pro-Am","Final","WLGaming Esports","Pentagon Maze","WLWLW","","dom","S"],["2022-11-19","Sigma Cup 2022","Semifinal","WLGaming Esports","Entropiq","LWLL","","dom","S"],["2023-03-24","LVP SuperLiga 2nd Division 2023 Spring Playoffs","Round 1","ZETA","LEX Esports","WWW","","dom","S"],["2023-03-29","LVP SuperLiga 2nd Division 2023 Spring Playoffs","Round 2","ZETA","Ramboot Club","LLL","","dom","S"],["2023-07-19","Greek Legends League 2023 Summer Playoffs","Round 1","Team Phantasma","Gamespace Mediterranean College Esports","LLL","","dom","S"],["2024-07-24","Greek Legends League 2025 Promotion","Round 1","Wild Panthers Esports","Team Insidious","LLL","p","dom","S"],["2025-02-09","Hellenic Challengers Cup 2025 Winter Split/Tournament 2","Final","SINS Esports","Howl Esports","LWWLW","","dom","S"],["2025-02-16","Hellenic Challengers Cup 2025 Winter Split/Tournament 3","Final","SINS Esports","Spartans EU","WWW","","dom","S"],["2025-02-24","Hellenic Legends League 2025 Spring Promotion","Round 1","SINS Esports","ΣΤΕΝΑΧΩΡΕΜΕΝΟΙ","LWWW","","dom","S"],["2025-02-25","Hellenic Legends League 2025 Spring Promotion","Round 2","SINS Esports","Team Refuse","WLWW","","dom","S"]],"unknown":[]}
+{
+  "player": "J0J0C",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2020-03-09","Greek Legends League 2020 Spring Playoffs","Round 3","Pyrsos Esports","Team Refuse","WWW","","dom","S"],
+    ["2020-03-28","Greek Legends League 2020 Spring Playoffs","Round 4","Pyrsos Esports","WLGaming Esports","LWLL","","dom","S"],
+    ["2020-07-12","Greek Legends League 2020 Summer Playoffs","Quarterfinal","Gamespace Mediterranean College Esports","Team Refuse","LWLWL","","dom","S"],
+    ["2020-12-15","Greek Legends League 2020 Winter Playoffs","Semifinal","Anorthosis Famagusta Esports","Team Refuse","WWLW","","dom","S"],
+    ["2020-12-21","Greek Legends League 2020 Winter Playoffs","Final","Anorthosis Famagusta Esports","Team Phantasma","WWW","","dom","S"],
+    ["2021-03-01","Greek Legends League 2021 Spring Playoffs","Quarterfinal","Anorthosis Famagusta Esports","Team Phantasma","WLWW","","dom","S"],
+    ["2021-03-09","Greek Legends League 2021 Spring Playoffs","Semifinal","Anorthosis Famagusta Esports","WLGaming Esports","WWLW","","dom","S"],
+    ["2021-03-23","Greek Legends League 2021 Spring Playoffs","Final","Anorthosis Famagusta Esports","Gamespace Mediterranean College Esports","WWLW","","dom","S"],
+    ["2021-07-19","Greek Legends League 2021 Summer Playoffs","Round 2","Anorthosis Famagusta Esports","WLGaming Esports","LLWWW","","dom","S"],
+    ["2021-07-27","Greek Legends League 2021 Summer Playoffs","Final","Anorthosis Famagusta Esports","Team Phantasma","WWW","","dom","S"],
+    ["2021-11-24","Greek Legends League 2021 Winter Playoffs","Round 2","Anorthosis Famagusta Esports","Team Phantasma","WLWW","","dom","S"],
+    ["2021-12-07","Greek Legends League 2021 Winter Playoffs","Final","Anorthosis Famagusta Esports","WLGaming Esports","WLLL","","dom","S"],
+    ["2022-03-08","Greek Legends League 2022 Spring Playoffs","Round 1","Anorthosis Famagusta Esports","Hive Athens EC","LLL","","dom","S"],
+    ["2022-10-28","Greek Legends League 2022 Pro-Am","Final","WLGaming Esports","Pentagon Maze","WLWLW","","dom","S"],
+    ["2022-11-19","Sigma Cup 2022","Semifinal","WLGaming Esports","Entropiq","LWLL","","dom","S"],
+    ["2023-03-24","LVP SuperLiga 2nd Division 2023 Spring Playoffs","Round 1","ZETA","LEX Esports","WWW","","dom","S"],
+    ["2023-03-29","LVP SuperLiga 2nd Division 2023 Spring Playoffs","Round 2","ZETA","Ramboot Club","LLL","","dom","S"],
+    ["2023-07-19","Greek Legends League 2023 Summer Playoffs","Round 1","Team Phantasma","Gamespace Mediterranean College Esports","LLL","","dom","S"],
+    ["2024-07-24","Greek Legends League 2025 Promotion","Round 1","Wild Panthers Esports","Team Insidious","LLL","p","dom","S"],
+    ["2025-02-09","Hellenic Challengers Cup 2025 Winter Split/Tournament 2","Final","SINS Esports","Howl Esports","LWWLW","","dom","S"],
+    ["2025-02-16","Hellenic Challengers Cup 2025 Winter Split/Tournament 3","Final","SINS Esports","Spartans EU","WWW","","dom","S"],
+    ["2025-02-24","Hellenic Legends League 2025 Spring Promotion","Round 1","SINS Esports","ΣΤΕΝΑΧΩΡΕΜΕΝΟΙ","LWWW","","dom","S"],
+    ["2025-02-25","Hellenic Legends League 2025 Spring Promotion","Round 2","SINS Esports","Team Refuse","WLWW","","dom","S"]
+  ],
+  "unknown": []
+}

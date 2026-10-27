@@ -1,1 +1,30 @@
-{"player":"Likai","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2021-04-04","PCS 2021 Spring Playoffs","Round 2","Machi Esports","Beyond Gaming","LWLL","","dom","P"],["2021-04-10","PCS 2021 Spring Playoffs","Round 2","Machi Esports","Hong Kong Attitude","WWW","","dom","P"],["2021-04-11","PCS 2021 Spring Playoffs","Round 3","Machi Esports","J Team","WWW","","dom","P"],["2021-04-17","PCS 2021 Spring Playoffs","Round 4","Machi Esports","Beyond Gaming","LLWWL","","dom","P"],["2021-08-15","PCS 2021 Summer Playoffs","Round 2","Machi Esports","Beyond Gaming","LWLL","","dom","P"],["2021-08-21","PCS 2021 Summer Playoffs","Round 2","Machi Esports","BOOM Esports","WLWLW","","dom","P"],["2021-08-22","PCS 2021 Summer Playoffs","Round 3","Machi Esports","J Team","WLWLL","","dom","P"],["2022-03-31","PCS 2022 Spring Playoffs","Round 1","Beyond Gaming","Deep Cross Gaming","WLLL","p","dom","P"],["2022-08-18","PCS 2022 Summer Playoffs","Round 1","Beyond Gaming","J Team","WWLW","","dom","P"],["2022-08-25","PCS 2022 Summer Playoffs","Round 2","Beyond Gaming","Deep Cross Gaming","WWW","","dom","P"],["2022-09-01","PCS 2022 Summer Playoffs","Round 4","Beyond Gaming","CTBC Flying Oyster","LWLL","","dom","P"],["2022-09-03","PCS 2022 Summer Playoffs","Round 4","Beyond Gaming","PSG Talon","WWLLW","","dom","P"],["2022-09-04","PCS 2022 Summer Playoffs","Final","Beyond Gaming","CTBC Flying Oyster","LLL","p","dom","P"],["2023-03-25","PCS 2023 Spring Playoffs","Round 1","Beyond Gaming","Chiefs Esports Club","WWLW","","dom","P"],["2023-04-02","PCS 2023 Spring Playoffs","Round 2","Beyond Gaming","Impunity","WLWLL","","dom","P"],["2023-08-11","PCS 2023 Summer Playoffs","Round 1","Beyond Gaming","Team Bliss","WWW","","dom","P"],["2023-08-13","PCS 2023 Summer Playoffs","Round 2","Beyond Gaming","J Team","WWW","","dom","P"],["2023-08-25","PCS 2023 Summer Playoffs","Round 4","Beyond Gaming","PSG Talon","WLWLL","","dom","P"],["2023-08-27","PCS 2023 Summer Playoffs","Round 4","Beyond Gaming","CTBC Flying Oyster","LLWWL","","dom","P"],["2025-03-10","PCS 2025 Split 1 Playoffs","Round 1","HELL PIGS","Deep Cross Gaming","LLL","","dom","S"],["2025-03-12","PCS 2025 Split 1 Playoffs","Round 1","HELL PIGS","West Point Esports Philippines","LLL","","dom","S"],["2025-07-27","The Major Six 2025 Taipei Open Qualifiers","Final","曜越男團","還是要吧","WWW","r","dom","S"]],"unknown":[]}
+{
+  "player": "Likai",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2021-04-04","PCS 2021 Spring Playoffs","Round 2","Machi Esports","Beyond Gaming","LWLL","","dom","P"],
+    ["2021-04-10","PCS 2021 Spring Playoffs","Round 2","Machi Esports","Hong Kong Attitude","WWW","","dom","P"],
+    ["2021-04-11","PCS 2021 Spring Playoffs","Round 3","Machi Esports","J Team","WWW","","dom","P"],
+    ["2021-04-17","PCS 2021 Spring Playoffs","Round 4","Machi Esports","Beyond Gaming","LLWWL","","dom","P"],
+    ["2021-08-15","PCS 2021 Summer Playoffs","Round 2","Machi Esports","Beyond Gaming","LWLL","","dom","P"],
+    ["2021-08-21","PCS 2021 Summer Playoffs","Round 2","Machi Esports","BOOM Esports","WLWLW","","dom","P"],
+    ["2021-08-22","PCS 2021 Summer Playoffs","Round 3","Machi Esports","J Team","WLWLL","","dom","P"],
+    ["2022-03-31","PCS 2022 Spring Playoffs","Round 1","Beyond Gaming","Deep Cross Gaming","WLLL","p","dom","P"],
+    ["2022-08-18","PCS 2022 Summer Playoffs","Round 1","Beyond Gaming","J Team","WWLW","","dom","P"],
+    ["2022-08-25","PCS 2022 Summer Playoffs","Round 2","Beyond Gaming","Deep Cross Gaming","WWW","","dom","P"],
+    ["2022-09-01","PCS 2022 Summer Playoffs","Round 4","Beyond Gaming","CTBC Flying Oyster","LWLL","","dom","P"],
+    ["2022-09-03","PCS 2022 Summer Playoffs","Round 4","Beyond Gaming","PSG Talon","WWLLW","","dom","P"],
+    ["2022-09-04","PCS 2022 Summer Playoffs","Final","Beyond Gaming","CTBC Flying Oyster","LLL","p","dom","P"],
+    ["2023-03-25","PCS 2023 Spring Playoffs","Round 1","Beyond Gaming","Chiefs Esports Club","WWLW","","dom","P"],
+    ["2023-04-02","PCS 2023 Spring Playoffs","Round 2","Beyond Gaming","Impunity","WLWLL","","dom","P"],
+    ["2023-08-11","PCS 2023 Summer Playoffs","Round 1","Beyond Gaming","Team Bliss","WWW","","dom","P"],
+    ["2023-08-13","PCS 2023 Summer Playoffs","Round 2","Beyond Gaming","J Team","WWW","","dom","P"],
+    ["2023-08-25","PCS 2023 Summer Playoffs","Round 4","Beyond Gaming","PSG Talon","WLWLL","","dom","P"],
+    ["2023-08-27","PCS 2023 Summer Playoffs","Round 4","Beyond Gaming","CTBC Flying Oyster","LLWWL","","dom","P"],
+    ["2025-03-10","PCS 2025 Split 1 Playoffs","Round 1","HELL PIGS","Deep Cross Gaming","LLL","","dom","S"],
+    ["2025-03-12","PCS 2025 Split 1 Playoffs","Round 1","HELL PIGS","West Point Esports Philippines","LLL","","dom","S"],
+    ["2025-07-27","The Major Six 2025 Taipei Open Qualifiers","Final","曜越男團","還是要吧","WWW","r","dom","S"]
+  ],
+  "unknown": []
+}

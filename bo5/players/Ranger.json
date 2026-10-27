@@ -1,1 +1,28 @@
-{"player":"Ranger","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2015-11-05","CBLOL 2016 Split 1 Promotion","Qual","Big Gods","KaBuM! Orange","LLL","","dom","P"],["2016-03-07","Brazilian Challenger Circuit 2016 Split 1 Playoffs","Semifinal","Big Gods","Brave e-Sports","LWWW","","dom","S"],["2016-03-26","Brazilian Challenger Circuit 2016 Split 1 Playoffs","Final","Big Gods","Overload (Brazilian Team)","WWLW","","dom","S"],["2016-08-07","Brazilian Challenger Circuit 2017 Split 1 Promotion","Scoreboards","YGG E-Sports","CNB Infinity","WWLW","","dom","S"],["2016-09-22","Copa Go4gold 2016","Semifinal","Team Genesis","Ilha da Macacada Gaming","WWW","r","dom","S"],["2016-09-25","Copa Go4gold 2016","Final","Team Genesis","ProGaming Esports","WWW","r","dom","S"],["2017-01-18","ESL Brasil Premier League 2016 Season 2/Playoffs","Final","Operation Kino e-Sports","Remo Brave e-Sports","LLWWW","","dom","S"],["2017-03-18","CBLOL 2017 Split 2 Promotion","Promotion","Operation Kino e-Sports","INTZ.Genesis","LLWWL","","dom","P"],["2018-04-07","CBLOL 2018 Split 1 Playoffs","Final","KaBuM! Esports","Vivo Keyd","WLWLW","","dom","P"],["2018-09-08","CBLOL 2018 Split 2 Playoffs","Final","KaBuM! Esports","Flamengo Esports","LWWLW","","dom","P"],["2019-08-25","CBLOL 2019 Split 2 Playoffs","Semifinal","KaBuM! Esports","INTZ","WLLL","","dom","P"],["2020-05-03","CBLOL 2020 Split 1 Playoffs","Semifinal","Flamengo Esports","FURIA Uppercut","WWW","","dom","P"],["2020-05-09","CBLOL 2020 Split 1 Playoffs","Final","Flamengo Esports","KaBuM! Esports","LLL","","dom","P"],["2021-04-03","CBLOL 2021 Split 1 Playoffs","Semifinal","Flamengo Esports","paiN Gaming","LWLWL","","dom","P"],["2021-08-08","CBLOL 2021 Split 2 Playoffs","Quarterfinal","Flamengo Esports","RED Canids","LLL","","dom","P"],["2022-03-27","CBLOL 2022 Split 1 Playoffs","Round 1","FURIA","paiN Gaming","LWWLL","","dom","P"],["2022-04-09","CBLOL 2022 Split 1 Playoffs","Round 3","FURIA","RED Canids","LWLL","","dom","P"],["2023-03-26","CBLOL 2023 Split 1 Playoffs","Round 1","Los Grandes","LOUD","LWLL","","dom","P"],["2023-04-08","CBLOL 2023 Split 1 Playoffs","Round 3","Los Grandes","FURIA","WWW","","dom","P"],["2023-04-09","CBLOL 2023 Split 1 Playoffs","Semifinal","Los Grandes","paiN Gaming","LLWWL","","dom","P"]],"unknown":[]}
+{
+  "player": "Ranger",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2015-11-05","CBLOL 2016 Split 1 Promotion","Qual","Big Gods","KaBuM! Orange","LLL","","dom","P"],
+    ["2016-03-07","Brazilian Challenger Circuit 2016 Split 1 Playoffs","Semifinal","Big Gods","Brave e-Sports","LWWW","","dom","S"],
+    ["2016-03-26","Brazilian Challenger Circuit 2016 Split 1 Playoffs","Final","Big Gods","Overload (Brazilian Team)","WWLW","","dom","S"],
+    ["2016-08-07","Brazilian Challenger Circuit 2017 Split 1 Promotion","Scoreboards","YGG E-Sports","CNB Infinity","WWLW","","dom","S"],
+    ["2016-09-22","Copa Go4gold 2016","Semifinal","Team Genesis","Ilha da Macacada Gaming","WWW","r","dom","S"],
+    ["2016-09-25","Copa Go4gold 2016","Final","Team Genesis","ProGaming Esports","WWW","r","dom","S"],
+    ["2017-01-18","ESL Brasil Premier League 2016 Season 2/Playoffs","Final","Operation Kino e-Sports","Remo Brave e-Sports","LLWWW","","dom","S"],
+    ["2017-03-18","CBLOL 2017 Split 2 Promotion","Promotion","Operation Kino e-Sports","INTZ.Genesis","LLWWL","","dom","P"],
+    ["2018-04-07","CBLOL 2018 Split 1 Playoffs","Final","KaBuM! Esports","Vivo Keyd","WLWLW","","dom","P"],
+    ["2018-09-08","CBLOL 2018 Split 2 Playoffs","Final","KaBuM! Esports","Flamengo Esports","LWWLW","","dom","P"],
+    ["2019-08-25","CBLOL 2019 Split 2 Playoffs","Semifinal","KaBuM! Esports","INTZ","WLLL","","dom","P"],
+    ["2020-05-03","CBLOL 2020 Split 1 Playoffs","Semifinal","Flamengo Esports","FURIA Uppercut","WWW","","dom","P"],
+    ["2020-05-09","CBLOL 2020 Split 1 Playoffs","Final","Flamengo Esports","KaBuM! Esports","LLL","","dom","P"],
+    ["2021-04-03","CBLOL 2021 Split 1 Playoffs","Semifinal","Flamengo Esports","paiN Gaming","LWLWL","","dom","P"],
+    ["2021-08-08","CBLOL 2021 Split 2 Playoffs","Quarterfinal","Flamengo Esports","RED Canids","LLL","","dom","P"],
+    ["2022-03-27","CBLOL 2022 Split 1 Playoffs","Round 1","FURIA","paiN Gaming","LWWLL","","dom","P"],
+    ["2022-04-09","CBLOL 2022 Split 1 Playoffs","Round 3","FURIA","RED Canids","LWLL","","dom","P"],
+    ["2023-03-26","CBLOL 2023 Split 1 Playoffs","Round 1","Los Grandes","LOUD","LWLL","","dom","P"],
+    ["2023-04-08","CBLOL 2023 Split 1 Playoffs","Round 3","Los Grandes","FURIA","WWW","","dom","P"],
+    ["2023-04-09","CBLOL 2023 Split 1 Playoffs","Semifinal","Los Grandes","paiN Gaming","LLWWL","","dom","P"]
+  ],
+  "unknown": []
+}

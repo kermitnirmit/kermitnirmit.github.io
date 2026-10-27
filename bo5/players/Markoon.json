@@ -1,1 +1,35 @@
-{"player":"Markoon","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2019-06-27","Danish Esports League Season 3 Playoffs","Final","Ventus Esports","Copenhagen Flames","WWW","r","dom",""],["2020-03-16","LVP SuperLiga Orange 2020 Spring Playoffs","Quarterfinal","UCAM Esports Club","G2 Arctic","LWWLL","","dom","S"],["2020-11-06","Iberian Cup 2020","Quarterfinal","G2 Arctic","Team Queso","WLWW","","dom","S"],["2020-11-13","Iberian Cup 2020","Semifinal","G2 Arctic","SLO REJECTS","WWW","","dom","S"],["2020-11-15","Iberian Cup 2020","Final","G2 Arctic","Vodafone Giants.Spain","WWLLL","","dom","S"],["2021-03-21","NLC 2021 Spring Playoffs","Final","BT Excel","Fnatic Rising","WWW","","dom","S"],["2021-05-02","European Masters 2021 Spring Main Event","Final","BT Excel","Karmine Corp","WLLL","","dom","S"],["2022-03-27","LEC 2022 Spring Playoffs","Round 1","Excel Esports","Team Vitality","WLWLL","","dom","P"],["2022-08-28","LEC 2022 Summer Playoffs","Round 1","Excel Esports","Fnatic","WWLLL","","dom","P"],["2023-02-24","LEC 2023 Winter Playoffs","Round 1","SK Gaming","MAD Lions","LWLWL","","dom","P"],["2023-08-26","LEC 2023 Season Finals","Round 1","SK Gaming","Team BDS","LLL","","dom","P"],["2025-02-20","LFL 2025 Flash In Playoffs","Round 1","Solary","Galions","LWWLW","","dom","S"],["2025-02-26","LFL 2025 Flash In Playoffs","Round 2","Solary","Ici Japon Corp. Esport","LLWL","","dom","S"],["2025-09-02","LFL 2025 Summer Playoffs","Round 1","Solary","Gentle Mates","LLL","","dom","S"],["2026-02-03","Comedy Central Winter Snowdown","Semifinal","G2 NORD","E WIE EINFACH E-SPORTS","WWW","","dom","S"],["2026-02-05","Comedy Central Winter Snowdown","Final","G2 NORD","Berlin International Gaming","LWLWW","","dom","S"],["2026-03-03","Prime League 1st Division 2026 Winter Split","Semifinal","G2 NORD","Unicorns of Love Sexy Edition","WWW","","dom","S"],["2026-03-07","Prime League 1st Division 2026 Winter Split","Final","G2 NORD","Berlin International Gaming","LWWLL","","dom","S"],["2026-05-21","Prime League 1st Division 2026 Spring Playoffs","Quarterfinal","G2 NORD","Unicorns of Love Sexy Edition","WWW","","dom","S"],["2026-05-27","Prime League 1st Division 2026 Spring Playoffs","Semifinal","G2 NORD","Berlin International Gaming","LWWW","","dom","S"],["2026-05-30","Prime League 1st Division 2026 Spring Playoffs","Final","G2 NORD","Eintracht Spandau","LWWLW","","dom","S"],["2026-06-13","EMEA Masters 2026 Spring Main Event","Quarterfinal","G2 NORD","Solary","LLWL","","dom","S"],["2026-08-20","Prime League 1st Division 2026 Summer Playoffs","Round 1","G2 NORD","Eintracht Spandau","LWWW","","dom","S"],["2026-08-27","Prime League 1st Division 2026 Summer Playoffs","Round 3","G2 NORD","Berlin International Gaming","LWWLW","","dom","S"],["2026-09-12","Prime League 1st Division 2026 Summer Playoffs","Final","G2 NORD","Berlin International Gaming","LWLWL","","dom","S"],["2026-10-07","EMEA Masters 2026 Summer Main Event","Round of 16","G2 NORD","Team Heretics Academy","WWLLW","","dom","S"],["2026-10-10","EMEA Masters 2026 Summer Main Event","Quarterfinal","G2 NORD","Solary","LWLL","","dom","S"]],"unknown":[]}
+{
+  "player": "Markoon",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2019-06-27","Danish Esports League Season 3 Playoffs","Final","Ventus Esports","Copenhagen Flames","WWW","r","dom",""],
+    ["2020-03-16","LVP SuperLiga Orange 2020 Spring Playoffs","Quarterfinal","UCAM Esports Club","G2 Arctic","LWWLL","","dom","S"],
+    ["2020-11-06","Iberian Cup 2020","Quarterfinal","G2 Arctic","Team Queso","WLWW","","dom","S"],
+    ["2020-11-13","Iberian Cup 2020","Semifinal","G2 Arctic","SLO REJECTS","WWW","","dom","S"],
+    ["2020-11-15","Iberian Cup 2020","Final","G2 Arctic","Vodafone Giants.Spain","WWLLL","","dom","S"],
+    ["2021-03-21","NLC 2021 Spring Playoffs","Final","BT Excel","Fnatic Rising","WWW","","dom","S"],
+    ["2021-05-02","European Masters 2021 Spring Main Event","Final","BT Excel","Karmine Corp","WLLL","","dom","S"],
+    ["2022-03-27","LEC 2022 Spring Playoffs","Round 1","Excel Esports","Team Vitality","WLWLL","","dom","P"],
+    ["2022-08-28","LEC 2022 Summer Playoffs","Round 1","Excel Esports","Fnatic","WWLLL","","dom","P"],
+    ["2023-02-24","LEC 2023 Winter Playoffs","Round 1","SK Gaming","MAD Lions","LWLWL","","dom","P"],
+    ["2023-08-26","LEC 2023 Season Finals","Round 1","SK Gaming","Team BDS","LLL","","dom","P"],
+    ["2025-02-20","LFL 2025 Flash In Playoffs","Round 1","Solary","Galions","LWWLW","","dom","S"],
+    ["2025-02-26","LFL 2025 Flash In Playoffs","Round 2","Solary","Ici Japon Corp. Esport","LLWL","","dom","S"],
+    ["2025-09-02","LFL 2025 Summer Playoffs","Round 1","Solary","Gentle Mates","LLL","","dom","S"],
+    ["2026-02-03","Comedy Central Winter Snowdown","Semifinal","G2 NORD","E WIE EINFACH E-SPORTS","WWW","","dom","S"],
+    ["2026-02-05","Comedy Central Winter Snowdown","Final","G2 NORD","Berlin International Gaming","LWLWW","","dom","S"],
+    ["2026-03-03","Prime League 1st Division 2026 Winter Split","Semifinal","G2 NORD","Unicorns of Love Sexy Edition","WWW","","dom","S"],
+    ["2026-03-07","Prime League 1st Division 2026 Winter Split","Final","G2 NORD","Berlin International Gaming","LWWLL","","dom","S"],
+    ["2026-05-21","Prime League 1st Division 2026 Spring Playoffs","Quarterfinal","G2 NORD","Unicorns of Love Sexy Edition","WWW","","dom","S"],
+    ["2026-05-27","Prime League 1st Division 2026 Spring Playoffs","Semifinal","G2 NORD","Berlin International Gaming","LWWW","","dom","S"],
+    ["2026-05-30","Prime League 1st Division 2026 Spring Playoffs","Final","G2 NORD","Eintracht Spandau","LWWLW","","dom","S"],
+    ["2026-06-13","EMEA Masters 2026 Spring Main Event","Quarterfinal","G2 NORD","Solary","LLWL","","dom","S"],
+    ["2026-08-20","Prime League 1st Division 2026 Summer Playoffs","Round 1","G2 NORD","Eintracht Spandau","LWWW","","dom","S"],
+    ["2026-08-27","Prime League 1st Division 2026 Summer Playoffs","Round 3","G2 NORD","Berlin International Gaming","LWWLW","","dom","S"],
+    ["2026-09-12","Prime League 1st Division 2026 Summer Playoffs","Final","G2 NORD","Berlin International Gaming","LWLWL","","dom","S"],
+    ["2026-10-07","EMEA Masters 2026 Summer Main Event","Round of 16","G2 NORD","Team Heretics Academy","WWLLW","","dom","S"],
+    ["2026-10-10","EMEA Masters 2026 Summer Main Event","Quarterfinal","G2 NORD","Solary","LWLL","","dom","S"]
+  ],
+  "unknown": []
+}

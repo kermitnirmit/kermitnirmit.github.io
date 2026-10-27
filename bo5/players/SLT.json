@@ -1,1 +1,34 @@
-{"player":"SLT","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2021-03-11","Prime League Pro Division 2021 Spring Playoffs","Round 3","Berlin International Gaming","FC Schalke 04 Evolution","WWW","","dom","S"],["2021-03-21","Prime League Pro Division 2021 Spring Playoffs","Final","Berlin International Gaming","mousesports","WWLW","","dom","S"],["2021-08-11","LFL 2021 Summer Playoffs","Round 3","Vitality.Bee","Misfits Premier","LWLL","","dom","S"],["2021-08-27","LFL 2021 Finals","Round 1","Vitality.Bee","Karmine Corp","WWLLL","","dom","S"],["2022-03-14","LVP SuperLiga 2022 Spring Playoffs","Round 1","KOI (Spanish Team)","Movistar Riders","WLWW","","dom","S"],["2022-03-21","LVP SuperLiga 2022 Spring Playoffs","Round 2","KOI (Spanish Team)","BISONS ECLUB","LLL","","dom","S"],["2025-05-27","Arabian League 2025 Summer Promotion","Round 1","Dragons Esports","3BL Esports","WLWW","","dom","S"],["2025-05-29","Arabian League 2025 Summer Promotion","Round 2","Dragons Esports","FN Esports","WLWLL","","dom","S"],["2025-05-30","Arabian League 2025 Summer Promotion","Round 2","Dragons Esports","Baam Esports","LWLWW","","dom","S"],["2025-08-15","NLC 2025 Summer Playoffs","Round 3","Verdant","DMG Esports","WWW","","dom","S"],["2025-08-20","NLC 2025 Summer Playoffs","Round 4","Verdant","NORD Esports","LWWW","","dom","S"],["2025-08-22","NLC 2025 Summer Playoffs","Round 5","Verdant","Rich Gang (Norwegian Team)","WWW","","dom","S"],["2025-08-30","NLC 2025 Summer Playoffs","Final","Verdant","Los Ratones","LLL","","dom","S"],["2025-10-11","EMEA Masters 2025 Summer Main Event","Round of 16","Verdant","Karmine Corp Blue","LWLL","","dom","S"],["2025-12-07","Legends Premier League Season 2","Final","Ruddy Corporation","GLORE.FIFINE","LWWW","r","dom","S"],["2026-02-12","Hitpoint Winter 2026 Main Event","Round 1","Nightbirds","Meavedron","WWW","","dom","S"],["2026-02-15","Hitpoint Winter 2026 Main Event","Round 2","Nightbirds","eSuba","WWW","","dom","S"],["2026-02-26","Hitpoint Winter 2026 Main Event","Round 4","Nightbirds","BRUTE","WWLW","","dom","S"],["2026-03-07","Hitpoint Winter 2026 Main Event","Final","Nightbirds","BRUTE","WWW","","dom","S"],["2026-05-23","Hitpoint Masters 2026 Spring Playoffs","Round 1","Nightbirds","Meavedron","WWW","","dom","S"],["2026-05-30","Hitpoint Masters 2026 Spring Playoffs","Round 3","Nightbirds","CITA Kaizen","WWLLL","","dom","S"],["2026-06-02","Hitpoint Masters 2026 Spring Playoffs","Round 3","Nightbirds","eSuba","WWW","","dom","S"],["2026-06-05","Hitpoint Masters 2026 Spring Playoffs","Final","Nightbirds","CITA Kaizen","LLL","","dom","S"],["2026-09-08","Hitpoint Masters 2026 Summer Playoffs","Round 1","Nightbirds","EXILE esports","WWW","","dom","S"],["2026-09-15","Hitpoint Masters 2026 Summer Playoffs","Round 3","Nightbirds","CITA Kaizen","WWW","","dom","S"],["2026-09-20","Hitpoint Masters 2026 Summer Playoffs","Final","Nightbirds","eSuba","WWW","","dom","S"]],"unknown":[]}
+{
+  "player": "SLT",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2021-03-11","Prime League Pro Division 2021 Spring Playoffs","Round 3","Berlin International Gaming","FC Schalke 04 Evolution","WWW","","dom","S"],
+    ["2021-03-21","Prime League Pro Division 2021 Spring Playoffs","Final","Berlin International Gaming","mousesports","WWLW","","dom","S"],
+    ["2021-08-11","LFL 2021 Summer Playoffs","Round 3","Vitality.Bee","Misfits Premier","LWLL","","dom","S"],
+    ["2021-08-27","LFL 2021 Finals","Round 1","Vitality.Bee","Karmine Corp","WWLLL","","dom","S"],
+    ["2022-03-14","LVP SuperLiga 2022 Spring Playoffs","Round 1","KOI (Spanish Team)","Movistar Riders","WLWW","","dom","S"],
+    ["2022-03-21","LVP SuperLiga 2022 Spring Playoffs","Round 2","KOI (Spanish Team)","BISONS ECLUB","LLL","","dom","S"],
+    ["2025-05-27","Arabian League 2025 Summer Promotion","Round 1","Dragons Esports","3BL Esports","WLWW","","dom","S"],
+    ["2025-05-29","Arabian League 2025 Summer Promotion","Round 2","Dragons Esports","FN Esports","WLWLL","","dom","S"],
+    ["2025-05-30","Arabian League 2025 Summer Promotion","Round 2","Dragons Esports","Baam Esports","LWLWW","","dom","S"],
+    ["2025-08-15","NLC 2025 Summer Playoffs","Round 3","Verdant","DMG Esports","WWW","","dom","S"],
+    ["2025-08-20","NLC 2025 Summer Playoffs","Round 4","Verdant","NORD Esports","LWWW","","dom","S"],
+    ["2025-08-22","NLC 2025 Summer Playoffs","Round 5","Verdant","Rich Gang (Norwegian Team)","WWW","","dom","S"],
+    ["2025-08-30","NLC 2025 Summer Playoffs","Final","Verdant","Los Ratones","LLL","","dom","S"],
+    ["2025-10-11","EMEA Masters 2025 Summer Main Event","Round of 16","Verdant","Karmine Corp Blue","LWLL","","dom","S"],
+    ["2025-12-07","Legends Premier League Season 2","Final","Ruddy Corporation","GLORE.FIFINE","LWWW","r","dom","S"],
+    ["2026-02-12","Hitpoint Winter 2026 Main Event","Round 1","Nightbirds","Meavedron","WWW","","dom","S"],
+    ["2026-02-15","Hitpoint Winter 2026 Main Event","Round 2","Nightbirds","eSuba","WWW","","dom","S"],
+    ["2026-02-26","Hitpoint Winter 2026 Main Event","Round 4","Nightbirds","BRUTE","WWLW","","dom","S"],
+    ["2026-03-07","Hitpoint Winter 2026 Main Event","Final","Nightbirds","BRUTE","WWW","","dom","S"],
+    ["2026-05-23","Hitpoint Masters 2026 Spring Playoffs","Round 1","Nightbirds","Meavedron","WWW","","dom","S"],
+    ["2026-05-30","Hitpoint Masters 2026 Spring Playoffs","Round 3","Nightbirds","CITA Kaizen","WWLLL","","dom","S"],
+    ["2026-06-02","Hitpoint Masters 2026 Spring Playoffs","Round 3","Nightbirds","eSuba","WWW","","dom","S"],
+    ["2026-06-05","Hitpoint Masters 2026 Spring Playoffs","Final","Nightbirds","CITA Kaizen","LLL","","dom","S"],
+    ["2026-09-08","Hitpoint Masters 2026 Summer Playoffs","Round 1","Nightbirds","EXILE esports","WWW","","dom","S"],
+    ["2026-09-15","Hitpoint Masters 2026 Summer Playoffs","Round 3","Nightbirds","CITA Kaizen","WWW","","dom","S"],
+    ["2026-09-20","Hitpoint Masters 2026 Summer Playoffs","Final","Nightbirds","eSuba","WWW","","dom","S"]
+  ],
+  "unknown": []
+}

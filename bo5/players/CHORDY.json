@@ -1,1 +1,34 @@
-{"player":"CHORDY","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2021-03-25","Liga Master Flow 2021 Opening Playoffs","Quarterfinal","Intel New Indians","Undead Gaming","LLL","","dom","S"],["2021-07-15","Liga Master Flow 2021 Closing Playoffs","Quarterfinal","Maycam Evolve","Undead Gaming","LLL","","dom","S"],["2022-03-24","Liga Master Flow 2022 Opening Playoffs","Quarterfinal","Boca Juniors Gaming","Undead Gaming","WWW","","dom","S"],["2022-04-07","Liga Master Flow 2022 Opening Playoffs","Semifinal","Boca Juniors Gaming","Leviatan","LLL","","dom","S"],["2022-07-07","Liga Master Flow 2022 Closing Playoffs","Quarterfinal","Boca Juniors Gaming","EBRO","LWWW","","dom","S"],["2022-07-15","Liga Master Flow 2022 Closing Playoffs","Semifinal","Boca Juniors Gaming","Pampas","WWW","","dom","S"],["2022-07-29","Liga Master Flow 2022 Closing Playoffs","Final","Boca Juniors Gaming","Leviatan","LLL","","dom","S"],["2023-03-03","Liga Master Flow 2023 Opening Playoffs","Round 1","PRIMATE","WAP Esports","WWLLW","","dom","S"],["2023-03-16","Liga Master Flow 2023 Opening Playoffs","Round 3","PRIMATE","Pampas","LLWWL","","dom","S"],["2023-03-23","Liga Master Flow 2023 Opening Playoffs","Round 3","PRIMATE","WAP Esports","WLLL","","dom","S"],["2024-06-05","Liga Regional Sur 2024 2025 Promotion","Qualifier","Furious Gaming","Seven Dark","WWW","","dom","S"],["2024-06-24","Liga Regional Sur 2024 Playoffs","Round 1","Meta Gaming","WAP Esports","WLLL","","dom","S"],["2024-07-11","Liga Regional Sur 2024 Playoffs","Round 1","Meta Gaming","Undead Gaming","LLWL","","dom","S"],["2025-05-19","Liga Regional Sur 2025 Split 1 Playoffs","Round 1","WAP Esports","Sicar Esports","WWLLW","","dom","S"],["2025-05-27","Liga Regional Sur 2025 Split 1 Playoffs","Round 2","WAP Esports","Maze Gaming","LWLWL","","dom","S"],["2025-06-02","Liga Regional Sur 2025 Split 1 Playoffs","Round 2","WAP Esports","Farenvehn","WLWLL","","dom","S"],["2025-09-02","Liga Regional Sur 2025 Split 2 Playoffs","Round 4","Farenvehn","Sicar Esports","WWLW","","dom","S"],["2025-09-10","Liga Regional Sur 2025 Split 2 Playoffs","Final","Farenvehn","Sicar Esports","LWWW","","dom","S"],["2025-10-01","LTA South 2026 Promotion","Round 1","Farenvehn","Alpha7 Esports","WLLL","","dom","P"],["2025-10-04","LTA South 2026 Promotion","Round 1","Farenvehn","Flamengo MDL","LWLWL","","dom","P"],["2026-04-28","Liga Regional Sur 2026 Split 1 Playoffs","Round 1","Volticons","Malvinas Gaming","WLWLW","","dom","S"],["2026-05-26","Liga Regional Sur 2026 Split 1 Playoffs","Round 3","Volticons","Golden Lions","WLLL","","dom","S"],["2026-06-02","Liga Regional Sur 2026 Split 1 Playoffs","Round 3","Volticons","9z Globant","LWWW","","dom","S"],["2026-06-09","Liga Regional Sur 2026 Split 1 Playoffs","Final","Volticons","Golden Lions","WWW","","dom","S"],["2026-07-21","Liga Regional Sur 2026 Split 2 Playoffs","Round 1","Volticons","Golden Lions","WLLL","","dom","S"],["2026-08-03","Liga Regional Sur 2026 Split 2 Playoffs","Round 1","Volticons","Docta Esports","LWLL","","dom","S"]],"unknown":[]}
+{
+  "player": "CHORDY",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2021-03-25","Liga Master Flow 2021 Opening Playoffs","Quarterfinal","Intel New Indians","Undead Gaming","LLL","","dom","S"],
+    ["2021-07-15","Liga Master Flow 2021 Closing Playoffs","Quarterfinal","Maycam Evolve","Undead Gaming","LLL","","dom","S"],
+    ["2022-03-24","Liga Master Flow 2022 Opening Playoffs","Quarterfinal","Boca Juniors Gaming","Undead Gaming","WWW","","dom","S"],
+    ["2022-04-07","Liga Master Flow 2022 Opening Playoffs","Semifinal","Boca Juniors Gaming","Leviatan","LLL","","dom","S"],
+    ["2022-07-07","Liga Master Flow 2022 Closing Playoffs","Quarterfinal","Boca Juniors Gaming","EBRO","LWWW","","dom","S"],
+    ["2022-07-15","Liga Master Flow 2022 Closing Playoffs","Semifinal","Boca Juniors Gaming","Pampas","WWW","","dom","S"],
+    ["2022-07-29","Liga Master Flow 2022 Closing Playoffs","Final","Boca Juniors Gaming","Leviatan","LLL","","dom","S"],
+    ["2023-03-03","Liga Master Flow 2023 Opening Playoffs","Round 1","PRIMATE","WAP Esports","WWLLW","","dom","S"],
+    ["2023-03-16","Liga Master Flow 2023 Opening Playoffs","Round 3","PRIMATE","Pampas","LLWWL","","dom","S"],
+    ["2023-03-23","Liga Master Flow 2023 Opening Playoffs","Round 3","PRIMATE","WAP Esports","WLLL","","dom","S"],
+    ["2024-06-05","Liga Regional Sur 2024 2025 Promotion","Qualifier","Furious Gaming","Seven Dark","WWW","","dom","S"],
+    ["2024-06-24","Liga Regional Sur 2024 Playoffs","Round 1","Meta Gaming","WAP Esports","WLLL","","dom","S"],
+    ["2024-07-11","Liga Regional Sur 2024 Playoffs","Round 1","Meta Gaming","Undead Gaming","LLWL","","dom","S"],
+    ["2025-05-19","Liga Regional Sur 2025 Split 1 Playoffs","Round 1","WAP Esports","Sicar Esports","WWLLW","","dom","S"],
+    ["2025-05-27","Liga Regional Sur 2025 Split 1 Playoffs","Round 2","WAP Esports","Maze Gaming","LWLWL","","dom","S"],
+    ["2025-06-02","Liga Regional Sur 2025 Split 1 Playoffs","Round 2","WAP Esports","Farenvehn","WLWLL","","dom","S"],
+    ["2025-09-02","Liga Regional Sur 2025 Split 2 Playoffs","Round 4","Farenvehn","Sicar Esports","WWLW","","dom","S"],
+    ["2025-09-10","Liga Regional Sur 2025 Split 2 Playoffs","Final","Farenvehn","Sicar Esports","LWWW","","dom","S"],
+    ["2025-10-01","LTA South 2026 Promotion","Round 1","Farenvehn","Alpha7 Esports","WLLL","","dom","P"],
+    ["2025-10-04","LTA South 2026 Promotion","Round 1","Farenvehn","Flamengo MDL","LWLWL","","dom","P"],
+    ["2026-04-28","Liga Regional Sur 2026 Split 1 Playoffs","Round 1","Volticons","Malvinas Gaming","WLWLW","","dom","S"],
+    ["2026-05-26","Liga Regional Sur 2026 Split 1 Playoffs","Round 3","Volticons","Golden Lions","WLLL","","dom","S"],
+    ["2026-06-02","Liga Regional Sur 2026 Split 1 Playoffs","Round 3","Volticons","9z Globant","LWWW","","dom","S"],
+    ["2026-06-09","Liga Regional Sur 2026 Split 1 Playoffs","Final","Volticons","Golden Lions","WWW","","dom","S"],
+    ["2026-07-21","Liga Regional Sur 2026 Split 2 Playoffs","Round 1","Volticons","Golden Lions","WLLL","","dom","S"],
+    ["2026-08-03","Liga Regional Sur 2026 Split 2 Playoffs","Round 1","Volticons","Docta Esports","LWLL","","dom","S"]
+  ],
+  "unknown": []
+}

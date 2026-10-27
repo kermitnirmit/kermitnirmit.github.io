@@ -1,1 +1,28 @@
-{"player":"xyno","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2024-04-09","CBLOL Academy 2024 Split 1 Playoffs","Stage 2 Round 2","FURIA Academy","Vivo Keyd Stars Academy","LLL","","dom","S"],["2024-04-15","CBLOL Academy 2024 Split 1 Playoffs","Stage 2 Round 2","FURIA Academy","LOUD Academy","LWWLL","","dom","S"],["2024-07-31","CBLOL Academy 2024 Split 2 Playoffs","Round 2","FURIA Academy","KaBuM! Academy","WLWW","","dom","S"],["2024-08-19","CBLOL Academy 2024 Split 2 Playoffs","Round 4","FURIA Academy","paiN Gaming Academy","LLL","","dom","S"],["2024-08-21","CBLOL Academy 2024 Split 2 Playoffs","Round 4","FURIA Academy","Vivo Keyd Stars Academy","WLWLL","","dom","S"],["2025-06-02","Circuito Desafiante 2025 Split 1 Playoffs","Round 4","Vivo Keyd Stars Academy","RED Academy","LLL","","dom","S"],["2025-06-04","Circuito Desafiante 2025 Split 1 Playoffs","Round 4","Vivo Keyd Stars Academy","Stellae Gaming","WWW","","dom","S"],["2025-06-09","Circuito Desafiante 2025 Split 1 Playoffs","Final","Vivo Keyd Stars Academy","RED Academy","LLL","","dom","S"],["2025-09-08","Circuito Desafiante 2025 Split 2 Playoffs","Round 4","Vivo Keyd Stars Academy","Alpha7 Esports","WLLWW","","dom","S"],["2025-09-12","Circuito Desafiante 2025 Split 2 Playoffs","Final","Vivo Keyd Stars Academy","Alpha7 Esports","LWWW","","dom","S"],["2026-02-21","CBLOL 2026 Cup","Round 4","LOUD","RED Canids","LWWW","","dom","P"],["2026-03-01","CBLOL 2026 Cup","Final","LOUD","RED Canids","WWW","","dom","P"],["2026-03-17","First Stand 2026","Groups Day 2","LOUD","LYON (2024 American Team)","LWLWL","","intl","P"],["2026-03-19","First Stand 2026","Groups Day 4","LOUD","JD Gaming","LLL","","intl","P"],["2026-05-09","CBLOL 2026 Split 1 Playoffs","Round 1","LOUD","Vivo Keyd Stars","WWLW","","dom","P"],["2026-05-17","CBLOL 2026 Split 1 Playoffs","Round 2","LOUD","FURIA","LLL","","dom","P"],["2026-05-25","CBLOL 2026 Split 1 Playoffs","Round 2","LOUD","LØS","LLWWL","","dom","P"],["2026-09-13","CBLOL 2026 Split 2 Playoffs","Round 2","LOUD","paiN Gaming","LWWW","","dom","P"],["2026-09-27","CBLOL 2026 Split 2 Playoffs","Round 4","LOUD","LØS","LLWWL","","dom","P"],["2026-10-03","CBLOL 2026 Split 2 Playoffs","Round 4","LOUD","FURIA","LLL","","dom","P"]],"unknown":[]}
+{
+  "player": "xyno",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2024-04-09","CBLOL Academy 2024 Split 1 Playoffs","Stage 2 Round 2","FURIA Academy","Vivo Keyd Stars Academy","LLL","","dom","S"],
+    ["2024-04-15","CBLOL Academy 2024 Split 1 Playoffs","Stage 2 Round 2","FURIA Academy","LOUD Academy","LWWLL","","dom","S"],
+    ["2024-07-31","CBLOL Academy 2024 Split 2 Playoffs","Round 2","FURIA Academy","KaBuM! Academy","WLWW","","dom","S"],
+    ["2024-08-19","CBLOL Academy 2024 Split 2 Playoffs","Round 4","FURIA Academy","paiN Gaming Academy","LLL","","dom","S"],
+    ["2024-08-21","CBLOL Academy 2024 Split 2 Playoffs","Round 4","FURIA Academy","Vivo Keyd Stars Academy","WLWLL","","dom","S"],
+    ["2025-06-02","Circuito Desafiante 2025 Split 1 Playoffs","Round 4","Vivo Keyd Stars Academy","RED Academy","LLL","","dom","S"],
+    ["2025-06-04","Circuito Desafiante 2025 Split 1 Playoffs","Round 4","Vivo Keyd Stars Academy","Stellae Gaming","WWW","","dom","S"],
+    ["2025-06-09","Circuito Desafiante 2025 Split 1 Playoffs","Final","Vivo Keyd Stars Academy","RED Academy","LLL","","dom","S"],
+    ["2025-09-08","Circuito Desafiante 2025 Split 2 Playoffs","Round 4","Vivo Keyd Stars Academy","Alpha7 Esports","WLLWW","","dom","S"],
+    ["2025-09-12","Circuito Desafiante 2025 Split 2 Playoffs","Final","Vivo Keyd Stars Academy","Alpha7 Esports","LWWW","","dom","S"],
+    ["2026-02-21","CBLOL 2026 Cup","Round 4","LOUD","RED Canids","LWWW","","dom","P"],
+    ["2026-03-01","CBLOL 2026 Cup","Final","LOUD","RED Canids","WWW","","dom","P"],
+    ["2026-03-17","First Stand 2026","Groups Day 2","LOUD","LYON (2024 American Team)","LWLWL","","intl","P"],
+    ["2026-03-19","First Stand 2026","Groups Day 4","LOUD","JD Gaming","LLL","","intl","P"],
+    ["2026-05-09","CBLOL 2026 Split 1 Playoffs","Round 1","LOUD","Vivo Keyd Stars","WWLW","","dom","P"],
+    ["2026-05-17","CBLOL 2026 Split 1 Playoffs","Round 2","LOUD","FURIA","LLL","","dom","P"],
+    ["2026-05-25","CBLOL 2026 Split 1 Playoffs","Round 2","LOUD","LØS","LLWWL","","dom","P"],
+    ["2026-09-13","CBLOL 2026 Split 2 Playoffs","Round 2","LOUD","paiN Gaming","LWWW","","dom","P"],
+    ["2026-09-27","CBLOL 2026 Split 2 Playoffs","Round 4","LOUD","LØS","LLWWL","","dom","P"],
+    ["2026-10-03","CBLOL 2026 Split 2 Playoffs","Round 4","LOUD","FURIA","LLL","","dom","P"]
+  ],
+  "unknown": []
+}

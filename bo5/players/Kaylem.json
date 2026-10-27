@@ -1,1 +1,34 @@
-{"player":"Kaylem","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2021-03-21","Esports Balkan League Season 8 Playoffs","Semifinal","Z10 ESHARK","CR4ZY","WWW","","dom","S"],["2021-03-27","Esports Balkan League Season 8 Playoffs","Final","Z10 ESHARK","SAIM SE SuppUp","LLWL","","dom","S"],["2021-10-17","NLC 2022 Spring Qualifier","Round 3","Resolve","Dusty","LWWLW","","dom","S"],["2022-09-12","NLC 2023 Promotion","Round 1","MNM Gaming","UniQ Esports Club","LWWW","","dom","S"],["2022-09-26","NLC 2023 Promotion","Round 2","MNM Gaming","Nativz","WLWLL","","dom","S"],["2022-09-28","NLC 2023 Promotion","Round 2","MNM Gaming","UniQ Esports Club","WWW","","dom","S"],["2023-03-24","LVP SuperLiga 2nd Division 2023 Spring Playoffs","Round 1","ZETA","LEX Esports","WWW","","dom","S"],["2023-03-29","LVP SuperLiga 2nd Division 2023 Spring Playoffs","Round 2","ZETA","Ramboot Club","LLL","","dom","S"],["2023-08-02","LVP SuperLiga 2nd Division 2023 Summer Playoffs","Round 1","ZETA","AYM Esports","LLL","","dom","S"],["2024-03-24","LVP SuperLiga 2nd Division 2024 Spring Playoffs","Round 1","Stormbringers","LUA Gaming","WLWLL","","dom","S"],["2024-03-29","LVP SuperLiga 2nd Division 2024 Spring Playoffs","Semifinal","Stormbringers","Heracles Gaming","WWW","","dom","S"],["2024-04-12","LVP SuperLiga 2nd Division 2024 Spring Playoffs","Final","Stormbringers","LUA Gaming","LLL","","dom","S"],["2024-07-16","LVP SuperLiga 2nd Division 2024 Summer Playoffs","Round 1","ECORP","Tan'i eSports","WWW","","dom","S"],["2024-07-19","LVP SuperLiga 2nd Division 2024 Summer Playoffs","Semifinal","ECORP","Stormbringers","LWWLL","","dom","S"],["2025-02-26","LPLOL 2025 Winter Split","Semifinal","White Dragons","FlameHard","LLL","","dom","S"],["2025-04-18","LIT 2025 Spring Playoffs","Round 2","Axolotl","Colossal Gaming","WWW","","dom","S"],["2025-05-03","LIT 2025 Spring Playoffs","Round 4","Axolotl","GMBLERS Esports","WLWW","","dom","S"],["2025-05-23","LIT 2025 Spring Playoffs","Final","Axolotl","Colossal Gaming","LLL","","dom","S"],["2025-10-25","CineLeague 2025","Final","6GPA","Die Pizzaboten","LLL","","dom","S"],["2025-11-24","Prime League 2nd Division 2026 Fall Playoffs","Round 1","6GPA","Spongecord prime","WWLW","","dom","S"],["2025-11-27","Prime League 2nd Division 2026 Fall Playoffs","Round 2","6GPA","DKB XPERION NXT","LLL","","dom","S"],["2025-12-01","Prime League 2nd Division 2026 Fall Playoffs","Round 2","6GPA","All for One Gaming","WWLW","","dom","S"],["2025-12-05","Prime League 2nd Division 2026 Fall Playoffs","Round 3","6GPA","CGN Esports","LLWWW","","dom","S"],["2025-12-08","Prime League 2nd Division 2026 Fall Playoffs","Round 4","6GPA","DKB XPERION NXT","LWWLW","","dom","S"],["2025-12-12","Prime League 2nd Division 2026 Fall Playoffs","Grand Final","6GPA","VfB eSports","LLL","","dom","S"],["2026-08-27","LIT 2026 Summer Playoffs","Round 2","EKO Esports","TITANS","LLL","","dom","S"]],"unknown":[]}
+{
+  "player": "Kaylem",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2021-03-21","Esports Balkan League Season 8 Playoffs","Semifinal","Z10 ESHARK","CR4ZY","WWW","","dom","S"],
+    ["2021-03-27","Esports Balkan League Season 8 Playoffs","Final","Z10 ESHARK","SAIM SE SuppUp","LLWL","","dom","S"],
+    ["2021-10-17","NLC 2022 Spring Qualifier","Round 3","Resolve","Dusty","LWWLW","","dom","S"],
+    ["2022-09-12","NLC 2023 Promotion","Round 1","MNM Gaming","UniQ Esports Club","LWWW","","dom","S"],
+    ["2022-09-26","NLC 2023 Promotion","Round 2","MNM Gaming","Nativz","WLWLL","","dom","S"],
+    ["2022-09-28","NLC 2023 Promotion","Round 2","MNM Gaming","UniQ Esports Club","WWW","","dom","S"],
+    ["2023-03-24","LVP SuperLiga 2nd Division 2023 Spring Playoffs","Round 1","ZETA","LEX Esports","WWW","","dom","S"],
+    ["2023-03-29","LVP SuperLiga 2nd Division 2023 Spring Playoffs","Round 2","ZETA","Ramboot Club","LLL","","dom","S"],
+    ["2023-08-02","LVP SuperLiga 2nd Division 2023 Summer Playoffs","Round 1","ZETA","AYM Esports","LLL","","dom","S"],
+    ["2024-03-24","LVP SuperLiga 2nd Division 2024 Spring Playoffs","Round 1","Stormbringers","LUA Gaming","WLWLL","","dom","S"],
+    ["2024-03-29","LVP SuperLiga 2nd Division 2024 Spring Playoffs","Semifinal","Stormbringers","Heracles Gaming","WWW","","dom","S"],
+    ["2024-04-12","LVP SuperLiga 2nd Division 2024 Spring Playoffs","Final","Stormbringers","LUA Gaming","LLL","","dom","S"],
+    ["2024-07-16","LVP SuperLiga 2nd Division 2024 Summer Playoffs","Round 1","ECORP","Tan'i eSports","WWW","","dom","S"],
+    ["2024-07-19","LVP SuperLiga 2nd Division 2024 Summer Playoffs","Semifinal","ECORP","Stormbringers","LWWLL","","dom","S"],
+    ["2025-02-26","LPLOL 2025 Winter Split","Semifinal","White Dragons","FlameHard","LLL","","dom","S"],
+    ["2025-04-18","LIT 2025 Spring Playoffs","Round 2","Axolotl","Colossal Gaming","WWW","","dom","S"],
+    ["2025-05-03","LIT 2025 Spring Playoffs","Round 4","Axolotl","GMBLERS Esports","WLWW","","dom","S"],
+    ["2025-05-23","LIT 2025 Spring Playoffs","Final","Axolotl","Colossal Gaming","LLL","","dom","S"],
+    ["2025-10-25","CineLeague 2025","Final","6GPA","Die Pizzaboten","LLL","","dom","S"],
+    ["2025-11-24","Prime League 2nd Division 2026 Fall Playoffs","Round 1","6GPA","Spongecord prime","WWLW","","dom","S"],
+    ["2025-11-27","Prime League 2nd Division 2026 Fall Playoffs","Round 2","6GPA","DKB XPERION NXT","LLL","","dom","S"],
+    ["2025-12-01","Prime League 2nd Division 2026 Fall Playoffs","Round 2","6GPA","All for One Gaming","WWLW","","dom","S"],
+    ["2025-12-05","Prime League 2nd Division 2026 Fall Playoffs","Round 3","6GPA","CGN Esports","LLWWW","","dom","S"],
+    ["2025-12-08","Prime League 2nd Division 2026 Fall Playoffs","Round 4","6GPA","DKB XPERION NXT","LWWLW","","dom","S"],
+    ["2025-12-12","Prime League 2nd Division 2026 Fall Playoffs","Grand Final","6GPA","VfB eSports","LLL","","dom","S"],
+    ["2026-08-27","LIT 2026 Summer Playoffs","Round 2","EKO Esports","TITANS","LLL","","dom","S"]
+  ],
+  "unknown": []
+}

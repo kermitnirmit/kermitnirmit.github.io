@@ -1,1 +1,44 @@
-{"player":"Werlyb","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2014-12-18","EU LCS 2015 Spring Expansion","Offline","Giants Gaming","Reason Gaming","WWW","","dom","P"],["2014-12-20","EU LCS 2015 Spring Expansion","Offline","Giants Gaming","H2k-Gaming","LLL","","dom","P"],["2014-12-21","EU LCS 2015 Spring Expansion","Offline","Giants Gaming","Reason Gaming","WWW","","dom","P"],["2015-04-25","EU LCS 2015 Summer Promotion","Promotion","Giants Gaming","Reason Gaming","WWLW","","dom","P"],["2015-08-08","EU LCS 2015 Summer Playoffs","Quarterfinal","Giants Gaming","H2k-Gaming","LLL","","dom","P"],["2015-08-29","EU LCS 2015 Regional Finals","Round 1","Giants Gaming","Team ROCCAT","LLL","","dom","P"],["2016-01-11","EU Challenger Series 2016 Spring Qualifiers","Qualifier","Huma","Wonder Stag e-Sports","WWW","","dom","S"],["2016-01-13","EU Challenger Series 2016 Spring Qualifiers","Round 1","Huma","Slow and Furious","WWW","","dom","S"],["2016-01-20","EU Challenger Series 2016 Spring Qualifiers","Qualifiers","Huma","Illuminar Gaming","WWW","","dom","S"],["2016-03-08","EU Challenger Series 2016 Spring Playoffs","Semifinal","Huma","Inspire eSports","LWLWW","","dom","S"],["2016-03-15","EU Challenger Series 2016 Spring Playoffs","Final","Huma","Copenhagen Wolves","LLWWW","","dom","S"],["2016-03-26","EU LCS 2016 Summer Promotion","Qualifying Round","Huma","Team ROCCAT","LLWL","","dom","P"],["2016-03-27","EU LCS 2016 Summer Promotion","Qualifying Round","Huma","Giants Gaming","LWLL","","dom","P"],["2017-03-26","LVP Clasificatorio Challenger Series Season 12","Final","ThunderX3 Baskonia","KIYF eSports Club","LLL","r","dom",""],["2017-06-24","LVP SuperLiga Orange Season 12","Semifinal","ThunderX3 Baskonia","Valencia CF eSports","WWW","r","dom",""],["2017-06-25","LVP SuperLiga Orange Season 12","Final","ThunderX3 Baskonia","KIYF eSports Club","WWW","r","dom",""],["2017-12-16","LVP SuperLiga Orange Season 13 Playoffs","Semifinal","MAD Lions E.C.","ASUS ROG Army","WWW","r","dom",""],["2018-03-19","LVP SuperLiga Orange 2018 Spring Playoffs","Semifinal","MAD Lions E.C.","G2 Vodafone","WWLW","","dom","S"],["2018-03-25","LVP SuperLiga Orange 2018 Spring Playoffs","Final","MAD Lions E.C.","Movistar Riders","WWW","","dom","S"],["2018-06-10","Gillette XL invitational","Final","MAD Lions E.C.","K1ck eSports Club","WWW","r","dom",""],["2018-08-28","LVP SuperLiga Orange 2018 Summer Playoffs","Semifinal","MAD Lions E.C.","Movistar Riders","WWLLW","","dom","S"],["2018-09-02","LVP SuperLiga Orange 2018 Summer Playoffs","Final","MAD Lions E.C.","Vodafone Giants.Spain","WLWW","","dom","S"],["2018-09-30","European Masters 2018 Summer/Main Event","Final","MAD Lions E.C.","Ninjas in Pyjamas","WWW","","dom","S"],["2018-12-01","Iberian Cup 2018","Semifinal","MAD Lions E.C.","ASUS ROG Army","WWLW","","dom","S"],["2018-12-02","Iberian Cup 2018","Final","MAD Lions E.C.","Vodafone Giants.Spain","LWWW","","dom","S"],["2019-03-30","LEC 2019 Spring Playoffs","Round 1","SK Gaming","Splyce","WLLL","","dom","P"],["2024-11-28","NNO Cup Season 2","Round 1","Los Guarros","French Flair","LLWL","","dom","S"],["2024-11-30","NNO Cup Season 2","Round 1","Los Guarros","Die Atzen","WWW","","dom","S"],["2024-12-02","NNO Cup Season 2","Round 2","Los Guarros","No Need Orga","WLWW","","dom","S"],["2024-12-03","NNO Cup Season 2","Round 3","Los Guarros","5 Pigs 1 Team","LLL","","dom","S"],["2025-06-19","Red Bull Team 5","Final","Werlyb Velvet","PauSenpai Solstice","WWW","","dom","S"],["2025-09-23","ElmiilloR Invitational Cup","Playoffs","Team Werlyb","Team Nissaxter","WWW","r","dom","S"]],"unknown":[["2017-03-20","LVP Clasificatorio Challenger Series Season 12","Semifinal","ThunderX3 Baskonia","The G-Lab Penguins","3-1","","dom",""],["2017-12-17","LVP SuperLiga Orange Season 13 Playoffs","Final","MAD Lions E.C.","Giants Only The Brave","2-3","","dom",""],["2025-09-24","ElmiilloR Invitational Cup","Playoffs","Team Werlyb","Team Th3Antonio","2-3","","dom","S"]]}
+{
+  "player": "Werlyb",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2014-12-18","EU LCS 2015 Spring Expansion","Offline","Giants Gaming","Reason Gaming","WWW","","dom","P"],
+    ["2014-12-20","EU LCS 2015 Spring Expansion","Offline","Giants Gaming","H2k-Gaming","LLL","","dom","P"],
+    ["2014-12-21","EU LCS 2015 Spring Expansion","Offline","Giants Gaming","Reason Gaming","WWW","","dom","P"],
+    ["2015-04-25","EU LCS 2015 Summer Promotion","Promotion","Giants Gaming","Reason Gaming","WWLW","","dom","P"],
+    ["2015-08-08","EU LCS 2015 Summer Playoffs","Quarterfinal","Giants Gaming","H2k-Gaming","LLL","","dom","P"],
+    ["2015-08-29","EU LCS 2015 Regional Finals","Round 1","Giants Gaming","Team ROCCAT","LLL","","dom","P"],
+    ["2016-01-11","EU Challenger Series 2016 Spring Qualifiers","Qualifier","Huma","Wonder Stag e-Sports","WWW","","dom","S"],
+    ["2016-01-13","EU Challenger Series 2016 Spring Qualifiers","Round 1","Huma","Slow and Furious","WWW","","dom","S"],
+    ["2016-01-20","EU Challenger Series 2016 Spring Qualifiers","Qualifiers","Huma","Illuminar Gaming","WWW","","dom","S"],
+    ["2016-03-08","EU Challenger Series 2016 Spring Playoffs","Semifinal","Huma","Inspire eSports","LWLWW","","dom","S"],
+    ["2016-03-15","EU Challenger Series 2016 Spring Playoffs","Final","Huma","Copenhagen Wolves","LLWWW","","dom","S"],
+    ["2016-03-26","EU LCS 2016 Summer Promotion","Qualifying Round","Huma","Team ROCCAT","LLWL","","dom","P"],
+    ["2016-03-27","EU LCS 2016 Summer Promotion","Qualifying Round","Huma","Giants Gaming","LWLL","","dom","P"],
+    ["2017-03-26","LVP Clasificatorio Challenger Series Season 12","Final","ThunderX3 Baskonia","KIYF eSports Club","LLL","r","dom",""],
+    ["2017-06-24","LVP SuperLiga Orange Season 12","Semifinal","ThunderX3 Baskonia","Valencia CF eSports","WWW","r","dom",""],
+    ["2017-06-25","LVP SuperLiga Orange Season 12","Final","ThunderX3 Baskonia","KIYF eSports Club","WWW","r","dom",""],
+    ["2017-12-16","LVP SuperLiga Orange Season 13 Playoffs","Semifinal","MAD Lions E.C.","ASUS ROG Army","WWW","r","dom",""],
+    ["2018-03-19","LVP SuperLiga Orange 2018 Spring Playoffs","Semifinal","MAD Lions E.C.","G2 Vodafone","WWLW","","dom","S"],
+    ["2018-03-25","LVP SuperLiga Orange 2018 Spring Playoffs","Final","MAD Lions E.C.","Movistar Riders","WWW","","dom","S"],
+    ["2018-06-10","Gillette XL invitational","Final","MAD Lions E.C.","K1ck eSports Club","WWW","r","dom",""],
+    ["2018-08-28","LVP SuperLiga Orange 2018 Summer Playoffs","Semifinal","MAD Lions E.C.","Movistar Riders","WWLLW","","dom","S"],
+    ["2018-09-02","LVP SuperLiga Orange 2018 Summer Playoffs","Final","MAD Lions E.C.","Vodafone Giants.Spain","WLWW","","dom","S"],
+    ["2018-09-30","European Masters 2018 Summer/Main Event","Final","MAD Lions E.C.","Ninjas in Pyjamas","WWW","","dom","S"],
+    ["2018-12-01","Iberian Cup 2018","Semifinal","MAD Lions E.C.","ASUS ROG Army","WWLW","","dom","S"],
+    ["2018-12-02","Iberian Cup 2018","Final","MAD Lions E.C.","Vodafone Giants.Spain","LWWW","","dom","S"],
+    ["2019-03-30","LEC 2019 Spring Playoffs","Round 1","SK Gaming","Splyce","WLLL","","dom","P"],
+    ["2024-11-28","NNO Cup Season 2","Round 1","Los Guarros","French Flair","LLWL","","dom","S"],
+    ["2024-11-30","NNO Cup Season 2","Round 1","Los Guarros","Die Atzen","WWW","","dom","S"],
+    ["2024-12-02","NNO Cup Season 2","Round 2","Los Guarros","No Need Orga","WLWW","","dom","S"],
+    ["2024-12-03","NNO Cup Season 2","Round 3","Los Guarros","5 Pigs 1 Team","LLL","","dom","S"],
+    ["2025-06-19","Red Bull Team 5","Final","Werlyb Velvet","PauSenpai Solstice","WWW","","dom","S"],
+    ["2025-09-23","ElmiilloR Invitational Cup","Playoffs","Team Werlyb","Team Nissaxter","WWW","r","dom","S"]
+  ],
+  "unknown": [
+    ["2017-03-20","LVP Clasificatorio Challenger Series Season 12","Semifinal","ThunderX3 Baskonia","The G-Lab Penguins","3-1","","dom",""],
+    ["2017-12-17","LVP SuperLiga Orange Season 13 Playoffs","Final","MAD Lions E.C.","Giants Only The Brave","2-3","","dom",""],
+    ["2025-09-24","ElmiilloR Invitational Cup","Playoffs","Team Werlyb","Team Th3Antonio","2-3","","dom","S"]
+  ]
+}

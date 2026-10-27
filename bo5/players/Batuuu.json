@@ -1,1 +1,32 @@
-{"player":"Batuuu","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2022-08-16","Turkey Academy League 2022 Summer Playoffs","Semifinal","Dark Passage Academy","NASR eSports Turkey Academy","WLWLL","","dom","S"],["2023-03-22","Elite Series 2nd Division 2023 Spring Playoffs","Round 1","Rift Sloths","A One Man Army","LLL","","dom","S"],["2023-03-29","Elite Series 2nd Division 2023 Spring Playoffs","Semifinal","Rift Sloths","Reapers Gaming (Italian Organisation)","LLWL","","dom","S"],["2023-08-16","Arabian League 2nd Division 2023 Summer Playoffs","Round 1","One More Esports","Twisted Minds","WWLW","","dom","S"],["2023-08-19","Arabian League 2nd Division 2023 Summer Playoffs","Final","One More Esports","Twisted Minds","WLLL","","dom","S"],["2024-07-25","TCL 2024 Summer Playoffs","Round 2","BoostGate Esports","Papara SuperMassive","LWLL","","dom","S"],["2024-07-30","TCL 2024 Summer Playoffs","Semifinal","BoostGate Esports","Dark Passage","WLLWL","","dom","S"],["2025-03-05","TCL 2025 Winter Playoffs","Round 2","Misa Esports","BoostGate Esports","WLWLW","","dom","S"],["2025-03-06","TCL 2025 Winter Playoffs","Semifinal","Misa Esports","Papara SuperMassive","WWLLL","","dom","S"],["2025-05-16","TCL 2025 Spring Playoffs","Round 2","Misa Esports","BoostGate Esports","WWLLW","","dom","S"],["2025-05-30","TCL 2025 Spring Playoffs","Final","Misa Esports","BoostGate Esports","LLL","","dom","S"],["2025-06-11","EMEA Masters 2025 Spring","Round of 16","Misa Esports","eSuba","WWW","","dom","S"],["2025-06-16","EMEA Masters 2025 Spring","Quarterfinal","Misa Esports","BK ROG Esports","LLWL","","dom","S"],["2025-09-02","TCL 2025 Summer Playoffs","Round 2","Misa Esports","Bushido Wildcats","LWWW","","dom","S"],["2025-09-12","TCL 2025 Summer Playoffs","Final","Misa Esports","Bushido Wildcats","LWWLW","","dom","S"],["2025-10-11","EMEA Masters 2025 Summer Main Event","Round of 16","Misa Esports","Forsaken (Polish Team)","WWW","","dom","S"],["2025-10-16","EMEA Masters 2025 Summer Main Event","Quarterfinal","Misa Esports","Karmine Corp Blue","LLL","","dom","S"],["2026-06-03","LES 2026 Spring Playoffs","Semifinal","Team Heretics Academy","Barça eSports","WWLW","","dom","S"],["2026-06-05","LES 2026 Spring Playoffs","Final","Team Heretics Academy","UCAM Esports","WWLW","","dom","S"],["2026-06-13","EMEA Masters 2026 Spring Main Event","Quarterfinal","Team Heretics Academy","Eintracht Spandau","LLWWL","","dom","S"],["2026-08-19","LES 2026 Summer Playoffs","Semifinal","Team Heretics Academy","UCAM Esports","WWW","","dom","S"],["2026-08-20","LES 2026 Summer Playoffs","Final","Team Heretics Academy","Movistar KOI Fénix","WLLWL","","dom","S"],["2026-09-06","LES 2026 Final Four","Final","Team Heretics Academy","Movistar KOI Fénix","WLWLL","","dom","S"],["2026-10-07","EMEA Masters 2026 Summer Main Event","Round of 16","Team Heretics Academy","G2 NORD","LLWWL","","dom","S"]],"unknown":[]}
+{
+  "player": "Batuuu",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2022-08-16","Turkey Academy League 2022 Summer Playoffs","Semifinal","Dark Passage Academy","NASR eSports Turkey Academy","WLWLL","","dom","S"],
+    ["2023-03-22","Elite Series 2nd Division 2023 Spring Playoffs","Round 1","Rift Sloths","A One Man Army","LLL","","dom","S"],
+    ["2023-03-29","Elite Series 2nd Division 2023 Spring Playoffs","Semifinal","Rift Sloths","Reapers Gaming (Italian Organisation)","LLWL","","dom","S"],
+    ["2023-08-16","Arabian League 2nd Division 2023 Summer Playoffs","Round 1","One More Esports","Twisted Minds","WWLW","","dom","S"],
+    ["2023-08-19","Arabian League 2nd Division 2023 Summer Playoffs","Final","One More Esports","Twisted Minds","WLLL","","dom","S"],
+    ["2024-07-25","TCL 2024 Summer Playoffs","Round 2","BoostGate Esports","Papara SuperMassive","LWLL","","dom","S"],
+    ["2024-07-30","TCL 2024 Summer Playoffs","Semifinal","BoostGate Esports","Dark Passage","WLLWL","","dom","S"],
+    ["2025-03-05","TCL 2025 Winter Playoffs","Round 2","Misa Esports","BoostGate Esports","WLWLW","","dom","S"],
+    ["2025-03-06","TCL 2025 Winter Playoffs","Semifinal","Misa Esports","Papara SuperMassive","WWLLL","","dom","S"],
+    ["2025-05-16","TCL 2025 Spring Playoffs","Round 2","Misa Esports","BoostGate Esports","WWLLW","","dom","S"],
+    ["2025-05-30","TCL 2025 Spring Playoffs","Final","Misa Esports","BoostGate Esports","LLL","","dom","S"],
+    ["2025-06-11","EMEA Masters 2025 Spring","Round of 16","Misa Esports","eSuba","WWW","","dom","S"],
+    ["2025-06-16","EMEA Masters 2025 Spring","Quarterfinal","Misa Esports","BK ROG Esports","LLWL","","dom","S"],
+    ["2025-09-02","TCL 2025 Summer Playoffs","Round 2","Misa Esports","Bushido Wildcats","LWWW","","dom","S"],
+    ["2025-09-12","TCL 2025 Summer Playoffs","Final","Misa Esports","Bushido Wildcats","LWWLW","","dom","S"],
+    ["2025-10-11","EMEA Masters 2025 Summer Main Event","Round of 16","Misa Esports","Forsaken (Polish Team)","WWW","","dom","S"],
+    ["2025-10-16","EMEA Masters 2025 Summer Main Event","Quarterfinal","Misa Esports","Karmine Corp Blue","LLL","","dom","S"],
+    ["2026-06-03","LES 2026 Spring Playoffs","Semifinal","Team Heretics Academy","Barça eSports","WWLW","","dom","S"],
+    ["2026-06-05","LES 2026 Spring Playoffs","Final","Team Heretics Academy","UCAM Esports","WWLW","","dom","S"],
+    ["2026-06-13","EMEA Masters 2026 Spring Main Event","Quarterfinal","Team Heretics Academy","Eintracht Spandau","LLWWL","","dom","S"],
+    ["2026-08-19","LES 2026 Summer Playoffs","Semifinal","Team Heretics Academy","UCAM Esports","WWW","","dom","S"],
+    ["2026-08-20","LES 2026 Summer Playoffs","Final","Team Heretics Academy","Movistar KOI Fénix","WLLWL","","dom","S"],
+    ["2026-09-06","LES 2026 Final Four","Final","Team Heretics Academy","Movistar KOI Fénix","WLWLL","","dom","S"],
+    ["2026-10-07","EMEA Masters 2026 Summer Main Event","Round of 16","Team Heretics Academy","G2 NORD","LLWWL","","dom","S"]
+  ],
+  "unknown": []
+}

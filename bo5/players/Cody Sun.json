@@ -1,1 +1,35 @@
-{"player":"Cody Sun","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2017-08-26","NA LCS 2017 Summer Playoffs","Semifinal","Immortals","Counter Logic Gaming","WWW","","dom","P"],["2017-09-03","NA LCS 2017 Summer Playoffs","Final","Immortals","TSM","LWLL","","dom","P"],["2018-04-01","NA LCS 2018 Spring Playoffs","Semifinal","100 Thieves","Clutch Gaming","WLWLW","","dom","P"],["2018-04-08","NA LCS 2018 Spring Playoffs","Final","100 Thieves","Team Liquid","LLL","","dom","P"],["2018-08-26","NA LCS 2018 Summer Playoffs","Quarterfinal","100 Thieves","FlyQuest","WWW","","dom","P"],["2018-09-08","NA LCS 2018 Summer Playoffs","Third-Place Match","100 Thieves","TSM","WLWLL","p","dom","P"],["2019-08-10","LCS 2019 Summer Playoffs","Quarterfinal","Clutch Gaming","TSM","WWLW","","dom","P"],["2019-08-18","LCS 2019 Summer Playoffs","Semifinal","Clutch Gaming","Team Liquid","LWLWL","","dom","P"],["2019-08-24","LCS 2019 Summer Playoffs","Third-Place Match","Clutch Gaming","Counter Logic Gaming","WWLLL","","dom","P"],["2019-09-06","LCS 2019 Regional Finals","Round 1","Clutch Gaming","FlyQuest","WLWW","","dom","P"],["2019-09-07","LCS 2019 Regional Finals","Round 2","Clutch Gaming","Counter Logic Gaming","WWLW","","dom","P"],["2019-09-08","LCS 2019 Regional Finals","Final","Clutch Gaming","TSM","LLWWW","","dom","P"],["2019-10-07","Worlds 2019","Round 2","Clutch Gaming","Royal Youth","WWW","","worlds","P"],["2020-04-05","LCS 2020 Spring Playoffs","Round 1","100 Thieves","Cloud9","LLL","","dom","P"],["2020-04-08","LCS 2020 Spring Playoffs","Round 1","100 Thieves","TSM","LWWLL","","dom","P"],["2020-08-16","LCS 2020 Summer Playoffs","Round 1","100 Thieves","Evil Geniuses.NA","LLL","","dom","P"],["2021-04-17","LCS Proving Grounds 2021 Spring","Round 4","TSM Academy","Evil Geniuses Academy","WLLL","","dom","S"],["2021-08-18","LCS Proving Grounds 2021 Summer/Proving Grounds Qualifiers","Round 5","TSM Academy","Dignitas Academy","WWLLL","","dom","S"],["2021-08-19","LCS Proving Grounds 2021 Summer/Proving Grounds Qualifiers","Round 6","TSM Academy","Golden Guardians Academy","WLLL","","dom","S"],["2022-09-13","LFL 2023 Promotion","Round 1","Mirage Elyandra","IziDream","WWW","","dom","S"],["2022-09-19","LFL 2023 Promotion","Round 2","Mirage Elyandra","Team Oplon","LWWW","","dom","S"],["2025-10-04","LTA North 2026 Promotion","Play-In","Conviction","Estral Esports","WLLWL","","dom","P"],["2026-05-29","North American Challengers League 2026 Spring Playoffs","Round 4","CCG Esports","Conviction","LLL","","dom","S"],["2026-06-04","North American Challengers League 2026 Spring Playoffs","Round 4","CCG Esports","Winthrop University","WWLLW","","dom","S"],["2026-06-05","North American Challengers League 2026 Spring Playoffs","Final","CCG Esports","Conviction","LLL","","dom","S"],["2026-08-26","North American Challengers League 2026 Summer Playoffs","Round 1","Conviction","Dorado Gaming","WWW","","dom","S"],["2026-09-07","North American Challengers League 2026 Summer Playoffs","Round 2","Conviction","NRG","LLWWL","","dom","S"]],"unknown":[]}
+{
+  "player": "Cody Sun",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2017-08-26","NA LCS 2017 Summer Playoffs","Semifinal","Immortals","Counter Logic Gaming","WWW","","dom","P"],
+    ["2017-09-03","NA LCS 2017 Summer Playoffs","Final","Immortals","TSM","LWLL","","dom","P"],
+    ["2018-04-01","NA LCS 2018 Spring Playoffs","Semifinal","100 Thieves","Clutch Gaming","WLWLW","","dom","P"],
+    ["2018-04-08","NA LCS 2018 Spring Playoffs","Final","100 Thieves","Team Liquid","LLL","","dom","P"],
+    ["2018-08-26","NA LCS 2018 Summer Playoffs","Quarterfinal","100 Thieves","FlyQuest","WWW","","dom","P"],
+    ["2018-09-08","NA LCS 2018 Summer Playoffs","Third-Place Match","100 Thieves","TSM","WLWLL","p","dom","P"],
+    ["2019-08-10","LCS 2019 Summer Playoffs","Quarterfinal","Clutch Gaming","TSM","WWLW","","dom","P"],
+    ["2019-08-18","LCS 2019 Summer Playoffs","Semifinal","Clutch Gaming","Team Liquid","LWLWL","","dom","P"],
+    ["2019-08-24","LCS 2019 Summer Playoffs","Third-Place Match","Clutch Gaming","Counter Logic Gaming","WWLLL","","dom","P"],
+    ["2019-09-06","LCS 2019 Regional Finals","Round 1","Clutch Gaming","FlyQuest","WLWW","","dom","P"],
+    ["2019-09-07","LCS 2019 Regional Finals","Round 2","Clutch Gaming","Counter Logic Gaming","WWLW","","dom","P"],
+    ["2019-09-08","LCS 2019 Regional Finals","Final","Clutch Gaming","TSM","LLWWW","","dom","P"],
+    ["2019-10-07","Worlds 2019","Round 2","Clutch Gaming","Royal Youth","WWW","","worlds","P"],
+    ["2020-04-05","LCS 2020 Spring Playoffs","Round 1","100 Thieves","Cloud9","LLL","","dom","P"],
+    ["2020-04-08","LCS 2020 Spring Playoffs","Round 1","100 Thieves","TSM","LWWLL","","dom","P"],
+    ["2020-08-16","LCS 2020 Summer Playoffs","Round 1","100 Thieves","Evil Geniuses.NA","LLL","","dom","P"],
+    ["2021-04-17","LCS Proving Grounds 2021 Spring","Round 4","TSM Academy","Evil Geniuses Academy","WLLL","","dom","S"],
+    ["2021-08-18","LCS Proving Grounds 2021 Summer/Proving Grounds Qualifiers","Round 5","TSM Academy","Dignitas Academy","WWLLL","","dom","S"],
+    ["2021-08-19","LCS Proving Grounds 2021 Summer/Proving Grounds Qualifiers","Round 6","TSM Academy","Golden Guardians Academy","WLLL","","dom","S"],
+    ["2022-09-13","LFL 2023 Promotion","Round 1","Mirage Elyandra","IziDream","WWW","","dom","S"],
+    ["2022-09-19","LFL 2023 Promotion","Round 2","Mirage Elyandra","Team Oplon","LWWW","","dom","S"],
+    ["2025-10-04","LTA North 2026 Promotion","Play-In","Conviction","Estral Esports","WLLWL","","dom","P"],
+    ["2026-05-29","North American Challengers League 2026 Spring Playoffs","Round 4","CCG Esports","Conviction","LLL","","dom","S"],
+    ["2026-06-04","North American Challengers League 2026 Spring Playoffs","Round 4","CCG Esports","Winthrop University","WWLLW","","dom","S"],
+    ["2026-06-05","North American Challengers League 2026 Spring Playoffs","Final","CCG Esports","Conviction","LLL","","dom","S"],
+    ["2026-08-26","North American Challengers League 2026 Summer Playoffs","Round 1","Conviction","Dorado Gaming","WWW","","dom","S"],
+    ["2026-09-07","North American Challengers League 2026 Summer Playoffs","Round 2","Conviction","NRG","LLWWL","","dom","S"]
+  ],
+  "unknown": []
+}

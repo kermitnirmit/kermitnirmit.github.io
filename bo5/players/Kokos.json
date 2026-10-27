@@ -1,1 +1,29 @@
-{"player":"Kokos","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2021-12-02","League of Esports Season 2 Playoffs","Round 1","Elementalist","Forsaken (Polish Team)","LLL","r","dom","S"],["2022-10-16","Hitpoint Winter 2022 Main Event","Quarterfinal","Cryptova","Entropiq","LLL","","dom","S"],["2022-12-19","ELEAGUE Winter Cup 2022","Quarterfinal","Cryptova","tranquilo hermano","LLL","r","dom","S"],["2023-08-01","Hitpoint Masters 2024 Promotion","Round 1","Cryptova","Team UNiTY","LLL","","dom","S"],["2023-08-09","Hitpoint Masters 2024 Promotion","Round 1","Cryptova","Inside Games","WWW","","dom","S"],["2023-08-11","Hitpoint Masters 2024 Promotion","Round 2","Cryptova","GLORE","LWWW","","dom","S"],["2024-06-27","GL2D 2024 Summer Playoffs","Round 1","Team Insidious","SINS Esports","WLWW","","dom","S"],["2024-07-12","GL2D 2024 Summer Playoffs","Final","Team Insidious","SINS Esports","LWWLW","","dom","S"],["2024-07-24","Greek Legends League 2025 Promotion","Round 1","Team Insidious","Wild Panthers Esports","WWW","","dom","S"],["2024-07-30","Greek Legends League 2025 Promotion","Final","Team Insidious","Actions Per Minute","WWW","","dom","S"],["2024-09-20","Z10 Scouting Grounds Final Phase","Semifinal","Team MaKu","Team Vil","LWWLW","","dom","S"],["2024-09-21","Z10 Scouting Grounds Final Phase","Final","Team MaKu","Team Blodgharm","WLLL","","dom","S"],["2025-06-20","BaseStack Cup","Final","thanderflesz","LODIS (Polish Team)","LWLWW","","dom","S"],["2025-07-19","Hellenic Legends League 2025 Summer Super Cup","Quarterfinal","Team Paradox","Actions Per Minute","WWW","","dom","S"],["2025-07-23","Hellenic Legends League 2025 Summer Super Cup","Semifinal","Team Paradox","Gamespace Mediterranean College Esports","LWLL","","dom","S"],["2025-07-26","Hellenic Legends League 2025 Summer Super Cup","Third-Place Match","Team Paradox","Team Insidious","LLWL","","dom","S"],["2025-08-28","Hellenic Legends League 2025 Season Finals","Quarterfinal","Team Paradox","WLGaming Esports","WWW","","dom","S"],["2025-09-03","Hellenic Legends League 2025 Season Finals","Semifinal","Team Paradox","Team Phantasma","LLL","","dom","S"],["2025-09-13","Hellenic Legends League 2025 Season Finals","Third-Place Match","Team Paradox","Team Insidious","WLLWL","","dom","S"],["2026-02-12","Hitpoint Winter 2026 Main Event","Round 1","Meavedron","Nightbirds","LLL","","dom","S"],["2026-02-18","Hitpoint Winter 2026 Main Event","Round 1","Meavedron","EXILE esports","LWWLL","","dom","S"]],"unknown":[]}
+{
+  "player": "Kokos",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2021-12-02","League of Esports Season 2 Playoffs","Round 1","Elementalist","Forsaken (Polish Team)","LLL","r","dom","S"],
+    ["2022-10-16","Hitpoint Winter 2022 Main Event","Quarterfinal","Cryptova","Entropiq","LLL","","dom","S"],
+    ["2022-12-19","ELEAGUE Winter Cup 2022","Quarterfinal","Cryptova","tranquilo hermano","LLL","r","dom","S"],
+    ["2023-08-01","Hitpoint Masters 2024 Promotion","Round 1","Cryptova","Team UNiTY","LLL","","dom","S"],
+    ["2023-08-09","Hitpoint Masters 2024 Promotion","Round 1","Cryptova","Inside Games","WWW","","dom","S"],
+    ["2023-08-11","Hitpoint Masters 2024 Promotion","Round 2","Cryptova","GLORE","LWWW","","dom","S"],
+    ["2024-06-27","GL2D 2024 Summer Playoffs","Round 1","Team Insidious","SINS Esports","WLWW","","dom","S"],
+    ["2024-07-12","GL2D 2024 Summer Playoffs","Final","Team Insidious","SINS Esports","LWWLW","","dom","S"],
+    ["2024-07-24","Greek Legends League 2025 Promotion","Round 1","Team Insidious","Wild Panthers Esports","WWW","","dom","S"],
+    ["2024-07-30","Greek Legends League 2025 Promotion","Final","Team Insidious","Actions Per Minute","WWW","","dom","S"],
+    ["2024-09-20","Z10 Scouting Grounds Final Phase","Semifinal","Team MaKu","Team Vil","LWWLW","","dom","S"],
+    ["2024-09-21","Z10 Scouting Grounds Final Phase","Final","Team MaKu","Team Blodgharm","WLLL","","dom","S"],
+    ["2025-06-20","BaseStack Cup","Final","thanderflesz","LODIS (Polish Team)","LWLWW","","dom","S"],
+    ["2025-07-19","Hellenic Legends League 2025 Summer Super Cup","Quarterfinal","Team Paradox","Actions Per Minute","WWW","","dom","S"],
+    ["2025-07-23","Hellenic Legends League 2025 Summer Super Cup","Semifinal","Team Paradox","Gamespace Mediterranean College Esports","LWLL","","dom","S"],
+    ["2025-07-26","Hellenic Legends League 2025 Summer Super Cup","Third-Place Match","Team Paradox","Team Insidious","LLWL","","dom","S"],
+    ["2025-08-28","Hellenic Legends League 2025 Season Finals","Quarterfinal","Team Paradox","WLGaming Esports","WWW","","dom","S"],
+    ["2025-09-03","Hellenic Legends League 2025 Season Finals","Semifinal","Team Paradox","Team Phantasma","LLL","","dom","S"],
+    ["2025-09-13","Hellenic Legends League 2025 Season Finals","Third-Place Match","Team Paradox","Team Insidious","WLLWL","","dom","S"],
+    ["2026-02-12","Hitpoint Winter 2026 Main Event","Round 1","Meavedron","Nightbirds","LLL","","dom","S"],
+    ["2026-02-18","Hitpoint Winter 2026 Main Event","Round 1","Meavedron","EXILE esports","LWWLL","","dom","S"]
+  ],
+  "unknown": []
+}

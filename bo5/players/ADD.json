@@ -1,1 +1,35 @@
-{"player":"ADD","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2016-04-16","Challengers Korea 2016 Spring Playoffs","Final","MVP","ESC Ever","WLWLL","","dom","S"],["2016-04-29","LCK 2016 Summer Promotion","Qual","MVP","Kongdoo Monster","WLWW","","dom","P"],["2017-04-11","LCK 2017 Spring Playoffs","Round 2","MVP","KT Rolster","LLL","","dom","P"],["2017-08-28","LCK 2017 Regional Finals","Round 1","MVP","Afreeca Freecs","LLWWL","","dom","P"],["2018-04-19","LCK 2018 Summer Promotion","Qualifying Round","MVP","Griffin (Korean Team)","WLLL","","dom","P"],["2018-04-22","LCK 2018 Summer Promotion","Qualifying Round","MVP","Kongdoo Monster","WLWLW","","dom","P"],["2018-09-21","LCK 2019 Spring Promotion","Elimination Round","MVP","bbq Olivers","WLWW","","dom","P"],["2018-09-22","LCK 2019 Spring Promotion","Qualifying Round","MVP","Team BattleComics","LLL","","dom","P"],["2019-04-27","National Electronic Sports Tournament 2019","Qualifying Round","Bilibili Gaming","Royal Never Give Up","WWW","r","dom","P"],["2019-08-24","LPL 2019 Summer Playoffs","Quarterfinal","Bilibili Gaming","EDward Gaming","WLWLW","","dom","P"],["2019-08-31","LPL 2019 Summer Playoffs","Semifinal","Bilibili Gaming","FunPlus Phoenix","WLLL","","dom","P"],["2019-09-04","LPL 2019 Summer Playoffs","Third-Place Match","Bilibili Gaming","Top Esports","LLL","","dom","P"],["2021-07-22","División de Honor 2021 Closing Playoffs","Semifinal","Team Aze","Arctic Gaming Mexico","WWW","","dom","S"],["2021-07-31","División de Honor 2021 Closing Playoffs","Final","Team Aze","The Kings","WWW","","dom","S"],["2021-08-12","Regional Norte 2021 Season","Final","Team Aze","Janus Vipers","WWW","","dom","S"],["2021-09-04","LLA 2022 Opening Promotion","Final","Team Aze","Globant Emerald","WWW","","dom","P"],["2022-03-18","LLA 2022 Opening Playoffs","Round 1","Isurus","XTEN Esports","WWLW","","dom","P"],["2022-03-26","LLA 2022 Opening Playoffs","Round 2","Isurus","INFINITY","WWW","","dom","P"],["2022-04-02","LLA 2022 Opening Playoffs","Round 3","Isurus","Rainbow7","WWLLL","","dom","P"],["2022-08-07","LLA 2022 Closing Playoffs","Round 1","Isurus","Rainbow7","LWWLW","","dom","P"],["2022-08-14","LLA 2022 Closing Playoffs","Semifinal","Isurus","Estral Esports","LWLL","","dom","P"],["2022-08-21","LLA 2022 Closing Playoffs","Semifinal","Isurus","Team Aze","LWWW","","dom","P"],["2022-08-27","LLA 2022 Closing Playoffs","Final","Isurus","Estral Esports","WLWLW","","dom","P"],["2024-06-24","Liga Regional Norte 2024 Playoffs","Round 1","Fuego","Tomorrow Esports","WWW","","dom","S"],["2024-06-30","Liga Regional Norte 2024 Playoffs","Round 2","Fuego","PÊEK Gaming","WWW","","dom","S"],["2024-07-28","Liga Regional Norte 2024 Playoffs","Grand Final","Fuego","PÊEK Gaming","WWW","","dom","S"],["2024-09-20","Americas Challengers 2024","Round 2","Fuego","Fear x Starforge","LLWL","","dom","S"]],"unknown":[]}
+{
+  "player": "ADD",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2016-04-16","Challengers Korea 2016 Spring Playoffs","Final","MVP","ESC Ever","WLWLL","","dom","S"],
+    ["2016-04-29","LCK 2016 Summer Promotion","Qual","MVP","Kongdoo Monster","WLWW","","dom","P"],
+    ["2017-04-11","LCK 2017 Spring Playoffs","Round 2","MVP","KT Rolster","LLL","","dom","P"],
+    ["2017-08-28","LCK 2017 Regional Finals","Round 1","MVP","Afreeca Freecs","LLWWL","","dom","P"],
+    ["2018-04-19","LCK 2018 Summer Promotion","Qualifying Round","MVP","Griffin (Korean Team)","WLLL","","dom","P"],
+    ["2018-04-22","LCK 2018 Summer Promotion","Qualifying Round","MVP","Kongdoo Monster","WLWLW","","dom","P"],
+    ["2018-09-21","LCK 2019 Spring Promotion","Elimination Round","MVP","bbq Olivers","WLWW","","dom","P"],
+    ["2018-09-22","LCK 2019 Spring Promotion","Qualifying Round","MVP","Team BattleComics","LLL","","dom","P"],
+    ["2019-04-27","National Electronic Sports Tournament 2019","Qualifying Round","Bilibili Gaming","Royal Never Give Up","WWW","r","dom","P"],
+    ["2019-08-24","LPL 2019 Summer Playoffs","Quarterfinal","Bilibili Gaming","EDward Gaming","WLWLW","","dom","P"],
+    ["2019-08-31","LPL 2019 Summer Playoffs","Semifinal","Bilibili Gaming","FunPlus Phoenix","WLLL","","dom","P"],
+    ["2019-09-04","LPL 2019 Summer Playoffs","Third-Place Match","Bilibili Gaming","Top Esports","LLL","","dom","P"],
+    ["2021-07-22","División de Honor 2021 Closing Playoffs","Semifinal","Team Aze","Arctic Gaming Mexico","WWW","","dom","S"],
+    ["2021-07-31","División de Honor 2021 Closing Playoffs","Final","Team Aze","The Kings","WWW","","dom","S"],
+    ["2021-08-12","Regional Norte 2021 Season","Final","Team Aze","Janus Vipers","WWW","","dom","S"],
+    ["2021-09-04","LLA 2022 Opening Promotion","Final","Team Aze","Globant Emerald","WWW","","dom","P"],
+    ["2022-03-18","LLA 2022 Opening Playoffs","Round 1","Isurus","XTEN Esports","WWLW","","dom","P"],
+    ["2022-03-26","LLA 2022 Opening Playoffs","Round 2","Isurus","INFINITY","WWW","","dom","P"],
+    ["2022-04-02","LLA 2022 Opening Playoffs","Round 3","Isurus","Rainbow7","WWLLL","","dom","P"],
+    ["2022-08-07","LLA 2022 Closing Playoffs","Round 1","Isurus","Rainbow7","LWWLW","","dom","P"],
+    ["2022-08-14","LLA 2022 Closing Playoffs","Semifinal","Isurus","Estral Esports","LWLL","","dom","P"],
+    ["2022-08-21","LLA 2022 Closing Playoffs","Semifinal","Isurus","Team Aze","LWWW","","dom","P"],
+    ["2022-08-27","LLA 2022 Closing Playoffs","Final","Isurus","Estral Esports","WLWLW","","dom","P"],
+    ["2024-06-24","Liga Regional Norte 2024 Playoffs","Round 1","Fuego","Tomorrow Esports","WWW","","dom","S"],
+    ["2024-06-30","Liga Regional Norte 2024 Playoffs","Round 2","Fuego","PÊEK Gaming","WWW","","dom","S"],
+    ["2024-07-28","Liga Regional Norte 2024 Playoffs","Grand Final","Fuego","PÊEK Gaming","WWW","","dom","S"],
+    ["2024-09-20","Americas Challengers 2024","Round 2","Fuego","Fear x Starforge","LLWL","","dom","S"]
+  ],
+  "unknown": []
+}

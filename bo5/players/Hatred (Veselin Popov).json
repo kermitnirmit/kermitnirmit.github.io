@@ -1,1 +1,34 @@
-{"player":"Hatred (Veselin Popov)","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2020-01-19","Esports Balkan League Season 6 Qualification","Round 2","WarKidZ E-Sports","x25 Esports","WLWW","r","dom","S"],["2020-05-30","Esports Balkan League Season 7 Qualification","Round 2","Level Up esports","Zero Tenacity","LLL","r","dom","S"],["2020-12-15","Greek Legends League 2020 Winter Playoffs","Semifinal","Anorthosis Famagusta Esports","Team Refuse","WWLW","","dom","S"],["2020-12-21","Greek Legends League 2020 Winter Playoffs","Final","Anorthosis Famagusta Esports","Team Phantasma","WWW","","dom","S"],["2021-06-02","A1 Gaming League 2021 Grand Final","Semifinal","Breathe Your Last Breath","6 Coal","LWLL","r","dom",""],["2021-06-05","A1 Gaming League 2021 Grand Final","Third-Place Match","Breathe Your Last Breath","Definitely not washed up","LLL","r","dom",""],["2021-07-10","GLWL 2021 Summer Playoffs","Round 1","Olympiacos Alimou","Panther Stars Esports","WWW","","dom","S"],["2021-08-02","Greek Legends League 2021 Winter Promotion","Promotion","Olympiacos Alimou","CowBoySquad Imperials Esports","WWW","","dom","S"],["2021-11-23","Greek Legends League 2021 Winter Playoffs","Round 1","Olympiacos Alimou","WLGaming Esports","LWWLL","","dom","S"],["2021-12-10","Esports Balkan League 2022 Spring Qualification","Round 1","Auxesis Esports","SOVEJA","WLWW","r","dom","S"],["2022-02-20","A1 Gaming League 2021 Pro Main Event","Grand Finals","Breathe Your Last Breath","TAKEOVER (Bulgarian Team)","WWLW","r","dom",""],["2022-03-10","Esports Balkan League 2022 Spring Playoffs","Round 1","Auxesis Esports","Split Raiders","LWWW","","dom","S"],["2022-03-13","Esports Balkan League 2022 Spring Playoffs","Semifinal","Auxesis Esports","Valiance","LLL","","dom","S"],["2023-03-15","Arabian League 2nd Division 2023 Spring Playoffs","Round 1","One More Esports","Slash Lions","WWW","","dom","S"],["2023-03-16","Arabian League 2nd Division 2023 Spring Playoffs","Semifinal","One More Esports","Olympus Gaming","LWWW","","dom","S"],["2023-03-29","Arabian League 2nd Division 2023 Spring Playoffs","Final","One More Esports","Twisted Minds","WWW","","dom","S"],["2023-04-12","Arabian League 2023 Summer Promotion","Round 1","One More Esports","3BL Esports","LWLWL","","dom","S"],["2023-04-13","Arabian League 2023 Summer Promotion","Round 1","One More Esports","Twisted Minds","LWWW","","dom","S"],["2023-04-19","Arabian League 2023 Summer Promotion","Round 2","One More Esports","3BL Esports","LWWLL","","dom","S"],["2023-08-07","Esports Balkan League 2024 Promotion","Round 2","Valiance","Magaza Esports","WWW","","dom","S"],["2023-11-03","Elite Series 2023 Benelux Masters","Preliminary Round","Myth Esports","Rift Sloths","LWWW","p","dom","S"],["2026-02-10","Road Of Legends 2026 Winter Playoffs","Round 1","ZennIT","mCon esports","WWW","","dom","S"],["2026-02-12","Road Of Legends 2026 Winter Playoffs","Round 2","ZennIT","The Bandits","LWLWL","","dom","S"],["2026-06-11","Road Of Legends 2026 Summer Promotion","Round 1","ZennIT","SNOOZE Esports","WWLW","","dom","S"]],"unknown":[["2024-06-03","Saudi eLeagues 2024 Season 2","Semifinal","Fog Esports","Twisted Minds","1-3","","dom","S"]]}
+{
+  "player": "Hatred (Veselin Popov)",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2020-01-19","Esports Balkan League Season 6 Qualification","Round 2","WarKidZ E-Sports","x25 Esports","WLWW","r","dom","S"],
+    ["2020-05-30","Esports Balkan League Season 7 Qualification","Round 2","Level Up esports","Zero Tenacity","LLL","r","dom","S"],
+    ["2020-12-15","Greek Legends League 2020 Winter Playoffs","Semifinal","Anorthosis Famagusta Esports","Team Refuse","WWLW","","dom","S"],
+    ["2020-12-21","Greek Legends League 2020 Winter Playoffs","Final","Anorthosis Famagusta Esports","Team Phantasma","WWW","","dom","S"],
+    ["2021-06-02","A1 Gaming League 2021 Grand Final","Semifinal","Breathe Your Last Breath","6 Coal","LWLL","r","dom",""],
+    ["2021-06-05","A1 Gaming League 2021 Grand Final","Third-Place Match","Breathe Your Last Breath","Definitely not washed up","LLL","r","dom",""],
+    ["2021-07-10","GLWL 2021 Summer Playoffs","Round 1","Olympiacos Alimou","Panther Stars Esports","WWW","","dom","S"],
+    ["2021-08-02","Greek Legends League 2021 Winter Promotion","Promotion","Olympiacos Alimou","CowBoySquad Imperials Esports","WWW","","dom","S"],
+    ["2021-11-23","Greek Legends League 2021 Winter Playoffs","Round 1","Olympiacos Alimou","WLGaming Esports","LWWLL","","dom","S"],
+    ["2021-12-10","Esports Balkan League 2022 Spring Qualification","Round 1","Auxesis Esports","SOVEJA","WLWW","r","dom","S"],
+    ["2022-02-20","A1 Gaming League 2021 Pro Main Event","Grand Finals","Breathe Your Last Breath","TAKEOVER (Bulgarian Team)","WWLW","r","dom",""],
+    ["2022-03-10","Esports Balkan League 2022 Spring Playoffs","Round 1","Auxesis Esports","Split Raiders","LWWW","","dom","S"],
+    ["2022-03-13","Esports Balkan League 2022 Spring Playoffs","Semifinal","Auxesis Esports","Valiance","LLL","","dom","S"],
+    ["2023-03-15","Arabian League 2nd Division 2023 Spring Playoffs","Round 1","One More Esports","Slash Lions","WWW","","dom","S"],
+    ["2023-03-16","Arabian League 2nd Division 2023 Spring Playoffs","Semifinal","One More Esports","Olympus Gaming","LWWW","","dom","S"],
+    ["2023-03-29","Arabian League 2nd Division 2023 Spring Playoffs","Final","One More Esports","Twisted Minds","WWW","","dom","S"],
+    ["2023-04-12","Arabian League 2023 Summer Promotion","Round 1","One More Esports","3BL Esports","LWLWL","","dom","S"],
+    ["2023-04-13","Arabian League 2023 Summer Promotion","Round 1","One More Esports","Twisted Minds","LWWW","","dom","S"],
+    ["2023-04-19","Arabian League 2023 Summer Promotion","Round 2","One More Esports","3BL Esports","LWWLL","","dom","S"],
+    ["2023-08-07","Esports Balkan League 2024 Promotion","Round 2","Valiance","Magaza Esports","WWW","","dom","S"],
+    ["2023-11-03","Elite Series 2023 Benelux Masters","Preliminary Round","Myth Esports","Rift Sloths","LWWW","p","dom","S"],
+    ["2026-02-10","Road Of Legends 2026 Winter Playoffs","Round 1","ZennIT","mCon esports","WWW","","dom","S"],
+    ["2026-02-12","Road Of Legends 2026 Winter Playoffs","Round 2","ZennIT","The Bandits","LWLWL","","dom","S"],
+    ["2026-06-11","Road Of Legends 2026 Summer Promotion","Round 1","ZennIT","SNOOZE Esports","WWLW","","dom","S"]
+  ],
+  "unknown": [
+    ["2024-06-03","Saudi eLeagues 2024 Season 2","Semifinal","Fog Esports","Twisted Minds","1-3","","dom","S"]
+  ]
+}

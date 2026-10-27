@@ -1,1 +1,33 @@
-{"player":"Gotzy","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2019-08-24","LPLOL 2019 Summer Playoffs","Round 1","K1ck eSports Club","Hexagone Esports","WWW","","dom","S"],["2019-08-25","LPLOL 2019 Summer Playoffs","Round 2","K1ck eSports Club","EGN Esports","LLWL","","dom","S"],["2020-03-09","LPLOL 2020 Spring Playoffs","Round 1","SAMCLAN Esports Club","GeekCase eSports","WWW","","dom","S"],["2020-03-10","LPLOL 2020 Spring Playoffs","Round 2","SAMCLAN Esports Club","EGN Esports","LLL","","dom","S"],["2020-07-26","LPLOL 2020 Summer Playoffs","Round 2","SAMCLAN Esports Club","OFFSET Esports","WWLW","","dom","S"],["2020-08-02","LPLOL 2020 Summer Playoffs","Final","SAMCLAN Esports Club","EGN Esports","LWLL","","dom","S"],["2020-11-22","LPLOL 2020 Grand Final","Final","SAMCLAN Esports Club","EGN Esports","LLL","","dom","S"],["2021-03-15","LPLOL 2021 Spring Playoffs","Semifinal","EGN Esports","White Dragons","LLL","","dom","S"],["2021-11-01","LPLOL 2021 Grand Final","Round 2","Karma Clan Esports","White Dragons","LWWLL","","dom","S"],["2021-11-02","Iberian Cup 2021","Quarterfinal","Karma Clan Esports","Movistar Riders","LLL","","dom","S"],["2021-11-08","LPLOL 2021 Grand Final","Round 3","Karma Clan Esports","For The Win Esports","LLWL","","dom","S"],["2022-03-21","LFL Division 2 2022 Spring Playoffs","Round 1","PCS Taran","Atletec","WWW","","dom","S"],["2022-03-29","LFL Division 2 2022 Spring Playoffs","Round 2","PCS Taran","Team MCES","LWLL","","dom","S"],["2022-08-01","LFL Division 2 2022 Summer Playoffs","Round 1","PCS Taran","Atletec","LWWW","","dom","S"],["2022-08-09","LFL Division 2 2022 Summer Playoffs","Round 2","PCS Taran","Tony Parker Adéquat Academy","LLL","","dom","S"],["2023-07-25","Ultraliga Season 10 Playoffs","Round 1","Maturalni Forsaken","Illuminar Gaming","LWWW","","dom","S"],["2023-08-02","Ultraliga Season 10 Playoffs","Round 2","Maturalni Forsaken","AliorBank Team","LWLL","","dom","S"],["2023-10-18","Aurora Cup 2023 Main Event","Quarterfinal","Lazy In Life","DMG Esports","LWWW","","dom","S"],["2023-11-01","Aurora Cup 2023 Main Event","Semifinal","Lazy In Life","Fourth Wall","WLLL","","dom","S"],["2023-12-07","NLC 2nd Division 2024 Spring RPS","Semifinal","Lazy In Life","KAOS e-sport","WWLLL","","dom","S"],["2026-08-27","LPLOL 2026 Summer Split","Quarterfinal","White Dragons","Tung Tung Bogi","WWW","","dom","S"],["2026-09-08","LPLOL 2026 Summer Split","Semifinal","White Dragons","Dominion Goblins","WWW","","dom","S"],["2026-09-13","LPLOL 2026 Summer Split","Final","White Dragons","Otter Side","WWW","","dom","S"]],"unknown":[["2025-09-13","Good Game-ligaen 2025 Autumn Playoffs","Semifinal","Lazy In Life","CNG Royal","1-3","","dom","S"]]}
+{
+  "player": "Gotzy",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2019-08-24","LPLOL 2019 Summer Playoffs","Round 1","K1ck eSports Club","Hexagone Esports","WWW","","dom","S"],
+    ["2019-08-25","LPLOL 2019 Summer Playoffs","Round 2","K1ck eSports Club","EGN Esports","LLWL","","dom","S"],
+    ["2020-03-09","LPLOL 2020 Spring Playoffs","Round 1","SAMCLAN Esports Club","GeekCase eSports","WWW","","dom","S"],
+    ["2020-03-10","LPLOL 2020 Spring Playoffs","Round 2","SAMCLAN Esports Club","EGN Esports","LLL","","dom","S"],
+    ["2020-07-26","LPLOL 2020 Summer Playoffs","Round 2","SAMCLAN Esports Club","OFFSET Esports","WWLW","","dom","S"],
+    ["2020-08-02","LPLOL 2020 Summer Playoffs","Final","SAMCLAN Esports Club","EGN Esports","LWLL","","dom","S"],
+    ["2020-11-22","LPLOL 2020 Grand Final","Final","SAMCLAN Esports Club","EGN Esports","LLL","","dom","S"],
+    ["2021-03-15","LPLOL 2021 Spring Playoffs","Semifinal","EGN Esports","White Dragons","LLL","","dom","S"],
+    ["2021-11-01","LPLOL 2021 Grand Final","Round 2","Karma Clan Esports","White Dragons","LWWLL","","dom","S"],
+    ["2021-11-02","Iberian Cup 2021","Quarterfinal","Karma Clan Esports","Movistar Riders","LLL","","dom","S"],
+    ["2021-11-08","LPLOL 2021 Grand Final","Round 3","Karma Clan Esports","For The Win Esports","LLWL","","dom","S"],
+    ["2022-03-21","LFL Division 2 2022 Spring Playoffs","Round 1","PCS Taran","Atletec","WWW","","dom","S"],
+    ["2022-03-29","LFL Division 2 2022 Spring Playoffs","Round 2","PCS Taran","Team MCES","LWLL","","dom","S"],
+    ["2022-08-01","LFL Division 2 2022 Summer Playoffs","Round 1","PCS Taran","Atletec","LWWW","","dom","S"],
+    ["2022-08-09","LFL Division 2 2022 Summer Playoffs","Round 2","PCS Taran","Tony Parker Adéquat Academy","LLL","","dom","S"],
+    ["2023-07-25","Ultraliga Season 10 Playoffs","Round 1","Maturalni Forsaken","Illuminar Gaming","LWWW","","dom","S"],
+    ["2023-08-02","Ultraliga Season 10 Playoffs","Round 2","Maturalni Forsaken","AliorBank Team","LWLL","","dom","S"],
+    ["2023-10-18","Aurora Cup 2023 Main Event","Quarterfinal","Lazy In Life","DMG Esports","LWWW","","dom","S"],
+    ["2023-11-01","Aurora Cup 2023 Main Event","Semifinal","Lazy In Life","Fourth Wall","WLLL","","dom","S"],
+    ["2023-12-07","NLC 2nd Division 2024 Spring RPS","Semifinal","Lazy In Life","KAOS e-sport","WWLLL","","dom","S"],
+    ["2026-08-27","LPLOL 2026 Summer Split","Quarterfinal","White Dragons","Tung Tung Bogi","WWW","","dom","S"],
+    ["2026-09-08","LPLOL 2026 Summer Split","Semifinal","White Dragons","Dominion Goblins","WWW","","dom","S"],
+    ["2026-09-13","LPLOL 2026 Summer Split","Final","White Dragons","Otter Side","WWW","","dom","S"]
+  ],
+  "unknown": [
+    ["2025-09-13","Good Game-ligaen 2025 Autumn Playoffs","Semifinal","Lazy In Life","CNG Royal","1-3","","dom","S"]
+  ]
+}

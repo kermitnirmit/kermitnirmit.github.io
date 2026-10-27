@@ -1,1 +1,43 @@
-{"player":"Simpy","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2019-03-23","PG Nationals 2019 Spring Playoffs","Semifinal","Samsung Morning Stars","QLASH Forge","LWWW","","dom","S"],["2019-04-07","PG Nationals 2019 Spring Playoffs","Final","Samsung Morning Stars","Campus Party Sparks","WWLLL","","dom","S"],["2019-10-15","Iberian Cup 2019 Qualifier","Qualifiers","IKE Team","S2V Esports Academy","WWW","r","dom","S"],["2021-07-13","Greek Legends League 2021 Summer Playoffs","Round 1","Gamespace Mediterranean College Esports","Umbra Divinus Gaming","LLL","","dom","S"],["2022-03-16","LVP SuperLiga 2nd Division 2022 Spring Playoffs","Round 1","Wizards","Herbalife Real Betis","LWLWW","","dom","S"],["2022-03-22","LVP SuperLiga 2nd Division 2022 Spring Playoffs","Round 2","Wizards","Rebels Gaming","WWLW","","dom","S"],["2022-03-23","LVP SuperLiga 2nd Division 2022 Spring Playoffs","Semifinal","Wizards","Guasones","WLLL","","dom","S"],["2022-08-02","LVP SuperLiga 2nd Division 2022 Summer Playoffs","Round 1","Wizards","Falcons (Spanish Team)","LLL","","dom","S"],["2023-03-28","LVP SuperLiga 2nd Division 2023 Spring Playoffs","Round 2","Wizards","Case Esports","WLWLL","","dom","S"],["2023-03-31","LVP SuperLiga 2nd Division 2023 Spring Playoffs","Semifinal","Wizards","Ramboot Club","LWWLW","","dom","S"],["2023-04-03","LVP SuperLiga 2nd Division 2023 Spring Playoffs","Final","Wizards","Case Esports","LLL","","dom","S"],["2023-08-04","LVP SuperLiga 2nd Division 2023 Summer Playoffs","Round 2","Wizards","Case Esports","WLLWL","","dom","S"],["2023-08-09","LVP SuperLiga 2nd Division 2023 Summer Playoffs","Semifinal","Wizards","AYM Esports","WWLW","","dom","S"],["2023-08-11","LVP SuperLiga 2nd Division 2023 Summer Playoffs","Final","Wizards","Case Esports","WLLL","","dom","S"],["2023-09-11","LVP SuperLiga 2024 Promotion","Round 1","Wizards","UCAM Tokiers","LLWL","","dom","S"],["2023-09-18","LVP SuperLiga 2024 Promotion","Round 1","Wizards","Guasones","WWLLW","","dom","S"],["2023-09-22","LVP SuperLiga 2024 Promotion","Round 2","Wizards","UCAM Tokiers","LLWWL","","dom","S"],["2024-07-24","NLC 2024 Summer Playoffs","Round 1","Venomcrest Esports","Ruddy Esports","LLWL","","dom","S"],["2024-07-30","NLC 2024 Summer Playoffs","Semifinal","Venomcrest Esports","NORD Esports","WWW","","dom","S"],["2024-08-03","NLC 2024 Summer Playoffs","Final","Venomcrest Esports","Ruddy Esports","WLLWW","","dom","S"],["2024-10-23","Aurora Cup 2024","Quarterfinal","Regem","Nativz","WWW","","dom","S"],["2024-11-05","Aurora Cup 2024","Semifinal","Regem","Verdant","WLLL","","dom","S"],["2024-11-28","NNO Cup Season 2","Round 1","Los Guarros","French Flair","LLWL","","dom","S"],["2024-11-30","NNO Cup Season 2","Round 1","Los Guarros","Die Atzen","WWW","","dom","S"],["2024-12-02","NNO Cup Season 2","Round 2","Los Guarros","No Need Orga","WLWW","","dom","S"],["2024-12-03","NNO Cup Season 2","Round 3","Los Guarros","5 Pigs 1 Team","LLL","","dom","S"],["2025-06-12","Liga Nexo 2025 Split 3 Playoffs","Final","Nocturne Gale","Oxygen Gaming","WWW","","dom","S"],["2025-07-16","Circuito Tormenta 2025","Grand Final","Nocturne Gale","Oxygen Gaming","LWWW","","dom","S"],["2025-09-04","Superliga Domino's 2026 Promotion","Round 1","Nocturne Gale","Guasones","LWLL","","dom","S"],["2025-09-09","Superliga Domino's 2026 Promotion","Round 1","Nocturne Gale","Oxygen Gaming","WWW","","dom","S"],["2025-09-12","Superliga Domino's 2026 Promotion","Round 2","Nocturne Gale","Guasones","LLL","","dom","S"],["2025-11-22","Iberian Cup 2025","Semifinal","Veni Vidi Vici (Spanish Team)","LUA Gaming","LLL","","dom","S"]],"unknown":[["2018-06-01","The Cloud League Season 1","Final","MAD Lions Academy","Movistar Riders Academy","3-1","","dom",""],["2019-10-12","Greek Legends League 2019 Winter Qualifiers","Qualifier","Better Jungler Wins","Reformed Gaming","3-2","","dom","S"]]}
+{
+  "player": "Simpy",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2019-03-23","PG Nationals 2019 Spring Playoffs","Semifinal","Samsung Morning Stars","QLASH Forge","LWWW","","dom","S"],
+    ["2019-04-07","PG Nationals 2019 Spring Playoffs","Final","Samsung Morning Stars","Campus Party Sparks","WWLLL","","dom","S"],
+    ["2019-10-15","Iberian Cup 2019 Qualifier","Qualifiers","IKE Team","S2V Esports Academy","WWW","r","dom","S"],
+    ["2021-07-13","Greek Legends League 2021 Summer Playoffs","Round 1","Gamespace Mediterranean College Esports","Umbra Divinus Gaming","LLL","","dom","S"],
+    ["2022-03-16","LVP SuperLiga 2nd Division 2022 Spring Playoffs","Round 1","Wizards","Herbalife Real Betis","LWLWW","","dom","S"],
+    ["2022-03-22","LVP SuperLiga 2nd Division 2022 Spring Playoffs","Round 2","Wizards","Rebels Gaming","WWLW","","dom","S"],
+    ["2022-03-23","LVP SuperLiga 2nd Division 2022 Spring Playoffs","Semifinal","Wizards","Guasones","WLLL","","dom","S"],
+    ["2022-08-02","LVP SuperLiga 2nd Division 2022 Summer Playoffs","Round 1","Wizards","Falcons (Spanish Team)","LLL","","dom","S"],
+    ["2023-03-28","LVP SuperLiga 2nd Division 2023 Spring Playoffs","Round 2","Wizards","Case Esports","WLWLL","","dom","S"],
+    ["2023-03-31","LVP SuperLiga 2nd Division 2023 Spring Playoffs","Semifinal","Wizards","Ramboot Club","LWWLW","","dom","S"],
+    ["2023-04-03","LVP SuperLiga 2nd Division 2023 Spring Playoffs","Final","Wizards","Case Esports","LLL","","dom","S"],
+    ["2023-08-04","LVP SuperLiga 2nd Division 2023 Summer Playoffs","Round 2","Wizards","Case Esports","WLLWL","","dom","S"],
+    ["2023-08-09","LVP SuperLiga 2nd Division 2023 Summer Playoffs","Semifinal","Wizards","AYM Esports","WWLW","","dom","S"],
+    ["2023-08-11","LVP SuperLiga 2nd Division 2023 Summer Playoffs","Final","Wizards","Case Esports","WLLL","","dom","S"],
+    ["2023-09-11","LVP SuperLiga 2024 Promotion","Round 1","Wizards","UCAM Tokiers","LLWL","","dom","S"],
+    ["2023-09-18","LVP SuperLiga 2024 Promotion","Round 1","Wizards","Guasones","WWLLW","","dom","S"],
+    ["2023-09-22","LVP SuperLiga 2024 Promotion","Round 2","Wizards","UCAM Tokiers","LLWWL","","dom","S"],
+    ["2024-07-24","NLC 2024 Summer Playoffs","Round 1","Venomcrest Esports","Ruddy Esports","LLWL","","dom","S"],
+    ["2024-07-30","NLC 2024 Summer Playoffs","Semifinal","Venomcrest Esports","NORD Esports","WWW","","dom","S"],
+    ["2024-08-03","NLC 2024 Summer Playoffs","Final","Venomcrest Esports","Ruddy Esports","WLLWW","","dom","S"],
+    ["2024-10-23","Aurora Cup 2024","Quarterfinal","Regem","Nativz","WWW","","dom","S"],
+    ["2024-11-05","Aurora Cup 2024","Semifinal","Regem","Verdant","WLLL","","dom","S"],
+    ["2024-11-28","NNO Cup Season 2","Round 1","Los Guarros","French Flair","LLWL","","dom","S"],
+    ["2024-11-30","NNO Cup Season 2","Round 1","Los Guarros","Die Atzen","WWW","","dom","S"],
+    ["2024-12-02","NNO Cup Season 2","Round 2","Los Guarros","No Need Orga","WLWW","","dom","S"],
+    ["2024-12-03","NNO Cup Season 2","Round 3","Los Guarros","5 Pigs 1 Team","LLL","","dom","S"],
+    ["2025-06-12","Liga Nexo 2025 Split 3 Playoffs","Final","Nocturne Gale","Oxygen Gaming","WWW","","dom","S"],
+    ["2025-07-16","Circuito Tormenta 2025","Grand Final","Nocturne Gale","Oxygen Gaming","LWWW","","dom","S"],
+    ["2025-09-04","Superliga Domino's 2026 Promotion","Round 1","Nocturne Gale","Guasones","LWLL","","dom","S"],
+    ["2025-09-09","Superliga Domino's 2026 Promotion","Round 1","Nocturne Gale","Oxygen Gaming","WWW","","dom","S"],
+    ["2025-09-12","Superliga Domino's 2026 Promotion","Round 2","Nocturne Gale","Guasones","LLL","","dom","S"],
+    ["2025-11-22","Iberian Cup 2025","Semifinal","Veni Vidi Vici (Spanish Team)","LUA Gaming","LLL","","dom","S"]
+  ],
+  "unknown": [
+    ["2018-06-01","The Cloud League Season 1","Final","MAD Lions Academy","Movistar Riders Academy","3-1","","dom",""],
+    ["2019-10-12","Greek Legends League 2019 Winter Qualifiers","Qualifier","Better Jungler Wins","Reformed Gaming","3-2","","dom","S"]
+  ]
+}

@@ -1,1 +1,36 @@
-{"player":"Teddy","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2016-08-04","Challengers Korea 2016 Summer Playoffs","Semifinal","Ever8 Winners","Kongdoo Monster","LLL","","dom","S"],["2016-08-09","Challengers Korea 2016 Summer Playoffs","Third-Place Match","Ever8 Winners","Rising Star Gaming","WLLWW","","dom","S"],["2017-04-27","LCK 2017 Summer Promotion","Qualifying Round","Jin Air Green Wings","Kongdoo Monster","WWLW","","dom","P"],["2019-04-07","LCK 2019 Spring Playoffs","Round 3","SK Telecom T1","Kingzone DragonX","WWW","","dom","P"],["2019-04-13","LCK 2019 Spring Playoffs","Final","SK Telecom T1","Griffin (Korean Team)","WWW","","dom","P"],["2019-05-18","MSI 2019","Semifinal","SK Telecom T1","G2 Esports","WLWLL","","msi","P"],["2019-08-23","LCK 2019 Summer Playoffs","Round 2","SK Telecom T1","SANDBOX Gaming","WWW","","dom","P"],["2019-08-25","LCK 2019 Summer Playoffs","Round 3","SK Telecom T1","DAMWON Gaming","WWW","","dom","P"],["2019-08-31","LCK 2019 Summer Playoffs","Final","SK Telecom T1","Griffin (Korean Team)","WWLW","","dom","P"],["2019-10-27","Worlds 2019","Quarterfinal","SK Telecom T1","Splyce","WWLW","","worlds","P"],["2019-11-03","Worlds 2019","Semifinal","SK Telecom T1","G2 Esports","LWLL","","worlds","P"],["2020-01-03","LoL KeSPA Cup 2019","Semifinal","T1","SANDBOX Gaming","LLWL","","dom","P"],["2020-04-22","LCK 2020 Spring Playoffs","Round 3","T1","DragonX","WWLW","","dom","P"],["2020-04-25","LCK 2020 Spring Playoffs","Final","T1","Gen.G","WWW","","dom","P"],["2021-04-01","LCK 2021 Spring Playoffs","Quarterfinal","T1","DRX","WLWW","","dom","P"],["2021-04-04","LCK 2021 Spring Playoffs","Semifinal","T1","Gen.G","LLL","","dom","P"],["2021-08-19","LCK 2021 Summer Playoffs","Quarterfinal","T1","Liiv SANDBOX","WWW","","dom","P"],["2021-08-22","LCK 2021 Summer Playoffs","Semifinal","T1","Gen.G","LWWW","","dom","P"],["2021-08-28","LCK 2021 Summer Playoffs","Final","T1","DWG KIA","LLWL","p","dom","P"],["2022-03-24","LCK 2022 Spring Playoffs","Quarterfinal","Kwangdong Freecs","DRX","WLWLW","","dom","P"],["2022-03-26","LCK 2022 Spring Playoffs","Semifinal","Kwangdong Freecs","T1","LLL","","dom","P"],["2025-02-09","LCK 2025 Cup","Play-In Round 3","DRX","Nongshim RedForce","LWLL","","dom","P"],["2026-01-28","LCK 2026 Cup","","BRION","DRX","LWWLL","","dom","P"],["2026-06-06","LCK 2026 Road to MSI","Round 1","HANJIN BRION","Dplus Kia","LLL","","dom","P"],["2026-08-26","LCK 2026 Season Play-In","Round 1","HANJIN BRION","KT Rolster","LWWLL","","dom","P"],["2026-08-28","LCK 2026 Season Play-In","Round 2","HANJIN BRION","BNK FEARX","LWWLL","","dom","P"],["2026-10-13","Demacia Cup Global Invitational 2026","Quarterfinal","HANJIN BRION","LGD Gaming","LWWW","","dom","S"],["2026-10-15","Demacia Cup Global Invitational 2026","Semifinal","HANJIN BRION","Team WE","LLWWL","","dom","S"]],"unknown":[]}
+{
+  "player": "Teddy",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2016-08-04","Challengers Korea 2016 Summer Playoffs","Semifinal","Ever8 Winners","Kongdoo Monster","LLL","","dom","S"],
+    ["2016-08-09","Challengers Korea 2016 Summer Playoffs","Third-Place Match","Ever8 Winners","Rising Star Gaming","WLLWW","","dom","S"],
+    ["2017-04-27","LCK 2017 Summer Promotion","Qualifying Round","Jin Air Green Wings","Kongdoo Monster","WWLW","","dom","P"],
+    ["2019-04-07","LCK 2019 Spring Playoffs","Round 3","SK Telecom T1","Kingzone DragonX","WWW","","dom","P"],
+    ["2019-04-13","LCK 2019 Spring Playoffs","Final","SK Telecom T1","Griffin (Korean Team)","WWW","","dom","P"],
+    ["2019-05-18","MSI 2019","Semifinal","SK Telecom T1","G2 Esports","WLWLL","","msi","P"],
+    ["2019-08-23","LCK 2019 Summer Playoffs","Round 2","SK Telecom T1","SANDBOX Gaming","WWW","","dom","P"],
+    ["2019-08-25","LCK 2019 Summer Playoffs","Round 3","SK Telecom T1","DAMWON Gaming","WWW","","dom","P"],
+    ["2019-08-31","LCK 2019 Summer Playoffs","Final","SK Telecom T1","Griffin (Korean Team)","WWLW","","dom","P"],
+    ["2019-10-27","Worlds 2019","Quarterfinal","SK Telecom T1","Splyce","WWLW","","worlds","P"],
+    ["2019-11-03","Worlds 2019","Semifinal","SK Telecom T1","G2 Esports","LWLL","","worlds","P"],
+    ["2020-01-03","LoL KeSPA Cup 2019","Semifinal","T1","SANDBOX Gaming","LLWL","","dom","P"],
+    ["2020-04-22","LCK 2020 Spring Playoffs","Round 3","T1","DragonX","WWLW","","dom","P"],
+    ["2020-04-25","LCK 2020 Spring Playoffs","Final","T1","Gen.G","WWW","","dom","P"],
+    ["2021-04-01","LCK 2021 Spring Playoffs","Quarterfinal","T1","DRX","WLWW","","dom","P"],
+    ["2021-04-04","LCK 2021 Spring Playoffs","Semifinal","T1","Gen.G","LLL","","dom","P"],
+    ["2021-08-19","LCK 2021 Summer Playoffs","Quarterfinal","T1","Liiv SANDBOX","WWW","","dom","P"],
+    ["2021-08-22","LCK 2021 Summer Playoffs","Semifinal","T1","Gen.G","LWWW","","dom","P"],
+    ["2021-08-28","LCK 2021 Summer Playoffs","Final","T1","DWG KIA","LLWL","p","dom","P"],
+    ["2022-03-24","LCK 2022 Spring Playoffs","Quarterfinal","Kwangdong Freecs","DRX","WLWLW","","dom","P"],
+    ["2022-03-26","LCK 2022 Spring Playoffs","Semifinal","Kwangdong Freecs","T1","LLL","","dom","P"],
+    ["2025-02-09","LCK 2025 Cup","Play-In Round 3","DRX","Nongshim RedForce","LWLL","","dom","P"],
+    ["2026-01-28","LCK 2026 Cup","","BRION","DRX","LWWLL","","dom","P"],
+    ["2026-06-06","LCK 2026 Road to MSI","Round 1","HANJIN BRION","Dplus Kia","LLL","","dom","P"],
+    ["2026-08-26","LCK 2026 Season Play-In","Round 1","HANJIN BRION","KT Rolster","LWWLL","","dom","P"],
+    ["2026-08-28","LCK 2026 Season Play-In","Round 2","HANJIN BRION","BNK FEARX","LWWLL","","dom","P"],
+    ["2026-10-13","Demacia Cup Global Invitational 2026","Quarterfinal","HANJIN BRION","LGD Gaming","LWWW","","dom","S"],
+    ["2026-10-15","Demacia Cup Global Invitational 2026","Semifinal","HANJIN BRION","Team WE","LLWWL","","dom","S"]
+  ],
+  "unknown": []
+}

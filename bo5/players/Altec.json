@@ -1,1 +1,30 @@
-{"player":"Altec","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2014-04-13","NA Challenger Series 2014 Spring Playoffs","Final","Cloud9 Tempest","LMQ","WLLWL","","dom","S"],["2014-04-27","NA LCS 2014 Summer Promotion","Promo","Cloud9 Tempest","Evil Geniuses.NA","LWLL","","dom","P"],["2014-09-10","NA LCS 2015 Spring Promotion","Promo","Evil Geniuses.NA","Team Coast","WWW","","dom","P"],["2015-04-26","NA LCS 2015 Summer Promotion","Promotion","Winterfox","Team Dragon Knights","LWLL","","dom","P"],["2015-08-09","NA LCS 2015 Summer Playoffs","Quarterfinal","Gravity (North American Team)","TSM","LWLL","","dom","P"],["2015-08-29","NA LCS 2015 Regional Finals","Round 1","Gravity (North American Team)","Cloud9","WWLLL","","dom","P"],["2016-04-03","NA LCS 2016 Spring Playoffs","Quarterfinal","NRG Esports","Team Liquid","LLL","","dom","P"],["2016-05-26","NA Challenger Series 2016 Summer Qualifiers","Qualifiers","Cloud9 Challenger","Destined For Glory","WWW","","dom","S"],["2016-07-14","NA Challenger Series 2016 Summer Playoffs","Semifinal","Cloud9 Challenger","Dream Team","WWW","","dom","S"],["2016-07-21","NA Challenger Series 2016 Summer Playoffs","Final","Cloud9 Challenger","Team Liquid Academy","WLWLW","","dom","S"],["2016-08-06","NA LCS 2017 Spring Promotion","Qualifying Round","Cloud9 Challenger","NRG Esports","WWW","","dom","P"],["2017-04-09","NA LCS 2017 Spring Playoffs","Quarterfinal","FlyQuest","Counter Logic Gaming","LLWWW","","dom","P"],["2017-04-16","NA LCS 2017 Spring Playoffs","Semifinal","FlyQuest","TSM","LLL","","dom","P"],["2017-04-22","NA LCS 2017 Spring Playoffs","Third-Place Match","FlyQuest","Phoenix1","LWWLL","","dom","P"],["2017-08-19","NA LCS 2017 Summer Playoffs","Quarterfinal","Dignitas","Cloud9","WWLW","","dom","P"],["2017-08-27","NA LCS 2017 Summer Playoffs","Semifinal","Dignitas","TSM","LLWL","","dom","P"],["2017-09-02","NA LCS 2017 Summer Playoffs","Third-Place Match","Dignitas","Counter Logic Gaming","LLL","","dom","P"],["2017-09-08","NA LCS 2017 Regional Finals","Round 1","Dignitas","FlyQuest","LLL","","dom","P"],["2018-03-31","NA LCS 2018 Spring Playoffs","Semifinal","Echo Fox","Team Liquid","LWLL","","dom","P"],["2018-04-07","NA LCS 2018 Spring Playoffs","Third-Place Match","Echo Fox","Clutch Gaming","WWW","","dom","P"]],"unknown":[["2014-05-04","Lone Star Clash 3","Grand Finals","Cloud9 Tempest","Team 8","2-3","","dom",""]]}
+{
+  "player": "Altec",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2014-04-13","NA Challenger Series 2014 Spring Playoffs","Final","Cloud9 Tempest","LMQ","WLLWL","","dom","S"],
+    ["2014-04-27","NA LCS 2014 Summer Promotion","Promo","Cloud9 Tempest","Evil Geniuses.NA","LWLL","","dom","P"],
+    ["2014-09-10","NA LCS 2015 Spring Promotion","Promo","Evil Geniuses.NA","Team Coast","WWW","","dom","P"],
+    ["2015-04-26","NA LCS 2015 Summer Promotion","Promotion","Winterfox","Team Dragon Knights","LWLL","","dom","P"],
+    ["2015-08-09","NA LCS 2015 Summer Playoffs","Quarterfinal","Gravity (North American Team)","TSM","LWLL","","dom","P"],
+    ["2015-08-29","NA LCS 2015 Regional Finals","Round 1","Gravity (North American Team)","Cloud9","WWLLL","","dom","P"],
+    ["2016-04-03","NA LCS 2016 Spring Playoffs","Quarterfinal","NRG Esports","Team Liquid","LLL","","dom","P"],
+    ["2016-05-26","NA Challenger Series 2016 Summer Qualifiers","Qualifiers","Cloud9 Challenger","Destined For Glory","WWW","","dom","S"],
+    ["2016-07-14","NA Challenger Series 2016 Summer Playoffs","Semifinal","Cloud9 Challenger","Dream Team","WWW","","dom","S"],
+    ["2016-07-21","NA Challenger Series 2016 Summer Playoffs","Final","Cloud9 Challenger","Team Liquid Academy","WLWLW","","dom","S"],
+    ["2016-08-06","NA LCS 2017 Spring Promotion","Qualifying Round","Cloud9 Challenger","NRG Esports","WWW","","dom","P"],
+    ["2017-04-09","NA LCS 2017 Spring Playoffs","Quarterfinal","FlyQuest","Counter Logic Gaming","LLWWW","","dom","P"],
+    ["2017-04-16","NA LCS 2017 Spring Playoffs","Semifinal","FlyQuest","TSM","LLL","","dom","P"],
+    ["2017-04-22","NA LCS 2017 Spring Playoffs","Third-Place Match","FlyQuest","Phoenix1","LWWLL","","dom","P"],
+    ["2017-08-19","NA LCS 2017 Summer Playoffs","Quarterfinal","Dignitas","Cloud9","WWLW","","dom","P"],
+    ["2017-08-27","NA LCS 2017 Summer Playoffs","Semifinal","Dignitas","TSM","LLWL","","dom","P"],
+    ["2017-09-02","NA LCS 2017 Summer Playoffs","Third-Place Match","Dignitas","Counter Logic Gaming","LLL","","dom","P"],
+    ["2017-09-08","NA LCS 2017 Regional Finals","Round 1","Dignitas","FlyQuest","LLL","","dom","P"],
+    ["2018-03-31","NA LCS 2018 Spring Playoffs","Semifinal","Echo Fox","Team Liquid","LWLL","","dom","P"],
+    ["2018-04-07","NA LCS 2018 Spring Playoffs","Third-Place Match","Echo Fox","Clutch Gaming","WWW","","dom","P"]
+  ],
+  "unknown": [
+    ["2014-05-04","Lone Star Clash 3","Grand Finals","Cloud9 Tempest","Team 8","2-3","","dom",""]
+  ]
+}

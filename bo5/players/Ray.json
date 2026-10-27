@@ -1,1 +1,29 @@
-{"player":"Ray","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2015-02-09","2015 Demacia Cup Spring Season","Round of 32","AD Gaming","Snake Esports","LWLL","","dom","P"],["2015-04-15","LPL 2015 Summer Promotion","Round 1","AD Gaming","Energy Pacemaker","LWWLL","","dom","P"],["2017-04-15","NA LCS 2017 Spring Playoffs","Semifinal","Cloud9","Phoenix1","WWW","p","dom","P"],["2017-04-23","NA LCS 2017 Spring Playoffs","Final","Cloud9","TSM","LLWWL","p","dom","P"],["2018-01-07","Demacia Championship 2017 Season","Grand Finals","EDward Gaming","Snake Esports","LWWW","","dom","P"],["2018-04-22","LPL 2018 Spring Playoffs","Semifinal","EDward Gaming","Rogue Warriors","WWLW","","dom","P"],["2018-04-28","LPL 2018 Spring Playoffs","Final","EDward Gaming","Royal Never Give Up","WLLL","","dom","P"],["2018-09-08","LPL 2018 Summer Playoffs","Quarterfinal","EDward Gaming","JD Gaming","LLWL","","dom","P"],["2018-09-15","LPL 2018 Regional Finals","Round 1","EDward Gaming","JD Gaming","LWWLW","","dom","P"],["2018-09-16","LPL 2018 Regional Finals","Final","EDward Gaming","Rogue Warriors","LWWW","","dom","P"],["2018-10-06","Worlds 2018","Round 2","EDward Gaming","DetonatioN FocusMe","WWW","","worlds","P"],["2018-10-21","Worlds 2018","Quarterfinal","EDward Gaming","Fnatic","WLLL","","worlds","P"],["2019-04-05","LPL 2019 Spring Playoffs","Round 1","EDward Gaming","SinoDragon Gaming","LLL","","dom","P"],["2023-03-28","LVP SuperLiga 2nd Division 2023 Spring Playoffs","Round 2","Case Esports","Wizards","LWLWW","","dom","S"],["2023-04-03","LVP SuperLiga 2nd Division 2023 Spring Playoffs","Final","Case Esports","Wizards","WWW","","dom","S"],["2023-08-04","LVP SuperLiga 2nd Division 2023 Summer Playoffs","Round 2","Case Esports","Wizards","LWWLW","","dom","S"],["2023-08-11","LVP SuperLiga 2nd Division 2023 Summer Playoffs","Final","Case Esports","Wizards","LWWW","","dom","S"],["2023-09-12","LVP SuperLiga 2024 Promotion","Round 1","Case Esports","Guasones","WWW","","dom","S"],["2023-09-19","LVP SuperLiga 2024 Promotion","Round 2","Case Esports","UCAM Tokiers","LLWWW","","dom","S"],["2025-05-06","Legend Cup Season 3 Korea","Round 1","Kakao Assassin Crew","Marin's Resilient Nexus","WWLW","","dom","S"],["2025-05-07","Legend Cup Season 3 Korea","Round 2","Kakao Assassin Crew","Pilot's Landing Team","LLL","","dom","S"]],"unknown":[]}
+{
+  "player": "Ray",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2015-02-09","2015 Demacia Cup Spring Season","Round of 32","AD Gaming","Snake Esports","LWLL","","dom","P"],
+    ["2015-04-15","LPL 2015 Summer Promotion","Round 1","AD Gaming","Energy Pacemaker","LWWLL","","dom","P"],
+    ["2017-04-15","NA LCS 2017 Spring Playoffs","Semifinal","Cloud9","Phoenix1","WWW","p","dom","P"],
+    ["2017-04-23","NA LCS 2017 Spring Playoffs","Final","Cloud9","TSM","LLWWL","p","dom","P"],
+    ["2018-01-07","Demacia Championship 2017 Season","Grand Finals","EDward Gaming","Snake Esports","LWWW","","dom","P"],
+    ["2018-04-22","LPL 2018 Spring Playoffs","Semifinal","EDward Gaming","Rogue Warriors","WWLW","","dom","P"],
+    ["2018-04-28","LPL 2018 Spring Playoffs","Final","EDward Gaming","Royal Never Give Up","WLLL","","dom","P"],
+    ["2018-09-08","LPL 2018 Summer Playoffs","Quarterfinal","EDward Gaming","JD Gaming","LLWL","","dom","P"],
+    ["2018-09-15","LPL 2018 Regional Finals","Round 1","EDward Gaming","JD Gaming","LWWLW","","dom","P"],
+    ["2018-09-16","LPL 2018 Regional Finals","Final","EDward Gaming","Rogue Warriors","LWWW","","dom","P"],
+    ["2018-10-06","Worlds 2018","Round 2","EDward Gaming","DetonatioN FocusMe","WWW","","worlds","P"],
+    ["2018-10-21","Worlds 2018","Quarterfinal","EDward Gaming","Fnatic","WLLL","","worlds","P"],
+    ["2019-04-05","LPL 2019 Spring Playoffs","Round 1","EDward Gaming","SinoDragon Gaming","LLL","","dom","P"],
+    ["2023-03-28","LVP SuperLiga 2nd Division 2023 Spring Playoffs","Round 2","Case Esports","Wizards","LWLWW","","dom","S"],
+    ["2023-04-03","LVP SuperLiga 2nd Division 2023 Spring Playoffs","Final","Case Esports","Wizards","WWW","","dom","S"],
+    ["2023-08-04","LVP SuperLiga 2nd Division 2023 Summer Playoffs","Round 2","Case Esports","Wizards","LWWLW","","dom","S"],
+    ["2023-08-11","LVP SuperLiga 2nd Division 2023 Summer Playoffs","Final","Case Esports","Wizards","LWWW","","dom","S"],
+    ["2023-09-12","LVP SuperLiga 2024 Promotion","Round 1","Case Esports","Guasones","WWW","","dom","S"],
+    ["2023-09-19","LVP SuperLiga 2024 Promotion","Round 2","Case Esports","UCAM Tokiers","LLWWW","","dom","S"],
+    ["2025-05-06","Legend Cup Season 3 Korea","Round 1","Kakao Assassin Crew","Marin's Resilient Nexus","WWLW","","dom","S"],
+    ["2025-05-07","Legend Cup Season 3 Korea","Round 2","Kakao Assassin Crew","Pilot's Landing Team","LLL","","dom","S"]
+  ],
+  "unknown": []
+}

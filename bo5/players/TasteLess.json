@@ -1,1 +1,43 @@
-{"player":"TasteLess","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2016-12-18","Fortuna Championship Series Season 1 Playoffs","Final","Melting Point","Elite Squad","WWLW","r","dom","S"],["2017-03-27","Fortuna Championship Series Season 2 Playoffs","Semifinal","Instinct Esports","Mistiga Crew","WWW","r","dom","S"],["2017-04-09","Fortuna Championship Series Season 2 Playoffs","Final","Instinct Esports","ASUS ROG ELITE","WLLWW","r","dom","S"],["2017-06-27","Fortuna Championship Series Season 3 Playoffs","Semifinal","SBB Esports","Monitor.rs","LWWW","r","dom","S"],["2017-07-02","Fortuna Championship Series Season 3 Playoffs","Final","SBB Esports","ASUS ROG ELITE","WWLW","r","dom","S"],["2019-08-17","Esports Balkan League Season 5 Playoffs","Semifinal","ASUS ROG ELITE","WiLD MultiGaming","WWLLW","","dom","S"],["2019-08-24","Esports Balkan League Season 5 Playoffs","Final","ASUS ROG ELITE","Crvena zvezda Esports","LLL","","dom","S"],["2020-03-14","Esports Balkan League Season 6 Playoffs","Semifinal","SAIM SE","Crvena zvezda Esports","WLWLL","","dom","S"],["2020-08-09","Esports Balkan League Season 7 Playoffs","Semifinal","SuppUp eSports","Split Raiders","WWW","","dom","S"],["2020-08-15","Esports Balkan League Season 7 Playoffs","Final","SuppUp eSports","CR4ZY","WWW","","dom","S"],["2021-08-03","Esports Balkan League Season 9 Playoffs","Semifinal","Crvena zvezda Esports","Valiance","LWWLW","","dom","S"],["2021-08-07","Esports Balkan League Season 9 Playoffs","Final","Crvena zvezda Esports","Zero Tenacity","WWLLL","","dom","S"],["2022-03-07","Esports Balkan League 2022 Spring Playoffs","Round 1","Crvena zvezda Esports","Valiance","LWWW","","dom","S"],["2022-03-19","Esports Balkan League 2022 Spring Playoffs","Final","Crvena zvezda Esports","Valiance","WWW","","dom","S"],["2022-07-08","Crusaders Crown 2022","Final","Crvena zvezda Esports","Team Phantasma","LLWL","","dom","S"],["2022-07-25","Esports Balkan League 2022 Summer Playoffs","Round 1","Crvena zvezda Esports","Diamant Esports","WLWW","","dom","S"],["2022-08-13","Esports Balkan League 2022 Summer Playoffs","Final","Crvena zvezda Esports","Valiance","LWLWL","","dom","S"],["2023-03-17","Esports Balkan League 2023 Spring Playoffs","Round 1","Cyber Wolves","Crvena zvezda Esports","LWWW","","dom","S"],["2023-03-21","Esports Balkan League 2023 Spring Playoffs","Semifinal","Cyber Wolves","Diamant Esports","LLWWL","","dom","S"],["2023-07-27","Esports Balkan League 2023 Summer Playoffs","Round 1","Cyber Wolves","SPIKE Syndicate","WWW","","dom","S"],["2023-07-31","Esports Balkan League 2023 Summer Playoffs","Semifinal","Cyber Wolves","Partizan Esports","LWWW","","dom","S"],["2023-08-12","Esports Balkan League 2023 Summer Playoffs","Final","Cyber Wolves","Diamant Esports","LWLL","","dom","S"],["2024-03-14","LIT 2024 Spring Playoffs","Round 1","Atleta Esport","DSYRE","LWLL","","dom","S"],["2024-03-21","LIT 2024 Spring Playoffs","Semifinal","Atleta Esport","Macko Esports","LLL","","dom","S"],["2024-07-09","Esports Balkan League 2024 Summer Playoffs","Round 1","Partizan Esports","Crvena zvezda Esports","WWLLL","","dom","S"],["2024-07-11","Esports Balkan League 2024 Summer Playoffs","Semifinal","Partizan Esports","BeFive","WWW","","dom","S"],["2024-07-17","Esports Balkan League 2024 Summer Playoffs","Final","Partizan Esports","Crvena zvezda Esports","WWLLL","","dom","S"],["2024-10-22","Esports Balkan League 2024 Pro-Am","Round 1","Partizan Esports","Team Axelent69","LLL","","dom","S"],["2024-10-24","Esports Balkan League 2024 Pro-Am","Semifinal","Partizan Esports","BeFive","LWLL","","dom","S"],["2025-05-28","Esports Balkan League 2025 Spring Playoffs","Round 4","Partizan Sangal","SPIKE Syndicate","LWWW","","dom","S"],["2025-05-29","Esports Balkan League 2025 Spring Playoffs","Final","Partizan Sangal","Crvena zvezda Esports","LLL","","dom","S"]],"unknown":[["2017-07-05","League Greek Championship Season 2 Playoffs","Semifinal","Instinct Esports","GPlay.bg","1-3","","dom",""],["2017-12-17","Esports Balkan League Season 1 Playoffs","Final","Greek Regenesis","KlikTech","1-3","","dom",""],["2019-06-21","ESL South East Europe Championship Season 9","Grand Final","ASUS ROG ELITE","Random 5","1-3","LLL","dom","S"]]}
+{
+  "player": "TasteLess",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2016-12-18","Fortuna Championship Series Season 1 Playoffs","Final","Melting Point","Elite Squad","WWLW","r","dom","S"],
+    ["2017-03-27","Fortuna Championship Series Season 2 Playoffs","Semifinal","Instinct Esports","Mistiga Crew","WWW","r","dom","S"],
+    ["2017-04-09","Fortuna Championship Series Season 2 Playoffs","Final","Instinct Esports","ASUS ROG ELITE","WLLWW","r","dom","S"],
+    ["2017-06-27","Fortuna Championship Series Season 3 Playoffs","Semifinal","SBB Esports","Monitor.rs","LWWW","r","dom","S"],
+    ["2017-07-02","Fortuna Championship Series Season 3 Playoffs","Final","SBB Esports","ASUS ROG ELITE","WWLW","r","dom","S"],
+    ["2019-08-17","Esports Balkan League Season 5 Playoffs","Semifinal","ASUS ROG ELITE","WiLD MultiGaming","WWLLW","","dom","S"],
+    ["2019-08-24","Esports Balkan League Season 5 Playoffs","Final","ASUS ROG ELITE","Crvena zvezda Esports","LLL","","dom","S"],
+    ["2020-03-14","Esports Balkan League Season 6 Playoffs","Semifinal","SAIM SE","Crvena zvezda Esports","WLWLL","","dom","S"],
+    ["2020-08-09","Esports Balkan League Season 7 Playoffs","Semifinal","SuppUp eSports","Split Raiders","WWW","","dom","S"],
+    ["2020-08-15","Esports Balkan League Season 7 Playoffs","Final","SuppUp eSports","CR4ZY","WWW","","dom","S"],
+    ["2021-08-03","Esports Balkan League Season 9 Playoffs","Semifinal","Crvena zvezda Esports","Valiance","LWWLW","","dom","S"],
+    ["2021-08-07","Esports Balkan League Season 9 Playoffs","Final","Crvena zvezda Esports","Zero Tenacity","WWLLL","","dom","S"],
+    ["2022-03-07","Esports Balkan League 2022 Spring Playoffs","Round 1","Crvena zvezda Esports","Valiance","LWWW","","dom","S"],
+    ["2022-03-19","Esports Balkan League 2022 Spring Playoffs","Final","Crvena zvezda Esports","Valiance","WWW","","dom","S"],
+    ["2022-07-08","Crusaders Crown 2022","Final","Crvena zvezda Esports","Team Phantasma","LLWL","","dom","S"],
+    ["2022-07-25","Esports Balkan League 2022 Summer Playoffs","Round 1","Crvena zvezda Esports","Diamant Esports","WLWW","","dom","S"],
+    ["2022-08-13","Esports Balkan League 2022 Summer Playoffs","Final","Crvena zvezda Esports","Valiance","LWLWL","","dom","S"],
+    ["2023-03-17","Esports Balkan League 2023 Spring Playoffs","Round 1","Cyber Wolves","Crvena zvezda Esports","LWWW","","dom","S"],
+    ["2023-03-21","Esports Balkan League 2023 Spring Playoffs","Semifinal","Cyber Wolves","Diamant Esports","LLWWL","","dom","S"],
+    ["2023-07-27","Esports Balkan League 2023 Summer Playoffs","Round 1","Cyber Wolves","SPIKE Syndicate","WWW","","dom","S"],
+    ["2023-07-31","Esports Balkan League 2023 Summer Playoffs","Semifinal","Cyber Wolves","Partizan Esports","LWWW","","dom","S"],
+    ["2023-08-12","Esports Balkan League 2023 Summer Playoffs","Final","Cyber Wolves","Diamant Esports","LWLL","","dom","S"],
+    ["2024-03-14","LIT 2024 Spring Playoffs","Round 1","Atleta Esport","DSYRE","LWLL","","dom","S"],
+    ["2024-03-21","LIT 2024 Spring Playoffs","Semifinal","Atleta Esport","Macko Esports","LLL","","dom","S"],
+    ["2024-07-09","Esports Balkan League 2024 Summer Playoffs","Round 1","Partizan Esports","Crvena zvezda Esports","WWLLL","","dom","S"],
+    ["2024-07-11","Esports Balkan League 2024 Summer Playoffs","Semifinal","Partizan Esports","BeFive","WWW","","dom","S"],
+    ["2024-07-17","Esports Balkan League 2024 Summer Playoffs","Final","Partizan Esports","Crvena zvezda Esports","WWLLL","","dom","S"],
+    ["2024-10-22","Esports Balkan League 2024 Pro-Am","Round 1","Partizan Esports","Team Axelent69","LLL","","dom","S"],
+    ["2024-10-24","Esports Balkan League 2024 Pro-Am","Semifinal","Partizan Esports","BeFive","LWLL","","dom","S"],
+    ["2025-05-28","Esports Balkan League 2025 Spring Playoffs","Round 4","Partizan Sangal","SPIKE Syndicate","LWWW","","dom","S"],
+    ["2025-05-29","Esports Balkan League 2025 Spring Playoffs","Final","Partizan Sangal","Crvena zvezda Esports","LLL","","dom","S"]
+  ],
+  "unknown": [
+    ["2017-07-05","League Greek Championship Season 2 Playoffs","Semifinal","Instinct Esports","GPlay.bg","1-3","","dom",""],
+    ["2017-12-17","Esports Balkan League Season 1 Playoffs","Final","Greek Regenesis","KlikTech","1-3","","dom",""],
+    ["2019-06-21","ESL South East Europe Championship Season 9","Grand Final","ASUS ROG ELITE","Random 5","1-3","LLL","dom","S"]
+  ]
+}

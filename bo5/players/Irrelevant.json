@@ -1,1 +1,32 @@
-{"player":"Irrelevant","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2020-11-06","Prime League Pro Division 2021 Spring Promotion","Round 1","Flayn eSports","mYinsanity","WWW","","dom","S"],["2020-11-08","Prime League Pro Division 2021 Spring Promotion","Round 2","Flayn eSports","SK Gaming Prime","WLLWL","","dom","S"],["2020-11-14","Prime League Pro Division 2021 Spring Promotion","Round 2","Flayn eSports","PENTA 1860","WLWLL","","dom","S"],["2021-03-17","LFL 2021 Spring Playoffs","Round 1","GameWard","Vitality.Bee","WLLL","","dom","S"],["2021-11-04","Prime League Pro Division 2021 Summer Relegations","Round 1","WAVE Esports","TT willhaben","WWW","","dom","S"],["2021-11-10","Prime League Pro Division 2021 Summer Relegations","Round 2","WAVE Esports","EURONICS Gaming","WLWLW","","dom","S"],["2022-03-17","LFL 2022 Spring Playoffs","Round 1","Misfits Premier","Vitality.Bee","LLL","","dom","S"],["2022-08-27","LEC 2022 Summer Playoffs","Round 1","Misfits Gaming","G2 Esports","LWLL","","dom","P"],["2022-09-02","LEC 2022 Summer Playoffs","Round 2","Misfits Gaming","Fnatic","LLL","","dom","P"],["2023-02-24","LEC 2023 Winter Playoffs","Round 1","SK Gaming","MAD Lions","LWLWL","","dom","P"],["2023-08-26","LEC 2023 Season Finals","Round 1","SK Gaming","Team BDS","LLL","","dom","P"],["2024-08-17","LEC 2024 Season Finals","Round 1","SK Gaming","Team BDS","LLL","","dom","P"],["2026-02-04","Comedy Central Winter Snowdown","Semifinal","Berlin International Gaming","Eintracht Frankfurt","WWW","","dom","S"],["2026-02-05","Comedy Central Winter Snowdown","Final","Berlin International Gaming","G2 NORD","WLWLL","","dom","S"],["2026-03-04","Prime League 1st Division 2026 Winter Split","Semifinal","Berlin International Gaming","Eintracht Spandau","LWWW","","dom","S"],["2026-03-07","Prime League 1st Division 2026 Winter Split","Final","Berlin International Gaming","G2 NORD","WLLWW","","dom","S"],["2026-05-27","Prime League 1st Division 2026 Spring Playoffs","Semifinal","Berlin International Gaming","G2 NORD","WLLL","","dom","S"],["2026-05-28","Prime League 1st Division 2026 Spring Playoffs","Third-Place Match","Berlin International Gaming","E WIE EINFACH E-SPORTS","LWLL","","dom","S"],["2026-08-19","Prime League 1st Division 2026 Summer Playoffs","Round 1","Berlin International Gaming","Unicorns of Love Sexy Edition","LWLWW","","dom","S"],["2026-08-27","Prime League 1st Division 2026 Summer Playoffs","Round 3","Berlin International Gaming","G2 NORD","WLLWL","","dom","S"],["2026-09-03","Prime League 1st Division 2026 Summer Playoffs","Round 3","Berlin International Gaming","Kaufland Hangry Knights","LWWW","","dom","S"],["2026-09-12","Prime League 1st Division 2026 Summer Playoffs","Final","Berlin International Gaming","G2 NORD","WLWLW","","dom","S"],["2026-09-14","2026 World Star Challengers Invitational EMEA Qualifier","Final","Berlin International Gaming","Movistar KOI Fénix","LWLWL","","dom","S"],["2026-10-06","EMEA Masters 2026 Summer Main Event","Round of 16","Berlin International Gaming","Galions","LLL","","dom","S"]],"unknown":[]}
+{
+  "player": "Irrelevant",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2020-11-06","Prime League Pro Division 2021 Spring Promotion","Round 1","Flayn eSports","mYinsanity","WWW","","dom","S"],
+    ["2020-11-08","Prime League Pro Division 2021 Spring Promotion","Round 2","Flayn eSports","SK Gaming Prime","WLLWL","","dom","S"],
+    ["2020-11-14","Prime League Pro Division 2021 Spring Promotion","Round 2","Flayn eSports","PENTA 1860","WLWLL","","dom","S"],
+    ["2021-03-17","LFL 2021 Spring Playoffs","Round 1","GameWard","Vitality.Bee","WLLL","","dom","S"],
+    ["2021-11-04","Prime League Pro Division 2021 Summer Relegations","Round 1","WAVE Esports","TT willhaben","WWW","","dom","S"],
+    ["2021-11-10","Prime League Pro Division 2021 Summer Relegations","Round 2","WAVE Esports","EURONICS Gaming","WLWLW","","dom","S"],
+    ["2022-03-17","LFL 2022 Spring Playoffs","Round 1","Misfits Premier","Vitality.Bee","LLL","","dom","S"],
+    ["2022-08-27","LEC 2022 Summer Playoffs","Round 1","Misfits Gaming","G2 Esports","LWLL","","dom","P"],
+    ["2022-09-02","LEC 2022 Summer Playoffs","Round 2","Misfits Gaming","Fnatic","LLL","","dom","P"],
+    ["2023-02-24","LEC 2023 Winter Playoffs","Round 1","SK Gaming","MAD Lions","LWLWL","","dom","P"],
+    ["2023-08-26","LEC 2023 Season Finals","Round 1","SK Gaming","Team BDS","LLL","","dom","P"],
+    ["2024-08-17","LEC 2024 Season Finals","Round 1","SK Gaming","Team BDS","LLL","","dom","P"],
+    ["2026-02-04","Comedy Central Winter Snowdown","Semifinal","Berlin International Gaming","Eintracht Frankfurt","WWW","","dom","S"],
+    ["2026-02-05","Comedy Central Winter Snowdown","Final","Berlin International Gaming","G2 NORD","WLWLL","","dom","S"],
+    ["2026-03-04","Prime League 1st Division 2026 Winter Split","Semifinal","Berlin International Gaming","Eintracht Spandau","LWWW","","dom","S"],
+    ["2026-03-07","Prime League 1st Division 2026 Winter Split","Final","Berlin International Gaming","G2 NORD","WLLWW","","dom","S"],
+    ["2026-05-27","Prime League 1st Division 2026 Spring Playoffs","Semifinal","Berlin International Gaming","G2 NORD","WLLL","","dom","S"],
+    ["2026-05-28","Prime League 1st Division 2026 Spring Playoffs","Third-Place Match","Berlin International Gaming","E WIE EINFACH E-SPORTS","LWLL","","dom","S"],
+    ["2026-08-19","Prime League 1st Division 2026 Summer Playoffs","Round 1","Berlin International Gaming","Unicorns of Love Sexy Edition","LWLWW","","dom","S"],
+    ["2026-08-27","Prime League 1st Division 2026 Summer Playoffs","Round 3","Berlin International Gaming","G2 NORD","WLLWL","","dom","S"],
+    ["2026-09-03","Prime League 1st Division 2026 Summer Playoffs","Round 3","Berlin International Gaming","Kaufland Hangry Knights","LWWW","","dom","S"],
+    ["2026-09-12","Prime League 1st Division 2026 Summer Playoffs","Final","Berlin International Gaming","G2 NORD","WLWLW","","dom","S"],
+    ["2026-09-14","2026 World Star Challengers Invitational EMEA Qualifier","Final","Berlin International Gaming","Movistar KOI Fénix","LWLWL","","dom","S"],
+    ["2026-10-06","EMEA Masters 2026 Summer Main Event","Round of 16","Berlin International Gaming","Galions","LLL","","dom","S"]
+  ],
+  "unknown": []
+}

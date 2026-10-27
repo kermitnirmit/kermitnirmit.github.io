@@ -1,1 +1,36 @@
-{"player":"defles","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2017-09-05","ESL Mistrzostwa Polski 2017 Summer Playoffs","Quarterfinal","Katastrofa Awionetki","Team Paper","WWW","r","dom",""],["2017-09-16","ESL Mistrzostwa Polski 2017 Summer Playoffs","Semifinal","Katastrofa Awionetki","Pompa Team","LLL","r","dom",""],["2018-10-05","ESL Mistrzostwa Polski 2018 Summer Playoffs","Quarterfinal","Szata Maga","Ravioli Ravioli","WWLLW","","dom","S"],["2018-10-13","ESL Mistrzostwa Polski 2018 Summer Playoffs","Semifinal","Szata Maga","Pompa Team","LLWL","","dom","S"],["2018-12-09","Ultraliga Season 0 Playoffs","Quarterfinal","Szata Maga","Wisła Płock eSports","WWW","","dom","S"],["2018-12-21","Ultraliga Season 0 Playoffs","Semifinal","Szata Maga","Illuminar Gaming","WLLWL","","dom","S"],["2019-03-13","Ultraliga Season 1 Playoffs","Round 1","PRIDE (Polish Team)","ACTINA PACT","WWW","","dom","S"],["2019-03-19","Ultraliga Season 1 Playoffs","Round 2","PRIDE (Polish Team)","Illuminar Gaming","LLL","","dom","S"],["2019-05-08","The League Champions League Season 1 Finals","Round 1 and 2","Redemption eSports","POWER eSports","WWW","r","dom",""],["2019-05-20","The League Champions League Season 1 Finals","Round 3 and 4","Redemption eSports","Osh-Tekk Warriors","WWW","r","dom",""],["2019-05-24","The League Champions League Season 1 Finals","Round 3 and 4","Redemption eSports","The Black Lotus","WWW","r","dom",""],["2020-03-18","Ultraliga Season 3 Playoffs","Round 1","piratesports","Illuminar Gaming","LWLL","","dom","S"],["2020-07-20","Ultraliga 2nd Division Season 1 Playoffs","Round 1","7more7 Pompa Team Academy","Team ESCA Gaming","WWW","r","dom","S"],["2020-08-11","Ultraliga Season 4 Playoffs","Round 3","7more7 Pompa Team","K1ck Neosurf","WLLL","","dom","S"],["2020-08-16","Ultraliga Season 5 Promotion","Qualifiers","7more7 Pompa Team Academy","PRIDE (Polish Team)","WWW","","dom","S"],["2021-08-18","Ultraliga Season 7 Promotion","Qualifiers","Komil and Friends","EAS Team ESCA Gaming","LWWW","","dom","S"],["2022-03-13","Ultraliga 2nd Division Season 4 Playoffs","Round 1","Internaziomale","GR1ND","LLL","","dom","S"],["2022-08-04","Ultraliga 2nd Division Season 5 Playoffs","Round 2","Internaziomale","Grypciocraft Esports","WLLL","","dom","S"],["2022-08-11","Ultraliga 2nd Division Season 5 Playoffs","Semifinal","Internaziomale","piratesports","WLWW","","dom","S"],["2022-08-18","Ultraliga 2nd Division Season 5 Playoffs","Final","Internaziomale","Grypciocraft Esports","LWLWW","","dom","S"],["2023-05-26","Xayoo Cup 1","Round 1","Vysotzky&amp;Drututt","Xayoo&amp;Rybson","LWWW","r","dom",""],["2023-05-27","Xayoo Cup 1","Round 2","Vysotzky&amp;Drututt","Kaseko&amp;Lewus","LWLL","r","dom",""],["2023-05-28","Xayoo Cup 1","Round 2","Vysotzky&amp;Drututt","Xayoo&amp;Rybson","WLWLL","r","dom",""]],"unknown":[["2019-05-13","The League Champions League Season 1 Finals","Round 1 and 2","Redemption eSports","NASR eSports","3-1","","dom",""],["2020-07-23","Ultraliga 2nd Division Season 1 Playoffs","Round 2","7more7 Pompa Team Academy","soon to be named","2-3","","dom","S"],["2020-07-27","Ultraliga 2nd Division Season 1 Playoffs","Round 2","7more7 Pompa Team Academy","Team ESCA Gaming","3-2","","dom","S"],["2020-07-30","Ultraliga 2nd Division Season 1 Playoffs","Final","7more7 Pompa Team Academy","soon to be named","3-1","","dom","S"]]}
+{
+  "player": "defles",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2017-09-05","ESL Mistrzostwa Polski 2017 Summer Playoffs","Quarterfinal","Katastrofa Awionetki","Team Paper","WWW","r","dom",""],
+    ["2017-09-16","ESL Mistrzostwa Polski 2017 Summer Playoffs","Semifinal","Katastrofa Awionetki","Pompa Team","LLL","r","dom",""],
+    ["2018-10-05","ESL Mistrzostwa Polski 2018 Summer Playoffs","Quarterfinal","Szata Maga","Ravioli Ravioli","WWLLW","","dom","S"],
+    ["2018-10-13","ESL Mistrzostwa Polski 2018 Summer Playoffs","Semifinal","Szata Maga","Pompa Team","LLWL","","dom","S"],
+    ["2018-12-09","Ultraliga Season 0 Playoffs","Quarterfinal","Szata Maga","Wisła Płock eSports","WWW","","dom","S"],
+    ["2018-12-21","Ultraliga Season 0 Playoffs","Semifinal","Szata Maga","Illuminar Gaming","WLLWL","","dom","S"],
+    ["2019-03-13","Ultraliga Season 1 Playoffs","Round 1","PRIDE (Polish Team)","ACTINA PACT","WWW","","dom","S"],
+    ["2019-03-19","Ultraliga Season 1 Playoffs","Round 2","PRIDE (Polish Team)","Illuminar Gaming","LLL","","dom","S"],
+    ["2019-05-08","The League Champions League Season 1 Finals","Round 1 and 2","Redemption eSports","POWER eSports","WWW","r","dom",""],
+    ["2019-05-20","The League Champions League Season 1 Finals","Round 3 and 4","Redemption eSports","Osh-Tekk Warriors","WWW","r","dom",""],
+    ["2019-05-24","The League Champions League Season 1 Finals","Round 3 and 4","Redemption eSports","The Black Lotus","WWW","r","dom",""],
+    ["2020-03-18","Ultraliga Season 3 Playoffs","Round 1","piratesports","Illuminar Gaming","LWLL","","dom","S"],
+    ["2020-07-20","Ultraliga 2nd Division Season 1 Playoffs","Round 1","7more7 Pompa Team Academy","Team ESCA Gaming","WWW","r","dom","S"],
+    ["2020-08-11","Ultraliga Season 4 Playoffs","Round 3","7more7 Pompa Team","K1ck Neosurf","WLLL","","dom","S"],
+    ["2020-08-16","Ultraliga Season 5 Promotion","Qualifiers","7more7 Pompa Team Academy","PRIDE (Polish Team)","WWW","","dom","S"],
+    ["2021-08-18","Ultraliga Season 7 Promotion","Qualifiers","Komil and Friends","EAS Team ESCA Gaming","LWWW","","dom","S"],
+    ["2022-03-13","Ultraliga 2nd Division Season 4 Playoffs","Round 1","Internaziomale","GR1ND","LLL","","dom","S"],
+    ["2022-08-04","Ultraliga 2nd Division Season 5 Playoffs","Round 2","Internaziomale","Grypciocraft Esports","WLLL","","dom","S"],
+    ["2022-08-11","Ultraliga 2nd Division Season 5 Playoffs","Semifinal","Internaziomale","piratesports","WLWW","","dom","S"],
+    ["2022-08-18","Ultraliga 2nd Division Season 5 Playoffs","Final","Internaziomale","Grypciocraft Esports","LWLWW","","dom","S"],
+    ["2023-05-26","Xayoo Cup 1","Round 1","Vysotzky&amp;Drututt","Xayoo&amp;Rybson","LWWW","r","dom",""],
+    ["2023-05-27","Xayoo Cup 1","Round 2","Vysotzky&amp;Drututt","Kaseko&amp;Lewus","LWLL","r","dom",""],
+    ["2023-05-28","Xayoo Cup 1","Round 2","Vysotzky&amp;Drututt","Xayoo&amp;Rybson","WLWLL","r","dom",""]
+  ],
+  "unknown": [
+    ["2019-05-13","The League Champions League Season 1 Finals","Round 1 and 2","Redemption eSports","NASR eSports","3-1","","dom",""],
+    ["2020-07-23","Ultraliga 2nd Division Season 1 Playoffs","Round 2","7more7 Pompa Team Academy","soon to be named","2-3","","dom","S"],
+    ["2020-07-27","Ultraliga 2nd Division Season 1 Playoffs","Round 2","7more7 Pompa Team Academy","Team ESCA Gaming","3-2","","dom","S"],
+    ["2020-07-30","Ultraliga 2nd Division Season 1 Playoffs","Final","7more7 Pompa Team Academy","soon to be named","3-1","","dom","S"]
+  ]
+}

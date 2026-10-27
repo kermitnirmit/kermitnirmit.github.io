@@ -1,1 +1,28 @@
-{"player":"Syzyfek","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2023-03-15","Arabian League 2nd Division 2023 Spring Playoffs","Round 1","One More Esports","Slash Lions","WWW","","dom","S"],["2023-03-16","Arabian League 2nd Division 2023 Spring Playoffs","Semifinal","One More Esports","Olympus Gaming","LWWW","","dom","S"],["2023-03-29","Arabian League 2nd Division 2023 Spring Playoffs","Final","One More Esports","Twisted Minds","WWW","","dom","S"],["2023-04-12","Arabian League 2023 Summer Promotion","Round 1","One More Esports","3BL Esports","LWLWL","","dom","S"],["2023-04-13","Arabian League 2023 Summer Promotion","Round 1","One More Esports","Twisted Minds","LWWW","","dom","S"],["2023-04-19","Arabian League 2023 Summer Promotion","Round 2","One More Esports","3BL Esports","LWWLL","","dom","S"],["2023-12-01","Xayoo Cup 2","Round 1","Czekolad&amp;Kaseko","Arquel&amp;Overpow","WWLLW","r","dom","S"],["2023-12-02","Xayoo Cup 2","Round 2","Czekolad&amp;Kaseko","Cinkrof&amp;Vysotzky","WWW","r","dom","S"],["2023-12-03","Xayoo Cup 2","Final","Czekolad&amp;Kaseko","Cinkrof&amp;Vysotzky","WLWLL","r","dom","S"],["2024-03-21","LVP SuperLiga 2024 Spring Playoffs","Round 2","Guasones","Team Heretics Academy","LLWL","","dom","S"],["2024-03-28","LVP SuperLiga 2024 Spring Playoffs","Semifinal","Guasones","GIANTX PRIDE","LLWWW","","dom","S"],["2024-04-05","LVP SuperLiga 2024 Spring Playoffs","Final","Guasones","Team Heretics Academy","LWLL","","dom","S"],["2024-09-20","Z10 Scouting Grounds Final Phase","Semifinal","Team MaKu","Team Vil","LWWLW","","dom","S"],["2024-09-21","Z10 Scouting Grounds Final Phase","Final","Team MaKu","Team Blodgharm","WLLL","","dom","S"],["2025-05-21","Prime League 1st Division 2025 Spring Playoffs","Quarterfinal","ROSSMANN Centaurs","TeamOrangeGaming","WWW","","dom","S"],["2025-05-28","Prime League 1st Division 2025 Spring Playoffs","Semifinal","ROSSMANN Centaurs","Berlin International Gaming","LWLL","","dom","S"],["2025-05-29","Prime League 1st Division 2025 Spring Playoffs","Third-Place Match","ROSSMANN Centaurs","Kaufland Hangry Knights","LWWLL","","dom","S"],["2026-03-05","NLC 2026 Winter Playoffs","Round 1","Bulldog Esports","Verdant","LLL","","dom","S"],["2026-09-08","Rift Legends 2026 Summer Split","Playoffs Round 1","Forsaken (Polish Team)","Bomba Team","LLWWW","","dom","S"],["2026-09-19","Rift Legends 2026 Summer Split","Final","Forsaken (Polish Team)","Bomba Team","LLL","","dom","S"]],"unknown":[]}
+{
+  "player": "Syzyfek",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2023-03-15","Arabian League 2nd Division 2023 Spring Playoffs","Round 1","One More Esports","Slash Lions","WWW","","dom","S"],
+    ["2023-03-16","Arabian League 2nd Division 2023 Spring Playoffs","Semifinal","One More Esports","Olympus Gaming","LWWW","","dom","S"],
+    ["2023-03-29","Arabian League 2nd Division 2023 Spring Playoffs","Final","One More Esports","Twisted Minds","WWW","","dom","S"],
+    ["2023-04-12","Arabian League 2023 Summer Promotion","Round 1","One More Esports","3BL Esports","LWLWL","","dom","S"],
+    ["2023-04-13","Arabian League 2023 Summer Promotion","Round 1","One More Esports","Twisted Minds","LWWW","","dom","S"],
+    ["2023-04-19","Arabian League 2023 Summer Promotion","Round 2","One More Esports","3BL Esports","LWWLL","","dom","S"],
+    ["2023-12-01","Xayoo Cup 2","Round 1","Czekolad&amp;Kaseko","Arquel&amp;Overpow","WWLLW","r","dom","S"],
+    ["2023-12-02","Xayoo Cup 2","Round 2","Czekolad&amp;Kaseko","Cinkrof&amp;Vysotzky","WWW","r","dom","S"],
+    ["2023-12-03","Xayoo Cup 2","Final","Czekolad&amp;Kaseko","Cinkrof&amp;Vysotzky","WLWLL","r","dom","S"],
+    ["2024-03-21","LVP SuperLiga 2024 Spring Playoffs","Round 2","Guasones","Team Heretics Academy","LLWL","","dom","S"],
+    ["2024-03-28","LVP SuperLiga 2024 Spring Playoffs","Semifinal","Guasones","GIANTX PRIDE","LLWWW","","dom","S"],
+    ["2024-04-05","LVP SuperLiga 2024 Spring Playoffs","Final","Guasones","Team Heretics Academy","LWLL","","dom","S"],
+    ["2024-09-20","Z10 Scouting Grounds Final Phase","Semifinal","Team MaKu","Team Vil","LWWLW","","dom","S"],
+    ["2024-09-21","Z10 Scouting Grounds Final Phase","Final","Team MaKu","Team Blodgharm","WLLL","","dom","S"],
+    ["2025-05-21","Prime League 1st Division 2025 Spring Playoffs","Quarterfinal","ROSSMANN Centaurs","TeamOrangeGaming","WWW","","dom","S"],
+    ["2025-05-28","Prime League 1st Division 2025 Spring Playoffs","Semifinal","ROSSMANN Centaurs","Berlin International Gaming","LWLL","","dom","S"],
+    ["2025-05-29","Prime League 1st Division 2025 Spring Playoffs","Third-Place Match","ROSSMANN Centaurs","Kaufland Hangry Knights","LWWLL","","dom","S"],
+    ["2026-03-05","NLC 2026 Winter Playoffs","Round 1","Bulldog Esports","Verdant","LLL","","dom","S"],
+    ["2026-09-08","Rift Legends 2026 Summer Split","Playoffs Round 1","Forsaken (Polish Team)","Bomba Team","LLWWW","","dom","S"],
+    ["2026-09-19","Rift Legends 2026 Summer Split","Final","Forsaken (Polish Team)","Bomba Team","LLL","","dom","S"]
+  ],
+  "unknown": []
+}

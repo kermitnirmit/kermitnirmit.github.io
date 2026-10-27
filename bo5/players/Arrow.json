@@ -1,1 +1,46 @@
-{"player":"Arrow","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2014-01-01","Champions 2014 Winter","Quarterfinal","Xenics Storm","NaJin White Shield","LWLL","","dom","P"],["2014-01-09","NLB 2014 Winter","Semifinal","Xenics Storm","NaJin Black Sword","LLL","r","dom","S"],["2014-04-23","Champions 2014 Spring","Quarterfinal","KT Rolster Arrows","CJ Entus Blaze","LWLL","","dom","P"],["2014-07-16","Champions 2014 Summer","Quarterfinal","KT Rolster Arrows","NaJin White Shield","LLWWW","","dom","P"],["2014-07-30","Champions 2014 Summer","Semifinal","KT Rolster Arrows","SK Telecom T1 S","WLLWW","","dom","P"],["2014-08-16","Champions 2014 Summer","Final","KT Rolster Arrows","Samsung Blue","WLLWW","","dom","P"],["2014-08-29","Season Korea Regional Finals 2014","Round 2","KT Rolster Arrows","NaJin White Shield","LLL","","dom","P"],["2015-08-21","Champions 2015 Summer Playoffs","Round 3","KT Rolster","KOO Tigers","LWWLW","","dom","P"],["2015-08-29","Champions 2015 Summer Playoffs","Final","KT Rolster","SK Telecom T1","LLL","","dom","P"],["2015-09-05","Season Korea Regional Finals 2015","Round 3","KT Rolster","Jin Air Green Wings","WWLW","","dom","P"],["2015-10-18","Worlds 2015","Quarterfinal","KT Rolster","KOO Tigers","WLLL","","worlds","P"],["2016-04-16","LCK 2016 Spring Playoffs","Round 3","KT Rolster","SK Telecom T1","LLL","","dom","P"],["2016-08-10","LCK 2016 Summer Playoffs","Round 2","KT Rolster","Samsung Galaxy","WWW","","dom","P"],["2016-08-12","LCK 2016 Summer Playoffs","Round 3","KT Rolster","SK Telecom T1","LLWWW","","dom","P"],["2016-08-20","LCK 2016 Summer Playoffs","Final","KT Rolster","ROX Tigers","LWLWL","","dom","P"],["2016-09-03","LCK 2016 Regional Finals","Round 3","KT Rolster","Samsung Galaxy","LWWLL","","dom","P"],["2017-04-08","NA LCS 2017 Spring Playoffs","Quarterfinal","Phoenix1","Dignitas","WWW","","dom","P"],["2017-04-15","NA LCS 2017 Spring Playoffs","Semifinal","Phoenix1","Cloud9","LLL","","dom","P"],["2017-04-22","NA LCS 2017 Spring Playoffs","Third-Place Match","Phoenix1","FlyQuest","WLLWW","","dom","P"],["2017-08-11","NA LCS 2018 Spring Promotion","Round 1","Phoenix1","Gold Coin United","WWLLW","","dom","P"],["2017-08-12","NA LCS 2018 Spring Promotion","Qualifying Round","Phoenix1","Team Liquid","WWLLL","","dom","P"],["2017-08-13","NA LCS 2018 Spring Promotion","Qualifying Round","Phoenix1","eUnited","WWW","","dom","P"],["2019-08-11","LCS 2019 Summer Playoffs","Quarterfinal","OpTic Gaming","Counter Logic Gaming","LLL","","dom","P"],["2021-06-01","Challengers Uprising Season 3 Playoffs","Quarterfinal","Wildcard Gaming Red","Evil Geniuses Prodigies","LWWLW","","dom","S"],["2021-06-07","Challengers Uprising Season 3 Playoffs","Semifinal","Wildcard Gaming Red","Resolve NA","WWW","","dom","S"],["2021-06-08","Challengers Uprising Season 3 Playoffs","Final","Wildcard Gaming Red","Zoos Gaming","WLWW","","dom","S"],["2021-06-29","Risen Champions League 2021 Summer Playoffs","Quarterfinal","Wildcard Gaming Red","AOE Esports","WWW","","dom","S"],["2021-07-05","Risen Champions League 2021 Summer Playoffs","Semifinal","Wildcard Gaming Red","Zoos Gaming","WWLW","","dom","S"],["2021-07-06","Risen Champions League 2021 Summer Playoffs","Final","Wildcard Gaming Red","Cloud9 Amateur","WWLLW","","dom","S"],["2021-07-26","Esports Gaming League Summer Showdown Playoffs","Semifinal","Wildcard Gaming Red","100 Thieves Next","WLWW","","dom","S"],["2021-07-27","Esports Gaming League Summer Showdown Playoffs","Final","Wildcard Gaming Red","AOE Esports","WWW","","dom","S"],["2021-09-19","LCS Proving Grounds 2021 Summer","Round 4","Wildcard Gaming Red","Golden Guardians Academy","WLWLL","","dom","S"],["2022-08-23","LCS Proving Grounds 2022 Summer","Round 4","Immortals Academy","Team Liquid Academy","WWLLL","","dom","S"],["2023-03-20","North American Challengers League 2023 Spring Playoffs","Round 4","Team Liquid Challengers","100 Thieves Challengers","WWLW","","dom","S"],["2023-03-28","North American Challengers League 2023 Spring Playoffs","Round 5","Team Liquid Challengers","Cincinnati Fear","WLWLW","","dom","S"],["2023-04-01","North American Challengers League 2023 Spring Playoffs","Round 6","Team Liquid Challengers","Cloud9 Challengers","LWLL","","dom","S"]],"unknown":[["2014-01-14","NLB 2014 Winter","Third-Place Match","Xenics Storm","Samsung Blue","1-3","","dom","S"]]}
+{
+  "player": "Arrow",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2014-01-01","Champions 2014 Winter","Quarterfinal","Xenics Storm","NaJin White Shield","LWLL","","dom","P"],
+    ["2014-01-09","NLB 2014 Winter","Semifinal","Xenics Storm","NaJin Black Sword","LLL","r","dom","S"],
+    ["2014-04-23","Champions 2014 Spring","Quarterfinal","KT Rolster Arrows","CJ Entus Blaze","LWLL","","dom","P"],
+    ["2014-07-16","Champions 2014 Summer","Quarterfinal","KT Rolster Arrows","NaJin White Shield","LLWWW","","dom","P"],
+    ["2014-07-30","Champions 2014 Summer","Semifinal","KT Rolster Arrows","SK Telecom T1 S","WLLWW","","dom","P"],
+    ["2014-08-16","Champions 2014 Summer","Final","KT Rolster Arrows","Samsung Blue","WLLWW","","dom","P"],
+    ["2014-08-29","Season Korea Regional Finals 2014","Round 2","KT Rolster Arrows","NaJin White Shield","LLL","","dom","P"],
+    ["2015-08-21","Champions 2015 Summer Playoffs","Round 3","KT Rolster","KOO Tigers","LWWLW","","dom","P"],
+    ["2015-08-29","Champions 2015 Summer Playoffs","Final","KT Rolster","SK Telecom T1","LLL","","dom","P"],
+    ["2015-09-05","Season Korea Regional Finals 2015","Round 3","KT Rolster","Jin Air Green Wings","WWLW","","dom","P"],
+    ["2015-10-18","Worlds 2015","Quarterfinal","KT Rolster","KOO Tigers","WLLL","","worlds","P"],
+    ["2016-04-16","LCK 2016 Spring Playoffs","Round 3","KT Rolster","SK Telecom T1","LLL","","dom","P"],
+    ["2016-08-10","LCK 2016 Summer Playoffs","Round 2","KT Rolster","Samsung Galaxy","WWW","","dom","P"],
+    ["2016-08-12","LCK 2016 Summer Playoffs","Round 3","KT Rolster","SK Telecom T1","LLWWW","","dom","P"],
+    ["2016-08-20","LCK 2016 Summer Playoffs","Final","KT Rolster","ROX Tigers","LWLWL","","dom","P"],
+    ["2016-09-03","LCK 2016 Regional Finals","Round 3","KT Rolster","Samsung Galaxy","LWWLL","","dom","P"],
+    ["2017-04-08","NA LCS 2017 Spring Playoffs","Quarterfinal","Phoenix1","Dignitas","WWW","","dom","P"],
+    ["2017-04-15","NA LCS 2017 Spring Playoffs","Semifinal","Phoenix1","Cloud9","LLL","","dom","P"],
+    ["2017-04-22","NA LCS 2017 Spring Playoffs","Third-Place Match","Phoenix1","FlyQuest","WLLWW","","dom","P"],
+    ["2017-08-11","NA LCS 2018 Spring Promotion","Round 1","Phoenix1","Gold Coin United","WWLLW","","dom","P"],
+    ["2017-08-12","NA LCS 2018 Spring Promotion","Qualifying Round","Phoenix1","Team Liquid","WWLLL","","dom","P"],
+    ["2017-08-13","NA LCS 2018 Spring Promotion","Qualifying Round","Phoenix1","eUnited","WWW","","dom","P"],
+    ["2019-08-11","LCS 2019 Summer Playoffs","Quarterfinal","OpTic Gaming","Counter Logic Gaming","LLL","","dom","P"],
+    ["2021-06-01","Challengers Uprising Season 3 Playoffs","Quarterfinal","Wildcard Gaming Red","Evil Geniuses Prodigies","LWWLW","","dom","S"],
+    ["2021-06-07","Challengers Uprising Season 3 Playoffs","Semifinal","Wildcard Gaming Red","Resolve NA","WWW","","dom","S"],
+    ["2021-06-08","Challengers Uprising Season 3 Playoffs","Final","Wildcard Gaming Red","Zoos Gaming","WLWW","","dom","S"],
+    ["2021-06-29","Risen Champions League 2021 Summer Playoffs","Quarterfinal","Wildcard Gaming Red","AOE Esports","WWW","","dom","S"],
+    ["2021-07-05","Risen Champions League 2021 Summer Playoffs","Semifinal","Wildcard Gaming Red","Zoos Gaming","WWLW","","dom","S"],
+    ["2021-07-06","Risen Champions League 2021 Summer Playoffs","Final","Wildcard Gaming Red","Cloud9 Amateur","WWLLW","","dom","S"],
+    ["2021-07-26","Esports Gaming League Summer Showdown Playoffs","Semifinal","Wildcard Gaming Red","100 Thieves Next","WLWW","","dom","S"],
+    ["2021-07-27","Esports Gaming League Summer Showdown Playoffs","Final","Wildcard Gaming Red","AOE Esports","WWW","","dom","S"],
+    ["2021-09-19","LCS Proving Grounds 2021 Summer","Round 4","Wildcard Gaming Red","Golden Guardians Academy","WLWLL","","dom","S"],
+    ["2022-08-23","LCS Proving Grounds 2022 Summer","Round 4","Immortals Academy","Team Liquid Academy","WWLLL","","dom","S"],
+    ["2023-03-20","North American Challengers League 2023 Spring Playoffs","Round 4","Team Liquid Challengers","100 Thieves Challengers","WWLW","","dom","S"],
+    ["2023-03-28","North American Challengers League 2023 Spring Playoffs","Round 5","Team Liquid Challengers","Cincinnati Fear","WLWLW","","dom","S"],
+    ["2023-04-01","North American Challengers League 2023 Spring Playoffs","Round 6","Team Liquid Challengers","Cloud9 Challengers","LWLL","","dom","S"]
+  ],
+  "unknown": [
+    ["2014-01-14","NLB 2014 Winter","Third-Place Match","Xenics Storm","Samsung Blue","1-3","","dom","S"]
+  ]
+}

@@ -1,1 +1,29 @@
-{"player":"Gaeng","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2018-04-07","LJL 2018 Spring Playoffs","Semifinal","PENTAGRAM","Unsold Stuff Gaming","WLWW","","dom","P"],["2018-04-14","LJL 2018 Spring Playoffs","Final","PENTAGRAM","DetonatioN FocusMe","WWW","","dom","P"],["2018-09-08","LJL 2018 Summer Playoffs","Semifinal","PENTAGRAM","Unsold Stuff Gaming","LLL","","dom","P"],["2019-04-13","LJL 2019 Spring Playoffs","Final","DetonatioN FocusMe","Unsold Stuff Gaming","WWW","","dom","P"],["2019-09-16","LJL 2019 Summer Playoffs","Final","DetonatioN FocusMe","V3 Esports","LWWW","","dom","P"],["2020-03-28","LJL 2020 Spring Playoffs","Round 2","DetonatioN FocusMe","Sengoku Gaming","LWWLL","","dom","P"],["2020-05-03","LJL 2020 Spring Playoffs","Round 3","DetonatioN FocusMe","V3 Esports","WLWW","","dom","P"],["2020-05-04","LJL 2020 Spring Playoffs","Final","DetonatioN FocusMe","Sengoku Gaming","WWLW","","dom","P"],["2020-08-16","LJL 2020 Summer Playoffs","Round 1","DetonatioN FocusMe","Burning Core","WLWLW","","dom","P"],["2020-08-23","LJL 2020 Summer Playoffs","Round 2","DetonatioN FocusMe","Crest Gaming Act","WLWW","","dom","P"],["2020-09-05","LJL 2020 Summer Playoffs","Round 3","DetonatioN FocusMe","Sengoku Gaming","WWW","","dom","P"],["2020-09-06","LJL 2020 Summer Playoffs","Final","DetonatioN FocusMe","V3 Esports","LWWLL","","dom","P"],["2021-08-21","LJL 2021 Summer Playoffs","Round 2","DetonatioN FocusMe","Rascal Jester","WLLWL","","dom","P"],["2021-09-04","LJL 2021 Summer Playoffs","Round 3","DetonatioN FocusMe","AXIZ","WWW","","dom","P"],["2021-09-05","LJL 2021 Summer Playoffs","Final","DetonatioN FocusMe","Rascal Jester","WWW","","dom","P"],["2023-08-08","LLA 2023 Closing Playoffs","Semifinal","Estral Esports","Movistar R7","LLWL","p","dom","P"],["2023-08-15","LLA 2023 Closing Playoffs","Semifinal","Estral Esports","Six Karma","WWLLW","","dom","P"],["2023-08-26","LLA 2023 Closing Playoffs","Final","Estral Esports","Movistar R7","LLL","","dom","P"],["2024-02-25","LJL 2024 Spring Playoffs","Semifinal","Sengoku Gaming","Fukuoka SoftBank HAWKS gaming","LLL","","dom","P"],["2024-03-02","LJL 2024 Spring Playoffs","Third-Place Match","Sengoku Gaming","V3 Esports","WLLL","","dom","P"],["2024-07-27","LJL 2024 Summer Playoffs","Round 3","Sengoku Gaming","DetonatioN FocusMe","LLL","","dom","P"]],"unknown":[]}
+{
+  "player": "Gaeng",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2018-04-07","LJL 2018 Spring Playoffs","Semifinal","PENTAGRAM","Unsold Stuff Gaming","WLWW","","dom","P"],
+    ["2018-04-14","LJL 2018 Spring Playoffs","Final","PENTAGRAM","DetonatioN FocusMe","WWW","","dom","P"],
+    ["2018-09-08","LJL 2018 Summer Playoffs","Semifinal","PENTAGRAM","Unsold Stuff Gaming","LLL","","dom","P"],
+    ["2019-04-13","LJL 2019 Spring Playoffs","Final","DetonatioN FocusMe","Unsold Stuff Gaming","WWW","","dom","P"],
+    ["2019-09-16","LJL 2019 Summer Playoffs","Final","DetonatioN FocusMe","V3 Esports","LWWW","","dom","P"],
+    ["2020-03-28","LJL 2020 Spring Playoffs","Round 2","DetonatioN FocusMe","Sengoku Gaming","LWWLL","","dom","P"],
+    ["2020-05-03","LJL 2020 Spring Playoffs","Round 3","DetonatioN FocusMe","V3 Esports","WLWW","","dom","P"],
+    ["2020-05-04","LJL 2020 Spring Playoffs","Final","DetonatioN FocusMe","Sengoku Gaming","WWLW","","dom","P"],
+    ["2020-08-16","LJL 2020 Summer Playoffs","Round 1","DetonatioN FocusMe","Burning Core","WLWLW","","dom","P"],
+    ["2020-08-23","LJL 2020 Summer Playoffs","Round 2","DetonatioN FocusMe","Crest Gaming Act","WLWW","","dom","P"],
+    ["2020-09-05","LJL 2020 Summer Playoffs","Round 3","DetonatioN FocusMe","Sengoku Gaming","WWW","","dom","P"],
+    ["2020-09-06","LJL 2020 Summer Playoffs","Final","DetonatioN FocusMe","V3 Esports","LWWLL","","dom","P"],
+    ["2021-08-21","LJL 2021 Summer Playoffs","Round 2","DetonatioN FocusMe","Rascal Jester","WLLWL","","dom","P"],
+    ["2021-09-04","LJL 2021 Summer Playoffs","Round 3","DetonatioN FocusMe","AXIZ","WWW","","dom","P"],
+    ["2021-09-05","LJL 2021 Summer Playoffs","Final","DetonatioN FocusMe","Rascal Jester","WWW","","dom","P"],
+    ["2023-08-08","LLA 2023 Closing Playoffs","Semifinal","Estral Esports","Movistar R7","LLWL","p","dom","P"],
+    ["2023-08-15","LLA 2023 Closing Playoffs","Semifinal","Estral Esports","Six Karma","WWLLW","","dom","P"],
+    ["2023-08-26","LLA 2023 Closing Playoffs","Final","Estral Esports","Movistar R7","LLL","","dom","P"],
+    ["2024-02-25","LJL 2024 Spring Playoffs","Semifinal","Sengoku Gaming","Fukuoka SoftBank HAWKS gaming","LLL","","dom","P"],
+    ["2024-03-02","LJL 2024 Spring Playoffs","Third-Place Match","Sengoku Gaming","V3 Esports","WLLL","","dom","P"],
+    ["2024-07-27","LJL 2024 Summer Playoffs","Round 3","Sengoku Gaming","DetonatioN FocusMe","LLL","","dom","P"]
+  ],
+  "unknown": []
+}

@@ -1,1 +1,32 @@
-{"player":"Zest (Kim Dong-min)","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2022-08-15","LCK CL 2022 Summer Playoffs","Quarterfinal","Gen.G Challengers","DRX Challengers","WLLWL","","dom","S"],["2023-08-07","LCK CL 2023 Summer Playoffs","Round 1","Gen.G Global Academy","Hanwha Life Esports Challengers","LLL","","dom","S"],["2024-07-24","TCL 2024 Summer Playoffs","Round 1","Dark Passage","Beşiktaş Esports","LWWW","","dom","S"],["2024-07-29","TCL 2024 Summer Playoffs","Round 2","Dark Passage","FUT Esports","WLLWW","","dom","S"],["2024-07-30","TCL 2024 Summer Playoffs","Semifinal","Dark Passage","BoostGate Esports","LWWLW","","dom","S"],["2024-08-03","TCL 2024 Summer Playoffs","Final","Dark Passage","Papara SuperMassive","WWLLL","","dom","S"],["2024-08-15","EMEA Masters 2024 Summer Main Event","Round of 16","Dark Passage","Team GO","LLL","","dom","S"],["2025-09-02","TCL 2025 Summer Playoffs","Round 2","Bushido Wildcats","Misa Esports","WLLL","","dom","S"],["2025-09-05","TCL 2025 Summer Playoffs","Semifinal","Bushido Wildcats","ULF Esports","WLWW","","dom","S"],["2025-09-12","TCL 2025 Summer Playoffs","Final","Bushido Wildcats","Misa Esports","WLLWL","","dom","S"],["2026-02-22","CBLOL 2026 Cup","Round 3","LØS","FURIA","WLLL","","dom","P"],["2026-05-10","CBLOL 2026 Split 1 Playoffs","Round 1","LØS","Fluxo W7M","LWLWL","","dom","P"],["2026-05-23","CBLOL 2026 Split 1 Playoffs","Round 1","LØS","Vivo Keyd Stars","WWW","","dom","P"],["2026-05-25","CBLOL 2026 Split 1 Playoffs","Round 2","LØS","LOUD","WWLLW","","dom","P"],["2026-05-30","CBLOL 2026 Split 1 Playoffs","Round 3","LØS","Fluxo W7M","WLLWW","","dom","P"],["2026-05-31","CBLOL 2026 Split 1 Playoffs","Round 4","LØS","RED Canids","WWW","","dom","P"],["2026-06-06","CBLOL 2026 Split 1 Playoffs","Final","LØS","FURIA","LWLL","","dom","P"],["2026-06-14","Esports World Cup 2026 Online Qualifiers South America","Final","LØS","RED Canids","WWW","","intl","P"],["2026-09-12","CBLOL 2026 Split 2 Playoffs","Round 2","LØS","FURIA","WWLW","","dom","P"],["2026-09-27","CBLOL 2026 Split 2 Playoffs","Round 4","LØS","LOUD","WWLLW","","dom","P"],["2026-09-30","CBLOL 2027 Promotion","Round 1","LØS","KaBuM! Ilha das Lendas","WWW","","dom","P"],["2026-10-01","CBLOL 2027 Promotion","Round 2","LØS","Estral Esports","WWW","","dom","P"],["2026-10-10","CBLOL 2026 Split 2 Playoffs","Final","LØS","FURIA","WLWLW","","dom","P"],["2026-10-12","CBLOL 2027 Promotion","Final","LØS","KaBuM! Ilha das Lendas","WWLW","","dom","P"]],"unknown":[]}
+{
+  "player": "Zest (Kim Dong-min)",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2022-08-15","LCK CL 2022 Summer Playoffs","Quarterfinal","Gen.G Challengers","DRX Challengers","WLLWL","","dom","S"],
+    ["2023-08-07","LCK CL 2023 Summer Playoffs","Round 1","Gen.G Global Academy","Hanwha Life Esports Challengers","LLL","","dom","S"],
+    ["2024-07-24","TCL 2024 Summer Playoffs","Round 1","Dark Passage","Beşiktaş Esports","LWWW","","dom","S"],
+    ["2024-07-29","TCL 2024 Summer Playoffs","Round 2","Dark Passage","FUT Esports","WLLWW","","dom","S"],
+    ["2024-07-30","TCL 2024 Summer Playoffs","Semifinal","Dark Passage","BoostGate Esports","LWWLW","","dom","S"],
+    ["2024-08-03","TCL 2024 Summer Playoffs","Final","Dark Passage","Papara SuperMassive","WWLLL","","dom","S"],
+    ["2024-08-15","EMEA Masters 2024 Summer Main Event","Round of 16","Dark Passage","Team GO","LLL","","dom","S"],
+    ["2025-09-02","TCL 2025 Summer Playoffs","Round 2","Bushido Wildcats","Misa Esports","WLLL","","dom","S"],
+    ["2025-09-05","TCL 2025 Summer Playoffs","Semifinal","Bushido Wildcats","ULF Esports","WLWW","","dom","S"],
+    ["2025-09-12","TCL 2025 Summer Playoffs","Final","Bushido Wildcats","Misa Esports","WLLWL","","dom","S"],
+    ["2026-02-22","CBLOL 2026 Cup","Round 3","LØS","FURIA","WLLL","","dom","P"],
+    ["2026-05-10","CBLOL 2026 Split 1 Playoffs","Round 1","LØS","Fluxo W7M","LWLWL","","dom","P"],
+    ["2026-05-23","CBLOL 2026 Split 1 Playoffs","Round 1","LØS","Vivo Keyd Stars","WWW","","dom","P"],
+    ["2026-05-25","CBLOL 2026 Split 1 Playoffs","Round 2","LØS","LOUD","WWLLW","","dom","P"],
+    ["2026-05-30","CBLOL 2026 Split 1 Playoffs","Round 3","LØS","Fluxo W7M","WLLWW","","dom","P"],
+    ["2026-05-31","CBLOL 2026 Split 1 Playoffs","Round 4","LØS","RED Canids","WWW","","dom","P"],
+    ["2026-06-06","CBLOL 2026 Split 1 Playoffs","Final","LØS","FURIA","LWLL","","dom","P"],
+    ["2026-06-14","Esports World Cup 2026 Online Qualifiers South America","Final","LØS","RED Canids","WWW","","intl","P"],
+    ["2026-09-12","CBLOL 2026 Split 2 Playoffs","Round 2","LØS","FURIA","WWLW","","dom","P"],
+    ["2026-09-27","CBLOL 2026 Split 2 Playoffs","Round 4","LØS","LOUD","WWLLW","","dom","P"],
+    ["2026-09-30","CBLOL 2027 Promotion","Round 1","LØS","KaBuM! Ilha das Lendas","WWW","","dom","P"],
+    ["2026-10-01","CBLOL 2027 Promotion","Round 2","LØS","Estral Esports","WWW","","dom","P"],
+    ["2026-10-10","CBLOL 2026 Split 2 Playoffs","Final","LØS","FURIA","WLWLW","","dom","P"],
+    ["2026-10-12","CBLOL 2027 Promotion","Final","LØS","KaBuM! Ilha das Lendas","WWLW","","dom","P"]
+  ],
+  "unknown": []
+}

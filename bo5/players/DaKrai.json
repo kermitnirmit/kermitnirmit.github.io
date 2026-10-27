@@ -1,1 +1,29 @@
-{"player":"DaKrai","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2020-12-11","Intel Arabian Cup 2020","Quarterfinal","Anubis Gaming","OverMinds","WLWW","r","dom","S"],["2020-12-18","Intel Arabian Cup 2020","Semifinal","Anubis Gaming","Fox Gaming","LLWWW","r","dom","S"],["2020-12-19","Intel Arabian Cup 2020","Final","Anubis Gaming","EGZ Esports","WLWW","r","dom","S"],["2021-03-16","Red Bull ProSeed 2021","Final","Anubis Gaming","RA'AD","LLL","r","dom","S"],["2021-05-14","Intel Arabian Cup Champions League 2021 Season 1","Semifinal","Anubis Gaming","Fox Gaming","LWWW","r","dom","P"],["2021-05-22","Intel Arabian Cup Champions League 2021 Season 1","Final","Anubis Gaming","KnockOut Esports","LLWWL","r","dom","P"],["2021-07-31","Intel Arabian Cup Champions League 2021 Season 2","Final","Anubis Gaming","KnockOut Esports","LLL","r","dom","P"],["2021-07-31","Intel Arabian Cup Champions League 2021 Season 2","Semifinal","Anubis Gaming","Sahara Warriors","WWW","r","dom","P"],["2021-09-25","Intel Arabian Cup Champions League 2021 Season 3","Semifinal","Anubis Gaming","RA'AD","WLLWL","r","dom","P"],["2021-09-26","Intel Arabian Cup Champions League 2021 Season 3","Third-Place Match","Anubis Gaming","E9Sports","WLLL","r","dom","P"],["2021-10-09","Intel Arabian Cup Champions League 2021 Grand Finals","Round 1","Anubis Gaming","The Black Lotus","WWW","r","dom","P"],["2021-10-11","Intel Arabian Cup Champions League 2021 Grand Finals","Round 2","Anubis Gaming","RA'AD","WLWW","r","dom","P"],["2021-10-15","Intel Arabian Cup Champions League 2021 Grand Finals","Semifinal","Anubis Gaming","Geekay Esports","WLLWW","r","dom","P"],["2021-10-17","Intel Arabian Cup Champions League 2021 Grand Finals","Grand Final","Anubis Gaming","Geekay Esports","LLL","r","dom","P"],["2022-05-19","Rising Stars Season 2","Grand Final","Anubis Gaming","RA'AD","LWLL","r","dom","S"],["2022-07-03","Intel Arabian Cup Prestige Division 2022 Season 1","Quarterfinal","Anubis Gaming","Lost Esports","WWW","r","dom","P"],["2022-07-17","Intel Arabian Cup Prestige Division 2022 Season 1","Semifinal","Anubis Gaming","VSlash GnG","LWWW","r","dom","P"],["2022-07-24","Intel Arabian Cup Prestige Division 2022 Season 1","Final","Anubis Gaming","RA'AD","LLL","r","dom","P"],["2022-09-17","Intel Arabian Cup Prestige Division 2022 Season 2","Quarterfinal","Anubis Gaming","Nigma Galaxy Male","WLWW","r","dom","P"],["2022-09-23","Intel Arabian Cup Prestige Division 2022 Season 2","Semifinal","Anubis Gaming","VSlash GnG","WWW","r","dom","P"],["2022-09-25","Intel Arabian Cup Prestige Division 2022 Season 2","Final","Anubis Gaming","Geekay Esports","WLLWL","r","dom","P"]],"unknown":[]}
+{
+  "player": "DaKrai",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2020-12-11","Intel Arabian Cup 2020","Quarterfinal","Anubis Gaming","OverMinds","WLWW","r","dom","S"],
+    ["2020-12-18","Intel Arabian Cup 2020","Semifinal","Anubis Gaming","Fox Gaming","LLWWW","r","dom","S"],
+    ["2020-12-19","Intel Arabian Cup 2020","Final","Anubis Gaming","EGZ Esports","WLWW","r","dom","S"],
+    ["2021-03-16","Red Bull ProSeed 2021","Final","Anubis Gaming","RA'AD","LLL","r","dom","S"],
+    ["2021-05-14","Intel Arabian Cup Champions League 2021 Season 1","Semifinal","Anubis Gaming","Fox Gaming","LWWW","r","dom","P"],
+    ["2021-05-22","Intel Arabian Cup Champions League 2021 Season 1","Final","Anubis Gaming","KnockOut Esports","LLWWL","r","dom","P"],
+    ["2021-07-31","Intel Arabian Cup Champions League 2021 Season 2","Final","Anubis Gaming","KnockOut Esports","LLL","r","dom","P"],
+    ["2021-07-31","Intel Arabian Cup Champions League 2021 Season 2","Semifinal","Anubis Gaming","Sahara Warriors","WWW","r","dom","P"],
+    ["2021-09-25","Intel Arabian Cup Champions League 2021 Season 3","Semifinal","Anubis Gaming","RA'AD","WLLWL","r","dom","P"],
+    ["2021-09-26","Intel Arabian Cup Champions League 2021 Season 3","Third-Place Match","Anubis Gaming","E9Sports","WLLL","r","dom","P"],
+    ["2021-10-09","Intel Arabian Cup Champions League 2021 Grand Finals","Round 1","Anubis Gaming","The Black Lotus","WWW","r","dom","P"],
+    ["2021-10-11","Intel Arabian Cup Champions League 2021 Grand Finals","Round 2","Anubis Gaming","RA'AD","WLWW","r","dom","P"],
+    ["2021-10-15","Intel Arabian Cup Champions League 2021 Grand Finals","Semifinal","Anubis Gaming","Geekay Esports","WLLWW","r","dom","P"],
+    ["2021-10-17","Intel Arabian Cup Champions League 2021 Grand Finals","Grand Final","Anubis Gaming","Geekay Esports","LLL","r","dom","P"],
+    ["2022-05-19","Rising Stars Season 2","Grand Final","Anubis Gaming","RA'AD","LWLL","r","dom","S"],
+    ["2022-07-03","Intel Arabian Cup Prestige Division 2022 Season 1","Quarterfinal","Anubis Gaming","Lost Esports","WWW","r","dom","P"],
+    ["2022-07-17","Intel Arabian Cup Prestige Division 2022 Season 1","Semifinal","Anubis Gaming","VSlash GnG","LWWW","r","dom","P"],
+    ["2022-07-24","Intel Arabian Cup Prestige Division 2022 Season 1","Final","Anubis Gaming","RA'AD","LLL","r","dom","P"],
+    ["2022-09-17","Intel Arabian Cup Prestige Division 2022 Season 2","Quarterfinal","Anubis Gaming","Nigma Galaxy Male","WLWW","r","dom","P"],
+    ["2022-09-23","Intel Arabian Cup Prestige Division 2022 Season 2","Semifinal","Anubis Gaming","VSlash GnG","WWW","r","dom","P"],
+    ["2022-09-25","Intel Arabian Cup Prestige Division 2022 Season 2","Final","Anubis Gaming","Geekay Esports","WLLWL","r","dom","P"]
+  ],
+  "unknown": []
+}

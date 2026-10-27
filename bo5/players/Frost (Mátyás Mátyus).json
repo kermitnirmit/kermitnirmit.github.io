@@ -1,1 +1,39 @@
-{"player":"Frost (Mátyás Mátyus)","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2021-12-11","Magyar Esport Kupa 2021 Winter","Round 2","KmK eSports","Wonder Stag Esports White","LWWLW","","dom","S"],["2022-10-26","Esports Balkan League 2022 Pro-Am","Third-Place Match","Valiance","Partizan Esports","LWLL","","dom","S"],["2023-08-17","NLC 2nd Division 2024 Spring Promotion","Round 1","Anima","Gran Turismo","LLWWL","","dom","S"],["2023-08-19","NLC 2nd Division 2024 Spring Promotion","Round 1","Anima","Invulnerables Esports","WWW","","dom","S"],["2023-08-20","NLC 2nd Division 2024 Spring Promotion","Round 2","Anima","Gran Turismo","LWLL","","dom","S"],["2023-09-30","Magyar Nemzeti E-sport Bajnokság Season 5 Major Cup","Round 2","Békéscsabai Esport Egyesület","Lenovo Legion Honvéd","LLL","r","dom","S"],["2024-07-08","LFL Division 2 2024 Summer Playoffs","Round 1","Project Conquerors","Joblife","LLL","","dom","S"],["2025-03-01","LFL Division 2 2025 Winter Playoffs","Round 1","Project Conquerors","Esprit Shōnen","WWLLL","","dom","S"],["2025-03-08","LFL Division 2 2025 Winter Playoffs","Round 2","Project Conquerors","IziDream","WLLWW","","dom","S"],["2025-03-09","LFL Division 2 2025 Winter Playoffs","Final","Project Conquerors","Esprit Shōnen","LLWWL","","dom","S"],["2025-05-31","LFL Division 2 2025 Spring Playoffs","Round 1","Project Conquerors","Esprit Shōnen","LLWL","","dom","S"],["2025-06-07","LFL Division 2 2025 Spring Playoffs","Round 2","Project Conquerors","Team Valiant","LWLL","","dom","S"],["2025-09-07","LFL Division 2 2025 Summer Playoffs","Round 1","Project Conquerors","Caldya Esport","WWW","","dom","S"],["2025-09-13","LFL Division 2 2025 Summer Playoffs","Round 2","Project Conquerors","IziDream","LLL","","dom","S"],["2025-09-17","LFL 2026 Promotion","Round 1","Project Conquerors","Team BDS Academy","LLL","","dom","S"],["2025-11-17","Prime League 2nd Division 2026 Fall Relegation","Decider","Esport Factory","Entropy x Teufel","LLWL","","dom","S"],["2025-12-13","Prime League 2nd Division 2026 Fall Relegation","Round 5","Esport Factory","MT1 Esports","LLL","r","dom","S"],["2025-12-14","Prime League 2nd Division 2026 Fall Relegation","Round 5","Esport Factory","No Need Orga","LLL","r","dom","S"],["2026-04-03","Spring Dawn Tournament","Final","Project Conquerors","Karmine Corp Blue Stars","LLWL","","dom","S"],["2026-05-31","Nexus League 2026 Spring Playoffs","Round 1","Project Conquerors","Lille Esport","WWW","","dom","S"],["2026-06-06","Nexus League 2026 Spring Playoffs","Round 2","Project Conquerors","Caldya Esport","WWW","","dom","S"],["2026-06-07","Nexus League 2026 Spring Playoffs","Final","Project Conquerors","Karmine Corp Blue Stars","WWLLL","","dom","S"],["2026-08-29","Nexus League 2026 Summer Playoffs","Round 2","Project Conquerors","Karmine Corp Blue Stars","LWLL","","dom","S"],["2026-09-05","Nexus League 2026 Summer Playoffs","Round 3","Project Conquerors","Galions Sharks","WWLW","","dom","S"],["2026-09-06","Nexus League 2026 Summer Playoffs","Final","Project Conquerors","Karmine Corp Blue Stars","LWLL","","dom","S"],["2026-09-10","LFL 2027 Promotion","Round 1","Project Conquerors","ZYB Esport","WLWLW","","dom","S"],["2026-09-15","LFL 2027 Promotion","Round 2","Project Conquerors","Skillcamp","LLL","","dom","S"]],"unknown":[["2021-12-18","Magyar Esport Kupa 2021 Winter","Grand Final","KmK eSports","Team Plague","3-2","","dom","S"],["2022-10-11","Magyar Nemzeti E-sport Bajnokság Season 4 Autumn Cup","Round 4","KmK eSports","Team Plague","1-3","","dom","S"],["2022-12-19","ELEAGUE Winter Cup 2022","Quarterfinal","Retirement age gamers","eSuba","1-3","","dom","S"]]}
+{
+  "player": "Frost (Mátyás Mátyus)",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2021-12-11","Magyar Esport Kupa 2021 Winter","Round 2","KmK eSports","Wonder Stag Esports White","LWWLW","","dom","S"],
+    ["2022-10-26","Esports Balkan League 2022 Pro-Am","Third-Place Match","Valiance","Partizan Esports","LWLL","","dom","S"],
+    ["2023-08-17","NLC 2nd Division 2024 Spring Promotion","Round 1","Anima","Gran Turismo","LLWWL","","dom","S"],
+    ["2023-08-19","NLC 2nd Division 2024 Spring Promotion","Round 1","Anima","Invulnerables Esports","WWW","","dom","S"],
+    ["2023-08-20","NLC 2nd Division 2024 Spring Promotion","Round 2","Anima","Gran Turismo","LWLL","","dom","S"],
+    ["2023-09-30","Magyar Nemzeti E-sport Bajnokság Season 5 Major Cup","Round 2","Békéscsabai Esport Egyesület","Lenovo Legion Honvéd","LLL","r","dom","S"],
+    ["2024-07-08","LFL Division 2 2024 Summer Playoffs","Round 1","Project Conquerors","Joblife","LLL","","dom","S"],
+    ["2025-03-01","LFL Division 2 2025 Winter Playoffs","Round 1","Project Conquerors","Esprit Shōnen","WWLLL","","dom","S"],
+    ["2025-03-08","LFL Division 2 2025 Winter Playoffs","Round 2","Project Conquerors","IziDream","WLLWW","","dom","S"],
+    ["2025-03-09","LFL Division 2 2025 Winter Playoffs","Final","Project Conquerors","Esprit Shōnen","LLWWL","","dom","S"],
+    ["2025-05-31","LFL Division 2 2025 Spring Playoffs","Round 1","Project Conquerors","Esprit Shōnen","LLWL","","dom","S"],
+    ["2025-06-07","LFL Division 2 2025 Spring Playoffs","Round 2","Project Conquerors","Team Valiant","LWLL","","dom","S"],
+    ["2025-09-07","LFL Division 2 2025 Summer Playoffs","Round 1","Project Conquerors","Caldya Esport","WWW","","dom","S"],
+    ["2025-09-13","LFL Division 2 2025 Summer Playoffs","Round 2","Project Conquerors","IziDream","LLL","","dom","S"],
+    ["2025-09-17","LFL 2026 Promotion","Round 1","Project Conquerors","Team BDS Academy","LLL","","dom","S"],
+    ["2025-11-17","Prime League 2nd Division 2026 Fall Relegation","Decider","Esport Factory","Entropy x Teufel","LLWL","","dom","S"],
+    ["2025-12-13","Prime League 2nd Division 2026 Fall Relegation","Round 5","Esport Factory","MT1 Esports","LLL","r","dom","S"],
+    ["2025-12-14","Prime League 2nd Division 2026 Fall Relegation","Round 5","Esport Factory","No Need Orga","LLL","r","dom","S"],
+    ["2026-04-03","Spring Dawn Tournament","Final","Project Conquerors","Karmine Corp Blue Stars","LLWL","","dom","S"],
+    ["2026-05-31","Nexus League 2026 Spring Playoffs","Round 1","Project Conquerors","Lille Esport","WWW","","dom","S"],
+    ["2026-06-06","Nexus League 2026 Spring Playoffs","Round 2","Project Conquerors","Caldya Esport","WWW","","dom","S"],
+    ["2026-06-07","Nexus League 2026 Spring Playoffs","Final","Project Conquerors","Karmine Corp Blue Stars","WWLLL","","dom","S"],
+    ["2026-08-29","Nexus League 2026 Summer Playoffs","Round 2","Project Conquerors","Karmine Corp Blue Stars","LWLL","","dom","S"],
+    ["2026-09-05","Nexus League 2026 Summer Playoffs","Round 3","Project Conquerors","Galions Sharks","WWLW","","dom","S"],
+    ["2026-09-06","Nexus League 2026 Summer Playoffs","Final","Project Conquerors","Karmine Corp Blue Stars","LWLL","","dom","S"],
+    ["2026-09-10","LFL 2027 Promotion","Round 1","Project Conquerors","ZYB Esport","WLWLW","","dom","S"],
+    ["2026-09-15","LFL 2027 Promotion","Round 2","Project Conquerors","Skillcamp","LLL","","dom","S"]
+  ],
+  "unknown": [
+    ["2021-12-18","Magyar Esport Kupa 2021 Winter","Grand Final","KmK eSports","Team Plague","3-2","","dom","S"],
+    ["2022-10-11","Magyar Nemzeti E-sport Bajnokság Season 4 Autumn Cup","Round 4","KmK eSports","Team Plague","1-3","","dom","S"],
+    ["2022-12-19","ELEAGUE Winter Cup 2022","Quarterfinal","Retirement age gamers","eSuba","1-3","","dom","S"]
+  ]
+}

@@ -1,1 +1,41 @@
-{"player":"xMatty","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2018-11-17","Open Tour France 2018","Round 6","Gentside","Team Vitality Academy","LLL","r","dom",""],["2019-03-31","UK League Championship 2019 Spring Playoffs","Final","Fnatic Rising","Diabolus Esports","WWW","","dom","S"],["2019-09-01","UK League Championship 2019 Summer Playoffs","Final","Fnatic Rising","Excel UK","WWLW","","dom","S"],["2019-09-28","European Masters 2019 Summer Main Event","Semifinal","Fnatic Rising","Vodafone Giants.Spain","LLL","","dom","S"],["2020-03-29","UK League Championship 2020 Spring Playoffs","Final","Fnatic Rising","BT Excel","LLWWW","","dom","S"],["2020-08-16","NLC 2020 Summer Playoffs","Final","Fnatic Rising","Riddle Esports","WWLW","","dom","S"],["2021-03-25","LFL 2021 Spring Playoffs","Final","Karmine Corp","Misfits Premier","WWW","","dom","S"],["2021-05-02","European Masters 2021 Spring Main Event","Final","Karmine Corp","BT Excel","LWWW","","dom","S"],["2021-08-12","LFL 2021 Summer Playoffs","Final","Karmine Corp","Misfits Premier","WLLL","","dom","S"],["2021-08-27","LFL 2021 Finals","Round 1","Karmine Corp","Vitality.Bee","LLWWW","","dom","S"],["2021-09-11","European Masters 2021 Summer Main Event","Quarterfinal","Karmine Corp","UCAM Esports Club","WWW","","dom","S"],["2021-09-14","European Masters 2021 Summer Main Event","Semifinal","Karmine Corp","Berlin International Gaming","LWWLW","","dom","S"],["2021-09-19","European Masters 2021 Summer Main Event","Final","Karmine Corp","Fnatic Rising","WWLLW","","dom","S"],["2021-10-04","LFL 2021 Finals","Final","Karmine Corp","Misfits Premier","WLWLL","","dom","S"],["2023-03-23","LFL 2023 Spring Playoffs","Round 1","Team BDS Academy","Solary","WWW","","dom","S"],["2023-03-29","LFL 2023 Spring Playoffs","Round 2","Team BDS Academy","Team GO","LWLL","","dom","S"],["2023-12-11","Drututt Ultimate Showdown 2","Round 4","Team Caedrel","Team Paolocannone","WLWW","","dom","S"],["2023-12-12","Drututt Ultimate Showdown 2","Round 5","Team Caedrel","Team Rybson","LLL","","dom","S"],["2024-03-21","Prime League 1st Division 2024 Spring Playoffs","Round 1","Unicorns of Love Sexy Edition","Eintracht Spandau","LWLWL","","dom","S"],["2024-07-16","Prime League 1st Division 2024 Summer Playoffs","Round 1","Unicorns of Love Sexy Edition","Austrian Force willhaben","WLWW","","dom","S"],["2024-07-20","Prime League 1st Division 2024 Summer Playoffs","Round 2","Unicorns of Love Sexy Edition","NNO Prime","WLLWW","","dom","S"],["2024-07-25","Prime League 1st Division 2024 Summer Playoffs","Semifinal","Unicorns of Love Sexy Edition","SK Gaming Prime","WWW","","dom","S"],["2024-08-03","Prime League 1st Division 2024 Summer Playoffs","Final","Unicorns of Love Sexy Edition","FC Schalke 04 Esports","WLWW","","dom","S"],["2024-08-15","EMEA Masters 2024 Summer Main Event","Round of 16","Unicorns of Love Sexy Edition","Team Heretics Academy","LLL","","dom","S"],["2024-10-22","Prime Pokal 2024 Main Event","Semifinal","Unicorns of Love Sexy Edition","Eintracht Frankfurt","LWWW","","dom","S"],["2024-10-25","Prime Pokal 2024 Main Event","Final","Unicorns of Love Sexy Edition","NNO Prime","WLWLW","","dom","S"],["2025-02-14","NLC 2025 Winter Playoffs","Round 5","NORD Esports","Los Ratones","LLWL","","dom","S"],["2025-03-01","NLC 2025 Winter Playoffs","Round 5","NORD Esports","Bulldog Esports","WWLW","","dom","S"],["2025-03-02","NLC 2025 Winter Playoffs","Final","NORD Esports","Los Ratones","LLL","","dom","S"]],"unknown":[["2017-11-04","ESL Premiership 2017 Autumn Playoffs","Final","Team Singularity","Excel Esports","2-3","","dom",""],["2017-12-16","League Championship Denmark 2017 Autumn Playoffs","Semifinal","Team Singularity","SuperNova Red","3-2","","dom",""],["2017-12-17","League Championship Denmark 2017 Autumn Playoffs","Final","Team Singularity","Roligan eSport","3-1","","dom",""]]}
+{
+  "player": "xMatty",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2018-11-17","Open Tour France 2018","Round 6","Gentside","Team Vitality Academy","LLL","r","dom",""],
+    ["2019-03-31","UK League Championship 2019 Spring Playoffs","Final","Fnatic Rising","Diabolus Esports","WWW","","dom","S"],
+    ["2019-09-01","UK League Championship 2019 Summer Playoffs","Final","Fnatic Rising","Excel UK","WWLW","","dom","S"],
+    ["2019-09-28","European Masters 2019 Summer Main Event","Semifinal","Fnatic Rising","Vodafone Giants.Spain","LLL","","dom","S"],
+    ["2020-03-29","UK League Championship 2020 Spring Playoffs","Final","Fnatic Rising","BT Excel","LLWWW","","dom","S"],
+    ["2020-08-16","NLC 2020 Summer Playoffs","Final","Fnatic Rising","Riddle Esports","WWLW","","dom","S"],
+    ["2021-03-25","LFL 2021 Spring Playoffs","Final","Karmine Corp","Misfits Premier","WWW","","dom","S"],
+    ["2021-05-02","European Masters 2021 Spring Main Event","Final","Karmine Corp","BT Excel","LWWW","","dom","S"],
+    ["2021-08-12","LFL 2021 Summer Playoffs","Final","Karmine Corp","Misfits Premier","WLLL","","dom","S"],
+    ["2021-08-27","LFL 2021 Finals","Round 1","Karmine Corp","Vitality.Bee","LLWWW","","dom","S"],
+    ["2021-09-11","European Masters 2021 Summer Main Event","Quarterfinal","Karmine Corp","UCAM Esports Club","WWW","","dom","S"],
+    ["2021-09-14","European Masters 2021 Summer Main Event","Semifinal","Karmine Corp","Berlin International Gaming","LWWLW","","dom","S"],
+    ["2021-09-19","European Masters 2021 Summer Main Event","Final","Karmine Corp","Fnatic Rising","WWLLW","","dom","S"],
+    ["2021-10-04","LFL 2021 Finals","Final","Karmine Corp","Misfits Premier","WLWLL","","dom","S"],
+    ["2023-03-23","LFL 2023 Spring Playoffs","Round 1","Team BDS Academy","Solary","WWW","","dom","S"],
+    ["2023-03-29","LFL 2023 Spring Playoffs","Round 2","Team BDS Academy","Team GO","LWLL","","dom","S"],
+    ["2023-12-11","Drututt Ultimate Showdown 2","Round 4","Team Caedrel","Team Paolocannone","WLWW","","dom","S"],
+    ["2023-12-12","Drututt Ultimate Showdown 2","Round 5","Team Caedrel","Team Rybson","LLL","","dom","S"],
+    ["2024-03-21","Prime League 1st Division 2024 Spring Playoffs","Round 1","Unicorns of Love Sexy Edition","Eintracht Spandau","LWLWL","","dom","S"],
+    ["2024-07-16","Prime League 1st Division 2024 Summer Playoffs","Round 1","Unicorns of Love Sexy Edition","Austrian Force willhaben","WLWW","","dom","S"],
+    ["2024-07-20","Prime League 1st Division 2024 Summer Playoffs","Round 2","Unicorns of Love Sexy Edition","NNO Prime","WLLWW","","dom","S"],
+    ["2024-07-25","Prime League 1st Division 2024 Summer Playoffs","Semifinal","Unicorns of Love Sexy Edition","SK Gaming Prime","WWW","","dom","S"],
+    ["2024-08-03","Prime League 1st Division 2024 Summer Playoffs","Final","Unicorns of Love Sexy Edition","FC Schalke 04 Esports","WLWW","","dom","S"],
+    ["2024-08-15","EMEA Masters 2024 Summer Main Event","Round of 16","Unicorns of Love Sexy Edition","Team Heretics Academy","LLL","","dom","S"],
+    ["2024-10-22","Prime Pokal 2024 Main Event","Semifinal","Unicorns of Love Sexy Edition","Eintracht Frankfurt","LWWW","","dom","S"],
+    ["2024-10-25","Prime Pokal 2024 Main Event","Final","Unicorns of Love Sexy Edition","NNO Prime","WLWLW","","dom","S"],
+    ["2025-02-14","NLC 2025 Winter Playoffs","Round 5","NORD Esports","Los Ratones","LLWL","","dom","S"],
+    ["2025-03-01","NLC 2025 Winter Playoffs","Round 5","NORD Esports","Bulldog Esports","WWLW","","dom","S"],
+    ["2025-03-02","NLC 2025 Winter Playoffs","Final","NORD Esports","Los Ratones","LLL","","dom","S"]
+  ],
+  "unknown": [
+    ["2017-11-04","ESL Premiership 2017 Autumn Playoffs","Final","Team Singularity","Excel Esports","2-3","","dom",""],
+    ["2017-12-16","League Championship Denmark 2017 Autumn Playoffs","Semifinal","Team Singularity","SuperNova Red","3-2","","dom",""],
+    ["2017-12-17","League Championship Denmark 2017 Autumn Playoffs","Final","Team Singularity","Roligan eSport","3-1","","dom",""]
+  ]
+}

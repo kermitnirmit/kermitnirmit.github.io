@@ -1,1 +1,31 @@
-{"player":"FlickeR (Rodrigo de Oliveira)","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2022-07-28","LPLOL 2022 Summer Playoffs","Round 1","GTZ Bulls","EGN Esports","LLL","","dom","S"],["2023-03-23","Ultraliga 2nd Division Season 6 Playoffs","Round 2","Lotus Gaming (European Team)","Wina Krzycha","LLWWW","","dom","S"],["2023-03-30","Ultraliga 2nd Division Season 6 Playoffs","Final","Lotus Gaming (European Team)","Wina Krzycha","WLWW","","dom","S"],["2023-08-01","Elite Series 2023 Summer Playoffs","Round 1","Team 7AM","ZennIT","WWW","","dom","S"],["2023-08-12","Elite Series 2023 Summer Playoffs","Final","Team 7AM","KRC Genk Esports","WWLW","","dom","S"],["2023-10-30","Aurora Cup 2023 Main Event","Quarterfinal","Verdant","Ruddy Esports","WWW","","dom","S"],["2023-11-06","Aurora Cup 2023 Main Event","Semifinal","Verdant","Jlingz Esports","WLWW","","dom","S"],["2023-11-08","Aurora Cup 2023 Main Event","Final","Verdant","Fourth Wall","WWW","","dom","S"],["2024-03-14","Esports Balkan League 2024 Spring Playoffs","Round 1","Lupus Esports","BeFive","WLLL","","dom","S"],["2024-07-09","Esports Balkan League 2024 Summer Playoffs","Round 1","Partizan Esports","Crvena zvezda Esports","WWLLL","","dom","S"],["2024-07-11","Esports Balkan League 2024 Summer Playoffs","Semifinal","Partizan Esports","BeFive","WWW","","dom","S"],["2024-07-17","Esports Balkan League 2024 Summer Playoffs","Final","Partizan Esports","Crvena zvezda Esports","WWLLL","","dom","S"],["2025-02-06","LIT 2025 Winter Split","Playoffs Round 1","Macko Esports","EKO Esports","WWW","","dom","S"],["2025-02-20","LIT 2025 Winter Split","Semifinal","Macko Esports","GMBLERS Esports","WWW","","dom","S"],["2025-03-09","LIT 2025 Winter Split","Final","Macko Esports","GMBLERS Esports","WWW","","dom","S"],["2025-05-21","Arabian League 2025 Spring Playoffs","Round 4","Geekay Esports","Fog Esports","LWWW","","dom","S"],["2025-05-23","Arabian League 2025 Spring Playoffs","Final","Geekay Esports","Fog Esports","WWW","","dom","S"],["2026-02-19","Road Of Legends 2026 Winter Playoffs","Final","Frites Esports Club","The Bandits","WWW","","dom","S"],["2026-05-26","Road Of Legends 2026 Spring Playoffs","Round 3","Frites Esports Club","The Bandits","WWW","","dom","S"],["2026-06-06","Road Of Legends 2026 Spring Playoffs","Final","Frites Esports Club","mCon esports","WWW","","dom","S"],["2026-09-08","Road Of Legends 2026 Summer Playoffs","Round 3","Frites Esports Club","mCon esports","WWW","","dom","S"],["2026-09-17","Road Of Legends 2026 Summer Playoffs","Final","Frites Esports Club","Senshi eSports (Benelux Team)","WWW","","dom","S"],["2026-10-06","EMEA Masters 2026 Summer Main Event","Round of 16","Frites Esports Club","Movistar KOI Fénix","LLWL","","dom","S"]],"unknown":[]}
+{
+  "player": "FlickeR (Rodrigo de Oliveira)",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2022-07-28","LPLOL 2022 Summer Playoffs","Round 1","GTZ Bulls","EGN Esports","LLL","","dom","S"],
+    ["2023-03-23","Ultraliga 2nd Division Season 6 Playoffs","Round 2","Lotus Gaming (European Team)","Wina Krzycha","LLWWW","","dom","S"],
+    ["2023-03-30","Ultraliga 2nd Division Season 6 Playoffs","Final","Lotus Gaming (European Team)","Wina Krzycha","WLWW","","dom","S"],
+    ["2023-08-01","Elite Series 2023 Summer Playoffs","Round 1","Team 7AM","ZennIT","WWW","","dom","S"],
+    ["2023-08-12","Elite Series 2023 Summer Playoffs","Final","Team 7AM","KRC Genk Esports","WWLW","","dom","S"],
+    ["2023-10-30","Aurora Cup 2023 Main Event","Quarterfinal","Verdant","Ruddy Esports","WWW","","dom","S"],
+    ["2023-11-06","Aurora Cup 2023 Main Event","Semifinal","Verdant","Jlingz Esports","WLWW","","dom","S"],
+    ["2023-11-08","Aurora Cup 2023 Main Event","Final","Verdant","Fourth Wall","WWW","","dom","S"],
+    ["2024-03-14","Esports Balkan League 2024 Spring Playoffs","Round 1","Lupus Esports","BeFive","WLLL","","dom","S"],
+    ["2024-07-09","Esports Balkan League 2024 Summer Playoffs","Round 1","Partizan Esports","Crvena zvezda Esports","WWLLL","","dom","S"],
+    ["2024-07-11","Esports Balkan League 2024 Summer Playoffs","Semifinal","Partizan Esports","BeFive","WWW","","dom","S"],
+    ["2024-07-17","Esports Balkan League 2024 Summer Playoffs","Final","Partizan Esports","Crvena zvezda Esports","WWLLL","","dom","S"],
+    ["2025-02-06","LIT 2025 Winter Split","Playoffs Round 1","Macko Esports","EKO Esports","WWW","","dom","S"],
+    ["2025-02-20","LIT 2025 Winter Split","Semifinal","Macko Esports","GMBLERS Esports","WWW","","dom","S"],
+    ["2025-03-09","LIT 2025 Winter Split","Final","Macko Esports","GMBLERS Esports","WWW","","dom","S"],
+    ["2025-05-21","Arabian League 2025 Spring Playoffs","Round 4","Geekay Esports","Fog Esports","LWWW","","dom","S"],
+    ["2025-05-23","Arabian League 2025 Spring Playoffs","Final","Geekay Esports","Fog Esports","WWW","","dom","S"],
+    ["2026-02-19","Road Of Legends 2026 Winter Playoffs","Final","Frites Esports Club","The Bandits","WWW","","dom","S"],
+    ["2026-05-26","Road Of Legends 2026 Spring Playoffs","Round 3","Frites Esports Club","The Bandits","WWW","","dom","S"],
+    ["2026-06-06","Road Of Legends 2026 Spring Playoffs","Final","Frites Esports Club","mCon esports","WWW","","dom","S"],
+    ["2026-09-08","Road Of Legends 2026 Summer Playoffs","Round 3","Frites Esports Club","mCon esports","WWW","","dom","S"],
+    ["2026-09-17","Road Of Legends 2026 Summer Playoffs","Final","Frites Esports Club","Senshi eSports (Benelux Team)","WWW","","dom","S"],
+    ["2026-10-06","EMEA Masters 2026 Summer Main Event","Round of 16","Frites Esports Club","Movistar KOI Fénix","LLWL","","dom","S"]
+  ],
+  "unknown": []
+}

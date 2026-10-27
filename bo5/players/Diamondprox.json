@@ -1,1 +1,46 @@
-{"player":"Diamondprox","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2013-04-28","EU LCS Season 3 Spring Playoffs","Final","Gambit Gaming","Fnatic","WLWLL","","dom","P"],["2014-12-21","IEM Season IX - Cologne","Final","Gambit Gaming","Counter Logic Gaming","WWLW","","intl","P"],["2015-09-05","EU LCS 2016 Spring Promotion","Promotion","Gambit Gaming","mousesports","WWW","","dom","P"],["2016-04-10","LCL 2016 Summer Promotion","Qualifier","Gambit Esports","Team Differential","WWW","","dom","P"],["2017-08-20","LCL 2017 Summer Playoffs","Semifinal","Gambit Esports","Team Just Alpha","WWW","","dom","P"],["2017-09-03","LCL 2017 Summer Playoffs","Final","Gambit Esports","M19","WWLLW","","dom","P"],["2018-03-18","LCL 2018 Spring Playoffs","Semifinal","Gambit Esports","Team Just","WWLW","","dom","P"],["2018-04-01","LCL 2018 Spring Playoffs","Final","Gambit Esports","RoX (2014 CIS Team)","WWW","","dom","P"],["2018-05-09","MSI 2018","Round 2","Gambit Esports","Flash Wolves","LLL","","msi","P"],["2018-07-15","LCL 2018 Open Cup","Final","Gambit Esports","M19","WLWW","","dom","S"],["2018-08-26","LCL 2018 Summer Playoffs","Semifinal","Gambit Esports","Team Just","LLWWW","","dom","P"],["2018-09-02","LCL 2018 Summer Playoffs","Final","Gambit Esports","Dragon Army","LWWW","","dom","P"],["2018-10-06","Worlds 2018","Round 2","Gambit Esports","Cloud9","LWLWL","","worlds","P"],["2019-03-07","LCL 2019 Spring Open Cup","Semifinal","Gambit Esports","M19","LWWW","","dom","S"],["2019-03-10","LCL 2019 Spring Open Cup","Final","Gambit Esports","Vega Squadron","LWLL","","dom","S"],["2019-03-31","LCL 2019 Spring Playoffs","Semifinal","Gambit Esports","Vega Squadron","LLL","","dom","P"],["2019-08-01","LCL 2019 Summer Open Cup","Semifinal","Gambit Esports","Vega Squadron","WWW","","dom","S"],["2019-08-04","LCL 2019 Summer Open Cup","Final","Gambit Esports","Unicorns of Love.CIS","WWLW","","dom","S"],["2019-09-01","LCL 2019 Summer Playoffs","Semifinal","Gambit Esports","Vega Squadron","WLLWL","","dom","P"],["2020-03-19","LCL 2020 Spring Open Cup","Semifinal","Gambit Esports","RoX (2014 CIS Team)","LLL","","dom","S"],["2020-04-19","LCL 2020 Spring Playoffs","Semifinal","Gambit Esports","RoX (2014 CIS Team)","LLL","","dom","P"],["2020-08-16","LCL 2020 Summer Playoffs","Semifinal","Gambit Esports","CrowCrowd","WWW","","dom","P"],["2020-08-30","LCL 2020 Summer Playoffs","Final","Gambit Esports","Unicorns of Love.CIS","LWLL","","dom","P"],["2022-08-01","NLC 2022 Summer Playoffs","Round 1","Bifrost","X7 Esports","LWLL","","dom","S"],["2024-09-18","Keysie Streamers Invitational Season 5","Round 1","Вайфочки Даймонда","Барберы Димилла","LWLL","r","dom",""],["2024-09-19","Keysie Streamers Invitational Season 5","Round 1","Вайфочки Даймонда","Гены Нойки","WWLW","r","dom",""],["2024-09-20","Keysie Streamers Invitational Season 5","Round 2","Вайфочки Даймонда","Единороги Номанза","LLL","r","dom",""],["2025-04-25","BetBoom Noxus League 2025","Round 1","Team Diamondprox","Team Smurf","WWW","r","dom","S"],["2025-04-26","BetBoom Noxus League 2025","Round 2","Team Diamondprox","Team Starky","WLWLW","r","dom","S"],["2025-04-27","BetBoom Noxus League 2025","Final","Team Diamondprox","Team Starky","WWW","r","dom","S"],["2025-07-30","Keysie Streamers Invitational Season 6","Round 1","Свинобойня Даймонда","Барби Димилла","WWW","r","dom",""],["2025-08-01","Keysie Streamers Invitational Season 6","Round 3","Свинобойня Даймонда","Единороги Номанза","WWLW","r","dom",""],["2026-06-20","FunPay 67 Cup","Semifinal","Киберхряки","Инсеки Олега","WWW","r","dom","S"],["2026-09-13","Hitpoint Masters 2026 Summer Playoffs","Round 1","Meavedron","BRUTE","WWW","","dom","S"]],"unknown":[["2024-04-18","Keysie Streamers Invitational Season 4","Round 1","Вайфочки Даймонда","Лапы Медведя","2-3","","dom",""],["2025-08-31","EPlayer Super Series 2025","Grand Final","temp123","Direct (Russian Team)","3-1","","dom","S"],["2026-06-27","FunPay 67 Cup","Final","Киберхряки","Белый Монстр","3-2","","dom","S"]]}
+{
+  "player": "Diamondprox",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2013-04-28","EU LCS Season 3 Spring Playoffs","Final","Gambit Gaming","Fnatic","WLWLL","","dom","P"],
+    ["2014-12-21","IEM Season IX - Cologne","Final","Gambit Gaming","Counter Logic Gaming","WWLW","","intl","P"],
+    ["2015-09-05","EU LCS 2016 Spring Promotion","Promotion","Gambit Gaming","mousesports","WWW","","dom","P"],
+    ["2016-04-10","LCL 2016 Summer Promotion","Qualifier","Gambit Esports","Team Differential","WWW","","dom","P"],
+    ["2017-08-20","LCL 2017 Summer Playoffs","Semifinal","Gambit Esports","Team Just Alpha","WWW","","dom","P"],
+    ["2017-09-03","LCL 2017 Summer Playoffs","Final","Gambit Esports","M19","WWLLW","","dom","P"],
+    ["2018-03-18","LCL 2018 Spring Playoffs","Semifinal","Gambit Esports","Team Just","WWLW","","dom","P"],
+    ["2018-04-01","LCL 2018 Spring Playoffs","Final","Gambit Esports","RoX (2014 CIS Team)","WWW","","dom","P"],
+    ["2018-05-09","MSI 2018","Round 2","Gambit Esports","Flash Wolves","LLL","","msi","P"],
+    ["2018-07-15","LCL 2018 Open Cup","Final","Gambit Esports","M19","WLWW","","dom","S"],
+    ["2018-08-26","LCL 2018 Summer Playoffs","Semifinal","Gambit Esports","Team Just","LLWWW","","dom","P"],
+    ["2018-09-02","LCL 2018 Summer Playoffs","Final","Gambit Esports","Dragon Army","LWWW","","dom","P"],
+    ["2018-10-06","Worlds 2018","Round 2","Gambit Esports","Cloud9","LWLWL","","worlds","P"],
+    ["2019-03-07","LCL 2019 Spring Open Cup","Semifinal","Gambit Esports","M19","LWWW","","dom","S"],
+    ["2019-03-10","LCL 2019 Spring Open Cup","Final","Gambit Esports","Vega Squadron","LWLL","","dom","S"],
+    ["2019-03-31","LCL 2019 Spring Playoffs","Semifinal","Gambit Esports","Vega Squadron","LLL","","dom","P"],
+    ["2019-08-01","LCL 2019 Summer Open Cup","Semifinal","Gambit Esports","Vega Squadron","WWW","","dom","S"],
+    ["2019-08-04","LCL 2019 Summer Open Cup","Final","Gambit Esports","Unicorns of Love.CIS","WWLW","","dom","S"],
+    ["2019-09-01","LCL 2019 Summer Playoffs","Semifinal","Gambit Esports","Vega Squadron","WLLWL","","dom","P"],
+    ["2020-03-19","LCL 2020 Spring Open Cup","Semifinal","Gambit Esports","RoX (2014 CIS Team)","LLL","","dom","S"],
+    ["2020-04-19","LCL 2020 Spring Playoffs","Semifinal","Gambit Esports","RoX (2014 CIS Team)","LLL","","dom","P"],
+    ["2020-08-16","LCL 2020 Summer Playoffs","Semifinal","Gambit Esports","CrowCrowd","WWW","","dom","P"],
+    ["2020-08-30","LCL 2020 Summer Playoffs","Final","Gambit Esports","Unicorns of Love.CIS","LWLL","","dom","P"],
+    ["2022-08-01","NLC 2022 Summer Playoffs","Round 1","Bifrost","X7 Esports","LWLL","","dom","S"],
+    ["2024-09-18","Keysie Streamers Invitational Season 5","Round 1","Вайфочки Даймонда","Барберы Димилла","LWLL","r","dom",""],
+    ["2024-09-19","Keysie Streamers Invitational Season 5","Round 1","Вайфочки Даймонда","Гены Нойки","WWLW","r","dom",""],
+    ["2024-09-20","Keysie Streamers Invitational Season 5","Round 2","Вайфочки Даймонда","Единороги Номанза","LLL","r","dom",""],
+    ["2025-04-25","BetBoom Noxus League 2025","Round 1","Team Diamondprox","Team Smurf","WWW","r","dom","S"],
+    ["2025-04-26","BetBoom Noxus League 2025","Round 2","Team Diamondprox","Team Starky","WLWLW","r","dom","S"],
+    ["2025-04-27","BetBoom Noxus League 2025","Final","Team Diamondprox","Team Starky","WWW","r","dom","S"],
+    ["2025-07-30","Keysie Streamers Invitational Season 6","Round 1","Свинобойня Даймонда","Барби Димилла","WWW","r","dom",""],
+    ["2025-08-01","Keysie Streamers Invitational Season 6","Round 3","Свинобойня Даймонда","Единороги Номанза","WWLW","r","dom",""],
+    ["2026-06-20","FunPay 67 Cup","Semifinal","Киберхряки","Инсеки Олега","WWW","r","dom","S"],
+    ["2026-09-13","Hitpoint Masters 2026 Summer Playoffs","Round 1","Meavedron","BRUTE","WWW","","dom","S"]
+  ],
+  "unknown": [
+    ["2024-04-18","Keysie Streamers Invitational Season 4","Round 1","Вайфочки Даймонда","Лапы Медведя","2-3","","dom",""],
+    ["2025-08-31","EPlayer Super Series 2025","Grand Final","temp123","Direct (Russian Team)","3-1","","dom","S"],
+    ["2026-06-27","FunPay 67 Cup","Final","Киберхряки","Белый Монстр","3-2","","dom","S"]
+  ]
+}

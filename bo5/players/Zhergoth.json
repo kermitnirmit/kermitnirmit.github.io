@@ -1,1 +1,37 @@
-{"player":"Zhergoth","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2020-03-31","Dutch League 2020 Spring Playoffs","Final","PSV Esports","Defusekids","LWLL","","dom","S"],["2020-08-11","Dutch League 2020 Summer Playoffs","Final","PSV Esports","LowLandLions","LLL","","dom","S"],["2020-10-10","Dutch League 2020 Country Finals","Round 1","PSV Esports","LowLandLions","WWW","","dom","S"],["2020-10-25","Dutch League 2020 Country Finals","Final","PSV Esports","LowLandLions","WWW","","dom","S"],["2021-03-11","Belgian League 2021 Spring Playoffs","Round 1","Sector One","4Elements Esports","WWW","","dom","S"],["2021-03-15","Belgian League 2021 Spring Playoffs","Round 2","Sector One","Ion Squad","WLLWW","","dom","S"],["2021-03-22","Belgian League 2021 Spring Playoffs","Final","Sector One","KV Mechelen Esports","WWLLL","","dom","S"],["2021-07-26","Belgian League 2021 Summer Playoffs","Round 1","Sector One","KV Mechelen Esports","LWLL","","dom","S"],["2021-08-02","Belgian League 2021 Summer Playoffs","Round 2","Sector One","KRC Genk Esports","WLWLW","","dom","S"],["2021-08-09","Belgian League 2021 Summer Playoffs","Final","Sector One","KV Mechelen Esports","LWWW","","dom","S"],["2021-10-09","Belgian League 2021 Country Finals","Final","Sector One","KV Mechelen Esports","LLWWL","","dom","S"],["2021-11-26","Benelux Charity Showdown 2021","Semifinal","Retirement Homies","Padvindersklub","LWWW","r","dom","S"],["2021-11-28","Benelux Charity Showdown 2021","Grand Finals","Retirement Homies","BBQ Enjoyers","LWLL","r","dom","S"],["2022-07-31","Elite Series 2022 Summer Playoffs","Round 1","The Agency","KRC Genk Esports","LWLL","","dom","S"],["2022-08-03","Elite Series 2022 Summer Playoffs","Semifinal","The Agency","mCon LG UltraGear","WWW","","dom","S"],["2022-08-07","Elite Series 2022 Summer Playoffs","Final","The Agency","KRC Genk Esports","WWLLW","","dom","S"],["2023-03-21","Elite Series 2023 Spring Playoffs","Round 1","Team 7AM","KRC Genk Esports","LWLWW","","dom","S"],["2023-03-30","Elite Series 2023 Spring Playoffs","Final","Team 7AM","KRC Genk Esports","LLL","","dom","S"],["2023-08-01","Elite Series 2023 Summer Playoffs","Round 1","Team 7AM","ZennIT","WWW","","dom","S"],["2023-08-12","Elite Series 2023 Summer Playoffs","Final","Team 7AM","KRC Genk Esports","WWLW","","dom","S"],["2023-11-03","Elite Series 2023 Benelux Masters","Preliminary Round","Meow Gaming Club","NXT","WWW","","dom","S"],["2023-11-06","Elite Series 2023 Benelux Masters","Quarterfinal","Meow Gaming Club","Team 7AM","WWW","","dom","S"],["2023-11-11","Elite Series 2023 Benelux Masters","Semifinal","Meow Gaming Club","A One Man Army","LWWW","","dom","S"],["2023-11-12","Elite Series 2023 Benelux Masters","Final","Meow Gaming Club","Myth Esports","LLL","","dom","S"],["2024-04-20","Elite Series Amateur Circuit 2024 Spring Playoffs","Round 2","Meow Gaming Club","C0LT Esports","WWW","","dom","S"],["2024-04-21","Elite Series Amateur Circuit 2024 Spring Playoffs","Round 3","Meow Gaming Club","RED OUAT","WLWW","","dom","S"],["2024-04-24","Elite Series 2nd Division 2024 Summer Promotion","Elimination Round","Meow Gaming Club","RQS Esports","WWW","","dom","S"],["2024-05-01","Elite Series 2nd Division 2024 Summer Promotion","Qualification Round","Meow Gaming Club","24 7 Tower Dive","WWLLW","","dom","S"],["2024-08-31","Elite Series Amateur Circuit 2024 Summer Playoffs","Round 2","Team Shrimp","RED OUAT","WWW","","dom","S"]],"unknown":[]}
+{
+  "player": "Zhergoth",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2020-03-31","Dutch League 2020 Spring Playoffs","Final","PSV Esports","Defusekids","LWLL","","dom","S"],
+    ["2020-08-11","Dutch League 2020 Summer Playoffs","Final","PSV Esports","LowLandLions","LLL","","dom","S"],
+    ["2020-10-10","Dutch League 2020 Country Finals","Round 1","PSV Esports","LowLandLions","WWW","","dom","S"],
+    ["2020-10-25","Dutch League 2020 Country Finals","Final","PSV Esports","LowLandLions","WWW","","dom","S"],
+    ["2021-03-11","Belgian League 2021 Spring Playoffs","Round 1","Sector One","4Elements Esports","WWW","","dom","S"],
+    ["2021-03-15","Belgian League 2021 Spring Playoffs","Round 2","Sector One","Ion Squad","WLLWW","","dom","S"],
+    ["2021-03-22","Belgian League 2021 Spring Playoffs","Final","Sector One","KV Mechelen Esports","WWLLL","","dom","S"],
+    ["2021-07-26","Belgian League 2021 Summer Playoffs","Round 1","Sector One","KV Mechelen Esports","LWLL","","dom","S"],
+    ["2021-08-02","Belgian League 2021 Summer Playoffs","Round 2","Sector One","KRC Genk Esports","WLWLW","","dom","S"],
+    ["2021-08-09","Belgian League 2021 Summer Playoffs","Final","Sector One","KV Mechelen Esports","LWWW","","dom","S"],
+    ["2021-10-09","Belgian League 2021 Country Finals","Final","Sector One","KV Mechelen Esports","LLWWL","","dom","S"],
+    ["2021-11-26","Benelux Charity Showdown 2021","Semifinal","Retirement Homies","Padvindersklub","LWWW","r","dom","S"],
+    ["2021-11-28","Benelux Charity Showdown 2021","Grand Finals","Retirement Homies","BBQ Enjoyers","LWLL","r","dom","S"],
+    ["2022-07-31","Elite Series 2022 Summer Playoffs","Round 1","The Agency","KRC Genk Esports","LWLL","","dom","S"],
+    ["2022-08-03","Elite Series 2022 Summer Playoffs","Semifinal","The Agency","mCon LG UltraGear","WWW","","dom","S"],
+    ["2022-08-07","Elite Series 2022 Summer Playoffs","Final","The Agency","KRC Genk Esports","WWLLW","","dom","S"],
+    ["2023-03-21","Elite Series 2023 Spring Playoffs","Round 1","Team 7AM","KRC Genk Esports","LWLWW","","dom","S"],
+    ["2023-03-30","Elite Series 2023 Spring Playoffs","Final","Team 7AM","KRC Genk Esports","LLL","","dom","S"],
+    ["2023-08-01","Elite Series 2023 Summer Playoffs","Round 1","Team 7AM","ZennIT","WWW","","dom","S"],
+    ["2023-08-12","Elite Series 2023 Summer Playoffs","Final","Team 7AM","KRC Genk Esports","WWLW","","dom","S"],
+    ["2023-11-03","Elite Series 2023 Benelux Masters","Preliminary Round","Meow Gaming Club","NXT","WWW","","dom","S"],
+    ["2023-11-06","Elite Series 2023 Benelux Masters","Quarterfinal","Meow Gaming Club","Team 7AM","WWW","","dom","S"],
+    ["2023-11-11","Elite Series 2023 Benelux Masters","Semifinal","Meow Gaming Club","A One Man Army","LWWW","","dom","S"],
+    ["2023-11-12","Elite Series 2023 Benelux Masters","Final","Meow Gaming Club","Myth Esports","LLL","","dom","S"],
+    ["2024-04-20","Elite Series Amateur Circuit 2024 Spring Playoffs","Round 2","Meow Gaming Club","C0LT Esports","WWW","","dom","S"],
+    ["2024-04-21","Elite Series Amateur Circuit 2024 Spring Playoffs","Round 3","Meow Gaming Club","RED OUAT","WLWW","","dom","S"],
+    ["2024-04-24","Elite Series 2nd Division 2024 Summer Promotion","Elimination Round","Meow Gaming Club","RQS Esports","WWW","","dom","S"],
+    ["2024-05-01","Elite Series 2nd Division 2024 Summer Promotion","Qualification Round","Meow Gaming Club","24 7 Tower Dive","WWLLW","","dom","S"],
+    ["2024-08-31","Elite Series Amateur Circuit 2024 Summer Playoffs","Round 2","Team Shrimp","RED OUAT","WWW","","dom","S"]
+  ],
+  "unknown": []
+}

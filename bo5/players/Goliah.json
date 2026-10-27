@@ -1,1 +1,32 @@
-{"player":"Goliah","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2023-07-02","Blooming Talents League 2023 Split 1 Playoffs","Final","4 ragazzi e un pelato","NOVO Esports","LLWL","","dom","S"],["2024-03-19","Blooming Talents League 2024 Spring Playoffs","Round 1","DELTALAND","SEE Esports","LWWW","","dom","S"],["2024-03-26","Blooming Talents League 2024 Spring Playoffs","Semifinal","DELTALAND","HVFC Bakeca Academy","WWW","","dom","S"],["2024-04-02","Blooming Talents League 2024 Spring Playoffs","Final","DELTALAND","SPS Aurum","LWWW","","dom","S"],["2024-07-02","Blooming Talents League 2024 Summer Playoffs","Round 1","DELTALAND","HVFC Bakeca Academy","WWW","","dom","S"],["2024-07-09","Blooming Talents League 2024 Summer Playoffs","Semifinal","DELTALAND","GMBLERS Esports","LLWL","","dom","S"],["2024-07-30","LIT 2025 Promotion","Round 1","DELTALAND","The Gulls Esports","LWLWL","","dom","S"],["2024-08-01","LIT 2025 Promotion","Round 1","DELTALAND","GMBLERS Esports","LWLL","","dom","S"],["2025-02-07","LIT 2025 Winter Split","Playoffs Round 1","GMBLERS Esports","Underworld Esports","LLWWW","","dom","S"],["2025-02-20","LIT 2025 Winter Split","Semifinal","GMBLERS Esports","Macko Esports","LLL","","dom","S"],["2025-02-21","LIT 2025 Winter Split","Semifinal","GMBLERS Esports","Underworld Esports","WWW","","dom","S"],["2025-03-09","LIT 2025 Winter Split","Final","GMBLERS Esports","Macko Esports","LLL","","dom","S"],["2025-04-17","LIT 2025 Spring Playoffs","Round 2","GMBLERS Esports","EKO Esports","WWLW","","dom","S"],["2025-05-03","LIT 2025 Spring Playoffs","Round 4","GMBLERS Esports","Axolotl","LWLL","","dom","S"],["2025-05-16","LIT 2025 Spring Playoffs","Round 4","GMBLERS Esports","Colossal Gaming","WLLL","","dom","S"],["2025-07-29","Blooming Talents League 2025 Summer Playoffs","Round 3","The Gulls Esports","P11 Esports","WWW","r","dom","S"],["2025-08-05","Blooming Talents League 2025 Summer Playoffs","Final","The Gulls Esports","P11 Esports","WWW","r","dom","S"],["2025-09-11","Arabian League 2026 Promotion","Round 2","One More Esports","NextGeneration Esports","WWW","","dom","S"],["2025-10-31","Circuito Tormenta Italy 2025 Lucca Comics and Games","Grand Final","The Gulls Esports","MALFATTORI DELLE CUSTOM","WWW","r","dom","S"],["2025-11-17","Breeze of Glory","Semifinal","HMBLE","Zena Esports","LWWW","","dom","S"],["2025-11-30","Breeze of Glory","Final","HMBLE","GMBLERS Esports","LLL","","dom","S"],["2026-08-26","LIT 2026 Summer Playoffs","Round 3","Aeterna Esports","Colossal Gaming","WLLL","","dom","S"],["2026-09-10","LIT 2026 Summer Playoffs","Round 5","Los Goccioles","Zena Esports","WLLWW","","dom","S"],["2026-09-18","LIT 2026 Summer Playoffs","Semifinal","Team Aqua ASD","Colossal Gaming","LLL","","dom","S"]],"unknown":[]}
+{
+  "player": "Goliah",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2023-07-02","Blooming Talents League 2023 Split 1 Playoffs","Final","4 ragazzi e un pelato","NOVO Esports","LLWL","","dom","S"],
+    ["2024-03-19","Blooming Talents League 2024 Spring Playoffs","Round 1","DELTALAND","SEE Esports","LWWW","","dom","S"],
+    ["2024-03-26","Blooming Talents League 2024 Spring Playoffs","Semifinal","DELTALAND","HVFC Bakeca Academy","WWW","","dom","S"],
+    ["2024-04-02","Blooming Talents League 2024 Spring Playoffs","Final","DELTALAND","SPS Aurum","LWWW","","dom","S"],
+    ["2024-07-02","Blooming Talents League 2024 Summer Playoffs","Round 1","DELTALAND","HVFC Bakeca Academy","WWW","","dom","S"],
+    ["2024-07-09","Blooming Talents League 2024 Summer Playoffs","Semifinal","DELTALAND","GMBLERS Esports","LLWL","","dom","S"],
+    ["2024-07-30","LIT 2025 Promotion","Round 1","DELTALAND","The Gulls Esports","LWLWL","","dom","S"],
+    ["2024-08-01","LIT 2025 Promotion","Round 1","DELTALAND","GMBLERS Esports","LWLL","","dom","S"],
+    ["2025-02-07","LIT 2025 Winter Split","Playoffs Round 1","GMBLERS Esports","Underworld Esports","LLWWW","","dom","S"],
+    ["2025-02-20","LIT 2025 Winter Split","Semifinal","GMBLERS Esports","Macko Esports","LLL","","dom","S"],
+    ["2025-02-21","LIT 2025 Winter Split","Semifinal","GMBLERS Esports","Underworld Esports","WWW","","dom","S"],
+    ["2025-03-09","LIT 2025 Winter Split","Final","GMBLERS Esports","Macko Esports","LLL","","dom","S"],
+    ["2025-04-17","LIT 2025 Spring Playoffs","Round 2","GMBLERS Esports","EKO Esports","WWLW","","dom","S"],
+    ["2025-05-03","LIT 2025 Spring Playoffs","Round 4","GMBLERS Esports","Axolotl","LWLL","","dom","S"],
+    ["2025-05-16","LIT 2025 Spring Playoffs","Round 4","GMBLERS Esports","Colossal Gaming","WLLL","","dom","S"],
+    ["2025-07-29","Blooming Talents League 2025 Summer Playoffs","Round 3","The Gulls Esports","P11 Esports","WWW","r","dom","S"],
+    ["2025-08-05","Blooming Talents League 2025 Summer Playoffs","Final","The Gulls Esports","P11 Esports","WWW","r","dom","S"],
+    ["2025-09-11","Arabian League 2026 Promotion","Round 2","One More Esports","NextGeneration Esports","WWW","","dom","S"],
+    ["2025-10-31","Circuito Tormenta Italy 2025 Lucca Comics and Games","Grand Final","The Gulls Esports","MALFATTORI DELLE CUSTOM","WWW","r","dom","S"],
+    ["2025-11-17","Breeze of Glory","Semifinal","HMBLE","Zena Esports","LWWW","","dom","S"],
+    ["2025-11-30","Breeze of Glory","Final","HMBLE","GMBLERS Esports","LLL","","dom","S"],
+    ["2026-08-26","LIT 2026 Summer Playoffs","Round 3","Aeterna Esports","Colossal Gaming","WLLL","","dom","S"],
+    ["2026-09-10","LIT 2026 Summer Playoffs","Round 5","Los Goccioles","Zena Esports","WLLWW","","dom","S"],
+    ["2026-09-18","LIT 2026 Summer Playoffs","Semifinal","Team Aqua ASD","Colossal Gaming","LLL","","dom","S"]
+  ],
+  "unknown": []
+}

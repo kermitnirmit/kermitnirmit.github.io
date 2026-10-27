@@ -1,1 +1,34 @@
-{"player":"HamBak","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2021-11-13","LCK Academy Series 2021 2nd Championship","Semifinal","Shadow Battlica","T1 Rookies","WLWW","","dom","S"],["2021-11-14","LCK Academy Series 2021 2nd Championship","Final","Shadow Battlica","Shadow EK","LWWLL","","dom","S"],["2023-03-28","LCK CL 2023 Spring Playoffs","Round 2","KT Rolster Challengers","Dplus Kia Challengers","WWLW","","dom","S"],["2023-04-03","LCK CL 2023 Spring Playoffs","Round 3","KT Rolster Challengers","DRX Challengers","WWLLL","","dom","S"],["2023-04-06","LCK CL 2023 Spring Playoffs","Round 3","KT Rolster Challengers","Dplus Kia Challengers","LLL","","dom","S"],["2023-08-07","LCK CL 2023 Summer Playoffs","Round 1","KT Rolster Challengers","DRX Challengers","LLWL","","dom","S"],["2024-04-01","LCK CL 2024 Spring Playoffs","Round 2","KT Rolster Challengers","Nongshim Esports Academy","WLWW","","dom","S"],["2024-04-08","LCK CL 2024 Spring Playoffs","Round 3","KT Rolster Challengers","Dplus Kia Challengers","WLWLL","","dom","S"],["2024-04-11","LCK CL 2024 Spring Playoffs","Round 3","KT Rolster Challengers","Nongshim Esports Academy","WWW","","dom","S"],["2024-04-12","LCK CL 2024 Spring Playoffs","Final","KT Rolster Challengers","Dplus Kia Challengers","WWLW","","dom","S"],["2024-08-26","LCK CL 2024 Summer Playoffs","Round 2","KT Rolster Challengers","T1 Esports Academy","WWW","","dom","S"],["2024-09-02","LCK CL 2024 Summer Playoffs","Round 3","KT Rolster Challengers","Kwangdong Freecs Challengers","LWWW","","dom","S"],["2024-09-06","LCK CL 2024 Summer Playoffs","Final","KT Rolster Challengers","Dplus Kia Challengers","WWLW","","dom","S"],["2024-09-18","Asia Star Challengers Invitational 2024","Round 1","KT Rolster Challengers","Dplus Kia Challengers","LWWW","r","dom","S"],["2024-09-19","Asia Star Challengers Invitational 2024","Round 2","KT Rolster Challengers","Kwangdong Freecs Challengers","WWW","r","dom","S"],["2024-09-22","Asia Star Challengers Invitational 2024","Final","KT Rolster Challengers","Kwangdong Freecs Challengers","WWW","r","dom","S"],["2024-12-08","LoL KeSPA Cup 2024","Final","OKSavingsBank BRION","Dplus Kia","WLWW","","dom","P"],["2026-02-14","LCS 2026 Lock-In","Playoffs Round 1","Sentinels","Disguised","LWLWW","","dom","P"],["2026-02-22","LCS 2026 Lock-In","Playoffs Round 2","Sentinels","Cloud9","LLL","","dom","P"],["2026-02-28","LCS 2026 Lock-In","Playoffs Round 3","Sentinels","LYON (2024 American Team)","LLWL","","dom","P"],["2026-03-06","Americas Cup 2026","Round 2","Sentinels","FURIA","LLL","","dom","S"],["2026-03-07","Americas Cup 2026","Round 2","Sentinels","Cloud9","LWLL","","dom","S"],["2026-04-29","Esports World Cup 2026 Online Qualifiers North America","Final","Sentinels","FlyQuest","WWLW","","intl","P"],["2026-05-30","LCS 2026 Spring Playoffs","Round 1","Sentinels","FlyQuest","LLL","","dom","P"],["2026-09-13","LCS 2026 Summer Playoffs","Round 1","Sentinels","FlyQuest","LLL","","dom","P"],["2026-09-18","LCS 2026 Summer Playoffs","Round 1","Sentinels","Shopify Rebellion","WWLLL","","dom","P"]],"unknown":[]}
+{
+  "player": "HamBak",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2021-11-13","LCK Academy Series 2021 2nd Championship","Semifinal","Shadow Battlica","T1 Rookies","WLWW","","dom","S"],
+    ["2021-11-14","LCK Academy Series 2021 2nd Championship","Final","Shadow Battlica","Shadow EK","LWWLL","","dom","S"],
+    ["2023-03-28","LCK CL 2023 Spring Playoffs","Round 2","KT Rolster Challengers","Dplus Kia Challengers","WWLW","","dom","S"],
+    ["2023-04-03","LCK CL 2023 Spring Playoffs","Round 3","KT Rolster Challengers","DRX Challengers","WWLLL","","dom","S"],
+    ["2023-04-06","LCK CL 2023 Spring Playoffs","Round 3","KT Rolster Challengers","Dplus Kia Challengers","LLL","","dom","S"],
+    ["2023-08-07","LCK CL 2023 Summer Playoffs","Round 1","KT Rolster Challengers","DRX Challengers","LLWL","","dom","S"],
+    ["2024-04-01","LCK CL 2024 Spring Playoffs","Round 2","KT Rolster Challengers","Nongshim Esports Academy","WLWW","","dom","S"],
+    ["2024-04-08","LCK CL 2024 Spring Playoffs","Round 3","KT Rolster Challengers","Dplus Kia Challengers","WLWLL","","dom","S"],
+    ["2024-04-11","LCK CL 2024 Spring Playoffs","Round 3","KT Rolster Challengers","Nongshim Esports Academy","WWW","","dom","S"],
+    ["2024-04-12","LCK CL 2024 Spring Playoffs","Final","KT Rolster Challengers","Dplus Kia Challengers","WWLW","","dom","S"],
+    ["2024-08-26","LCK CL 2024 Summer Playoffs","Round 2","KT Rolster Challengers","T1 Esports Academy","WWW","","dom","S"],
+    ["2024-09-02","LCK CL 2024 Summer Playoffs","Round 3","KT Rolster Challengers","Kwangdong Freecs Challengers","LWWW","","dom","S"],
+    ["2024-09-06","LCK CL 2024 Summer Playoffs","Final","KT Rolster Challengers","Dplus Kia Challengers","WWLW","","dom","S"],
+    ["2024-09-18","Asia Star Challengers Invitational 2024","Round 1","KT Rolster Challengers","Dplus Kia Challengers","LWWW","r","dom","S"],
+    ["2024-09-19","Asia Star Challengers Invitational 2024","Round 2","KT Rolster Challengers","Kwangdong Freecs Challengers","WWW","r","dom","S"],
+    ["2024-09-22","Asia Star Challengers Invitational 2024","Final","KT Rolster Challengers","Kwangdong Freecs Challengers","WWW","r","dom","S"],
+    ["2024-12-08","LoL KeSPA Cup 2024","Final","OKSavingsBank BRION","Dplus Kia","WLWW","","dom","P"],
+    ["2026-02-14","LCS 2026 Lock-In","Playoffs Round 1","Sentinels","Disguised","LWLWW","","dom","P"],
+    ["2026-02-22","LCS 2026 Lock-In","Playoffs Round 2","Sentinels","Cloud9","LLL","","dom","P"],
+    ["2026-02-28","LCS 2026 Lock-In","Playoffs Round 3","Sentinels","LYON (2024 American Team)","LLWL","","dom","P"],
+    ["2026-03-06","Americas Cup 2026","Round 2","Sentinels","FURIA","LLL","","dom","S"],
+    ["2026-03-07","Americas Cup 2026","Round 2","Sentinels","Cloud9","LWLL","","dom","S"],
+    ["2026-04-29","Esports World Cup 2026 Online Qualifiers North America","Final","Sentinels","FlyQuest","WWLW","","intl","P"],
+    ["2026-05-30","LCS 2026 Spring Playoffs","Round 1","Sentinels","FlyQuest","LLL","","dom","P"],
+    ["2026-09-13","LCS 2026 Summer Playoffs","Round 1","Sentinels","FlyQuest","LLL","","dom","P"],
+    ["2026-09-18","LCS 2026 Summer Playoffs","Round 1","Sentinels","Shopify Rebellion","WWLLL","","dom","P"]
+  ],
+  "unknown": []
+}

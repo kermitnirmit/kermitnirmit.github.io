@@ -1,1 +1,28 @@
-{"player":"Fatorix","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2021-09-03","LLA 2022 Opening Promotion","Semifinal","Kaos Latin Gamers","Globant Emerald","LWLL","","dom","P"],["2022-03-31","Liga Master Flow 2022 Opening Playoffs","Quarterfinal","River Plate Gaming","EBRO","WLLL","","dom","S"],["2023-03-05","División de Honor 2023 Opening Playoffs","Round 1","PÊEK Gaming","19esports","LWLL","","dom","S"],["2023-03-12","División de Honor 2023 Opening Playoffs","Round 1","PÊEK Gaming","Tomorrow Esports","LLWWW","","dom","S"],["2023-03-19","División de Honor 2023 Opening Playoffs","Round 2","PÊEK Gaming","Atheris Esports","WWW","","dom","S"],["2023-03-24","División de Honor 2023 Opening Playoffs","Round 3","PÊEK Gaming","19esports","LWLWW","","dom","S"],["2023-03-31","División de Honor 2023 Opening Playoffs","Grand Final","PÊEK Gaming","Zylant Esports","LWWLW","","dom","S"],["2023-07-24","Liga Regional Norte 2023 Closing Playoffs","Round 1","Descuydado Aucas Esports","Tomorrow Esports","WLLWW","","dom","S"],["2023-08-01","Liga Regional Norte 2023 Closing Playoffs","Round 2","Descuydado Aucas Esports","Fuego","LLWL","","dom","S"],["2024-03-24","Ignite Challenge 2024","Final","Tomorrow Esports","Fuego","WWW","r","dom",""],["2024-06-24","Liga Regional Norte 2024 Playoffs","Round 1","Tomorrow Esports","Fuego","LLL","","dom","S"],["2024-07-09","Liga Regional Norte 2024 Playoffs","Round 1","Tomorrow Esports","Waia Snikt","LLL","","dom","S"],["2024-07-28","Blossom League Season 7","Round 1","Dark Project","Tier 28","WLWW","r","dom","S"],["2024-08-11","Blossom League Season 7","Quarterfinal","Dark Project","ODD Esports","WWW","r","dom","S"],["2024-08-26","Blossom League Season 7","Semifinal","Dark Project","Idyllic","WWW","r","dom","S"],["2024-09-02","Blossom League Season 7","Final","Dark Project","Ascendent Esports","WWW","r","dom","S"],["2024-10-12","Mystic League 2024 Season","Semifinal","Dark Project","Icon Esports (Mexican Team)","WWW","r","dom","S"],["2024-10-20","Mystic League 2024 Season","Final","Dark Project","Space Rabbit e-Sports","WWW","r","dom","S"],["2025-12-16","Mystic League A 2025 Main Event","Final","NCG Esports","3v Team","WWW","r","dom","S"],["2026-08-11","Liga Regional Norte 2026 Split 2 Playoffs","Round 1","SDM Tigres","Kits Esports","WWLLL","","dom","S"]],"unknown":[]}
+{
+  "player": "Fatorix",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2021-09-03","LLA 2022 Opening Promotion","Semifinal","Kaos Latin Gamers","Globant Emerald","LWLL","","dom","P"],
+    ["2022-03-31","Liga Master Flow 2022 Opening Playoffs","Quarterfinal","River Plate Gaming","EBRO","WLLL","","dom","S"],
+    ["2023-03-05","División de Honor 2023 Opening Playoffs","Round 1","PÊEK Gaming","19esports","LWLL","","dom","S"],
+    ["2023-03-12","División de Honor 2023 Opening Playoffs","Round 1","PÊEK Gaming","Tomorrow Esports","LLWWW","","dom","S"],
+    ["2023-03-19","División de Honor 2023 Opening Playoffs","Round 2","PÊEK Gaming","Atheris Esports","WWW","","dom","S"],
+    ["2023-03-24","División de Honor 2023 Opening Playoffs","Round 3","PÊEK Gaming","19esports","LWLWW","","dom","S"],
+    ["2023-03-31","División de Honor 2023 Opening Playoffs","Grand Final","PÊEK Gaming","Zylant Esports","LWWLW","","dom","S"],
+    ["2023-07-24","Liga Regional Norte 2023 Closing Playoffs","Round 1","Descuydado Aucas Esports","Tomorrow Esports","WLLWW","","dom","S"],
+    ["2023-08-01","Liga Regional Norte 2023 Closing Playoffs","Round 2","Descuydado Aucas Esports","Fuego","LLWL","","dom","S"],
+    ["2024-03-24","Ignite Challenge 2024","Final","Tomorrow Esports","Fuego","WWW","r","dom",""],
+    ["2024-06-24","Liga Regional Norte 2024 Playoffs","Round 1","Tomorrow Esports","Fuego","LLL","","dom","S"],
+    ["2024-07-09","Liga Regional Norte 2024 Playoffs","Round 1","Tomorrow Esports","Waia Snikt","LLL","","dom","S"],
+    ["2024-07-28","Blossom League Season 7","Round 1","Dark Project","Tier 28","WLWW","r","dom","S"],
+    ["2024-08-11","Blossom League Season 7","Quarterfinal","Dark Project","ODD Esports","WWW","r","dom","S"],
+    ["2024-08-26","Blossom League Season 7","Semifinal","Dark Project","Idyllic","WWW","r","dom","S"],
+    ["2024-09-02","Blossom League Season 7","Final","Dark Project","Ascendent Esports","WWW","r","dom","S"],
+    ["2024-10-12","Mystic League 2024 Season","Semifinal","Dark Project","Icon Esports (Mexican Team)","WWW","r","dom","S"],
+    ["2024-10-20","Mystic League 2024 Season","Final","Dark Project","Space Rabbit e-Sports","WWW","r","dom","S"],
+    ["2025-12-16","Mystic League A 2025 Main Event","Final","NCG Esports","3v Team","WWW","r","dom","S"],
+    ["2026-08-11","Liga Regional Norte 2026 Split 2 Playoffs","Round 1","SDM Tigres","Kits Esports","WWLLL","","dom","S"]
+  ],
+  "unknown": []
+}

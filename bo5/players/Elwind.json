@@ -1,1 +1,28 @@
-{"player":"Elwind","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2014-02-02","TCL 2014 Winter/Finals","Final","HWA Gaming","Dark Passage","LLL","r","dom","P"],["2015-03-29","TCL 2015 Winter Playoffs","Semifinal","Dark Passage","HWA Gaming","WLWW","","dom","P"],["2015-04-04","TCL 2015 Winter Playoffs","Final","Dark Passage","Beşiktaş Esports","LLL","","dom","P"],["2015-08-02","TCL 2015 Summer Playoffs","Semifinal","Dark Passage","HWA Gaming","WWW","","dom","P"],["2015-08-08","TCL 2015 Summer Playoffs","Final","Dark Passage","Beşiktaş Esports","WWLW","","dom","P"],["2016-03-27","TCL 2016 Winter Playoffs","Semifinal","Dark Passage","Beşiktaş.Oyun Hizmetleri","WWLLL","","dom","P"],["2016-08-06","TCL 2016 Summer Playoffs","Semifinal","Dark Passage","HWA Gaming","LWWLW","","dom","P"],["2016-08-13","TCL 2016 Summer Playoffs","Final","Dark Passage","SuperMassive Esports","WWW","","dom","P"],["2016-09-03","International Wildcard Qualifier 2016","Final","Dark Passage","INTZ","LWLWL","","dom","P"],["2017-04-01","TCL 2017 Winter Playoffs","Quarterfinal","Crew e-Sports Club","Galakticos","WWW","","dom","P"],["2017-04-08","TCL 2017 Winter Playoffs","Semifinal","Crew e-Sports Club","Team AURORA","WWLW","","dom","P"],["2017-04-22","TCL 2017 Winter Playoffs","Final","Crew e-Sports Club","SuperMassive Esports","LWLL","","dom","P"],["2017-08-05","TCL 2017 Summer Playoffs","Quarterfinal","Crew e-Sports Club","P3P eSports","WLWW","","dom","P"],["2017-08-12","TCL 2017 Summer Playoffs","Semifinal","Crew e-Sports Club","Fenerbahçe Esports","LLL","","dom","P"],["2018-04-08","TCL 2018 Winter Playoffs","Quarterfinal","YouthCrew Esports","Dark Passage","WWW","","dom","P"],["2018-04-14","TCL 2018 Winter Playoffs","Semifinal","YouthCrew Esports","Royal Bandits","LLL","","dom","P"],["2018-04-15","TCL 2018 Winter Playoffs","Third-Place Match","YouthCrew Esports","Team AURORA","WWW","","dom","P"],["2018-09-03","TCL 2019 Winter Qualifiers","Round 1","YouthCrew Esports","Pars eSports","LLWL","","dom","P"],["2018-09-04","TCL 2019 Winter Qualifiers","Round 2","YouthCrew Esports","Galakticos","WLWLW","","dom","P"],["2018-09-05","TCL 2019 Winter Qualifiers","Final","YouthCrew Esports","Pars eSports","LLL","","dom","P"]],"unknown":[]}
+{
+  "player": "Elwind",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2014-02-02","TCL 2014 Winter/Finals","Final","HWA Gaming","Dark Passage","LLL","r","dom","P"],
+    ["2015-03-29","TCL 2015 Winter Playoffs","Semifinal","Dark Passage","HWA Gaming","WLWW","","dom","P"],
+    ["2015-04-04","TCL 2015 Winter Playoffs","Final","Dark Passage","Beşiktaş Esports","LLL","","dom","P"],
+    ["2015-08-02","TCL 2015 Summer Playoffs","Semifinal","Dark Passage","HWA Gaming","WWW","","dom","P"],
+    ["2015-08-08","TCL 2015 Summer Playoffs","Final","Dark Passage","Beşiktaş Esports","WWLW","","dom","P"],
+    ["2016-03-27","TCL 2016 Winter Playoffs","Semifinal","Dark Passage","Beşiktaş.Oyun Hizmetleri","WWLLL","","dom","P"],
+    ["2016-08-06","TCL 2016 Summer Playoffs","Semifinal","Dark Passage","HWA Gaming","LWWLW","","dom","P"],
+    ["2016-08-13","TCL 2016 Summer Playoffs","Final","Dark Passage","SuperMassive Esports","WWW","","dom","P"],
+    ["2016-09-03","International Wildcard Qualifier 2016","Final","Dark Passage","INTZ","LWLWL","","dom","P"],
+    ["2017-04-01","TCL 2017 Winter Playoffs","Quarterfinal","Crew e-Sports Club","Galakticos","WWW","","dom","P"],
+    ["2017-04-08","TCL 2017 Winter Playoffs","Semifinal","Crew e-Sports Club","Team AURORA","WWLW","","dom","P"],
+    ["2017-04-22","TCL 2017 Winter Playoffs","Final","Crew e-Sports Club","SuperMassive Esports","LWLL","","dom","P"],
+    ["2017-08-05","TCL 2017 Summer Playoffs","Quarterfinal","Crew e-Sports Club","P3P eSports","WLWW","","dom","P"],
+    ["2017-08-12","TCL 2017 Summer Playoffs","Semifinal","Crew e-Sports Club","Fenerbahçe Esports","LLL","","dom","P"],
+    ["2018-04-08","TCL 2018 Winter Playoffs","Quarterfinal","YouthCrew Esports","Dark Passage","WWW","","dom","P"],
+    ["2018-04-14","TCL 2018 Winter Playoffs","Semifinal","YouthCrew Esports","Royal Bandits","LLL","","dom","P"],
+    ["2018-04-15","TCL 2018 Winter Playoffs","Third-Place Match","YouthCrew Esports","Team AURORA","WWW","","dom","P"],
+    ["2018-09-03","TCL 2019 Winter Qualifiers","Round 1","YouthCrew Esports","Pars eSports","LLWL","","dom","P"],
+    ["2018-09-04","TCL 2019 Winter Qualifiers","Round 2","YouthCrew Esports","Galakticos","WLWLW","","dom","P"],
+    ["2018-09-05","TCL 2019 Winter Qualifiers","Final","YouthCrew Esports","Pars eSports","LLL","","dom","P"]
+  ],
+  "unknown": []
+}

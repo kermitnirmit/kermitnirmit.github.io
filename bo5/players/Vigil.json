@@ -1,1 +1,35 @@
-{"player":"Vigil","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2021-10-14","NLC 2022 Spring Qualifier","Round 4","NYYRIKKI","X7 Esports","LWWW","","dom","S"],["2022-08-01","PG Proving Grounds 2022 Summer Playoffs","Round 1","DSYRE","Webidoo Gaming","LLL","","dom","S"],["2022-08-08","PG Proving Grounds 2022 Summer Playoffs","Semifinal","DSYRE","DREN Esports","WWLW","","dom","S"],["2022-08-11","PG Proving Grounds 2022 Summer Playoffs","Final","DSYRE","Webidoo Gaming","WWLW","","dom","S"],["2022-09-14","PG Nationals 2023 Promotion","Round 2","DSYRE","Samsung Morning Stars","WWW","","dom","S"],["2024-03-15","LIT 2024 Spring Playoffs","Round 1","aNc Outplayed","Macko Esports","LWLL","","dom","S"],["2024-07-10","LIT 2024 Summer Playoffs","Round 1","Macko Esports","DSYRE","LLWWL","","dom","S"],["2024-07-18","LIT 2024 Summer Playoffs","Semifinal","Macko Esports","Atleta Esport","WWLW","","dom","S"],["2024-07-25","LIT 2024 Summer Playoffs","Final","Macko Esports","DSYRE","WWW","","dom","S"],["2024-08-16","EMEA Masters 2024 Summer Main Event","Round of 16","Macko Esports","DSYRE","LWWLW","","dom","S"],["2024-08-20","EMEA Masters 2024 Summer Main Event","Quarterfinal","Macko Esports","Team GO","WLLWL","","dom","S"],["2025-04-18","LIT 2025 Spring Playoffs","Round 2","Colossal Gaming","Axolotl","LLL","","dom","S"],["2025-04-25","LIT 2025 Spring Playoffs","Round 3","Colossal Gaming","Zena Esports","LWLWW","","dom","S"],["2025-05-16","LIT 2025 Spring Playoffs","Round 4","Colossal Gaming","GMBLERS Esports","LWWW","","dom","S"],["2025-05-23","LIT 2025 Spring Playoffs","Final","Colossal Gaming","Axolotl","WWW","","dom","S"],["2025-07-31","LIT 2025 Summer Playoffs","Round 2","Colossal Gaming","aNc Legends","WWW","","dom","S"],["2025-08-27","LIT 2025 Summer Playoffs","Round 4","Colossal Gaming","GMBLERS Esports","WLLWW","","dom","S"],["2025-09-14","LIT 2025 Summer Playoffs","Final","Colossal Gaming","Zena Esports","LLL","","dom","S"],["2026-01-30","LIT 2026 Winter Playoffs","Round 3","HMBLE","EKO Esports","WWW","","dom","S"],["2026-02-06","LIT 2026 Winter Playoffs","Semifinal","HMBLE","Colossal Gaming","WWW","","dom","S"],["2026-03-06","LIT 2026 Winter Playoffs","Final","HMBLE","Colossal Gaming","WWW","","dom","S"],["2026-04-23","LIT 2026 Spring Playoffs","Round 3","HMBLE","GMBLERS Esports","WWW","","dom","S"],["2026-05-07","LIT 2026 Spring Playoffs","Semifinal","HMBLE","Colossal Gaming","WWW","","dom","S"],["2026-05-29","LIT 2026 Spring Playoffs","Final","HMBLE","GMBLERS Esports","WWW","","dom","S"],["2026-08-20","LIT 2026 Summer Playoffs","Round 3","HMBLE","GMBLERS Esports","WWW","","dom","S"],["2026-09-03","LIT 2026 Summer Playoffs","Semifinal","HMBLE","Colossal Gaming","WWW","","dom","S"],["2026-09-19","LIT 2026 Summer Playoffs","Final","HMBLE","Colossal Gaming","WWW","","dom","S"]],"unknown":[]}
+{
+  "player": "Vigil",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2021-10-14","NLC 2022 Spring Qualifier","Round 4","NYYRIKKI","X7 Esports","LWWW","","dom","S"],
+    ["2022-08-01","PG Proving Grounds 2022 Summer Playoffs","Round 1","DSYRE","Webidoo Gaming","LLL","","dom","S"],
+    ["2022-08-08","PG Proving Grounds 2022 Summer Playoffs","Semifinal","DSYRE","DREN Esports","WWLW","","dom","S"],
+    ["2022-08-11","PG Proving Grounds 2022 Summer Playoffs","Final","DSYRE","Webidoo Gaming","WWLW","","dom","S"],
+    ["2022-09-14","PG Nationals 2023 Promotion","Round 2","DSYRE","Samsung Morning Stars","WWW","","dom","S"],
+    ["2024-03-15","LIT 2024 Spring Playoffs","Round 1","aNc Outplayed","Macko Esports","LWLL","","dom","S"],
+    ["2024-07-10","LIT 2024 Summer Playoffs","Round 1","Macko Esports","DSYRE","LLWWL","","dom","S"],
+    ["2024-07-18","LIT 2024 Summer Playoffs","Semifinal","Macko Esports","Atleta Esport","WWLW","","dom","S"],
+    ["2024-07-25","LIT 2024 Summer Playoffs","Final","Macko Esports","DSYRE","WWW","","dom","S"],
+    ["2024-08-16","EMEA Masters 2024 Summer Main Event","Round of 16","Macko Esports","DSYRE","LWWLW","","dom","S"],
+    ["2024-08-20","EMEA Masters 2024 Summer Main Event","Quarterfinal","Macko Esports","Team GO","WLLWL","","dom","S"],
+    ["2025-04-18","LIT 2025 Spring Playoffs","Round 2","Colossal Gaming","Axolotl","LLL","","dom","S"],
+    ["2025-04-25","LIT 2025 Spring Playoffs","Round 3","Colossal Gaming","Zena Esports","LWLWW","","dom","S"],
+    ["2025-05-16","LIT 2025 Spring Playoffs","Round 4","Colossal Gaming","GMBLERS Esports","LWWW","","dom","S"],
+    ["2025-05-23","LIT 2025 Spring Playoffs","Final","Colossal Gaming","Axolotl","WWW","","dom","S"],
+    ["2025-07-31","LIT 2025 Summer Playoffs","Round 2","Colossal Gaming","aNc Legends","WWW","","dom","S"],
+    ["2025-08-27","LIT 2025 Summer Playoffs","Round 4","Colossal Gaming","GMBLERS Esports","WLLWW","","dom","S"],
+    ["2025-09-14","LIT 2025 Summer Playoffs","Final","Colossal Gaming","Zena Esports","LLL","","dom","S"],
+    ["2026-01-30","LIT 2026 Winter Playoffs","Round 3","HMBLE","EKO Esports","WWW","","dom","S"],
+    ["2026-02-06","LIT 2026 Winter Playoffs","Semifinal","HMBLE","Colossal Gaming","WWW","","dom","S"],
+    ["2026-03-06","LIT 2026 Winter Playoffs","Final","HMBLE","Colossal Gaming","WWW","","dom","S"],
+    ["2026-04-23","LIT 2026 Spring Playoffs","Round 3","HMBLE","GMBLERS Esports","WWW","","dom","S"],
+    ["2026-05-07","LIT 2026 Spring Playoffs","Semifinal","HMBLE","Colossal Gaming","WWW","","dom","S"],
+    ["2026-05-29","LIT 2026 Spring Playoffs","Final","HMBLE","GMBLERS Esports","WWW","","dom","S"],
+    ["2026-08-20","LIT 2026 Summer Playoffs","Round 3","HMBLE","GMBLERS Esports","WWW","","dom","S"],
+    ["2026-09-03","LIT 2026 Summer Playoffs","Semifinal","HMBLE","Colossal Gaming","WWW","","dom","S"],
+    ["2026-09-19","LIT 2026 Summer Playoffs","Final","HMBLE","Colossal Gaming","WWW","","dom","S"]
+  ],
+  "unknown": []
+}

@@ -1,1 +1,33 @@
-{"player":"SkaR","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2019-07-22","PG Nationals 2019 Summer Playoffs","Semifinal","Racoon (Italian Team)","Outplayed","LLL","p","dom","S"],["2020-12-01","Campionato Piazza Esport Playoffs","Grand Final","WNKR","Zeta Team","WWW","r","dom",""],["2022-03-15","PG Proving Grounds 2022 Spring Playoffs","Round 1","Atleta Esport Academy","DREN Esports","WWLW","","dom","S"],["2022-03-23","PG Proving Grounds 2022 Spring Playoffs","Final","Atleta Esport Academy","Angry Bats","LWLWW","","dom","S"],["2022-10-17","ATE Cup 2022 Playoffs","Semifinal","Axolotl","Earth Revolution Gaming","WWW","r","dom",""],["2022-10-23","ATE Cup 2022 Playoffs","Final","Axolotl","Webidoo Gaming","WWW","r","dom",""],["2023-08-01","PG Proving Grounds 2023 Summer Playoffs","Round 1","NOVO Esports","Underworld Esports","WWLLW","","dom","S"],["2023-08-08","PG Proving Grounds 2023 Summer Playoffs","Final","NOVO Esports","Underworld Esports","WWLLW","","dom","S"],["2023-08-10","PG Nationals 2024 Promotion","Round 1","NOVO Esports","ENEMI3S","LWLWL","","dom","S"],["2023-08-11","PG Nationals 2024 Promotion","Round 1","NOVO Esports","Away from Normal","WWW","","dom","S"],["2023-08-13","PG Nationals 2024 Promotion","Round 2","NOVO Esports","DREN Esports","LLL","","dom","S"],["2024-07-09","Blooming Talents League 2024 Summer Playoffs","Semifinal","GMBLERS Esports","DELTALAND","WWLW","","dom","S"],["2024-07-16","Blooming Talents League 2024 Summer Playoffs","Final","GMBLERS Esports","The Gulls Esports","WLWLL","","dom","S"],["2024-08-01","LIT 2025 Promotion","Round 1","GMBLERS Esports","DELTALAND","WLWW","","dom","S"],["2024-08-02","LIT 2025 Promotion","Round 2","GMBLERS Esports","The Gulls Esports","WWW","","dom","S"],["2026-02-21","LIT 2026 Spring Promotion","Final","4 Employed e 1 Budino","Axolotl","WWW","","dom","S"],["2026-04-23","LIT 2026 Spring Playoffs","Round 3","GMBLERS Esports","HMBLE","LLL","","dom","S"],["2026-05-08","LIT 2026 Spring Playoffs","Round 4","GMBLERS Esports","Zena Esports","LWLWW","","dom","S"],["2026-05-14","LIT 2026 Spring Playoffs","Round 5","GMBLERS Esports","EKO Esports","WWW","","dom","S"],["2026-05-15","LIT 2026 Spring Playoffs","Semifinal","GMBLERS Esports","Colossal Gaming","LWWLW","","dom","S"],["2026-05-29","LIT 2026 Spring Playoffs","Final","GMBLERS Esports","HMBLE","LLL","","dom","S"],["2026-08-26","LIT 2026 Summer Playoffs","Round 3","Colossal Gaming","Aeterna Esports","LWWW","","dom","S"],["2026-09-03","LIT 2026 Summer Playoffs","Semifinal","Colossal Gaming","HMBLE","LLL","","dom","S"],["2026-09-18","LIT 2026 Summer Playoffs","Semifinal","Colossal Gaming","Team Aqua ASD","WWW","","dom","S"],["2026-09-19","LIT 2026 Summer Playoffs","Final","Colossal Gaming","HMBLE","LLL","","dom","S"]],"unknown":[]}
+{
+  "player": "SkaR",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2019-07-22","PG Nationals 2019 Summer Playoffs","Semifinal","Racoon (Italian Team)","Outplayed","LLL","p","dom","S"],
+    ["2020-12-01","Campionato Piazza Esport Playoffs","Grand Final","WNKR","Zeta Team","WWW","r","dom",""],
+    ["2022-03-15","PG Proving Grounds 2022 Spring Playoffs","Round 1","Atleta Esport Academy","DREN Esports","WWLW","","dom","S"],
+    ["2022-03-23","PG Proving Grounds 2022 Spring Playoffs","Final","Atleta Esport Academy","Angry Bats","LWLWW","","dom","S"],
+    ["2022-10-17","ATE Cup 2022 Playoffs","Semifinal","Axolotl","Earth Revolution Gaming","WWW","r","dom",""],
+    ["2022-10-23","ATE Cup 2022 Playoffs","Final","Axolotl","Webidoo Gaming","WWW","r","dom",""],
+    ["2023-08-01","PG Proving Grounds 2023 Summer Playoffs","Round 1","NOVO Esports","Underworld Esports","WWLLW","","dom","S"],
+    ["2023-08-08","PG Proving Grounds 2023 Summer Playoffs","Final","NOVO Esports","Underworld Esports","WWLLW","","dom","S"],
+    ["2023-08-10","PG Nationals 2024 Promotion","Round 1","NOVO Esports","ENEMI3S","LWLWL","","dom","S"],
+    ["2023-08-11","PG Nationals 2024 Promotion","Round 1","NOVO Esports","Away from Normal","WWW","","dom","S"],
+    ["2023-08-13","PG Nationals 2024 Promotion","Round 2","NOVO Esports","DREN Esports","LLL","","dom","S"],
+    ["2024-07-09","Blooming Talents League 2024 Summer Playoffs","Semifinal","GMBLERS Esports","DELTALAND","WWLW","","dom","S"],
+    ["2024-07-16","Blooming Talents League 2024 Summer Playoffs","Final","GMBLERS Esports","The Gulls Esports","WLWLL","","dom","S"],
+    ["2024-08-01","LIT 2025 Promotion","Round 1","GMBLERS Esports","DELTALAND","WLWW","","dom","S"],
+    ["2024-08-02","LIT 2025 Promotion","Round 2","GMBLERS Esports","The Gulls Esports","WWW","","dom","S"],
+    ["2026-02-21","LIT 2026 Spring Promotion","Final","4 Employed e 1 Budino","Axolotl","WWW","","dom","S"],
+    ["2026-04-23","LIT 2026 Spring Playoffs","Round 3","GMBLERS Esports","HMBLE","LLL","","dom","S"],
+    ["2026-05-08","LIT 2026 Spring Playoffs","Round 4","GMBLERS Esports","Zena Esports","LWLWW","","dom","S"],
+    ["2026-05-14","LIT 2026 Spring Playoffs","Round 5","GMBLERS Esports","EKO Esports","WWW","","dom","S"],
+    ["2026-05-15","LIT 2026 Spring Playoffs","Semifinal","GMBLERS Esports","Colossal Gaming","LWWLW","","dom","S"],
+    ["2026-05-29","LIT 2026 Spring Playoffs","Final","GMBLERS Esports","HMBLE","LLL","","dom","S"],
+    ["2026-08-26","LIT 2026 Summer Playoffs","Round 3","Colossal Gaming","Aeterna Esports","LWWW","","dom","S"],
+    ["2026-09-03","LIT 2026 Summer Playoffs","Semifinal","Colossal Gaming","HMBLE","LLL","","dom","S"],
+    ["2026-09-18","LIT 2026 Summer Playoffs","Semifinal","Colossal Gaming","Team Aqua ASD","WWW","","dom","S"],
+    ["2026-09-19","LIT 2026 Summer Playoffs","Final","Colossal Gaming","HMBLE","LLL","","dom","S"]
+  ],
+  "unknown": []
+}

@@ -1,1 +1,41 @@
-{"player":"Fix","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2017-03-28","Circuito de Leyendas Sur 2017 Opening Playoffs","Round 1","Bencheados","Legatum","WLWLL","","dom","S"],["2017-03-30","CLS 2017 Closing Promotion","Qualifiers","Bencheados","Hafnet eSports","LLL","","dom","P"],["2017-08-19","CLS 2017 Closing Playoffs","Final","Kaos Latin Gamers","Isurus","LWWW","","dom","P"],["2018-03-31","CLS 2018 Opening Playoffs","Semifinal","Kaos Latin Gamers","Isurus","WWW","","dom","P"],["2018-04-14","CLS 2018 Opening Playoffs","Final","Kaos Latin Gamers","Rebirth eSports","LWLWW","","dom","P"],["2018-09-02","CLS 2018 Closing Playoffs","Semifinal","Kaos Latin Gamers","Furious Gaming","WWW","","dom","P"],["2018-09-09","CLS 2018 Closing Playoffs","Final","Kaos Latin Gamers","Rebirth eSports","WWLW","","dom","P"],["2018-09-15","Final Latinoamérica Movistar 2018","Grand Finals","Kaos Latin Gamers","INFINITY","LLL","r","dom",""],["2019-09-10","Liga de Honor Entel 2020 Opening Promotion","Round 3","Humanoids5","FroztFire Team","WWW","r","dom","S"],["2020-03-24","Liga de Honor Entel 2020 Closing Promotion","Qualifier","Humanoids5","Newstar","WLWW","r","dom","S"],["2020-08-13","Liga Master Flow 2020 Closing Playoffs","Semifinal","9z Team","Malvinas Gaming","WWW","","dom","S"],["2020-08-27","Liga Master Flow 2020 Closing Playoffs","Final","9z Team","Undead Gaming","LWWLL","","dom","S"],["2020-12-03","Liga Master Flow 2020 Super Copa","Final","9z Team","Nocturns Gaming","LLWL","","dom","S"],["2020-12-04","Liga Master Flow 2020 Super Copa","Finals Reset","9z Team","Nocturns Gaming","LLL","","dom","S"],["2021-07-13","Liga Master Flow 2021 Closing Playoffs","Quarterfinal","Globant Emerald","Naguara Team","WWW","","dom","S"],["2021-07-21","Liga Master Flow 2021 Closing Playoffs","Semifinal","Globant Emerald","Pampas","WLWW","","dom","S"],["2021-07-29","Liga Master Flow 2021 Closing Playoffs","Final","Globant Emerald","Savage (Latin American Team)","WWW","","dom","S"],["2021-08-11","Regional Sur 2021 Season","Final","Globant Emerald","Cruzados Esports","WLWW","","dom","S"],["2021-09-03","LLA 2022 Opening Promotion","Semifinal","Globant Emerald","Kaos Latin Gamers","WLWW","","dom","P"],["2021-09-04","LLA 2022 Opening Promotion","Final","Globant Emerald","Team Aze","LLL","","dom","P"],["2021-09-05","LLA 2022 Opening Promotion","Final","Globant Emerald","Furious Gaming","WWLW","","dom","P"],["2024-05-06","Circuito Nacional Sur 2024 Finals","Final","Coscu Army","Seven Dark","LWLWL","r","dom","S"],["2026-05-05","Liga Regional Sur 2026 Split 1 Playoffs","Round 1","9z Globant","Seven Dark","WWW","","dom","S"],["2026-05-19","Liga Regional Sur 2026 Split 1 Playoffs","Round 2","9z Globant","Malvinas Gaming","WWW","","dom","S"],["2026-06-02","Liga Regional Sur 2026 Split 1 Playoffs","Round 3","9z Globant","Volticons","WLLL","","dom","S"],["2026-07-28","Liga Regional Sur 2026 Split 2 Playoffs","Round 1","9z Globant","Maze Gaming","WLWW","","dom","S"],["2026-08-25","Liga Regional Sur 2026 Split 2 Playoffs","Round 3","9z Globant","Golden Lions","WWW","","dom","S"],["2026-09-08","Liga Regional Sur 2026 Split 2 Playoffs","Final","9z Globant","Golden Lions","WWW","","dom","S"],["2026-09-16","2026 World Star Challengers Invitational Americas Qualifier","WSCI Qualifier","9z Globant","Fuego","LLL","","dom","S"],["2026-09-29","CBLOL 2027 Promotion","Round 1","9z Globant","Estral Esports","LLL","","dom","P"],["2026-10-05","CBLOL 2027 Promotion","Round 1","9z Globant","KaBuM! Ilha das Lendas","WLLL","","dom","P"]],"unknown":[["2017-12-02","Rio de la Plata Cup 2017","Final","Kaos Latin Gamers","Isurus","3-2","","dom",""]]}
+{
+  "player": "Fix",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2017-03-28","Circuito de Leyendas Sur 2017 Opening Playoffs","Round 1","Bencheados","Legatum","WLWLL","","dom","S"],
+    ["2017-03-30","CLS 2017 Closing Promotion","Qualifiers","Bencheados","Hafnet eSports","LLL","","dom","P"],
+    ["2017-08-19","CLS 2017 Closing Playoffs","Final","Kaos Latin Gamers","Isurus","LWWW","","dom","P"],
+    ["2018-03-31","CLS 2018 Opening Playoffs","Semifinal","Kaos Latin Gamers","Isurus","WWW","","dom","P"],
+    ["2018-04-14","CLS 2018 Opening Playoffs","Final","Kaos Latin Gamers","Rebirth eSports","LWLWW","","dom","P"],
+    ["2018-09-02","CLS 2018 Closing Playoffs","Semifinal","Kaos Latin Gamers","Furious Gaming","WWW","","dom","P"],
+    ["2018-09-09","CLS 2018 Closing Playoffs","Final","Kaos Latin Gamers","Rebirth eSports","WWLW","","dom","P"],
+    ["2018-09-15","Final Latinoamérica Movistar 2018","Grand Finals","Kaos Latin Gamers","INFINITY","LLL","r","dom",""],
+    ["2019-09-10","Liga de Honor Entel 2020 Opening Promotion","Round 3","Humanoids5","FroztFire Team","WWW","r","dom","S"],
+    ["2020-03-24","Liga de Honor Entel 2020 Closing Promotion","Qualifier","Humanoids5","Newstar","WLWW","r","dom","S"],
+    ["2020-08-13","Liga Master Flow 2020 Closing Playoffs","Semifinal","9z Team","Malvinas Gaming","WWW","","dom","S"],
+    ["2020-08-27","Liga Master Flow 2020 Closing Playoffs","Final","9z Team","Undead Gaming","LWWLL","","dom","S"],
+    ["2020-12-03","Liga Master Flow 2020 Super Copa","Final","9z Team","Nocturns Gaming","LLWL","","dom","S"],
+    ["2020-12-04","Liga Master Flow 2020 Super Copa","Finals Reset","9z Team","Nocturns Gaming","LLL","","dom","S"],
+    ["2021-07-13","Liga Master Flow 2021 Closing Playoffs","Quarterfinal","Globant Emerald","Naguara Team","WWW","","dom","S"],
+    ["2021-07-21","Liga Master Flow 2021 Closing Playoffs","Semifinal","Globant Emerald","Pampas","WLWW","","dom","S"],
+    ["2021-07-29","Liga Master Flow 2021 Closing Playoffs","Final","Globant Emerald","Savage (Latin American Team)","WWW","","dom","S"],
+    ["2021-08-11","Regional Sur 2021 Season","Final","Globant Emerald","Cruzados Esports","WLWW","","dom","S"],
+    ["2021-09-03","LLA 2022 Opening Promotion","Semifinal","Globant Emerald","Kaos Latin Gamers","WLWW","","dom","P"],
+    ["2021-09-04","LLA 2022 Opening Promotion","Final","Globant Emerald","Team Aze","LLL","","dom","P"],
+    ["2021-09-05","LLA 2022 Opening Promotion","Final","Globant Emerald","Furious Gaming","WWLW","","dom","P"],
+    ["2024-05-06","Circuito Nacional Sur 2024 Finals","Final","Coscu Army","Seven Dark","LWLWL","r","dom","S"],
+    ["2026-05-05","Liga Regional Sur 2026 Split 1 Playoffs","Round 1","9z Globant","Seven Dark","WWW","","dom","S"],
+    ["2026-05-19","Liga Regional Sur 2026 Split 1 Playoffs","Round 2","9z Globant","Malvinas Gaming","WWW","","dom","S"],
+    ["2026-06-02","Liga Regional Sur 2026 Split 1 Playoffs","Round 3","9z Globant","Volticons","WLLL","","dom","S"],
+    ["2026-07-28","Liga Regional Sur 2026 Split 2 Playoffs","Round 1","9z Globant","Maze Gaming","WLWW","","dom","S"],
+    ["2026-08-25","Liga Regional Sur 2026 Split 2 Playoffs","Round 3","9z Globant","Golden Lions","WWW","","dom","S"],
+    ["2026-09-08","Liga Regional Sur 2026 Split 2 Playoffs","Final","9z Globant","Golden Lions","WWW","","dom","S"],
+    ["2026-09-16","2026 World Star Challengers Invitational Americas Qualifier","WSCI Qualifier","9z Globant","Fuego","LLL","","dom","S"],
+    ["2026-09-29","CBLOL 2027 Promotion","Round 1","9z Globant","Estral Esports","LLL","","dom","P"],
+    ["2026-10-05","CBLOL 2027 Promotion","Round 1","9z Globant","KaBuM! Ilha das Lendas","WLLL","","dom","P"]
+  ],
+  "unknown": [
+    ["2017-12-02","Rio de la Plata Cup 2017","Final","Kaos Latin Gamers","Isurus","3-2","","dom",""]
+  ]
+}

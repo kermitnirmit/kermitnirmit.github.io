@@ -1,1 +1,34 @@
-{"player":"Kruimel","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2020-04-17","Turkey Academy League 2020 Winter Playoffs","Semifinal","Team AURORA Academy","Beşiktaş Academy","LWWW","","dom","S"],["2020-04-19","Turkey Academy League 2020 Winter Playoffs","Final","Team AURORA Academy","Istanbul Wildcats Academy","LLL","","dom","S"],["2020-04-27","TCL 2020 Winter Playoffs","Quarterfinal","Team AURORA","Papara SuperMassive","WLWW","","dom","P"],["2020-05-04","TCL 2020 Winter Playoffs","Semifinal","Team AURORA","Fenerbahçe Esports","WLWLL","","dom","P"],["2020-10-11","Dutch League 2020 Country Finals","Round 1","Team THRLL","Dynasty","LLL","","dom","S"],["2021-03-09","Dutch League 2021 Spring Playoffs","Round 1","PSV Esports","Dynasty","WLLWW","","dom","S"],["2021-03-23","Dutch League 2021 Spring Playoffs","Final","PSV Esports","Team Echo Zulu","WWW","","dom","S"],["2021-07-27","Dutch League 2021 Summer Playoffs","Round 1","PSV Esports","Team Echo Zulu","WLWW","","dom","S"],["2021-08-10","Dutch League 2021 Summer Playoffs","Final","PSV Esports","mCon LG UltraGear","LLWL","","dom","S"],["2021-10-16","Dutch League 2021 Country Finals","Semifinal","PSV Esports","Team Echo Zulu","LWLWW","","dom","S"],["2021-10-17","Dutch League 2021 Country Finals","Final","PSV Esports","mCon LG UltraGear","LWLWL","","dom","S"],["2022-03-11","Elite Series 2022 Spring Playoffs","Round 1","mCon LG UltraGear","KRC Genk Esports","WLLWW","","dom","S"],["2022-03-19","Elite Series 2022 Spring Playoffs","Final","mCon LG UltraGear","KRC Genk Esports","LWLL","","dom","S"],["2022-07-31","Elite Series 2022 Summer Playoffs","Round 1","The Agency","KRC Genk Esports","LWLL","","dom","S"],["2022-08-03","Elite Series 2022 Summer Playoffs","Semifinal","The Agency","mCon LG UltraGear","WWW","","dom","S"],["2022-08-07","Elite Series 2022 Summer Playoffs","Final","The Agency","KRC Genk Esports","WWLLW","","dom","S"],["2023-11-07","Elite Series 2023 Benelux Masters","Quarterfinal","HEET","Myth Esports","LWLL","","dom","S"],["2024-11-05","Elite Series 2024 Benelux Masters","Quarterfinal","Team Shrimp","ZennIT","LLL","p","dom","S"],["2025-05-13","TransIP Road Of Legends 2025 Spring Playoffs","Round 1","Senshi eSports (Benelux Team)","Myth Esports","LLL","","dom","S"],["2026-02-10","Road Of Legends 2026 Winter Playoffs","Round 1","mCon esports","ZennIT","LLL","","dom","S"]],"unknown":[["2017-08-25","Multiplay UK Masters Season 3 Playoffs","Grand Final","Excel Esports","MNM Gaming","2-3","","dom",""],["2017-11-04","ESL Premiership 2017 Autumn Playoffs","Final","Excel Esports","Team Singularity","3-2","","dom",""],["2018-04-08","ESL Premiership 2018 Spring Playoffs","Final","Excel Esports","Misfits Academy","2-3","","dom",""],["2018-07-08","Premier Tour 2018 Summer/Stop 1 - Hamburg","Final","Berlin International Gaming","EURONICS Gaming","1-3","","dom",""],["2018-09-03","Summoner's Inn League Season 0.5","Round 1","Berlin International Gaming","mousesports","2-3","","dom",""]]}
+{
+  "player": "Kruimel",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2020-04-17","Turkey Academy League 2020 Winter Playoffs","Semifinal","Team AURORA Academy","Beşiktaş Academy","LWWW","","dom","S"],
+    ["2020-04-19","Turkey Academy League 2020 Winter Playoffs","Final","Team AURORA Academy","Istanbul Wildcats Academy","LLL","","dom","S"],
+    ["2020-04-27","TCL 2020 Winter Playoffs","Quarterfinal","Team AURORA","Papara SuperMassive","WLWW","","dom","P"],
+    ["2020-05-04","TCL 2020 Winter Playoffs","Semifinal","Team AURORA","Fenerbahçe Esports","WLWLL","","dom","P"],
+    ["2020-10-11","Dutch League 2020 Country Finals","Round 1","Team THRLL","Dynasty","LLL","","dom","S"],
+    ["2021-03-09","Dutch League 2021 Spring Playoffs","Round 1","PSV Esports","Dynasty","WLLWW","","dom","S"],
+    ["2021-03-23","Dutch League 2021 Spring Playoffs","Final","PSV Esports","Team Echo Zulu","WWW","","dom","S"],
+    ["2021-07-27","Dutch League 2021 Summer Playoffs","Round 1","PSV Esports","Team Echo Zulu","WLWW","","dom","S"],
+    ["2021-08-10","Dutch League 2021 Summer Playoffs","Final","PSV Esports","mCon LG UltraGear","LLWL","","dom","S"],
+    ["2021-10-16","Dutch League 2021 Country Finals","Semifinal","PSV Esports","Team Echo Zulu","LWLWW","","dom","S"],
+    ["2021-10-17","Dutch League 2021 Country Finals","Final","PSV Esports","mCon LG UltraGear","LWLWL","","dom","S"],
+    ["2022-03-11","Elite Series 2022 Spring Playoffs","Round 1","mCon LG UltraGear","KRC Genk Esports","WLLWW","","dom","S"],
+    ["2022-03-19","Elite Series 2022 Spring Playoffs","Final","mCon LG UltraGear","KRC Genk Esports","LWLL","","dom","S"],
+    ["2022-07-31","Elite Series 2022 Summer Playoffs","Round 1","The Agency","KRC Genk Esports","LWLL","","dom","S"],
+    ["2022-08-03","Elite Series 2022 Summer Playoffs","Semifinal","The Agency","mCon LG UltraGear","WWW","","dom","S"],
+    ["2022-08-07","Elite Series 2022 Summer Playoffs","Final","The Agency","KRC Genk Esports","WWLLW","","dom","S"],
+    ["2023-11-07","Elite Series 2023 Benelux Masters","Quarterfinal","HEET","Myth Esports","LWLL","","dom","S"],
+    ["2024-11-05","Elite Series 2024 Benelux Masters","Quarterfinal","Team Shrimp","ZennIT","LLL","p","dom","S"],
+    ["2025-05-13","TransIP Road Of Legends 2025 Spring Playoffs","Round 1","Senshi eSports (Benelux Team)","Myth Esports","LLL","","dom","S"],
+    ["2026-02-10","Road Of Legends 2026 Winter Playoffs","Round 1","mCon esports","ZennIT","LLL","","dom","S"]
+  ],
+  "unknown": [
+    ["2017-08-25","Multiplay UK Masters Season 3 Playoffs","Grand Final","Excel Esports","MNM Gaming","2-3","","dom",""],
+    ["2017-11-04","ESL Premiership 2017 Autumn Playoffs","Final","Excel Esports","Team Singularity","3-2","","dom",""],
+    ["2018-04-08","ESL Premiership 2018 Spring Playoffs","Final","Excel Esports","Misfits Academy","2-3","","dom",""],
+    ["2018-07-08","Premier Tour 2018 Summer/Stop 1 - Hamburg","Final","Berlin International Gaming","EURONICS Gaming","1-3","","dom",""],
+    ["2018-09-03","Summoner's Inn League Season 0.5","Round 1","Berlin International Gaming","mousesports","2-3","","dom",""]
+  ]
+}

@@ -1,1 +1,30 @@
-{"player":"moe (Mo'en Hussein)","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2024-03-27","Arabian League 2nd Division 2024 Spring Playoffs","Round 1","Twareg Esports","Team VDS","WWLW","","dom","S"],["2024-04-02","Arabian League 2nd Division 2024 Spring Playoffs","Semifinal","Twareg Esports","Baam Esports","WWW","","dom","S"],["2024-04-03","Arabian League 2nd Division 2024 Spring Playoffs","Final","Twareg Esports","Fog Esports","WWW","","dom","S"],["2024-07-17","Arabian League 2nd Division 2024 Summer Playoffs","Round 1","Twareg Esports","Fog Esports","LWLWW","","dom","S"],["2024-07-18","Arabian League 2nd Division 2024 Summer Playoffs","Semifinal","Twareg Esports","3BL Esports","WWW","","dom","S"],["2024-07-19","Arabian League 2nd Division 2024 Summer Playoffs","Final","Twareg Esports","Baam Esports","LWWW","","dom","S"],["2024-09-09","Arabian League 2025 Promotion","Round 2","Twareg Esports","RA'AD","WWW","","dom","S"],["2024-09-14","Arabian League 2025 Promotion","Final","Twareg Esports","Fog Esports","LLL","","dom","S"],["2025-07-21","Arabian League 2025 Summer Split","Elimination","Dragons Esports","One More Esports","LWWW","","dom","S"],["2025-07-22","Arabian League 2025 Summer Split","Elimination","Dragons Esports","Baam Esports","WWW","","dom","S"],["2025-07-24","Arabian League 2025 Summer Split","Elimination","Dragons Esports","Baam Esports","WWLLL","","dom","S"],["2025-09-09","Arabian League 2026 Promotion","Round 1","Dragons Esports","NextGeneration Esports","LLWL","","dom","S"],["2025-09-10","Arabian League 2026 Promotion","Round 1","Dragons Esports","Karam El Sham","WWW","","dom","S"],["2025-09-12","Arabian League 2026 Promotion","Round 2","Dragons Esports","NextGeneration Esports","WWW","","dom","S"],["2026-02-24","Arabian League 2026 Winter Playoffs","Round 4","Baam Esports","FN Esports","LLL","","dom","S"],["2026-02-25","Arabian League 2026 Winter Playoffs","Round 4","Baam Esports","3BL Esports","WWW","","dom","S"],["2026-02-26","Arabian League 2026 Winter Playoffs","Final","Baam Esports","FN Esports","LLL","","dom","S"],["2026-05-13","Arabian League 2026 Spring Playoffs","Round 1","Dragons Esports","FN Esports","LLL","","dom","S"],["2026-08-20","Arabian League 2026 Summer Playoffs","Play-Ins","Pyramid IV Esports","Disruptors","LWWW","","dom","S"],["2026-08-26","Arabian League 2026 Summer Playoffs","Play-Ins","Pyramid IV Esports","GnG Amazigh","WWW","","dom","S"],["2026-09-14","Arabian League 2026 Summer Playoffs","Round 1","Pyramid IV Esports","Baam Esports","LWLWW","","dom","S"],["2026-09-16","Arabian League 2026 Summer Playoffs","Round 2","Pyramid IV Esports","JSK Esports","LLL","","dom","S"]],"unknown":[]}
+{
+  "player": "moe (Mo'en Hussein)",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2024-03-27","Arabian League 2nd Division 2024 Spring Playoffs","Round 1","Twareg Esports","Team VDS","WWLW","","dom","S"],
+    ["2024-04-02","Arabian League 2nd Division 2024 Spring Playoffs","Semifinal","Twareg Esports","Baam Esports","WWW","","dom","S"],
+    ["2024-04-03","Arabian League 2nd Division 2024 Spring Playoffs","Final","Twareg Esports","Fog Esports","WWW","","dom","S"],
+    ["2024-07-17","Arabian League 2nd Division 2024 Summer Playoffs","Round 1","Twareg Esports","Fog Esports","LWLWW","","dom","S"],
+    ["2024-07-18","Arabian League 2nd Division 2024 Summer Playoffs","Semifinal","Twareg Esports","3BL Esports","WWW","","dom","S"],
+    ["2024-07-19","Arabian League 2nd Division 2024 Summer Playoffs","Final","Twareg Esports","Baam Esports","LWWW","","dom","S"],
+    ["2024-09-09","Arabian League 2025 Promotion","Round 2","Twareg Esports","RA'AD","WWW","","dom","S"],
+    ["2024-09-14","Arabian League 2025 Promotion","Final","Twareg Esports","Fog Esports","LLL","","dom","S"],
+    ["2025-07-21","Arabian League 2025 Summer Split","Elimination","Dragons Esports","One More Esports","LWWW","","dom","S"],
+    ["2025-07-22","Arabian League 2025 Summer Split","Elimination","Dragons Esports","Baam Esports","WWW","","dom","S"],
+    ["2025-07-24","Arabian League 2025 Summer Split","Elimination","Dragons Esports","Baam Esports","WWLLL","","dom","S"],
+    ["2025-09-09","Arabian League 2026 Promotion","Round 1","Dragons Esports","NextGeneration Esports","LLWL","","dom","S"],
+    ["2025-09-10","Arabian League 2026 Promotion","Round 1","Dragons Esports","Karam El Sham","WWW","","dom","S"],
+    ["2025-09-12","Arabian League 2026 Promotion","Round 2","Dragons Esports","NextGeneration Esports","WWW","","dom","S"],
+    ["2026-02-24","Arabian League 2026 Winter Playoffs","Round 4","Baam Esports","FN Esports","LLL","","dom","S"],
+    ["2026-02-25","Arabian League 2026 Winter Playoffs","Round 4","Baam Esports","3BL Esports","WWW","","dom","S"],
+    ["2026-02-26","Arabian League 2026 Winter Playoffs","Final","Baam Esports","FN Esports","LLL","","dom","S"],
+    ["2026-05-13","Arabian League 2026 Spring Playoffs","Round 1","Dragons Esports","FN Esports","LLL","","dom","S"],
+    ["2026-08-20","Arabian League 2026 Summer Playoffs","Play-Ins","Pyramid IV Esports","Disruptors","LWWW","","dom","S"],
+    ["2026-08-26","Arabian League 2026 Summer Playoffs","Play-Ins","Pyramid IV Esports","GnG Amazigh","WWW","","dom","S"],
+    ["2026-09-14","Arabian League 2026 Summer Playoffs","Round 1","Pyramid IV Esports","Baam Esports","LWLWW","","dom","S"],
+    ["2026-09-16","Arabian League 2026 Summer Playoffs","Round 2","Pyramid IV Esports","JSK Esports","LLL","","dom","S"]
+  ],
+  "unknown": []
+}

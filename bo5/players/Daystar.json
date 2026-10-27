@@ -1,1 +1,30 @@
-{"player":"Daystar","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2023-03-15","LCO 2023 Split 1 Playoffs","Finals Stage","Team Bliss","Chiefs Esports Club","LWWLW","","dom","P"],["2023-03-24","PCS 2023 Spring Playoffs","Round 1","Team Bliss","Impunity","LLL","","dom","P"],["2023-03-26","PCS 2023 Spring Playoffs","Round 1","Team Bliss","Deep Cross Gaming","LLL","","dom","P"],["2023-04-29","LCO 2023 Split 1 Playoffs","Finals Stage","Team Bliss","Chiefs Esports Club","LLWL","","dom","P"],["2023-07-20","LCO 2023 Split 2 Playoffs","Round 3","Team Bliss","Chiefs Esports Club","WWW","","dom","P"],["2023-07-30","LCO 2023 Split 2 Playoffs","Final","Team Bliss","Chiefs Esports Club","LLL","","dom","P"],["2023-08-11","PCS 2023 Summer Playoffs","Round 1","Team Bliss","Beyond Gaming","LLL","","dom","P"],["2023-08-17","PCS 2023 Summer Playoffs","Round 1","Team Bliss","CTBC Flying Oyster","LLL","","dom","P"],["2024-03-26","LCK CL 2024 Spring Playoffs","Round 1","FearX Youth","Nongshim Esports Academy","LWLL","","dom","S"],["2024-08-19","LCK CL 2024 Summer Playoffs","Round 1","BNK FEARX Youth","T1 Esports Academy","WWLLL","","dom","S"],["2025-02-14","LCK CL 2025 Kickoff","Play-In Round 3","BNK FEARX Youth","Gen.G Global Academy","LWWW","","dom","S"],["2025-02-17","LCK CL 2025 Kickoff","Playoffs Round 1","BNK FEARX Youth","DN Freecs Challengers","WLWLW","","dom","S"],["2025-02-18","LCK CL 2025 Kickoff","Playoffs Round 2","BNK FEARX Youth","KT Rolster Challengers","LLWL","","dom","S"],["2025-02-24","LCK CL 2025 Kickoff","Playoffs Round 2","BNK FEARX Youth","DRX Challengers","WWLLL","","dom","S"],["2025-09-15","LCK CL 2025 Playoffs","Round 1","BNK FEARX Youth","DN Freecs Challengers","LLL","","dom","S"],["2025-09-16","LCK CL 2025 Playoffs","Round 1","BNK FEARX Youth","Gen.G Global Academy","LWWW","","dom","S"],["2025-09-23","LCK CL 2025 Playoffs","Round 2","BNK FEARX Youth","DN Freecs Challengers","LLWWW","","dom","S"],["2025-09-26","LCK CL 2025 Playoffs","Round 3","BNK FEARX Youth","DRX Challengers","WWLLW","","dom","S"],["2025-09-29","LCK CL 2025 Playoffs","Round 4","BNK FEARX Youth","T1 Esports Academy","LWWLW","","dom","S"],["2025-09-30","LCK CL 2025 Playoffs","Final","BNK FEARX Youth","KT Rolster Challengers","WLWW","","dom","S"],["2025-10-10","2025 Asia Masters Finals","Round 1","BNK FEARX Youth","T1 Esports Academy","LWLL","","dom","S"],["2025-10-11","2025 Asia Masters Finals","Round 1","BNK FEARX Youth","DN Freecs Challengers","LLL","","dom","S"]],"unknown":[]}
+{
+  "player": "Daystar",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2023-03-15","LCO 2023 Split 1 Playoffs","Finals Stage","Team Bliss","Chiefs Esports Club","LWWLW","","dom","P"],
+    ["2023-03-24","PCS 2023 Spring Playoffs","Round 1","Team Bliss","Impunity","LLL","","dom","P"],
+    ["2023-03-26","PCS 2023 Spring Playoffs","Round 1","Team Bliss","Deep Cross Gaming","LLL","","dom","P"],
+    ["2023-04-29","LCO 2023 Split 1 Playoffs","Finals Stage","Team Bliss","Chiefs Esports Club","LLWL","","dom","P"],
+    ["2023-07-20","LCO 2023 Split 2 Playoffs","Round 3","Team Bliss","Chiefs Esports Club","WWW","","dom","P"],
+    ["2023-07-30","LCO 2023 Split 2 Playoffs","Final","Team Bliss","Chiefs Esports Club","LLL","","dom","P"],
+    ["2023-08-11","PCS 2023 Summer Playoffs","Round 1","Team Bliss","Beyond Gaming","LLL","","dom","P"],
+    ["2023-08-17","PCS 2023 Summer Playoffs","Round 1","Team Bliss","CTBC Flying Oyster","LLL","","dom","P"],
+    ["2024-03-26","LCK CL 2024 Spring Playoffs","Round 1","FearX Youth","Nongshim Esports Academy","LWLL","","dom","S"],
+    ["2024-08-19","LCK CL 2024 Summer Playoffs","Round 1","BNK FEARX Youth","T1 Esports Academy","WWLLL","","dom","S"],
+    ["2025-02-14","LCK CL 2025 Kickoff","Play-In Round 3","BNK FEARX Youth","Gen.G Global Academy","LWWW","","dom","S"],
+    ["2025-02-17","LCK CL 2025 Kickoff","Playoffs Round 1","BNK FEARX Youth","DN Freecs Challengers","WLWLW","","dom","S"],
+    ["2025-02-18","LCK CL 2025 Kickoff","Playoffs Round 2","BNK FEARX Youth","KT Rolster Challengers","LLWL","","dom","S"],
+    ["2025-02-24","LCK CL 2025 Kickoff","Playoffs Round 2","BNK FEARX Youth","DRX Challengers","WWLLL","","dom","S"],
+    ["2025-09-15","LCK CL 2025 Playoffs","Round 1","BNK FEARX Youth","DN Freecs Challengers","LLL","","dom","S"],
+    ["2025-09-16","LCK CL 2025 Playoffs","Round 1","BNK FEARX Youth","Gen.G Global Academy","LWWW","","dom","S"],
+    ["2025-09-23","LCK CL 2025 Playoffs","Round 2","BNK FEARX Youth","DN Freecs Challengers","LLWWW","","dom","S"],
+    ["2025-09-26","LCK CL 2025 Playoffs","Round 3","BNK FEARX Youth","DRX Challengers","WWLLW","","dom","S"],
+    ["2025-09-29","LCK CL 2025 Playoffs","Round 4","BNK FEARX Youth","T1 Esports Academy","LWWLW","","dom","S"],
+    ["2025-09-30","LCK CL 2025 Playoffs","Final","BNK FEARX Youth","KT Rolster Challengers","WLWW","","dom","S"],
+    ["2025-10-10","2025 Asia Masters Finals","Round 1","BNK FEARX Youth","T1 Esports Academy","LWLL","","dom","S"],
+    ["2025-10-11","2025 Asia Masters Finals","Round 1","BNK FEARX Youth","DN Freecs Challengers","LLL","","dom","S"]
+  ],
+  "unknown": []
+}

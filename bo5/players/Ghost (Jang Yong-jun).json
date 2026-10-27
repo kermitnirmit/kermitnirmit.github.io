@@ -1,1 +1,37 @@
-{"player":"Ghost (Jang Yong-jun)","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2017-09-14","LCK 2018 Spring Promotion","Qualifying Round","bbq Olivers","Kongdoo Monster","LLWL","","dom","P"],["2017-09-16","LCK 2018 Spring Promotion","Qualifying Round","bbq Olivers","CJ Entus","WWW","","dom","P"],["2018-09-21","LCK 2019 Spring Promotion","Elimination Round","bbq Olivers","MVP","LWLL","","dom","P"],["2019-08-23","LCK 2019 Summer Playoffs","Round 2","SANDBOX Gaming","SK Telecom T1","LLL","","dom","P"],["2019-09-05","LCK 2019 Regional Finals","Round 2","SANDBOX Gaming","Kingzone DragonX","LWLL","","dom","P"],["2020-04-20","LCK 2020 Spring Playoffs","Round 2","DAMWON Gaming","DragonX","LLWWL","","dom","P"],["2020-09-05","LCK 2020 Summer Playoffs","Final","DAMWON Gaming","DRX","WWW","","dom","P"],["2020-10-15","Worlds 2020","Quarterfinal","DAMWON Gaming","DRX","WWW","","worlds","P"],["2020-10-24","Worlds 2020","Semifinal","DAMWON Gaming","G2 Esports","WLWW","","worlds","P"],["2020-10-31","Worlds 2020","Final","DAMWON Gaming","Suning","WLWW","","worlds","P"],["2020-12-26","LoL KeSPA Cup 2020","Semifinal","DAMWON Gaming","Hanwha Life Esports","WLWW","","dom","P"],["2021-01-02","LoL KeSPA Cup 2020","Final","DAMWON Gaming","Nongshim RedForce","WWW","","dom","P"],["2021-04-03","LCK 2021 Spring Playoffs","Semifinal","DWG KIA","Hanwha Life Esports","WWW","","dom","P"],["2021-04-10","LCK 2021 Spring Playoffs","Final","DWG KIA","Gen.G","WWW","","dom","P"],["2021-05-22","MSI 2021","Semifinal","DWG KIA","MAD Lions","WLLWW","","msi","P"],["2021-05-23","MSI 2021","Final","DWG KIA","Royal Never Give Up","LWLWL","","msi","P"],["2021-08-21","LCK 2021 Summer Playoffs","Semifinal","DWG KIA","Nongshim RedForce","WWW","","dom","P"],["2021-08-28","LCK 2021 Summer Playoffs","Final","DWG KIA","T1","WWLW","","dom","P"],["2021-10-24","Worlds 2021","Quarterfinal","DWG KIA","MAD Lions","WWW","","worlds","P"],["2021-10-30","Worlds 2021","Semifinal","DWG KIA","T1","WLLWW","","worlds","P"],["2021-11-06","Worlds 2021","Final","DWG KIA","EDward Gaming","LWWLL","","worlds","P"],["2025-08-25","Liga Regional Norte 2025 Split 2 Playoffs","Round 4","Estral Esports","SDM Tigres","LWWLL","","dom","S"],["2025-08-31","Liga Regional Norte 2025 Split 2 Playoffs","Round 4","Estral Esports","Fuego","WWW","","dom","S"],["2025-09-08","Liga Regional Norte 2025 Split 2 Playoffs","Final","Estral Esports","SDM Tigres","LLL","","dom","S"],["2025-10-04","LTA North 2026 Promotion","Play-In","Estral Esports","Conviction","LWWLW","","dom","P"],["2025-10-07","LTA North 2026 Promotion","Round 1","Estral Esports","Disguised","LWLL","","dom","P"],["2025-10-09","LTA North 2026 Promotion","Round 1","Estral Esports","SDM Tigres","WWW","","dom","P"],["2025-10-10","LTA North 2026 Promotion","Round 2","Estral Esports","Luminosity Gaming","LLL","","dom","P"],["2026-01-30","LCK 2026 Cup","","KT Rolster","Nongshim RedForce","LLWWL","p","dom","P"]],"unknown":[]}
+{
+  "player": "Ghost (Jang Yong-jun)",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2017-09-14","LCK 2018 Spring Promotion","Qualifying Round","bbq Olivers","Kongdoo Monster","LLWL","","dom","P"],
+    ["2017-09-16","LCK 2018 Spring Promotion","Qualifying Round","bbq Olivers","CJ Entus","WWW","","dom","P"],
+    ["2018-09-21","LCK 2019 Spring Promotion","Elimination Round","bbq Olivers","MVP","LWLL","","dom","P"],
+    ["2019-08-23","LCK 2019 Summer Playoffs","Round 2","SANDBOX Gaming","SK Telecom T1","LLL","","dom","P"],
+    ["2019-09-05","LCK 2019 Regional Finals","Round 2","SANDBOX Gaming","Kingzone DragonX","LWLL","","dom","P"],
+    ["2020-04-20","LCK 2020 Spring Playoffs","Round 2","DAMWON Gaming","DragonX","LLWWL","","dom","P"],
+    ["2020-09-05","LCK 2020 Summer Playoffs","Final","DAMWON Gaming","DRX","WWW","","dom","P"],
+    ["2020-10-15","Worlds 2020","Quarterfinal","DAMWON Gaming","DRX","WWW","","worlds","P"],
+    ["2020-10-24","Worlds 2020","Semifinal","DAMWON Gaming","G2 Esports","WLWW","","worlds","P"],
+    ["2020-10-31","Worlds 2020","Final","DAMWON Gaming","Suning","WLWW","","worlds","P"],
+    ["2020-12-26","LoL KeSPA Cup 2020","Semifinal","DAMWON Gaming","Hanwha Life Esports","WLWW","","dom","P"],
+    ["2021-01-02","LoL KeSPA Cup 2020","Final","DAMWON Gaming","Nongshim RedForce","WWW","","dom","P"],
+    ["2021-04-03","LCK 2021 Spring Playoffs","Semifinal","DWG KIA","Hanwha Life Esports","WWW","","dom","P"],
+    ["2021-04-10","LCK 2021 Spring Playoffs","Final","DWG KIA","Gen.G","WWW","","dom","P"],
+    ["2021-05-22","MSI 2021","Semifinal","DWG KIA","MAD Lions","WLLWW","","msi","P"],
+    ["2021-05-23","MSI 2021","Final","DWG KIA","Royal Never Give Up","LWLWL","","msi","P"],
+    ["2021-08-21","LCK 2021 Summer Playoffs","Semifinal","DWG KIA","Nongshim RedForce","WWW","","dom","P"],
+    ["2021-08-28","LCK 2021 Summer Playoffs","Final","DWG KIA","T1","WWLW","","dom","P"],
+    ["2021-10-24","Worlds 2021","Quarterfinal","DWG KIA","MAD Lions","WWW","","worlds","P"],
+    ["2021-10-30","Worlds 2021","Semifinal","DWG KIA","T1","WLLWW","","worlds","P"],
+    ["2021-11-06","Worlds 2021","Final","DWG KIA","EDward Gaming","LWWLL","","worlds","P"],
+    ["2025-08-25","Liga Regional Norte 2025 Split 2 Playoffs","Round 4","Estral Esports","SDM Tigres","LWWLL","","dom","S"],
+    ["2025-08-31","Liga Regional Norte 2025 Split 2 Playoffs","Round 4","Estral Esports","Fuego","WWW","","dom","S"],
+    ["2025-09-08","Liga Regional Norte 2025 Split 2 Playoffs","Final","Estral Esports","SDM Tigres","LLL","","dom","S"],
+    ["2025-10-04","LTA North 2026 Promotion","Play-In","Estral Esports","Conviction","LWWLW","","dom","P"],
+    ["2025-10-07","LTA North 2026 Promotion","Round 1","Estral Esports","Disguised","LWLL","","dom","P"],
+    ["2025-10-09","LTA North 2026 Promotion","Round 1","Estral Esports","SDM Tigres","WWW","","dom","P"],
+    ["2025-10-10","LTA North 2026 Promotion","Round 2","Estral Esports","Luminosity Gaming","LLL","","dom","P"],
+    ["2026-01-30","LCK 2026 Cup","","KT Rolster","Nongshim RedForce","LLWWL","p","dom","P"]
+  ],
+  "unknown": []
+}

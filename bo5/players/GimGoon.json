@@ -1,1 +1,39 @@
-{"player":"GimGoon","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2014-01-01","Champions 2014 Winter","Quarterfinal","Xenics Storm","NaJin White Shield","LWLL","","dom","P"],["2014-01-09","NLB 2014 Winter","Semifinal","Xenics Storm","NaJin Black Sword","LLL","r","dom","S"],["2015-01-26","2015 Demacia Cup Spring Season","Round of 32","Energy Pacemaker.All","Team WE","WLLWL","","dom","P"],["2015-06-15","2015 Demacia Cup Summer Season","Round of 32","Energy Pacemaker.All","Team King","LWWLL","","dom","P"],["2015-12-19","World Cyber Arena 2015","Semifinal","Energy Pacemaker.All","2144 Danmu Gaming","LWLWW","","dom","P"],["2015-12-20","World Cyber Arena 2015","Final","Energy Pacemaker.All","Royal Never Give Up","LWLL","","dom","P"],["2016-04-14","LPL 2016 Summer Promotion","Qualifying Round","Energy Pacemaker.All","Oh My God","LLL","","dom","P"],["2016-04-16","LPL 2016 Summer Promotion","Qualifying Round","Energy Pacemaker.All","MF Gaming","WWLW","","dom","P"],["2016-07-03","Demacia Cup 2016 Season","Quarterfinal","Game Talents","EDward Gaming","LLL","","dom","P"],["2017-04-19","LPL 2017 Summer Promotion","Elimination Round","Game Talents","LGD Gaming","LLL","","dom","P"],["2017-08-18","LSPL 2017 Summer Playoffs","Semifinal","Game Talents","Vici Gaming","LLWL","","dom","S"],["2017-08-24","LSPL 2017 Summer Playoffs","Third-Place Match","Game Talents","Legend Dragon","WWW","","dom","S"],["2019-04-13","LPL 2019 Spring Playoffs","Semifinal","FunPlus Phoenix","JD Gaming","WLWLL","","dom","P"],["2019-04-17","LPL 2019 Spring Playoffs","Third-Place Match","FunPlus Phoenix","Topsports Gaming","LWWW","","dom","P"],["2019-08-31","LPL 2019 Summer Playoffs","Semifinal","FunPlus Phoenix","Bilibili Gaming","LWWW","","dom","P"],["2019-09-06","LPL 2019 Summer Playoffs","Final","FunPlus Phoenix","Royal Never Give Up","LWWW","","dom","P"],["2019-10-26","Worlds 2019","Quarterfinal","FunPlus Phoenix","Fnatic","WWLW","","worlds","P"],["2019-11-02","Worlds 2019","Semifinal","FunPlus Phoenix","Invictus Gaming","WLWW","","worlds","P"],["2019-11-10","Worlds 2019","Final","FunPlus Phoenix","G2 Esports","WWW","","worlds","P"],["2020-04-25","LPL 2020 Spring Playoffs","Quarterfinal","FunPlus Phoenix","EDward Gaming","WWLW","","dom","P"],["2020-04-27","LPL 2020 Spring Playoffs","Semifinal","FunPlus Phoenix","JD Gaming","LLL","","dom","P"],["2020-08-13","LPL 2020 Summer Playoffs","Round 1","FunPlus Phoenix","Victory Five","LLWL","","dom","P"],["2020-08-29","LPL 2020 Regional Finals","Round 1","FunPlus Phoenix","Invictus Gaming","WLWLL","","dom","P"],["2024-11-25","Legend Cup Season 2","Round 1","BYG (LGC Team)","Omnipotence","WWW","","dom","S"],["2024-11-26","Legend Cup Season 2","Round 2","BYG (LGC Team)","Blood (Chinese Team)","LLL","","dom","S"],["2024-11-28","Legend Cup Season 2","Round 2","BYG (LGC Team)","Super Gaming","LLL","","dom","S"]],"unknown":[["2014-01-14","NLB 2014 Winter","Third-Place Match","Xenics Storm","Samsung Blue","1-3","","dom","S"],["2015-08-06","LSPL 2015 Summer Playoffs","Final","Energy Pacemaker.All","Hyper Youth Gaming","3-2","","dom","S"],["2016-08-10","LPL 2016 Summer Playoffs","Round 1","Game Talents","Vici Gaming","1-3","LLL","dom","P"],["2018-09-06","LPL 2018 Summer Playoffs","Round 1","FunPlus Phoenix","JD Gaming","1-3","LWL","dom","P"]]}
+{
+  "player": "GimGoon",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2014-01-01","Champions 2014 Winter","Quarterfinal","Xenics Storm","NaJin White Shield","LWLL","","dom","P"],
+    ["2014-01-09","NLB 2014 Winter","Semifinal","Xenics Storm","NaJin Black Sword","LLL","r","dom","S"],
+    ["2015-01-26","2015 Demacia Cup Spring Season","Round of 32","Energy Pacemaker.All","Team WE","WLLWL","","dom","P"],
+    ["2015-06-15","2015 Demacia Cup Summer Season","Round of 32","Energy Pacemaker.All","Team King","LWWLL","","dom","P"],
+    ["2015-12-19","World Cyber Arena 2015","Semifinal","Energy Pacemaker.All","2144 Danmu Gaming","LWLWW","","dom","P"],
+    ["2015-12-20","World Cyber Arena 2015","Final","Energy Pacemaker.All","Royal Never Give Up","LWLL","","dom","P"],
+    ["2016-04-14","LPL 2016 Summer Promotion","Qualifying Round","Energy Pacemaker.All","Oh My God","LLL","","dom","P"],
+    ["2016-04-16","LPL 2016 Summer Promotion","Qualifying Round","Energy Pacemaker.All","MF Gaming","WWLW","","dom","P"],
+    ["2016-07-03","Demacia Cup 2016 Season","Quarterfinal","Game Talents","EDward Gaming","LLL","","dom","P"],
+    ["2017-04-19","LPL 2017 Summer Promotion","Elimination Round","Game Talents","LGD Gaming","LLL","","dom","P"],
+    ["2017-08-18","LSPL 2017 Summer Playoffs","Semifinal","Game Talents","Vici Gaming","LLWL","","dom","S"],
+    ["2017-08-24","LSPL 2017 Summer Playoffs","Third-Place Match","Game Talents","Legend Dragon","WWW","","dom","S"],
+    ["2019-04-13","LPL 2019 Spring Playoffs","Semifinal","FunPlus Phoenix","JD Gaming","WLWLL","","dom","P"],
+    ["2019-04-17","LPL 2019 Spring Playoffs","Third-Place Match","FunPlus Phoenix","Topsports Gaming","LWWW","","dom","P"],
+    ["2019-08-31","LPL 2019 Summer Playoffs","Semifinal","FunPlus Phoenix","Bilibili Gaming","LWWW","","dom","P"],
+    ["2019-09-06","LPL 2019 Summer Playoffs","Final","FunPlus Phoenix","Royal Never Give Up","LWWW","","dom","P"],
+    ["2019-10-26","Worlds 2019","Quarterfinal","FunPlus Phoenix","Fnatic","WWLW","","worlds","P"],
+    ["2019-11-02","Worlds 2019","Semifinal","FunPlus Phoenix","Invictus Gaming","WLWW","","worlds","P"],
+    ["2019-11-10","Worlds 2019","Final","FunPlus Phoenix","G2 Esports","WWW","","worlds","P"],
+    ["2020-04-25","LPL 2020 Spring Playoffs","Quarterfinal","FunPlus Phoenix","EDward Gaming","WWLW","","dom","P"],
+    ["2020-04-27","LPL 2020 Spring Playoffs","Semifinal","FunPlus Phoenix","JD Gaming","LLL","","dom","P"],
+    ["2020-08-13","LPL 2020 Summer Playoffs","Round 1","FunPlus Phoenix","Victory Five","LLWL","","dom","P"],
+    ["2020-08-29","LPL 2020 Regional Finals","Round 1","FunPlus Phoenix","Invictus Gaming","WLWLL","","dom","P"],
+    ["2024-11-25","Legend Cup Season 2","Round 1","BYG (LGC Team)","Omnipotence","WWW","","dom","S"],
+    ["2024-11-26","Legend Cup Season 2","Round 2","BYG (LGC Team)","Blood (Chinese Team)","LLL","","dom","S"],
+    ["2024-11-28","Legend Cup Season 2","Round 2","BYG (LGC Team)","Super Gaming","LLL","","dom","S"]
+  ],
+  "unknown": [
+    ["2014-01-14","NLB 2014 Winter","Third-Place Match","Xenics Storm","Samsung Blue","1-3","","dom","S"],
+    ["2015-08-06","LSPL 2015 Summer Playoffs","Final","Energy Pacemaker.All","Hyper Youth Gaming","3-2","","dom","S"],
+    ["2016-08-10","LPL 2016 Summer Playoffs","Round 1","Game Talents","Vici Gaming","1-3","LLL","dom","P"],
+    ["2018-09-06","LPL 2018 Summer Playoffs","Round 1","FunPlus Phoenix","JD Gaming","1-3","LWL","dom","P"]
+  ]
+}

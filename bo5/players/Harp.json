@@ -1,1 +1,28 @@
-{"player":"Harp","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2021-03-30","LCK CL 2021 Spring Playoffs","Quarterfinal","KT Rolster Challengers","DRX Challengers","LLL","p","dom","S"],["2022-04-03","LJL 2022 Spring Playoffs","Round 2","DetonatioN FocusMe","Sengoku Gaming","WWW","","dom","P"],["2022-04-10","LJL 2022 Spring Playoffs","Final","DetonatioN FocusMe","Sengoku Gaming","LWWLW","","dom","P"],["2022-08-28","LJL 2022 Summer Playoffs","Round 2","DetonatioN FocusMe","Sengoku Gaming","WLWW","","dom","P"],["2022-09-04","LJL 2022 Summer Playoffs","Final","DetonatioN FocusMe","Sengoku Gaming","WWW","","dom","P"],["2022-10-03","Worlds 2022","Elimination Round","DetonatioN FocusMe","LOUD","LWWW","","worlds","P"],["2022-10-04","Worlds 2022","Qualification Round","DetonatioN FocusMe","Royal Never Give Up","WLLL","","worlds","P"],["2023-04-09","LJL 2023 Spring Playoffs","Round 2","DetonatioN FocusMe","Fukuoka SoftBank HAWKS gaming","WWW","","dom","P"],["2023-04-15","LJL 2023 Spring Playoffs","Final","DetonatioN FocusMe","Sengoku Gaming","WWW","","dom","P"],["2023-07-22","LJL 2023 Summer Playoffs","Round 2","DetonatioN FocusMe","Crest Gaming Act","WWW","","dom","P"],["2023-08-06","LJL 2023 Summer Playoffs","Round 4","DetonatioN FocusMe","Fukuoka SoftBank HAWKS gaming","LWWLW","","dom","P"],["2023-08-20","LJL 2023 Summer Playoffs","Final","DetonatioN FocusMe","Fukuoka SoftBank HAWKS gaming","WLWLW","","dom","P"],["2024-02-24","LJL 2024 Spring Playoffs","Semifinal","DetonatioN FocusMe","V3 Esports","WWW","","dom","P"],["2024-03-03","LJL 2024 Spring Playoffs","Final","DetonatioN FocusMe","Fukuoka SoftBank HAWKS gaming","LLL","","dom","P"],["2024-03-17","PCS 2024 Spring Playoffs","Last Chance Qualifier","DetonatioN FocusMe","Deep Cross Gaming","WLLWL","","dom","P"],["2024-07-27","LJL 2024 Summer Playoffs","Round 3","DetonatioN FocusMe","Sengoku Gaming","WWW","","dom","P"],["2024-07-28","LJL 2024 Summer Playoffs","Final","DetonatioN FocusMe","Fukuoka SoftBank HAWKS gaming","LLL","","dom","P"],["2024-08-14","PCS 2024 Summer Playoffs","Stage 2 Round 1","DetonatioN FocusMe","Deep Cross Gaming","WLLL","","dom","P"],["2024-08-20","PCS 2024 Summer Playoffs","Stage 2 Round 2","DetonatioN FocusMe","Frank Esports","LLL","","dom","P"],["2025-09-07","LCP 2025 Season Finals Playoffs","Round 1","DetonatioN FocusMe","MGN Vikings Esports","LLWL","","dom","P"]],"unknown":[]}
+{
+  "player": "Harp",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2021-03-30","LCK CL 2021 Spring Playoffs","Quarterfinal","KT Rolster Challengers","DRX Challengers","LLL","p","dom","S"],
+    ["2022-04-03","LJL 2022 Spring Playoffs","Round 2","DetonatioN FocusMe","Sengoku Gaming","WWW","","dom","P"],
+    ["2022-04-10","LJL 2022 Spring Playoffs","Final","DetonatioN FocusMe","Sengoku Gaming","LWWLW","","dom","P"],
+    ["2022-08-28","LJL 2022 Summer Playoffs","Round 2","DetonatioN FocusMe","Sengoku Gaming","WLWW","","dom","P"],
+    ["2022-09-04","LJL 2022 Summer Playoffs","Final","DetonatioN FocusMe","Sengoku Gaming","WWW","","dom","P"],
+    ["2022-10-03","Worlds 2022","Elimination Round","DetonatioN FocusMe","LOUD","LWWW","","worlds","P"],
+    ["2022-10-04","Worlds 2022","Qualification Round","DetonatioN FocusMe","Royal Never Give Up","WLLL","","worlds","P"],
+    ["2023-04-09","LJL 2023 Spring Playoffs","Round 2","DetonatioN FocusMe","Fukuoka SoftBank HAWKS gaming","WWW","","dom","P"],
+    ["2023-04-15","LJL 2023 Spring Playoffs","Final","DetonatioN FocusMe","Sengoku Gaming","WWW","","dom","P"],
+    ["2023-07-22","LJL 2023 Summer Playoffs","Round 2","DetonatioN FocusMe","Crest Gaming Act","WWW","","dom","P"],
+    ["2023-08-06","LJL 2023 Summer Playoffs","Round 4","DetonatioN FocusMe","Fukuoka SoftBank HAWKS gaming","LWWLW","","dom","P"],
+    ["2023-08-20","LJL 2023 Summer Playoffs","Final","DetonatioN FocusMe","Fukuoka SoftBank HAWKS gaming","WLWLW","","dom","P"],
+    ["2024-02-24","LJL 2024 Spring Playoffs","Semifinal","DetonatioN FocusMe","V3 Esports","WWW","","dom","P"],
+    ["2024-03-03","LJL 2024 Spring Playoffs","Final","DetonatioN FocusMe","Fukuoka SoftBank HAWKS gaming","LLL","","dom","P"],
+    ["2024-03-17","PCS 2024 Spring Playoffs","Last Chance Qualifier","DetonatioN FocusMe","Deep Cross Gaming","WLLWL","","dom","P"],
+    ["2024-07-27","LJL 2024 Summer Playoffs","Round 3","DetonatioN FocusMe","Sengoku Gaming","WWW","","dom","P"],
+    ["2024-07-28","LJL 2024 Summer Playoffs","Final","DetonatioN FocusMe","Fukuoka SoftBank HAWKS gaming","LLL","","dom","P"],
+    ["2024-08-14","PCS 2024 Summer Playoffs","Stage 2 Round 1","DetonatioN FocusMe","Deep Cross Gaming","WLLL","","dom","P"],
+    ["2024-08-20","PCS 2024 Summer Playoffs","Stage 2 Round 2","DetonatioN FocusMe","Frank Esports","LLL","","dom","P"],
+    ["2025-09-07","LCP 2025 Season Finals Playoffs","Round 1","DetonatioN FocusMe","MGN Vikings Esports","LLWL","","dom","P"]
+  ],
+  "unknown": []
+}

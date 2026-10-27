@@ -1,1 +1,33 @@
-{"player":"Pyl (Chen Bo)","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2014-08-19","LPL 2014 Summer Playoffs","Winners Round 1","LGD Gaming","EDward Gaming","LLL","","dom","P"],["2014-08-22","LPL 2014 Summer Playoffs","Losers Round 1","LGD Gaming","Star Horn Royal Club","LLL","","dom","P"],["2015-02-02","2015 Demacia Cup Spring Season","Round of 32","LGD Gaming","Positive Energy","WLWW","","dom","P"],["2015-03-09","2015 Demacia Cup Spring Season","Round of 16","LGD Gaming","Vici Potential Gaming","WWW","","dom","P"],["2015-03-27","2015 Demacia Cup Spring Season","Quarterfinal","LGD Gaming","Invictus Gaming","LLL","","dom","P"],["2015-04-17","LPL 2015 Spring Playoffs","Quarterfinal","LGD Gaming","Oh My God","WWW","","dom","P"],["2015-04-19","LPL 2015 Spring Playoffs","Semifinal","LGD Gaming","Snake Esports","WWW","","dom","P"],["2015-04-26","LPL 2015 Spring Playoffs","Final","LGD Gaming","EDward Gaming","WLLWL","","dom","P"],["2015-06-08","2015 Demacia Cup Summer Season","Round of 32","LGD Gaming","Oh My Dream","WWW","","dom","P"],["2015-06-29","2015 Demacia Cup Summer Season","Round of 16","LGD Gaming","Qiao Gu Reapers","WLWW","","dom","P"],["2015-07-10","2015 Demacia Cup Summer Season","Quarterfinal","LGD Gaming","Oh My God","LLL","","dom","P"],["2015-08-13","LPL 2015 Summer Playoffs","Seeding Match","LGD Gaming","Vici Gaming","WLWW","","dom","P"],["2015-08-15","LPL 2015 Summer Playoffs","Quarterfinal","LGD Gaming","Snake Esports","LWWW","","dom","P"],["2015-08-16","LPL 2015 Summer Playoffs","Semifinal","LGD Gaming","EDward Gaming","WWW","","dom","P"],["2015-08-23","LPL 2015 Summer Playoffs","Final","LGD Gaming","Qiao Gu Reapers","LWLWW","","dom","P"],["2016-08-11","LPL 2017 Spring Promotion","Qualifying Round","LGD Gaming","Newbee","LWWW","","dom","P"],["2017-04-19","LPL 2017 Summer Promotion","Elimination Round","LGD Gaming","Game Talents","WWW","","dom","P"],["2017-04-21","LPL 2017 Summer Promotion","Qualifying Round","LGD Gaming","Young Miracles","WWW","","dom","P"],["2017-06-02","Demacia Cup 2017 Season","Quarterfinal","LGD Gaming","Royal Never Give Up","LLWL","","dom","P"],["2019-04-25","National Electronic Sports Tournament 2019","Qualifying Round","LGD Gaming","JD Gaming","WLLWL","r","dom","P"],["2024-05-27","Legend Cup Season 1","Upper Round 1","GaoziGaming","Blood (Chinese Team)","LLL","","dom","S"],["2024-05-29","Legend Cup Season 1","Lower Round 1","GaoziGaming","Big Green Mood","LWLL","","dom","S"]],"unknown":[["2013-07-07","StarsWar 8","Holy Trinity 1v1","LGD Gaming","Positive Energy","3-2","","dom",""],["2016-04-13","LPL 2016 Spring Playoffs","Round 1","LGD Gaming","Vici Gaming","1-3","LWL","dom","P"]]}
+{
+  "player": "Pyl (Chen Bo)",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2014-08-19","LPL 2014 Summer Playoffs","Winners Round 1","LGD Gaming","EDward Gaming","LLL","","dom","P"],
+    ["2014-08-22","LPL 2014 Summer Playoffs","Losers Round 1","LGD Gaming","Star Horn Royal Club","LLL","","dom","P"],
+    ["2015-02-02","2015 Demacia Cup Spring Season","Round of 32","LGD Gaming","Positive Energy","WLWW","","dom","P"],
+    ["2015-03-09","2015 Demacia Cup Spring Season","Round of 16","LGD Gaming","Vici Potential Gaming","WWW","","dom","P"],
+    ["2015-03-27","2015 Demacia Cup Spring Season","Quarterfinal","LGD Gaming","Invictus Gaming","LLL","","dom","P"],
+    ["2015-04-17","LPL 2015 Spring Playoffs","Quarterfinal","LGD Gaming","Oh My God","WWW","","dom","P"],
+    ["2015-04-19","LPL 2015 Spring Playoffs","Semifinal","LGD Gaming","Snake Esports","WWW","","dom","P"],
+    ["2015-04-26","LPL 2015 Spring Playoffs","Final","LGD Gaming","EDward Gaming","WLLWL","","dom","P"],
+    ["2015-06-08","2015 Demacia Cup Summer Season","Round of 32","LGD Gaming","Oh My Dream","WWW","","dom","P"],
+    ["2015-06-29","2015 Demacia Cup Summer Season","Round of 16","LGD Gaming","Qiao Gu Reapers","WLWW","","dom","P"],
+    ["2015-07-10","2015 Demacia Cup Summer Season","Quarterfinal","LGD Gaming","Oh My God","LLL","","dom","P"],
+    ["2015-08-13","LPL 2015 Summer Playoffs","Seeding Match","LGD Gaming","Vici Gaming","WLWW","","dom","P"],
+    ["2015-08-15","LPL 2015 Summer Playoffs","Quarterfinal","LGD Gaming","Snake Esports","LWWW","","dom","P"],
+    ["2015-08-16","LPL 2015 Summer Playoffs","Semifinal","LGD Gaming","EDward Gaming","WWW","","dom","P"],
+    ["2015-08-23","LPL 2015 Summer Playoffs","Final","LGD Gaming","Qiao Gu Reapers","LWLWW","","dom","P"],
+    ["2016-08-11","LPL 2017 Spring Promotion","Qualifying Round","LGD Gaming","Newbee","LWWW","","dom","P"],
+    ["2017-04-19","LPL 2017 Summer Promotion","Elimination Round","LGD Gaming","Game Talents","WWW","","dom","P"],
+    ["2017-04-21","LPL 2017 Summer Promotion","Qualifying Round","LGD Gaming","Young Miracles","WWW","","dom","P"],
+    ["2017-06-02","Demacia Cup 2017 Season","Quarterfinal","LGD Gaming","Royal Never Give Up","LLWL","","dom","P"],
+    ["2019-04-25","National Electronic Sports Tournament 2019","Qualifying Round","LGD Gaming","JD Gaming","WLLWL","r","dom","P"],
+    ["2024-05-27","Legend Cup Season 1","Upper Round 1","GaoziGaming","Blood (Chinese Team)","LLL","","dom","S"],
+    ["2024-05-29","Legend Cup Season 1","Lower Round 1","GaoziGaming","Big Green Mood","LWLL","","dom","S"]
+  ],
+  "unknown": [
+    ["2013-07-07","StarsWar 8","Holy Trinity 1v1","LGD Gaming","Positive Energy","3-2","","dom",""],
+    ["2016-04-13","LPL 2016 Spring Playoffs","Round 1","LGD Gaming","Vici Gaming","1-3","LWL","dom","P"]
+  ]
+}

@@ -1,1 +1,28 @@
-{"player":"Lorenz","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2022-04-22","Prime League 2nd Division 2022 Summer Promotion","Round 1","KIT SC","ERN ROAR","WWW","","dom","S"],["2022-04-25","Prime League 2nd Division 2022 Summer Promotion","Round 2","KIT SC","All for One Gaming","WWW","","dom","S"],["2025-07-10","Prime League 2nd Division 2025 Summer Playoffs","Round 1","A One Man Army Prime","Footprint Gaming","WWLW","p","dom","S"],["2025-08-16","Prime League 2nd Division 2025 Season Finals","Round 3","A One Man Army Prime","All for One Gaming","LWWW","p","dom","S"],["2025-08-17","Prime League 2nd Division 2025 Season Finals","Round 4","A One Man Army Prime","VfB eSports","WWW","","dom","S"],["2025-08-20","Prime League 2nd Division 2025 Season Finals","Grand Final","A One Man Army Prime","DKB XPERION NXT","LWLWW","","dom","S"],["2025-09-02","Prime League 1st Division 2026 Promotion","Round 1","A One Man Army Prime","DKB XPERION NXT","WLLL","","dom","S"],["2025-09-09","Prime League 1st Division 2026 Promotion","Round 2","A One Man Army Prime","DKB XPERION NXT","WWW","","dom","S"],["2026-02-17","Prime League 2nd Division 2026 Winter Relegation","Decider","All for One Gaming","Hannover Esports e.V.","WWW","r","dom","S"],["2026-03-31","Arabian League 2026 Spring Promotion","Round 2","One More Esports","JSK Esports","LWWW","","dom","S"],["2026-06-18","Prime League 2nd Division 2026 Spring Playoffs","Round 4","All for One Gaming","Babos Gaming","LWWLW","","dom","S"],["2026-06-21","Prime League 2nd Division 2026 Spring Playoffs","Grand Final","All for One Gaming","CGN Esports","LLL","","dom","S"],["2026-07-26","Prime League 2nd Division 2026 Season Finals","Round 2","All for One Gaming","Babos Gaming","WLWLW","","dom","S"],["2026-08-10","Prime League 2nd Division 2026 Season Finals","Round 5","All for One Gaming","CGN Esports","LLWL","","dom","S"],["2026-08-14","Prime League 2nd Division 2026 Season Finals","Round 5","All for One Gaming","PvB (Swiss Team)","WWLLW","","dom","S"],["2026-08-21","Prime League 2nd Division 2026 Season Finals","Round 6","All for One Gaming","DKB XPERION NXT","WWLLW","","dom","S"],["2026-08-23","Prime League 2nd Division 2026 Season Finals","Final","All for One Gaming","CGN Esports","LLWL","","dom","S"],["2026-09-07","Prime League 1st Division 2027 Promotion","Round 1","All for One Gaming","Eintracht Frankfurt","WWLLL","","dom","S"],["2026-09-15","Prime League 1st Division 2027 Promotion","Round 1","All for One Gaming","VfB eSports","WWLW","","dom","S"],["2026-09-17","Prime League 1st Division 2027 Promotion","Round 2","All for One Gaming","Eintracht Frankfurt","WWLLL","","dom","S"]],"unknown":[]}
+{
+  "player": "Lorenz",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2022-04-22","Prime League 2nd Division 2022 Summer Promotion","Round 1","KIT SC","ERN ROAR","WWW","","dom","S"],
+    ["2022-04-25","Prime League 2nd Division 2022 Summer Promotion","Round 2","KIT SC","All for One Gaming","WWW","","dom","S"],
+    ["2025-07-10","Prime League 2nd Division 2025 Summer Playoffs","Round 1","A One Man Army Prime","Footprint Gaming","WWLW","p","dom","S"],
+    ["2025-08-16","Prime League 2nd Division 2025 Season Finals","Round 3","A One Man Army Prime","All for One Gaming","LWWW","p","dom","S"],
+    ["2025-08-17","Prime League 2nd Division 2025 Season Finals","Round 4","A One Man Army Prime","VfB eSports","WWW","","dom","S"],
+    ["2025-08-20","Prime League 2nd Division 2025 Season Finals","Grand Final","A One Man Army Prime","DKB XPERION NXT","LWLWW","","dom","S"],
+    ["2025-09-02","Prime League 1st Division 2026 Promotion","Round 1","A One Man Army Prime","DKB XPERION NXT","WLLL","","dom","S"],
+    ["2025-09-09","Prime League 1st Division 2026 Promotion","Round 2","A One Man Army Prime","DKB XPERION NXT","WWW","","dom","S"],
+    ["2026-02-17","Prime League 2nd Division 2026 Winter Relegation","Decider","All for One Gaming","Hannover Esports e.V.","WWW","r","dom","S"],
+    ["2026-03-31","Arabian League 2026 Spring Promotion","Round 2","One More Esports","JSK Esports","LWWW","","dom","S"],
+    ["2026-06-18","Prime League 2nd Division 2026 Spring Playoffs","Round 4","All for One Gaming","Babos Gaming","LWWLW","","dom","S"],
+    ["2026-06-21","Prime League 2nd Division 2026 Spring Playoffs","Grand Final","All for One Gaming","CGN Esports","LLL","","dom","S"],
+    ["2026-07-26","Prime League 2nd Division 2026 Season Finals","Round 2","All for One Gaming","Babos Gaming","WLWLW","","dom","S"],
+    ["2026-08-10","Prime League 2nd Division 2026 Season Finals","Round 5","All for One Gaming","CGN Esports","LLWL","","dom","S"],
+    ["2026-08-14","Prime League 2nd Division 2026 Season Finals","Round 5","All for One Gaming","PvB (Swiss Team)","WWLLW","","dom","S"],
+    ["2026-08-21","Prime League 2nd Division 2026 Season Finals","Round 6","All for One Gaming","DKB XPERION NXT","WWLLW","","dom","S"],
+    ["2026-08-23","Prime League 2nd Division 2026 Season Finals","Final","All for One Gaming","CGN Esports","LLWL","","dom","S"],
+    ["2026-09-07","Prime League 1st Division 2027 Promotion","Round 1","All for One Gaming","Eintracht Frankfurt","WWLLL","","dom","S"],
+    ["2026-09-15","Prime League 1st Division 2027 Promotion","Round 1","All for One Gaming","VfB eSports","WWLW","","dom","S"],
+    ["2026-09-17","Prime League 1st Division 2027 Promotion","Round 2","All for One Gaming","Eintracht Frankfurt","WWLLL","","dom","S"]
+  ],
+  "unknown": []
+}

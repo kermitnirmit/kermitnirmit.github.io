@@ -1,1 +1,39 @@
-{"player":"Rames","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2021-03-27","Turkey Academy League 2021 Winter Playoffs","Semifinal","Galatasaray Academy","Team AURORA Academy","LWLWL","","dom","S"],["2021-10-15","NLC 2022 Spring Qualifier","Round 4","Absolved","Vanir","WWW","","dom","S"],["2022-03-13","Hitpoint Masters 2022 Spring Playoffs","Round 1","Entropiq","eSuba","LWWW","","dom","S"],["2022-03-20","Hitpoint Masters 2022 Spring Playoffs","Final","Entropiq","eSuba","WWW","","dom","S"],["2022-06-04","Prague Champs 2022 Closed Qualifier","Closed Qualifier","Entropiq","Inaequalis","WWW","","dom","S"],["2022-06-18","Prague Champs 2022","Semifinal","Entropiq","eSuba","WLWW","","dom","S"],["2022-06-19","Prague Champs 2022","Final","Entropiq","Dynamo Eclot","WLWW","","dom","S"],["2022-06-28","ELEAGUE Summer Cup 2022","Quarterfinal","Entropiq","Esport STUBA","WWW","","dom","S"],["2022-06-29","ELEAGUE Summer Cup 2022","Semifinal","Entropiq","eSuba","WWLLW","","dom","S"],["2022-07-05","ELEAGUE Summer Cup 2022","Final","Entropiq","Dynamo Eclot","WLWLW","","dom","S"],["2022-08-07","Hitpoint Masters 2022 Summer Playoffs","Round 1","Entropiq","Dynamo Eclot","WWLW","","dom","S"],["2022-08-21","Hitpoint Masters 2022 Summer Playoffs","Final","Entropiq","eSuba","LWWLL","","dom","S"],["2023-09-11","TCL 2024 Promotion","Round 1","Galakticos","Beetle Juice","WLWW","","dom","S"],["2023-09-18","TCL 2024 Promotion","Round 2","Galakticos","Chasing Haze 07","WWW","","dom","S"],["2024-03-19","Greek Legends League 2024 Spring Playoffs","Round 1","Team Phantasma","Anorthosis Famagusta Esports","LWLL","","dom","S"],["2024-03-27","Greek Legends League 2024 Spring Playoffs","Semifinal","Team Phantasma","Gamespace Mediterranean College Esports","WWW","","dom","S"],["2024-04-12","Greek Legends League 2024 Spring Playoffs","Final","Team Phantasma","Anorthosis Famagusta Esports","LWWW","","dom","S"],["2024-07-09","Arabian League 2024 Summer Playoffs","Round 1","Nigma Galaxy Male","Geekay Esports","LLL","","dom","S"],["2024-07-11","Arabian League 2024 Summer Playoffs","Semifinal","Nigma Galaxy Male","Twisted Minds","WWW","","dom","S"],["2024-07-12","Arabian League 2024 Summer Playoffs","Final","Nigma Galaxy Male","Geekay Esports","LLL","","dom","S"],["2026-02-26","Hellenic Legends League 2026 Winter Playoffs","Semifinal","Team Phantasma","Team Insidious","WWW","","dom","S"],["2026-02-28","Hellenic Legends League 2026 Winter Playoffs","Final","Team Phantasma","WLGaming Esports","WLLL","","dom","S"],["2026-05-19","TCL 2026 Spring Playoffs","Round 1","SU Esports","BoostGate Esports","LWWW","","dom","S"],["2026-05-22","TCL 2026 Spring Playoffs","Round 2","SU Esports","PCIFIC Esports","WLLL","","dom","S"],["2026-08-19","TCL 2026 Summer Split","Round 1","SU Esports","Dark Passage","WWLLW","","dom","S"],["2026-08-25","TCL 2026 Summer Split","Round 2","SU Esports","PCIFIC Esports","WWLW","","dom","S"],["2026-09-02","TCL 2026 Summer Split","Round 4","SU Esports","Bushido Wildcats","LWLWL","","dom","S"],["2026-09-03","TCL 2026 Summer Split","Round 4","SU Esports","PCIFIC Esports","LWLL","","dom","S"]],"unknown":[["2021-12-18","ELEAGUE Winter Cup 2021","Semifinal","Entropiq","Citrus Banán Ananas","3-1","","dom","S"],["2021-12-19","ELEAGUE Winter Cup 2021","Final","Entropiq","eSuba","2-3","","dom","S"]]}
+{
+  "player": "Rames",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2021-03-27","Turkey Academy League 2021 Winter Playoffs","Semifinal","Galatasaray Academy","Team AURORA Academy","LWLWL","","dom","S"],
+    ["2021-10-15","NLC 2022 Spring Qualifier","Round 4","Absolved","Vanir","WWW","","dom","S"],
+    ["2022-03-13","Hitpoint Masters 2022 Spring Playoffs","Round 1","Entropiq","eSuba","LWWW","","dom","S"],
+    ["2022-03-20","Hitpoint Masters 2022 Spring Playoffs","Final","Entropiq","eSuba","WWW","","dom","S"],
+    ["2022-06-04","Prague Champs 2022 Closed Qualifier","Closed Qualifier","Entropiq","Inaequalis","WWW","","dom","S"],
+    ["2022-06-18","Prague Champs 2022","Semifinal","Entropiq","eSuba","WLWW","","dom","S"],
+    ["2022-06-19","Prague Champs 2022","Final","Entropiq","Dynamo Eclot","WLWW","","dom","S"],
+    ["2022-06-28","ELEAGUE Summer Cup 2022","Quarterfinal","Entropiq","Esport STUBA","WWW","","dom","S"],
+    ["2022-06-29","ELEAGUE Summer Cup 2022","Semifinal","Entropiq","eSuba","WWLLW","","dom","S"],
+    ["2022-07-05","ELEAGUE Summer Cup 2022","Final","Entropiq","Dynamo Eclot","WLWLW","","dom","S"],
+    ["2022-08-07","Hitpoint Masters 2022 Summer Playoffs","Round 1","Entropiq","Dynamo Eclot","WWLW","","dom","S"],
+    ["2022-08-21","Hitpoint Masters 2022 Summer Playoffs","Final","Entropiq","eSuba","LWWLL","","dom","S"],
+    ["2023-09-11","TCL 2024 Promotion","Round 1","Galakticos","Beetle Juice","WLWW","","dom","S"],
+    ["2023-09-18","TCL 2024 Promotion","Round 2","Galakticos","Chasing Haze 07","WWW","","dom","S"],
+    ["2024-03-19","Greek Legends League 2024 Spring Playoffs","Round 1","Team Phantasma","Anorthosis Famagusta Esports","LWLL","","dom","S"],
+    ["2024-03-27","Greek Legends League 2024 Spring Playoffs","Semifinal","Team Phantasma","Gamespace Mediterranean College Esports","WWW","","dom","S"],
+    ["2024-04-12","Greek Legends League 2024 Spring Playoffs","Final","Team Phantasma","Anorthosis Famagusta Esports","LWWW","","dom","S"],
+    ["2024-07-09","Arabian League 2024 Summer Playoffs","Round 1","Nigma Galaxy Male","Geekay Esports","LLL","","dom","S"],
+    ["2024-07-11","Arabian League 2024 Summer Playoffs","Semifinal","Nigma Galaxy Male","Twisted Minds","WWW","","dom","S"],
+    ["2024-07-12","Arabian League 2024 Summer Playoffs","Final","Nigma Galaxy Male","Geekay Esports","LLL","","dom","S"],
+    ["2026-02-26","Hellenic Legends League 2026 Winter Playoffs","Semifinal","Team Phantasma","Team Insidious","WWW","","dom","S"],
+    ["2026-02-28","Hellenic Legends League 2026 Winter Playoffs","Final","Team Phantasma","WLGaming Esports","WLLL","","dom","S"],
+    ["2026-05-19","TCL 2026 Spring Playoffs","Round 1","SU Esports","BoostGate Esports","LWWW","","dom","S"],
+    ["2026-05-22","TCL 2026 Spring Playoffs","Round 2","SU Esports","PCIFIC Esports","WLLL","","dom","S"],
+    ["2026-08-19","TCL 2026 Summer Split","Round 1","SU Esports","Dark Passage","WWLLW","","dom","S"],
+    ["2026-08-25","TCL 2026 Summer Split","Round 2","SU Esports","PCIFIC Esports","WWLW","","dom","S"],
+    ["2026-09-02","TCL 2026 Summer Split","Round 4","SU Esports","Bushido Wildcats","LWLWL","","dom","S"],
+    ["2026-09-03","TCL 2026 Summer Split","Round 4","SU Esports","PCIFIC Esports","LWLL","","dom","S"]
+  ],
+  "unknown": [
+    ["2021-12-18","ELEAGUE Winter Cup 2021","Semifinal","Entropiq","Citrus Banán Ananas","3-1","","dom","S"],
+    ["2021-12-19","ELEAGUE Winter Cup 2021","Final","Entropiq","eSuba","2-3","","dom","S"]
+  ]
+}

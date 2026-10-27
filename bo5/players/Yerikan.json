@@ -1,1 +1,30 @@
-{"player":"Yerikan","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2021-04-07","Golden League 2021 Opening Playoffs","Round 3","Zeu5 Bogota","Once Caldas Esports","WWLW","","dom","S"],["2021-04-20","Golden League 2021 Opening Playoffs","Final","Zeu5 Bogota","Wygers Colombia","LWWW","","dom","S"],["2021-07-20","Golden League 2021 Closing Playoffs","Round 3","Zeu5 Bogota","TFK","WWW","","dom","S"],["2021-07-27","Golden League 2021 Closing Playoffs","Final","Zeu5 Bogota","Braves Rising","WWW","","dom","S"],["2021-11-02","Golden League 2021 Golden Cup","Round 1","Zeu5 Bogota","NOCTA","WWW","","dom","S"],["2021-11-16","Golden League 2021 Golden Cup","Semifinal","Zeu5 Bogota","Ramo Awake Gaming","WWW","","dom","S"],["2021-11-24","Golden League 2021 Golden Cup","Final","Zeu5 Bogota","TFK","WWW","","dom","S"],["2022-07-13","Golden League 2022 Closing Playoffs","Semifinal","Zeu5 Bogota","Ramo Awake Gaming","WLWW","","dom","S"],["2022-07-19","Golden League 2022 Closing Playoffs","Final","Zeu5 Bogota","Braves Rising","WLWLW","","dom","S"],["2022-08-06","Golden League 2022 Super Final","Grand Final","Zeu5 Bogota","Braves Rising","LLL","","dom","S"],["2023-03-05","División de Honor 2023 Opening Playoffs","Round 1","PÊEK Gaming","19esports","LWLL","","dom","S"],["2023-03-12","División de Honor 2023 Opening Playoffs","Round 1","PÊEK Gaming","Tomorrow Esports","LLWWW","","dom","S"],["2023-03-19","División de Honor 2023 Opening Playoffs","Round 2","PÊEK Gaming","Atheris Esports","WWW","","dom","S"],["2023-03-24","División de Honor 2023 Opening Playoffs","Round 3","PÊEK Gaming","19esports","LWLWW","","dom","S"],["2023-03-31","División de Honor 2023 Opening Playoffs","Grand Final","PÊEK Gaming","Zylant Esports","LWWLW","","dom","S"],["2023-07-18","Liga Regional Norte 2023 Closing Playoffs","Round 1","Saprissa Esports","Fuego","LWWW","","dom","S"],["2023-08-19","Liga Regional Norte 2023 Closing Playoffs","Grand Final","Saprissa Esports","Fuego","WLWW","","dom","S"],["2023-10-15","Duelo de Reyes 2023","LAN vs LAS","Saprissa Esports","PRIMATE","WWW","","dom","S"],["2024-10-12","Mystic League 2024 Season","Semifinal","Dark Project","Icon Esports (Mexican Team)","WWW","r","dom","S"],["2024-10-20","Mystic League 2024 Season","Final","Dark Project","Space Rabbit e-Sports","WWW","r","dom","S"],["2025-05-12","Liga Regional Norte 2025 Split 1 Playoffs","Round 1","PÊEK Gaming","Zeu5 Esports","LLL","","dom","S"],["2025-05-20","Liga Regional Norte 2025 Split 1 Playoffs","Round 1","PÊEK Gaming","Fuego","WLLL","","dom","S"]],"unknown":[]}
+{
+  "player": "Yerikan",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2021-04-07","Golden League 2021 Opening Playoffs","Round 3","Zeu5 Bogota","Once Caldas Esports","WWLW","","dom","S"],
+    ["2021-04-20","Golden League 2021 Opening Playoffs","Final","Zeu5 Bogota","Wygers Colombia","LWWW","","dom","S"],
+    ["2021-07-20","Golden League 2021 Closing Playoffs","Round 3","Zeu5 Bogota","TFK","WWW","","dom","S"],
+    ["2021-07-27","Golden League 2021 Closing Playoffs","Final","Zeu5 Bogota","Braves Rising","WWW","","dom","S"],
+    ["2021-11-02","Golden League 2021 Golden Cup","Round 1","Zeu5 Bogota","NOCTA","WWW","","dom","S"],
+    ["2021-11-16","Golden League 2021 Golden Cup","Semifinal","Zeu5 Bogota","Ramo Awake Gaming","WWW","","dom","S"],
+    ["2021-11-24","Golden League 2021 Golden Cup","Final","Zeu5 Bogota","TFK","WWW","","dom","S"],
+    ["2022-07-13","Golden League 2022 Closing Playoffs","Semifinal","Zeu5 Bogota","Ramo Awake Gaming","WLWW","","dom","S"],
+    ["2022-07-19","Golden League 2022 Closing Playoffs","Final","Zeu5 Bogota","Braves Rising","WLWLW","","dom","S"],
+    ["2022-08-06","Golden League 2022 Super Final","Grand Final","Zeu5 Bogota","Braves Rising","LLL","","dom","S"],
+    ["2023-03-05","División de Honor 2023 Opening Playoffs","Round 1","PÊEK Gaming","19esports","LWLL","","dom","S"],
+    ["2023-03-12","División de Honor 2023 Opening Playoffs","Round 1","PÊEK Gaming","Tomorrow Esports","LLWWW","","dom","S"],
+    ["2023-03-19","División de Honor 2023 Opening Playoffs","Round 2","PÊEK Gaming","Atheris Esports","WWW","","dom","S"],
+    ["2023-03-24","División de Honor 2023 Opening Playoffs","Round 3","PÊEK Gaming","19esports","LWLWW","","dom","S"],
+    ["2023-03-31","División de Honor 2023 Opening Playoffs","Grand Final","PÊEK Gaming","Zylant Esports","LWWLW","","dom","S"],
+    ["2023-07-18","Liga Regional Norte 2023 Closing Playoffs","Round 1","Saprissa Esports","Fuego","LWWW","","dom","S"],
+    ["2023-08-19","Liga Regional Norte 2023 Closing Playoffs","Grand Final","Saprissa Esports","Fuego","WLWW","","dom","S"],
+    ["2023-10-15","Duelo de Reyes 2023","LAN vs LAS","Saprissa Esports","PRIMATE","WWW","","dom","S"],
+    ["2024-10-12","Mystic League 2024 Season","Semifinal","Dark Project","Icon Esports (Mexican Team)","WWW","r","dom","S"],
+    ["2024-10-20","Mystic League 2024 Season","Final","Dark Project","Space Rabbit e-Sports","WWW","r","dom","S"],
+    ["2025-05-12","Liga Regional Norte 2025 Split 1 Playoffs","Round 1","PÊEK Gaming","Zeu5 Esports","LLL","","dom","S"],
+    ["2025-05-20","Liga Regional Norte 2025 Split 1 Playoffs","Round 1","PÊEK Gaming","Fuego","WLLL","","dom","S"]
+  ],
+  "unknown": []
+}

@@ -1,1 +1,28 @@
-{"player":"Camana","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2023-08-11","TCL Division 2 2023 Summer Playoffs","Round 1","Chasing Haze 07","Phoenix Esports (Turkish Team)","LWWW","","dom","S"],["2023-08-16","TCL Division 2 2023 Summer Playoffs","Round 2","Chasing Haze 07","Beetle Juice","WLLWW","","dom","S"],["2023-08-18","TCL Division 2 2023 Summer Playoffs","Semifinal","Chasing Haze 07","Looking for ORG (Turkish Team)","WLWLL","","dom","S"],["2023-09-12","TCL 2024 Promotion","Round 1","Chasing Haze 07","Looking for ORG (Turkish Team)","LWWW","","dom","S"],["2023-09-18","TCL 2024 Promotion","Round 2","Chasing Haze 07","Galakticos","LLL","","dom","S"],["2023-09-19","TCL 2024 Promotion","Round 2","Chasing Haze 07","Beetle Juice","LWLWW","","dom","S"],["2025-01-31","LIT 2025 Winter Split","Playoffs Round 1","Axolotl","Zena Esports","LWWW","","dom","S"],["2025-02-13","LIT 2025 Winter Split","Playoffs Round 2","Axolotl","EKO Esports","WWW","","dom","S"],["2025-02-14","LIT 2025 Winter Split","Playoffs Round 3","Axolotl","Underworld Esports","WWLLL","","dom","S"],["2025-12-07","GAMEON Revival 2025","Round 2","BASTON5","Last Wall","LLL","","dom","S"],["2026-03-03","LPLOL 2026 Winter Split","Semifinal","Otter Side","Crusaders","WWW","","dom","S"],["2026-03-06","LPLOL 2026 Winter Split","Final","Otter Side","Vantex Esports","LWWW","","dom","S"],["2026-05-28","LPLOL 2026 Spring Playoffs","Round 1","Otter Side","Crusaders","WWW","","dom","S"],["2026-06-03","LPLOL 2026 Spring Playoffs","Final","Otter Side","Bubliki","WWW","","dom","S"],["2026-08-18","TCL 2026 Summer Split","Round 1","Bushido Wildcats","Team Phoenix (Turkish Team)","WWW","","dom","S"],["2026-08-20","TCL 2026 Summer Split","Round 2","Bushido Wildcats","DIA Ozarox Esports","LWWW","","dom","S"],["2026-09-02","TCL 2026 Summer Split","Round 4","Bushido Wildcats","SU Esports","WLWLW","","dom","S"],["2026-09-11","TCL 2026 Summer Split","Final","Bushido Wildcats","PCIFIC Esports","WWW","","dom","S"],["2026-09-13","2026 World Star Challengers Invitational EMEA Qualifier","Elimination Match","Bushido Wildcats","Movistar KOI Fénix","LLL","","dom","S"],["2026-10-06","EMEA Masters 2026 Summer Main Event","Round of 16","Bushido Wildcats","TLN Pirates","LLL","","dom","S"]],"unknown":[]}
+{
+  "player": "Camana",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2023-08-11","TCL Division 2 2023 Summer Playoffs","Round 1","Chasing Haze 07","Phoenix Esports (Turkish Team)","LWWW","","dom","S"],
+    ["2023-08-16","TCL Division 2 2023 Summer Playoffs","Round 2","Chasing Haze 07","Beetle Juice","WLLWW","","dom","S"],
+    ["2023-08-18","TCL Division 2 2023 Summer Playoffs","Semifinal","Chasing Haze 07","Looking for ORG (Turkish Team)","WLWLL","","dom","S"],
+    ["2023-09-12","TCL 2024 Promotion","Round 1","Chasing Haze 07","Looking for ORG (Turkish Team)","LWWW","","dom","S"],
+    ["2023-09-18","TCL 2024 Promotion","Round 2","Chasing Haze 07","Galakticos","LLL","","dom","S"],
+    ["2023-09-19","TCL 2024 Promotion","Round 2","Chasing Haze 07","Beetle Juice","LWLWW","","dom","S"],
+    ["2025-01-31","LIT 2025 Winter Split","Playoffs Round 1","Axolotl","Zena Esports","LWWW","","dom","S"],
+    ["2025-02-13","LIT 2025 Winter Split","Playoffs Round 2","Axolotl","EKO Esports","WWW","","dom","S"],
+    ["2025-02-14","LIT 2025 Winter Split","Playoffs Round 3","Axolotl","Underworld Esports","WWLLL","","dom","S"],
+    ["2025-12-07","GAMEON Revival 2025","Round 2","BASTON5","Last Wall","LLL","","dom","S"],
+    ["2026-03-03","LPLOL 2026 Winter Split","Semifinal","Otter Side","Crusaders","WWW","","dom","S"],
+    ["2026-03-06","LPLOL 2026 Winter Split","Final","Otter Side","Vantex Esports","LWWW","","dom","S"],
+    ["2026-05-28","LPLOL 2026 Spring Playoffs","Round 1","Otter Side","Crusaders","WWW","","dom","S"],
+    ["2026-06-03","LPLOL 2026 Spring Playoffs","Final","Otter Side","Bubliki","WWW","","dom","S"],
+    ["2026-08-18","TCL 2026 Summer Split","Round 1","Bushido Wildcats","Team Phoenix (Turkish Team)","WWW","","dom","S"],
+    ["2026-08-20","TCL 2026 Summer Split","Round 2","Bushido Wildcats","DIA Ozarox Esports","LWWW","","dom","S"],
+    ["2026-09-02","TCL 2026 Summer Split","Round 4","Bushido Wildcats","SU Esports","WLWLW","","dom","S"],
+    ["2026-09-11","TCL 2026 Summer Split","Final","Bushido Wildcats","PCIFIC Esports","WWW","","dom","S"],
+    ["2026-09-13","2026 World Star Challengers Invitational EMEA Qualifier","Elimination Match","Bushido Wildcats","Movistar KOI Fénix","LLL","","dom","S"],
+    ["2026-10-06","EMEA Masters 2026 Summer Main Event","Round of 16","Bushido Wildcats","TLN Pirates","LLL","","dom","S"]
+  ],
+  "unknown": []
+}

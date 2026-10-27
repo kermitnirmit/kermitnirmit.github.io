@@ -1,1 +1,35 @@
-{"player":"STANIK","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2021-12-11","ELEAGUE Winter Cup 2021","Quarterfinal","Inside Games","Apples and Oranges","LLL","r","dom","S"],["2022-06-05","Prague Champs 2022 Closed Qualifier","Closed Qualifier","HEET","SINNERS Esports","LLL","","dom","S"],["2022-06-11","Hitpoint 2nd Division Challengers 2022 Summer Qualifiers","Round 1","Corax Gaming Club","Rulers Esports","WWW","","dom","S"],["2022-06-11","Hitpoint 2nd Division Challengers 2022 Summer Qualifiers","Round 2","Corax Gaming Club","IKISEQ Gaming","LLWL","","dom","S"],["2022-06-12","Hitpoint 2nd Division Challengers 2022 Summer Qualifiers","Round 2","Corax Gaming Club","Rulers Esports","LWWW","","dom","S"],["2024-07-19","Hitpoint Masters 2024 Summer Playoffs","Round 1","Dynamo Eclot","BRUTE","WWW","","dom","S"],["2024-08-03","Hitpoint Masters 2024 Summer Playoffs","Semifinal","Dynamo Eclot","Team UNiTY","LLL","","dom","S"],["2025-03-05","Hitpoint Winter 2025 Main Event","Quarterfinal","Nightbirds","Divernex","WWW","","dom","S"],["2025-03-08","Hitpoint Winter 2025 Main Event","Semifinal","Nightbirds","Entropiq","WWW","","dom","S"],["2025-03-09","Hitpoint Winter 2025 Main Event","Final","Nightbirds","eSuba","WWW","","dom","S"],["2025-05-14","Hitpoint Masters 2025 Spring Playoffs","Round 1","Nightbirds","Team UNiTY","WWW","","dom","S"],["2025-05-20","Hitpoint Masters 2025 Spring Playoffs","Round 3","Nightbirds","eSuba","WWLW","","dom","S"],["2025-05-30","Hitpoint Masters 2025 Spring Playoffs","Final","Nightbirds","eSuba","WLWW","","dom","S"],["2025-08-03","Sky Masters Season 3","Final","Nightbirds","CITA Kaizen","WLWLW","r","dom","S"],["2025-08-17","Hitpoint Masters 2025 Summer Playoffs","Round 1","Nightbirds","Tan'i eSports CZ","WLWW","","dom","S"],["2025-08-19","Hitpoint Masters 2025 Summer Playoffs","Round 3","Nightbirds","Entropiq","LLL","","dom","S"],["2025-08-29","Hitpoint Masters 2025 Summer Playoffs","Round 3","Nightbirds","eSuba","LLL","","dom","S"],["2025-09-24","EMEA Masters 2025 Summer LCQ","","Nightbirds","Vitality.Bee","WLLL","","dom","S"],["2025-10-25","TEC Season 4","Semifinal","Nightbirds","Team All In","LLWL","","dom","S"],["2025-11-30","RIFT SUMMIT 2025","Grand Final","Nightbirds","HELLA FUEGO","LLWL","","dom","S"],["2026-02-11","Hitpoint Winter 2026 Main Event","Round 1","BRUTE","SPAXFAMILY","LWWW","","dom","S"],["2026-02-15","Hitpoint Winter 2026 Main Event","Round 2","BRUTE","CITA Kaizen","WWW","","dom","S"],["2026-02-26","Hitpoint Winter 2026 Main Event","Round 4","BRUTE","Nightbirds","LLWL","","dom","S"],["2026-03-06","Hitpoint Winter 2026 Main Event","Round 4","BRUTE","CITA Kaizen","LWLWW","","dom","S"],["2026-03-07","Hitpoint Winter 2026 Main Event","Final","BRUTE","Nightbirds","LLL","","dom","S"],["2026-05-27","Esports Balkan League 2026 Spring Playoffs","Round 4","The Secret Club","Magaza Esports","LWLL","","dom","S"],["2026-09-15","Road Of Legends 2026 Summer Playoffs","Round 3","mCon esports","Senshi eSports (Benelux Team)","LLL","","dom","S"]],"unknown":[]}
+{
+  "player": "STANIK",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2021-12-11","ELEAGUE Winter Cup 2021","Quarterfinal","Inside Games","Apples and Oranges","LLL","r","dom","S"],
+    ["2022-06-05","Prague Champs 2022 Closed Qualifier","Closed Qualifier","HEET","SINNERS Esports","LLL","","dom","S"],
+    ["2022-06-11","Hitpoint 2nd Division Challengers 2022 Summer Qualifiers","Round 1","Corax Gaming Club","Rulers Esports","WWW","","dom","S"],
+    ["2022-06-11","Hitpoint 2nd Division Challengers 2022 Summer Qualifiers","Round 2","Corax Gaming Club","IKISEQ Gaming","LLWL","","dom","S"],
+    ["2022-06-12","Hitpoint 2nd Division Challengers 2022 Summer Qualifiers","Round 2","Corax Gaming Club","Rulers Esports","LWWW","","dom","S"],
+    ["2024-07-19","Hitpoint Masters 2024 Summer Playoffs","Round 1","Dynamo Eclot","BRUTE","WWW","","dom","S"],
+    ["2024-08-03","Hitpoint Masters 2024 Summer Playoffs","Semifinal","Dynamo Eclot","Team UNiTY","LLL","","dom","S"],
+    ["2025-03-05","Hitpoint Winter 2025 Main Event","Quarterfinal","Nightbirds","Divernex","WWW","","dom","S"],
+    ["2025-03-08","Hitpoint Winter 2025 Main Event","Semifinal","Nightbirds","Entropiq","WWW","","dom","S"],
+    ["2025-03-09","Hitpoint Winter 2025 Main Event","Final","Nightbirds","eSuba","WWW","","dom","S"],
+    ["2025-05-14","Hitpoint Masters 2025 Spring Playoffs","Round 1","Nightbirds","Team UNiTY","WWW","","dom","S"],
+    ["2025-05-20","Hitpoint Masters 2025 Spring Playoffs","Round 3","Nightbirds","eSuba","WWLW","","dom","S"],
+    ["2025-05-30","Hitpoint Masters 2025 Spring Playoffs","Final","Nightbirds","eSuba","WLWW","","dom","S"],
+    ["2025-08-03","Sky Masters Season 3","Final","Nightbirds","CITA Kaizen","WLWLW","r","dom","S"],
+    ["2025-08-17","Hitpoint Masters 2025 Summer Playoffs","Round 1","Nightbirds","Tan'i eSports CZ","WLWW","","dom","S"],
+    ["2025-08-19","Hitpoint Masters 2025 Summer Playoffs","Round 3","Nightbirds","Entropiq","LLL","","dom","S"],
+    ["2025-08-29","Hitpoint Masters 2025 Summer Playoffs","Round 3","Nightbirds","eSuba","LLL","","dom","S"],
+    ["2025-09-24","EMEA Masters 2025 Summer LCQ","","Nightbirds","Vitality.Bee","WLLL","","dom","S"],
+    ["2025-10-25","TEC Season 4","Semifinal","Nightbirds","Team All In","LLWL","","dom","S"],
+    ["2025-11-30","RIFT SUMMIT 2025","Grand Final","Nightbirds","HELLA FUEGO","LLWL","","dom","S"],
+    ["2026-02-11","Hitpoint Winter 2026 Main Event","Round 1","BRUTE","SPAXFAMILY","LWWW","","dom","S"],
+    ["2026-02-15","Hitpoint Winter 2026 Main Event","Round 2","BRUTE","CITA Kaizen","WWW","","dom","S"],
+    ["2026-02-26","Hitpoint Winter 2026 Main Event","Round 4","BRUTE","Nightbirds","LLWL","","dom","S"],
+    ["2026-03-06","Hitpoint Winter 2026 Main Event","Round 4","BRUTE","CITA Kaizen","LWLWW","","dom","S"],
+    ["2026-03-07","Hitpoint Winter 2026 Main Event","Final","BRUTE","Nightbirds","LLL","","dom","S"],
+    ["2026-05-27","Esports Balkan League 2026 Spring Playoffs","Round 4","The Secret Club","Magaza Esports","LWLL","","dom","S"],
+    ["2026-09-15","Road Of Legends 2026 Summer Playoffs","Round 3","mCon esports","Senshi eSports (Benelux Team)","LLL","","dom","S"]
+  ],
+  "unknown": []
+}

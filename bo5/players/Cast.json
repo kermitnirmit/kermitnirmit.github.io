@@ -1,1 +1,33 @@
-{"player":"Cast","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2023-04-06","NLC 2nd Division 2023 Spring Playoffs","Round 3","THUNDR Esports","Lundqvist Lightside","WWW","r","dom","S"],["2023-09-13","NLC 2024 Promotion","Round 2","UniQ Esports Club","Lundqvist Lightside","LLL","","dom","S"],["2023-09-18","NLC 2024 Promotion","Round 2","UniQ Esports Club","Venomcrest Esports","LWLWL","","dom","S"],["2023-10-16","Aurora Cup 2023 Main Event","Quarterfinal","Fourth Wall","Karolinerna","WWW","","dom","S"],["2023-11-01","Aurora Cup 2023 Main Event","Semifinal","Fourth Wall","Lazy In Life","LWWW","","dom","S"],["2023-11-08","Aurora Cup 2023 Main Event","Final","Fourth Wall","Verdant","LLL","","dom","S"],["2024-04-21","Svenska Onlineligan 2024 Season 8 Playoffs","Quarterfinal","Regem","Team CD","WWW","r","dom","S"],["2024-05-25","Svenska Onlineligan 2024 Season 8 Playoffs","Semifinal","Regem","Fritt Fall","LWWW","","dom","S"],["2024-05-26","Svenska Onlineligan 2024 Season 8 Playoffs","Final","Regem","Bloodline Esports","LLWWL","","dom","S"],["2024-10-16","NLC 2025 Last Chance Qualifier","Round 1","Fourth Wall","Lazy In Life","LWWW","","dom","S"],["2024-11-30","Svenska Onlineligan 2024 Season 9 Playoffs","Semifinal","Regem","B2U","WWW","","dom","S"],["2024-12-01","Svenska Onlineligan 2024 Season 9 Playoffs","Final","Regem","INT Esports","WWLW","","dom","S"],["2025-04-17","Svenska Onlineligan 2025 Spring Playoffs","Quarterfinal","Lund Esports Organization","Lodestar Esports","WWW","r","dom","S"],["2025-05-24","Svenska Onlineligan 2025 Spring Playoffs","Semifinal","Lund Esports Organization","Team CD","LLWL","","dom","S"],["2025-09-27","NLC 2025 RPS","Round 1","Lund Esports Organization","B2U","LWWW","","dom","S"],["2025-10-04","NLC 2025 RPS","Round 2","Lund Esports Organization","Fortress Esports","WWW","","dom","S"],["2025-10-05","NLC 2025 RPS","Round 3","Lund Esports Organization","KAOS e-sport","WWLW","","dom","S"],["2025-10-18","Svenska Onlineligan 2025 Autumn Playoffs","Semifinal","Lund Esports Organization","Asini","WWW","","dom","S"],["2025-10-19","Svenska Onlineligan 2025 Autumn Playoffs","Final","Lund Esports Organization","B2U","LLL","","dom","S"],["2026-08-29","4 Nations 2026 Summer Playoffs","Round 4","Absolved","Rich Gang UK","WWW","r","dom","S"]],"unknown":[["2022-12-18","Svenska Onlineligan 2022 Season 5 Playoffs","Final","Blade Edge","Karolinerna","3-1","","dom","S"],["2023-03-26","NLC 2nd Division 2023 Spring Playoffs","Round 1","THUNDR Esports","Venomcrest Esports","3-2","","dom","S"],["2023-04-16","NLC 2nd Division 2023 Spring Playoffs","Final","THUNDR Esports","Lundqvist Lightside","3-2","","dom","S"],["2026-09-12","4 Nations 2026 Summer Playoffs","Final","Absolved","Inari Esports (British Team)","3-2","","dom","S"]]}
+{
+  "player": "Cast",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2023-04-06","NLC 2nd Division 2023 Spring Playoffs","Round 3","THUNDR Esports","Lundqvist Lightside","WWW","r","dom","S"],
+    ["2023-09-13","NLC 2024 Promotion","Round 2","UniQ Esports Club","Lundqvist Lightside","LLL","","dom","S"],
+    ["2023-09-18","NLC 2024 Promotion","Round 2","UniQ Esports Club","Venomcrest Esports","LWLWL","","dom","S"],
+    ["2023-10-16","Aurora Cup 2023 Main Event","Quarterfinal","Fourth Wall","Karolinerna","WWW","","dom","S"],
+    ["2023-11-01","Aurora Cup 2023 Main Event","Semifinal","Fourth Wall","Lazy In Life","LWWW","","dom","S"],
+    ["2023-11-08","Aurora Cup 2023 Main Event","Final","Fourth Wall","Verdant","LLL","","dom","S"],
+    ["2024-04-21","Svenska Onlineligan 2024 Season 8 Playoffs","Quarterfinal","Regem","Team CD","WWW","r","dom","S"],
+    ["2024-05-25","Svenska Onlineligan 2024 Season 8 Playoffs","Semifinal","Regem","Fritt Fall","LWWW","","dom","S"],
+    ["2024-05-26","Svenska Onlineligan 2024 Season 8 Playoffs","Final","Regem","Bloodline Esports","LLWWL","","dom","S"],
+    ["2024-10-16","NLC 2025 Last Chance Qualifier","Round 1","Fourth Wall","Lazy In Life","LWWW","","dom","S"],
+    ["2024-11-30","Svenska Onlineligan 2024 Season 9 Playoffs","Semifinal","Regem","B2U","WWW","","dom","S"],
+    ["2024-12-01","Svenska Onlineligan 2024 Season 9 Playoffs","Final","Regem","INT Esports","WWLW","","dom","S"],
+    ["2025-04-17","Svenska Onlineligan 2025 Spring Playoffs","Quarterfinal","Lund Esports Organization","Lodestar Esports","WWW","r","dom","S"],
+    ["2025-05-24","Svenska Onlineligan 2025 Spring Playoffs","Semifinal","Lund Esports Organization","Team CD","LLWL","","dom","S"],
+    ["2025-09-27","NLC 2025 RPS","Round 1","Lund Esports Organization","B2U","LWWW","","dom","S"],
+    ["2025-10-04","NLC 2025 RPS","Round 2","Lund Esports Organization","Fortress Esports","WWW","","dom","S"],
+    ["2025-10-05","NLC 2025 RPS","Round 3","Lund Esports Organization","KAOS e-sport","WWLW","","dom","S"],
+    ["2025-10-18","Svenska Onlineligan 2025 Autumn Playoffs","Semifinal","Lund Esports Organization","Asini","WWW","","dom","S"],
+    ["2025-10-19","Svenska Onlineligan 2025 Autumn Playoffs","Final","Lund Esports Organization","B2U","LLL","","dom","S"],
+    ["2026-08-29","4 Nations 2026 Summer Playoffs","Round 4","Absolved","Rich Gang UK","WWW","r","dom","S"]
+  ],
+  "unknown": [
+    ["2022-12-18","Svenska Onlineligan 2022 Season 5 Playoffs","Final","Blade Edge","Karolinerna","3-1","","dom","S"],
+    ["2023-03-26","NLC 2nd Division 2023 Spring Playoffs","Round 1","THUNDR Esports","Venomcrest Esports","3-2","","dom","S"],
+    ["2023-04-16","NLC 2nd Division 2023 Spring Playoffs","Final","THUNDR Esports","Lundqvist Lightside","3-2","","dom","S"],
+    ["2026-09-12","4 Nations 2026 Summer Playoffs","Final","Absolved","Inari Esports (British Team)","3-2","","dom","S"]
+  ]
+}

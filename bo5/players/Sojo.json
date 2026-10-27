@@ -1,1 +1,33 @@
-{"player":"Sojo","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2024-03-14","Hitpoint 2nd Division Challengers 2024 Spring Playoffs","Round 1","Delta Syndicate","H3ARTS","WWW","","dom","S"],["2024-03-20","Hitpoint 2nd Division Challengers 2024 Spring Playoffs","Semifinal","Delta Syndicate","Maverix","LWLL","","dom","S"],["2024-07-11","Hitpoint 2nd Division Challengers 2024 Summer Playoffs","Round 1","Delta Syndicate","Maverix","WWW","","dom","S"],["2024-07-17","Hitpoint 2nd Division Challengers 2024 Summer Playoffs","Semifinal","Delta Syndicate","FLY5","WWW","","dom","S"],["2024-07-18","Hitpoint 2nd Division Challengers 2024 Summer Playoffs","Final","Delta Syndicate","EXILE esports","WWW","","dom","S"],["2024-07-24","Hitpoint Masters 2025 Promotion","Round 2","Delta Syndicate","eSuba","LWLL","","dom","S"],["2024-07-29","Hitpoint Masters 2025 Promotion","Round 2","Delta Syndicate","Maverix","LLL","","dom","S"],["2024-09-08","Z10 Scouting Grounds 1st Phase","Final","Team Vil","Team StealStrike","WWW","","dom","S"],["2024-09-21","Z10 Scouting Grounds Final Phase","Third-Place Match","Team Arthres","Team Vil","WWW","p","dom","S"],["2025-03-06","Hitpoint Winter 2025 Main Event","Quarterfinal","Dynamo Eclot","GLORE.FIFINE","WWLLL","","dom","S"],["2025-05-14","Hitpoint Masters 2025 Spring Playoffs","Round 1","Team UNiTY","Nightbirds","LLL","","dom","S"],["2025-05-15","Hitpoint Masters 2025 Spring Playoffs","Round 1","Team UNiTY","Tan'i eSports CZ","WLWLL","","dom","S"],["2025-07-07","Prime League 2nd Division 2025 Summer Playoffs","Round 1","TeamOrangeGaming Academy","Spongecord prime","WWW","","dom","S"],["2025-07-09","Prime League 2nd Division 2025 Summer Playoffs","Round 2","TeamOrangeGaming Academy","Könige der Meere","LLL","","dom","S"],["2025-07-14","Prime League 2nd Division 2025 Summer Playoffs","Round 2","TeamOrangeGaming Academy","A One Man Army Prime","LWLL","","dom","S"],["2025-08-23","Hitpoint Masters 2025 Summer Playoffs","Round 1","EXILE esports","eSuba","LLL","","dom","S"],["2025-11-18","Prime League 2nd Division 2026 Fall Playoffs","Decider","Reveal Multigaming","Footprint Gaming","LWWLL","","dom","S"],["2026-02-23","Prime League 2nd Division 2026 Winter Playoffs","Round 1","Reveal Multigaming","TeamOrangeGaming Academy","LWWLW","","dom","S"],["2026-03-01","Prime League 2nd Division 2026 Winter Playoffs","Round 2","Reveal Multigaming","MT1 Esports","LLL","","dom","S"],["2026-03-08","Prime League 2nd Division 2026 Winter Playoffs","Round 2","Reveal Multigaming","SixSeven","LLWWL","","dom","S"],["2026-07-28","Prime League 2nd Division 2026 Season Finals","Round 1","Reveal Multigaming","MT1 Esports","LWLL","","dom","S"],["2026-08-03","Prime League 2nd Division 2026 Season Finals","Round 2","Reveal Multigaming","Babos Gaming","WLLWW","","dom","S"],["2026-08-09","Prime League 2nd Division 2026 Season Finals","Round 3","Reveal Multigaming","MT1 Esports","WLLL","","dom","S"],["2026-09-18","LIT 2026 Summer Playoffs","Semifinal","Colossal Gaming","Team Aqua ASD","WWW","","dom","S"],["2026-09-19","LIT 2026 Summer Playoffs","Final","Colossal Gaming","HMBLE","LLL","","dom","S"]],"unknown":[]}
+{
+  "player": "Sojo",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2024-03-14","Hitpoint 2nd Division Challengers 2024 Spring Playoffs","Round 1","Delta Syndicate","H3ARTS","WWW","","dom","S"],
+    ["2024-03-20","Hitpoint 2nd Division Challengers 2024 Spring Playoffs","Semifinal","Delta Syndicate","Maverix","LWLL","","dom","S"],
+    ["2024-07-11","Hitpoint 2nd Division Challengers 2024 Summer Playoffs","Round 1","Delta Syndicate","Maverix","WWW","","dom","S"],
+    ["2024-07-17","Hitpoint 2nd Division Challengers 2024 Summer Playoffs","Semifinal","Delta Syndicate","FLY5","WWW","","dom","S"],
+    ["2024-07-18","Hitpoint 2nd Division Challengers 2024 Summer Playoffs","Final","Delta Syndicate","EXILE esports","WWW","","dom","S"],
+    ["2024-07-24","Hitpoint Masters 2025 Promotion","Round 2","Delta Syndicate","eSuba","LWLL","","dom","S"],
+    ["2024-07-29","Hitpoint Masters 2025 Promotion","Round 2","Delta Syndicate","Maverix","LLL","","dom","S"],
+    ["2024-09-08","Z10 Scouting Grounds 1st Phase","Final","Team Vil","Team StealStrike","WWW","","dom","S"],
+    ["2024-09-21","Z10 Scouting Grounds Final Phase","Third-Place Match","Team Arthres","Team Vil","WWW","p","dom","S"],
+    ["2025-03-06","Hitpoint Winter 2025 Main Event","Quarterfinal","Dynamo Eclot","GLORE.FIFINE","WWLLL","","dom","S"],
+    ["2025-05-14","Hitpoint Masters 2025 Spring Playoffs","Round 1","Team UNiTY","Nightbirds","LLL","","dom","S"],
+    ["2025-05-15","Hitpoint Masters 2025 Spring Playoffs","Round 1","Team UNiTY","Tan'i eSports CZ","WLWLL","","dom","S"],
+    ["2025-07-07","Prime League 2nd Division 2025 Summer Playoffs","Round 1","TeamOrangeGaming Academy","Spongecord prime","WWW","","dom","S"],
+    ["2025-07-09","Prime League 2nd Division 2025 Summer Playoffs","Round 2","TeamOrangeGaming Academy","Könige der Meere","LLL","","dom","S"],
+    ["2025-07-14","Prime League 2nd Division 2025 Summer Playoffs","Round 2","TeamOrangeGaming Academy","A One Man Army Prime","LWLL","","dom","S"],
+    ["2025-08-23","Hitpoint Masters 2025 Summer Playoffs","Round 1","EXILE esports","eSuba","LLL","","dom","S"],
+    ["2025-11-18","Prime League 2nd Division 2026 Fall Playoffs","Decider","Reveal Multigaming","Footprint Gaming","LWWLL","","dom","S"],
+    ["2026-02-23","Prime League 2nd Division 2026 Winter Playoffs","Round 1","Reveal Multigaming","TeamOrangeGaming Academy","LWWLW","","dom","S"],
+    ["2026-03-01","Prime League 2nd Division 2026 Winter Playoffs","Round 2","Reveal Multigaming","MT1 Esports","LLL","","dom","S"],
+    ["2026-03-08","Prime League 2nd Division 2026 Winter Playoffs","Round 2","Reveal Multigaming","SixSeven","LLWWL","","dom","S"],
+    ["2026-07-28","Prime League 2nd Division 2026 Season Finals","Round 1","Reveal Multigaming","MT1 Esports","LWLL","","dom","S"],
+    ["2026-08-03","Prime League 2nd Division 2026 Season Finals","Round 2","Reveal Multigaming","Babos Gaming","WLLWW","","dom","S"],
+    ["2026-08-09","Prime League 2nd Division 2026 Season Finals","Round 3","Reveal Multigaming","MT1 Esports","WLLL","","dom","S"],
+    ["2026-09-18","LIT 2026 Summer Playoffs","Semifinal","Colossal Gaming","Team Aqua ASD","WWW","","dom","S"],
+    ["2026-09-19","LIT 2026 Summer Playoffs","Final","Colossal Gaming","HMBLE","LLL","","dom","S"]
+  ],
+  "unknown": []
+}

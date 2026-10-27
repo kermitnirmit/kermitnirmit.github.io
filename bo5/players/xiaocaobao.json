@@ -1,1 +1,28 @@
-{"player":"xiaocaobao","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2021-05-11","LDL 2021 Spring Playoffs","Semifinal","Young Miracles","Shu Dai Xiong Gaming","WWW","","dom","S"],["2021-05-12","LDL 2021 Spring Playoffs","Final","Young Miracles","FunPlus Phoenix Blaze","WWLW","","dom","S"],["2022-04-12","LDL 2022 Spring Playoffs","Round 1","Ultra Prime Academy","MAX (Chinese Team)","LWLWW","","dom","S"],["2022-04-14","LDL 2022 Spring Playoffs","Round 2","Ultra Prime Academy","Team Pinnacle","WLWW","","dom","S"],["2022-04-16","LDL 2022 Spring Playoffs","Round 3","Ultra Prime Academy","V5 87","WLLWL","","dom","S"],["2022-04-17","LDL 2022 Spring Playoffs","Round 3","Ultra Prime Academy","FunPlus Phoenix Blaze","LWLWW","","dom","S"],["2022-04-18","LDL 2022 Spring Playoffs","Round 4","Ultra Prime Academy","V5 87","WWLLW","","dom","S"],["2022-04-20","LDL 2022 Spring Playoffs","Final","Ultra Prime Academy","Bilibili Gaming Junior","WLLL","","dom","S"],["2022-08-17","LDL 2022 Summer Playoffs","Round 2","Young Miracles","FunPlus Phoenix Blaze","LLL","","dom","S"],["2023-05-28","LDL 2023 Replacements 2","Replacements","MiaoJing","EDward Gaming Youth Team","WLWW","","dom","S"],["2023-07-28","LDL 2023 Grand Finals","Round 2","MiaoJing","Bilibili Gaming Junior","WWLW","","dom","S"],["2023-08-01","LDL 2023 Grand Finals","Round 3","MiaoJing","Royal Club","WWLW","","dom","S"],["2023-08-05","LDL 2023 Grand Finals","Round 4","MiaoJing","FunPlus Phoenix Blaze","WLWLW","","dom","S"],["2023-08-06","LDL 2023 Grand Finals","Round 5","MiaoJing","MAX (Chinese Team)","WLWLL","","dom","S"],["2023-08-09","LDL 2023 Grand Finals","Round 5","MiaoJing","Invictus Gaming Young","WWW","","dom","S"],["2023-08-13","LDL 2023 Grand Finals","Final","MiaoJing","MAX (Chinese Team)","WLLL","","dom","S"],["2023-09-10","Asia Star Challengers Invitational 2023","Quarterfinal","MiaoJing","MAX (Chinese Team)","LWLL","","dom","S"],["2024-05-28","Legend Cup Season 1","Upper Round 1","Omnipotence","Zeal Temperature","WWLW","","dom","S"],["2024-05-31","Legend Cup Season 1","Round 2","Omnipotence","Blood (Chinese Team)","WWW","","dom","S"],["2024-06-16","Legend Cup Season 1","Final","Omnipotence","Blood (Chinese Team)","LLWWL","","dom","S"]],"unknown":[]}
+{
+  "player": "xiaocaobao",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2021-05-11","LDL 2021 Spring Playoffs","Semifinal","Young Miracles","Shu Dai Xiong Gaming","WWW","","dom","S"],
+    ["2021-05-12","LDL 2021 Spring Playoffs","Final","Young Miracles","FunPlus Phoenix Blaze","WWLW","","dom","S"],
+    ["2022-04-12","LDL 2022 Spring Playoffs","Round 1","Ultra Prime Academy","MAX (Chinese Team)","LWLWW","","dom","S"],
+    ["2022-04-14","LDL 2022 Spring Playoffs","Round 2","Ultra Prime Academy","Team Pinnacle","WLWW","","dom","S"],
+    ["2022-04-16","LDL 2022 Spring Playoffs","Round 3","Ultra Prime Academy","V5 87","WLLWL","","dom","S"],
+    ["2022-04-17","LDL 2022 Spring Playoffs","Round 3","Ultra Prime Academy","FunPlus Phoenix Blaze","LWLWW","","dom","S"],
+    ["2022-04-18","LDL 2022 Spring Playoffs","Round 4","Ultra Prime Academy","V5 87","WWLLW","","dom","S"],
+    ["2022-04-20","LDL 2022 Spring Playoffs","Final","Ultra Prime Academy","Bilibili Gaming Junior","WLLL","","dom","S"],
+    ["2022-08-17","LDL 2022 Summer Playoffs","Round 2","Young Miracles","FunPlus Phoenix Blaze","LLL","","dom","S"],
+    ["2023-05-28","LDL 2023 Replacements 2","Replacements","MiaoJing","EDward Gaming Youth Team","WLWW","","dom","S"],
+    ["2023-07-28","LDL 2023 Grand Finals","Round 2","MiaoJing","Bilibili Gaming Junior","WWLW","","dom","S"],
+    ["2023-08-01","LDL 2023 Grand Finals","Round 3","MiaoJing","Royal Club","WWLW","","dom","S"],
+    ["2023-08-05","LDL 2023 Grand Finals","Round 4","MiaoJing","FunPlus Phoenix Blaze","WLWLW","","dom","S"],
+    ["2023-08-06","LDL 2023 Grand Finals","Round 5","MiaoJing","MAX (Chinese Team)","WLWLL","","dom","S"],
+    ["2023-08-09","LDL 2023 Grand Finals","Round 5","MiaoJing","Invictus Gaming Young","WWW","","dom","S"],
+    ["2023-08-13","LDL 2023 Grand Finals","Final","MiaoJing","MAX (Chinese Team)","WLLL","","dom","S"],
+    ["2023-09-10","Asia Star Challengers Invitational 2023","Quarterfinal","MiaoJing","MAX (Chinese Team)","LWLL","","dom","S"],
+    ["2024-05-28","Legend Cup Season 1","Upper Round 1","Omnipotence","Zeal Temperature","WWLW","","dom","S"],
+    ["2024-05-31","Legend Cup Season 1","Round 2","Omnipotence","Blood (Chinese Team)","WWW","","dom","S"],
+    ["2024-06-16","Legend Cup Season 1","Final","Omnipotence","Blood (Chinese Team)","LLWWL","","dom","S"]
+  ],
+  "unknown": []
+}

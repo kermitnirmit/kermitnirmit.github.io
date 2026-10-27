@@ -1,1 +1,28 @@
-{"player":"Ceviche","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2020-08-08","Guardians League 2020 Closing Playoffs","Round 3","Polaris Gaming","Instinct Gaming","LWWW","","dom","S"],["2020-08-15","Guardians League 2020 Closing Playoffs","Final","Polaris Gaming","G-Pride","LLL","","dom","S"],["2021-04-10","Claro Stars League 2021 Opening Playoffs","Round 3","Incubus","Polaris Gaming","LLWWW","p","dom","S"],["2021-04-23","Claro Stars League 2021 Opening Playoffs","Final","Incubus","Deliverance Esports Peru","WLLWW","","dom","S"],["2021-07-16","Claro Stars League 2021 Closing Playoffs","Round 3","Incubus","Instinct Gaming","WLWLW","","dom","S"],["2021-07-23","Claro Stars League 2021 Closing Playoffs","Final","Incubus","Polaris Gaming","WLLWW","","dom","S"],["2021-11-12","Claro Stars League 2021 Stars Cup","Round 1","Incubus","Deliverance Esports Peru","WWW","","dom","S"],["2021-11-20","Claro Stars League 2021 Stars Cup","Semifinal","Incubus","Spectacled Bears","WLLL","","dom","S"],["2022-03-25","Claro Stars League 2022 Opening Playoffs","Semifinal","Incubus","Instinct Gaming","LLWL","","dom","S"],["2022-03-26","Claro Stars League 2022 Opening Playoffs","Semifinal","Incubus","Diamond Doves","LWLL","","dom","S"],["2022-07-08","Claro Stars League 2022 Closing Playoffs","Semifinal","Incubus","Cienciano Esports","WWLW","","dom","S"],["2022-07-15","Claro Stars League 2022 Closing Playoffs","Final","Incubus","Cienciano Esports","WWW","","dom","S"],["2022-07-23","Claro Stars League 2022 Super Final","Grand Final","Incubus","Diamond Doves","WWW","","dom","S"],["2022-08-17","Regional Sur 2022 Season","Final","Incubus","Leviatan","WLWLW","","dom","S"],["2022-09-10","LLA 2023 Opening Promotion","Qualifiers","Incubus","XTEN Esports","LLL","","dom","P"],["2022-11-04","Claro Stars League 2022 Stars Cup","Round 1","Incubus","Diamond Doves","WWW","","dom","S"],["2022-11-18","Claro Stars League 2022 Stars Cup","Semifinal","Incubus","Spectacled Bears","WLWW","","dom","S"],["2022-11-26","Claro Stars League 2022 Stars Cup","Final","Incubus","Lightning Esports","WWW","","dom","S"],["2023-03-18","Claro Stars League 2023 Opening Playoffs","Round 4","Incubus","Spectacled Bears","WLWW","","dom","S"],["2023-03-31","Claro Stars League 2023 Opening Playoffs","Grand Final","Incubus","Spectacled Bears","LWLL","","dom","S"]],"unknown":[]}
+{
+  "player": "Ceviche",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2020-08-08","Guardians League 2020 Closing Playoffs","Round 3","Polaris Gaming","Instinct Gaming","LWWW","","dom","S"],
+    ["2020-08-15","Guardians League 2020 Closing Playoffs","Final","Polaris Gaming","G-Pride","LLL","","dom","S"],
+    ["2021-04-10","Claro Stars League 2021 Opening Playoffs","Round 3","Incubus","Polaris Gaming","LLWWW","p","dom","S"],
+    ["2021-04-23","Claro Stars League 2021 Opening Playoffs","Final","Incubus","Deliverance Esports Peru","WLLWW","","dom","S"],
+    ["2021-07-16","Claro Stars League 2021 Closing Playoffs","Round 3","Incubus","Instinct Gaming","WLWLW","","dom","S"],
+    ["2021-07-23","Claro Stars League 2021 Closing Playoffs","Final","Incubus","Polaris Gaming","WLLWW","","dom","S"],
+    ["2021-11-12","Claro Stars League 2021 Stars Cup","Round 1","Incubus","Deliverance Esports Peru","WWW","","dom","S"],
+    ["2021-11-20","Claro Stars League 2021 Stars Cup","Semifinal","Incubus","Spectacled Bears","WLLL","","dom","S"],
+    ["2022-03-25","Claro Stars League 2022 Opening Playoffs","Semifinal","Incubus","Instinct Gaming","LLWL","","dom","S"],
+    ["2022-03-26","Claro Stars League 2022 Opening Playoffs","Semifinal","Incubus","Diamond Doves","LWLL","","dom","S"],
+    ["2022-07-08","Claro Stars League 2022 Closing Playoffs","Semifinal","Incubus","Cienciano Esports","WWLW","","dom","S"],
+    ["2022-07-15","Claro Stars League 2022 Closing Playoffs","Final","Incubus","Cienciano Esports","WWW","","dom","S"],
+    ["2022-07-23","Claro Stars League 2022 Super Final","Grand Final","Incubus","Diamond Doves","WWW","","dom","S"],
+    ["2022-08-17","Regional Sur 2022 Season","Final","Incubus","Leviatan","WLWLW","","dom","S"],
+    ["2022-09-10","LLA 2023 Opening Promotion","Qualifiers","Incubus","XTEN Esports","LLL","","dom","P"],
+    ["2022-11-04","Claro Stars League 2022 Stars Cup","Round 1","Incubus","Diamond Doves","WWW","","dom","S"],
+    ["2022-11-18","Claro Stars League 2022 Stars Cup","Semifinal","Incubus","Spectacled Bears","WLWW","","dom","S"],
+    ["2022-11-26","Claro Stars League 2022 Stars Cup","Final","Incubus","Lightning Esports","WWW","","dom","S"],
+    ["2023-03-18","Claro Stars League 2023 Opening Playoffs","Round 4","Incubus","Spectacled Bears","WLWW","","dom","S"],
+    ["2023-03-31","Claro Stars League 2023 Opening Playoffs","Grand Final","Incubus","Spectacled Bears","LWLL","","dom","S"]
+  ],
+  "unknown": []
+}

@@ -1,1 +1,42 @@
-{"player":"Nafkelah","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2020-09-29","Greek Legends League 2020 Winter Qualifiers","Qualifier","Zerolag Esports","Different Dimension","WWW","r","dom","S"],["2020-11-30","Greek Legends League 2020 Winter Playoffs","Quarterfinal","Hive Athens EC","Gamespace Mediterranean College Esports","WWLW","","dom","S"],["2020-12-14","Greek Legends League 2020 Winter Playoffs","Semifinal","Hive Athens EC","Team Phantasma","LLWL","","dom","S"],["2020-12-16","Greek Legends League 2020 Winter Playoffs","Third-Place Match","Hive Athens EC","Team Refuse","WLWW","","dom","S"],["2021-06-17","Magyar Nemzeti E-sport Bajnokság Season 3 Playoffs","Final","Lenovo Legion Honvéd","KmK eSports","WWW","","dom","S"],["2021-08-03","Esports Balkan League Season 9 Playoffs","Semifinal","Valiance","Crvena zvezda Esports","WLLWL","","dom","S"],["2022-03-22","LFL Division 2 2022 Spring Playoffs","Round 1","Tony Parker Adéquat Academy","Team MCES","WLLL","","dom","S"],["2022-08-02","LFL Division 2 2022 Summer Playoffs","Round 1","Tony Parker Adéquat Academy","Joblife","WWLW","","dom","S"],["2022-08-09","LFL Division 2 2022 Summer Playoffs","Round 2","Tony Parker Adéquat Academy","PCS Taran","WWW","","dom","S"],["2022-08-15","LFL Division 2 2022 Summer Playoffs","Semifinal","Tony Parker Adéquat Academy","Team MCES","WWW","","dom","S"],["2022-08-16","LFL Division 2 2022 Summer Playoffs","Final","Tony Parker Adéquat Academy","IziDream","LLL","","dom","S"],["2022-10-19","Coupe de France 2022","Round 2","Tony Parker Adéquat Academy","Karmine Corp","LWWLL","","dom","S"],["2023-03-14","LVP SuperLiga 2023 Spring Playoffs","Round 1","Fnatic TQ","BISONS ECLUB","WWW","","dom","S"],["2023-03-21","LVP SuperLiga 2023 Spring Playoffs","Round 2","Fnatic TQ","Movistar Riders","LLL","","dom","S"],["2024-09-04","LFL 2025 Promotion","Round 1","Aegis (French Team)","Ici Japon Corp. Esport","WWW","","dom","S"],["2024-09-06","LFL 2025 Promotion","Round 2","Aegis (French Team)","Ici Japon Corp. Esport","LLWL","","dom","S"],["2024-09-18","Coupe de France 2024","Round 2","Aegis (French Team)","GameWard","LLWWL","","dom","S"],["2025-03-02","LFL Division 2 2025 Winter Playoffs","Round 1","Team Valiant","IziDream","WWLLL","","dom","S"],["2025-06-01","LFL Division 2 2025 Spring Playoffs","Round 1","Team Valiant","Zerance","WLLWW","","dom","S"],["2025-06-07","LFL Division 2 2025 Spring Playoffs","Round 2","Team Valiant","Project Conquerors","WLWW","","dom","S"],["2025-06-08","LFL Division 2 2025 Spring Playoffs","Final","Team Valiant","Esprit Shōnen","LWWW","","dom","S"],["2025-09-07","LFL Division 2 2025 Summer Playoffs","Round 1","Caldya Esport","Project Conquerors","LLL","","dom","S"],["2025-10-24","TEC Season 4","Semifinal","Team 10 Euro Deal","Team Axelent69","WLWLL","","dom","S"],["2025-12-07","A1 Gaming League 2025 Season","Final","win all","Magaza Esports","LLL","r","dom","S"],["2026-02-24","LFL 2026 Invitational","Round 1","Skillcamp","French Flair","LLL","","dom","S"],["2026-08-27","LFL 2026 Summer Playoffs","Round 3","Skillcamp","Karmine Corp Blue","LLL","","dom","S"],["2026-09-09","LFL 2027 Promotion","Round 1","Skillcamp","Caldya Esport","WWW","","dom","S"],["2026-09-15","LFL 2027 Promotion","Round 2","Skillcamp","Project Conquerors","WWW","","dom","S"],["2026-09-16","LFL 2027 Promotion","Final","Skillcamp","Esprit Shōnen","WWW","","dom","S"],["2026-10-07","EMEA Masters 2026 Summer Main Event","Round of 16","Skillcamp","Karmine Corp Blue","LLL","","dom","S"]],"unknown":[["2020-05-28","CBS League 2020 Playoffs","Round 1","Auxesis Green","Rejects Gaming","3-1","","dom","S"],["2020-05-28","CBS League 2020 Playoffs","Round 2","Auxesis Green","Better Jungler Wins","3-1","","dom","S"],["2020-05-29","CBS League 2020 Playoffs","Round 3","Auxesis Green","The Spawn Esports","2-3","","dom","S"]]}
+{
+  "player": "Nafkelah",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2020-09-29","Greek Legends League 2020 Winter Qualifiers","Qualifier","Zerolag Esports","Different Dimension","WWW","r","dom","S"],
+    ["2020-11-30","Greek Legends League 2020 Winter Playoffs","Quarterfinal","Hive Athens EC","Gamespace Mediterranean College Esports","WWLW","","dom","S"],
+    ["2020-12-14","Greek Legends League 2020 Winter Playoffs","Semifinal","Hive Athens EC","Team Phantasma","LLWL","","dom","S"],
+    ["2020-12-16","Greek Legends League 2020 Winter Playoffs","Third-Place Match","Hive Athens EC","Team Refuse","WLWW","","dom","S"],
+    ["2021-06-17","Magyar Nemzeti E-sport Bajnokság Season 3 Playoffs","Final","Lenovo Legion Honvéd","KmK eSports","WWW","","dom","S"],
+    ["2021-08-03","Esports Balkan League Season 9 Playoffs","Semifinal","Valiance","Crvena zvezda Esports","WLLWL","","dom","S"],
+    ["2022-03-22","LFL Division 2 2022 Spring Playoffs","Round 1","Tony Parker Adéquat Academy","Team MCES","WLLL","","dom","S"],
+    ["2022-08-02","LFL Division 2 2022 Summer Playoffs","Round 1","Tony Parker Adéquat Academy","Joblife","WWLW","","dom","S"],
+    ["2022-08-09","LFL Division 2 2022 Summer Playoffs","Round 2","Tony Parker Adéquat Academy","PCS Taran","WWW","","dom","S"],
+    ["2022-08-15","LFL Division 2 2022 Summer Playoffs","Semifinal","Tony Parker Adéquat Academy","Team MCES","WWW","","dom","S"],
+    ["2022-08-16","LFL Division 2 2022 Summer Playoffs","Final","Tony Parker Adéquat Academy","IziDream","LLL","","dom","S"],
+    ["2022-10-19","Coupe de France 2022","Round 2","Tony Parker Adéquat Academy","Karmine Corp","LWWLL","","dom","S"],
+    ["2023-03-14","LVP SuperLiga 2023 Spring Playoffs","Round 1","Fnatic TQ","BISONS ECLUB","WWW","","dom","S"],
+    ["2023-03-21","LVP SuperLiga 2023 Spring Playoffs","Round 2","Fnatic TQ","Movistar Riders","LLL","","dom","S"],
+    ["2024-09-04","LFL 2025 Promotion","Round 1","Aegis (French Team)","Ici Japon Corp. Esport","WWW","","dom","S"],
+    ["2024-09-06","LFL 2025 Promotion","Round 2","Aegis (French Team)","Ici Japon Corp. Esport","LLWL","","dom","S"],
+    ["2024-09-18","Coupe de France 2024","Round 2","Aegis (French Team)","GameWard","LLWWL","","dom","S"],
+    ["2025-03-02","LFL Division 2 2025 Winter Playoffs","Round 1","Team Valiant","IziDream","WWLLL","","dom","S"],
+    ["2025-06-01","LFL Division 2 2025 Spring Playoffs","Round 1","Team Valiant","Zerance","WLLWW","","dom","S"],
+    ["2025-06-07","LFL Division 2 2025 Spring Playoffs","Round 2","Team Valiant","Project Conquerors","WLWW","","dom","S"],
+    ["2025-06-08","LFL Division 2 2025 Spring Playoffs","Final","Team Valiant","Esprit Shōnen","LWWW","","dom","S"],
+    ["2025-09-07","LFL Division 2 2025 Summer Playoffs","Round 1","Caldya Esport","Project Conquerors","LLL","","dom","S"],
+    ["2025-10-24","TEC Season 4","Semifinal","Team 10 Euro Deal","Team Axelent69","WLWLL","","dom","S"],
+    ["2025-12-07","A1 Gaming League 2025 Season","Final","win all","Magaza Esports","LLL","r","dom","S"],
+    ["2026-02-24","LFL 2026 Invitational","Round 1","Skillcamp","French Flair","LLL","","dom","S"],
+    ["2026-08-27","LFL 2026 Summer Playoffs","Round 3","Skillcamp","Karmine Corp Blue","LLL","","dom","S"],
+    ["2026-09-09","LFL 2027 Promotion","Round 1","Skillcamp","Caldya Esport","WWW","","dom","S"],
+    ["2026-09-15","LFL 2027 Promotion","Round 2","Skillcamp","Project Conquerors","WWW","","dom","S"],
+    ["2026-09-16","LFL 2027 Promotion","Final","Skillcamp","Esprit Shōnen","WWW","","dom","S"],
+    ["2026-10-07","EMEA Masters 2026 Summer Main Event","Round of 16","Skillcamp","Karmine Corp Blue","LLL","","dom","S"]
+  ],
+  "unknown": [
+    ["2020-05-28","CBS League 2020 Playoffs","Round 1","Auxesis Green","Rejects Gaming","3-1","","dom","S"],
+    ["2020-05-28","CBS League 2020 Playoffs","Round 2","Auxesis Green","Better Jungler Wins","3-1","","dom","S"],
+    ["2020-05-29","CBS League 2020 Playoffs","Round 3","Auxesis Green","The Spawn Esports","2-3","","dom","S"]
+  ]
+}

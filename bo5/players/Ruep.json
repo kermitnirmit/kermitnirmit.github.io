@@ -1,1 +1,35 @@
-{"player":"Ruep","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2021-03-27","Turkey Academy League 2021 Winter Playoffs","Semifinal","Galatasaray Academy","Team AURORA Academy","LWLWL","","dom","S"],["2022-03-21","Turkey Academy League 2022 Winter Playoffs","Semifinal","Fenerbahçe Academy","Dark Passage Academy","WLWW","","dom","S"],["2022-03-23","Turkey Academy League 2022 Winter Playoffs","Final","Fenerbahçe Academy","SuperMassive Blaze Academy","WWLW","","dom","S"],["2023-07-25","TCL 2023 Summer Playoffs","Round 1","Eternal Fire","Dark Passage","LWWLW","","dom","S"],["2023-08-04","TCL 2023 Summer Playoffs","Round 2","Eternal Fire","FUT Esports","LLL","","dom","S"],["2024-03-19","TCL 2024 Winter Playoffs","Round 1","BoostGate Esports","Misa Esports","WWLW","","dom","S"],["2024-03-24","TCL 2024 Winter Playoffs","Round 2","BoostGate Esports","Dark Passage","WWLW","","dom","S"],["2024-03-26","TCL 2024 Winter Playoffs","Semifinal","BoostGate Esports","Papara SuperMassive","WLLL","","dom","S"],["2024-07-24","TCL 2024 Summer Playoffs","Round 1","Dark Passage","Beşiktaş Esports","LWWW","","dom","S"],["2024-07-29","TCL 2024 Summer Playoffs","Round 2","Dark Passage","FUT Esports","WLLWW","","dom","S"],["2024-07-30","TCL 2024 Summer Playoffs","Semifinal","Dark Passage","BoostGate Esports","LWWLW","","dom","S"],["2024-08-03","TCL 2024 Summer Playoffs","Final","Dark Passage","Papara SuperMassive","WWLLL","","dom","S"],["2024-08-15","EMEA Masters 2024 Summer Main Event","Round of 16","Dark Passage","Team GO","LLL","","dom","S"],["2025-03-04","TCL 2025 Winter Playoffs","Round 2","Eternal Fire","Papara SuperMassive","WWW","","dom","S"],["2025-03-09","TCL 2025 Winter Playoffs","Final","Eternal Fire","Papara SuperMassive","LWLWL","","dom","S"],["2025-08-30","TCL 2025 Summer Playoffs","Round 1","Beşiktaş Esports","BBL Dark Passage","WWW","","dom","S"],["2025-09-03","TCL 2025 Summer Playoffs","Round 2","Beşiktaş Esports","ULF Esports","WWLLL","","dom","S"],["2025-09-25","EMEA Masters 2025 Summer LCQ","","Beşiktaş Esports","Veni Vidi Vici (Spanish Team)","LLL","","dom","S"],["2026-05-21","TCL 2026 Spring Playoffs","Round 2","Misa Esports","Ozarox Esports","WWW","","dom","S"],["2026-06-05","TCL 2026 Spring Playoffs","Final","Misa Esports","PCIFIC Esports","WWW","","dom","S"],["2026-06-13","EMEA Masters 2026 Spring Main Event","Quarterfinal","Misa Esports","Galions","LLL","","dom","S"],["2026-08-18","TCL 2026 Summer Split","Round 1","Bushido Wildcats","Team Phoenix (Turkish Team)","WWW","","dom","S"],["2026-08-20","TCL 2026 Summer Split","Round 2","Bushido Wildcats","DIA Ozarox Esports","LWWW","","dom","S"],["2026-09-02","TCL 2026 Summer Split","Round 4","Bushido Wildcats","SU Esports","WLWLW","","dom","S"],["2026-09-11","TCL 2026 Summer Split","Final","Bushido Wildcats","PCIFIC Esports","WWW","","dom","S"],["2026-09-13","2026 World Star Challengers Invitational EMEA Qualifier","Elimination Match","Bushido Wildcats","Movistar KOI Fénix","LLL","","dom","S"],["2026-10-06","EMEA Masters 2026 Summer Main Event","Round of 16","Bushido Wildcats","TLN Pirates","LLL","","dom","S"]],"unknown":[]}
+{
+  "player": "Ruep",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2021-03-27","Turkey Academy League 2021 Winter Playoffs","Semifinal","Galatasaray Academy","Team AURORA Academy","LWLWL","","dom","S"],
+    ["2022-03-21","Turkey Academy League 2022 Winter Playoffs","Semifinal","Fenerbahçe Academy","Dark Passage Academy","WLWW","","dom","S"],
+    ["2022-03-23","Turkey Academy League 2022 Winter Playoffs","Final","Fenerbahçe Academy","SuperMassive Blaze Academy","WWLW","","dom","S"],
+    ["2023-07-25","TCL 2023 Summer Playoffs","Round 1","Eternal Fire","Dark Passage","LWWLW","","dom","S"],
+    ["2023-08-04","TCL 2023 Summer Playoffs","Round 2","Eternal Fire","FUT Esports","LLL","","dom","S"],
+    ["2024-03-19","TCL 2024 Winter Playoffs","Round 1","BoostGate Esports","Misa Esports","WWLW","","dom","S"],
+    ["2024-03-24","TCL 2024 Winter Playoffs","Round 2","BoostGate Esports","Dark Passage","WWLW","","dom","S"],
+    ["2024-03-26","TCL 2024 Winter Playoffs","Semifinal","BoostGate Esports","Papara SuperMassive","WLLL","","dom","S"],
+    ["2024-07-24","TCL 2024 Summer Playoffs","Round 1","Dark Passage","Beşiktaş Esports","LWWW","","dom","S"],
+    ["2024-07-29","TCL 2024 Summer Playoffs","Round 2","Dark Passage","FUT Esports","WLLWW","","dom","S"],
+    ["2024-07-30","TCL 2024 Summer Playoffs","Semifinal","Dark Passage","BoostGate Esports","LWWLW","","dom","S"],
+    ["2024-08-03","TCL 2024 Summer Playoffs","Final","Dark Passage","Papara SuperMassive","WWLLL","","dom","S"],
+    ["2024-08-15","EMEA Masters 2024 Summer Main Event","Round of 16","Dark Passage","Team GO","LLL","","dom","S"],
+    ["2025-03-04","TCL 2025 Winter Playoffs","Round 2","Eternal Fire","Papara SuperMassive","WWW","","dom","S"],
+    ["2025-03-09","TCL 2025 Winter Playoffs","Final","Eternal Fire","Papara SuperMassive","LWLWL","","dom","S"],
+    ["2025-08-30","TCL 2025 Summer Playoffs","Round 1","Beşiktaş Esports","BBL Dark Passage","WWW","","dom","S"],
+    ["2025-09-03","TCL 2025 Summer Playoffs","Round 2","Beşiktaş Esports","ULF Esports","WWLLL","","dom","S"],
+    ["2025-09-25","EMEA Masters 2025 Summer LCQ","","Beşiktaş Esports","Veni Vidi Vici (Spanish Team)","LLL","","dom","S"],
+    ["2026-05-21","TCL 2026 Spring Playoffs","Round 2","Misa Esports","Ozarox Esports","WWW","","dom","S"],
+    ["2026-06-05","TCL 2026 Spring Playoffs","Final","Misa Esports","PCIFIC Esports","WWW","","dom","S"],
+    ["2026-06-13","EMEA Masters 2026 Spring Main Event","Quarterfinal","Misa Esports","Galions","LLL","","dom","S"],
+    ["2026-08-18","TCL 2026 Summer Split","Round 1","Bushido Wildcats","Team Phoenix (Turkish Team)","WWW","","dom","S"],
+    ["2026-08-20","TCL 2026 Summer Split","Round 2","Bushido Wildcats","DIA Ozarox Esports","LWWW","","dom","S"],
+    ["2026-09-02","TCL 2026 Summer Split","Round 4","Bushido Wildcats","SU Esports","WLWLW","","dom","S"],
+    ["2026-09-11","TCL 2026 Summer Split","Final","Bushido Wildcats","PCIFIC Esports","WWW","","dom","S"],
+    ["2026-09-13","2026 World Star Challengers Invitational EMEA Qualifier","Elimination Match","Bushido Wildcats","Movistar KOI Fénix","LLL","","dom","S"],
+    ["2026-10-06","EMEA Masters 2026 Summer Main Event","Round of 16","Bushido Wildcats","TLN Pirates","LLL","","dom","S"]
+  ],
+  "unknown": []
+}

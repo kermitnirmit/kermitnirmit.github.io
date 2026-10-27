@@ -1,1 +1,32 @@
-{"player":"Winsome","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2021-11-13","LCK Academy Series 2021 2nd Championship","Semifinal","Shadow Battlica","T1 Rookies","WLWW","","dom","S"],["2021-11-14","LCK Academy Series 2021 2nd Championship","Final","Shadow Battlica","Shadow EK","LWWLL","","dom","S"],["2022-04-02","LCS 2022 Spring Playoffs","Round 1","Cloud9","100 Thieves","LLL","","dom","P"],["2022-04-08","LCS Proving Grounds 2022 Spring","Round 4","Cloud9 Academy","100 Thieves Academy","LWLL","","dom","S"],["2022-05-24","Liiv Mobile Academy Open Scream Playoffs","Semifinal","Shadow Corp","Hanwha Life Esports Academy","WWW","r","dom","S"],["2022-05-25","Liiv Mobile Academy Open Scream Playoffs","Final","Shadow Corp","Liiv SANDBOX Academy 2Team","WWW","r","dom","S"],["2022-08-07","Prime League 1st Division 2022 Summer Playoffs","Round 2","Unicorns of Love Sexy Edition","SK Gaming Prime","WWW","","dom","S"],["2022-08-20","Prime League 1st Division 2022 Summer Playoffs","Final","Unicorns of Love Sexy Edition","FC Schalke 04 Esports","WWLW","","dom","S"],["2022-09-18","European Masters 2022 Summer Main Event","Quarterfinal","Unicorns of Love Sexy Edition","Team Heretics","LWLWL","","dom","S"],["2023-03-21","North American Challengers League 2023 Spring Playoffs","Round 4","FlyQuest Challengers","Cincinnati Fear","LWLWL","","dom","S"],["2023-04-08","LCS 2023 Spring Playoffs","Round 3","FlyQuest","Golden Guardians","WLWLL","","dom","P"],["2023-07-31","North American Challengers League 2023 Summer Playoffs","Round 3","FlyQuest Challengers","Evil Geniuses Challengers","LLWL","","dom","S"],["2024-08-30","North American Challengers League 2024 Summer Playoffs","Semifinal","Fear x Starforge","Dragonsteel","LWLL","","dom","S"],["2024-09-02","North American Challengers League 2024 Summer Playoffs","Semifinal","Fear x Starforge","FlyQuest NZXT","WLLWW","","dom","S"],["2024-09-08","North American Challengers League 2024 Summer Playoffs","Final","Fear x Starforge","Dragonsteel","LLL","","dom","S"],["2024-09-20","Americas Challengers 2024","Round 2","Fear x Starforge","Fuego","WWLW","","dom","S"],["2024-09-21","Americas Challengers 2024","Final","Fear x Starforge","paiN Gaming Academy","LWLWL","","dom","S"],["2025-08-25","Liga Regional Norte 2025 Split 2 Playoffs","Round 4","Estral Esports","SDM Tigres","LWWLL","","dom","S"],["2025-08-31","Liga Regional Norte 2025 Split 2 Playoffs","Round 4","Estral Esports","Fuego","WWW","","dom","S"],["2025-09-08","Liga Regional Norte 2025 Split 2 Playoffs","Final","Estral Esports","SDM Tigres","LLL","","dom","S"],["2025-10-04","LTA North 2026 Promotion","Play-In","Estral Esports","Conviction","LWWLW","","dom","P"],["2025-10-07","LTA North 2026 Promotion","Round 1","Estral Esports","Disguised","LWLL","","dom","P"],["2025-10-09","LTA North 2026 Promotion","Round 1","Estral Esports","SDM Tigres","WWW","","dom","P"],["2025-10-10","LTA North 2026 Promotion","Round 2","Estral Esports","Luminosity Gaming","LLL","","dom","P"]],"unknown":[]}
+{
+  "player": "Winsome",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2021-11-13","LCK Academy Series 2021 2nd Championship","Semifinal","Shadow Battlica","T1 Rookies","WLWW","","dom","S"],
+    ["2021-11-14","LCK Academy Series 2021 2nd Championship","Final","Shadow Battlica","Shadow EK","LWWLL","","dom","S"],
+    ["2022-04-02","LCS 2022 Spring Playoffs","Round 1","Cloud9","100 Thieves","LLL","","dom","P"],
+    ["2022-04-08","LCS Proving Grounds 2022 Spring","Round 4","Cloud9 Academy","100 Thieves Academy","LWLL","","dom","S"],
+    ["2022-05-24","Liiv Mobile Academy Open Scream Playoffs","Semifinal","Shadow Corp","Hanwha Life Esports Academy","WWW","r","dom","S"],
+    ["2022-05-25","Liiv Mobile Academy Open Scream Playoffs","Final","Shadow Corp","Liiv SANDBOX Academy 2Team","WWW","r","dom","S"],
+    ["2022-08-07","Prime League 1st Division 2022 Summer Playoffs","Round 2","Unicorns of Love Sexy Edition","SK Gaming Prime","WWW","","dom","S"],
+    ["2022-08-20","Prime League 1st Division 2022 Summer Playoffs","Final","Unicorns of Love Sexy Edition","FC Schalke 04 Esports","WWLW","","dom","S"],
+    ["2022-09-18","European Masters 2022 Summer Main Event","Quarterfinal","Unicorns of Love Sexy Edition","Team Heretics","LWLWL","","dom","S"],
+    ["2023-03-21","North American Challengers League 2023 Spring Playoffs","Round 4","FlyQuest Challengers","Cincinnati Fear","LWLWL","","dom","S"],
+    ["2023-04-08","LCS 2023 Spring Playoffs","Round 3","FlyQuest","Golden Guardians","WLWLL","","dom","P"],
+    ["2023-07-31","North American Challengers League 2023 Summer Playoffs","Round 3","FlyQuest Challengers","Evil Geniuses Challengers","LLWL","","dom","S"],
+    ["2024-08-30","North American Challengers League 2024 Summer Playoffs","Semifinal","Fear x Starforge","Dragonsteel","LWLL","","dom","S"],
+    ["2024-09-02","North American Challengers League 2024 Summer Playoffs","Semifinal","Fear x Starforge","FlyQuest NZXT","WLLWW","","dom","S"],
+    ["2024-09-08","North American Challengers League 2024 Summer Playoffs","Final","Fear x Starforge","Dragonsteel","LLL","","dom","S"],
+    ["2024-09-20","Americas Challengers 2024","Round 2","Fear x Starforge","Fuego","WWLW","","dom","S"],
+    ["2024-09-21","Americas Challengers 2024","Final","Fear x Starforge","paiN Gaming Academy","LWLWL","","dom","S"],
+    ["2025-08-25","Liga Regional Norte 2025 Split 2 Playoffs","Round 4","Estral Esports","SDM Tigres","LWWLL","","dom","S"],
+    ["2025-08-31","Liga Regional Norte 2025 Split 2 Playoffs","Round 4","Estral Esports","Fuego","WWW","","dom","S"],
+    ["2025-09-08","Liga Regional Norte 2025 Split 2 Playoffs","Final","Estral Esports","SDM Tigres","LLL","","dom","S"],
+    ["2025-10-04","LTA North 2026 Promotion","Play-In","Estral Esports","Conviction","LWWLW","","dom","P"],
+    ["2025-10-07","LTA North 2026 Promotion","Round 1","Estral Esports","Disguised","LWLL","","dom","P"],
+    ["2025-10-09","LTA North 2026 Promotion","Round 1","Estral Esports","SDM Tigres","WWW","","dom","P"],
+    ["2025-10-10","LTA North 2026 Promotion","Round 2","Estral Esports","Luminosity Gaming","LLL","","dom","P"]
+  ],
+  "unknown": []
+}

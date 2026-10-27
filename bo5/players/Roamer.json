@@ -1,1 +1,28 @@
-{"player":"Roamer","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2023-03-21","LCK CL 2023 Spring Playoffs","Round 1","Hanwha Life Esports Challengers","T1 Challengers","LLL","","dom","S"],["2023-08-07","LCK CL 2023 Summer Playoffs","Round 1","Hanwha Life Esports Challengers","Gen.G Global Academy","WWW","","dom","S"],["2023-08-14","LCK CL 2023 Summer Playoffs","Round 2","Hanwha Life Esports Challengers","Dplus Kia Challengers","WWLLL","","dom","S"],["2023-08-18","LCK CL 2023 Summer Playoffs","Round 2","Hanwha Life Esports Challengers","DRX Challengers","LLL","","dom","S"],["2024-03-23","North American Challengers League 2024 Spring Playoffs","Round 4","Team Liquid Challengers","FlyQuest Challengers","LWLL","","dom","S"],["2024-03-24","North American Challengers League 2024 Spring Playoffs","Round 4","Team Liquid Challengers","Maryville University","LLL","","dom","S"],["2024-08-25","North American Challengers League 2024 Summer Playoffs","Round 1","Team Liquid Challengers","Disguised","WWLLL","","dom","S"],["2025-05-24","LTA South 2025 Split 2 Playoffs","Round 1","paiN Gaming","LOUD","WLWW","","dom","P"],["2025-06-08","LTA South 2025 Split 2 Playoffs","Round 2","paiN Gaming","FURIA","LWWW","","dom","P"],["2025-06-15","LTA South 2025 Split 2 Playoffs","Final","paiN Gaming","FURIA","LLL","","dom","P"],["2025-08-17","LTA South 2025 Split 3","Round 2","paiN Gaming","RED Canids","WLWW","","dom","P"],["2025-08-31","LTA South 2025 Split 3","Round 4","paiN Gaming","Vivo Keyd Stars","WLLL","","dom","P"],["2025-09-06","LTA South 2025 Split 3","Round 4","paiN Gaming","RED Canids","LLL","","dom","P"],["2025-09-13","LTA 2025 Regional Championship","Round 1","paiN Gaming","100 Thieves","LLL","","dom","P"],["2026-01-28","LCK 2026 Cup","","BRION","DRX","LWWLL","","dom","P"],["2026-06-06","LCK 2026 Road to MSI","Round 1","HANJIN BRION","Dplus Kia","LLL","p","dom","P"],["2026-08-26","LCK 2026 Season Play-In","Round 1","HANJIN BRION","KT Rolster","LWWLL","","dom","P"],["2026-08-28","LCK 2026 Season Play-In","Round 2","HANJIN BRION","BNK FEARX","LWWLL","","dom","P"],["2026-10-13","Demacia Cup Global Invitational 2026","Quarterfinal","HANJIN BRION","LGD Gaming","LWWW","","dom","S"],["2026-10-15","Demacia Cup Global Invitational 2026","Semifinal","HANJIN BRION","Team WE","LLWWL","","dom","S"]],"unknown":[]}
+{
+  "player": "Roamer",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2023-03-21","LCK CL 2023 Spring Playoffs","Round 1","Hanwha Life Esports Challengers","T1 Challengers","LLL","","dom","S"],
+    ["2023-08-07","LCK CL 2023 Summer Playoffs","Round 1","Hanwha Life Esports Challengers","Gen.G Global Academy","WWW","","dom","S"],
+    ["2023-08-14","LCK CL 2023 Summer Playoffs","Round 2","Hanwha Life Esports Challengers","Dplus Kia Challengers","WWLLL","","dom","S"],
+    ["2023-08-18","LCK CL 2023 Summer Playoffs","Round 2","Hanwha Life Esports Challengers","DRX Challengers","LLL","","dom","S"],
+    ["2024-03-23","North American Challengers League 2024 Spring Playoffs","Round 4","Team Liquid Challengers","FlyQuest Challengers","LWLL","","dom","S"],
+    ["2024-03-24","North American Challengers League 2024 Spring Playoffs","Round 4","Team Liquid Challengers","Maryville University","LLL","","dom","S"],
+    ["2024-08-25","North American Challengers League 2024 Summer Playoffs","Round 1","Team Liquid Challengers","Disguised","WWLLL","","dom","S"],
+    ["2025-05-24","LTA South 2025 Split 2 Playoffs","Round 1","paiN Gaming","LOUD","WLWW","","dom","P"],
+    ["2025-06-08","LTA South 2025 Split 2 Playoffs","Round 2","paiN Gaming","FURIA","LWWW","","dom","P"],
+    ["2025-06-15","LTA South 2025 Split 2 Playoffs","Final","paiN Gaming","FURIA","LLL","","dom","P"],
+    ["2025-08-17","LTA South 2025 Split 3","Round 2","paiN Gaming","RED Canids","WLWW","","dom","P"],
+    ["2025-08-31","LTA South 2025 Split 3","Round 4","paiN Gaming","Vivo Keyd Stars","WLLL","","dom","P"],
+    ["2025-09-06","LTA South 2025 Split 3","Round 4","paiN Gaming","RED Canids","LLL","","dom","P"],
+    ["2025-09-13","LTA 2025 Regional Championship","Round 1","paiN Gaming","100 Thieves","LLL","","dom","P"],
+    ["2026-01-28","LCK 2026 Cup","","BRION","DRX","LWWLL","","dom","P"],
+    ["2026-06-06","LCK 2026 Road to MSI","Round 1","HANJIN BRION","Dplus Kia","LLL","p","dom","P"],
+    ["2026-08-26","LCK 2026 Season Play-In","Round 1","HANJIN BRION","KT Rolster","LWWLL","","dom","P"],
+    ["2026-08-28","LCK 2026 Season Play-In","Round 2","HANJIN BRION","BNK FEARX","LWWLL","","dom","P"],
+    ["2026-10-13","Demacia Cup Global Invitational 2026","Quarterfinal","HANJIN BRION","LGD Gaming","LWWW","","dom","S"],
+    ["2026-10-15","Demacia Cup Global Invitational 2026","Semifinal","HANJIN BRION","Team WE","LLWWL","","dom","S"]
+  ],
+  "unknown": []
+}

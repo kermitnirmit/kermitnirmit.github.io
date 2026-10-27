@@ -1,1 +1,34 @@
-{"player":"Route","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2018-08-14","TCS 2018 Summer Playoffs","Semifinal","Galakticos","Pars eSports","LWLL","","dom","S"],["2019-04-18","LCK 2019 Summer Promotion","Qualifying Round","Jin Air Green Wings","KT Rolster","LLL","","dom","P"],["2019-04-21","LCK 2019 Summer Promotion","Qualifying Round","Jin Air Green Wings","ES Sharks","WWLW","","dom","P"],["2019-09-10","LCK 2020 Spring Promotion","Qualifying Round","Jin Air Green Wings","APK Prince","WLLL","","dom","P"],["2019-09-11","LCK 2020 Spring Promotion","Qualifying Round","Jin Air Green Wings","Hanwha Life Esports","LLL","","dom","P"],["2020-01-03","LoL KeSPA Cup 2019","Semifinal","SANDBOX Gaming","T1","WWLW","p","dom","P"],["2020-01-05","LoL KeSPA Cup 2019","Final","SANDBOX Gaming","Afreeca Freecs","LLL","p","dom","P"],["2020-04-30","LCK 2020 Summer Promotion","Qualifying Round","SANDBOX Gaming","Seorabeol Gaming","WWW","","dom","P"],["2023-03-26","CBLOL 2023 Split 1 Playoffs","Round 1","LOUD","Los Grandes","WLWW","","dom","P"],["2023-04-02","CBLOL 2023 Split 1 Playoffs","Semifinal","LOUD","paiN Gaming","LWWW","","dom","P"],["2023-04-15","CBLOL 2023 Split 1 Playoffs","Final","LOUD","paiN Gaming","WWW","","dom","P"],["2023-08-13","CBLOL 2023 Split 2 Playoffs","Round 1","LOUD","RED Canids","LWWW","","dom","P"],["2023-08-20","CBLOL 2023 Split 2 Playoffs","Semifinal","LOUD","paiN Gaming","WWW","","dom","P"],["2023-09-09","CBLOL 2023 Split 2 Playoffs","Final","LOUD","paiN Gaming","WWLW","","dom","P"],["2024-03-31","CBLOL 2024 Split 1 Playoffs","Round 2","LOUD","RED Canids","WWW","","dom","P"],["2024-04-07","CBLOL 2024 Split 1 Playoffs","Round 4","LOUD","paiN Gaming","WLWW","","dom","P"],["2024-04-20","CBLOL 2024 Split 1 Playoffs","Final","LOUD","paiN Gaming","WLLWW","","dom","P"],["2024-08-03","CBLOL 2024 Split 2 Playoffs","Round 1","LOUD","FURIA","LLWWW","","dom","P"],["2024-08-10","CBLOL 2024 Split 2 Playoffs","Round 2","LOUD","paiN Gaming","LLL","","dom","P"],["2024-08-17","CBLOL 2024 Split 2 Playoffs","Round 2","LOUD","FURIA","WWLLW","","dom","P"],["2024-08-23","CBLOL 2024 Split 2 Playoffs","Round 3","LOUD","RED Canids","LLL","","dom","P"],["2025-05-24","LTA South 2025 Split 2 Playoffs","Round 1","LOUD","paiN Gaming","LWLL","","dom","P"],["2025-05-31","LTA South 2025 Split 2 Playoffs","Round 1","LOUD","Isurus Estral","LWLL","","dom","P"],["2025-08-23","LTA South 2025 Split 3","Round 1","LOUD","Fluxo W7M","WWW","","dom","P"],["2025-08-30","LTA South 2025 Split 3","Round 2","LOUD","FURIA","WWW","","dom","P"],["2025-09-05","LTA South 2025 Split 3","Round 3","LOUD","RED Canids","WLWLL","","dom","P"]],"unknown":[]}
+{
+  "player": "Route",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2018-08-14","TCS 2018 Summer Playoffs","Semifinal","Galakticos","Pars eSports","LWLL","","dom","S"],
+    ["2019-04-18","LCK 2019 Summer Promotion","Qualifying Round","Jin Air Green Wings","KT Rolster","LLL","","dom","P"],
+    ["2019-04-21","LCK 2019 Summer Promotion","Qualifying Round","Jin Air Green Wings","ES Sharks","WWLW","","dom","P"],
+    ["2019-09-10","LCK 2020 Spring Promotion","Qualifying Round","Jin Air Green Wings","APK Prince","WLLL","","dom","P"],
+    ["2019-09-11","LCK 2020 Spring Promotion","Qualifying Round","Jin Air Green Wings","Hanwha Life Esports","LLL","","dom","P"],
+    ["2020-01-03","LoL KeSPA Cup 2019","Semifinal","SANDBOX Gaming","T1","WWLW","p","dom","P"],
+    ["2020-01-05","LoL KeSPA Cup 2019","Final","SANDBOX Gaming","Afreeca Freecs","LLL","p","dom","P"],
+    ["2020-04-30","LCK 2020 Summer Promotion","Qualifying Round","SANDBOX Gaming","Seorabeol Gaming","WWW","","dom","P"],
+    ["2023-03-26","CBLOL 2023 Split 1 Playoffs","Round 1","LOUD","Los Grandes","WLWW","","dom","P"],
+    ["2023-04-02","CBLOL 2023 Split 1 Playoffs","Semifinal","LOUD","paiN Gaming","LWWW","","dom","P"],
+    ["2023-04-15","CBLOL 2023 Split 1 Playoffs","Final","LOUD","paiN Gaming","WWW","","dom","P"],
+    ["2023-08-13","CBLOL 2023 Split 2 Playoffs","Round 1","LOUD","RED Canids","LWWW","","dom","P"],
+    ["2023-08-20","CBLOL 2023 Split 2 Playoffs","Semifinal","LOUD","paiN Gaming","WWW","","dom","P"],
+    ["2023-09-09","CBLOL 2023 Split 2 Playoffs","Final","LOUD","paiN Gaming","WWLW","","dom","P"],
+    ["2024-03-31","CBLOL 2024 Split 1 Playoffs","Round 2","LOUD","RED Canids","WWW","","dom","P"],
+    ["2024-04-07","CBLOL 2024 Split 1 Playoffs","Round 4","LOUD","paiN Gaming","WLWW","","dom","P"],
+    ["2024-04-20","CBLOL 2024 Split 1 Playoffs","Final","LOUD","paiN Gaming","WLLWW","","dom","P"],
+    ["2024-08-03","CBLOL 2024 Split 2 Playoffs","Round 1","LOUD","FURIA","LLWWW","","dom","P"],
+    ["2024-08-10","CBLOL 2024 Split 2 Playoffs","Round 2","LOUD","paiN Gaming","LLL","","dom","P"],
+    ["2024-08-17","CBLOL 2024 Split 2 Playoffs","Round 2","LOUD","FURIA","WWLLW","","dom","P"],
+    ["2024-08-23","CBLOL 2024 Split 2 Playoffs","Round 3","LOUD","RED Canids","LLL","","dom","P"],
+    ["2025-05-24","LTA South 2025 Split 2 Playoffs","Round 1","LOUD","paiN Gaming","LWLL","","dom","P"],
+    ["2025-05-31","LTA South 2025 Split 2 Playoffs","Round 1","LOUD","Isurus Estral","LWLL","","dom","P"],
+    ["2025-08-23","LTA South 2025 Split 3","Round 1","LOUD","Fluxo W7M","WWW","","dom","P"],
+    ["2025-08-30","LTA South 2025 Split 3","Round 2","LOUD","FURIA","WWW","","dom","P"],
+    ["2025-09-05","LTA South 2025 Split 3","Round 3","LOUD","RED Canids","WLWLL","","dom","P"]
+  ],
+  "unknown": []
+}

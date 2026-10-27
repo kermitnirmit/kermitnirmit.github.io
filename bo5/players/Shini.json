@@ -1,1 +1,40 @@
-{"player":"Shini","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2016-07-05","Brazilian Challenger Circuit 2016 Split 2 Playoffs","Semifinal","Team Genesis","e-Champ Gaming","WWW","","dom","S"],["2016-07-16","Brazilian Challenger Circuit 2016 Split 2 Playoffs","Final","Team Genesis","Remo Brave e-Sports","LLL","","dom","S"],["2016-07-23","CBLOL 2017 Split 1 Promotion","Qual","Team Genesis","RED Canids","LWLL","","dom","P"],["2016-09-22","Copa Go4gold 2016","Semifinal","Team Genesis","Ilha da Macacada Gaming","WWW","r","dom","S"],["2016-09-25","Copa Go4gold 2016","Final","Team Genesis","ProGaming Esports","WWW","r","dom","S"],["2017-03-08","Brazilian Challenger Circuit 2017 Split 1 Playoffs","Semifinal","INTZ.Genesis","Iron Hawks e-Sports","WWW","","dom","S"],["2017-03-11","Brazilian Challenger Circuit 2017 Split 1 Playoffs","Final","INTZ.Genesis","T Show","LLWWL","","dom","S"],["2017-03-18","CBLOL 2017 Split 2 Promotion","Promotion","INTZ.Genesis","Operation Kino e-Sports","WWLLW","","dom","P"],["2017-08-19","CBLOL 2017 Split 2 Playoffs","Semifinal","INTZ","paiN Gaming","WLLL","p","dom","P"],["2017-12-17","Superliga ABCDE 2017","Semifinal","INTZ","paiN Gaming","WWW","r","dom",""],["2017-12-23","Superliga ABCDE 2017","Final","INTZ","ProGaming Esports","WWW","r","dom",""],["2018-09-16","CBLOL 2019 Split 1 Promotion","Access Series","INTZ","paiN Gaming","WWW","p","dom","P"],["2018-12-15","Superliga ABCDE 2018","Semifinal","INTZ","Vivo Keyd","WWW","r","dom",""],["2019-04-07","CBLOL 2019 Split 1 Playoffs","Semifinal","INTZ","Redemption eSports Porto Alegre","WWLLW","","dom","P"],["2019-04-13","CBLOL 2019 Split 1 Playoffs","Final","INTZ","Flamengo Esports","LWLWW","","dom","P"],["2019-08-25","CBLOL 2019 Split 2 Playoffs","Semifinal","INTZ","KaBuM! Esports","LWWW","","dom","P"],["2019-09-07","CBLOL 2019 Split 2 Playoffs","Final","INTZ","Flamengo Esports","WLWLL","","dom","P"],["2020-05-19","CBLOL 2020 Split 2 Promotion","Promotion","INTZ","Team oNe eSports","WLLWW","","dom","P"],["2020-08-23","CBLOL 2020 Split 2 Playoffs","Semifinal","INTZ","KaBuM! Esports","WLWLW","","dom","P"],["2020-09-05","CBLOL 2020 Split 2 Playoffs","Final","INTZ","paiN Gaming","WWLW","","dom","P"],["2024-08-04","CBLOL 2024 Split 2 Playoffs","Round 1","Fluxo","RED Canids","LLL","","dom","P"],["2024-08-09","CBLOL 2024 Split 2 Playoffs","Round 1","Fluxo","FURIA","LWLWL","","dom","P"],["2025-05-24","LTA South 2025 Split 2 Playoffs","Round 1","LOUD","paiN Gaming","LWLL","","dom","P"],["2025-05-31","LTA South 2025 Split 2 Playoffs","Round 1","LOUD","Isurus Estral","LWLL","","dom","P"],["2025-09-16","Circuito Desafiante 2026 Split 1 Promotion","Round 1","Cusprills","Rise Gaming","WLWW","","dom","S"],["2025-09-18","Circuito Desafiante 2026 Split 1 Promotion","Round 2","Cusprills","Zer0 Trein0","WLWW","","dom","S"],["2025-09-19","Circuito Desafiante 2026 Split 1 Promotion","Round 3","Cusprills","7REX","LWWW","","dom","S"],["2025-09-28","IDL Kings Lendas Season 2","Final","Karmine Cospe","Gen GG","LLWWW","","dom","S"],["2025-11-23","IDL Kings Lendas Season 3","Final","Karmine Cospe","Gen GG","LLL","","dom","S"],["2026-09-12","CBLOL 2026 Split 2 Playoffs","Round 2","FURIA","LØS","LLWL","","dom","P"]],"unknown":[["2018-12-23","Superliga ABCDE 2018","Final","INTZ","paiN Gaming","3-2","","dom",""]]}
+{
+  "player": "Shini",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2016-07-05","Brazilian Challenger Circuit 2016 Split 2 Playoffs","Semifinal","Team Genesis","e-Champ Gaming","WWW","","dom","S"],
+    ["2016-07-16","Brazilian Challenger Circuit 2016 Split 2 Playoffs","Final","Team Genesis","Remo Brave e-Sports","LLL","","dom","S"],
+    ["2016-07-23","CBLOL 2017 Split 1 Promotion","Qual","Team Genesis","RED Canids","LWLL","","dom","P"],
+    ["2016-09-22","Copa Go4gold 2016","Semifinal","Team Genesis","Ilha da Macacada Gaming","WWW","r","dom","S"],
+    ["2016-09-25","Copa Go4gold 2016","Final","Team Genesis","ProGaming Esports","WWW","r","dom","S"],
+    ["2017-03-08","Brazilian Challenger Circuit 2017 Split 1 Playoffs","Semifinal","INTZ.Genesis","Iron Hawks e-Sports","WWW","","dom","S"],
+    ["2017-03-11","Brazilian Challenger Circuit 2017 Split 1 Playoffs","Final","INTZ.Genesis","T Show","LLWWL","","dom","S"],
+    ["2017-03-18","CBLOL 2017 Split 2 Promotion","Promotion","INTZ.Genesis","Operation Kino e-Sports","WWLLW","","dom","P"],
+    ["2017-08-19","CBLOL 2017 Split 2 Playoffs","Semifinal","INTZ","paiN Gaming","WLLL","p","dom","P"],
+    ["2017-12-17","Superliga ABCDE 2017","Semifinal","INTZ","paiN Gaming","WWW","r","dom",""],
+    ["2017-12-23","Superliga ABCDE 2017","Final","INTZ","ProGaming Esports","WWW","r","dom",""],
+    ["2018-09-16","CBLOL 2019 Split 1 Promotion","Access Series","INTZ","paiN Gaming","WWW","p","dom","P"],
+    ["2018-12-15","Superliga ABCDE 2018","Semifinal","INTZ","Vivo Keyd","WWW","r","dom",""],
+    ["2019-04-07","CBLOL 2019 Split 1 Playoffs","Semifinal","INTZ","Redemption eSports Porto Alegre","WWLLW","","dom","P"],
+    ["2019-04-13","CBLOL 2019 Split 1 Playoffs","Final","INTZ","Flamengo Esports","LWLWW","","dom","P"],
+    ["2019-08-25","CBLOL 2019 Split 2 Playoffs","Semifinal","INTZ","KaBuM! Esports","LWWW","","dom","P"],
+    ["2019-09-07","CBLOL 2019 Split 2 Playoffs","Final","INTZ","Flamengo Esports","WLWLL","","dom","P"],
+    ["2020-05-19","CBLOL 2020 Split 2 Promotion","Promotion","INTZ","Team oNe eSports","WLLWW","","dom","P"],
+    ["2020-08-23","CBLOL 2020 Split 2 Playoffs","Semifinal","INTZ","KaBuM! Esports","WLWLW","","dom","P"],
+    ["2020-09-05","CBLOL 2020 Split 2 Playoffs","Final","INTZ","paiN Gaming","WWLW","","dom","P"],
+    ["2024-08-04","CBLOL 2024 Split 2 Playoffs","Round 1","Fluxo","RED Canids","LLL","","dom","P"],
+    ["2024-08-09","CBLOL 2024 Split 2 Playoffs","Round 1","Fluxo","FURIA","LWLWL","","dom","P"],
+    ["2025-05-24","LTA South 2025 Split 2 Playoffs","Round 1","LOUD","paiN Gaming","LWLL","","dom","P"],
+    ["2025-05-31","LTA South 2025 Split 2 Playoffs","Round 1","LOUD","Isurus Estral","LWLL","","dom","P"],
+    ["2025-09-16","Circuito Desafiante 2026 Split 1 Promotion","Round 1","Cusprills","Rise Gaming","WLWW","","dom","S"],
+    ["2025-09-18","Circuito Desafiante 2026 Split 1 Promotion","Round 2","Cusprills","Zer0 Trein0","WLWW","","dom","S"],
+    ["2025-09-19","Circuito Desafiante 2026 Split 1 Promotion","Round 3","Cusprills","7REX","LWWW","","dom","S"],
+    ["2025-09-28","IDL Kings Lendas Season 2","Final","Karmine Cospe","Gen GG","LLWWW","","dom","S"],
+    ["2025-11-23","IDL Kings Lendas Season 3","Final","Karmine Cospe","Gen GG","LLL","","dom","S"],
+    ["2026-09-12","CBLOL 2026 Split 2 Playoffs","Round 2","FURIA","LØS","LLWL","","dom","P"]
+  ],
+  "unknown": [
+    ["2018-12-23","Superliga ABCDE 2018","Final","INTZ","paiN Gaming","3-2","","dom",""]
+  ]
+}

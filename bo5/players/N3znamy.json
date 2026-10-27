@@ -1,1 +1,32 @@
-{"player":"N3znamy","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2021-07-25","Hitpoint Masters 2021 Summer Playoffs","Round 1","Inside Games","SINNERS Esports","LLL","","dom","S"],["2021-08-04","Hitpoint Challengers 2021 Summer Playoffs","Round 1","Inside Games Challengers","eSuba Academy","LLL","","dom","S"],["2021-08-07","Hitpoint Challengers 2021 Summer Playoffs","Round 2","Inside Games Challengers","Esport Academy","WWLW","r","dom","S"],["2021-08-11","Hitpoint Challengers 2021 Summer Playoffs","Round 3","Inside Games Challengers","Team Universe","WWLW","r","dom","S"],["2021-08-14","Hitpoint Challengers 2021 Summer Playoffs","Semifinal","Inside Games Challengers","Dark Tigers Academy","LWLL","r","dom","S"],["2022-07-22","GLWL 2022 Summer Playoffs","Round 1","Project Sinners","Wild Panthers Esports","WWW","","dom","S"],["2022-07-27","GLWL 2022 Summer Playoffs","Final","Project Sinners","Wild Panthers Esports","WWLLL","","dom","S"],["2023-03-10","GL2D 2023 Spring Playoffs","Round 1","Team Refuse","Team Paradox","WWW","","dom","S"],["2023-03-16","GL2D 2023 Spring Playoffs","Semifinal","Team Refuse","Actions Per Minute","WWLW","","dom","S"],["2023-03-24","GL2D 2023 Spring Playoffs","Final","Team Refuse","Ionikos Nikaias Esports","WWW","","dom","S"],["2023-08-11","GL2D 2024 Spring Promotion","Round 2","Team HavoC","SINS Esports","WWW","","dom","S"],["2024-03-14","GL2D 2024 Spring Playoffs","Round 1","Team Insidious","Actions Per Minute","WLLWW","","dom","S"],["2024-03-28","GL2D 2024 Spring Playoffs","Final","Team Insidious","Actions Per Minute","WWW","","dom","S"],["2024-05-07","Hitpoint 2nd Division Challengers 2024 Summer Qualifiers","Round 1","EXILE esports","Repre Gold","WWW","","dom","S"],["2024-05-08","Hitpoint 2nd Division Challengers 2024 Summer Qualifiers","Round 2","EXILE esports","Laffson's gang","WWW","","dom","S"],["2024-10-23","Hitpoint Winter 2024 Main Event","Quarterfinal","Parakeet Gaming","Entropiq","LWLL","","dom","S"],["2025-12-11","Infinity Winter","Semifinal","Diversion Gaming","Meavedron","LLL","","dom","S"],["2026-02-13","Hitpoint Winter 2026 Main Event","Round 1","EXILE esports","eSuba","LLL","","dom","S"],["2026-02-18","Hitpoint Winter 2026 Main Event","Round 1","EXILE esports","Meavedron","WLLWW","","dom","S"],["2026-02-25","Hitpoint Winter 2026 Main Event","Round 2","EXILE esports","CITA Kaizen","WWLLL","","dom","S"]],"unknown":[["2021-12-11","ELEAGUE Winter Cup 2021","Quarterfinal","Citrus Banán Ananas","BRUTE","3-2","","dom","S"],["2021-12-18","ELEAGUE Winter Cup 2021","Semifinal","Citrus Banán Ananas","Entropiq","1-3","","dom","S"],["2021-12-19","ELEAGUE Winter Cup 2021","Third-Place Match","Citrus Banán Ananas","Dynamo Eclot","2-3","","dom","S"]]}
+{
+  "player": "N3znamy",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2021-07-25","Hitpoint Masters 2021 Summer Playoffs","Round 1","Inside Games","SINNERS Esports","LLL","","dom","S"],
+    ["2021-08-04","Hitpoint Challengers 2021 Summer Playoffs","Round 1","Inside Games Challengers","eSuba Academy","LLL","","dom","S"],
+    ["2021-08-07","Hitpoint Challengers 2021 Summer Playoffs","Round 2","Inside Games Challengers","Esport Academy","WWLW","r","dom","S"],
+    ["2021-08-11","Hitpoint Challengers 2021 Summer Playoffs","Round 3","Inside Games Challengers","Team Universe","WWLW","r","dom","S"],
+    ["2021-08-14","Hitpoint Challengers 2021 Summer Playoffs","Semifinal","Inside Games Challengers","Dark Tigers Academy","LWLL","r","dom","S"],
+    ["2022-07-22","GLWL 2022 Summer Playoffs","Round 1","Project Sinners","Wild Panthers Esports","WWW","","dom","S"],
+    ["2022-07-27","GLWL 2022 Summer Playoffs","Final","Project Sinners","Wild Panthers Esports","WWLLL","","dom","S"],
+    ["2023-03-10","GL2D 2023 Spring Playoffs","Round 1","Team Refuse","Team Paradox","WWW","","dom","S"],
+    ["2023-03-16","GL2D 2023 Spring Playoffs","Semifinal","Team Refuse","Actions Per Minute","WWLW","","dom","S"],
+    ["2023-03-24","GL2D 2023 Spring Playoffs","Final","Team Refuse","Ionikos Nikaias Esports","WWW","","dom","S"],
+    ["2023-08-11","GL2D 2024 Spring Promotion","Round 2","Team HavoC","SINS Esports","WWW","","dom","S"],
+    ["2024-03-14","GL2D 2024 Spring Playoffs","Round 1","Team Insidious","Actions Per Minute","WLLWW","","dom","S"],
+    ["2024-03-28","GL2D 2024 Spring Playoffs","Final","Team Insidious","Actions Per Minute","WWW","","dom","S"],
+    ["2024-05-07","Hitpoint 2nd Division Challengers 2024 Summer Qualifiers","Round 1","EXILE esports","Repre Gold","WWW","","dom","S"],
+    ["2024-05-08","Hitpoint 2nd Division Challengers 2024 Summer Qualifiers","Round 2","EXILE esports","Laffson's gang","WWW","","dom","S"],
+    ["2024-10-23","Hitpoint Winter 2024 Main Event","Quarterfinal","Parakeet Gaming","Entropiq","LWLL","","dom","S"],
+    ["2025-12-11","Infinity Winter","Semifinal","Diversion Gaming","Meavedron","LLL","","dom","S"],
+    ["2026-02-13","Hitpoint Winter 2026 Main Event","Round 1","EXILE esports","eSuba","LLL","","dom","S"],
+    ["2026-02-18","Hitpoint Winter 2026 Main Event","Round 1","EXILE esports","Meavedron","WLLWW","","dom","S"],
+    ["2026-02-25","Hitpoint Winter 2026 Main Event","Round 2","EXILE esports","CITA Kaizen","WWLLL","","dom","S"]
+  ],
+  "unknown": [
+    ["2021-12-11","ELEAGUE Winter Cup 2021","Quarterfinal","Citrus Banán Ananas","BRUTE","3-2","","dom","S"],
+    ["2021-12-18","ELEAGUE Winter Cup 2021","Semifinal","Citrus Banán Ananas","Entropiq","1-3","","dom","S"],
+    ["2021-12-19","ELEAGUE Winter Cup 2021","Third-Place Match","Citrus Banán Ananas","Dynamo Eclot","2-3","","dom","S"]
+  ]
+}

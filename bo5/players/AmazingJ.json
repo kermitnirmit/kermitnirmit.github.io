@@ -1,1 +1,36 @@
-{"player":"AmazingJ","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2015-02-09","2015 Demacia Cup Spring Season","Round of 32","Energy Pacemaker","Legend Dragon","WWW","","dom","P"],["2015-03-09","2015 Demacia Cup Spring Season","Round of 16","Energy Pacemaker","Snake Esports","LWLL","","dom","P"],["2015-04-15","LPL 2015 Summer Promotion","Round 1","Energy Pacemaker","AD Gaming","WLLWW","","dom","P"],["2015-04-18","LPL 2015 Summer Promotion","Qualifiers","Energy Pacemaker","Masters 3","LLL","","dom","P"],["2015-07-10","2015 Demacia Cup Summer Season","Quarterfinal","EDward Gaming","Team WE","WWW","","dom","P"],["2015-07-11","2015 Demacia Cup Summer Season","Semifinal","EDward Gaming","Invictus Gaming","WLWW","","dom","P"],["2015-07-12","2015 Demacia Cup Summer Season","Final","EDward Gaming","Oh My God","WWW","","dom","P"],["2015-09-04","LPL 2015 Regional Finals","Winners Finals","EDward Gaming","Invictus Gaming","LWWW","","dom","P"],["2016-04-12","LSPL 2016 Spring Playoffs","Final","EDward Esports","Young Miracles","WWLLW","","dom","S"],["2016-07-03","Demacia Cup 2016 Season","Quarterfinal","I May","Legend Dragon","WWW","","dom","P"],["2016-08-10","LPL 2016 Summer Playoffs","Round 1","I May","Invictus Gaming","WWW","","dom","P"],["2016-08-12","LPL 2016 Summer Playoffs","Quarterfinal","I May","Snake Esports","LWWW","","dom","P"],["2016-08-14","LPL 2016 Summer Playoffs","Semifinal","I May","Royal Never Give Up","LWLWL","","dom","P"],["2016-08-15","LPL 2016 Summer Playoffs","Third-Place Match","I May","Team WE","LWWW","","dom","P"],["2016-08-28","LPL 2016 Regional Finals","Final","I May","Team WE","LWLWW","","dom","P"],["2016-11-12","Demacia Cup 2016 Season","Semifinal","I May","Snake Esports","WLWLW","","dom","P"],["2016-11-13","Demacia Cup 2016 Season","Final","I May","EDward Gaming","LLL","","dom","P"],["2017-04-20","LPL 2017 Spring Playoffs","Quarterfinal","I May","Oh My God","WWLLL","","dom","P"],["2017-06-01","Demacia Cup 2017 Season","Quarterfinal","I May","Oh My God","WWW","","dom","P"],["2017-06-03","Demacia Cup 2017 Season","Semifinal","I May","Invictus Gaming","LWWW","","dom","P"],["2017-06-04","Demacia Cup 2017 Season","Final","I May","Royal Never Give Up","LLWL","","dom","P"],["2018-04-13","LPL 2018 Spring Playoffs","Round 1","Bilibili Gaming","JD Gaming","WWW","","dom","P"],["2018-04-15","LPL 2018 Spring Playoffs","Quarterfinal","Bilibili Gaming","Rogue Warriors","LLWWL","","dom","P"],["2018-06-03","Demacia Cup 2018 Summer","Grand Finals","Bilibili Gaming","Royal Never Give Up","WLLL","","dom","P"],["2025-05-03","Legend Cup Season 3 China","Round 1","prismatic","Omnipotence","LLWWW","","dom","S"],["2025-05-09","Legend Cup Season 3 China","Round 2","prismatic","Blood (Chinese Team)","LLL","","dom","S"]],"unknown":[["2017-04-18","LPL 2017 Spring Playoffs","Round 1","I May","QG Reapers","3-2","WLWW","dom","P"]]}
+{
+  "player": "AmazingJ",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2015-02-09","2015 Demacia Cup Spring Season","Round of 32","Energy Pacemaker","Legend Dragon","WWW","","dom","P"],
+    ["2015-03-09","2015 Demacia Cup Spring Season","Round of 16","Energy Pacemaker","Snake Esports","LWLL","","dom","P"],
+    ["2015-04-15","LPL 2015 Summer Promotion","Round 1","Energy Pacemaker","AD Gaming","WLLWW","","dom","P"],
+    ["2015-04-18","LPL 2015 Summer Promotion","Qualifiers","Energy Pacemaker","Masters 3","LLL","","dom","P"],
+    ["2015-07-10","2015 Demacia Cup Summer Season","Quarterfinal","EDward Gaming","Team WE","WWW","","dom","P"],
+    ["2015-07-11","2015 Demacia Cup Summer Season","Semifinal","EDward Gaming","Invictus Gaming","WLWW","","dom","P"],
+    ["2015-07-12","2015 Demacia Cup Summer Season","Final","EDward Gaming","Oh My God","WWW","","dom","P"],
+    ["2015-09-04","LPL 2015 Regional Finals","Winners Finals","EDward Gaming","Invictus Gaming","LWWW","","dom","P"],
+    ["2016-04-12","LSPL 2016 Spring Playoffs","Final","EDward Esports","Young Miracles","WWLLW","","dom","S"],
+    ["2016-07-03","Demacia Cup 2016 Season","Quarterfinal","I May","Legend Dragon","WWW","","dom","P"],
+    ["2016-08-10","LPL 2016 Summer Playoffs","Round 1","I May","Invictus Gaming","WWW","","dom","P"],
+    ["2016-08-12","LPL 2016 Summer Playoffs","Quarterfinal","I May","Snake Esports","LWWW","","dom","P"],
+    ["2016-08-14","LPL 2016 Summer Playoffs","Semifinal","I May","Royal Never Give Up","LWLWL","","dom","P"],
+    ["2016-08-15","LPL 2016 Summer Playoffs","Third-Place Match","I May","Team WE","LWWW","","dom","P"],
+    ["2016-08-28","LPL 2016 Regional Finals","Final","I May","Team WE","LWLWW","","dom","P"],
+    ["2016-11-12","Demacia Cup 2016 Season","Semifinal","I May","Snake Esports","WLWLW","","dom","P"],
+    ["2016-11-13","Demacia Cup 2016 Season","Final","I May","EDward Gaming","LLL","","dom","P"],
+    ["2017-04-20","LPL 2017 Spring Playoffs","Quarterfinal","I May","Oh My God","WWLLL","","dom","P"],
+    ["2017-06-01","Demacia Cup 2017 Season","Quarterfinal","I May","Oh My God","WWW","","dom","P"],
+    ["2017-06-03","Demacia Cup 2017 Season","Semifinal","I May","Invictus Gaming","LWWW","","dom","P"],
+    ["2017-06-04","Demacia Cup 2017 Season","Final","I May","Royal Never Give Up","LLWL","","dom","P"],
+    ["2018-04-13","LPL 2018 Spring Playoffs","Round 1","Bilibili Gaming","JD Gaming","WWW","","dom","P"],
+    ["2018-04-15","LPL 2018 Spring Playoffs","Quarterfinal","Bilibili Gaming","Rogue Warriors","LLWWL","","dom","P"],
+    ["2018-06-03","Demacia Cup 2018 Summer","Grand Finals","Bilibili Gaming","Royal Never Give Up","WLLL","","dom","P"],
+    ["2025-05-03","Legend Cup Season 3 China","Round 1","prismatic","Omnipotence","LLWWW","","dom","S"],
+    ["2025-05-09","Legend Cup Season 3 China","Round 2","prismatic","Blood (Chinese Team)","LLL","","dom","S"]
+  ],
+  "unknown": [
+    ["2017-04-18","LPL 2017 Spring Playoffs","Round 1","I May","QG Reapers","3-2","WLWW","dom","P"]
+  ]
+}

@@ -1,1 +1,47 @@
-{"player":"LetMe","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2015-01-26","2015 Demacia Cup Spring Season","Round of 32","Gamtee","Stand Point Gaming","LLWWL","","dom","P"],["2015-04-17","LPL 2015 Summer Promotion","Round 1","Gamtee","Legend Dragon","WLWW","","dom","P"],["2015-04-19","LPL 2015 Summer Promotion","Qualifiers","Gamtee","Star Horn Royal Club","WWW","","dom","P"],["2015-06-01","2015 Demacia Cup Summer Season","Round of 32","Royal Never Give Up","2144 Danmu Gaming","WWW","p","dom","P"],["2015-06-22","2015 Demacia Cup Summer Season","Round of 16","Royal Never Give Up","Invictus Gaming","WLLL","p","dom","P"],["2015-08-10","LPL 2016 Spring Promotion","Elimination Round","Royal Never Give Up","Young Glory","WLWLW","","dom","P"],["2015-08-12","LPL 2016 Spring Promotion","Qualifying Round","Royal Never Give Up","2144 Danmu Gaming","WLWLW","","dom","P"],["2015-12-19","World Cyber Arena 2015","Semifinal","Royal Never Give Up","Legend Dragon","WWW","","dom","P"],["2015-12-20","World Cyber Arena 2015","Final","Royal Never Give Up","Energy Pacemaker.All","WLWW","","dom","P"],["2016-07-02","Demacia Cup 2016 Season","Quarterfinal","Star Horn Royal Club","Snake Esports","LLL","","dom","P"],["2016-08-07","LSPL 2016 Summer Playoffs","Round 1","Star Horn Royal Club","Legend Dragon","LWWLW","","dom","S"],["2016-08-08","LSPL 2016 Summer Playoffs","Round 2","Star Horn Royal Club","Young Miracles","LLL","","dom","S"],["2016-08-13","LPL 2017 Spring Promotion","Qualifying Round","Star Horn Royal Club","Newbee","LLL","","dom","P"],["2017-04-22","LPL 2017 Spring Playoffs","Semifinal","Royal Never Give Up","EDward Gaming","WLWW","","dom","P"],["2017-04-29","LPL 2017 Spring Playoffs","Final","Royal Never Give Up","Team WE","LLL","","dom","P"],["2017-06-02","Demacia Cup 2017 Season","Quarterfinal","Royal Never Give Up","LGD Gaming","WWLW","","dom","P"],["2017-06-03","Demacia Cup 2017 Season","Semifinal","Royal Never Give Up","Vici Gaming","WWW","","dom","P"],["2017-06-04","Demacia Cup 2017 Season","Final","Royal Never Give Up","I May","WWLW","","dom","P"],["2017-08-25","LPL 2017 Summer Playoffs","Semifinal","Royal Never Give Up","Team WE","LWLWW","","dom","P"],["2017-09-01","LPL 2017 Summer Playoffs","Final","Royal Never Give Up","EDward Gaming","WWLLL","","dom","P"],["2017-10-21","Worlds 2017","Quarterfinal","Royal Never Give Up","Fnatic","WWLW","","worlds","P"],["2017-10-28","Worlds 2017","Semifinal","Royal Never Give Up","SK Telecom T1","WLWLL","","worlds","P"],["2018-04-12","LPL 2018 Spring Playoffs","Round 1","Royal Never Give Up","Team WE","WWW","p","dom","P"],["2018-04-14","LPL 2018 Spring Playoffs","Quarterfinal","Royal Never Give Up","Snake Esports","WWLW","","dom","P"],["2018-04-21","LPL 2018 Spring Playoffs","Semifinal","Royal Never Give Up","Invictus Gaming","LWWLW","p","dom","P"],["2018-04-28","LPL 2018 Spring Playoffs","Final","Royal Never Give Up","EDward Gaming","LWWW","p","dom","P"],["2018-05-18","MSI 2018","Semifinal","Royal Never Give Up","Fnatic","WWW","","msi","P"],["2018-05-20","MSI 2018","Final","Royal Never Give Up","Kingzone DragonX","WLWW","","msi","P"],["2018-09-07","LPL 2018 Summer Playoffs","Quarterfinal","Royal Never Give Up","Topsports Gaming","WLWW","p","dom","P"],["2018-09-09","LPL 2018 Summer Playoffs","Semifinal","Royal Never Give Up","Rogue Warriors","LWWW","","dom","P"],["2018-09-14","LPL 2018 Summer Playoffs","Final","Royal Never Give Up","Invictus Gaming","WWLLW","","dom","P"],["2018-10-20","Worlds 2018","Quarterfinal","Royal Never Give Up","G2 Esports","WLWLL","","worlds","P"],["2024-05-29","Legend Cup Season 1","Lower Round 1","Big Green Mood","GaoziGaming","WLWW","","dom","S"],["2024-05-31","Legend Cup Season 1","Round 2","Big Green Mood","Love and Peace","WLLWW","","dom","S"],["2024-06-15","Legend Cup Season 1","Semifinal","Big Green Mood","Blood (Chinese Team)","WWLLL","","dom","S"],["2024-11-24","Legend Cup Season 2","Round 1","Big Green Mood","M3 (LGC Team)","LWLWL","","dom","S"],["2024-11-27","Legend Cup Season 2","Round 1","Big Green Mood","Super Gaming","LLWL","","dom","S"]],"unknown":[["2018-08-29","Asian Games 2018","Final","China","South Korea","3-1","","intl",""]]}
+{
+  "player": "LetMe",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2015-01-26","2015 Demacia Cup Spring Season","Round of 32","Gamtee","Stand Point Gaming","LLWWL","","dom","P"],
+    ["2015-04-17","LPL 2015 Summer Promotion","Round 1","Gamtee","Legend Dragon","WLWW","","dom","P"],
+    ["2015-04-19","LPL 2015 Summer Promotion","Qualifiers","Gamtee","Star Horn Royal Club","WWW","","dom","P"],
+    ["2015-06-01","2015 Demacia Cup Summer Season","Round of 32","Royal Never Give Up","2144 Danmu Gaming","WWW","p","dom","P"],
+    ["2015-06-22","2015 Demacia Cup Summer Season","Round of 16","Royal Never Give Up","Invictus Gaming","WLLL","p","dom","P"],
+    ["2015-08-10","LPL 2016 Spring Promotion","Elimination Round","Royal Never Give Up","Young Glory","WLWLW","","dom","P"],
+    ["2015-08-12","LPL 2016 Spring Promotion","Qualifying Round","Royal Never Give Up","2144 Danmu Gaming","WLWLW","","dom","P"],
+    ["2015-12-19","World Cyber Arena 2015","Semifinal","Royal Never Give Up","Legend Dragon","WWW","","dom","P"],
+    ["2015-12-20","World Cyber Arena 2015","Final","Royal Never Give Up","Energy Pacemaker.All","WLWW","","dom","P"],
+    ["2016-07-02","Demacia Cup 2016 Season","Quarterfinal","Star Horn Royal Club","Snake Esports","LLL","","dom","P"],
+    ["2016-08-07","LSPL 2016 Summer Playoffs","Round 1","Star Horn Royal Club","Legend Dragon","LWWLW","","dom","S"],
+    ["2016-08-08","LSPL 2016 Summer Playoffs","Round 2","Star Horn Royal Club","Young Miracles","LLL","","dom","S"],
+    ["2016-08-13","LPL 2017 Spring Promotion","Qualifying Round","Star Horn Royal Club","Newbee","LLL","","dom","P"],
+    ["2017-04-22","LPL 2017 Spring Playoffs","Semifinal","Royal Never Give Up","EDward Gaming","WLWW","","dom","P"],
+    ["2017-04-29","LPL 2017 Spring Playoffs","Final","Royal Never Give Up","Team WE","LLL","","dom","P"],
+    ["2017-06-02","Demacia Cup 2017 Season","Quarterfinal","Royal Never Give Up","LGD Gaming","WWLW","","dom","P"],
+    ["2017-06-03","Demacia Cup 2017 Season","Semifinal","Royal Never Give Up","Vici Gaming","WWW","","dom","P"],
+    ["2017-06-04","Demacia Cup 2017 Season","Final","Royal Never Give Up","I May","WWLW","","dom","P"],
+    ["2017-08-25","LPL 2017 Summer Playoffs","Semifinal","Royal Never Give Up","Team WE","LWLWW","","dom","P"],
+    ["2017-09-01","LPL 2017 Summer Playoffs","Final","Royal Never Give Up","EDward Gaming","WWLLL","","dom","P"],
+    ["2017-10-21","Worlds 2017","Quarterfinal","Royal Never Give Up","Fnatic","WWLW","","worlds","P"],
+    ["2017-10-28","Worlds 2017","Semifinal","Royal Never Give Up","SK Telecom T1","WLWLL","","worlds","P"],
+    ["2018-04-12","LPL 2018 Spring Playoffs","Round 1","Royal Never Give Up","Team WE","WWW","p","dom","P"],
+    ["2018-04-14","LPL 2018 Spring Playoffs","Quarterfinal","Royal Never Give Up","Snake Esports","WWLW","","dom","P"],
+    ["2018-04-21","LPL 2018 Spring Playoffs","Semifinal","Royal Never Give Up","Invictus Gaming","LWWLW","p","dom","P"],
+    ["2018-04-28","LPL 2018 Spring Playoffs","Final","Royal Never Give Up","EDward Gaming","LWWW","p","dom","P"],
+    ["2018-05-18","MSI 2018","Semifinal","Royal Never Give Up","Fnatic","WWW","","msi","P"],
+    ["2018-05-20","MSI 2018","Final","Royal Never Give Up","Kingzone DragonX","WLWW","","msi","P"],
+    ["2018-09-07","LPL 2018 Summer Playoffs","Quarterfinal","Royal Never Give Up","Topsports Gaming","WLWW","p","dom","P"],
+    ["2018-09-09","LPL 2018 Summer Playoffs","Semifinal","Royal Never Give Up","Rogue Warriors","LWWW","","dom","P"],
+    ["2018-09-14","LPL 2018 Summer Playoffs","Final","Royal Never Give Up","Invictus Gaming","WWLLW","","dom","P"],
+    ["2018-10-20","Worlds 2018","Quarterfinal","Royal Never Give Up","G2 Esports","WLWLL","","worlds","P"],
+    ["2024-05-29","Legend Cup Season 1","Lower Round 1","Big Green Mood","GaoziGaming","WLWW","","dom","S"],
+    ["2024-05-31","Legend Cup Season 1","Round 2","Big Green Mood","Love and Peace","WLLWW","","dom","S"],
+    ["2024-06-15","Legend Cup Season 1","Semifinal","Big Green Mood","Blood (Chinese Team)","WWLLL","","dom","S"],
+    ["2024-11-24","Legend Cup Season 2","Round 1","Big Green Mood","M3 (LGC Team)","LWLWL","","dom","S"],
+    ["2024-11-27","Legend Cup Season 2","Round 1","Big Green Mood","Super Gaming","LLWL","","dom","S"]
+  ],
+  "unknown": [
+    ["2018-08-29","Asian Games 2018","Final","China","South Korea","3-1","","intl",""]
+  ]
+}

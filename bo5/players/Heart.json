@@ -1,1 +1,35 @@
-{"player":"Heart","generated":"2026-10-23","fields":["date","event","round","team","opponent","games","flag","kind","level"],"series":[["2013-12-25","Champions 2014 Winter","Quarterfinal","Samsung Blue","SK Telecom T1 K","LLL","","dom","P"],["2014-01-07","NLB 2014 Winter","Semifinal","Samsung Blue","CJ Entus Blaze","LLL","r","dom","S"],["2014-04-18","Champions 2014 Spring","Quarterfinal","Samsung Blue","CJ Entus Frost","LWWW","","dom","P"],["2014-04-30","Champions 2014 Spring","Semifinal","Samsung Blue","Samsung Ozone","LWWW","","dom","P"],["2014-05-24","Champions 2014 Spring","Final","Samsung Blue","NaJin White Shield","WLWW","","dom","P"],["2014-06-08","SK Telecom LTE-A LoL Masters 2014","Final","Samsung Galaxy (Club Masters)","SK Telecom T1 (Club Masters)","WWW","r","dom","P"],["2014-07-25","Champions 2014 Summer","Quarterfinal","Samsung Blue","Jin Air Green Wings Stealths","WWW","","dom","P"],["2014-08-01","Champions 2014 Summer","Semifinal","Samsung Blue","Samsung White","WWLW","","dom","P"],["2014-08-16","Champions 2014 Summer","Final","Samsung Blue","KT Rolster Arrows","LWWLL","","dom","P"],["2014-10-04","Worlds 2014","Quarterfinal","Samsung Blue","Cloud9","LWWW","","worlds","P"],["2014-10-11","Worlds 2014","Semifinal","Samsung Blue","Samsung White","LLL","","worlds","P"],["2015-02-02","2015 Demacia Cup Spring Season","Round of 32","Vici Potential Gaming","2144 Gaming","WWW","","dom","P"],["2015-03-09","2015 Demacia Cup Spring Season","Round of 16","Vici Potential Gaming","LGD Gaming","LLL","","dom","P"],["2015-06-15","2015 Demacia Cup Summer Season","Round of 32","Unlimited Potential","2144 Gaming","WWLW","","dom","P"],["2015-06-29","2015 Demacia Cup Summer Season","Round of 16","Unlimited Potential","Team King","LWWW","","dom","P"],["2015-07-10","2015 Demacia Cup Summer Season","Quarterfinal","Unlimited Potential","Snake Esports","LLWL","","dom","P"],["2015-08-10","LPL 2016 Spring Promotion","Elimination Round","Unlimited Potential","Team WE Future","WLWLW","","dom","P"],["2015-08-13","LPL 2016 Spring Promotion","Qualifying Round","Unlimited Potential","Team WE","LLL","","dom","P"],["2024-11-24","Legend Cup Season 2","Round 1","Super Gaming","Kill Baron","LWLWL","","dom","S"],["2024-11-27","Legend Cup Season 2","Round 1","Super Gaming","Big Green Mood","WWLW","","dom","S"],["2024-11-28","Legend Cup Season 2","Round 2","Super Gaming","BYG (LGC Team)","WWW","","dom","S"],["2024-11-29","Legend Cup Season 2","Round 3","Super Gaming","Omnipotence","WLWW","","dom","S"],["2024-12-07","Legend Cup Season 2","Semifinal","Super Gaming","Kill Baron","WWLW","","dom","S"],["2024-12-08","Legend Cup Season 2","Final","Super Gaming","Blood (Chinese Team)","LWLWL","","dom","S"]],"unknown":[["2014-01-14","NLB 2014 Winter","Third-Place Match","Samsung Blue","Xenics Storm","3-1","","dom","S"],["2015-04-09","LSPL 2015 Spring Playoffs","Grand Finals","Vici Potential Gaming","Qiao Gu Reapers","1-3","","dom","S"]]}
+{
+  "player": "Heart",
+  "generated": "2026-10-23",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2013-12-25","Champions 2014 Winter","Quarterfinal","Samsung Blue","SK Telecom T1 K","LLL","","dom","P"],
+    ["2014-01-07","NLB 2014 Winter","Semifinal","Samsung Blue","CJ Entus Blaze","LLL","r","dom","S"],
+    ["2014-04-18","Champions 2014 Spring","Quarterfinal","Samsung Blue","CJ Entus Frost","LWWW","","dom","P"],
+    ["2014-04-30","Champions 2014 Spring","Semifinal","Samsung Blue","Samsung Ozone","LWWW","","dom","P"],
+    ["2014-05-24","Champions 2014 Spring","Final","Samsung Blue","NaJin White Shield","WLWW","","dom","P"],
+    ["2014-06-08","SK Telecom LTE-A LoL Masters 2014","Final","Samsung Galaxy (Club Masters)","SK Telecom T1 (Club Masters)","WWW","r","dom","P"],
+    ["2014-07-25","Champions 2014 Summer","Quarterfinal","Samsung Blue","Jin Air Green Wings Stealths","WWW","","dom","P"],
+    ["2014-08-01","Champions 2014 Summer","Semifinal","Samsung Blue","Samsung White","WWLW","","dom","P"],
+    ["2014-08-16","Champions 2014 Summer","Final","Samsung Blue","KT Rolster Arrows","LWWLL","","dom","P"],
+    ["2014-10-04","Worlds 2014","Quarterfinal","Samsung Blue","Cloud9","LWWW","","worlds","P"],
+    ["2014-10-11","Worlds 2014","Semifinal","Samsung Blue","Samsung White","LLL","","worlds","P"],
+    ["2015-02-02","2015 Demacia Cup Spring Season","Round of 32","Vici Potential Gaming","2144 Gaming","WWW","","dom","P"],
+    ["2015-03-09","2015 Demacia Cup Spring Season","Round of 16","Vici Potential Gaming","LGD Gaming","LLL","","dom","P"],
+    ["2015-06-15","2015 Demacia Cup Summer Season","Round of 32","Unlimited Potential","2144 Gaming","WWLW","","dom","P"],
+    ["2015-06-29","2015 Demacia Cup Summer Season","Round of 16","Unlimited Potential","Team King","LWWW","","dom","P"],
+    ["2015-07-10","2015 Demacia Cup Summer Season","Quarterfinal","Unlimited Potential","Snake Esports","LLWL","","dom","P"],
+    ["2015-08-10","LPL 2016 Spring Promotion","Elimination Round","Unlimited Potential","Team WE Future","WLWLW","","dom","P"],
+    ["2015-08-13","LPL 2016 Spring Promotion","Qualifying Round","Unlimited Potential","Team WE","LLL","","dom","P"],
+    ["2024-11-24","Legend Cup Season 2","Round 1","Super Gaming","Kill Baron","LWLWL","","dom","S"],
+    ["2024-11-27","Legend Cup Season 2","Round 1","Super Gaming","Big Green Mood","WWLW","","dom","S"],
+    ["2024-11-28","Legend Cup Season 2","Round 2","Super Gaming","BYG (LGC Team)","WWW","","dom","S"],
+    ["2024-11-29","Legend Cup Season 2","Round 3","Super Gaming","Omnipotence","WLWW","","dom","S"],
+    ["2024-12-07","Legend Cup Season 2","Semifinal","Super Gaming","Kill Baron","WWLW","","dom","S"],
+    ["2024-12-08","Legend Cup Season 2","Final","Super Gaming","Blood (Chinese Team)","LWLWL","","dom","S"]
+  ],
+  "unknown": [
+    ["2014-01-14","NLB 2014 Winter","Third-Place Match","Samsung Blue","Xenics Storm","3-1","","dom","S"],
+    ["2015-04-09","LSPL 2015 Spring Playoffs","Grand Finals","Vici Potential Gaming","Qiao Gu Reapers","1-3","","dom","S"]
+  ]
+}
