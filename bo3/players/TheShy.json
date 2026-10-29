@@ -1,6 +1,6 @@
 {
   "player": "TheShy",
-  "generated": "2026-10-25",
+  "generated": "2026-10-29",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2017-06-17","LPL 2017 Summer","","Invictus Gaming","EDward Gaming","LL","p","dom","P"],
@@ -227,7 +227,8 @@
     ["2026-08-06","LPL 2026 Split 3","","Invictus Gaming","Ninjas in Pyjamas.CN","WLL","","dom","P"],
     ["2026-08-09","LPL 2026 Split 3","","Invictus Gaming","LNG Esports","WW","","dom","P"],
     ["2026-08-16","LPL 2026 Split 3","","Invictus Gaming","Weibo Gaming","WLW","","dom","P"],
-    ["2026-08-22","LPL 2026 Split 3","","Invictus Gaming","Ninjas in Pyjamas.CN","LL","","dom","P"]
+    ["2026-08-22","LPL 2026 Split 3","","Invictus Gaming","Ninjas in Pyjamas.CN","LL","","dom","P"],
+    ["2026-10-28","Worlds 2026","Round 4","Invictus Gaming","LYON (2024 American Team)","WLW","","worlds","P"]
   ],
   "unknown": [
     ["2018-01-07","Demacia Championship 2017 Season","Losers Round 4","Invictus Gaming","Snake Esports","1-2","","dom","P"]

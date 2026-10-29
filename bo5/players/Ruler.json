@@ -1,6 +1,6 @@
 {
   "player": "Ruler",
-  "generated": "2026-10-23",
+  "generated": "2026-10-29",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2016-08-10","LCK 2016 Summer Playoffs","Round 2","Samsung Galaxy","KT Rolster","LLL","p","dom","P"],
@@ -49,7 +49,7 @@
     ["2023-07-27","LPL 2023 Summer Playoffs","Round 4","JD Gaming","LNG Esports","LWWLW","","dom","P"],
     ["2023-07-30","LPL 2023 Summer Playoffs","Semifinal","JD Gaming","Bilibili Gaming","WWW","","dom","P"],
     ["2023-08-05","LPL 2023 Summer Playoffs","Final","JD Gaming","LNG Esports","WLLWW","","dom","P"],
-    ["2023-11-04","Worlds 2023","Quarterfinal","JD Gaming","KT Rolster","LWWW","r","worlds","P"],
+    ["2023-11-04","Worlds 2023","Quarterfinal","JD Gaming","KT Rolster","LWWW","","worlds","P"],
     ["2023-11-12","Worlds 2023","Semifinal","JD Gaming","T1","LWLL","","worlds","P"],
     ["2024-01-01","Demacia Cup 2023","Quarterfinal","JD Gaming","Top Esports","WLWLW","","dom","P"],
     ["2024-01-04","Demacia Cup 2023","Semifinal","JD Gaming","Rare Atom","WWW","","dom","P"],

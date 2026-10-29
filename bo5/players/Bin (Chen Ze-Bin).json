@@ -1,6 +1,6 @@
 {
   "player": "Bin (Chen Ze-Bin)",
-  "generated": "2026-10-23",
+  "generated": "2026-10-29",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2019-09-14","LDL 2019 Summer Playoffs","Round 1","Suning-S","Royal Club","WWW","","dom","S"],
@@ -48,7 +48,7 @@
     ["2023-07-26","LPL 2023 Summer Playoffs","Round 4","Bilibili Gaming","Top Esports","WLWW","","dom","P"],
     ["2023-07-30","LPL 2023 Summer Playoffs","Semifinal","Bilibili Gaming","JD Gaming","LLL","","dom","P"],
     ["2023-08-01","LPL 2023 Summer Playoffs","Semifinal","Bilibili Gaming","LNG Esports","WLLL","","dom","P"],
-    ["2023-11-03","Worlds 2023","Quarterfinal","Bilibili Gaming","Gen.G","WWLLW","r","worlds","P"],
+    ["2023-11-03","Worlds 2023","Quarterfinal","Bilibili Gaming","Gen.G","WWLLW","","worlds","P"],
     ["2023-11-11","Worlds 2023","Semifinal","Bilibili Gaming","Weibo Gaming","LWLWL","","worlds","P"],
     ["2023-12-31","Demacia Cup 2023","Quarterfinal","Bilibili Gaming","Royal Never Give Up","WLWW","","dom","P"],
     ["2024-01-03","Demacia Cup 2023","Semifinal","Bilibili Gaming","Ninjas in Pyjamas.CN","WWW","","dom","P"],

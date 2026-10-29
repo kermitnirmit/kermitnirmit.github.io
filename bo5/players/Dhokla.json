@@ -1,6 +1,6 @@
 {
   "player": "Dhokla",
-  "generated": "2026-10-23",
+  "generated": "2026-10-29",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2017-08-25","OPL 2017 Split 2 Playoffs","Round 1","Sin Gaming","Avant Gaming","WLLWW","","dom","P"],
@@ -33,7 +33,7 @@
     ["2023-08-12","LCS 2023 Championship","Round 4","NRG","Cloud9","LLL","","dom","P"],
     ["2023-08-19","LCS 2023 Championship","Round 4","NRG","Team Liquid","WLWLW","","dom","P"],
     ["2023-08-20","LCS 2023 Championship","Final","NRG","Cloud9","LWWW","","dom","P"],
-    ["2023-11-02","Worlds 2023","Quarterfinal","NRG","Weibo Gaming","LLL","r","worlds","P"],
+    ["2023-11-02","Worlds 2023","Quarterfinal","NRG","Weibo Gaming","LLL","","worlds","P"],
     ["2024-03-16","LCS 2024 Spring Playoffs","Round 1","NRG","100 Thieves","WLLWL","","dom","P"],
     ["2024-08-18","LCS 2024 Championship","Round 1","NRG","FlyQuest","LWLL","","dom","P"],
     ["2024-08-23","LCS 2024 Championship","Round 1","NRG","Dignitas","LWLWL","","dom","P"],

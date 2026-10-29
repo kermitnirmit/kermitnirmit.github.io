@@ -1,6 +1,6 @@
 {
   "player": "Keria",
-  "generated": "2026-10-25",
+  "generated": "2026-10-29",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2017-11-22","LoL KeSPA Cup 2017","Elimination Round","Gyeonggi","ROX Tigers","LL","","dom","P"],
@@ -272,7 +272,8 @@
     ["2026-08-14","LCK 2026 Rounds 3-4","","T1","Dplus Kia","WLL","","dom","P"],
     ["2026-08-16","LCK 2026 Rounds 3-4","","T1","Gen.G","LL","","dom","P"],
     ["2026-08-21","LCK 2026 Rounds 3-4","","T1","KT Rolster","LWW","","dom","P"],
-    ["2026-08-23","LCK 2026 Rounds 3-4","","T1","Hanwha Life Esports","LL","","dom","P"]
+    ["2026-08-23","LCK 2026 Rounds 3-4","","T1","Hanwha Life Esports","LL","","dom","P"],
+    ["2026-10-28","Worlds 2026","Round 4","T1","Movistar KOI","WW","","worlds","P"]
   ],
   "unknown": []
 }

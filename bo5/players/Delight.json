@@ -1,6 +1,6 @@
 {
   "player": "Delight",
-  "generated": "2026-10-23",
+  "generated": "2026-10-29",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2022-03-23","LCK 2022 Spring Playoffs","Quarterfinal","Fredit BRION","DWG KIA","LLL","","dom","P"],
@@ -15,7 +15,7 @@
     ["2023-08-11","LCK 2023 Summer Playoffs","Round 2","Gen.G","Hanwha Life Esports","WWW","","dom","P"],
     ["2023-08-12","LCK 2023 Summer Playoffs","Round 3","Gen.G","T1","WLLWW","","dom","P"],
     ["2023-08-20","LCK 2023 Summer Playoffs","Final","Gen.G","T1","WWW","","dom","P"],
-    ["2023-11-03","Worlds 2023","Quarterfinal","Gen.G","Bilibili Gaming","LLWWL","r","worlds","P"],
+    ["2023-11-03","Worlds 2023","Quarterfinal","Gen.G","Bilibili Gaming","LLWWL","","worlds","P"],
     ["2024-03-30","LCK 2024 Spring Playoffs","Round 1","Hanwha Life Esports","Kwangdong Freecs","WWW","","dom","P"],
     ["2024-04-04","LCK 2024 Spring Playoffs","Round 2","Hanwha Life Esports","T1","WWW","","dom","P"],
     ["2024-04-06","LCK 2024 Spring Playoffs","Round 3","Hanwha Life Esports","Gen.G","WLLL","","dom","P"],

@@ -1,6 +1,6 @@
 {
   "player": "Faker",
-  "generated": "2026-10-23",
+  "generated": "2026-10-29",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2013-05-08","Champions 2013 Spring","Quarterfinal","SK Telecom T1 2","NaJin Shield","WWW","","dom","P"],
@@ -96,7 +96,7 @@
     ["2023-08-12","LCK 2023 Summer Playoffs","Round 3","T1","Gen.G","LWWLL","","dom","P"],
     ["2023-08-19","LCK 2023 Summer Playoffs","Round 3","T1","KT Rolster","WWLLW","","dom","P"],
     ["2023-08-20","LCK 2023 Summer Playoffs","Final","T1","Gen.G","LLL","","dom","P"],
-    ["2023-11-05","Worlds 2023","Quarterfinal","T1","LNG Esports","WWW","r","worlds","P"],
+    ["2023-11-05","Worlds 2023","Quarterfinal","T1","LNG Esports","WWW","","worlds","P"],
     ["2023-11-12","Worlds 2023","Semifinal","T1","JD Gaming","WLWW","","worlds","P"],
     ["2023-11-19","Worlds 2023","Final","T1","Weibo Gaming","WWW","","worlds","P"],
     ["2024-04-04","LCK 2024 Spring Playoffs","Round 2","T1","Hanwha Life Esports","LLL","","dom","P"],

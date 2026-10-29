@@ -1,6 +1,6 @@
 {
   "player": "Aiming",
-  "generated": "2026-10-23",
+  "generated": "2026-10-29",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2019-09-03","LCK 2019 Regional Finals","Round 1","Afreeca Freecs","Kingzone DragonX","WLLL","","dom","P"],
@@ -16,7 +16,7 @@
     ["2023-08-13","LCK 2023 Summer Playoffs","Round 2","KT Rolster","Hanwha Life Esports","WWW","","dom","P"],
     ["2023-08-19","LCK 2023 Summer Playoffs","Round 3","KT Rolster","T1","LLWWL","","dom","P"],
     ["2023-08-24","LCK 2023 Regional Finals","Round 1","KT Rolster","Hanwha Life Esports","WWLW","","dom","P"],
-    ["2023-11-04","Worlds 2023","Quarterfinal","KT Rolster","JD Gaming","WLLL","r","worlds","P"],
+    ["2023-11-04","Worlds 2023","Quarterfinal","KT Rolster","JD Gaming","WLLL","","worlds","P"],
     ["2024-03-31","LCK 2024 Spring Playoffs","Round 1","Dplus Kia","KT Rolster","WLLWW","","dom","P"],
     ["2024-04-03","LCK 2024 Spring Playoffs","Round 2","Dplus Kia","Gen.G","LWLWL","","dom","P"],
     ["2024-04-07","LCK 2024 Spring Playoffs","Round 2","Dplus Kia","T1","LLL","","dom","P"],

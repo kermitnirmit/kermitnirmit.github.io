@@ -1,6 +1,6 @@
 {
   "player": "Tarzan (Lee Seung-yong)",
-  "generated": "2026-10-23",
+  "generated": "2026-10-29",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2017-05-05","Challengers Korea 2017 Summer Promotion","Qualifiers","Griffin (Korean Team)","REVERSE Gaming","WWW","","dom","S"],
@@ -42,7 +42,7 @@
     ["2023-08-01","LPL 2023 Summer Playoffs","Semifinal","LNG Esports","Bilibili Gaming","LWWW","","dom","P"],
     ["2023-08-05","LPL 2023 Summer Playoffs","Final","LNG Esports","JD Gaming","LWWLL","","dom","P"],
     ["2023-08-06","LPL 2023 Regional Finals","Round 1","LNG Esports","EDward Gaming","WLWW","","dom","P"],
-    ["2023-11-05","Worlds 2023","Quarterfinal","LNG Esports","T1","LLL","r","worlds","P"],
+    ["2023-11-05","Worlds 2023","Quarterfinal","LNG Esports","T1","LLL","","worlds","P"],
     ["2024-08-15","LPL 2024 Summer Playoffs","Round 3","Weibo Gaming","Ninjas in Pyjamas.CN","WLWW","","dom","P"],
     ["2024-08-17","LPL 2024 Summer Playoffs","Round 4","Weibo Gaming","Bilibili Gaming","LLL","","dom","P"],
     ["2024-08-22","LPL 2024 Summer Playoffs","Round 4","Weibo Gaming","LNG Esports","LWLWW","","dom","P"],

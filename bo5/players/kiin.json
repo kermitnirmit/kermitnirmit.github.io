@@ -1,6 +1,6 @@
 {
   "player": "kiin",
-  "generated": "2026-10-23",
+  "generated": "2026-10-29",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2018-04-08","LCK 2018 Spring Playoffs","Round 3","Afreeca Freecs","KT Rolster","LWWW","","dom","P"],
@@ -25,7 +25,7 @@
     ["2023-08-13","LCK 2023 Summer Playoffs","Round 2","KT Rolster","Hanwha Life Esports","WWW","","dom","P"],
     ["2023-08-19","LCK 2023 Summer Playoffs","Round 3","KT Rolster","T1","LLWWL","","dom","P"],
     ["2023-08-24","LCK 2023 Regional Finals","Round 1","KT Rolster","Hanwha Life Esports","WWLW","","dom","P"],
-    ["2023-11-04","Worlds 2023","Quarterfinal","KT Rolster","JD Gaming","WLLL","r","worlds","P"],
+    ["2023-11-04","Worlds 2023","Quarterfinal","KT Rolster","JD Gaming","WLLL","","worlds","P"],
     ["2024-04-03","LCK 2024 Spring Playoffs","Round 2","Gen.G","Dplus Kia","WLWLW","","dom","P"],
     ["2024-04-06","LCK 2024 Spring Playoffs","Round 3","Gen.G","Hanwha Life Esports","LWWW","","dom","P"],
     ["2024-04-14","LCK 2024 Spring Playoffs","Final","Gen.G","T1","WLLWW","","dom","P"],

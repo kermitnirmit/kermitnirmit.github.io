@@ -1,6 +1,6 @@
 {
   "player": "Saint (Kang Sung-in)",
-  "generated": "2026-10-26",
+  "generated": "2026-10-29",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2022-08-06","LCK Academy Series 2022 August","Quarterfinal","DWG KIA Youth","Nongshim RedForce Academy","LWW","r","dom","S"],
@@ -110,7 +110,8 @@
     ["2026-08-29","LCS 2026 Summer","","LYON (2024 American Team)","Cloud9","WW","","dom","P"],
     ["2026-08-30","LCS 2026 Summer","","LYON (2024 American Team)","Team Liquid","WW","","dom","P"],
     ["2026-09-06","LCS 2026 Summer","","LYON (2024 American Team)","Disguised","WW","","dom","P"],
-    ["2026-10-25","Worlds 2026","Round 3","LYON (2024 American Team)","Gen.G","WLL","","worlds","P"]
+    ["2026-10-25","Worlds 2026","Round 3","LYON (2024 American Team)","Gen.G","WLL","","worlds","P"],
+    ["2026-10-28","Worlds 2026","Round 4","LYON (2024 American Team)","Invictus Gaming","LWL","","worlds","P"]
   ],
   "unknown": [
     ["2022-06-19","LCK Academy Series 2022 June","Round of 16","DWG KIA Youth","Kwangdong Freecs Youth","1-2","","dom","S"]

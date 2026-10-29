@@ -1,6 +1,6 @@
 {
   "player": "JiaQi",
-  "generated": "2026-10-25",
+  "generated": "2026-10-29",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2021-01-16","LDL 2021 Spring","","Top Esports Challenger","TWELVE","LL","","dom","S"],
@@ -139,7 +139,8 @@
     ["2026-05-12","LPL 2026 Split 2","","Invictus Gaming","Bilibili Gaming","WLL","","dom","P"],
     ["2026-05-17","LPL 2026 Split 2","","Invictus Gaming","JD Gaming","WLL","","dom","P"],
     ["2026-08-16","LPL 2026 Split 3","","Invictus Gaming","Weibo Gaming","WLW","","dom","P"],
-    ["2026-08-22","LPL 2026 Split 3","","Invictus Gaming","Ninjas in Pyjamas.CN","LL","","dom","P"]
+    ["2026-08-22","LPL 2026 Split 3","","Invictus Gaming","Ninjas in Pyjamas.CN","LL","","dom","P"],
+    ["2026-10-28","Worlds 2026","Round 4","Invictus Gaming","LYON (2024 American Team)","WLW","","worlds","P"]
   ],
   "unknown": []
 }

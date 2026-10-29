@@ -1,6 +1,6 @@
 {
   "player": "Zika",
-  "generated": "2026-10-23",
+  "generated": "2026-10-29",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2023-01-03","Weibo Cup 2022","Quarterfinal","LNG Esports","Invictus Gaming Young","WLWW","r","dom","P"],
@@ -13,7 +13,7 @@
     ["2023-08-01","LPL 2023 Summer Playoffs","Semifinal","LNG Esports","Bilibili Gaming","LWWW","","dom","P"],
     ["2023-08-05","LPL 2023 Summer Playoffs","Final","LNG Esports","JD Gaming","LWWLL","","dom","P"],
     ["2023-08-06","LPL 2023 Regional Finals","Round 1","LNG Esports","EDward Gaming","WLWW","","dom","P"],
-    ["2023-11-05","Worlds 2023","Quarterfinal","LNG Esports","T1","LLL","r","worlds","P"],
+    ["2023-11-05","Worlds 2023","Quarterfinal","LNG Esports","T1","LLL","","worlds","P"],
     ["2024-01-01","Demacia Cup 2023","Quarterfinal","LNG Esports","Rare Atom","LLWL","","dom","P"],
     ["2024-04-03","LPL 2024 Spring Playoffs","Round 2","LNG Esports","Weibo Gaming","LLWWL","","dom","P"],
     ["2024-08-18","LPL 2024 Summer Playoffs","Round 4","LNG Esports","Top Esports","LLL","","dom","P"],

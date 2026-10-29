@@ -1,6 +1,6 @@
 {
   "player": "Light (Wang Guang-Yu)",
-  "generated": "2026-10-23",
+  "generated": "2026-10-29",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2021-04-02","LPL 2021 Spring Playoffs","Round 1","LNG Esports","Suning","LLL","","dom","P"],
@@ -29,7 +29,7 @@
     ["2023-07-25","LPL 2023 Summer Playoffs","Round 3","Weibo Gaming","LNG Esports","WLWLL","","dom","P"],
     ["2023-08-07","LPL 2023 Regional Finals","Round 1","Weibo Gaming","Top Esports","LWLWW","","dom","P"],
     ["2023-08-08","LPL 2023 Regional Finals","Round 2","Weibo Gaming","EDward Gaming","WLWW","","dom","P"],
-    ["2023-11-02","Worlds 2023","Quarterfinal","Weibo Gaming","NRG","WWW","r","worlds","P"],
+    ["2023-11-02","Worlds 2023","Quarterfinal","Weibo Gaming","NRG","WWW","","worlds","P"],
     ["2023-11-11","Worlds 2023","Semifinal","Weibo Gaming","Bilibili Gaming","WLWLW","","worlds","P"],
     ["2023-11-19","Worlds 2023","Final","Weibo Gaming","T1","LLL","","worlds","P"],
     ["2023-12-31","Demacia Cup 2023","Quarterfinal","Weibo Gaming","Ninjas in Pyjamas.CN","WLWLL","","dom","P"],
