@@ -159,23 +159,6 @@ function renderLive() {
 }
 
 function recordsBefore(r) { return derive(eff.rounds.slice(0, r - 1)); }
-function renderBoard() {
-  const sec = document.getElementById('standings');
-  if (!eff.pi) { sec.hidden = true; return; }
-  sec.hidden = false;
-  // every decided match moves its teams, without waiting for the rest of the round
-  setPlayIn(eff.pi);
-  const st = bracketRecords();
-  const recs = ['3–0', '3–1', '3–2', '2–0', '2–1', '2–2', '1–0', '1–1', '1–2', '0–0', '0–1', '0–2', '2–3', '1–3', '0–3'];
-  const by = new Map();
-  for (let i = 0; i < 16; i++) { const k = st.w[i] + '–' + st.l[i]; if (!by.has(k)) by.set(k, []); by.get(k).push(i); }
-  document.getElementById('board').innerHTML = recs.filter(k => by.has(k)).map(k => {
-    const [w, l] = k.split('–').map(Number);
-    const cls = w === 3 ? 'adv' : l === 3 ? 'out' : '', lab = w === 3 ? 'Advanced' : l === 3 ? 'Eliminated' : '';
-    return `<div class="rec ${cls}"><h4>${k}<em>${lab || by.get(k).length + ' teams'}</em></h4><div>${by.get(k).map(i => `<span class="tag" title="${T[i].name}">${name(i)}${rg(name(i))}</span>`).join('')}</div></div>`;
-  }).join('');
-}
-
 // ---------- chances to advance ----------
 // sim.js plays the rest of the stage SIM_RUNS times from what's on screen and sends back a running tally.
 const SIM_RUNS = 20000;
@@ -683,7 +666,7 @@ function nextStep(live) {
 }
 
 function render() {
-  renderCount(); renderBoard(); renderRegions(); renderLive();
+  renderCount(); renderRegions(); renderLive();
   const live = eff.pi ? cur() : { r: 0 };
   bracketEl.innerHTML = renderBracket(live);
   tracing = null; bracketEl.classList.remove('tracing');
