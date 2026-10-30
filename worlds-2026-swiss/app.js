@@ -359,23 +359,28 @@ function regionOf(code) {
   return (t && t.region) || (PLAYIN[code] && PLAYIN[code].region) || '';
 }
 const rg = (code) => { const r = regionOf(code); return r ? `<i class="rg">${r}</i>` : ''; };
-function bCell(top, bot, x, actTop, actBot, locked, unpairAct, bo) {
-  // chance to win the series from Riot's Global Power Rankings, same odds the simulator plays with
+// tag every rendered team with its bracket slot, so hovering one can trace its path
+const dt = (code) => { const i = T.findIndex(t => t.id === code); return i >= 0 ? ` data-team="${i}"` : ''; };
+function bCell(top, bot, x, actTop, actBot, locked, unpairAct, bo, score) {
+  // chance to win the series from Riot's Global Power Rankings, same odds the simulator plays with;
+  // a series that has been played out shows the games each side took instead of the chance it had
   const known = top in GPR.pts && bot in GPR.pts;
   const pTop = known ? Math.round(100 * gprSeries(top, bot, bo)) : null;
-  const label = (name, p) => `<span class="nm">${name}${rg(name)}</span>${p === null ? '' : `<small class="wp">${p}%</small>`}`;
+  const notes = score ? score.map(String) : pTop === null ? [null, null] : [pTop + '%', (100 - pTop) + '%'];
+  const note = score ? 'wp sc' : 'wp';
+  const label = (name, p) => `<span class="nm">${name}${rg(name)}</span>${p === null ? '' : `<small class="${note}">${p}</small>`}`;
   const row = (name, p, cls, act) => act
-    ? `<button class="${cls}" data-act="${act}" ${locked ? 'aria-disabled="true"' : ''} title="${locked ? 'Real result' : 'Pick the winner'}">${label(name, p)}</button>`
-    : `<span class="${cls}">${label(name, p)}</span>`;
+    ? `<button class="${cls}"${dt(name)} data-act="${act}" ${locked ? 'aria-disabled="true"' : ''} title="${locked ? 'Real result' : 'Pick the winner'}">${label(name, p)}</button>`
+    : `<span class="${cls}"${dt(name)}>${label(name, p)}</span>`;
   const extra = locked ? `<span class="blk" title="Real result">${LOCK_SVG}</span>`
     : unpairAct ? `<button class="ux" data-act="${unpairAct}" aria-label="Undraw this match" title="Undraw this match">×</button>` : '';
-  return `<div class="bx ${locked ? 'real' : ''} ${extra ? 'hasicon' : ''}">${row(top, pTop, x === 1 ? 'w' : x === 2 ? 'l' : '', actTop)}${row(bot, pTop === null ? null : 100 - pTop, x === 2 ? 'w' : x === 1 ? 'l' : '', actBot)}${extra}</div>`;
+  return `<div class="bx ${locked ? 'real' : ''} ${extra ? 'hasicon' : ''}">${row(top, notes[0], x === 1 ? 'w' : x === 2 ? 'l' : '', actTop)}${row(bot, notes[1], x === 2 ? 'w' : x === 1 ? 'l' : '', actBot)}${extra}</div>`;
 }
 // undrawn teams: in the current round each is a button that drafts it into a match, same as the main page
 function bSlots(teams, total, drawable, r, bo) {
   const shares = drawable && !busy && !sharesPending && latest && latest.r === r && latest.pairShare ? latest : null;
   const slot = (i) => {
-    if (!drawable) return `<span class="bslot" title="${T[i].name}">${bName(i)}${rg(bName(i))}</span>`;
+    if (!drawable) return `<span class="bslot" data-team="${i}" title="${T[i].name}">${bName(i)}${rg(bName(i))}</span>`;
     let cls = '', dis = false;
     if (selected === i) cls = 'sel';
     else if (selected !== null) {
@@ -383,7 +388,7 @@ function bSlots(teams, total, drawable, r, bo) {
       if (v !== undefined && v > 0n) cls = 'elig'; else { cls = 'dim'; dis = !!shares; }
     }
     const odds = cls === 'elig' ? ` <small>${Math.round(100 * gprSeries(name(selected), name(i), bo))}%</small>` : '';
-    return `<button class="bslot ${cls}" data-act="pick:${i}" ${dis ? 'disabled' : ''} title="${T[i].name}">${bName(i)}${rg(bName(i))}${odds}</button>`;
+    return `<button class="bslot ${cls}" data-team="${i}" data-act="pick:${i}" ${dis ? 'disabled' : ''} title="${T[i].name}">${bName(i)}${rg(bName(i))}${odds}</button>`;
   };
   return `<div class="bslots">${teams.map(slot).join('')}${Array.from({ length: Math.max(0, total - teams.length) }, () => '<span class="bslot q">?</span>').join('')}</div>`;
 }
@@ -418,45 +423,259 @@ function renderBracket(live) {
   const cols = BCOLS.map((keys, c) => `<div class="bcol c${c + 1} ${curR === c + 1 ? 'now' : ''}" data-head="${BHEADS[c]}">${keys.map(k => bPool(k, rec, curR)).join('')}</div>`).join('');
   return `<div class="bheads">${heads}</div><div class="bgrid">${cols}</div><svg class="blines" aria-hidden="true"></svg>`;
 }
-function drawBracketLines() {
-  const root = document.getElementById('bracket'), svg = root && root.querySelector('svg.blines');
-  if (!svg) return;
+const f1 = (n) => n.toFixed(1);
+// one box to the next: left to right on wide screens, top to bottom on narrow ones
+function curveTo(s, b, vertical) {
+  if (vertical) {
+    const x1 = s.x + s.w / 2, y1 = s.y + s.h, x2 = b.x + b.w / 2, y2 = b.y, my = (y1 + y2) / 2;
+    return `M${f1(x1)} ${f1(y1)}C${f1(x1)} ${f1(my)} ${f1(x2)} ${f1(my)} ${f1(x2)} ${f1(y2)}`;
+  }
+  const x1 = s.x + s.w, y1 = s.y + s.h / 2, x2 = b.x, y2 = b.y + b.h / 2, mx = (x1 + x2) / 2;
+  return `M${f1(x1)} ${f1(y1)}C${f1(mx)} ${f1(y1)} ${f1(mx)} ${f1(y2)} ${f1(x2)} ${f1(y2)}`;
+}
+// measure boxes inside one bracket, relative to that bracket
+function boxer(id) {
+  const root = document.getElementById(id), svg = root && root.querySelector('svg.blines');
+  if (!svg) return null;
   const R = root.getBoundingClientRect();
-  const box = (k) => { const e = root.querySelector(`[data-rec="${k}"]`); if (!e) return null; const b = e.getBoundingClientRect(); return { x: b.left - R.left, y: b.top - R.top, w: b.width, h: b.height }; };
-  const vertical = window.matchMedia && window.matchMedia('(max-width: 700px)').matches;
-  const f = (n) => n.toFixed(1);
-  const curve = (s, b) => {
-    if (vertical) {   // bottom of one pool to the top of the next, flowing down
-      const x1 = s.x + s.w / 2, y1 = s.y + s.h, x2 = b.x + b.w / 2, y2 = b.y, my = (y1 + y2) / 2;
-      return `M${f(x1)} ${f(y1)}C${f(x1)} ${f(my)} ${f(x2)} ${f(my)} ${f(x2)} ${f(y2)}`;
-    }
-    const x1 = s.x + s.w, y1 = s.y + s.h / 2, x2 = b.x, y2 = b.y + b.h / 2, mx = (x1 + x2) / 2;
-    return `M${f(x1)} ${f(y1)}C${f(mx)} ${f(y1)} ${f(mx)} ${f(y2)} ${f(x2)} ${f(y2)}`;
-  };
+  const rect = (e) => { if (!e) return null; const b = e.getBoundingClientRect(); return { x: b.left - R.left, y: b.top - R.top, w: b.width, h: b.height }; };
+  return { svg, root, rect, w: R.width, h: R.height,
+    vertical: !!(window.matchMedia && window.matchMedia('(max-width: 700px)').matches),
+    box: (k) => rect(root.querySelector(`[data-rec="${k}"]`)) };
+}
+function paintLines(m, paths) {
+  m.svg.setAttribute('viewBox', `0 0 ${f1(m.w)} ${f1(m.h)}`);
+  m.svg.innerHTML = paths.map(([d, c, o, w]) => `<path d="${d}" fill="none" stroke="${c}" stroke-opacity="${o}" stroke-width="${w || 1.25}" stroke-linecap="round"/>`).join('');
+}
+
+// ---------- tracing one team through the Swiss stage ----------
+const bracketEl = document.getElementById('bracket');
+let tracing = null;
+// the pools a team sits in, in order: every record it has actually held, then where it finished
+function teamPath(i) {
+  const rec = bracketRecords(), keys = i === PI ? ['pi'] : [];
+  for (let r = 0; r < 5; r++) {
+    const w = rec.start[r].w[i], l = rec.start[r].l[i];
+    if (w + l !== r || w >= 3 || l >= 3) break;
+    keys.push(w + '-' + l);
+  }
+  if (rec.w[i] === 3 || rec.l[i] === 3) keys.push(rec.w[i] + '-' + rec.l[i]);
+  return keys;
+}
+function setTrace(i) {
+  if (tracing === i) return;
+  tracing = i;
+  bracketEl.classList.toggle('tracing', i !== null);
+  for (const e of bracketEl.querySelectorAll('[data-team].on')) e.classList.remove('on');
+  if (i !== null) for (const e of bracketEl.querySelectorAll(`[data-team="${i}"]`)) e.classList.add('on');
+  drawBracketLines();
+}
+bracketEl.addEventListener('mouseover', (e) => {
+  const el = e.target.closest('[data-team]');
+  setTrace(el ? +el.dataset.team : null);
+});
+bracketEl.addEventListener('mouseleave', () => setTrace(null));
+
+function drawBracketLines() {
+  const m = boxer('bracket'); if (!m) return;
+  const curve = (s, b) => curveTo(s, b, m.vertical);
   let up = '', down = '';
   for (const key of Object.keys(POOL_INFO)) {
-    const [w, l] = key.split('-').map(Number), s = box(key); if (!s) continue;
-    const bw = box(`${w + 1}-${l}`), bl = box(`${w}-${l + 1}`);
+    const [w, l] = key.split('-').map(Number), s = m.box(key); if (!s) continue;
+    const bw = m.box(`${w + 1}-${l}`), bl = m.box(`${w}-${l + 1}`);
     if (bw) up += curve(s, bw);
     if (bl) down += curve(s, bl);
   }
-  const p = box('pi'), z = box('0-0');
-  if (p && z) up += `M${f(p.x + p.w / 2)} ${f(p.y + p.h)}L${f(z.x + z.w / 2)} ${f(z.y)}`;
-  svg.setAttribute('viewBox', `0 0 ${R.width.toFixed(1)} ${R.height.toFixed(1)}`);
-  svg.innerHTML = `<path d="${up}" fill="none" stroke="var(--win)" stroke-opacity=".55" stroke-width="1.25"/><path d="${down}" fill="none" stroke="var(--loss)" stroke-opacity=".5" stroke-width="1.25"/>`;
+  const p = m.box('pi'), z = m.box('0-0');
+  if (p && z) up += `M${f1(p.x + p.w / 2)} ${f1(p.y + p.h)}L${f1(z.x + z.w / 2)} ${f1(z.y)}`;
+  const on = tracing !== null;
+  const paths = [[up, 'var(--win)', on ? '.3' : '.55'], [down, 'var(--loss)', on ? '.28' : '.5']];
+  if (on) {
+    let d = '', prev = null;
+    for (const key of teamPath(tracing)) {
+      const pool = m.root.querySelector(`[data-rec="${key}"]`);
+      const b = m.rect(pool && pool.querySelector(`[data-team="${tracing}"]`)) || m.box(key);
+      if (!b) continue;
+      if (prev) d += curve(prev, b);
+      prev = b;
+    }
+    paths.push([d, 'var(--accent)', '.95', 2.5]);
+  }
+  paintLines(m, paths);
 }
+function drawKoLines() {
+  const m = boxer('kbracket'); if (!m) return;
+  let d = '';
+  for (let k = 4; k <= 6; k++) for (const from of KO_FEED[k]) {
+    const s = m.box('k' + from), b = m.box('k' + k);
+    if (s && b) d += curveTo(s, b, m.vertical);
+  }
+  paintLines(m, [[d, 'var(--accent)', '.5']]);
+}
+function drawAllLines() { drawBracketLines(); drawKoLines(); }
 
-function renderQualified() {
-  const rec = bracketRecords();
-  const groups = [[0, 2], [1, 3], [2, 3]].map(([l, n]) => {
-    const ts = [...Array(16).keys()].filter(i => rec.w[i] === 3 && rec.l[i] === l);
-    const tags = ts.map(i => `<span class="tag" title="${T[i].name}">${bName(i)}</span>`).join('')
-      + Array.from({ length: n - ts.length }, () => '<span class="tag slot">?</span>').join('');
-    return `<div class="rec adv"><h4>3–${l}<em>${ts.length} of ${n}</em></h4><div>${tags}</div></div>`;
-  }).join('');
-  const made = rec.w.filter(x => x === 3).length;
-  return `<section class="round" id="qualified"><h2>Through to the quarterfinals <small>${made} of 8</small></h2><div class="board">${groups}</div></section>`;
+// ---------- knockout stage ----------
+// Riot's rule: the two 3-0 teams go on opposite sides of the bracket and each draw one of the
+// three 3-2 teams. The last 3-2 and the three 3-1 teams fill the other two quarterfinals.
+// Pinning the first 3-0 team to QF1 leaves exactly 36 brackets, and 36 x 2^7 = 4,608 knockouts.
+const KO_HEADS = ['Quarterfinals', 'Semifinals', 'Final'];
+const KO_LABEL = ['Quarterfinal 1', 'Quarterfinal 2', 'Quarterfinal 3', 'Quarterfinal 4', 'Semifinal 1', 'Semifinal 2', 'Final'];
+const KO_FEED = [null, null, null, null, [0, 1], [2, 3], [4, 5]];
+const KO_SIZE = [2, 3, 3];              // teams that finish 3-0, 3-1, 3-2
+const KO_ODDS = [[['a 3–2 team', '1 in 3']],
+                 [['another 3–1 team', '1 in 3'], ['a 3–2 team', '1 in 9']],
+                 [['a 3–0 team', '1 in 3'], ['a 3–1 team', '1 in 9']]];
+const P4 = [[0, 1, 2, 3], [0, 2, 1, 3], [0, 3, 1, 2]];   // the three ways four teams pair off
+const KO_WAYS = 4608n;
+let ko = null;        // {sig, qf: [pair or null x4], win: [7], score: [7]}
+let koSel = null;     // team the viewer has tapped, waiting for an opponent
+
+function qualifiers() {
+  const rec = bracketRecords(), g = [[], [], []];
+  for (let i = 0; i < 16; i++) if (rec.w[i] === 3) g[rec.l[i]].push(i);
+  return { g, full: g.every((a, k) => a.length === KO_SIZE[k]), sig: g.map(a => a.join(',')).join('|') };
 }
+// every bracket the rule allows, as four quarterfinals in order
+function koArrangements(q) {
+  const [z, o, t] = q.g, out = [];
+  for (let k = 0; k < 3; k++) {                                        // which 3-2 joins the 3-1s
+    const rest = t.filter((_, j) => j !== k), four = o.concat(t[k]);
+    for (const [p, r] of [[rest[0], rest[1]], [rest[1], rest[0]]])     // which 3-2 meets which 3-0
+      for (const m of P4) for (const s of [0, 1]) {                    // how the other four pair and sit
+        const a = [four[m[0]], four[m[1]]], b = [four[m[2]], four[m[3]]];
+        out.push([[z[0], p], s ? b : a, [z[1], r], s ? a : b]);
+      }
+  }
+  return out;
+}
+const samePair = (p, x) => !!p && !!x && ((p[0] === x[0] && p[1] === x[1]) || (p[0] === x[1] && p[1] === x[0]));
+// the brackets still open given what has been drawn so far
+function koOpen(q, qf) { return koArrangements(q).filter(A => qf.every((p, s) => !p || samePair(p, A[s]))); }
+// who a tapped team can still be drawn against
+function koPartners(q, qf, i) {
+  const set = new Set();
+  for (const A of koOpen(q, qf)) for (const [x, y] of A) { if (x === i) set.add(y); else if (y === i) set.add(x); }
+  return set;
+}
+const koSlotFor = (q, qf, a, b) => {
+  for (let s = 0; s < 4; s++) if (!qf[s] && koOpen(q, qf.map((p, k) => k === s ? [a, b] : p)).length) return s;
+  return -1;
+};
+const koSeats = (m) => m < 4 ? (ko.qf[m] || [-1, -1]) : KO_FEED[m].map(k => ko.win[k]);
+function koClear(m) { ko.win[m] = -1; ko.score[m] = null; }
+// drop any winner whose seat is gone; feeds always come earlier, so one pass does it
+function koFix() { for (let m = 0; m < 7; m++) if (ko.win[m] >= 0 && !koSeats(m).includes(ko.win[m])) koClear(m); }
+function koStart(q) { if (!ko || ko.sig !== q.sig) ko = { sig: q.sig, qf: [null, null, null, null], win: Array(7).fill(-1), score: Array(7).fill(null) }; }
+function koPlace(q, a, b) {
+  const s = koSlotFor(q, ko.qf, a, b);
+  if (s < 0) return false;
+  ko.qf[s] = q.g[0].includes(b) ? [b, a] : [a, b];   // the 3-0 team sits on top
+  return true;
+}
+function koDrawRest(q) {
+  const opts = koOpen(q, ko.qf);
+  if (!opts.length) return;
+  const A = opts[Math.floor(Math.random() * opts.length)];
+  for (let s = 0; s < 4; s++) if (!ko.qf[s]) ko.qf[s] = A[s].slice();
+}
+// games the beaten side took, given who won: play Bo5s at GPR's per-game odds until that side wins
+function koScore(winCode, loseCode) {
+  for (let i = 0; i < 200; i++) { const s = playScore(winCode, loseCode, 5); if (s.a === 3) return s.b; }
+  return 2;
+}
+function koSet(m, t) {
+  const [a, b] = koSeats(m);
+  ko.win[m] = t;
+  ko.score[m] = koScore(name(t), name(t === a ? b : a));
+}
+function koSimRest() {
+  for (let m = 0; m < 7; m++) {
+    const [a, b] = koSeats(m);
+    if (ko.win[m] >= 0 || a < 0 || b < 0) continue;
+    const s = playScore(name(a), name(b), 5);
+    ko.win[m] = s.a > s.b ? a : b;
+    ko.score[m] = Math.min(s.a, s.b);
+  }
+}
+function koWays(q) {
+  if (!ko) return KO_WAYS;
+  return BigInt(koOpen(q, ko.qf).length) * (1n << BigInt(ko.win.filter(x => x < 0).length));
+}
+const koDrawn = () => ko && ko.qf.every(Boolean);
+
+// who each record bucket can draw, and the teams in it so far
+function renderKodds(q) {
+  const placed = new Set(ko ? ko.qf.flatMap(p => p || []) : []);
+  const mates = koSel === null ? null : koPartners(q, ko.qf, koSel);
+  return q.g.map((ts, k) => {
+    const tags = ts.map(i => {
+      const nm = `${bName(i)}${rg(bName(i))}`;
+      if (!ko || placed.has(i)) return `<span class="tag ${placed.has(i) ? 'drawn' : ''}" title="${T[i].name}">${nm}</span>`;
+      const cls = koSel === i ? 'sel' : koSel === null ? '' : mates.has(i) ? 'elig' : 'dim';
+      return `<button class="tag ${cls}" data-act="ksel:${i}" ${cls === 'dim' ? 'disabled' : ''} title="${T[i].name}">${nm}</button>`;
+    }).join('') + Array.from({ length: KO_SIZE[k] - ts.length }, () => '<span class="tag slot">?</span>').join('');
+    const odds = KO_ODDS[k].map(([who, p]) => `<span>${who} <b>${p}</b></span>`).join('');
+    return `<div class="korow"><h4>3–${k}<em>${ts.length} of ${KO_SIZE[k]}</em></h4><div class="kot">${tags}</div><div class="koo">${odds}</div></div>`;
+  }).join('');
+}
+function koCell(m) {
+  const [a, b] = ko ? koSeats(m) : [-1, -1], x = ko ? ko.win[m] : -1, live = a >= 0 && b >= 0;
+  const an = a >= 0 ? bName(a) : '—', bn = b >= 0 ? bName(b) : '—';
+  const sc = ko && x >= 0 && ko.score[m] !== null ? (x === a ? [3, ko.score[m]] : [ko.score[m], 3]) : null;
+  return `<div class="bpool ${live ? '' : 'tbd'}" data-rec="k${m}"><div class="bh"><span>${KO_LABEL[m]}</span><em>Bo5</em></div>`
+    + bCell(an, bn, x < 0 ? 0 : x === a ? 1 : 2, live ? `kwin:${m}:${a}` : null, live ? `kwin:${m}:${b}` : null,
+            false, m < 4 && ko && ko.qf[m] ? `kunpair:${m}` : null, 5, sc)
+    + `</div>`;
+}
+function renderKoBracket() {
+  const heads = KO_HEADS.map(h => `<span>${h}</span>`).join('');
+  const cols = [[0, 1, 2, 3], [4, 5], [6]].map((ms, c) =>
+    `<div class="bcol kc${c + 1}" data-head="${KO_HEADS[c]}">${ms.map(koCell).join('')}</div>`).join('');
+  return `<div class="bheads">${heads}</div><div class="bgrid">${cols}</div><svg class="blines" aria-hidden="true"></svg>`;
+}
+function koNote(q, made) {
+  if (ko && ko.win[6] >= 0) return `<b>${T[ko.win[6]].name}</b> win Worlds 2026.`;
+  if (!q.full) return `${8 - made} more team${made === 7 ? '' : 's'} still to qualify. Finish the Swiss stage above to draw the quarterfinals.`;
+  if (!koDrawn()) return koSel !== null
+    ? `Now tap <b>${name(koSel)}</b>’s quarterfinal opponent. Dashed teams are legal. Tap ${name(koSel)} again to cancel.`
+    : 'Tap a team, then its quarterfinal opponent — or draw the rest at random. Each match has an × to undo it.';
+  return 'Tap the winner of each match, or tap a decided match again to undo it.';
+}
+function renderKo() {
+  const q = qualifiers();
+  if (ko && ko.sig !== q.sig) { ko = null; koSel = null; }
+  if (q.full) koStart(q);
+  const made = q.g.reduce((n, a) => n + a.length, 0), ways = koWays(q);
+  document.getElementById('kodds').innerHTML = renderKodds(q);
+  document.getElementById('koCount').textContent = !q.full ? `${made} of 8 teams in`
+    : ways === 1n ? 'one bracket, fully decided' : commas(ways) + ' ways left';
+  document.getElementById('kbracket').innerHTML = renderKoBracket();
+  drawKoLines();
+  document.getElementById('koNote').innerHTML = koNote(q, made);
+  document.getElementById('bKoDraw').textContent = koDrawn() ? 'Draw again' : 'Draw the rest';
+  document.getElementById('bKoDraw').disabled = !q.full;
+  document.getElementById('bKoSim').disabled = !q.full;
+  document.getElementById('bKoClear').disabled = !ko || (!koDrawn() && !ko.qf.some(Boolean) && ko.win.every(x => x < 0));
+}
+document.getElementById('kodds').addEventListener('click', (e) => {
+  const b = e.target.closest('[data-act]'); if (!b || b.disabled || !ko) return;
+  const i = +b.dataset.act.split(':')[1], q = qualifiers();
+  if (koSel === i) koSel = null;
+  else if (koSel === null) koSel = i;
+  else if (koPlace(q, koSel, i)) koSel = null;
+  renderKo();
+});
+document.getElementById('kbracket').addEventListener('click', (e) => {
+  const b = e.target.closest('[data-act]'); if (!b || b.disabled || !ko) return;
+  const [kind, m, t] = b.dataset.act.split(':').map(x => isNaN(+x) ? x : +x);
+  if (kind === 'kunpair') { ko.qf[m] = null; koSel = null; }
+  else if (kind === 'kwin') { if (ko.win[m] === t) koClear(m); else koSet(m, t); }
+  else return;
+  koFix(); renderKo();
+});
+document.getElementById('bKoDraw').onclick = () => { const q = qualifiers(); if (!q.full) return; if (koDrawn()) { ko = null; koStart(q); } koSel = null; koDrawRest(q); koFix(); renderKo(); };
+document.getElementById('bKoSim').onclick = () => { const q = qualifiers(); if (!q.full) return; koSel = null; koDrawRest(q); koSimRest(); renderKo(); };
+document.getElementById('bKoClear').onclick = () => { ko = null; koSel = null; renderKo(); };
 
 function nextStep(live) {
   if (!eff.pi) return 'Start with the Play-In final: tap the team that wins.';
@@ -473,8 +692,10 @@ function nextStep(live) {
 function render() {
   renderCount(); renderBoard(); renderRegions(); renderLive();
   const live = eff.pi ? cur() : { r: 0 };
-  document.getElementById('bracket').innerHTML = renderBracket(live);
+  bracketEl.innerHTML = renderBracket(live);
+  tracing = null; bracketEl.classList.remove('tracing');
   drawBracketLines();
+  renderKo();
   let html = live.r > 5 ? `<p class="done">The Swiss stage is fully decided. These eight teams go to the quarterfinal draw.</p>` : '';
   document.getElementById('after').innerHTML = html;
   document.getElementById('nextStep').innerHTML = nextStep(live);
@@ -570,7 +791,7 @@ document.getElementById('bUndo').onclick = () => { notice = '';
 };
 document.getElementById('bReset').onclick = () => { notice = ''; snapshot('Start over'); user = EMPTY(); commit(); };
 document.getElementById('liveToggle').onchange = (e) => { liveOn = e.target.checked; pendingLabel = liveOn ? 'Real results on' : 'Real results off'; commit(true); };
-window.addEventListener('resize', drawBracketLines);
+window.addEventListener('resize', drawAllLines);
 // The compact count only appears once the full count has scrolled out of view.
 if (window.IntersectionObserver) {
   new IntersectionObserver(([e]) => document.getElementById('mini').classList.toggle('show', !e.isIntersecting))
@@ -586,11 +807,23 @@ themeBtn.onclick = () => {
   const light = document.documentElement.dataset.swiss !== 'light';
   if (light) document.documentElement.dataset.swiss = 'light'; else delete document.documentElement.dataset.swiss;
   try { localStorage.setItem('swiss-theme', light ? 'light' : 'dark'); } catch (e) {}
-  syncThemeBtn(); drawBracketLines();
+  syncThemeBtn(); drawAllLines();
 };
 syncThemeBtn();
-if (document.fonts && document.fonts.ready) document.fonts.ready.then(drawBracketLines);
-if (window.ResizeObserver) new ResizeObserver(() => drawBracketLines()).observe(document.getElementById('bracket'));
+
+// Which GPR snapshot the win chances are read from.
+const gprSel = document.getElementById('gprSet');
+gprSel.innerHTML = GPR.sets.map((s, i) => `<option value="${i}">${s.label}</option>`).join('');
+try { const k = GPR.sets.findIndex(s => s.id === localStorage.getItem('swiss-gpr')); if (k >= 0) gprUse(k); } catch (e) {}
+function syncGpr() { gprSel.value = String(GPR.i); document.getElementById('gprAsOf').textContent = GPR.asOf; }
+gprSel.onchange = () => {
+  gprUse(+gprSel.value);
+  try { localStorage.setItem('swiss-gpr', GPR.sets[GPR.i].id); } catch (e) {}
+  syncGpr(); render();
+};
+syncGpr();
+if (document.fonts && document.fonts.ready) document.fonts.ready.then(drawAllLines);
+if (window.ResizeObserver) for (const id of ['bracket', 'kbracket']) new ResizeObserver(drawAllLines).observe(document.getElementById(id));
 
 // ---------- live results ----------
 async function poll() {

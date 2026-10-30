@@ -207,3 +207,40 @@ button.bslot:hover:not(:disabled){border-color:var(--accent);color:var(--ink)}
 .obar i.hot{filter:brightness(1.25);box-shadow:inset 0 0 0 1px var(--ink)}
 .otip{position:fixed;z-index:20;pointer-events:none;background:var(--card);border:1px solid var(--faint);border-radius:6px;padding:5px 8px;font-size:13.5px;white-space:nowrap;box-shadow:0 6px 20px rgba(0,0,0,.25)}
 .otip b{font-family:var(--mono);font-weight:700}
+
+/* Knockout stage: the quarterfinal draw rules, then a bracket you draw and play yourself. */
+#knockout .controls{margin-top:14px}
+#knockout .note{margin-top:10px}
+.kodds{display:grid;grid-template-columns:repeat(auto-fit,minmax(215px,1fr));gap:10px;margin-top:14px}
+.korow{border-top:3px solid var(--win);padding-top:6px;min-width:0}
+.korow h4{margin:0 0 6px;font-family:var(--display);font-weight:700;font-size:15px;display:flex;justify-content:space-between}
+.korow h4 em{font-style:normal;font-family:var(--mono);font-weight:400;font-size:11px;color:var(--muted)}
+.kot{display:flex;flex-wrap:wrap;gap:4px}
+.koo{display:flex;flex-direction:column;gap:1px;margin-top:7px;font-family:var(--mono);font-size:11.5px;line-height:1.5;color:var(--muted)}
+.koo b{font-weight:700;color:var(--accent)}
+button.tag{cursor:pointer;color:var(--ink)}
+button.tag:hover:not(:disabled){border-color:var(--accent)}
+.tag.sel{border-color:var(--accent);background:var(--accent-soft)}
+.tag.elig{border-style:dashed;border-color:var(--accent)}
+.tag.dim{opacity:.3}
+.tag.drawn{opacity:.45}
+#kbracket{min-width:620px}
+#kbracket .bheads,#kbracket .bgrid{grid-template-columns:repeat(3,minmax(0,1fr))}
+#kbracket .bpool.tbd .bx span{color:var(--faint);font-weight:500}
+@media (max-width:700px){
+  #kbracket{min-width:0}
+  #kbracket .bcol.kc1,#kbracket .bcol.kc2{grid-template-columns:repeat(2,minmax(0,1fr))}
+  #kbracket .bcol.kc3{grid-template-columns:minmax(0,1fr)}
+}
+.bx .sc{font-family:var(--mono);font-weight:700;font-size:12.5px;color:var(--ink)}
+/* a beaten team's game count still matters, so don't fade it as hard as a spent win chance */
+.bx .l:has(.sc){opacity:.7}
+.bx .l .sc{color:var(--muted)}
+
+/* Hovering a team fades the rest of the Swiss bracket back and traces its path through it. */
+#bracket.tracing .bx,#bracket.tracing .bslot{opacity:.62}
+#bracket.tracing .bx:has(.on),#bracket.tracing .bslot.on{opacity:1}
+#bracket .bx>.on .nm,#bracket .bslot.on{color:var(--accent)}
+#bracket .bslot.on{border-color:var(--accent)}
+.gprpick select{font-family:var(--mono);font-size:12.5px;color:var(--ink);background:var(--card);border:1px solid var(--line);border-radius:3px;padding:2px 4px;cursor:pointer}
+.gprpick select:hover{border-color:var(--accent)}

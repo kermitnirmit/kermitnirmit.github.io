@@ -7,7 +7,7 @@
 <meta name="description" content="Pick the Play-In winner, every Swiss draw and every winner of the Worlds 2026 Swiss stage, and watch the exact number of possible Swiss stages shrink.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Space+Mono:wght@400;700&display=swap">
-<link rel="stylesheet" href="style.css?v=a6e8d865">
+<link rel="stylesheet" href="style.css?v=4c91d46e">
 </head>
 <body>
 <script>try { if (localStorage.getItem('swiss-theme') === 'light') document.documentElement.dataset.swiss = 'light'; } catch (e) {}</script>
@@ -32,6 +32,7 @@
     <div class="live" id="live">
       <span id="liveText"><span class="dot"></span>Checking lolesports for real results…</span>
       <label><input type="checkbox" id="liveToggle" checked> Lock in real results</label>
+      <label class="gprpick">Power rankings <select id="gprSet" title="Which GPR snapshot the win chances are read from"></select></label>
     </div>
   </div>
 
@@ -56,6 +57,20 @@
     <p class="note" id="oddsNote"></p>
   </section>
 
+
+  <section class="round" id="knockout">
+    <h2>The quarterfinal draw <small id="koCount"></small></h2>
+    <p class="note">The two 3–0 teams go on opposite sides of the bracket and each draw one of the three 3–2 teams, so they can only meet in the final. The other four — all three 3–1 teams and the last 3–2 — are drawn against each other. No region or rematch rules apply. That leaves 18 possible sets of matchups and 36 possible brackets.</p>
+    <div class="kodds" id="kodds"></div>
+    <div class="controls">
+      <button id="bKoDraw">Draw the rest</button>
+      <button id="bKoSim">Sim the knockouts</button>
+      <button id="bKoClear">Clear the draw</button>
+    </div>
+    <p class="note" id="koNote"></p>
+    <div class="bracket-scroll"><div id="kbracket" class="bracket"></div></div>
+  </section>
+
   <section class="round" id="regions" hidden>
     <h2>Regions <small>the row region's record against the column region</small></h2>
     <div class="hh-wrap"><table class="hh" id="rgGrid"></table></div>
@@ -63,13 +78,13 @@
     <p class="note" id="rgNote"></p>
   </section>
 
-  <p class="foot">Round 1 pairs tier 1 with tier 4 and tier 2 with tier 3 and keeps teams from the same region apart. Later rounds pair teams with the same record, with no rematches. Real draws and results come from the lolesports schedule and refresh every two minutes. Counts are exact, from Riot's <a href="https://lolesports.com/en-US/news/worlds-2026-primer">Worlds 2026 rules</a>. Win chances, and the results “Sim the current round” and “Sim to the end” pick, come from Riot's <a href="https://lolesports.com/en-US/gpr/2026/current">Global Power Rankings</a> (as of Oct 18), using GPR's own formula: 1 ÷ (10<sup>−gap/600</sup> + 1), where gap is the difference in points. That's taken as the chance to win one game, and Bo3s and the Play-In Bo5 are played game by game, so a 60% favorite wins a Bo3 65% of the time. The draws themselves stay random.</p>
+  <p class="foot">Round 1 pairs tier 1 with tier 4 and tier 2 with tier 3 and keeps teams from the same region apart. Later rounds pair teams with the same record, with no rematches. The quarterfinal draw pairs the two 3–0 teams against two of the three 3–2 teams and draws the other four against each other; the two 3–0 teams are placed on opposite sides of the bracket, as they were at Worlds 2025. Real draws and results come from the lolesports schedule and refresh every two minutes. Counts are exact, from Riot's <a href="https://lolesports.com/en-US/news/worlds-2026-primer">Worlds 2026 rules</a>. Win chances, and the results “Sim the current round” and “Sim to the end” pick, come from Riot's <a href="https://lolesports.com/en-US/gpr/2026/current">Global Power Rankings</a> (as of <span id="gprAsOf">Oct 30</span>), using GPR's own formula: 1 ÷ (10<sup>−gap/600</sup> + 1), where gap is the difference in points. That's taken as the chance to win one game, and Bo3s and the Play-In Bo5 are played game by game, so a 60% favorite wins a Bo3 65% of the time and a Bo5 68% of the time. The draws themselves stay random.</p>
 </div>
 
-<script>window.SWISS_V="a6e8d865";</script>
-<script src="engine.js?v=a6e8d865"></script>
-<script src="gpr.js?v=a6e8d865"></script>
-<script src="lolesports.js?v=a6e8d865"></script>
-<script src="app.js?v=a6e8d865"></script>
+<script>window.SWISS_V="4c91d46e";</script>
+<script src="engine.js?v=4c91d46e"></script>
+<script src="gpr.js?v=4c91d46e"></script>
+<script src="lolesports.js?v=4c91d46e"></script>
+<script src="app.js?v=4c91d46e"></script>
 </body>
 </html>
