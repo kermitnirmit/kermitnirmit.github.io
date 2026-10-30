@@ -101,7 +101,9 @@ function runOnce(state) {
 const CHUNK = 5000;
 let current = 0;
 onmessage = (e) => {
-  const { id, state, runs } = e.data;
+  const { id, state, runs, gpr } = e.data;
+  // this worker loaded its own gpr.js, so it only knows the snapshot the page names here
+  if (gpr !== undefined && gpr !== GPR.i) { gprUse(gpr); for (const k in odds) delete odds[k]; }
   current = id;
   const tally = {};
   let done = 0, n = 0;

@@ -189,7 +189,7 @@ startSim();
 function runSims() {
   if (!sim) return;
   simId++;
-  sim.postMessage({ id: simId, state: plain(eff), runs: SIM_RUNS });
+  sim.postMessage({ id: simId, state: plain(eff), runs: SIM_RUNS, gpr: GPR.i });
   document.getElementById('oddsTable').classList.add('stale');
 }
 // Outcomes, in tally order: finish 3–0, 3–1, 3–2, 2–3, 1–3, 0–3, or lose the Play-In.
@@ -578,16 +578,9 @@ function koDrawRest(q) {
   const A = opts[Math.floor(Math.random() * opts.length)];
   for (let s = 0; s < 4; s++) if (!ko.qf[s]) ko.qf[s] = A[s].slice();
 }
-// games the beaten side took, given who won: play Bo5s at GPR's per-game odds until that side wins
-function koScore(winCode, loseCode) {
-  for (let i = 0; i < 200; i++) { const s = playScore(winCode, loseCode, 5); if (s.a === 3) return s.b; }
-  return 2;
-}
-function koSet(m, t) {
-  const [a, b] = koSeats(m);
-  ko.win[m] = t;
-  ko.score[m] = koScore(name(t), name(t === a ? b : a));
-}
+// Picking a winner by hand is a what-if, so it carries no scoreline: only a series that
+// was actually played out — simulated here, or read off lolesports — knows how the games went.
+function koSet(m, t) { ko.win[m] = t; ko.score[m] = null; }
 function koSimRest() {
   for (let m = 0; m < 7; m++) {
     const [a, b] = koSeats(m);
@@ -819,7 +812,7 @@ function syncGpr() { gprSel.value = String(GPR.i); document.getElementById('gprA
 gprSel.onchange = () => {
   gprUse(+gprSel.value);
   try { localStorage.setItem('swiss-gpr', GPR.sets[GPR.i].id); } catch (e) {}
-  syncGpr(); render();
+  syncGpr(); render(); runSims();
 };
 syncGpr();
 if (document.fonts && document.fonts.ready) document.fonts.ready.then(drawAllLines);
