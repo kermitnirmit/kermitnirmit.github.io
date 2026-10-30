@@ -1,6 +1,6 @@
 {
   "player": "kyeahoo",
-  "generated": "2026-10-25",
+  "generated": "2026-10-30",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2022-08-06","LCK Academy Series 2022 August","Round of 16","DRX Academy","박하늘별님구름햇님보다사랑스러우리","LL","r","dom","S"],
@@ -126,7 +126,8 @@
     ["2026-08-09","LEC 2026 Summer","","Karmine Corp","Fnatic","WW","","dom","P"],
     ["2026-08-17","LEC 2026 Summer","","Karmine Corp","GIANTX","WW","","dom","P"],
     ["2026-08-23","LEC 2026 Summer","","Karmine Corp","Shifters","LWW","","dom","P"],
-    ["2026-08-29","LEC 2026 Summer","","Karmine Corp","SK Gaming","WW","","dom","P"]
+    ["2026-08-29","LEC 2026 Summer","","Karmine Corp","SK Gaming","WW","","dom","P"],
+    ["2026-10-29","Worlds 2026","Round 4","Karmine Corp","CTBC Flying Oyster","WW","","worlds","P"]
   ],
   "unknown": [
     ["2022-06-19","LCK Academy Series 2022 June","Round of 16","DRX Academy","Shadow Battlica","1-2","","dom","S"],

@@ -1,6 +1,6 @@
 {
   "player": "Viper (Park Do-hyeon)",
-  "generated": "2026-10-25",
+  "generated": "2026-10-30",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2017-11-20","LoL KeSPA Cup 2017","Elimination Round","Griffin (Korean Team)","APK Prince","WW","","dom","P"],
@@ -343,7 +343,8 @@
     ["2026-08-15","LPL 2026 Split 3","","Bilibili Gaming","Team WE","WW","","dom","P"],
     ["2026-08-20","LPL 2026 Split 3","","Bilibili Gaming","LGD Gaming","LWW","","dom","P"],
     ["2026-08-21","LPL 2026 Split 3","","Bilibili Gaming","Top Esports","WW","","dom","P"],
-    ["2026-08-23","LPL 2026 Split 3","","Bilibili Gaming","Anyone's Legend","LWW","","dom","P"]
+    ["2026-08-23","LPL 2026 Split 3","","Bilibili Gaming","Anyone's Legend","LWW","","dom","P"],
+    ["2026-10-29","Worlds 2026","Round 4","Bilibili Gaming","Top Esports","WLL","","worlds","P"]
   ],
   "unknown": []
 }

@@ -1,6 +1,6 @@
 {
   "player": "JackeyLove",
-  "generated": "2026-10-25",
+  "generated": "2026-10-30",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2016-11-18","National Electronic Sports Tournament 2016","Round 1","Invictus Gaming","Royal Never Give Up","WLW","","dom","P"],
@@ -305,7 +305,8 @@
     ["2026-08-16","LPL 2026 Split 3","","Top Esports","EDward Gaming","WW","","dom","P"],
     ["2026-08-19","LPL 2026 Split 3","","Top Esports","Anyone's Legend","WLW","","dom","P"],
     ["2026-08-21","LPL 2026 Split 3","","Top Esports","Bilibili Gaming","LL","","dom","P"],
-    ["2026-08-22","LPL 2026 Split 3","","Top Esports","JD Gaming","LL","","dom","P"]
+    ["2026-08-22","LPL 2026 Split 3","","Top Esports","JD Gaming","LL","","dom","P"],
+    ["2026-10-29","Worlds 2026","Round 4","Top Esports","Bilibili Gaming","LWW","","worlds","P"]
   ],
   "unknown": [
     ["2018-01-07","Demacia Championship 2017 Season","Losers Round 4","Invictus Gaming","Snake Esports","1-2","","dom","P"]

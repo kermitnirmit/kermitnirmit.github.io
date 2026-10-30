@@ -1,6 +1,6 @@
 {
   "player": "Rest",
-  "generated": "2026-10-25",
+  "generated": "2026-10-30",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2017-04-15","ECS 2017 Spring Playoffs","Semifinal","J Team 2","Team Yetti","LL","","dom","S"],
@@ -126,7 +126,8 @@
     ["2026-05-13","Esports World Cup 2026 Online Qualifiers Asia-Pacific","Round 2","CTBC Flying Oyster","Deep Cross Gaming","LL","","intl","P"],
     ["2026-05-17","LCP 2026 Split 2","","CTBC Flying Oyster","GAM Esports","WLL","","dom","P"],
     ["2026-07-26","LCP 2026 Split 3","Round 1","CTBC Flying Oyster","Deep Cross Gaming","WW","","dom","P"],
-    ["2026-07-31","LCP 2026 Split 3","Round 2","CTBC Flying Oyster","GAM Esports","LWW","","dom","P"]
+    ["2026-07-31","LCP 2026 Split 3","Round 2","CTBC Flying Oyster","GAM Esports","LWW","","dom","P"],
+    ["2026-10-29","Worlds 2026","Round 4","CTBC Flying Oyster","Karmine Corp","LL","","worlds","P"]
   ],
   "unknown": []
 }

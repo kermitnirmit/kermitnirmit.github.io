@@ -1,6 +1,6 @@
 {
   "player": "369",
-  "generated": "2026-10-25",
+  "generated": "2026-10-30",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2018-04-21","LDL 2018 Spring - West","","King of Future","Mighty Eagle","LL","p","dom","S"],
@@ -250,7 +250,8 @@
     ["2026-02-01","LPL 2026 Split 1","","Top Esports","Anyone's Legend","LL","","dom","P"],
     ["2026-02-05","LPL 2026 Split 1","","Top Esports","JD Gaming","WW","","dom","P"],
     ["2026-03-30","Esports World Cup 2026 Online Qualifiers China","Phase 2 Round 1","Top Esports","Anyone's Legend","LL","r","intl","P"],
-    ["2026-04-14","Esports World Cup 2026 Online Qualifiers China","Phase 2 Round 1","Top Esports","Invictus Gaming","LL","r","intl","P"]
+    ["2026-04-14","Esports World Cup 2026 Online Qualifiers China","Phase 2 Round 1","Top Esports","Invictus Gaming","LL","r","intl","P"],
+    ["2026-10-29","Worlds 2026","Round 4","Top Esports","Bilibili Gaming","LWW","","worlds","P"]
   ],
   "unknown": [
     ["2018-08-05","LDL 2018 Summer - West","","King of Future","Shadow Cream","1-2","","dom","S"],

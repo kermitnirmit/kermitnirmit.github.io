@@ -1,6 +1,6 @@
 {
   "player": "Bin (Chen Ze-Bin)",
-  "generated": "2026-10-25",
+  "generated": "2026-10-30",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2019-02-25","LDL 2019 Spring","","Suning-S","FunPlus Phoenix Blaze","LWL","","dom","S"],
@@ -286,7 +286,8 @@
     ["2026-05-21","Esports World Cup 2026 Online Qualifiers China","Phase 2 Round 3","Bilibili Gaming","Weibo Gaming","LL","r","intl","P"],
     ["2026-07-17","Esports World Cup 2026","Quarterfinal","Bilibili Gaming","Dplus Kia","LWL","","intl","P"],
     ["2026-08-20","LPL 2026 Split 3","","Bilibili Gaming","LGD Gaming","LWW","","dom","P"],
-    ["2026-08-21","LPL 2026 Split 3","","Bilibili Gaming","Top Esports","WW","","dom","P"]
+    ["2026-08-21","LPL 2026 Split 3","","Bilibili Gaming","Top Esports","WW","","dom","P"],
+    ["2026-10-29","Worlds 2026","Round 4","Bilibili Gaming","Top Esports","WLL","","worlds","P"]
   ],
   "unknown": []
 }

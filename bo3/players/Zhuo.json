@@ -1,6 +1,6 @@
 {
   "player": "Zhuo",
-  "generated": "2026-10-25",
+  "generated": "2026-10-30",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2018-07-27","LDL 2018 Summer - South","","Moss Seven Club","Rogue Warriors Shark","LL","","dom","S"],
@@ -200,7 +200,8 @@
     ["2026-08-16","LPL 2026 Split 3","","Top Esports","EDward Gaming","WW","","dom","P"],
     ["2026-08-19","LPL 2026 Split 3","","Top Esports","Anyone's Legend","WLW","","dom","P"],
     ["2026-08-21","LPL 2026 Split 3","","Top Esports","Bilibili Gaming","LL","","dom","P"],
-    ["2026-08-22","LPL 2026 Split 3","","Top Esports","JD Gaming","LL","","dom","P"]
+    ["2026-08-22","LPL 2026 Split 3","","Top Esports","JD Gaming","LL","","dom","P"],
+    ["2026-10-29","Worlds 2026","Round 4","Top Esports","Bilibili Gaming","LWW","","worlds","P"]
   ],
   "unknown": []
 }

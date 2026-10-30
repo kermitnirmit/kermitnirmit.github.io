@@ -1,6 +1,6 @@
 {
   "player": "Doggo",
-  "generated": "2026-10-25",
+  "generated": "2026-10-30",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2019-07-23","ECS 2019 Summer Playoffs","","ahq Fighter","G-Rex Infinite","LWL","","dom","S"],
@@ -155,7 +155,8 @@
     ["2026-05-13","Esports World Cup 2026 Online Qualifiers Asia-Pacific","Round 2","CTBC Flying Oyster","Deep Cross Gaming","LL","","intl","P"],
     ["2026-05-17","LCP 2026 Split 2","","CTBC Flying Oyster","GAM Esports","WLL","","dom","P"],
     ["2026-07-26","LCP 2026 Split 3","Round 1","CTBC Flying Oyster","Deep Cross Gaming","WW","","dom","P"],
-    ["2026-07-31","LCP 2026 Split 3","Round 2","CTBC Flying Oyster","GAM Esports","LWW","","dom","P"]
+    ["2026-07-31","LCP 2026 Split 3","Round 2","CTBC Flying Oyster","GAM Esports","LWW","","dom","P"],
+    ["2026-10-29","Worlds 2026","Round 4","CTBC Flying Oyster","Karmine Corp","LL","","worlds","P"]
   ],
   "unknown": [
     ["2018-08-25","2018 Taiwan Legend Championship Grand Final","Round 1","Team Tainan","Team New Taipei City","1-2","","dom",""],
