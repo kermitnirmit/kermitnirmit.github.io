@@ -219,9 +219,9 @@ function renderOdds() {
     }).join('');
   document.getElementById('oddsSub').textContent = done < runs ? `simulating… ${done.toLocaleString()} of ${runs.toLocaleString()}` : `${n.toLocaleString()} simulations`;
   const picks = eff.rounds.reduce((s, rd) => s + rd.win.filter((x, k) => x >= 0 && (rd.lock || [])[k] !== 2).length, 0) + (eff.pi && !activeLocks().pi ? 1 : 0);
-  document.getElementById('oddsNote').textContent = `Each simulation plays out the rest of the Swiss stage from the bracket above` +
+  document.getElementById('oddsNote').textContent = `Plays out from the bracket above` +
     (picks ? `, keeping the real results and your ${picks} pick${picks === 1 ? '' : 's'}` : `, keeping every real result`) +
-    `. Draws are random among the legal ones, and every game is won with the GPR chance, so Bo3s go game by game.`;
+    `. Draws are random among the legal ones; every game is won at its GPR chance.`;
 }
 // Hovering a bar segment shows its exact share of the simulations.
 const oddsTip = document.getElementById('oddsTip');
@@ -287,8 +287,8 @@ function renderRegions() {
   document.getElementById('rgGrid').innerHTML = `<thead><tr><th></th>${REGIONS.map(c => `<th scope="col">${c}</th>`).join('')}<th scope="col" class="tot">Total</th></tr></thead>` +
     `<tbody>${REGIONS.map(r => `<tr><th scope="row">${r}</th>${REGIONS.map(c => cell(r, c)).join('')}${total(r)}</tr>`).join('')}</tbody>`;
   const picks = ms.filter(m => !m.real && m.ra !== m.rb).length, same = ms.filter(m => m.ra === m.rb).length;
-  document.getElementById('rgNote').textContent = 'Every decided match on the bracket above, Play-In final included, counted once per match whatever its length. ' +
-    (picks ? `${picks} of them ${picks === 1 ? 'is' : 'are'} your own pick${picks === 1 ? '' : 's'}, not a real result. ` : '') +
+  document.getElementById('rgNote').textContent = 'Every decided match above, counted once whatever its length. ' +
+    (picks ? `${picks} of them ${picks === 1 ? 'is' : 'are'} your own pick${picks === 1 ? '' : 's'}, not ${picks === 1 ? 'a real result' : 'real results'}. ` : '') +
     (same ? `${same} match${same === 1 ? '' : 'es'} between two teams from the same region ${same === 1 ? 'is' : 'are'} left out.` : '');
   renderRgCap(ms);
 }
@@ -672,7 +672,7 @@ function render() {
   tracing = null; bracketEl.classList.remove('tracing');
   drawBracketLines();
   renderKo();
-  let html = live.r > 5 ? `<p class="done">The Swiss stage is fully decided. These eight teams go to the quarterfinal draw.</p>` : '';
+  let html = live.r > 5 ? `<p class="done">Swiss stage decided. These eight go to the quarterfinal draw.</p>` : '';
   document.getElementById('after').innerHTML = html;
   document.getElementById('nextStep').innerHTML = nextStep(live);
   const rd = eff.rounds[live.r - 1];
