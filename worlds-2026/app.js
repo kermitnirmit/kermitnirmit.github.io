@@ -145,7 +145,7 @@ function renderLive() {
   el.classList.toggle('on', liveOn && liveInfo.state === 'ok');
   el.classList.toggle('err', liveInfo.state === 'error');
   let s;
-  if (liveInfo.state === 'off') { txt.innerHTML = '<span class="dot"></span>Real results lock in automatically on the <a href="https://nirmit.dev/worlds-2026-swiss/">nirmit.dev version</a> of this page.'; el.querySelector('label').hidden = true; return; }
+  if (liveInfo.state === 'off') { txt.innerHTML = '<span class="dot"></span>Real results lock in automatically on the <a href="https://nirmit.dev/worlds-2026/">nirmit.dev version</a> of this page.'; el.querySelector('label').hidden = true; return; }
   if (liveInfo.state === 'loading') s = 'Checking lolesports for real results…';
   else if (liveInfo.state === 'error') s = 'Couldn’t reach lolesports, so nothing is locked. ' + (liveInfo.msg || '');
   else {
