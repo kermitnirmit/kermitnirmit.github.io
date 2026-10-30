@@ -7,7 +7,7 @@
 <meta name="description" content="Pick the Play-In winner, every Swiss draw and result, then the quarterfinal draw and the knockouts, and watch the number of ways Worlds 2026 can still go shrink.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Space+Mono:wght@400;700&display=swap">
-<link rel="stylesheet" href="style.css?v=a7b75e1f">
+<link rel="stylesheet" href="style.css?v=f57c93b6">
 </head>
 <body>
 <script>try { if (localStorage.getItem('swiss-theme') === 'light') document.documentElement.dataset.swiss = 'light'; } catch (e) {}</script>
@@ -60,6 +60,8 @@
     <div class="controls">
       <button id="bKoDraw">Draw the rest</button>
       <button id="bKoSim">Sim the knockouts</button>
+      <button id="bKoUndo">Undo</button>
+      <button id="bKoReset">Clear the results</button>
       <button id="bKoClear">Clear the draw</button>
     </div>
     <p class="note" id="koNote"></p>
@@ -76,10 +78,10 @@
   <p class="foot">Round 1 pairs tier 1 with tier 4 and tier 2 with tier 3, same region apart; later rounds pair equal records with no rematches. The two 3–0 teams start on opposite sides of the knockout bracket, as at Worlds 2025. Results come from the lolesports schedule, refreshed every two minutes; counts are exact, from Riot’s <a href="https://lolesports.com/en-US/news/worlds-2026-primer">Worlds 2026 rules</a>. Win chances use Riot’s <a href="https://lolesports.com/en-US/gpr/2026/current">Global Power Rankings</a> (<span id="gprAsOf">Oct 30</span>) and GPR’s own formula, 1 ÷ (10<sup>−gap/600</sup> + 1) — the chance of winning one game, compounded over a series, so a 60% favorite takes a Bo3 65% of the time and a Bo5 68%. Draws stay random.</p>
 </div>
 
-<script>window.SWISS_V="a7b75e1f";</script>
-<script src="engine.js?v=a7b75e1f"></script>
-<script src="gpr.js?v=a7b75e1f"></script>
-<script src="lolesports.js?v=a7b75e1f"></script>
-<script src="app.js?v=a7b75e1f"></script>
+<script>window.SWISS_V="f57c93b6";</script>
+<script src="engine.js?v=f57c93b6"></script>
+<script src="gpr.js?v=f57c93b6"></script>
+<script src="lolesports.js?v=f57c93b6"></script>
+<script src="app.js?v=f57c93b6"></script>
 </body>
 </html>

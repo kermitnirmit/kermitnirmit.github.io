@@ -512,6 +512,7 @@ const P4 = [[0, 1, 2, 3], [0, 2, 1, 3], [0, 3, 1, 2]];   // the three ways four 
 const KO_WAYS = 4608n;
 let ko = null;        // {sig, qf: [pair or null x4], win: [7], score: [7]}
 let koSel = null;     // team the viewer has tapped, waiting for an opponent
+let koUndo = [];      // JSON of ko before each change, newest last
 
 function qualifiers() {
   const rec = bracketRecords(), g = [[], [], []];
@@ -546,6 +547,7 @@ const koSlotFor = (q, qf, a, b) => {
 };
 const koSeats = (m) => m < 4 ? (ko.qf[m] || [-1, -1]) : KO_FEED[m].map(k => ko.win[k]);
 function koClear(m) { ko.win[m] = -1; ko.score[m] = null; }
+const koSnap = () => koUndo.push(JSON.stringify(ko));
 // drop any winner whose seat is gone; feeds always come earlier, so one pass does it
 function koFix() { for (let m = 0; m < 7; m++) if (ko.win[m] >= 0 && !koSeats(m).includes(ko.win[m])) koClear(m); }
 function koStart(q) { if (!ko || ko.sig !== q.sig) ko = { sig: q.sig, qf: [null, null, null, null], win: Array(7).fill(-1), score: Array(7).fill(null) }; }
@@ -619,7 +621,7 @@ function koNote(q, made) {
 }
 function renderKo() {
   const q = qualifiers();
-  if (ko && ko.sig !== q.sig) { ko = null; koSel = null; }
+  if (ko && ko.sig !== q.sig) { ko = null; koSel = null; koUndo = []; }
   if (q.full) koStart(q);
   const made = q.g.reduce((n, a) => n + a.length, 0), ways = koWays(q);
   document.getElementById('kodds').innerHTML = renderKodds(q);
@@ -631,6 +633,8 @@ function renderKo() {
   document.getElementById('bKoDraw').textContent = koDrawn() ? 'Draw again' : 'Draw the rest';
   document.getElementById('bKoDraw').disabled = !q.full;
   document.getElementById('bKoSim').disabled = !q.full;
+  document.getElementById('bKoUndo').disabled = !koUndo.length;
+  document.getElementById('bKoReset').disabled = !ko || ko.win.every(x => x < 0);
   document.getElementById('bKoClear').disabled = !ko || (!koDrawn() && !ko.qf.some(Boolean) && ko.win.every(x => x < 0));
 }
 document.getElementById('kodds').addEventListener('click', (e) => {
@@ -638,20 +642,25 @@ document.getElementById('kodds').addEventListener('click', (e) => {
   const i = +b.dataset.act.split(':')[1], q = qualifiers();
   if (koSel === i) koSel = null;
   else if (koSel === null) koSel = i;
-  else if (koPlace(q, koSel, i)) koSel = null;
+  else { const was = JSON.stringify(ko); if (koPlace(q, koSel, i)) { koUndo.push(was); koSel = null; } }
   renderKo();
 });
 document.getElementById('kbracket').addEventListener('click', (e) => {
   const b = e.target.closest('[data-act]'); if (!b || b.disabled || !ko) return;
   const [kind, m, t] = b.dataset.act.split(':').map(x => isNaN(+x) ? x : +x);
+  if (kind !== 'kunpair' && kind !== 'kwin') return;
+  koSnap();
   if (kind === 'kunpair') { ko.qf[m] = null; koSel = null; }
-  else if (kind === 'kwin') { if (ko.win[m] === t) koClear(m); else koSet(m, t); }
-  else return;
+  else if (ko.win[m] === t) koClear(m); else koSet(m, t);
   koFix(); renderKo();
 });
-document.getElementById('bKoDraw').onclick = () => { const q = qualifiers(); if (!q.full) return; if (koDrawn()) { ko = null; koStart(q); } koSel = null; koDrawRest(q); koFix(); renderKo(); };
-document.getElementById('bKoSim').onclick = () => { const q = qualifiers(); if (!q.full) return; koSel = null; koDrawRest(q); koSimRest(); renderKo(); };
-document.getElementById('bKoClear').onclick = () => { ko = null; koSel = null; renderKo(); };
+document.getElementById('bKoDraw').onclick = () => { const q = qualifiers(); if (!q.full) return; koSnap(); if (koDrawn()) { ko = null; koStart(q); } koSel = null; koDrawRest(q); koFix(); renderKo(); };
+document.getElementById('bKoSim').onclick = () => { const q = qualifiers(); if (!q.full) return; koSnap(); koSel = null; koDrawRest(q); koSimRest(); renderKo(); };
+// play it again from the same bracket: the matchups stay drawn, every result goes
+document.getElementById('bKoReset').onclick = () => { if (!ko) return; koSnap(); for (let m = 0; m < 7; m++) koClear(m); renderKo(); };
+// step back one change: every action above snapshots ko first, so this just restores the last one
+document.getElementById('bKoUndo').onclick = () => { if (!koUndo.length) return; ko = JSON.parse(koUndo.pop()); koSel = null; renderKo(); };
+document.getElementById('bKoClear').onclick = () => { koSnap(); ko = null; koSel = null; renderKo(); };
 
 function nextStep(live) {
   if (!eff.pi) return 'Start with the Play-In final: tap the team that wins.';
