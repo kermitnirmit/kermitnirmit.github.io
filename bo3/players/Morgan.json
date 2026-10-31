@@ -1,6 +1,6 @@
 {
   "player": "Morgan",
-  "generated": "2026-10-27",
+  "generated": "2026-10-31",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2019-02-28","LDL 2019 Spring","","Joy Dream","LinGan e-Sports","WLW","","dom","S"],
@@ -259,7 +259,8 @@
     ["2026-08-29","LCS 2026 Summer","","Team Liquid","Shopify Rebellion","LWW","","dom","P"],
     ["2026-08-30","LCS 2026 Summer","","Team Liquid","LYON (2024 American Team)","LL","","dom","P"],
     ["2026-09-05","LCS 2026 Summer","","Team Liquid","Dignitas","WW","","dom","P"],
-    ["2026-10-26","Worlds 2026","Round 3","Team Liquid","Anyone's Legend","WW","","worlds","P"]
+    ["2026-10-26","Worlds 2026","Round 3","Team Liquid","Anyone's Legend","WW","","worlds","P"],
+    ["2026-10-30","Worlds 2026","Round 4","Team Liquid","LØS","LWL","","worlds","P"]
   ],
   "unknown": []
 }

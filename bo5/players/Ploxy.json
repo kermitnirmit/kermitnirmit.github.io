@@ -1,6 +1,6 @@
 {
   "player": "Ploxy",
-  "generated": "2026-10-23",
+  "generated": "2026-10-31",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2019-05-05","Telialigaen 2019 Spring Playoffs","Semifinal","Nordavind","Riddle Esports","WWW","r","dom",""],
@@ -30,7 +30,8 @@
     ["2024-05-12","Good Game-ligaen 2024 Spring Playoffs","Final","DMG Esports Norway","Lazy In Life","WLWW","","dom","S"],
     ["2026-05-24","Comic Con Baltics 2026","Final","Wilderness Gaming","Kenty","LLWWL","","dom","S"],
     ["2026-06-05","Komplettligaen 2026 Spring Playoffs","Round 2","VES Japan","Your Saviours","WWW","r","dom","S"],
-    ["2026-06-13","Komplettligaen 2026 Spring Playoffs","Final","VES Japan","Bitfix RG","WWLW","","dom","S"]
+    ["2026-06-13","Komplettligaen 2026 Spring Playoffs","Final","VES Japan","Bitfix RG","WWLW","","dom","S"],
+    ["2026-10-30","Komplettligaen 2026 Autumn Playoffs","Round 2","VES Japan","Rich Gang (Norwegian Team)","WWW","r","dom","S"]
   ],
   "unknown": [
     ["2019-05-25","Telialigaen 2019 Spring Playoffs","Final","Nordavind","Celestial Gaming","2-3","","dom",""],

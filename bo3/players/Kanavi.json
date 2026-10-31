@@ -1,6 +1,6 @@
 {
   "player": "Kanavi",
-  "generated": "2026-10-25",
+  "generated": "2026-10-31",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2019-06-09","LPL 2019 Summer","","JD Gaming","EDward Gaming","LL","p","dom","P"],
@@ -245,7 +245,8 @@
     ["2026-08-13","LCK 2026 Rounds 3-4","","Hanwha Life Esports","Gen.G","LL","","dom","P"],
     ["2026-08-15","LCK 2026 Rounds 3-4","","Hanwha Life Esports","KT Rolster","LWW","","dom","P"],
     ["2026-08-20","LCK 2026 Rounds 3-4","","Hanwha Life Esports","Dplus Kia","WW","","dom","P"],
-    ["2026-08-23","LCK 2026 Rounds 3-4","","Hanwha Life Esports","T1","WW","","dom","P"]
+    ["2026-08-23","LCK 2026 Rounds 3-4","","Hanwha Life Esports","T1","WW","","dom","P"],
+    ["2026-10-30","Worlds 2026","Round 4","Hanwha Life Esports","G2 Esports","WW","","worlds","P"]
   ],
   "unknown": []
 }
