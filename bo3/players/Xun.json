@@ -1,6 +1,6 @@
 {
   "player": "Xun",
-  "generated": "2026-10-30",
+  "generated": "2026-11-01",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2020-04-15","LDL 2020 Spring","Round 1","Invictus Gaming Young","Triumphant Song Gaming","WW","","dom","S"],
@@ -252,7 +252,8 @@
     ["2026-08-20","LPL 2026 Split 3","","Bilibili Gaming","LGD Gaming","LWW","","dom","P"],
     ["2026-08-21","LPL 2026 Split 3","","Bilibili Gaming","Top Esports","WW","","dom","P"],
     ["2026-08-23","LPL 2026 Split 3","","Bilibili Gaming","Anyone's Legend","LWW","","dom","P"],
-    ["2026-10-29","Worlds 2026","Round 4","Bilibili Gaming","Top Esports","WLL","","worlds","P"]
+    ["2026-10-29","Worlds 2026","Round 4","Bilibili Gaming","Top Esports","WLL","","worlds","P"],
+    ["2026-10-31","Worlds 2026","Round 5","Bilibili Gaming","Hanwha Life Esports","WW","","worlds","P"]
   ],
   "unknown": []
 }

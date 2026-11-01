@@ -1,6 +1,6 @@
 {
   "player": "Canna",
-  "generated": "2026-10-30",
+  "generated": "2026-11-01",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2019-12-31","LoL KeSPA Cup 2019","Quarterfinal","T1","Gen.G","WLW","","dom","P"],
@@ -190,7 +190,8 @@
     ["2026-08-17","LEC 2026 Summer","","Karmine Corp","GIANTX","WW","","dom","P"],
     ["2026-08-23","LEC 2026 Summer","","Karmine Corp","Shifters","LWW","","dom","P"],
     ["2026-08-29","LEC 2026 Summer","","Karmine Corp","SK Gaming","WW","","dom","P"],
-    ["2026-10-29","Worlds 2026","Round 4","Karmine Corp","CTBC Flying Oyster","WW","","worlds","P"]
+    ["2026-10-29","Worlds 2026","Round 4","Karmine Corp","CTBC Flying Oyster","WW","","worlds","P"],
+    ["2026-10-31","Worlds 2026","Round 5","Karmine Corp","Movistar KOI","WW","","worlds","P"]
   ],
   "unknown": []
 }
