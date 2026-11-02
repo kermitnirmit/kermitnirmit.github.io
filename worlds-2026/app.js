@@ -153,6 +153,7 @@ function renderLive() {
     bits.push(L.pi ? `${L.pi} won the Play-In` : L.seen.playin === 'inProgress' ? 'Play-In final in progress' : 'Play-In final not played yet');
     if (L.seen.pairs) bits.push(`${L.seen.pairs} Swiss match${L.seen.pairs === 1 ? '' : 'es'} drawn, ${L.seen.results} played`);
     else if (L.pi) bits.push('Swiss draw not out yet');
+    if (L.ko) { const n = L.ko.res.filter(Boolean).length; bits.push(n ? `${n} of 7 knockout matches played` : 'quarterfinal draw out'); }
     s = (liveOn ? 'Real results locked: ' : 'Real results ignored: ') + bits.join(' · ') + ` · checked ${liveInfo.at}`;
   }
   txt.innerHTML = `<span class="dot"></span>${s}`;
@@ -577,9 +578,23 @@ function koSimRest() {
 }
 function koWays(q) {
   if (!ko) return KO_WAYS;
-  return BigInt(koOpen(q, ko.qf).length) * (1n << BigInt(ko.win.filter(x => x < 0).length));
+  // a whole draw is one bracket; asking koOpen would miss a real one that isn't laid out the way it pins sides
+  const open = 1n << BigInt(ko.win.filter(x => x < 0).length);
+  return koDrawn() ? open : BigInt(koOpen(q, ko.qf).length) * open;
 }
 const koDrawn = () => ko && ko.qf.every(Boolean);
+// the real draw and results from lolesports, when they're for the teams qualified on the page
+function koReal(q) {
+  const K = activeLocks().ko, all = new Set(q.g.flat());
+  return K && q.full && K.qf.every(p => p.every(i => all.has(i))) ? K : null;
+}
+// lay the real draw and results over whatever is there; runs on every render, so undo and the clears can't lose them
+function koApply(K) {
+  if (!K) return;
+  ko.qf = K.qf.map(p => p.slice());
+  K.res.forEach((r, m) => { if (r && koSeats(m).includes(r.win)) { ko.win[m] = r.win; ko.score[m] = r.score; } });
+  koFix();
+}
 
 // who each record bucket can draw, and the teams in it so far
 function renderKodds(q) {
@@ -596,23 +611,24 @@ function renderKodds(q) {
     return `<div class="korow"><h4>3–${k}<em>${ts.length} of ${KO_SIZE[k]}</em></h4><div class="kot">${tags}</div><div class="koo">${odds}</div></div>`;
   }).join('');
 }
-function koCell(m) {
+function koCell(m, K) {
   const [a, b] = ko ? koSeats(m) : [-1, -1], x = ko ? ko.win[m] : -1, live = a >= 0 && b >= 0;
   const an = a >= 0 ? bName(a) : '—', bn = b >= 0 ? bName(b) : '—';
   const sc = ko && x >= 0 && ko.score[m] !== null ? (x === a ? [3, ko.score[m]] : [ko.score[m], 3]) : null;
   return `<div class="bpool ${live ? '' : 'tbd'}" data-rec="k${m}"><div class="bh"><span>${KO_LABEL[m]}</span><em>Bo5</em></div>`
     + bCell(an, bn, x < 0 ? 0 : x === a ? 1 : 2, live ? `kwin:${m}:${a}` : null, live ? `kwin:${m}:${b}` : null,
-            false, m < 4 && ko && ko.qf[m] ? `kunpair:${m}` : null, 5, sc)
+            !!(K && K.res[m]), m < 4 && ko && ko.qf[m] && !K ? `kunpair:${m}` : null, 5, sc)
     + `</div>`;
 }
-function renderKoBracket() {
+function renderKoBracket(K) {
   const heads = KO_HEADS.map(h => `<span>${h}</span>`).join('');
   const cols = [[0, 1, 2, 3], [4, 5], [6]].map((ms, c) =>
-    `<div class="bcol kc${c + 1}" data-head="${KO_HEADS[c]}">${ms.map(koCell).join('')}</div>`).join('');
+    `<div class="bcol kc${c + 1}" data-head="${KO_HEADS[c]}">${ms.map(m => koCell(m, K)).join('')}</div>`).join('');
   return `<div class="bheads">${heads}</div><div class="bgrid">${cols}</div><svg class="blines" aria-hidden="true"></svg>`;
 }
-function koNote(q, made) {
+function koNote(q, made, K) {
   if (ko && ko.win[6] >= 0) return `<b>${T[ko.win[6]].name}</b> win Worlds 2026.`;
+  if (K) return 'This is the real draw. Tap the winner of each match still to play, or tap a pick again to undo it.';
   if (!q.full) return `${8 - made} more team${made === 7 ? '' : 's'} still to qualify. Finish the Swiss stage above to draw the quarterfinals.`;
   if (!koDrawn()) return koSel !== null
     ? `Now tap <b>${name(koSel)}</b>’s quarterfinal opponent. Dashed teams are legal. Tap ${name(koSel)} again to cancel.`
@@ -622,20 +638,21 @@ function koNote(q, made) {
 function renderKo() {
   const q = qualifiers();
   if (ko && ko.sig !== q.sig) { ko = null; koSel = null; koUndo = []; }
-  if (q.full) koStart(q);
+  const K = koReal(q);
+  if (q.full) { koStart(q); koApply(K); }
   const made = q.g.reduce((n, a) => n + a.length, 0), ways = koWays(q);
   document.getElementById('kodds').innerHTML = renderKodds(q);
   document.getElementById('koCount').textContent = !q.full ? `${made} of 8 teams in`
     : ways === 1n ? 'one bracket, fully decided' : commas(ways) + ' ways left';
-  document.getElementById('kbracket').innerHTML = renderKoBracket();
+  document.getElementById('kbracket').innerHTML = renderKoBracket(K);
   drawKoLines();
-  document.getElementById('koNote').innerHTML = koNote(q, made);
+  document.getElementById('koNote').innerHTML = koNote(q, made, K);
   document.getElementById('bKoDraw').textContent = koDrawn() ? 'Draw again' : 'Draw the rest';
-  document.getElementById('bKoDraw').disabled = !q.full;
+  document.getElementById('bKoDraw').disabled = !q.full || !!K;
   document.getElementById('bKoSim').disabled = !q.full;
   document.getElementById('bKoUndo').disabled = !koUndo.length;
-  document.getElementById('bKoReset').disabled = !ko || ko.win.every(x => x < 0);
-  document.getElementById('bKoClear').disabled = !ko || (!koDrawn() && !ko.qf.some(Boolean) && ko.win.every(x => x < 0));
+  document.getElementById('bKoReset').disabled = !ko || ko.win.every((x, m) => x < 0 || (K && K.res[m]));
+  document.getElementById('bKoClear').disabled = !ko || !!K || (!koDrawn() && !ko.qf.some(Boolean) && ko.win.every(x => x < 0));
 }
 document.getElementById('kodds').addEventListener('click', (e) => {
   const b = e.target.closest('[data-act]'); if (!b || b.disabled || !ko) return;
@@ -646,7 +663,7 @@ document.getElementById('kodds').addEventListener('click', (e) => {
   renderKo();
 });
 document.getElementById('kbracket').addEventListener('click', (e) => {
-  const b = e.target.closest('[data-act]'); if (!b || b.disabled || !ko) return;
+  const b = e.target.closest('[data-act]'); if (!b || b.disabled || !ko || b.getAttribute('aria-disabled') === 'true') return;
   const [kind, m, t] = b.dataset.act.split(':').map(x => isNaN(+x) ? x : +x);
   if (kind !== 'kunpair' && kind !== 'kwin') return;
   koSnap();
