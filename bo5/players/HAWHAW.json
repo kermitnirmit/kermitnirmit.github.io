@@ -1,6 +1,6 @@
 {
   "player": "HAWHAW",
-  "generated": "2026-11-01",
+  "generated": "2026-11-02",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2022-03-08","PG Nationals 2022 Spring Playoffs","Round 1","Macko Esports","Atleta Esport","LWWW","","dom","S"],
@@ -31,6 +31,7 @@
     ["2023-12-05","NLC 2nd Division 2024 Spring RPS","Semifinal","Rich Gang (Norwegian Team)","Epic Avalanche","3-1","","dom","S"],
     ["2025-09-14","Good Game-ligaen 2025 Autumn Playoffs","Final","Bitfix Gaming","CNG Royal","2-3","","dom","S"],
     ["2025-11-16","Norwegian Esports Series 2025 Season 2 Playoffs","Final","Bitfix Gaming","Shadow Wizard Money Gang","3-1","","dom","S"],
-    ["2026-10-31","Komplettligaen 2026 Autumn Playoffs","Round 2","Playwell Rød Q","Volda E-Sport","3-1","","dom","S"]
+    ["2026-10-31","Komplettligaen 2026 Autumn Playoffs","Round 2","Playwell Rød Q","Volda E-Sport","3-1","","dom","S"],
+    ["2026-11-01","Komplettligaen 2026 Autumn Playoffs","Round 3","Playwell Rød Q","Rich Gang (Norwegian Team)","1-3","","dom","S"]
   ]
 }
