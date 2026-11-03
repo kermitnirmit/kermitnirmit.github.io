@@ -1,6 +1,6 @@
 {
   "player": "Celebrity",
-  "generated": "2026-10-25",
+  "generated": "2026-11-03",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2014-10-26","2015 GPL Spring Qualifiers Vietnamese Qualifier","Qualifiers","269 Gaming","Hanoi Phoenix","WW","r","dom",""],
@@ -176,7 +176,9 @@
     ["2022-08-18","VCS 2022 Summer","","SBTC Esports","CERBERUS Esports (Vietnamese Team)","WLL","","dom","P"],
     ["2022-08-21","VCS 2022 Summer","","SBTC Esports","Team Secret (Vietnamese Team)","WW","","dom","P"],
     ["2024-03-12","NimoTV Ba LOL Championship Community 2024","Swiss Round 1","Academy SBTC","Hội Những Người Bị Kick","LL","r","dom",""],
-    ["2024-03-19","NimoTV Ba LOL Championship Community 2024","Swiss Round 2","Academy SBTC","Nice Try (Vietnamese Team)","WW","r","dom",""]
+    ["2024-03-19","NimoTV Ba LOL Championship Community 2024","Swiss Round 2","Academy SBTC","Nice Try (Vietnamese Team)","WW","r","dom",""],
+    ["2026-10-31","Predator League 2027 National Tournament Vietnam Qualifier","Group E","Sống Bằng Tình Cảm","Joker Flight","WW","r","dom","S"],
+    ["2026-10-31","Predator League 2027 National Tournament Vietnam Qualifier","Group E","Sống Bằng Tình Cảm","MVK Esports Academy","WW","r","dom","S"]
   ],
   "unknown": [
     ["2017-02-19","VCS A 2017 Spring","","Cherry Esports","Next Gen Esports","1-2","","dom",""],

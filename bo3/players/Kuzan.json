@@ -1,6 +1,6 @@
 {
   "player": "Kuzan",
-  "generated": "2026-10-25",
+  "generated": "2026-11-03",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2015-06-03","Champions 2015 Summer","","Jin Air Green Wings","Samsung Galaxy","LWW","p","dom","P"],
@@ -148,7 +148,10 @@
     ["2020-08-09","LCK 2020 Summer","","Team Dynamics","T1","LL","","dom","P"],
     ["2020-08-15","LCK 2020 Summer","","Team Dynamics","DAMWON Gaming","LL","","dom","P"],
     ["2020-08-21","LCK 2020 Summer","","Team Dynamics","SeolHaeOne Prince","WW","","dom","P"],
-    ["2020-08-23","LCK 2020 Summer","","Team Dynamics","Hanwha Life Esports","WLL","","dom","P"]
+    ["2020-08-23","LCK 2020 Summer","","Team Dynamics","Hanwha Life Esports","WLL","","dom","P"],
+    ["2026-10-30","Predator League 2027 National Tournament Vietnam Qualifier","Group C","Humming Bird","Roblox Kids","WW","r","dom","S"]
   ],
-  "unknown": []
+  "unknown": [
+    ["2026-10-30","Predator League 2027 National Tournament Vietnam Qualifier","Group C","Humming Bird","CTB Esports","1-2","","dom","S"]
+  ]
 }

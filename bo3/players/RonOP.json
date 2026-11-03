@@ -1,6 +1,6 @@
 {
   "player": "RonOP",
-  "generated": "2026-10-25",
+  "generated": "2026-11-03",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2016-10-30","IEM Season 11 Challenger","Gyeonggi Qualifying Round","Saigon Jokers","Dark Passage","LL","","intl","P"],
@@ -164,7 +164,10 @@
     ["2024-07-18","VCS 2024 Summer","","Team Whales","CERBERUS Esports (Vietnamese Team)","WW","","dom","P"],
     ["2024-07-19","VCS 2024 Summer","","Team Whales","GAM Esports","LL","","dom","P"],
     ["2024-09-09","Asia Star Challengers Invitational 2024","","Team Whales Academy","Dplus Kia Challengers","LL","r","dom","S"],
-    ["2024-09-11","Asia Star Challengers Invitational 2024","","Team Whales Academy","Bilibili Gaming Junior","WLL","r","dom","S"]
+    ["2024-09-11","Asia Star Challengers Invitational 2024","","Team Whales Academy","Bilibili Gaming Junior","WLL","r","dom","S"],
+    ["2026-10-31","Predator League 2027 National Tournament Vietnam Qualifier","Group E","MVK Esports Academy","BKyEsport","WW","r","dom","S"],
+    ["2026-10-31","Predator League 2027 National Tournament Vietnam Qualifier","Group E","MVK Esports Academy","Sống Bằng Tình Cảm","LL","r","dom","S"],
+    ["2026-10-31","Predator League 2027 National Tournament Vietnam Qualifier","Group E","MVK Esports Academy","Trường Con Forever","WW","r","dom","S"]
   ],
   "unknown": [
     ["2017-02-19","VCS A 2017 Spring","","Cherry Esports","Next Gen Esports","1-2","","dom",""],

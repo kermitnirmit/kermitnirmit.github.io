@@ -1,6 +1,6 @@
 {
   "player": "Elio",
-  "generated": "2026-10-25",
+  "generated": "2026-11-03",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2021-01-22","VCS 2021 Spring","","Burst The Sky Esports","SBTC Esports","WLL","","dom","P"],
@@ -149,7 +149,10 @@
     ["2026-09-12","VCS 2026 Finals Stage 1","","Saigon Warriors","SN CyberCore Esports","WW","","dom","S"],
     ["2026-09-13","VCS 2026 Finals Stage 1","","Saigon Warriors","1TAP Dino","WW","","dom","S"],
     ["2026-09-20","VCS 2026 Finals Stage 1","","Saigon Warriors","MVK Esports Academy","WW","","dom","S"],
-    ["2026-09-24","VCS 2026 Finals Stage 2","Round 1","Saigon Warriors","9Gaming","LWW","","dom","S"]
+    ["2026-09-24","VCS 2026 Finals Stage 2","Round 1","Saigon Warriors","9Gaming","LWW","","dom","S"],
+    ["2026-10-31","Predator League 2027 National Tournament Vietnam Qualifier","Group F","Saigon Warriors","1TAP Dino Blue","WW","r","dom","S"],
+    ["2026-10-31","Predator League 2027 National Tournament Vietnam Qualifier","Group F","Saigon Warriors","DASH Esport (Vietnamese Team)","WW","r","dom","S"],
+    ["2026-10-31","Predator League 2027 National Tournament Vietnam Qualifier","Group F","Saigon Warriors","FC TikTok","WW","r","dom","S"]
   ],
   "unknown": [
     ["2025-01-25","LCP 2025 Season Kickoff","","GAM Esports","CTBC Flying Oyster","1-2","WL","dom","P"]
