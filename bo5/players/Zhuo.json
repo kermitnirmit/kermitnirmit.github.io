@@ -1,6 +1,6 @@
 {
   "player": "Zhuo",
-  "generated": "2026-10-23",
+  "generated": "2026-11-04",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2020-08-28","LDL 2020 Summer Playoffs","Round 1","Team WE Academy","Top Esports Challenger","LWLL","","dom","S"],
@@ -43,7 +43,8 @@
     ["2026-05-24","LPL 2026 Split 2 Playoffs","Play-In","Ninjas in Pyjamas.CN","EDward Gaming","LWLWL","","dom","P"],
     ["2026-08-29","LPL 2026 Grand Finals","Round 1","Top Esports","LGD Gaming","LLWWL","","dom","P"],
     ["2026-09-05","LPL 2026 Grand Finals","Round 1","Top Esports","Invictus Gaming","LWLWL","","dom","P"],
-    ["2026-09-17","LPL 2026 Regional Finals","Round 1","Top Esports","Invictus Gaming","LWWW","","dom","P"]
+    ["2026-09-17","LPL 2026 Regional Finals","Round 1","Top Esports","Invictus Gaming","LWWW","","dom","P"],
+    ["2026-11-03","Worlds 2026","Quarterfinal","Top Esports","Invictus Gaming","LWLL","","worlds","P"]
   ],
   "unknown": []
 }

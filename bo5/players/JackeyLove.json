@@ -1,6 +1,6 @@
 {
   "player": "JackeyLove",
-  "generated": "2026-10-23",
+  "generated": "2026-11-04",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2018-04-21","LPL 2018 Spring Playoffs","Semifinal","Invictus Gaming","Royal Never Give Up","WLLWL","","dom","P"],
@@ -98,7 +98,8 @@
     ["2026-07-05","MSI 2026","Bracket Round 1","Top Esports","Team Secret Whales","LWLL","","msi","P"],
     ["2026-08-29","LPL 2026 Grand Finals","Round 1","Top Esports","LGD Gaming","LLWWL","","dom","P"],
     ["2026-09-05","LPL 2026 Grand Finals","Round 1","Top Esports","Invictus Gaming","LWLWL","","dom","P"],
-    ["2026-09-17","LPL 2026 Regional Finals","Round 1","Top Esports","Invictus Gaming","LWWW","","dom","P"]
+    ["2026-09-17","LPL 2026 Regional Finals","Round 1","Top Esports","Invictus Gaming","LWWW","","dom","P"],
+    ["2026-11-03","Worlds 2026","Quarterfinal","Top Esports","Invictus Gaming","LWLL","","worlds","P"]
   ],
   "unknown": [
     ["2017-07-23","Xinhua E-Sports Conference 2017","Final","Invictus Gaming","Newbee","3-1","","dom",""]

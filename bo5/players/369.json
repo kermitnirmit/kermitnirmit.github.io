@@ -1,6 +1,6 @@
 {
   "player": "369",
-  "generated": "2026-10-29",
+  "generated": "2026-11-04",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2018-12-23","Demacia Cup 2018 Winter","Grand Finals","Topsports Gaming","Invictus Gaming","WLLL","","dom","P"],
@@ -86,7 +86,8 @@
     ["2026-02-09","LPL 2026 Split 1 Playoffs","Play-In Round 1","Top Esports","Team WE","LWWLW","","dom","P"],
     ["2026-02-24","LPL 2026 Split 1 Playoffs","Round 1","Top Esports","JD Gaming","WLWLL","","dom","P"],
     ["2026-02-28","LPL 2026 Split 1 Playoffs","Round 1","Top Esports","Team WE","WWW","","dom","P"],
-    ["2026-03-02","LPL 2026 Split 1 Playoffs","Round 2","Top Esports","Weibo Gaming","LWLWL","","dom","P"]
+    ["2026-03-02","LPL 2026 Split 1 Playoffs","Round 2","Top Esports","Weibo Gaming","LWLWL","","dom","P"],
+    ["2026-11-03","Worlds 2026","Quarterfinal","Top Esports","Invictus Gaming","LWLL","","worlds","P"]
   ],
   "unknown": []
 }

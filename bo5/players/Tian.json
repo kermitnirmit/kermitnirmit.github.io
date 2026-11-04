@@ -1,6 +1,6 @@
 {
   "player": "Tian",
-  "generated": "2026-10-23",
+  "generated": "2026-11-04",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2017-08-18","LSPL 2017 Summer Playoffs","Semifinal","Young Miracles","Legend Dragon","WWW","","dom","S"],
@@ -82,7 +82,8 @@
     ["2026-07-05","MSI 2026","Bracket Round 1","Top Esports","Team Secret Whales","LWLL","","msi","P"],
     ["2026-08-29","LPL 2026 Grand Finals","Round 1","Top Esports","LGD Gaming","LLWWL","","dom","P"],
     ["2026-09-05","LPL 2026 Grand Finals","Round 1","Top Esports","Invictus Gaming","LWLWL","","dom","P"],
-    ["2026-09-17","LPL 2026 Regional Finals","Round 1","Top Esports","Invictus Gaming","LWWW","","dom","P"]
+    ["2026-09-17","LPL 2026 Regional Finals","Round 1","Top Esports","Invictus Gaming","LWWW","","dom","P"],
+    ["2026-11-03","Worlds 2026","Quarterfinal","Top Esports","Invictus Gaming","LWLL","","worlds","P"]
   ],
   "unknown": []
 }

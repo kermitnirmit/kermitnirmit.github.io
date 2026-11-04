@@ -1,6 +1,6 @@
 {
   "player": "Kuro",
-  "generated": "2026-10-25",
+  "generated": "2026-11-04",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2013-06-28","AMD-INVEN GamExperience","Quarterfinal","Incredible Miracle 2","MVP Ozone","LL","r","dom",""],
@@ -221,7 +221,10 @@
     ["2025-07-18","SLL Summer 2025","Group A","LeeSangho (2025 SLL Summer Team)","Oehwabeoridan","LL","r","dom","S"],
     ["2025-12-15","SLL Winter 2025","Group A","Wangho's Solo Leveling","Anarchy","WW","r","dom","S"],
     ["2025-12-16","SLL Winter 2025","Group A","Wangho's Solo Leveling","WJCLB","LL","r","dom","S"],
-    ["2026-10-20","Arabian Regional Championship 2026 Qualifiers Algeria","Round 5","ATLAS LEGACY","Mercy for none","WW","r","dom","S"]
+    ["2026-10-20","Arabian Regional Championship 2026 Qualifiers Algeria","Round 5","ATLAS LEGACY","Mercy for none","WW","r","dom","S"],
+    ["2026-11-01","Predator League 2027 National Tournament Vietnam Qualifier","Group G","Fish Market","Cho Ba Dau","LL","r","dom","S"],
+    ["2026-11-01","Predator League 2027 National Tournament Vietnam Qualifier","Group G","Fish Market","Nice Try (Vietnamese Team)","WW","r","dom","S"],
+    ["2026-11-01","Predator League 2027 National Tournament Vietnam Qualifier","Group G","Fish Market","Về Đích","WW","r","dom","S"]
   ],
   "unknown": [
     ["2013-10-25","Champions 2014 Winter Qualifiers","Qual","Incredible Miracle 2","KT Rolster Arrows","2-1","","dom","P"],

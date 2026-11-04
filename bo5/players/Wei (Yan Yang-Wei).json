@@ -1,6 +1,6 @@
 {
   "player": "Wei (Yan Yang-Wei)",
-  "generated": "2026-10-23",
+  "generated": "2026-11-04",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2020-04-22","LPL 2020 Spring Playoffs","Round 1","eStar (Chinese Team)","Team WE","LLWL","","dom","P"],
@@ -60,7 +60,8 @@
     ["2026-09-08","LPL 2026 Grand Finals","Round 3","Invictus Gaming","LGD Gaming","WWW","","dom","P"],
     ["2026-09-12","LPL 2026 Grand Finals","Round 4","Invictus Gaming","Anyone's Legend","WLLWL","","dom","P"],
     ["2026-09-17","LPL 2026 Regional Finals","Round 1","Invictus Gaming","Top Esports","WLLL","","dom","P"],
-    ["2026-09-19","LPL 2026 Regional Finals","Round 2","Invictus Gaming","JD Gaming","WWLW","","dom","P"]
+    ["2026-09-19","LPL 2026 Regional Finals","Round 2","Invictus Gaming","JD Gaming","WWLW","","dom","P"],
+    ["2026-11-03","Worlds 2026","Quarterfinal","Invictus Gaming","Top Esports","WLWW","","worlds","P"]
   ],
   "unknown": []
 }
