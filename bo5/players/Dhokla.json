@@ -1,6 +1,6 @@
 {
   "player": "Dhokla",
-  "generated": "2026-10-29",
+  "generated": "2026-11-05",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2017-08-25","OPL 2017 Split 2 Playoffs","Round 1","Sin Gaming","Avant Gaming","WLLWW","","dom","P"],
@@ -63,7 +63,8 @@
     ["2026-09-19","LCS 2026 Summer Playoffs","Round 2","LYON (2024 American Team)","Cloud9","LWLL","","dom","P"],
     ["2026-09-26","LCS 2026 Summer Playoffs","Round 3","LYON (2024 American Team)","Shopify Rebellion","WWLW","","dom","P"],
     ["2026-10-03","LCS 2026 Summer Playoffs","Round 4","LYON (2024 American Team)","Cloud9","LWWW","","dom","P"],
-    ["2026-10-04","LCS 2026 Summer Playoffs","Final","LYON (2024 American Team)","Team Liquid","LLWL","","dom","P"]
+    ["2026-10-04","LCS 2026 Summer Playoffs","Final","LYON (2024 American Team)","Team Liquid","LLWL","","dom","P"],
+    ["2026-11-04","Worlds 2026","Quarterfinal","LYON (2024 American Team)","Gen.G","LLL","","worlds","P"]
   ],
   "unknown": []
 }

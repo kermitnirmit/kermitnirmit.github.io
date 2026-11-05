@@ -1,6 +1,6 @@
 {
   "player": "Ruler",
-  "generated": "2026-10-29",
+  "generated": "2026-11-05",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2016-08-10","LCK 2016 Summer Playoffs","Round 2","Samsung Galaxy","KT Rolster","LLL","p","dom","P"],
@@ -88,7 +88,8 @@
     ["2026-06-14","LCK 2026 Road to MSI","Round 4","Gen.G","T1","WLLWL","","dom","P"],
     ["2026-09-01","LCK 2026 Playoffs","Round 2","Gen.G","KT Rolster","WWW","","dom","P"],
     ["2026-09-05","LCK 2026 Playoffs","Round 4","Gen.G","Hanwha Life Esports","LWWW","","dom","P"],
-    ["2026-09-13","LCK 2026 Playoffs","Final","Gen.G","Hanwha Life Esports","LWWW","","dom","P"]
+    ["2026-09-13","LCK 2026 Playoffs","Final","Gen.G","Hanwha Life Esports","LWWW","","dom","P"],
+    ["2026-11-04","Worlds 2026","Quarterfinal","Gen.G","LYON (2024 American Team)","WWW","","worlds","P"]
   ],
   "unknown": [
     ["2018-08-29","Asian Games 2018","Final","South Korea","China","1-3","","intl",""],

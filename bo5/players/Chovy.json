@@ -1,6 +1,6 @@
 {
   "player": "Chovy",
-  "generated": "2026-10-29",
+  "generated": "2026-11-05",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2018-08-18","LCK 2018 Summer Playoffs","Round 3","Griffin (Korean Team)","Afreeca Freecs","WLLWW","","dom","P"],
@@ -82,7 +82,8 @@
     ["2026-06-14","LCK 2026 Road to MSI","Round 4","Gen.G","T1","WLLWL","","dom","P"],
     ["2026-09-01","LCK 2026 Playoffs","Round 2","Gen.G","KT Rolster","WWW","","dom","P"],
     ["2026-09-05","LCK 2026 Playoffs","Round 4","Gen.G","Hanwha Life Esports","LWWW","","dom","P"],
-    ["2026-09-13","LCK 2026 Playoffs","Final","Gen.G","Hanwha Life Esports","LWWW","","dom","P"]
+    ["2026-09-13","LCK 2026 Playoffs","Final","Gen.G","Hanwha Life Esports","LWWW","","dom","P"],
+    ["2026-11-04","Worlds 2026","Quarterfinal","Gen.G","LYON (2024 American Team)","WWW","","worlds","P"]
   ],
   "unknown": []
 }

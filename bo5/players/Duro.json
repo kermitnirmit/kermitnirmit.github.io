@@ -1,6 +1,6 @@
 {
   "player": "Duro",
-  "generated": "2026-10-23",
+  "generated": "2026-11-05",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2023-03-21","LCK CL 2023 Spring Playoffs","Round 1","Hanwha Life Esports Challengers","T1 Challengers","LLL","","dom","S"],
@@ -39,7 +39,8 @@
     ["2026-06-14","LCK 2026 Road to MSI","Round 4","Gen.G","T1","WLLWL","","dom","P"],
     ["2026-09-01","LCK 2026 Playoffs","Round 2","Gen.G","KT Rolster","WWW","","dom","P"],
     ["2026-09-05","LCK 2026 Playoffs","Round 4","Gen.G","Hanwha Life Esports","LWWW","","dom","P"],
-    ["2026-09-13","LCK 2026 Playoffs","Final","Gen.G","Hanwha Life Esports","LWWW","","dom","P"]
+    ["2026-09-13","LCK 2026 Playoffs","Final","Gen.G","Hanwha Life Esports","LWWW","","dom","P"],
+    ["2026-11-04","Worlds 2026","Quarterfinal","Gen.G","LYON (2024 American Team)","WWW","","worlds","P"]
   ],
   "unknown": [
     ["2025-12-27","Puyuan Esports Festival 2025","Final","Gen.G","Anyone's Legend","2-3","","dom","S"]
