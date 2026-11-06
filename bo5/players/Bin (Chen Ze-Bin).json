@@ -1,6 +1,6 @@
 {
   "player": "Bin (Chen Ze-Bin)",
-  "generated": "2026-10-29",
+  "generated": "2026-11-06",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2019-09-14","LDL 2019 Summer Playoffs","Round 1","Suning-S","Royal Club","WWW","","dom","S"],
@@ -108,7 +108,8 @@
     ["2026-07-12","MSI 2026","Final","Bilibili Gaming","Hanwha Life Esports","LWWLL","","msi","P"],
     ["2026-09-03","LPL 2026 Grand Finals","Round 2","Bilibili Gaming","Team WE","WWLW","","dom","P"],
     ["2026-09-07","LPL 2026 Grand Finals","Round 4","Bilibili Gaming","Anyone's Legend","WWW","","dom","P"],
-    ["2026-09-13","LPL 2026 Grand Finals","Final","Bilibili Gaming","Anyone's Legend","LLWL","","dom","P"]
+    ["2026-09-13","LPL 2026 Grand Finals","Final","Bilibili Gaming","Anyone's Legend","LLWL","","dom","P"],
+    ["2026-11-05","Worlds 2026","Quarterfinal","Bilibili Gaming","Dplus Kia","WWW","","worlds","P"]
   ],
   "unknown": []
 }

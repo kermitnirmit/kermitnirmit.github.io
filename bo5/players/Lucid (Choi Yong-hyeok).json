@@ -1,6 +1,6 @@
 {
   "player": "Lucid (Choi Yong-hyeok)",
-  "generated": "2026-10-23",
+  "generated": "2026-11-06",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2021-12-12","LoL KeSPA Cup 2021","Final","DWG KIA Challengers","Fredit BRION Challengers","LWWW","","dom","P"],
@@ -54,7 +54,8 @@
     ["2026-08-30","LCK 2026 Playoffs","Round 1","Dplus Kia","KT Rolster","LLL","","dom","P"],
     ["2026-09-03","LCK 2026 Playoffs","Round 1","Dplus Kia","BNK FEARX","LLWWW","","dom","P"],
     ["2026-09-04","LCK 2026 Playoffs","Round 2","Dplus Kia","KT Rolster","LWWW","","dom","P"],
-    ["2026-09-06","LCK 2026 Playoffs","Round 3","Dplus Kia","T1","LWLL","","dom","P"]
+    ["2026-09-06","LCK 2026 Playoffs","Round 3","Dplus Kia","T1","LWLL","","dom","P"],
+    ["2026-11-05","Worlds 2026","Quarterfinal","Dplus Kia","Bilibili Gaming","LLL","","worlds","P"]
   ],
   "unknown": []
 }

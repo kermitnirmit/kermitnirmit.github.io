@@ -1,6 +1,6 @@
 {
   "player": "Smash (Shin Geum-jae)",
-  "generated": "2026-10-23",
+  "generated": "2026-11-06",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2021-11-13","LCK Academy Series 2021 2nd Championship","Semifinal","T1 Rookies","Shadow Battlica","LWLL","","dom","S"],
@@ -38,7 +38,8 @@
     ["2026-08-30","LCK 2026 Playoffs","Round 1","Dplus Kia","KT Rolster","LLL","","dom","P"],
     ["2026-09-03","LCK 2026 Playoffs","Round 1","Dplus Kia","BNK FEARX","LLWWW","","dom","P"],
     ["2026-09-04","LCK 2026 Playoffs","Round 2","Dplus Kia","KT Rolster","LWWW","","dom","P"],
-    ["2026-09-06","LCK 2026 Playoffs","Round 3","Dplus Kia","T1","LWLL","","dom","P"]
+    ["2026-09-06","LCK 2026 Playoffs","Round 3","Dplus Kia","T1","LWLL","","dom","P"],
+    ["2026-11-05","Worlds 2026","Quarterfinal","Dplus Kia","Bilibili Gaming","LLL","","worlds","P"]
   ],
   "unknown": []
 }
