@@ -1,6 +1,6 @@
 {
   "player": "Yoshino",
-  "generated": "2026-11-03",
+  "generated": "2026-11-07",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2019-03-16","VCS 2019 Spring","","GAM Esports","EVOS Esports","LL","","dom","P"],
@@ -127,7 +127,8 @@
     ["2024-08-02","VCS 2024 Summer","","Team Flash.Vietnam","Team Secret (Vietnamese Team)","WW","","dom","P"],
     ["2024-08-03","VCS 2024 Summer","","Team Flash.Vietnam","Vikings Esports (2023 Vietnamese Team)","LL","","dom","P"],
     ["2026-10-30","Predator League 2027 National Tournament Vietnam Qualifier","Group B","Shiba Team","Last Stand (Vietnamese Team)","WW","r","dom","S"],
-    ["2026-10-30","Predator League 2027 National Tournament Vietnam Qualifier","Group B","Shiba Team","Original Gaming","WW","r","dom","S"]
+    ["2026-10-30","Predator League 2027 National Tournament Vietnam Qualifier","Group B","Shiba Team","Original Gaming","WW","r","dom","S"],
+    ["2026-11-07","Predator League 2027 National Tournament Vietnam","Round 2","Shiba Team","1TAP Dino Red","LWL","r","dom","S"]
   ],
   "unknown": []
 }

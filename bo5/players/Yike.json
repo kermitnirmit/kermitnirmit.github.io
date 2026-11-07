@@ -1,6 +1,6 @@
 {
   "player": "Yike",
-  "generated": "2026-10-23",
+  "generated": "2026-11-07",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2020-07-27","Telia Esports Series Sweden 2020 Summer Playoffs","Final","UniQ Esports Club","Granit Gaming","WWW","","dom","S"],
@@ -83,7 +83,8 @@
     ["2026-09-19","LEC 2026 Summer Playoffs","Round 3","Karmine Corp","Movistar KOI","LLL","","dom","P"],
     ["2026-10-15","Worlds 2026","Round 1","Karmine Corp","Cloud9","LWLWW","","worlds","P"],
     ["2026-10-16","Worlds 2026","Round 2","Karmine Corp","MVK Esports","WWW","","worlds","P"],
-    ["2026-10-18","Worlds 2026","Round 3","Karmine Corp","MVK Esports","WWW","","worlds","P"]
+    ["2026-10-18","Worlds 2026","Round 3","Karmine Corp","MVK Esports","WWW","","worlds","P"],
+    ["2026-11-06","Worlds 2026","Quarterfinal","Karmine Corp","T1","LLWL","","worlds","P"]
   ],
   "unknown": [
     ["2020-11-15","Telialigaen 2020 Autumn Playoffs","Semifinal","Domino esports","Riddle Esports","3-2","","dom",""]

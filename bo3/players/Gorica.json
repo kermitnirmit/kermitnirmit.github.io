@@ -1,6 +1,6 @@
 {
   "player": "Gorica",
-  "generated": "2026-10-25",
+  "generated": "2026-11-07",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2019-01-26","College League of Legends 2019 East Conference/Regular","","University of Western Ontario","Albright College","WW","r","dom",""],
@@ -96,7 +96,7 @@
     ["2024-01-28","North American Challengers League 2024 Spring Qualifier 1 Playoffs","Group D","University of California Irvine","Wang's Revenge","LL","r","dom","S"],
     ["2024-02-03","College League of Legends 2024 West Conference/Regular","","University of California Irvine","University of Alberta","WW","r","dom",""],
     ["2024-02-04","North American Challengers League 2024 Spring Qualifier 1 Playoffs","Group D","University of California Irvine","Lotus (North American Team)","LL","r","dom","S"],
-    ["2024-02-12","College League of Legends 2024 West Conference/Regular","","University of California Irvine","CP","WW","r","dom",""],
+    ["2024-02-12","College League of Legends 2024 West Conference/Regular","","University of California Irvine","California Polytechnic State University San Luis Obispo","WW","r","dom",""],
     ["2024-02-17","College League of Legends 2024 West Conference/Regular","","University of California Irvine","University of California Santa Barbara","WW","r","dom",""],
     ["2024-02-24","College League of Legends 2024 West Conference/Regular","","University of California Irvine","University of Oregon","WW","r","dom",""],
     ["2024-03-01","Aegis Champion League 2024 Winter","","University of California Irvine","Virginia Polytechnic Institute and State University","WW","r","dom","S"],
