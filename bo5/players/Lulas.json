@@ -1,0 +1,28 @@
+{
+  "player": "Lulas",
+  "generated": "2026-11-08",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2019-08-24","LPLOL 2019 Summer Playoffs","Round 1","Hexagone Esports","K1ck eSports Club","LLL","","dom","S"],
+    ["2020-11-22","LPLOL 2020 Grand Final","Final","SAMCLAN Esports Club","EGN Esports","LLL","","dom","S"],
+    ["2021-03-15","LPLOL 2021 Spring Playoffs","Semifinal","EGN Esports","White Dragons","LLL","p","dom","S"],
+    ["2022-04-22","Prime League 2nd Division 2022 Summer Promotion","Round 1","ERN ROAR","KIT SC","LLL","","dom","S"],
+    ["2022-04-27","Prime League 2nd Division 2022 Summer Promotion","Round 1","ERN ROAR","cowana Gaming","LWLL","","dom","S"],
+    ["2022-10-26","NLC 2022 Aurora Open","Quarterfinal","NYYRIKKI","JDXL","LLL","","dom","S"],
+    ["2024-07-24","Hitpoint Masters 2025 Promotion","Round 2","eSuba","Delta Syndicate","WLWW","","dom","S"],
+    ["2024-07-30","Hitpoint Masters 2025 Promotion","Grand Final","eSuba","Maverix","WLWW","","dom","S"],
+    ["2025-02-19","NLC 2025 Winter Playoffs","Round 3","Bulldog Esports","The Ruddy Sack","WLLWW","","dom","S"],
+    ["2025-02-21","NLC 2025 Winter Playoffs","Round 4","Bulldog Esports","Verdant","WLWW","","dom","S"],
+    ["2025-03-01","NLC 2025 Winter Playoffs","Round 5","Bulldog Esports","NORD Esports","LLWL","","dom","S"],
+    ["2025-05-14","NLC 2025 Spring Playoffs","Round 3","Bulldog Esports","Verdant","LWLL","","dom","S"],
+    ["2025-08-06","NLC 2025 Summer Playoffs","Round 1","DMG Esports","Ruddy Corporation","WWW","","dom","S"],
+    ["2025-08-13","NLC 2025 Summer Playoffs","Round 2","DMG Esports","Venomcrest Esports","WWW","","dom","S"],
+    ["2025-08-15","NLC 2025 Summer Playoffs","Round 3","DMG Esports","Verdant","LLL","","dom","S"],
+    ["2026-03-04","NLC 2026 Winter Playoffs","Round 1","DMG Esports","Arctic Pandas","LLL","","dom","S"],
+    ["2026-03-06","NLC 2026 Winter Playoffs","Round 2","DMG Esports","Verdant","LLL","","dom","S"],
+    ["2026-05-28","LPLOL 2026 Spring Playoffs","Round 1","Otter Side","Crusaders","WWW","","dom","S"],
+    ["2026-06-03","LPLOL 2026 Spring Playoffs","Final","Otter Side","Bubliki","WWW","","dom","S"],
+    ["2026-11-07","4 Nations 2026 Halloween Heist","Round 4","Bulldog Esports","Absolved","WWW","r","dom","S"]
+  ],
+  "unknown": []
+}

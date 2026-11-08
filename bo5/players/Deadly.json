@@ -1,6 +1,6 @@
 {
   "player": "Deadly",
-  "generated": "2026-10-23",
+  "generated": "2026-11-08",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2018-03-20","LVP SuperLiga Orange 2018 Spring Playoffs","Semifinal","Giants Gaming Spain","Movistar Riders","WLLL","","dom","S"],
@@ -38,7 +38,8 @@
     ["2026-02-24","LFL 2026 Invitational","Round 1","Skillcamp","French Flair","LLL","","dom","S"],
     ["2026-09-02","LPLOL 2026 Summer Split","Quarterfinal","Otter Side","Francesinhas","LWWW","","dom","S"],
     ["2026-09-07","LPLOL 2026 Summer Split","Semifinal","Otter Side","Bubliki","LWWW","","dom","S"],
-    ["2026-09-13","LPLOL 2026 Summer Split","Final","Otter Side","White Dragons","LLL","","dom","S"]
+    ["2026-09-13","LPLOL 2026 Summer Split","Final","Otter Side","White Dragons","LLL","","dom","S"],
+    ["2026-11-07","4 Nations 2026 Halloween Heist","Round 4","Bulldog Esports","Absolved","WWW","r","dom","S"]
   ],
   "unknown": []
 }

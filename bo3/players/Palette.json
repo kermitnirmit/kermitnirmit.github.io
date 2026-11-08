@@ -1,6 +1,6 @@
 {
   "player": "Palette",
-  "generated": "2026-11-07",
+  "generated": "2026-11-08",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2017-06-08","VCS A 2017 Summer","","Young Generation","Fighters Gaming","WW","r","dom",""],
@@ -179,7 +179,9 @@
     ["2023-10-27","Worlds 2023","Round 4","GAM Esports","Dplus Kia","LL","","worlds","P"],
     ["2026-10-30","Predator League 2027 National Tournament Vietnam Qualifier","Group A","9Gaming","AN CUOP ESPORT","WW","r","dom","S"],
     ["2026-10-30","Predator League 2027 National Tournament Vietnam Qualifier","Group A","9Gaming","Dân Hải Phòng","WW","r","dom","S"],
-    ["2026-11-07","Predator League 2027 National Tournament Vietnam","Round 2","9Gaming","No Turning Back","WW","r","dom","S"]
+    ["2026-11-07","Predator League 2027 National Tournament Vietnam","Round 2","9Gaming","No Turning Back","WW","r","dom","S"],
+    ["2026-11-08","Predator League 2027 National Tournament Vietnam","Round 3","9Gaming","1TAP Dino Red","WLW","r","dom","S"],
+    ["2026-11-08","Predator League 2027 National Tournament Vietnam","Round 4","9Gaming","Sống Bằng Tình Yêu","LWL","r","dom","S"]
   ],
   "unknown": [
     ["2017-06-11","VCS A 2017 Summer","","Young Generation","Ultimate","2-1","","dom",""],

@@ -1,6 +1,6 @@
 {
   "player": "kaSing",
-  "generated": "2026-10-23",
+  "generated": "2026-11-08",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2014-08-07","EU LCS 2014 Summer Playoffs","Quarterfinal","SUPA HOT CREW","Team ROCCAT","LLWL","","dom","P"],
@@ -54,7 +54,8 @@
     ["2025-03-01","NLC 2025 Winter Playoffs","Round 5","Bulldog Esports","NORD Esports","LLWL","","dom","S"],
     ["2025-05-14","NLC 2025 Spring Playoffs","Round 3","Bulldog Esports","Verdant","LWLL","","dom","S"],
     ["2025-08-08","NLC 2025 Summer Playoffs","Round 2","Bulldog Esports","Lundqvist Lightside","LWLL","","dom","S"],
-    ["2026-03-05","NLC 2026 Winter Playoffs","Round 1","Bulldog Esports","Verdant","LLL","","dom","S"]
+    ["2026-03-05","NLC 2026 Winter Playoffs","Round 1","Bulldog Esports","Verdant","LLL","","dom","S"],
+    ["2026-11-07","4 Nations 2026 Halloween Heist","Round 4","Bulldog Esports","Absolved","WWW","r","dom","S"]
   ],
   "unknown": [
     ["2023-05-08","Saudi eLeagues 2023 Season 1","Final","Triple Esports","Twisted Minds","3-2","","dom","S"],

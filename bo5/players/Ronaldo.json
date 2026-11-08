@@ -1,0 +1,28 @@
+{
+  "player": "Ronaldo",
+  "generated": "2026-11-08",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2020-01-12","Neosurf Cup 2020","5v5","Misfits Gaming","Excel Esports","LWWLL","p","dom","S"],
+    ["2020-06-24","Underdogs 2020","Quarterfinal","Misfits Premier","Team MCES","LWWW","","dom","S"],
+    ["2020-07-01","Underdogs 2020","Semifinal","Misfits Premier","LDLC OL","LWLWL","","dom","S"],
+    ["2020-08-14","LFL 2020 EM Qualification","Round 2","Misfits Premier","Vitality.Bee","WWW","","dom","S"],
+    ["2020-08-15","LFL 2020 EM Qualification","Round 3","Misfits Premier","LDLC OL","WLLWW","","dom","S"],
+    ["2020-08-16","LFL 2020 EM Qualification","Final","Misfits Premier","GamersOrigin","LWWW","","dom","S"],
+    ["2020-09-30","LFL 2020 Summer Playoffs","Round 3","Misfits Premier","GameWard","LWWLL","","dom","S"],
+    ["2020-10-07","LFL 2020 Finals","Round 1","Misfits Premier","LDLC OL","WWW","","dom","S"],
+    ["2020-10-26","LFL 2020 Finals","Final","Misfits Premier","GamersOrigin","WWW","","dom","S"],
+    ["2021-03-15","LVP SuperLiga 2021 Spring Playoffs","Quarterfinal","Vodafone Giants.Spain","Movistar Riders","WWLW","","dom","S"],
+    ["2021-03-19","LVP SuperLiga 2021 Spring Playoffs","Semifinal","Vodafone Giants.Spain","UCAM Esports Club","WLLL","","dom","S"],
+    ["2022-03-16","LFL 2022 Spring Playoffs","Round 1","GamersOrigin","Team BDS Academy","WLLL","","dom","S"],
+    ["2022-10-20","Coupe de France 2022","Round 2","Team GO","les bandes jaunes","WWW","","dom","S"],
+    ["2022-10-27","Coupe de France 2022","Quarterfinal","Team GO","Team BDS Academy","WWLLW","","dom","S"],
+    ["2022-11-06","Coupe de France 2022","Semifinal","Team GO","Vitality.Bee","WLLWL","","dom","S"],
+    ["2023-09-12","LVP SuperLiga 2024 Promotion","Round 1","Guasones","Case Esports","LLL","","dom","S"],
+    ["2023-09-18","LVP SuperLiga 2024 Promotion","Round 1","Guasones","Wizards","LLWWL","","dom","S"],
+    ["2025-02-20","NLC 2025 Winter Playoffs","Round 3","Verdant","Rich Gang (Norwegian Team)","WLWW","","dom","S"],
+    ["2025-02-21","NLC 2025 Winter Playoffs","Round 4","Verdant","Bulldog Esports","LWLL","","dom","S"],
+    ["2026-11-07","4 Nations 2026 Halloween Heist","Round 4","Bulldog Esports","Absolved","WWW","r","dom","S"]
+  ],
+  "unknown": []
+}
