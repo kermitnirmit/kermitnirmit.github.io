@@ -1,6 +1,6 @@
 {
   "player": "Doxy",
-  "generated": "2026-10-23",
+  "generated": "2026-11-09",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2015-07-12","SLTV StarSeries Summer Split 2015","Playoffs","Carpe Diem","Team Just","LLWWW","","dom","P"],
@@ -30,7 +30,8 @@
     ["2022-11-19","Iberian Cup 2022","Final","UCAM Tokiers","Team Heretics","LWWW","","dom","S"],
     ["2025-05-01","NLC 2025 Spring Playoffs","Round 2","Venomcrest Esports","DMG Esports","LWWW","","dom","S"],
     ["2025-05-08","NLC 2025 Spring Playoffs","Round 3","Venomcrest Esports","Los Ratones","LLL","","dom","S"],
-    ["2025-09-13","LIT 2025 Summer Playoffs","Round 4","GMBLERS Esports","Zena Esports","LLL","","dom","S"]
+    ["2025-09-13","LIT 2025 Summer Playoffs","Round 4","GMBLERS Esports","Zena Esports","LLL","","dom","S"],
+    ["2026-11-08","Arabian League 2nd Division 2026 Summer Playoffs","Final","Slam Dunk","Void Walkers","LLWWL","","dom","S"]
   ],
   "unknown": [
     ["2018-08-12","Nordic Championship 2018 Summer Playoffs","Final","Ninjas in Pyjamas","Team Atlantis","2-3","","dom",""]

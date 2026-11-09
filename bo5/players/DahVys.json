@@ -1,6 +1,6 @@
 {
   "player": "DahVys",
-  "generated": "2026-10-23",
+  "generated": "2026-11-09",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2016-12-19","LVP División de Honor Season 11","Relegations","PAM eSports","PainGaming","WWW","r","dom",""],
@@ -29,7 +29,8 @@
     ["2025-07-24","Arabian League 2025 Summer Split","Elimination","Baam Esports","Dragons Esports","LLWWW","","dom","S"],
     ["2025-08-10","Saudi eLeagues 2025 Season 2","Grand Final","XO Esports","Geekay Esports","WWW","r","dom","S"],
     ["2025-11-22","Iberian Cup 2025","Semifinal","Veni Vidi Vici (Spanish Team)","LUA Gaming","LLL","","dom","S"],
-    ["2026-09-23","LES 2027 Promotion","Round 1","Veni Vidi Vici (Spanish Team)","Kawaii Kiwis","WLLWL","","dom","S"]
+    ["2026-09-23","LES 2027 Promotion","Round 1","Veni Vidi Vici (Spanish Team)","Kawaii Kiwis","WLLWL","","dom","S"],
+    ["2026-11-08","Arabian League 2nd Division 2026 Summer Playoffs","Final","Slam Dunk","Void Walkers","LLWWL","","dom","S"]
   ],
   "unknown": [
     ["2016-12-19","LVP División de Honor Season 11","Relegations","PAM eSports","NeverBack Gaming","3-1","","dom",""],
