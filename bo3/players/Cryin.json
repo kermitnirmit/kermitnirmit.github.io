@@ -1,6 +1,6 @@
 {
   "player": "Cryin",
-  "generated": "2026-11-09",
+  "generated": "2026-11-10",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2018-03-03","LDL 2018 Spring - East","","Young Miracles","Triumphant Song Gaming","LWL","","dom","S"],
@@ -200,7 +200,8 @@
     ["2026-03-25","Uzi Cup","","Omnipotence","Le Tian Gaming","WW","r","dom","S"],
     ["2026-03-26","Uzi Cup","","Omnipotence","YYDS","LWL","r","dom","S"],
     ["2026-03-27","Uzi Cup","","Omnipotence","Blood (Chinese Team)","WLW","r","dom","S"],
-    ["2026-11-09","LPL Youth Academy 2026","","Weibo Gaming","LYA-A","LL","r","dom","S"]
+    ["2026-11-09","LPL Youth Academy 2026","","Weibo Gaming","LYA-A","LL","r","dom","S"],
+    ["2026-11-10","LPL Youth Academy 2026","","Weibo Gaming","Ultra Prime","WW","r","dom","S"]
   ],
   "unknown": [
     ["2026-11-08","LPL Youth Academy 2026","","Weibo Gaming","LNG Esports","1-2","","dom","S"]

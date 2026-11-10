@@ -1,6 +1,6 @@
 {
   "player": "Ale",
-  "generated": "2026-11-09",
+  "generated": "2026-11-10",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2018-07-01","LDL 2018 Summer - South","","SHEINOO","Team Fighter","WLW","","dom","S"],
@@ -158,7 +158,8 @@
     ["2026-03-25","Uzi Cup","","Le Tian Gaming","Omnipotence","LL","r","dom","S"],
     ["2026-03-26","Uzi Cup","","Le Tian Gaming","CS","LL","r","dom","S"],
     ["2026-03-27","Uzi Cup","","Le Tian Gaming","LUG","WW","r","dom","S"],
-    ["2026-11-09","LPL Youth Academy 2026","","Weibo Gaming","LYA-A","LL","r","dom","S"]
+    ["2026-11-09","LPL Youth Academy 2026","","Weibo Gaming","LYA-A","LL","r","dom","S"],
+    ["2026-11-10","LPL Youth Academy 2026","","Weibo Gaming","Ultra Prime","WW","r","dom","S"]
   ],
   "unknown": [
     ["2025-12-15","Demacia Cup 2025","","ZSM","LGD Gaming","1-2","LL","dom","P"],

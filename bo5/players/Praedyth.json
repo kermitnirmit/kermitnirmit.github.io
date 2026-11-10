@@ -1,6 +1,6 @@
 {
   "player": "Praedyth",
-  "generated": "2026-10-23",
+  "generated": "2026-11-10",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2016-03-31","OCS 2016 Split 1 Playoffs","Final","Chiefs Black","Abyss Esports Red","WWW","","dom","S"],
@@ -22,7 +22,8 @@
     ["2022-09-04","LCO 2022 Split 2 Playoffs","Final","Pentanet.GG","Chiefs Esports Club","LLWL","","dom","P"],
     ["2023-03-16","LCO 2023 Split 1 Playoffs","Finals Stage","Dire Wolves","Chiefs Esports Club","LLL","","dom","P"],
     ["2025-08-29","LCP OPQ 2025 Main Event","Round 7","The Outcasts","Rich Dynasty","WLLL","","dom","S"],
-    ["2026-09-05","FLASH Oceania 2026 Playoffs","Final","Team Gromp (Australian Team)","Onetricks","LWLWW","","dom","S"]
+    ["2026-09-05","FLASH Oceania 2026 Playoffs","Final","Team Gromp (Australian Team)","Onetricks","LWLWW","","dom","S"],
+    ["2026-11-10","LCP 2027 Promotion","FFA Round 1","Team Gromp (Australian Team)","Saigon Warriors","LLL","","dom","P"]
   ],
   "unknown": [
     ["2025-12-19","The Oceanic Resurrection 2025","Round 5","Fatpizza","Rush Hour","2-3","","dom","S"]

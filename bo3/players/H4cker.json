@@ -1,6 +1,6 @@
 {
   "player": "H4cker",
-  "generated": "2026-11-09",
+  "generated": "2026-11-10",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2017-06-16","LPL 2017 Summer","","Suning","Oh My God","LWL","","dom","P"],
@@ -236,7 +236,8 @@
     ["2025-12-15","Demacia Cup 2025","","FRK","Team WE","LL","","dom","P"],
     ["2025-12-16","Demacia Cup 2025","","FRK","LNG Esports","LL","","dom","P"],
     ["2025-12-17","Demacia Cup 2025","","FRK","Ultra Prime","LL","","dom","P"],
-    ["2026-11-09","LPL Youth Academy 2026","","Weibo Gaming","LYA-A","LL","r","dom","S"]
+    ["2026-11-09","LPL Youth Academy 2026","","Weibo Gaming","LYA-A","LL","r","dom","S"],
+    ["2026-11-10","LPL Youth Academy 2026","","Weibo Gaming","Ultra Prime","WW","r","dom","S"]
   ],
   "unknown": [
     ["2018-11-16","National Electronic Sports Tournament 2018","Semifinal","Suning","Topsports Gaming","1-2","","dom","P"],

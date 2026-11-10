@@ -1,6 +1,6 @@
 {
   "player": "Xiaohu",
-  "generated": "2026-11-09",
+  "generated": "2026-11-10",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2015-11-07","National Electronic Sports Open 2015","Semifinal","Royal Never Give Up","Newbee","WW","r","dom",""],
@@ -369,7 +369,8 @@
     ["2026-08-13","LPL 2026 Split 3","","Weibo Gaming","Ninjas in Pyjamas.CN","LWL","","dom","P"],
     ["2026-08-16","LPL 2026 Split 3","","Weibo Gaming","Invictus Gaming","LWL","","dom","P"],
     ["2026-08-19","LPL 2026 Split 3","","Weibo Gaming","LNG Esports","WLW","","dom","P"],
-    ["2026-11-09","LPL Youth Academy 2026","","Weibo Gaming","LYA-A","LL","r","dom","S"]
+    ["2026-11-09","LPL Youth Academy 2026","","Weibo Gaming","LYA-A","LL","r","dom","S"],
+    ["2026-11-10","LPL Youth Academy 2026","","Weibo Gaming","Ultra Prime","WW","r","dom","S"]
   ],
   "unknown": [
     ["2015-11-08","National Electronic Sports Open 2015","Final","Royal Never Give Up","Snake Esports","2-1","","dom",""],

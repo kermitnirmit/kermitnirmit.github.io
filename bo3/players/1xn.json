@@ -1,6 +1,6 @@
 {
   "player": "1xn",
-  "generated": "2026-11-09",
+  "generated": "2026-11-10",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2021-06-15","LDL 2021 Summer","","Joy Dream","WanZhen Esports Club","WLL","","dom","S"],
@@ -144,6 +144,7 @@
   ],
   "unknown": [
     ["2025-12-15","Demacia Cup 2025","","LNG Esports","Ultra Prime","2-1","L","dom","P"],
-    ["2026-11-08","LPL Youth Academy 2026","","LNG Esports","Weibo Gaming","2-1","","dom","S"]
+    ["2026-11-08","LPL Youth Academy 2026","","LNG Esports","Weibo Gaming","2-1","","dom","S"],
+    ["2026-11-10","LPL Youth Academy 2026","","LNG Esports","LYA-B","2-1","","dom","S"]
   ]
 }

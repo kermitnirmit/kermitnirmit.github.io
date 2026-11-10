@@ -1,6 +1,6 @@
 {
   "player": "Aomine",
-  "generated": "2026-10-23",
+  "generated": "2026-11-10",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2020-08-22","VCS 2020 Summer Playoffs","Round 1","Percent Esports","Team Secret (Vietnamese Team)","LLWWL","p","dom","P"],
@@ -24,7 +24,8 @@
     ["2026-06-13","VCS 2026 Summer Playoffs","Round 2","Saigon Warriors","ZEN Esports (Vietnamese Team)","WWLW","","dom","S"],
     ["2026-06-20","VCS 2026 Summer Playoffs","Final","Saigon Warriors","Saigon Dino","WWW","","dom","S"],
     ["2026-09-25","VCS 2026 Finals Stage 2","Round 2","Saigon Warriors","MVK Esports Academy","LWWW","","dom","S"],
-    ["2026-10-11","VCS 2026 Finals Stage 2","Final","Saigon Warriors","MVK Esports Academy","LLL","","dom","S"]
+    ["2026-10-11","VCS 2026 Finals Stage 2","Final","Saigon Warriors","MVK Esports Academy","LLL","","dom","S"],
+    ["2026-11-10","LCP 2027 Promotion","FFA Round 1","Saigon Warriors","Team Gromp (Australian Team)","WWW","","dom","P"]
   ],
   "unknown": []
 }
