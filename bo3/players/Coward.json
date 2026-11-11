@@ -1,6 +1,6 @@
 {
   "player": "Coward",
-  "generated": "2026-11-10",
+  "generated": "2026-11-11",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2023-02-15","LDL 2023 Split 1","","EDward Gaming Youth Team","Oh My Dream","WLL","","dom","S"],
@@ -132,6 +132,7 @@
   ],
   "unknown": [
     ["2023-06-02","M-Zone Cup 2023","Semifinal","EDward Gaming Youth Team","Invictus Gaming Young","1-2","","dom",""],
-    ["2026-11-08","LPL Youth Academy 2026","","LYA-A","Ultra Prime","1-2","","dom","S"]
+    ["2026-11-08","LPL Youth Academy 2026","","LYA-A","Ultra Prime","1-2","","dom","S"],
+    ["2026-11-11","LPL Youth Academy 2026","","LYA-A","LNG Esports","1-2","","dom","S"]
   ]
 }

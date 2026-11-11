@@ -1,6 +1,6 @@
 {
   "player": "Pretender",
-  "generated": "2026-10-23",
+  "generated": "2026-11-11",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2022-04-02","PCS 2022 Spring Playoffs","Round 1","Frank Esports","Meta Falcon Team","WWW","","dom","P"],
@@ -34,7 +34,8 @@
     ["2025-08-31","PCS 2025 Split 3 Playoffs","Final","Frank Esports","Deep Cross Gaming","LLWL","","dom","S"],
     ["2026-06-02","PCS 2026 Spring","Playoffs Round 4","Frank Esports","SillySilly Gaming","WWLW","","dom","S"],
     ["2026-06-03","PCS 2026 Spring","Final","Frank Esports","CTBC Flying Oyster Academy","WLWLL","","dom","S"],
-    ["2026-09-06","PCS 2026 Summer","Final","Frank Esports","CTBC Flying Oyster Academy","WLLWL","","dom","S"]
+    ["2026-09-06","PCS 2026 Summer","Final","Frank Esports","CTBC Flying Oyster Academy","WLLWL","","dom","S"],
+    ["2026-11-11","LCP 2027 Promotion","Regional Merit Match","Frank Esports","Ground Zero Gaming","WWLLL","r","dom","P"]
   ],
   "unknown": []
 }

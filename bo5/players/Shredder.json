@@ -1,6 +1,6 @@
 {
   "player": "Shredder",
-  "generated": "2026-11-10",
+  "generated": "2026-11-11",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2021-03-07","L'Atleta League Season 1","Final","Cyberground Gaming Blue","Randoms Never Give Up","WLLL","r","dom",""],
@@ -35,7 +35,8 @@
     ["2026-09-03","LIT 2026 Summer Playoffs","Semifinal","Colossal Gaming","HMBLE","LLL","","dom","S"],
     ["2026-09-18","LIT 2026 Summer Playoffs","Semifinal","Colossal Gaming","Team Aqua ASD","WWW","","dom","S"],
     ["2026-09-19","LIT 2026 Summer Playoffs","Final","Colossal Gaming","HMBLE","LLL","","dom","S"],
-    ["2026-11-07","Breeze of Glory 2026","Round 1","Macko Esports","EKO Esports","WWW","r","dom","S"]
+    ["2026-11-07","Breeze of Glory 2026","Round 1","Macko Esports","EKO Esports","WWW","r","dom","S"],
+    ["2026-11-10","Breeze of Glory 2026","Round 2","Macko Esports","Huskies Esports","WLWW","","dom","S"]
   ],
   "unknown": [
     ["2025-05-27","Arabian League 2025 Summer Promotion","Round 1","Baam Esports","FN Esports","1-3","LLL","dom","S"]

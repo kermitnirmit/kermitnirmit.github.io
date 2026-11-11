@@ -1,6 +1,6 @@
 {
   "player": "XBY",
-  "generated": "2026-11-10",
+  "generated": "2026-11-11",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2024-01-30","LDL 2024 Placements","Swiss Round 4","Royal Club","ThunderTalk Gaming Young","WW","","dom","S"],
@@ -107,6 +107,7 @@
   ],
   "unknown": [
     ["2026-11-08","LPL Youth Academy 2026","","LYA-B","Oh My God","2-1","","dom","S"],
-    ["2026-11-10","LPL Youth Academy 2026","","LYA-B","LNG Esports","1-2","","dom","S"]
+    ["2026-11-10","LPL Youth Academy 2026","","LYA-B","LNG Esports","1-2","","dom","S"],
+    ["2026-11-11","LPL Youth Academy 2026","","LYA-B","Weibo Gaming","2-1","","dom","S"]
   ]
 }
