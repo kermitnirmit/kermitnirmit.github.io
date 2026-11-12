@@ -1,6 +1,6 @@
 {
   "player": "Miniduke",
-  "generated": "2026-10-23",
+  "generated": "2026-11-12",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2018-12-01","Iberian Cup 2018","Semifinal","ASUS ROG Army","MAD Lions E.C.","LLWL","","dom","S"],
@@ -32,7 +32,7 @@
     ["2024-09-10","Superliga Domino's 2025 Promotion","Round 2","Veni Vidi Vici (Spanish Team)","ZETA","WWW","","dom","S"],
     ["2025-02-20","Superliga Domino's 2025 Winter Playoffs","Round 1","Veni Vidi Vici (Spanish Team)","Team Heretics Academy","WLLL","","dom","S"],
     ["2025-02-27","Superliga Domino's 2025 Winter Playoffs","Round 2","Veni Vidi Vici (Spanish Team)","Barça eSports","WLLL","","dom","S"],
-    ["2025-09-22","ElmiilloR Invitational Cup","Playoffs","Team Xokas","Team Elmiillor","LLL","r","dom","S"]
+    ["2025-09-22","ElmiilloR Invitational Cup 2025","Playoffs","Team Xokas","Team Elmiillor","LLL","r","dom","S"]
   ],
   "unknown": [
     ["2016-04-06","LVP Clasificatorio Challenger Series Season 10","Final","G2 Vodafone","eMonkeyz","3-1","","dom",""],

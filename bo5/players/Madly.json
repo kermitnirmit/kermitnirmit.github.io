@@ -1,6 +1,6 @@
 {
   "player": "Madly",
-  "generated": "2026-10-23",
+  "generated": "2026-11-12",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2019-03-30","TCL 2019 Winter Playoffs","Quarterfinal","Team AURORA","Galatasaray Esports","LLL","","dom","P"],
@@ -24,7 +24,8 @@
     ["2023-09-13","TCL 2024 Promotion","Round 1","Looking for ORG (Turkish Team)","Beetle Juice","LLWL","","dom","S"],
     ["2025-07-04","TCL 2025 Summer Promotion","Grand Final","Super Phalanx","Nekoy","LLL","r","dom","S"],
     ["2026-10-10","TCL 2027 Promotion","Round 1","ITU Rangers","BDL Esports","WWW","","dom","S"],
-    ["2026-10-11","TCL 2027 Promotion","Round 2","ITU Rangers","BoostGate Esports","WWW","","dom","S"]
+    ["2026-10-11","TCL 2027 Promotion","Round 2","ITU Rangers","BoostGate Esports","WWW","","dom","S"],
+    ["2026-11-11","GG Arena by Teknosa Season 2","","Blades of Valor","SU Esports","WLLL","","dom","S"]
   ],
   "unknown": []
 }

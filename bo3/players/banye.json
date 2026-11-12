@@ -1,6 +1,6 @@
 {
   "player": "banye",
-  "generated": "2026-11-11",
+  "generated": "2026-11-12",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2023-02-25","LDL 2023 Split 1","","Oh My Dream","Weibo Gaming Youth Team","LWW","p","dom","S"],
@@ -105,6 +105,7 @@
     ["2026-11-11","LPL Youth Academy 2026","","Oh My God","Ultra Prime","LL","r","dom","S"]
   ],
   "unknown": [
-    ["2026-11-08","LPL Youth Academy 2026","","Oh My God","LYA-B","1-2","","dom","S"]
+    ["2026-11-08","LPL Youth Academy 2026","","Oh My God","LYA-B","1-2","","dom","S"],
+    ["2026-11-12","LPL Youth Academy 2026","","Oh My God","Weibo Gaming","1-2","","dom","S"]
   ]
 }

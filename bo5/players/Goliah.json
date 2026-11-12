@@ -1,6 +1,6 @@
 {
   "player": "Goliah",
-  "generated": "2026-11-04",
+  "generated": "2026-11-12",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2023-07-02","Blooming Talents League 2023 Split 1 Playoffs","Final","4 ragazzi e un pelato","NOVO Esports","LLWL","","dom","S"],
@@ -26,7 +26,8 @@
     ["2025-11-30","Breeze of Glory 2025","Final","HMBLE","GMBLERS Esports","LLL","","dom","S"],
     ["2026-08-26","LIT 2026 Summer Playoffs","Round 3","Aeterna Esports","Colossal Gaming","WLLL","","dom","S"],
     ["2026-09-10","LIT 2026 Summer Playoffs","Round 5","Los Goccioles","Zena Esports","WLLWW","","dom","S"],
-    ["2026-09-18","LIT 2026 Summer Playoffs","Semifinal","Team Aqua ASD","Colossal Gaming","LLL","","dom","S"]
+    ["2026-09-18","LIT 2026 Summer Playoffs","Semifinal","Team Aqua ASD","Colossal Gaming","LLL","","dom","S"],
+    ["2026-11-11","Breeze of Glory 2026","Round 2","Team Aqua ASD","GONGJI","LWLWL","","dom","S"]
   ],
   "unknown": []
 }

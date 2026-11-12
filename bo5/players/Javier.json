@@ -1,6 +1,6 @@
 {
   "player": "Javier",
-  "generated": "2026-10-23",
+  "generated": "2026-11-12",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2019-05-29","La Bruma 2019 Playoffs","Quarterfinal","Vodafone Giants Academy","S2V Esports Academy","LWWW","r","dom",""],
@@ -25,10 +25,10 @@
     ["2023-09-19","LVP SuperLiga 2024 Promotion","Round 2","Case Esports","UCAM Tokiers","LLWWW","","dom","S"],
     ["2024-03-19","LVP SuperLiga 2024 Spring Playoffs","Round 1","Case Esports","UCAM Esports","WWLW","","dom","S"],
     ["2024-03-27","LVP SuperLiga 2024 Spring Playoffs","Round 2","Case Esports","GIANTX PRIDE","LLWWL","","dom","S"],
-    ["2025-09-23","ElmiilloR Invitational Cup","Playoffs","Team Werlyb","Team Nissaxter","WWW","r","dom","S"],
+    ["2025-09-23","ElmiilloR Invitational Cup 2025","Playoffs","Team Werlyb","Team Nissaxter","WWW","r","dom","S"],
     ["2025-11-22","Iberian Cup 2025","Semifinal","Veni Vidi Vici (Spanish Team)","LUA Gaming","LLL","","dom","S"]
   ],
   "unknown": [
-    ["2025-09-24","ElmiilloR Invitational Cup","Playoffs","Team Werlyb","Team Th3Antonio","2-3","","dom","S"]
+    ["2025-09-24","ElmiilloR Invitational Cup 2025","Playoffs","Team Werlyb","Team Th3Antonio","2-3","","dom","S"]
   ]
 }

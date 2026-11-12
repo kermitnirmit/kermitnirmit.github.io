@@ -1,6 +1,6 @@
 {
   "player": "Werlyb",
-  "generated": "2026-10-23",
+  "generated": "2026-11-12",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2014-12-18","EU LCS 2015 Spring Expansion","Offline","Giants Gaming","Reason Gaming","WWW","","dom","P"],
@@ -34,11 +34,11 @@
     ["2024-12-02","NNO Cup Season 2","Round 2","Los Guarros","No Need Orga","WLWW","","dom","S"],
     ["2024-12-03","NNO Cup Season 2","Round 3","Los Guarros","5 Pigs 1 Team","LLL","","dom","S"],
     ["2025-06-19","Red Bull Team 5","Final","Werlyb Velvet","PauSenpai Solstice","WWW","","dom","S"],
-    ["2025-09-23","ElmiilloR Invitational Cup","Playoffs","Team Werlyb","Team Nissaxter","WWW","r","dom","S"]
+    ["2025-09-23","ElmiilloR Invitational Cup 2025","Playoffs","Team Werlyb","Team Nissaxter","WWW","r","dom","S"]
   ],
   "unknown": [
     ["2017-03-20","LVP Clasificatorio Challenger Series Season 12","Semifinal","ThunderX3 Baskonia","The G-Lab Penguins","3-1","","dom",""],
     ["2017-12-17","LVP SuperLiga Orange Season 13 Playoffs","Final","MAD Lions E.C.","Giants Only The Brave","2-3","","dom",""],
-    ["2025-09-24","ElmiilloR Invitational Cup","Playoffs","Team Werlyb","Team Th3Antonio","2-3","","dom","S"]
+    ["2025-09-24","ElmiilloR Invitational Cup 2025","Playoffs","Team Werlyb","Team Th3Antonio","2-3","","dom","S"]
   ]
 }

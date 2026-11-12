@@ -1,6 +1,6 @@
 {
   "player": "Elio",
-  "generated": "2026-11-10",
+  "generated": "2026-11-12",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2021-05-18","VCS 2021 Summer Promotion","Round 1","Burst The Sky Esports","Box Gaming","WWW","","dom","P"],
@@ -33,7 +33,8 @@
     ["2026-06-20","VCS 2026 Summer Playoffs","Final","Saigon Dino","Saigon Warriors","LLL","","dom","S"],
     ["2026-09-25","VCS 2026 Finals Stage 2","Round 2","Saigon Warriors","MVK Esports Academy","LWWW","","dom","S"],
     ["2026-10-11","VCS 2026 Finals Stage 2","Final","Saigon Warriors","MVK Esports Academy","LLL","","dom","S"],
-    ["2026-11-10","LCP 2027 Promotion","FFA Round 1","Saigon Warriors","Team Gromp (Australian Team)","WWW","","dom","P"]
+    ["2026-11-10","LCP 2027 Promotion","FFA Round 1","Saigon Warriors","Team Gromp (Australian Team)","WWW","","dom","P"],
+    ["2026-11-12","LCP 2027 Promotion","FFA Round 2","Saigon Warriors","Nothin'Here","WWW","","dom","P"]
   ],
   "unknown": []
 }

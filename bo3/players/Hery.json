@@ -1,6 +1,6 @@
 {
   "player": "Hery",
-  "generated": "2026-11-11",
+  "generated": "2026-11-12",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2021-06-15","LDL 2021 Summer","","Ultra Prime Academy","ThunderTalk Gaming Young","WW","","dom","S"],
@@ -116,7 +116,8 @@
     ["2026-05-15","LPL 2026 Split 2","","Oh My God","Ultra Prime","LL","","dom","P"],
     ["2026-11-09","LPL Youth Academy 2026","","Ultra Prime","LYA-B","WW","r","dom","S"],
     ["2026-11-10","LPL Youth Academy 2026","","Ultra Prime","Weibo Gaming","LL","r","dom","S"],
-    ["2026-11-11","LPL Youth Academy 2026","","Ultra Prime","Oh My God","WW","r","dom","S"]
+    ["2026-11-11","LPL Youth Academy 2026","","Ultra Prime","Oh My God","WW","r","dom","S"],
+    ["2026-11-12","LPL Youth Academy 2026","","Ultra Prime","LNG Esports","WW","r","dom","S"]
   ],
   "unknown": [
     ["2026-11-08","LPL Youth Academy 2026","","Ultra Prime","LYA-A","2-1","","dom","S"]

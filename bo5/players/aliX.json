@@ -1,6 +1,6 @@
 {
   "player": "aliX",
-  "generated": "2026-10-23",
+  "generated": "2026-11-12",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2023-03-23","PG Proving Grounds 2023 Spring Playoffs","Round 1","Angry Bats","Away from Normal","LLWWW","","dom","S"],
@@ -26,7 +26,8 @@
     ["2026-05-14","Hellenic Legends League 2026 Spring Playoffs","Semifinal","Team Insidious","GOAL","WWLLL","","dom","S"],
     ["2026-08-28","Hellenic Legends League 2026 Summer Playoffs","Round 2","Gamespace Mediterranean College Esports","Team Phantasma","LWLWW","","dom","S"],
     ["2026-09-01","Hellenic Legends League 2026 Summer Playoffs","Round 3","Gamespace Mediterranean College Esports","Valerion","LLL","","dom","S"],
-    ["2026-09-11","Hellenic Legends League 2026 Summer Playoffs","Round 3","Gamespace Mediterranean College Esports","Team Phantasma","LLWL","","dom","S"]
+    ["2026-09-11","Hellenic Legends League 2026 Summer Playoffs","Round 3","Gamespace Mediterranean College Esports","Team Phantasma","LLWL","","dom","S"],
+    ["2026-11-11","GG Arena by Teknosa Season 2","","SU Esports","Blades of Valor","LWWW","","dom","S"]
   ],
   "unknown": []
 }

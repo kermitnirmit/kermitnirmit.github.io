@@ -1,6 +1,6 @@
 {
   "player": "Mxe",
-  "generated": "2026-10-23",
+  "generated": "2026-11-12",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2023-03-10","GL2D 2023 Spring Playoffs","Round 1","Team Refuse","Team Paradox","WWW","","dom","S"],
@@ -31,7 +31,8 @@
     ["2025-12-14","GAMEON Revival 2025","Final","Last Wall","Misa Esports","LLL","","dom","S"],
     ["2026-08-25","Esports Balkan League 2026 Summer Playoffs","Semifinal","Magaza Esports","Lenovo Legion Honvéd","LWLL","","dom","S"],
     ["2026-09-08","Esports Balkan League 2026 Season Finals","Semifinal","Magaza Esports","Lenovo Legion Honvéd","WLWW","","dom","S"],
-    ["2026-09-10","Esports Balkan League 2026 Season Finals","Final","Magaza Esports","The Secret Club","WWLLW","","dom","S"]
+    ["2026-09-10","Esports Balkan League 2026 Season Finals","Final","Magaza Esports","The Secret Club","WWLLW","","dom","S"],
+    ["2026-11-11","GG Arena by Teknosa Season 2","","SU Esports","Blades of Valor","LWWW","","dom","S"]
   ],
   "unknown": []
 }

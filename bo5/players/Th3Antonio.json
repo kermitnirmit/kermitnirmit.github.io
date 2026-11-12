@@ -1,6 +1,6 @@
 {
   "player": "Th3Antonio",
-  "generated": "2026-10-23",
+  "generated": "2026-11-12",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2016-12-19","LVP División de Honor Season 11","Relegations","PainGaming","PAM eSports","LLL","r","dom",""],
@@ -35,6 +35,6 @@
   ],
   "unknown": [
     ["2017-12-17","LVP SuperLiga Orange Season 13 Playoffs","Final","Giants Only The Brave","MAD Lions E.C.","3-2","","dom",""],
-    ["2025-09-24","ElmiilloR Invitational Cup","Playoffs","Team Th3Antonio","Team Werlyb","3-2","","dom","S"]
+    ["2025-09-24","ElmiilloR Invitational Cup 2025","Playoffs","Team Th3Antonio","Team Werlyb","3-2","","dom","S"]
   ]
 }
