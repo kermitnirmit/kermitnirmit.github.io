@@ -1,6 +1,6 @@
 {
   "player": "MnM (Wong Ka Chun)",
-  "generated": "2026-11-11",
+  "generated": "2026-11-13",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2019-08-23","LMS 2019 Summer Playoffs","Round 1","Hong Kong Attitude","MAD Team","WWLW","p","dom","P"],
@@ -35,7 +35,7 @@
     ["2026-06-02","PCS 2026 Spring","Playoffs Round 4","Frank Esports","SillySilly Gaming","WWLW","","dom","S"],
     ["2026-06-03","PCS 2026 Spring","Final","Frank Esports","CTBC Flying Oyster Academy","WLWLL","","dom","S"],
     ["2026-09-06","PCS 2026 Summer","Final","Frank Esports","CTBC Flying Oyster Academy","WLLWL","","dom","S"],
-    ["2026-11-11","LCP 2027 Promotion","Regional Merit Match","Frank Esports","Ground Zero Gaming","WWLLL","r","dom","P"]
+    ["2026-11-11","LCP 2027 Promotion","Regional Merit Match","Frank Esports","Ground Zero Gaming","WWLLL","","dom","P"]
   ],
   "unknown": []
 }

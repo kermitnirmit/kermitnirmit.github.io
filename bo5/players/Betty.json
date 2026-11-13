@@ -1,6 +1,6 @@
 {
   "player": "Betty",
-  "generated": "2026-11-11",
+  "generated": "2026-11-13",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2016-05-12","ECS 2016 Spring Playoffs","Final","Flash Husky","Taipei Berserkers","LWWW","","dom","S"],
@@ -44,7 +44,7 @@
     ["2026-08-06","LCP 2026 Split 3","Round 3","Ground Zero Gaming","Fukuoka SoftBank HAWKS gaming","WWW","","dom","P"],
     ["2026-08-09","LCP 2026 Split 3","Round 4","Ground Zero Gaming","CTBC Flying Oyster","WLLL","","dom","P"],
     ["2026-08-15","LCP 2026 Split 3","Seeding","Ground Zero Gaming","DetonatioN FocusMe","WWW","","dom","P"],
-    ["2026-11-11","LCP 2027 Promotion","Regional Merit Match","Ground Zero Gaming","Frank Esports","LLWWW","r","dom","P"]
+    ["2026-11-11","LCP 2027 Promotion","Regional Merit Match","Ground Zero Gaming","Frank Esports","LLWWW","","dom","P"]
   ],
   "unknown": [
     ["2018-08-29","Asian Games 2018","Third-Place Match","Chinese Taipei","Saudi Arabia","3-1","","intl",""]
