@@ -1,6 +1,6 @@
 {
   "player": "Celebrity",
-  "generated": "2026-11-08",
+  "generated": "2026-11-15",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2014-10-26","2015 GPL Spring Qualifiers Vietnamese Qualifier","Qualifiers","269 Gaming","Hanoi Phoenix","WW","r","dom",""],
@@ -180,7 +180,8 @@
     ["2026-10-31","Predator League 2027 National Tournament Vietnam Qualifier","Group E","Sống Bằng Tình Cảm","Joker Flight","WW","r","dom","S"],
     ["2026-10-31","Predator League 2027 National Tournament Vietnam Qualifier","Group E","Sống Bằng Tình Cảm","MVK Esports Academy","WW","r","dom","S"],
     ["2026-11-07","Predator League 2027 National Tournament Vietnam","Round 4","Sống Bằng Tình Yêu","Saigon Warriors","LWL","r","dom","S"],
-    ["2026-11-08","Predator League 2027 National Tournament Vietnam","Round 4","Sống Bằng Tình Yêu","9Gaming","WLW","r","dom","S"]
+    ["2026-11-08","Predator League 2027 National Tournament Vietnam","Round 4","Sống Bằng Tình Yêu","9Gaming","WLW","r","dom","S"],
+    ["2026-11-15","Predator League 2027 National Tournament Vietnam","Grand Final","Sống Bằng Tình Yêu","Saigon Warriors","LWL","r","dom","S"]
   ],
   "unknown": [
     ["2017-02-19","VCS A 2017 Spring","","Cherry Esports","Next Gen Esports","1-2","","dom",""],
