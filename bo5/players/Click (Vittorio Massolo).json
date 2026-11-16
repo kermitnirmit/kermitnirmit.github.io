@@ -1,6 +1,6 @@
 {
   "player": "Click (Vittorio Massolo)",
-  "generated": "2026-10-23",
+  "generated": "2026-11-16",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2016-10-30","Lucca Comics &amp; Games 2016 Torneo Nazionale Italiano","Final","Team Forge","NextGaming","WWW","r","dom",""],
@@ -55,7 +55,8 @@
     ["2026-05-29","LIT 2026 Spring Playoffs","Final","HMBLE","GMBLERS Esports","WWW","","dom","S"],
     ["2026-08-20","LIT 2026 Summer Playoffs","Round 3","HMBLE","GMBLERS Esports","WWW","","dom","S"],
     ["2026-09-03","LIT 2026 Summer Playoffs","Semifinal","HMBLE","Colossal Gaming","WWW","","dom","S"],
-    ["2026-09-19","LIT 2026 Summer Playoffs","Final","HMBLE","Colossal Gaming","WWW","","dom","S"]
+    ["2026-09-19","LIT 2026 Summer Playoffs","Final","HMBLE","Colossal Gaming","WWW","","dom","S"],
+    ["2026-11-15","Breeze of Glory 2026","Round 4","HMBLE","Zena Esports","WWLW","","dom","S"]
   ],
   "unknown": [
     ["2016-10-15","Milan Games Week League 2016","Final","Team Forge","NextGaming","2-3","","dom",""],
