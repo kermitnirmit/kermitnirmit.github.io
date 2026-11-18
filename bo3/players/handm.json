@@ -1,6 +1,6 @@
 {
   "player": "handm",
-  "generated": "2026-10-25",
+  "generated": "2026-11-18",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2022-10-24","Saudi eLeagues 2022 Season 2/Closed Qualifiers","","R8 Esports","25 Esports","WW","r","dom","S"],
@@ -118,7 +118,8 @@
     ["2026-08-06","Arabian League 2026 Summer Split","","Baam Esports","One More Esports","WW","","dom","S"],
     ["2026-08-11","Arabian League 2026 Summer Split","","Baam Esports","GnG Amazigh","WW","","dom","S"],
     ["2026-08-19","Arabian League 2026 Summer Playoffs","Play-Ins","Baam Esports","Pyramid IV Esports","WW","","dom","S"],
-    ["2026-09-13","Arabian League 2026 Summer Playoffs","Round 1","Baam Esports","JSK Esports","LWL","","dom","S"]
+    ["2026-09-13","Arabian League 2026 Summer Playoffs","Round 1","Baam Esports","JSK Esports","LWL","","dom","S"],
+    ["2026-11-17","Arabian League 2027 Promotion","Round 1","Slam Dunk","3BL Esports","LL","","dom","S"]
   ],
   "unknown": [
     ["2023-04-30","Saudi eLeagues 2023 Season 1","Round 1","Victory Esports (Saudi Team)","Fog Esports","2-1","","dom","S"],
