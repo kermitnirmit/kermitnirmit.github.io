@@ -1,6 +1,6 @@
 {
   "player": "handm",
-  "generated": "2026-10-23",
+  "generated": "2026-11-19",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2021-09-30","Intel Arabian Cup Champions League 2021 Last Chance Qualifiers","Quarterfinal","QLASH MENA","ResQue","WWLLW","r","dom","P"],
@@ -22,7 +22,8 @@
     ["2026-05-19","Arabian League 2026 Spring Playoffs","Round 2","Baam Esports","Anubis Gaming","LLL","","dom","S"],
     ["2026-05-20","Arabian League 2026 Spring Playoffs","Round 2","Baam Esports","FN Esports","WLLL","","dom","S"],
     ["2026-08-25","Arabian League 2026 Summer Playoffs","Play-Ins","Baam Esports","GnG Amazigh","WWW","","dom","S"],
-    ["2026-09-14","Arabian League 2026 Summer Playoffs","Round 1","Baam Esports","Pyramid IV Esports","WLWLL","","dom","S"]
+    ["2026-09-14","Arabian League 2026 Summer Playoffs","Round 1","Baam Esports","Pyramid IV Esports","WLWLL","","dom","S"],
+    ["2026-11-18","Arabian League 2027 Promotion","Round 1","Slam Dunk","One More Esports","WLLL","","dom","S"]
   ],
   "unknown": [
     ["2024-10-10","Saudi eLeagues 2024 Season 3","Semifinal","Baam Esports","Twisted Minds","3-1","","dom","S"],

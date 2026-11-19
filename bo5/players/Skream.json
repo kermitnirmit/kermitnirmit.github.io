@@ -1,6 +1,6 @@
 {
   "player": "Skream",
-  "generated": "2026-10-27",
+  "generated": "2026-11-19",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2021-07-23","Intel Arabian Cup Champions League 2021 Season 3 Relegation","Round 1","E9Sports","3BL Esports","WWW","r","dom","P"],
@@ -32,7 +32,8 @@
     ["2025-09-12","Arabian League 2026 Promotion","Round 2","Dragons Esports","NextGeneration Esports","WWW","","dom","S"],
     ["2025-12-25","Tunisian Super League 2025 Season","Grand Final","JSK Esports","Thysdrus Esports","WWW","r","dom","S"],
     ["2026-06-04","Arabian League 2026 Summer Promotion","Round 2","JSK Esports","Pyramid IV Esports","WLWW","","dom","S"],
-    ["2026-08-20","Arabian League 2026 Summer Playoffs","Play-Ins","Disruptors","Pyramid IV Esports","WLLL","","dom","S"]
+    ["2026-08-20","Arabian League 2026 Summer Playoffs","Play-Ins","Disruptors","Pyramid IV Esports","WLLL","","dom","S"],
+    ["2026-11-18","Arabian League 2027 Promotion","Round 1","One More Esports","Slam Dunk","LWWW","","dom","S"]
   ],
   "unknown": [
     ["2020-08-22","Intel Arabian Cup 2020 Tunisia Split 2","Quarterfinal","Simplicity Gaming","Divine Vendetta","2-3","","dom","P"],

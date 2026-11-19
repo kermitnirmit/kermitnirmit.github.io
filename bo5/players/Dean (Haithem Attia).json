@@ -1,6 +1,6 @@
 {
   "player": "Dean (Haithem Attia)",
-  "generated": "2026-10-23",
+  "generated": "2026-11-19",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2020-12-12","Intel Arabian Cup 2020","Quarterfinal","Divine Vendetta","Galaxy Racer Esports MENA Male","WLLWL","r","dom","S"],
@@ -32,7 +32,8 @@
     ["2026-04-01","Arabian League 2026 Spring Promotion","Round 2","JSK Esports","Super Stars","LLWL","","dom","S"],
     ["2026-06-04","Arabian League 2026 Summer Promotion","Round 2","JSK Esports","Pyramid IV Esports","WLWW","","dom","S"],
     ["2026-08-25","Arabian League 2026 Summer Playoffs","Play-Ins","GnG Amazigh","Baam Esports","LLL","","dom","S"],
-    ["2026-08-26","Arabian League 2026 Summer Playoffs","Play-Ins","GnG Amazigh","Pyramid IV Esports","LLL","","dom","S"]
+    ["2026-08-26","Arabian League 2026 Summer Playoffs","Play-Ins","GnG Amazigh","Pyramid IV Esports","LLL","","dom","S"],
+    ["2026-11-18","Arabian League 2027 Promotion","Round 1","One More Esports","Slam Dunk","LWWW","","dom","S"]
   ],
   "unknown": [
     ["2020-05-06","E-Sports Revolution Gamers vs Corona","Final","MYIDOL Esports","Simplicity Gaming","1-3","","dom","S"],
