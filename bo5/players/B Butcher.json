@@ -1,6 +1,6 @@
 {
   "player": "B Butcher",
-  "generated": "2026-10-23",
+  "generated": "2026-11-20",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2023-03-09","Arabian League 2023 Spring Playoffs","Round 1","RA'AD","Geekay Esports","LLWL","","dom","S"],
@@ -28,7 +28,8 @@
     ["2026-09-17","Arabian League 2026 Summer Playoffs","Final","Anubis Gaming","JSK Esports","WWW","","dom","S"],
     ["2026-10-07","EMEA Masters 2026 Summer Main Event","Round of 16","Anubis Gaming","Ruddy Corporation","WWLLW","","dom","S"],
     ["2026-10-10","EMEA Masters 2026 Summer Main Event","Quarterfinal","Anubis Gaming","Karmine Corp Blue","WWW","","dom","S"],
-    ["2026-10-14","EMEA Masters 2026 Summer Main Event","Semifinal","Anubis Gaming","Solary","LWLL","","dom","S"]
+    ["2026-10-14","EMEA Masters 2026 Summer Main Event","Semifinal","Anubis Gaming","Solary","LWLL","","dom","S"],
+    ["2026-11-19","Arabian League 2027 Promotion","Round 2","3BL Esports","Void Walkers","WWW","","dom","S"]
   ],
   "unknown": []
 }

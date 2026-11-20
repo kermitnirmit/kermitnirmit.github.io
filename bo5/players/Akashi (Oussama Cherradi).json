@@ -1,6 +1,6 @@
 {
   "player": "Akashi (Oussama Cherradi)",
-  "generated": "2026-10-23",
+  "generated": "2026-11-20",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2020-09-11","Intel Arabian Cup 2020 Morocco Split 2","Semifinal","Fox Gaming","NRaven Esports","WWW","r","dom","P"],
@@ -27,7 +27,8 @@
     ["2024-04-20","Saudi eLeagues 2024 Season 1","Grand Finals","XO Esports","Geekay Esports","WWW","r","dom","S"],
     ["2025-05-27","Arabian League 2025 Summer Promotion","Round 1","Dragons Esports","3BL Esports","WLWW","","dom","S"],
     ["2025-05-29","Arabian League 2025 Summer Promotion","Round 2","Dragons Esports","FN Esports","WLWLL","","dom","S"],
-    ["2025-05-30","Arabian League 2025 Summer Promotion","Round 2","Dragons Esports","Baam Esports","LWLWW","","dom","S"]
+    ["2025-05-30","Arabian League 2025 Summer Promotion","Round 2","Dragons Esports","Baam Esports","LWLWW","","dom","S"],
+    ["2026-11-19","Arabian League 2027 Promotion","Round 2","Void Walkers","3BL Esports","LLL","p","dom","S"]
   ],
   "unknown": [
     ["2020-08-29","Intel Arabian Cup 2020 Morocco Split 2","Quarterfinal","Fox Gaming","The Black Lotus","2-3","","dom","P"],

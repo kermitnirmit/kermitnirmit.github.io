@@ -1,6 +1,6 @@
 {
   "player": "monkaS",
-  "generated": "2026-10-23",
+  "generated": "2026-11-20",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2022-03-21","Turkey Academy League 2022 Winter Playoffs","Semifinal","Dark Passage Academy","Fenerbahçe Academy","LWLL","","dom","S"],
@@ -24,5 +24,7 @@
     ["2026-09-03","TCL 2026 Summer Split","Round 4","PCIFIC Esports","SU Esports","WLWW","","dom","S"],
     ["2026-09-11","TCL 2026 Summer Split","Final","PCIFIC Esports","Bushido Wildcats","LLL","","dom","S"]
   ],
-  "unknown": []
+  "unknown": [
+    ["2026-11-19","GG Arena by Teknosa Season 2","Round 2","Çakıl","SU Esports","3-1","","dom","S"]
+  ]
 }
