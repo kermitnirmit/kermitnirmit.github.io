@@ -1,6 +1,6 @@
 {
   "player": "YoungJae",
-  "generated": "2026-10-25",
+  "generated": "2026-11-21",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2020-12-25","LoL KeSPA Cup 2020","Quarterfinal","Gen.G","Hanwha Life Esports","LL","","dom","P"],
@@ -113,7 +113,9 @@
     ["2026-05-03","CBLOL 2026 Split 1","","LOUD","Vivo Keyd Stars","WW","","dom","P"],
     ["2026-06-07","Esports World Cup 2026 Online Qualifiers South America","Round 1","LOUD","Vivo Keyd Stars","LWL","","intl","P"],
     ["2026-06-10","Esports World Cup 2026 Online Qualifiers South America","Round 2","LOUD","Fluxo W7M","WW","","intl","P"],
-    ["2026-06-11","Esports World Cup 2026 Online Qualifiers South America","Round 3","LOUD","LØS","WLL","","intl","P"]
+    ["2026-06-11","Esports World Cup 2026 Online Qualifiers South America","Round 3","LOUD","LØS","WLL","","intl","P"],
+    ["2026-11-21","Predator League 2027 National Tournament South Korea","Final","Team I GO","지인짜강함","WLL","r","dom","S"],
+    ["2026-11-21","Predator League 2027 National Tournament South Korea","Semifinal","Team I GO","공수리","WW","r","dom","S"]
   ],
   "unknown": []
 }

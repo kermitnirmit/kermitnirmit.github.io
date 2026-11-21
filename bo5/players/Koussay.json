@@ -1,0 +1,34 @@
+{
+  "player": "Koussay",
+  "generated": "2026-11-21",
+  "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
+  "series": [
+    ["2021-05-17","Intel Arabian Cup Champions League 2021 Season 2 Relegation","Round 1","Summon Aery (Lebanese Team)","3BL Esports","WLLL","r","dom","P"],
+    ["2021-05-20","Intel Arabian Cup Champions League 2021 Season 2 Relegation","Round 1","Summon Aery (Lebanese Team)","Siren Esports","WWW","r","dom","P"],
+    ["2021-05-23","Intel Arabian Cup Champions League 2021 Season 2 Relegation","Round 2","Summon Aery (Lebanese Team)","3BL Esports","WWLW","r","dom","P"],
+    ["2023-11-18","4 Nations 2023 Autumn Playoffs","Final","Tempest Gaming UK","Ruddy Painkillers","WWW","r","dom","S"],
+    ["2023-12-17","Tunisian Super League 2023 Season","Semifinal","GnG Esports","CSH Esport","WLWLW","r","dom","S"],
+    ["2023-12-28","Tunisian Super League 2023 Season","Final","GnG Esports","Stade Tunisien x Amazigh","WLLL","r","dom","S"],
+    ["2024-03-26","Arabian League 2nd Division 2024 Spring Playoffs","Round 1","Fog Esports","Baam Esports","WWW","","dom","S"],
+    ["2024-04-03","Arabian League 2nd Division 2024 Spring Playoffs","Final","Fog Esports","Twareg Esports","LLL","","dom","S"],
+    ["2024-07-17","Arabian League 2nd Division 2024 Summer Playoffs","Round 1","Fog Esports","Twareg Esports","WLWLL","","dom","S"],
+    ["2024-09-10","Arabian League 2025 Promotion","Round 1","Fog Esports","Baam Esports","WWW","","dom","S"],
+    ["2024-09-13","Arabian League 2025 Promotion","Round 2","Fog Esports","RA'AD","WWW","","dom","S"],
+    ["2024-09-14","Arabian League 2025 Promotion","Final","Fog Esports","Twareg Esports","WWW","","dom","S"],
+    ["2025-05-22","Arabian League 2025 Spring Playoffs","Round 4","GnG Amazigh","Fog Esports","WLWLL","","dom","S"],
+    ["2025-08-17","Arabian League 2025 Summer Split","Semifinal","GnG Amazigh","Anubis Gaming","LWWLW","","dom","S"],
+    ["2025-08-19","Arabian League 2025 Summer Split","Final","GnG Amazigh","Geekay Esports","LLL","","dom","S"],
+    ["2025-12-25","Tunisian Super League 2025 Season","Grand Final","JSK Esports","Thysdrus Esports","WWW","r","dom","S"],
+    ["2026-08-25","Arabian League 2026 Summer Playoffs","Play-Ins","Baam Esports","GnG Amazigh","WWW","","dom","S"],
+    ["2026-09-14","Arabian League 2026 Summer Playoffs","Round 1","Baam Esports","Pyramid IV Esports","WLWLL","","dom","S"],
+    ["2026-11-18","Arabian League 2027 Promotion","Round 1","One More Esports","Slam Dunk","LWWW","","dom","S"],
+    ["2026-11-20","Arabian League 2027 Promotion","Round 2","One More Esports","Void Walkers","WWLW","","dom","S"]
+  ],
+  "unknown": [
+    ["2020-08-29","Intel Arabian Cup 2020 Tunisia Split 2","Semifinal","winnable (Tunisian Team)","Simplicity Gaming","1-3","","dom","P"],
+    ["2021-08-01","UK Esports League 2021 Summer Playoffs","Grand Final","LDN UTD","NOX Esports","3-1","","dom","S"],
+    ["2021-11-24","Leagues.gg Winter Showdown United Kingdom 2021 Playoffs","Round 1","LDN UTD","Resolve Academy","3-1","","dom","S"],
+    ["2021-12-04","Leagues.gg Winter Showdown United Kingdom 2021 Playoffs","Round 2","LDN UTD","NOX Esports","3-1","","dom","S"],
+    ["2021-12-11","Leagues.gg Winter Showdown United Kingdom 2021 Playoffs","Grand Final","LDN UTD","Lionscreed","3-1","","dom","S"]
+  ]
+}

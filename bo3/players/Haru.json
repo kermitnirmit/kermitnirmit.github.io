@@ -1,6 +1,6 @@
 {
   "player": "Haru",
-  "generated": "2026-10-25",
+  "generated": "2026-11-21",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2016-05-25","LCK 2016 Summer","","CJ Entus","ESC Ever","LL","","dom","P"],
@@ -109,7 +109,9 @@
     ["2025-04-29","Legend Cup Season 3 Korea","Groups Day 11","Pilot's Landing Team","Kakao Assassin Crew","WLL","","dom","S"],
     ["2025-07-14","SLL Summer 2025","Group B","Bibarabida","Pooineun Sangsuji","WW","r","dom","S"],
     ["2025-07-15","SLL Summer 2025","Group B","Bibarabida","Kkeokkeodo Dasinhanbeon","LL","r","dom","S"],
-    ["2025-07-18","SLL Summer 2025","Group B","Bibarabida","Egyeon boijeu","LL","r","dom","S"]
+    ["2025-07-18","SLL Summer 2025","Group B","Bibarabida","Egyeon boijeu","LL","r","dom","S"],
+    ["2026-11-21","Predator League 2027 National Tournament South Korea","Final","지인짜강함","Team I GO","LWW","r","dom","S"],
+    ["2026-11-21","Predator League 2027 National Tournament South Korea","Semifinal","지인짜강함","빈집털이","WW","r","dom","S"]
   ],
   "unknown": []
 }
