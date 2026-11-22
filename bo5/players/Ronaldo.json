@@ -1,6 +1,6 @@
 {
   "player": "Ronaldo",
-  "generated": "2026-11-08",
+  "generated": "2026-11-22",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2020-01-12","Neosurf Cup 2020","5v5","Misfits Gaming","Excel Esports","LWWLL","p","dom","S"],
@@ -22,7 +22,8 @@
     ["2023-09-18","LVP SuperLiga 2024 Promotion","Round 1","Guasones","Wizards","LLWWL","","dom","S"],
     ["2025-02-20","NLC 2025 Winter Playoffs","Round 3","Verdant","Rich Gang (Norwegian Team)","WLWW","","dom","S"],
     ["2025-02-21","NLC 2025 Winter Playoffs","Round 4","Verdant","Bulldog Esports","LWLL","","dom","S"],
-    ["2026-11-07","4 Nations 2026 Halloween Heist","Round 4","Bulldog Esports","Absolved","WWW","r","dom","S"]
+    ["2026-11-07","4 Nations 2026 Halloween Heist","Round 4","Bulldog Esports","Absolved","WWW","r","dom","S"],
+    ["2026-11-21","4 Nations 2026 Halloween Heist","Final","Bulldog Esports","Inari Esports (British Team)","WWW","r","dom","S"]
   ],
   "unknown": []
 }

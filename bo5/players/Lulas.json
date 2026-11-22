@@ -1,6 +1,6 @@
 {
   "player": "Lulas",
-  "generated": "2026-11-08",
+  "generated": "2026-11-22",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2019-08-24","LPLOL 2019 Summer Playoffs","Round 1","Hexagone Esports","K1ck eSports Club","LLL","","dom","S"],
@@ -22,7 +22,8 @@
     ["2026-03-06","NLC 2026 Winter Playoffs","Round 2","DMG Esports","Verdant","LLL","","dom","S"],
     ["2026-05-28","LPLOL 2026 Spring Playoffs","Round 1","Otter Side","Crusaders","WWW","","dom","S"],
     ["2026-06-03","LPLOL 2026 Spring Playoffs","Final","Otter Side","Bubliki","WWW","","dom","S"],
-    ["2026-11-07","4 Nations 2026 Halloween Heist","Round 4","Bulldog Esports","Absolved","WWW","r","dom","S"]
+    ["2026-11-07","4 Nations 2026 Halloween Heist","Round 4","Bulldog Esports","Absolved","WWW","r","dom","S"],
+    ["2026-11-21","4 Nations 2026 Halloween Heist","Final","Bulldog Esports","Inari Esports (British Team)","WWW","r","dom","S"]
   ],
   "unknown": []
 }

@@ -1,6 +1,6 @@
 {
   "player": "Mercy9",
-  "generated": "2026-11-20",
+  "generated": "2026-11-22",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2024-07-20","TCL 2024 Summer Playoffs","Round 1","Misa Esports","FUT Esports","LLL","","dom","S"],
@@ -22,9 +22,8 @@
     ["2026-08-19","LES 2026 Summer Playoffs","Semifinal","Team Heretics Academy","UCAM Esports","WWW","","dom","S"],
     ["2026-08-20","LES 2026 Summer Playoffs","Final","Team Heretics Academy","Movistar KOI Fénix","WLLWL","","dom","S"],
     ["2026-09-06","LES 2026 Final Four","Final","Team Heretics Academy","Movistar KOI Fénix","WLWLL","","dom","S"],
-    ["2026-10-07","EMEA Masters 2026 Summer Main Event","Round of 16","Team Heretics Academy","G2 NORD","LLWWL","","dom","S"]
+    ["2026-10-07","EMEA Masters 2026 Summer Main Event","Round of 16","Team Heretics Academy","G2 NORD","LLWWL","","dom","S"],
+    ["2026-11-19","GG Arena by Teknosa Season 2","Round 2","Çakıl","SU Esports","WWLW","","dom","S"]
   ],
-  "unknown": [
-    ["2026-11-19","GG Arena by Teknosa Season 2","Round 2","Çakıl","SU Esports","3-1","","dom","S"]
-  ]
+  "unknown": []
 }
