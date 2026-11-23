@@ -1,6 +1,6 @@
 {
   "player": "SkaR",
-  "generated": "2026-11-12",
+  "generated": "2026-11-23",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2019-07-22","PG Nationals 2019 Summer Playoffs","Semifinal","Racoon (Italian Team)","Outplayed","LLL","p","dom","S"],
@@ -29,7 +29,9 @@
     ["2026-09-18","LIT 2026 Summer Playoffs","Semifinal","Colossal Gaming","Team Aqua ASD","WWW","","dom","S"],
     ["2026-09-19","LIT 2026 Summer Playoffs","Final","Colossal Gaming","HMBLE","LLL","","dom","S"],
     ["2026-11-08","Breeze of Glory 2026","Round 1","GONGJI","TITANS","WWW","r","dom","S"],
-    ["2026-11-11","Breeze of Glory 2026","Round 2","GONGJI","Team Aqua ASD","WLWLW","","dom","S"]
+    ["2026-11-11","Breeze of Glory 2026","Round 2","GONGJI","Team Aqua ASD","WLWLW","","dom","S"],
+    ["2026-11-20","Breeze of Glory 2026","Round 3","GONGJI","Macko Esports","WWLLW","","dom","S"],
+    ["2026-11-21","Breeze of Glory 2026","Round 4","GONGJI","Zena Esports","WWW","","dom","S"]
   ],
   "unknown": []
 }

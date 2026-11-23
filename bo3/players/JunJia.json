@@ -1,6 +1,6 @@
 {
   "player": "JunJia",
-  "generated": "2026-10-25",
+  "generated": "2026-11-23",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2018-08-28","ECS 2018 Summer Playoffs","Semifinal","SuperEsports","BUFF","LL","p","dom","S"],
@@ -78,6 +78,7 @@
     ["2024-10-11","Worlds 2024","Round 4","PSG Talon","Bilibili Gaming","LL","","worlds","P"],
     ["2025-01-17","LCP 2025 Season Kickoff","","CTBC Flying Oyster","MGN Vikings Esports","LWW","","dom","P"],
     ["2025-01-19","LCP 2025 Season Kickoff","","CTBC Flying Oyster","Fukuoka SoftBank HAWKS gaming","WW","","dom","P"],
+    ["2025-01-25","LCP 2025 Season Kickoff","","CTBC Flying Oyster","GAM Esports","WLW","","dom","P"],
     ["2025-02-06","LCP 2025 Season Kickoff","","CTBC Flying Oyster","DetonatioN FocusMe","WW","","dom","P"],
     ["2025-02-08","LCP 2025 Season Kickoff","","CTBC Flying Oyster","Team Secret Whales","WLL","","dom","P"],
     ["2025-02-14","LCP 2025 Season Kickoff","","CTBC Flying Oyster","TALON (Hong Kong Team)","WLW","","dom","P"],
@@ -150,7 +151,5 @@
     ["2026-08-20","LPL 2026 Split 3","","JD Gaming","ThunderTalk Gaming","LWW","","dom","P"],
     ["2026-08-22","LPL 2026 Split 3","","JD Gaming","Top Esports","WW","","dom","P"]
   ],
-  "unknown": [
-    ["2025-01-25","LCP 2025 Season Kickoff","","CTBC Flying Oyster","GAM Esports","2-1","LW","dom","P"]
-  ]
+  "unknown": []
 }

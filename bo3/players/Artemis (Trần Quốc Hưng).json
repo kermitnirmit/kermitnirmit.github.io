@@ -1,6 +1,6 @@
 {
   "player": "Artemis (Trần Quốc Hưng)",
-  "generated": "2026-10-25",
+  "generated": "2026-11-23",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2018-08-04","Music X Esports: Hyperplay 2018","Semifinal","Vietnam","Singapore","WW","","dom","S"],
@@ -157,6 +157,7 @@
     ["2024-08-04","VCS 2024 Summer","","Team Whales","MGN Blue Esports","LL","","dom","P"],
     ["2025-01-17","LCP 2025 Season Kickoff","","GAM Esports","Fukuoka SoftBank HAWKS gaming","WLW","","dom","P"],
     ["2025-01-19","LCP 2025 Season Kickoff","","GAM Esports","MGN Vikings Esports","LL","","dom","P"],
+    ["2025-01-25","LCP 2025 Season Kickoff","","GAM Esports","CTBC Flying Oyster","LWL","","dom","P"],
     ["2025-02-07","LCP 2025 Season Kickoff","","GAM Esports","Chiefs Esports Club","WW","","dom","P"],
     ["2025-02-09","LCP 2025 Season Kickoff","","GAM Esports","TALON (Hong Kong Team)","LWL","","dom","P"],
     ["2025-02-13","LCP 2025 Season Kickoff","","GAM Esports","DetonatioN FocusMe","WW","","dom","P"],
@@ -213,7 +214,6 @@
     ["2026-10-07","Demacia Cup Global Invitational 2026","Round 3 Round Robin","GAM Esports","Shopify Rebellion","LL","","dom","S"]
   ],
   "unknown": [
-    ["2020-06-06","Battle Of Streamer","Final","CERBERUS Esports (Vietnamese Team)","VCS Allstars","2-1","WWL","dom",""],
-    ["2025-01-25","LCP 2025 Season Kickoff","","GAM Esports","CTBC Flying Oyster","1-2","WL","dom","P"]
+    ["2020-06-06","Battle Of Streamer","Final","CERBERUS Esports (Vietnamese Team)","VCS Allstars","2-1","WWL","dom",""]
   ]
 }

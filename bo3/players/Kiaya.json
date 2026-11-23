@@ -1,6 +1,6 @@
 {
   "player": "Kiaya",
-  "generated": "2026-10-25",
+  "generated": "2026-11-23",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2018-06-22","VCS 2018 Summer","","GAM Esports","Cube Adonis","LL","","dom","P"],
@@ -193,6 +193,7 @@
     ["2024-10-12","Worlds 2024","Round 4","GAM Esports","Team Liquid","WLL","","worlds","P"],
     ["2025-01-17","LCP 2025 Season Kickoff","","GAM Esports","Fukuoka SoftBank HAWKS gaming","WLW","","dom","P"],
     ["2025-01-19","LCP 2025 Season Kickoff","","GAM Esports","MGN Vikings Esports","LL","","dom","P"],
+    ["2025-01-25","LCP 2025 Season Kickoff","","GAM Esports","CTBC Flying Oyster","LWL","","dom","P"],
     ["2025-02-07","LCP 2025 Season Kickoff","","GAM Esports","Chiefs Esports Club","WW","","dom","P"],
     ["2025-02-09","LCP 2025 Season Kickoff","","GAM Esports","TALON (Hong Kong Team)","LWL","","dom","P"],
     ["2025-02-13","LCP 2025 Season Kickoff","","GAM Esports","DetonatioN FocusMe","WW","","dom","P"],
@@ -248,7 +249,5 @@
     ["2026-10-07","Demacia Cup Global Invitational 2026","Round 3 Round Robin","GAM Esports","FlyQuest","LL","","dom","S"],
     ["2026-10-07","Demacia Cup Global Invitational 2026","Round 3 Round Robin","GAM Esports","Shopify Rebellion","LL","","dom","S"]
   ],
-  "unknown": [
-    ["2025-01-25","LCP 2025 Season Kickoff","","GAM Esports","CTBC Flying Oyster","1-2","WL","dom","P"]
-  ]
+  "unknown": []
 }

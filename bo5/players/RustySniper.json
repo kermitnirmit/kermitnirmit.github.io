@@ -1,6 +1,6 @@
 {
   "player": "RustySniper",
-  "generated": "2026-10-23",
+  "generated": "2026-11-23",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2023-04-06","NLC 2nd Division 2023 Spring Playoffs","Round 3","THUNDR Esports","Lundqvist Lightside","WWW","r","dom","S"],
@@ -29,6 +29,7 @@
     ["2022-12-18","Svenska Onlineligan 2022 Season 5 Playoffs","Final","Blade Edge","Karolinerna","3-1","","dom","S"],
     ["2023-03-26","NLC 2nd Division 2023 Spring Playoffs","Round 1","THUNDR Esports","Venomcrest Esports","3-2","","dom","S"],
     ["2023-04-16","NLC 2nd Division 2023 Spring Playoffs","Final","THUNDR Esports","Lundqvist Lightside","3-2","","dom","S"],
-    ["2025-02-06","NLC 2025 Winter Playoffs","Round 2","Lundqvist Lightside","The Ruddy Sack","1-3","LLL","dom","S"]
+    ["2025-02-06","NLC 2025 Winter Playoffs","Round 2","Lundqvist Lightside","The Ruddy Sack","1-3","LLL","dom","S"],
+    ["2026-11-22","RIVALS LEAGUE 2026 Season 2 Playoffs","Round 2","Lund Esports Organization OGs","2 Massive","3-2","","dom","S"]
   ]
 }
