@@ -1,6 +1,6 @@
 {
   "player": "XoNix",
-  "generated": "2026-10-23",
+  "generated": "2026-11-26",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2020-08-16","LCL 2020 Summer Playoffs","Semifinal","CrowCrowd","Gambit Esports","LLL","","dom","P"],
@@ -21,7 +21,7 @@
     ["2023-07-26","PG Nationals 2023 Summer Playoffs","Round 1","DSYRE","Macko Esports","LWLL","","dom","S"],
     ["2023-07-31","PG Nationals 2023 Summer Playoffs","Semifinal","DSYRE","Atleta Esport","WWW","","dom","S"],
     ["2023-08-05","PG Nationals 2023 Summer Playoffs","Final","DSYRE","Macko Esports","LWLL","","dom","S"],
-    ["2023-11-04","PG Nats Ultima Battaglia 2023","Grand Final","DSYRE","Macko Esports","LLL","","dom","S"],
+    ["2023-11-04","PG Nationals 2023 Ultima Battaglia","Grand Final","DSYRE","Macko Esports","LLL","","dom","S"],
     ["2024-03-20","Greek Legends League 2024 Spring Playoffs","Round 1","WLGaming Esports","Gamespace Mediterranean College Esports","LWLL","","dom","S"],
     ["2024-09-19","Keysie Streamers Invitational Season 5","Round 1","Гены Нойки","Вайфочки Даймонда","LLWL","r","dom",""],
     ["2025-07-30","Keysie Streamers Invitational Season 6","Round 1","Лудоманы Генерала","Единороги Номанза","LWLL","r","dom",""],

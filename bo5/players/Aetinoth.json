@@ -1,6 +1,6 @@
 {
   "player": "Aetinoth",
-  "generated": "2026-10-23",
+  "generated": "2026-11-26",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2023-03-17","PG Nationals 2023 Spring Playoffs","Round 1","DSYRE","Axolotl","WWLW","","dom","S"],
@@ -8,7 +8,7 @@
     ["2023-07-26","PG Nationals 2023 Summer Playoffs","Round 1","DSYRE","Macko Esports","LWLL","","dom","S"],
     ["2023-07-31","PG Nationals 2023 Summer Playoffs","Semifinal","DSYRE","Atleta Esport","WWW","","dom","S"],
     ["2023-08-05","PG Nationals 2023 Summer Playoffs","Final","DSYRE","Macko Esports","LWLL","","dom","S"],
-    ["2023-11-04","PG Nats Ultima Battaglia 2023","Grand Final","DSYRE","Macko Esports","LLL","","dom","S"],
+    ["2023-11-04","PG Nationals 2023 Ultima Battaglia","Grand Final","DSYRE","Macko Esports","LLL","","dom","S"],
     ["2024-03-20","LVP SuperLiga 2024 Spring Playoffs","Round 1","GIANTX PRIDE","Movistar KOI","WWLW","","dom","S"],
     ["2024-03-27","LVP SuperLiga 2024 Spring Playoffs","Round 2","GIANTX PRIDE","Case Esports","WWLLW","","dom","S"],
     ["2024-03-28","LVP SuperLiga 2024 Spring Playoffs","Semifinal","GIANTX PRIDE","Guasones","WWLLL","","dom","S"],

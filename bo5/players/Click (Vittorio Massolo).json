@@ -1,6 +1,6 @@
 {
   "player": "Click (Vittorio Massolo)",
-  "generated": "2026-11-16",
+  "generated": "2026-11-26",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2016-10-30","Lucca Comics &amp; Games 2016 Torneo Nazionale Italiano","Final","Team Forge","NextGaming","WWW","r","dom",""],
@@ -34,7 +34,7 @@
     ["2023-08-05","PG Nationals 2023 Summer Playoffs","Final","Macko Esports","DSYRE","WLWW","","dom","S"],
     ["2023-08-28","EMEA Masters 2023 Summer Main Event","Quarterfinal","Macko Esports","GTZ Esports","WWW","","dom","S"],
     ["2023-08-31","EMEA Masters 2023 Summer Main Event","Semifinal","Macko Esports","Movistar Riders","LLL","","dom","S"],
-    ["2023-11-04","PG Nats Ultima Battaglia 2023","Grand Final","Macko Esports","DSYRE","WWW","","dom","S"],
+    ["2023-11-04","PG Nationals 2023 Ultima Battaglia","Grand Final","Macko Esports","DSYRE","WWW","","dom","S"],
     ["2024-03-15","LIT 2024 Spring Playoffs","Round 1","Macko Esports","aNc Outplayed","WLWW","","dom","S"],
     ["2024-03-21","LIT 2024 Spring Playoffs","Semifinal","Macko Esports","Atleta Esport","WWW","","dom","S"],
     ["2024-03-29","LIT 2024 Spring Playoffs","Final","Macko Esports","DSYRE","LWWLL","","dom","S"],

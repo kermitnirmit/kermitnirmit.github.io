@@ -1,6 +1,6 @@
 {
   "player": "Six10",
-  "generated": "2026-10-23",
+  "generated": "2026-11-26",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2022-07-26","PG Nationals 2022 Summer Playoffs","Round 1","Cyberground Gaming","Macko Esports","LLL","","dom","S"],
@@ -13,7 +13,7 @@
     ["2023-08-05","PG Nationals 2023 Summer Playoffs","Final","Macko Esports","DSYRE","WLWW","","dom","S"],
     ["2023-08-28","EMEA Masters 2023 Summer Main Event","Quarterfinal","Macko Esports","GTZ Esports","WWW","","dom","S"],
     ["2023-08-31","EMEA Masters 2023 Summer Main Event","Semifinal","Macko Esports","Movistar Riders","LLL","","dom","S"],
-    ["2023-11-04","PG Nats Ultima Battaglia 2023","Grand Final","Macko Esports","DSYRE","WWW","","dom","S"],
+    ["2023-11-04","PG Nationals 2023 Ultima Battaglia","Grand Final","Macko Esports","DSYRE","WWW","","dom","S"],
     ["2024-03-21","LFL 2024 Spring Playoffs","Round 1","Team GO","Vitality.Bee","LLL","","dom","S"],
     ["2024-10-24","Hitpoint Winter 2024 Main Event","Quarterfinal","GLORE.FIFINE","FLY5","WWW","","dom","S"],
     ["2024-10-29","Hitpoint Winter 2024 Main Event","Semifinal","GLORE.FIFINE","eSuba","LWLL","","dom","S"],
