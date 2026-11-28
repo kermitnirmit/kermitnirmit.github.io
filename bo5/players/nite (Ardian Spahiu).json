@@ -1,6 +1,6 @@
 {
   "player": "nite (Ardian Spahiu)",
-  "generated": "2026-10-23",
+  "generated": "2026-11-28",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2018-11-18","Premier Tour 2018 Winter/Stop 2 - Vienna","Final","mousesports","SK Gaming","WWW","r","dom",""],
@@ -36,7 +36,8 @@
     ["2025-07-21","Prime League 2nd Division 2025 Summer Playoffs","Round 4","Entropy x Teufel","DKB XPERION NXT","WLLWL","","dom","S"],
     ["2025-11-17","Prime League 2nd Division 2026 Fall Relegation","Decider","Entropy x Teufel","Esport Factory","WWLW","","dom","S"],
     ["2026-02-17","Prime League 2nd Division 2026 Winter Relegation","Decider","Hannover Esports e.V.","All for One Gaming","LLL","r","dom","S"],
-    ["2026-04-11","Prime League 2nd Division 2026 Winter Relegation","Round 5","Hannover Esports e.V.","PvB (Swiss Team)","WWW","r","dom","S"]
+    ["2026-04-11","Prime League 2nd Division 2026 Winter Relegation","Round 5","Hannover Esports e.V.","PvB (Swiss Team)","WWW","r","dom","S"],
+    ["2026-11-27","Prime League 2nd Division 2027 Fall Playoffs","Round 1","Hannover Esports e.V.","DKB XPERION NXT","LLL","","dom","S"]
   ],
   "unknown": [
     ["2018-12-11","Summoner's Inn League Season 1 Playoffs","Final","mousesports","EURONICS Gaming","3-2","","dom",""]

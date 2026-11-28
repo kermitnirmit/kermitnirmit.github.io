@@ -1,6 +1,6 @@
 {
   "player": "113",
-  "generated": "2026-10-23",
+  "generated": "2026-11-28",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2020-04-18","Turkey Academy League 2020 Winter Playoffs","Semifinal","SuperMassive Academy","Istanbul Wildcats Academy","LLL","","dom","S"],
@@ -45,5 +45,7 @@
     ["2026-09-14","2026 World Star Challengers Invitational EMEA Qualifier","Final","Berlin International Gaming","Movistar KOI Fénix","LWLWL","","dom","S"],
     ["2026-10-06","EMEA Masters 2026 Summer Main Event","Round of 16","Berlin International Gaming","Galions","LLL","","dom","S"]
   ],
-  "unknown": []
+  "unknown": [
+    ["2026-11-28","GG Arena by Teknosa Season 2","Final","PCIFIC Esports","Çakıl","2-3","","dom","S"]
+  ]
 }

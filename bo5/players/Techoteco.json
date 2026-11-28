@@ -1,6 +1,6 @@
 {
   "player": "Techoteco",
-  "generated": "2026-10-23",
+  "generated": "2026-11-28",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2022-08-04","PG Proving Grounds 2022 Summer Playoffs","Round 1","DREN Esports","Outplayed Academy","WWW","","dom","S"],
@@ -40,7 +40,8 @@
     ["2026-08-15","Prime League 2nd Division 2026 Season Finals","Round 4","MT1 Esports","DKB XPERION NXT","LLL","p","dom","S"],
     ["2026-09-09","Hitpoint Masters 2026 Summer Playoffs","Round 1","CITA Kaizen","Meavedron","WWW","","dom","S"],
     ["2026-09-15","Hitpoint Masters 2026 Summer Playoffs","Round 3","CITA Kaizen","Nightbirds","LLL","","dom","S"],
-    ["2026-09-17","Hitpoint Masters 2026 Summer Playoffs","Round 3","CITA Kaizen","eSuba","WLWLL","","dom","S"]
+    ["2026-09-17","Hitpoint Masters 2026 Summer Playoffs","Round 3","CITA Kaizen","eSuba","WLWLL","","dom","S"],
+    ["2026-11-27","Prime League 2nd Division 2027 Fall Playoffs","Round 1","DKB XPERION NXT","Hannover Esports e.V.","WWW","","dom","S"]
   ],
   "unknown": [
     ["2026-02-23","Prime League 2nd Division 2026 Winter Playoffs","Round 1","MT1 Esports","DKB XPERION NXT","3-2","","dom","S"]

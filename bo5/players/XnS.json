@@ -1,6 +1,6 @@
 {
   "player": "XnS",
-  "generated": "2026-11-22",
+  "generated": "2026-11-28",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2023-03-22","PG Proving Grounds 2023 Spring Playoffs","Round 1","ENEMI3S","Atleta Esport","LWWLW","","dom","S"],
@@ -33,5 +33,7 @@
     ["2026-10-13","EMEA Masters 2026 Summer Main Event","Semifinal","Movistar KOI Fénix","Galions","LLL","","dom","S"],
     ["2026-11-19","GG Arena by Teknosa Season 2","Round 2","Çakıl","SU Esports","WWLW","","dom","S"]
   ],
-  "unknown": []
+  "unknown": [
+    ["2026-11-28","GG Arena by Teknosa Season 2","Final","Çakıl","PCIFIC Esports","3-2","","dom","S"]
+  ]
 }

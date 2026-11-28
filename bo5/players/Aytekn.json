@@ -1,6 +1,6 @@
 {
   "player": "Aytekn",
-  "generated": "2026-11-22",
+  "generated": "2026-11-28",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2022-03-22","Turkey Academy League 2022 Winter Playoffs","Semifinal","SuperMassive Blaze Academy","Istanbul Wildcats Academy","LWWW","","dom","S"],
@@ -30,5 +30,7 @@
     ["2026-10-06","EMEA Masters 2026 Summer Main Event","Round of 16","Bushido Wildcats","TLN Pirates","LLL","","dom","S"],
     ["2026-11-19","GG Arena by Teknosa Season 2","Round 2","Çakıl","SU Esports","WWLW","","dom","S"]
   ],
-  "unknown": []
+  "unknown": [
+    ["2026-11-28","GG Arena by Teknosa Season 2","Final","Çakıl","PCIFIC Esports","3-2","","dom","S"]
+  ]
 }

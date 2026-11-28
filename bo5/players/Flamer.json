@@ -1,6 +1,6 @@
 {
   "player": "Flamer",
-  "generated": "2026-10-23",
+  "generated": "2026-11-28",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2022-04-11","Prime League 2nd Division 2022 Spring Playoffs","Round 2","Hertha BSC eSport","No Need Orga","LWWLL","","dom","S"],
@@ -37,7 +37,8 @@
     ["2026-08-23","Prime League 2nd Division 2026 Season Finals","Final","All for One Gaming","CGN Esports","LLWL","","dom","S"],
     ["2026-09-07","Prime League 1st Division 2027 Promotion","Round 1","All for One Gaming","Eintracht Frankfurt","WWLLL","","dom","S"],
     ["2026-09-15","Prime League 1st Division 2027 Promotion","Round 1","All for One Gaming","VfB eSports","WWLW","","dom","S"],
-    ["2026-09-17","Prime League 1st Division 2027 Promotion","Round 2","All for One Gaming","Eintracht Frankfurt","WWLLL","","dom","S"]
+    ["2026-09-17","Prime League 1st Division 2027 Promotion","Round 2","All for One Gaming","Eintracht Frankfurt","WWLLL","","dom","S"],
+    ["2026-11-27","Prime League 2nd Division 2027 Fall Playoffs","Round 1","DKB XPERION NXT","Hannover Esports e.V.","WWW","","dom","S"]
   ],
   "unknown": []
 }

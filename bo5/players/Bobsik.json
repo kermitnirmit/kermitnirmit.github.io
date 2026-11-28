@@ -1,6 +1,6 @@
 {
   "player": "Bobsik",
-  "generated": "2026-10-23",
+  "generated": "2026-11-28",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2022-05-28","Hitpoint 3rd Division 2022 Spring Playoffs","Semifinal","LAForce","NecroRaisers","LLL","r","dom","S"],
@@ -22,7 +22,8 @@
     ["2026-05-29","Hitpoint Masters 2026 Spring Playoffs","Round 1","eSuba","Bohemian Guardians","WWW","","dom","S"],
     ["2026-05-31","Hitpoint Masters 2026 Spring Playoffs","Round 2","eSuba","Meavedron","WWW","","dom","S"],
     ["2026-06-02","Hitpoint Masters 2026 Spring Playoffs","Round 3","eSuba","Nightbirds","LLL","","dom","S"],
-    ["2026-09-25","LES 2027 Promotion","Round 3","Falke Esports","Kawaii Kiwis","WWLLL","","dom","S"]
+    ["2026-09-25","LES 2027 Promotion","Round 3","Falke Esports","Kawaii Kiwis","WWLLL","","dom","S"],
+    ["2026-11-27","Prime League 2nd Division 2027 Fall Playoffs","Round 1","Hannover Esports e.V.","DKB XPERION NXT","LLL","","dom","S"]
   ],
   "unknown": [
     ["2022-05-25","Hitpoint 3rd Division 2022 Spring Playoffs","Round 1","LAForce","MINDCAT Esports","3-2","","dom","S"],

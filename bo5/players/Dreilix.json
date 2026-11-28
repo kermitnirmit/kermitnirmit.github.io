@@ -1,6 +1,6 @@
 {
   "player": "Dreilix",
-  "generated": "2026-10-23",
+  "generated": "2026-11-28",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2023-04-03","Prime League 2nd Division 2023 Summer Promotion","Round 1","TeamOrangeGaming","Boutgamers sexy edition","WLWW","","dom","S"],
@@ -31,7 +31,8 @@
     ["2026-08-08","Prime League 2nd Division 2026 Season Finals","Round 4","DKB XPERION NXT","PvB (Swiss Team)","WLWLL","","dom","S"],
     ["2026-08-15","Prime League 2nd Division 2026 Season Finals","Round 4","DKB XPERION NXT","MT1 Esports","WWW","","dom","S"],
     ["2026-08-17","Prime League 2nd Division 2026 Season Finals","Round 5","DKB XPERION NXT","PvB (Swiss Team)","WLWW","","dom","S"],
-    ["2026-08-21","Prime League 2nd Division 2026 Season Finals","Round 6","DKB XPERION NXT","All for One Gaming","LLWWL","","dom","S"]
+    ["2026-08-21","Prime League 2nd Division 2026 Season Finals","Round 6","DKB XPERION NXT","All for One Gaming","LLWWL","","dom","S"],
+    ["2026-11-27","Prime League 2nd Division 2027 Fall Playoffs","Round 1","DKB XPERION NXT","Hannover Esports e.V.","WWW","","dom","S"]
   ],
   "unknown": [
     ["2026-02-23","Prime League 2nd Division 2026 Winter Playoffs","Round 1","DKB XPERION NXT","MT1 Esports","2-3","","dom","S"]

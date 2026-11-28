@@ -1,6 +1,6 @@
 {
   "player": "Ragner",
-  "generated": "2026-10-23",
+  "generated": "2026-11-28",
   "fields": ["date","event","round","team","opponent","games","flag","kind","level"],
   "series": [
     ["2018-08-26","TCL 2018 Summer Playoffs","Quarterfinal","Bursaspor Esports","Fenerbahçe Esports","LLWL","","dom","P"],
@@ -55,5 +55,7 @@
     ["2026-06-05","TCL 2026 Spring Playoffs","Final","Misa Esports","PCIFIC Esports","WWW","","dom","S"],
     ["2026-06-13","EMEA Masters 2026 Spring Main Event","Quarterfinal","Misa Esports","Galions","LLL","","dom","S"]
   ],
-  "unknown": []
+  "unknown": [
+    ["2026-11-28","GG Arena by Teknosa Season 2","Final","PCIFIC Esports","Çakıl","2-3","","dom","S"]
+  ]
 }
